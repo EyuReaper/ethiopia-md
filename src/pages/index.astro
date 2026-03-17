@@ -206,6 +206,65 @@ const graphData = JSON.stringify({ nodes: graphNodes, edges: graphEdges });
     </div>
   </section>
 
+  <!-- 5 篇認識台灣推薦路線 -->
+  <section class="reading-path">
+    <div class="reading-path-header">
+      <h2>📖 不知道從哪開始？</h2>
+      <p>用這 5 篇文章，在 30 分鐘內認識真正的台灣</p>
+    </div>
+    <div class="reading-path-list">
+      <a href="/history/民主化" class="reading-step">
+        <span class="step-number">1</span>
+        <div class="step-content">
+          <h3>寧靜革命：台灣民主化</h3>
+          <p>從威權到民主，亞洲第一的和平轉型奇蹟</p>
+        </div>
+        <span class="step-time">6 min</span>
+      </a>
+      
+      <a href="/culture/族群（閩南客家原住民外省新住民）" class="reading-step">
+        <span class="step-number">2</span>
+        <div class="step-content">
+          <h3>多元一體：台灣族群</h3>
+          <p>四大族群共同編織的多彩文化基底</p>
+        </div>
+        <span class="step-time">7 min</span>
+      </a>
+      
+      <a href="/food/夜市文化" class="reading-step">
+        <span class="step-number">3</span>
+        <div class="step-content">
+          <h3>最真實的台灣味：夜市文化</h3>
+          <p>密度世界第一的庶民美食社交空間</p>
+        </div>
+        <span class="step-time">5 min</span>
+      </a>
+      
+      <a href="/technology/半導體產業" class="reading-step">
+        <span class="step-number">4</span>
+        <div class="step-content">
+          <h3>護國神山：半導體產業</h3>
+          <p>台積電如何讓小島成為全球科技心臟</p>
+        </div>
+        <span class="step-time">8 min</span>
+      </a>
+      
+      <a href="/lifestyle/便利商店文化" class="reading-step">
+        <span class="step-number">5</span>
+        <div class="step-content">
+          <h3>生活作業系統：便利商店</h3>
+          <p>不只是商店，而是整個國家的基礎建設</p>
+        </div>
+        <span class="step-time">4 min</span>
+      </a>
+    </div>
+    
+    <div class="reading-path-footer">
+      <p>⏱️ <strong>總計 30 分鐘</strong> | 🎯 <strong>跨越 5 大領域</strong> | 🌟 <strong>完整認識台灣</strong></p>
+      <a href="#categories" class="path-continue-btn">繼續探索更多主題 →</a>
+    </div>
+  </section>
+
   <section class="features">
     <h2 class="section-title">為什麼需要 Taiwan.md？</h2>
     <div class="features-grid">
@@ -764,6 +823,183 @@ const graphData = JSON.stringify({ nodes: graphNodes, edges: graphEdges });
     letter-spacing: 0.02em;
   }
   
+  /* ===== 5 篇認識台灣推薦路線 ===== */
+  .reading-path {
+    max-width: 900px;
+    margin: 6rem auto;
+    padding: 3rem 2rem;
+    background: linear-gradient(135deg, #f0fdf4 0%, #ecfdf5 100%);
+    border-radius: 20px;
+    border: 1px solid rgba(34, 197, 94, 0.1);
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .reading-path::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: url("data:image/svg+xml,%3Csvg width='40' height='40' viewBox='0 0 40 40' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%2322c55e' fill-opacity='0.03' fill-rule='evenodd'%3E%3Cpath d='m0 40 40-40h-40z'/%3E%3Cpath d='m0 40 40-40h-40z' transform='scale(.5) translate(40 0)'/%3E%3C/g%3E%3C/svg%3E");
+    opacity: 0.4;
+  }
+  
+  .reading-path-header {
+    text-align: center;
+    margin-bottom: 3rem;
+    position: relative;
+    z-index: 2;
+  }
+  
+  .reading-path-header h2 {
+    font-size: 2.2rem;
+    font-weight: 800;
+    color: #166534;
+    margin-bottom: 1rem;
+    font-family: "Noto Serif TC", "Source Han Serif TC", "PMingLiU", serif;
+    letter-spacing: 0.05em;
+  }
+  
+  .reading-path-header p {
+    font-size: 1.2rem;
+    color: #16a34a;
+    font-weight: 600;
+    line-height: 1.6;
+  }
+  
+  .reading-path-list {
+    position: relative;
+    z-index: 2;
+  }
+  
+  /* 路線連接線 */
+  .reading-path-list::before {
+    content: '';
+    position: absolute;
+    left: 2.5rem;
+    top: 4rem;
+    bottom: 4rem;
+    width: 3px;
+    background: linear-gradient(
+      180deg,
+      rgba(34, 197, 94, 0.3) 0%,
+      #22c55e 25%,
+      #16a34a  50%,
+      #15803d  75%,
+      rgba(34, 197, 94, 0.3) 100%
+    );
+    border-radius: 2px;
+    z-index: 1;
+  }
+  
+  .reading-step {
+    display: flex;
+    align-items: center;
+    padding: 2rem 1.5rem;
+    margin-bottom: 1rem;
+    background: white;
+    border-radius: 16px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    border: 2px solid rgba(34, 197, 94, 0.1);
+    position: relative;
+    z-index: 2;
+    gap: 1.5rem;
+    box-shadow: 0 2px 8px rgba(22, 163, 74, 0.08);
+  }
+  
+  .reading-step:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 25px rgba(22, 163, 74, 0.15);
+    border-color: rgba(34, 197, 94, 0.25);
+    background: rgba(240, 253, 244, 0.6);
+  }
+  
+  .step-number {
+    flex-shrink: 0;
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #22c55e, #16a34a);
+    color: white;
+    font-size: 1.3rem;
+    font-weight: 800;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 12px rgba(34, 197, 94, 0.3);
+  }
+  
+  .step-content {
+    flex: 1;
+  }
+  
+  .step-content h3 {
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: #166534;
+    margin-bottom: 0.5rem;
+    line-height: 1.3;
+    font-family: "Noto Serif TC", "Source Han Serif TC", "PMingLiU", serif;
+  }
+  
+  .step-content p {
+    color: #16a34a;
+    font-size: 1rem;
+    line-height: 1.5;
+    margin: 0;
+    font-weight: 500;
+  }
+  
+  .step-time {
+    flex-shrink: 0;
+    background: rgba(22, 163, 74, 0.1);
+    color: #166534;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    border: 1px solid rgba(34, 197, 94, 0.2);
+  }
+  
+  .reading-path-footer {
+    text-align: center;
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 1px solid rgba(34, 197, 94, 0.2);
+    position: relative;
+    z-index: 2;
+  }
+  
+  .reading-path-footer p {
+    font-size: 1.1rem;
+    color: #16a34a;
+    margin-bottom: 1.5rem;
+    font-weight: 600;
+  }
+  
+  .path-continue-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.8rem 2rem;
+    background: linear-gradient(135deg, #22c55e, #16a34a);
+    color: white;
+    text-decoration: none;
+    border-radius: 50px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 12px rgba(34, 197, 94, 0.3);
+  }
+  
+  .path-continue-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(34, 197, 94, 0.4);
+    background: linear-gradient(135deg, #16a34a, #15803d);
+  }
+
   /* ===== FEATURES SECTION 升級 ===== */
   .features {
     margin: 6rem 0;
@@ -1276,6 +1512,39 @@ const graphData = JSON.stringify({ nodes: graphNodes, edges: graphEdges });
 
     .section-divider {
       padding: 0 1rem;
+    }
+
+    /* 推薦路線響應式 */
+    .reading-path {
+      margin: 4rem 1rem;
+      padding: 2rem 1rem;
+    }
+    
+    .reading-path-list::before {
+      display: none; /* 手機版隱藏連接線 */
+    }
+    
+    .reading-step {
+      flex-direction: column;
+      text-align: center;
+      padding: 1.5rem;
+      gap: 1rem;
+    }
+    
+    .step-content h3 {
+      font-size: 1.1rem;
+    }
+    
+    .step-content p {
+      font-size: 0.9rem;
+    }
+    
+    .reading-path-header h2 {
+      font-size: 1.8rem;
+    }
+    
+    .reading-path-header p {
+      font-size: 1rem;
     }
   }
 
