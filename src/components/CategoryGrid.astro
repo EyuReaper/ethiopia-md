@@ -133,10 +133,11 @@ const langPrefix = lang === 'en' ? '/en' : '';
 
 <section class="category-grid" aria-label="台灣知識分類">
   {categories.map((category, index) => (
-    <a href={`${langPrefix}/${category.slug}`} class="category-card" data-color={category.color}>
+    <article>
+    <a href={`${langPrefix}/${category.slug}`} class="category-card" data-color={category.color} aria-label={`探索${category.name}主題`}>
       <div class="category-header">
         {category.cover ? (
-          <img src={category.cover} alt={category.name} class="category-cover" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'" />
+          <img src={category.cover} alt={`${category.name}主題相關圖片`} class="category-cover" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'" />
         ) : null}
         <div class="category-icon" style={category.cover ? 'display:none' : ''}>{category.icon}</div>
         <div class="category-gradient"></div>
@@ -157,6 +158,7 @@ const langPrefix = lang === 'en' ? '/en' : '';
         </div>
       </div>
     </a>
+    </article>
   ))}
 </section>
 
