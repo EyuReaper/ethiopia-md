@@ -8,6 +8,10 @@ const zhTWCollection = defineCollection({
     tags: z.array(z.string()).optional(),
     date: z.date().optional(),
     draft: z.boolean().optional(),
+    category: z.string().optional(),
+    author: z.string().optional(),
+    readingTime: z.number().optional(),
+    featured: z.boolean().optional(),
   }),
 });
 
@@ -19,6 +23,10 @@ const enCollection = defineCollection({
     tags: z.array(z.string()).optional(),
     date: z.date().optional(),
     draft: z.boolean().optional(),
+    category: z.string().optional(),
+    author: z.string().optional(),
+    readingTime: z.number().optional(),
+    featured: z.boolean().optional(),
   }),
 });
 
