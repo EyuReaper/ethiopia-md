@@ -114,7 +114,7 @@ docs/
 **SSOT:** All content lives in `knowledge/`. Website is a projection.  
 **SEO:** JSON-LD · Open Graph · Twitter Cards · RSS · Canonical URLs · `<meta ai-summary>`  
 **i18n:** zh-TW (default SSOT) + en (100% coverage)  
-**Quality:** All articles require source citations. AI-assisted content undergoes fact-checking before merge. See [CONTRIBUTING.md](./CONTRIBUTING.md).  
+**Quality:** All articles require source citations **with clickable URLs** — no plain-text references. AI-assisted content undergoes fact-checking before merge. See [CONTRIBUTING.md](./CONTRIBUTING.md).  
 
 ---
 
