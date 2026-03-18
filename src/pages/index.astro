@@ -515,7 +515,7 @@ const randomArticlesData = JSON.stringify(allArticles);
   document.addEventListener('DOMContentLoaded', function() {
     // Random discovery functionality
     const randomBtn = document.getElementById('random-discovery-btn');
-    const articles = JSON.parse(randomArticlesData);
+    const articles = randomArticlesData ? JSON.parse(randomArticlesData) : [];
     
     if (randomBtn && articles.length > 0) {
       randomBtn.addEventListener('click', function() {
