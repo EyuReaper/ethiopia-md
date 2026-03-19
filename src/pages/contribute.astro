@@ -123,6 +123,49 @@ import Layout from '../layouts/Layout.astro';
           </div>
 
         </div>
+
+        <div class="org-section">
+          <h3 class="org-title">🏢 機構、政府單位與企業</h3>
+          <p class="org-desc">Taiwan.md 歡迎各類組織以不同形式參與，共同建構台灣的數位知識基礎建設。</p>
+          
+          <div class="org-grid">
+            <div class="org-card">
+              <div class="org-icon">🏛️</div>
+              <h4>政府機關 / 公部門</h4>
+              <p>提供官方開放資料、統計數據、政策文件。協助事實查核與內容校正。授權使用政府出版品內容或 CC 授權圖片。</p>
+              <div class="org-example">例：文化部、觀光署、原民會、農業部、國史館</div>
+            </div>
+
+            <div class="org-card">
+              <div class="org-icon">🎓</div>
+              <h4>學術機構 / 研究單位</h4>
+              <p>協助撰寫或審核專業領域文章。提供研究數據與學術觀點。推薦學生以 Taiwan.md 作為開放知識實踐場域。</p>
+              <div class="org-example">例：中研院、大學台灣文學系所、博物館、文史工作室</div>
+            </div>
+
+            <div class="org-card">
+              <div class="org-icon">🏢</div>
+              <h4>企業 / 商業組織</h4>
+              <p>贊助營運（伺服器、翻譯、社群活動）。以 Gold / Silver / Bronze Sponsor 身份展示品牌。鼓勵員工以志工方式參與內容貢獻。</p>
+              <div class="org-example">例：科技公司、出版社、文化基金會、國際企業 CSR</div>
+            </div>
+
+            <div class="org-card">
+              <div class="org-icon">🌏</div>
+              <h4>NGO / 國際組織</h4>
+              <p>協助多語翻譯與國際推廣。提供人權、環境、社會議題的在地觀點。將 Taiwan.md 作為國際教育資源引用。</p>
+              <div class="org-example">例：台灣民主基金會、文化交流協會、海外台灣人社群</div>
+            </div>
+          </div>
+
+          <div class="org-contact">
+            <p><strong>合作聯繫：</strong></p>
+            <p>📧 <a href="mailto:cheyu.wu@monoame.com">cheyu.wu@monoame.com</a></p>
+            <p>信件標題請註明「Taiwan.md 合作洽談 — [單位名稱]」</p>
+            <p class="org-note">我們會在 3 個工作日內回覆。歡迎任何形式的合作提案。</p>
+          </div>
+        </div>
+
       </div>
     </section>
 
@@ -612,6 +655,72 @@ import Layout from '../layouts/Layout.astro';
     color: #4A7C59;
     font-weight: 600;
   }
+
+  /* 機構合作區塊 */
+  .org-section {
+    margin-top: 3rem;
+    padding-top: 3rem;
+    border-top: 2px solid #A7C4A0;
+  }
+  .org-title {
+    text-align: center;
+    font-size: 1.5rem;
+    color: #2D5016;
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+  }
+  .org-desc {
+    text-align: center;
+    color: #4A5D23;
+    margin-bottom: 2rem;
+    font-size: 1rem;
+  }
+  .org-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.25rem;
+    margin-bottom: 2rem;
+  }
+  @media (max-width: 768px) { .org-grid { grid-template-columns: 1fr; } }
+  .org-card {
+    background: rgba(255, 255, 255, 0.95);
+    border: 2px solid #A7C4A0;
+    border-radius: 16px;
+    padding: 1.5rem;
+    transition: all 0.3s ease;
+  }
+  .org-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 24px rgba(45, 80, 22, 0.1);
+  }
+  .org-icon { font-size: 1.8rem; margin-bottom: 0.5rem; }
+  .org-card h4 {
+    font-size: 1.05rem;
+    color: #2D5016;
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+  }
+  .org-card p {
+    font-size: 0.88rem;
+    color: #4A5D23;
+    line-height: 1.6;
+    margin-bottom: 0.5rem;
+  }
+  .org-example {
+    font-size: 0.8rem;
+    color: #6B8E23;
+    font-style: italic;
+  }
+  .org-contact {
+    background: rgba(74, 124, 89, 0.08);
+    border: 2px solid #A7C4A0;
+    border-radius: 16px;
+    padding: 1.5rem 2rem;
+    text-align: center;
+  }
+  .org-contact p { color: #2D5016; margin-bottom: 0.4rem; font-size: 0.95rem; }
+  .org-contact a { color: #4A7C59; font-weight: 700; }
+  .org-note { font-size: 0.85rem; color: #6B8E23; margin-top: 0.5rem; }
 
   /* 新增的寫作指南區塊 */
   .writing-guides {
