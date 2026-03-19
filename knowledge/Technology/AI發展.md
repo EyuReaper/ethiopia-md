@@ -1,4 +1,5 @@
 ---
+
 title: "AI島國的崛起：台灣人工智慧發展與未來策略"
 description: "從AlphaGo震撼到生成式AI浪潮，台灣如何以「小國大戰略」在人工智慧領域找到獨特定位"
 category: "Technology"
@@ -7,6 +8,7 @@ author: "Taiwan.md"
 tags: ["人工智慧", "AI政策", "半導體", "科技政策", "數位轉型", "創新"]
 readingTime: 15
 featured: true
+lastVerified: 2026-03-19
 ---
 
 # AI島國的崛起：台灣人工智慧發展與未來策略

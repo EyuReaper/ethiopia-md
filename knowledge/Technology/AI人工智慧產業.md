@@ -1,4 +1,5 @@
 ---
+
 title: "AI人工智慧產業"
 description: "台灣AI產業發展現況，從半導體優勢到應用場景，探討科技島國的智慧轉型之路"
 date: 2026-03-18
@@ -8,6 +9,7 @@ difficulty: "intermediate"
 readingTime: 8
 featured: true
 category: "Technology"
+lastVerified: 2026-03-19
 ---
 
 # AI人工智慧產業

@@ -1,0 +1,32 @@
+# Taiwan.md CODEOWNERS
+# 分類 maintainer 制度 — 每個領域有專人負責品質審核
+# 目前由核心團隊統一審核，歡迎申請成為分類 maintainer
+
+# 全站（預設）
+* @frank890417
+
+# 核心設定（需 owner 審核）
+astro.config.mjs @frank890417
+src/layouts/ @frank890417
+src/components/ @frank890417
+.github/ @frank890417
+
+# 內容分類（歡迎申請 maintainer）
+# knowledge/Art/ @frank890417
+# knowledge/Culture/ @frank890417
+# knowledge/Economy/ @frank890417
+# knowledge/Food/ @frank890417
+# knowledge/Geography/ @frank890417
+# knowledge/History/ @frank890417
+# knowledge/Lifestyle/ @frank890417
+# knowledge/Music/ @frank890417
+# knowledge/Nature/ @frank890417
+# knowledge/People/ @frank890417
+# knowledge/Society/ @frank890417
+# knowledge/Technology/ @frank890417
+
+# 英文翻譯
+knowledge/en/ @frank890417
+
+# 腳本與工具
+scripts/ @frank890417
