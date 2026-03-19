@@ -7,3 +7,26 @@ https://upload.wikimedia.org/wikipedia/commons/9/94/Taipei_Taiwan_Presidential-O
 https://upload.wikimedia.org/wikipedia/commons/b/bf/Sec._1%2C_Hankou_Street%2C_Zhongzheng_District%2C_Taipei_City_%28Taiwan%29.JPG → /images/wiki/1bccb5c02c18.jpg
 https://upload.wikimedia.org/wikipedia/commons/e/e9/Formosan_Black_Bear.JPG → /images/wiki/783bf3227078.jpg
 https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/TimeForTea_BubbleTea.JPG/480px-TimeForTea_BubbleTea.JPG → /images/wiki/5cce5de10c26.jpg
+# Downloaded 2026/03/19 — batch download via MediaWiki API (1024px thumbnails)
+https://commons.wikimedia.org/wiki/File:Legislative_Yuan_Building_20240626.jpg → /images/wiki/0b2be9fb3977.jpg
+https://commons.wikimedia.org/wiki/File:7-Eleven_Minyou_Store_and_FamilyMart_Fubei_Store_20240323.jpg → /images/wiki/18dae3226cf0.jpg
+https://commons.wikimedia.org/wiki/File:Taiwanese_Beef_Noodle_Soup.jpg → /images/wiki/4eea1b8cf86b.jpg
+https://commons.wikimedia.org/wiki/File:Audrey_Tang_in_2015_(cropped).jpg → /images/wiki/52c5be9f282c.jpg
+https://commons.wikimedia.org/wiki/File:228_Incident_h.jpg → /images/wiki/5574c67feb12.jpg
+https://commons.wikimedia.org/wiki/File:Taiwanese_beef_noodles.jpg → /images/wiki/5be514264de6.jpg
+https://commons.wikimedia.org/wiki/File:Taiwan_Gay_Pride_Parade_2016_91.jpg → /images/wiki/76b17af8726c.jpg
+https://commons.wikimedia.org/wiki/File:Chiang_Kai-shek_memorial_amk.jpg → /images/wiki/aeba97222b07.jpg
+https://commons.wikimedia.org/wiki/File:ShiLin.jpg → /images/wiki/b2a91d2ee489.jpg
+https://commons.wikimedia.org/wiki/File:蔡英文官方元首肖像照.png → /images/wiki/b3f3be4fb2b6.jpg
+https://commons.wikimedia.org/wiki/File:Ang_Lee_-_66ème_Festival_de_Venise_(Mostra).jpg → /images/wiki/c1deab8511ba.jpg
+https://commons.wikimedia.org/wiki/File:Mayday_on_Mercuries_Life_press_conference_at_Red_House_Theater_20131125.jpg → /images/wiki/ddb5b26935ba.jpg
+https://commons.wikimedia.org/wiki/File:Taipei_101_2009_amk.jpg → /images/wiki/e78df09feea3.jpg
+https://commons.wikimedia.org/wiki/File:2021大甲媽祖遶境_02.jpg → /images/wiki/f04323aed8cc.jpg
+https://commons.wikimedia.org/wiki/File:ATT_4_Fun_in_the_rain_20120405.jpg → /images/wiki/f80cd70cdca2.jpg
+https://commons.wikimedia.org/wiki/File:Oncorhynchus_masou_formosanus.jpg → /images/wiki/fcb292021fe7.jpg
+# Descriptive-name images (no original hash, sourced from Commons)
+https://commons.wikimedia.org/wiki/File:TW_台灣_Taiwan_台北_Taipei_遼寧街_Liaoning_Street_南京東路_Nanjing_East_Road_騎樓走廊_restaurant_sign_March_2024_R12S_06.jpg → /images/wiki/taiwan_arcade.jpg
+https://commons.wikimedia.org/wiki/File:Preparing_Ban-toh_by_小P_of_g0v_04.jpg → /images/wiki/taiwan_banquet.jpg
+https://commons.wikimedia.org/wiki/File:TW_台灣_Taiwan_台北_Taipei_遼寧街_Liaoning_Street_shop_洪記豆漿大王_Hongji_Soy_Milk_King_Restaurant_Hung_Kee_morning_早餐店_breakfast_March_2024_R12S_07.jpg → /images/wiki/taiwan_breakfast.jpg
+https://commons.wikimedia.org/wiki/File:Irwin_Mango_20110726.jpg → /images/wiki/taiwan_fruits.jpg
+https://commons.wikimedia.org/wiki/File:ROC-NHI_IC_card_20130220_face.jpg → /images/wiki/taiwan_health_card.jpg
