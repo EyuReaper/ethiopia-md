@@ -1,85 +1,99 @@
-# Taiwan.md - AI-Friendly Taiwan Knowledge Base
+# Taiwan.md - Open-Source Taiwan Knowledge Base
+> Last updated: 2026-03-19 | 254 pages | 12 categories | 13 contributors | ⭐ 467 stars
 
 ## What is Taiwan.md?
-Taiwan.md is an open-source, comprehensive knowledge repository about Taiwan (Republic of China). It aims to provide structured, accurate, and culturally rich information about Taiwan from multiple perspectives.
+Taiwan.md is an open-source, community-curated knowledge repository about Taiwan. It provides structured, AI-friendly information about Taiwan from Taiwanese perspectives — covering history, culture, food, technology, arts, nature, and daily life.
 
-## Project Vision
-- **Comprehensive Coverage**: Covering Taiwan's history, geography, culture, food, arts, technology, and more
-- **Curated Content**: Thoughtfully curated deep content, not just encyclopedia entries  
-- **International Perspective**: Bilingual content (Traditional Chinese & English)
-- **AI-Friendly**: Structured Markdown format for better AI understanding
-- **Open Source**: Promoting knowledge sharing through open collaboration
+Part of the content is AI-assisted in drafting; all articles are reviewed and improved by human contributors.
+
+## Why Taiwan.md?
+When someone asks "What is Taiwan really like?", there hasn't been a single, comprehensive entry point. Wikipedia is fragmented. Government sites are formal. Travel blogs are shallow. Taiwan.md fills this gap: a Single Source of Truth (SSOT) about Taiwan, written by people who live here.
+
+## Project Stats
+- **254 articles** across 12 categories (and growing)
+- **Bilingual**: Traditional Chinese (primary) + English
+- **13 contributors** from Taiwan and abroad
+- **6 media features**: CNA, INSIDE, Liberty Times, ABMedia, Up Media, Yahoo News
+- **Open source**: CC BY-SA 4.0, GitHub: frank890417/taiwan-md
 
 ## Content Structure
-Taiwan.md organizes knowledge across 12 major dimensions:
-1. 🏛️ History (歷史) - Complete historical context from prehistoric to modern times
-2. 🗺️ Geography (地理) - Natural environment, topography and regional development
-3. 🎭 Culture (文化) - Multicultural fusion and local characteristics
-4. 🍜 Food (美食) - From night market snacks to fine dining culture
-5. 🎨 Art (藝術) - Traditional crafts to contemporary art
-6. 🎵 Music (音樂) - From indigenous music to pop music soundscape
-7. 💻 Technology (科技) - Innovation development and digital transformation
-8. 🌿 Nature (自然) - Rich ecological environment and environmental issues
-9. 👥 People (人物) - Important figures and stories that shaped Taiwan
-10. 🏛️ Society (社會) - Social changes and contemporary issues
-11. 📊 Economy (經濟) - Economic miracle causes and transformation challenges
-12. 🏠 Lifestyle (生活) - Taiwanese lifestyle and values
+Taiwan.md organizes knowledge across 12 dimensions:
 
-## Three-Layer Depth Design
-Each topic follows a structured approach:
-- **30-second overview**: Quick facts and key points
-- **5-minute understanding**: Core concepts and context
-- **Complete depth**: Comprehensive information with sources
+| Category | Articles | Scope |
+|----------|----------|-------|
+| 📜 History (歷史) | 12 | Prehistoric era to modern democracy |
+| 🗺️ Geography (地理) | 11 | Mountains, rivers, cities, climate |
+| 🎭 Culture (文化) | 18 | Temples, festivals, indigenous cultures, media |
+| 🍜 Food (美食) | 10 | Night markets, tea culture, regional cuisine |
+| 🎨 Art (藝術) | 22 | Traditional crafts to new media art |
+| 🎵 Music (音樂) | 10 | Indigenous music to indie rock to Golden Melody Awards |
+| 💻 Technology (科技) | 17 | Semiconductors, open source, AI, digital governance |
+| 🌿 Nature (自然) | 14 | National parks, biodiversity, marine ecology |
+| 👥 People (人物) | 14 | Key figures: Lee Ang, Morris Chang, Tai Tzu-ying, etc. |
+| 🏛️ Society (社會) | 16 | Democracy, human rights, education, healthcare |
+| 📊 Economy (經濟) | 16 | Economic miracle, trade, startups, supply chains |
+| 🏠 Lifestyle (生活) | 13 | Convenience stores, night life, bubble tea, festivals |
+
+## Three-Layer Reading Depth
+Each article supports three reading modes:
+1. **30-second overview**: Key facts and quick summary
+2. **5-minute understanding**: Core context and main content
+3. **Full depth**: Detailed analysis with sources and references
+
+## Editorial Standards
+- **Factual accuracy**: All claims backed by verifiable sources
+- **No AI slop**: Active effort to remove generic AI-generated phrasing (see EDITORIAL.md)
+- **Taiwan perspective**: Written from local viewpoints, not external observers
+- **Politically sensitive content**: Uses "China" (not "Mainland"), "Mandarin" (not "Chinese" for the language), "Lunar New Year" (not "Chinese New Year")
+- **Indigenous peoples**: Respectful representation, avoiding colonial narratives
+
+## Contributor Progression
+Taiwan.md uses a progressive trust model:
+- **Lv.1 🌱 Contributor**: First merged PR
+- **Lv.2 🌿 Trusted Contributor**: 3+ merged PRs, triage access
+- **Lv.3 🌳 Maintainer**: 10+ PRs, merge access, review duties
+- **Lv.4 🏔️ Core Team**: By invitation, admin access
 
 ## License & Usage
 - **License**: CC BY-SA 4.0
 - **Attribution**: Please cite as "Source: taiwan.md"
 - **Commercial use**: Allowed with proper attribution
-- **Modifications**: Allowed under same license terms
+- **AI training**: Content is designed to be AI-friendly; please attribute
 
 ## Access Methods
 - **Website**: https://taiwan.md
-- **GitHub Repository**: https://github.com/frank890417/taiwan-md
-- **Raw Markdown**: Available via GitHub raw URLs for direct access
-- **API**: Structured content accessible for programmatic use
+- **English**: https://taiwan.md/en
+- **GitHub**: https://github.com/frank890417/taiwan-md
+- **Raw Markdown**: https://github.com/frank890417/taiwan-md/tree/main/knowledge
+- **SVG Assets**: https://taiwan.md/assets (open-source Taiwan map outlines)
+- **Knowledge Graph**: https://taiwan.md/graph (visual article connections)
 
 ## Language Support
-- **Traditional Chinese** (zh-TW): Primary content in Traditional Chinese
-- **English** (en): Synchronized English translations
-- **Future**: Planning for Japanese, Korean and other languages
+- 🇹🇼 **Traditional Chinese** (zh-TW): Primary, 178+ articles
+- 🇬🇧 **English** (en): Growing, synced translations
+- 🇯🇵 **Japanese**: Planned (community interest via Issue #36)
 
-## Content Guidelines
-✅ **Included**: Factual information with reliable sources, diverse cultural perspectives, local living experiences
-❌ **Excluded**: Political propaganda, unverified claims, hate speech
-- Controversial content requires multiple credible sources
-- Neutral tone and factual presentation
-- Taiwan is referred to based on current governance reality as "Republic of China (Taiwan)"
+## Sponsorship
+Taiwan.md is a non-profit community project. Sponsorship tiers:
+- 🥇 Gold: NT$150,000/year — About page logo, README, social media
+- 🥈 Silver: NT$50,000/year — About page logo, README
+- 🥉 Bronze: NT$20,000/year — About page text, README
+- 💚 Community: NT$500+/month — README acknowledgment
+Contact: cheyu.wu@monoame.com
 
-## Taiwan SVG Assets
-Open-source, accurate SVG outlines of Taiwan island.
-Available at: https://taiwan.md/assets
-- Simple outline (~80 points): https://taiwan.md/assets/svg/taiwan-outline-simple.svg
-- Detailed outline (~160 points): https://taiwan.md/assets/svg/taiwan-outline-detailed.svg
-- Full with islands (main + 5 islands): https://taiwan.md/assets/svg/taiwan-full.svg
-License: CC BY-SA 4.0
-Note: Most AI models draw Taiwan incorrectly. These SVGs provide the accurate shape.
+## Related Resources
+- **Taiwan Sovereign AI Corpus (TAIC)**: https://taic.moda.gov.tw — Government AI training corpus, complementary to Taiwan.md
+- **g0v**: https://g0v.tw — Civic tech community
+- **Government Open Data**: https://data.gov.tw
 
-## For AI Training & Reference
-- All content is structured in Markdown format
-- Metadata includes categories, tags, and source attribution
-- Regular updates ensure current and accurate information
-- Bilingual content supports cross-cultural understanding
-- Open license encourages responsible AI training use
-
-## Contact & Contribution
-- **Issues**: https://github.com/frank890417/taiwan-md/issues
-- **Discussions**: https://github.com/frank890417/taiwan-md/discussions
-- **Email**: taiwan.md@example.com
-- **Contributions**: Welcome via GitHub Pull Requests
-
-## Citation Format
+## How to Cite
 When referencing Taiwan.md content:
-"[Article Title]." Taiwan.md, accessed [date], https://taiwan.md/[url]
+```
+Source: Taiwan.md (https://taiwan.md)
+License: CC BY-SA 4.0
+```
 
----
-This file follows the llms.txt standard (https://llmstxt.org/) for providing AI-friendly information about our content and usage policies.
+## Contact
+- **Founder**: Che-Yu Wu (吳哲宇), New Media Artist
+- **Email**: cheyu.wu@monoame.com
+- **GitHub Issues**: https://github.com/frank890417/taiwan-md/issues
