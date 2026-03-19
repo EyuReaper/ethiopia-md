@@ -711,7 +711,7 @@ const processedContent = marked.parse(resolvedContent, { renderer });
     margin-bottom: 1.5rem;
   }
 
-  .content table {
+  .content :global(table) {
     width: 100%;
     border-collapse: separate;
     border-spacing: 0;
@@ -722,19 +722,19 @@ const processedContent = marked.parse(resolvedContent, { renderer });
     border-radius: 8px;
     overflow: hidden;
   }
-  .content th, .content td {
+  .content :global(th), .content :global(td) {
     padding: 0.9rem 1.15rem;
     border-bottom: 1px solid #d5dbe3;
     border-right: 1px solid #e8ecf0;
     text-align: left;
   }
-  .content th:last-child, .content td:last-child {
+  .content :global(th:last-child), .content :global(td:last-child) {
     border-right: none;
   }
-  .content tr:last-child td {
+  .content :global(tr:last-child td) {
     border-bottom: none;
   }
-  .content th {
+  .content :global(th) {
     background: #f0f3f6;
     font-weight: 700;
     color: #1a1a1a;
@@ -742,13 +742,13 @@ const processedContent = marked.parse(resolvedContent, { renderer });
     font-size: 0.88rem;
     letter-spacing: 0.02em;
   }
-  .content tbody tr:hover {
+  .content :global(tbody tr:hover) {
     background: rgba(74, 124, 89, 0.04);
   }
-  .content tbody tr:nth-child(even) {
+  .content :global(tbody tr:nth-child(even)) {
     background: #fafbfc;
   }
-  .content tbody tr:nth-child(even):hover {
+  .content :global(tbody tr:nth-child(even):hover) {
     background: rgba(74, 124, 89, 0.06);
   }
 
