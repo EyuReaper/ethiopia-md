@@ -110,7 +110,7 @@ First held in 1995, it was Taiwan's earliest large-scale outdoor music festival,
 ### Spring Scream (春天吶喊)
 
 **Indie Spirit:**
-Started in 1995 in Kenting by two Americans, it represented the purest DIY indie spirit, allowing hundreds of bands to perform over several days.
+Started in 1995 in Kenting (墾丁) by two Americans, it represented the purest DIY indie spirit, allowing hundreds of bands to perform over several days.
 
 ### Hohaiyan Rock Festival (貢寮海洋音樂祭)
 

@@ -42,7 +42,7 @@ Northwestern Taiwan's second-highest range, featuring Taiwan's second-highest pe
 **Yushan Range (玉山山脈)**
 Home to Yushan (Jade Mountain), Taiwan's highest peak. The range showcases the island's most dramatic high-altitude landscapes and endemic alpine species.
 
-**Alishan Range (阿里山山脈)**
+**Alishan Range (阿里山山脈, Mt. Ali)**
 Western Taiwan's gentler mountains, famous for sacred trees, sunrise viewing, and Indigenous cultural sites. Composed primarily of sedimentary rocks.
 
 **Coastal Range (海岸山脈)**
@@ -107,8 +107,8 @@ Taiwan's steep topography creates short, fast-flowing rivers that dramatically c
 
 ### Dramatic Gorges
 The rapid elevation changes create spectacular river-carved gorges:
-- **Taroko Gorge**: Marble cliffs carved by the Liwu River, showcasing metamorphic rock beauty
-- **Sun Moon Lake**: Taiwan's largest natural lake, formed in a collapsed volcanic caldera
+- **Taroko Gorge (太魯閣)**: Marble cliffs carved by the Liwu River, showcasing metamorphic rock beauty
+- **Sun Moon Lake (日月潭)**: Taiwan's largest natural lake, formed in a collapsed volcanic caldera
 
 ## Climate Zones and Ecosystems
 

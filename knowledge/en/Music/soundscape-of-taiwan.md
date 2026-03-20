@@ -58,7 +58,7 @@ In sharp contrast to Beiguan's violence, Nanguan is delicate, elegant, slow-pace
 
 **Sound characteristics:** Nanguan's melodic lines are extremely long—single phrases can extend several minutes. When performing, "silk brushes come" (絲抹將來)—string instruments (pipa fingering) initiate sounds, bamboo voices (dongxiao) subsequently merge, with each part complementary yet distinctly audible. This music requires stillness to appreciate—in an attention-scarce era, Nanguan's first lesson is "slow down."
 
-**Cultural roots:** Nanguan preserves remnants from Han and Wei dynasties. Its ensemble arrangement traces back to Han Dynasty xianghe songs (相和歌), while instrument types and musical structures closely relate to Tang-Song da qu, earning scholars' designation as "living musical fossils" with "millennium pure sounds" reputation. In Taiwan, Lukang represents Nanguan's most important stronghold.
+**Cultural roots:** Nanguan preserves remnants from Han and Wei dynasties. Its ensemble arrangement traces back to Han Dynasty xianghe songs (相和歌), while instrument types and musical structures closely relate to Tang-Song da qu, earning scholars' designation as "living musical fossils" with "millennium pure sounds" reputation. In Taiwan, Lukang (鹿港) represents Nanguan's most important stronghold.
 
 **Unique feature:** Nanguan pipa maintains Tang Dynasty's horizontal playing posture, while other musical traditions' pipas long ago switched to vertical playing—just this posture alone represents a thousand-year time capsule.
 

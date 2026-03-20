@@ -19,7 +19,7 @@ Taiwan's coffee history dates back to the Japanese colonial period. In 1895, the
 
 In the 1990s, Starbucks entered Taiwan, bringing the "third place" concept - coffee shops were no longer just places to drink coffee, but social spaces between home and office. This concept profoundly influenced Taiwan's coffee culture development.
 
-After the 2000s, Taiwan entered the specialty coffee era. Roasters became a new profession, single-origin coffee gained attention, and coffee quality rather than convenience became the competitive focus. Meanwhile, Taiwan's indigenous coffee beans also gained international recognition, with beans from Alishan, Gukeng, Dongshan and other regions winning awards in international competitions.
+After the 2000s, Taiwan entered the specialty coffee era. Roasters became a new profession, single-origin coffee gained attention, and coffee quality rather than convenience became the competitive focus. Meanwhile, Taiwan's indigenous coffee beans also gained international recognition, with beans from Mt. Alishan (阿里山), Gukeng (古坑), Dongshan (東山) and other regions winning awards in international competitions.
 
 ## Independent Coffee Shops: Third Spaces in the Urban Landscape
 
@@ -45,11 +45,11 @@ Starbucks maintains its leading position in Taiwan, particularly in business and
 
 ## Alishan Coffee: Birth of Taiwan's Pride
 
-Taiwan's high-altitude regions at 1000-1500 meters provide the perfect environment for growing specialty coffee beans. Alishan coffee stands out among them, having won multiple awards in international coffee competitions.
+Taiwan's high-altitude regions at 1000-1500 meters provide the perfect environment for growing specialty coffee beans. Alishan (阿里山) coffee stands out among them, having won multiple awards in international coffee competitions.
 
 Alishan coffee's distinctiveness lies in its unique climate. High altitude, cloud-shrouded environment, and large day-night temperature differences allow coffee beans to mature slowly, developing complex flavor layers. Alishan coffee typically features floral notes and fruit acidity with a clean, bright mouthfeel, contrasting with the heavy flavors of Central and South American coffee.
 
-Besides Alishan, Taiwan has many other quality coffee regions. Yunlin's Gukeng is the birthplace of Taiwan coffee, Tainan's Dongshan is famous for washed coffee, and Nantou's Guoxing coffee carries honey fragrance. While these regions are small in scale, their quality can compete with world-class coffee beans.
+Besides Alishan, Taiwan has many other quality coffee regions. Yunlin's Gukeng (古坑) is the birthplace of Taiwan coffee, Tainan's Dongshan (東山) is famous for washed coffee, and Nantou's Guoxing (國姓) coffee carries honey fragrance. While these regions are small in scale, their quality can compete with world-class coffee beans.
 
 > An Alishan coffee farmer said: "We don't just grow coffee beans, we grow Taiwan's terroir. Every cup of Alishan coffee tells the story of this mountain."
 

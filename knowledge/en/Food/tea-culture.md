@@ -24,7 +24,7 @@ Taiwan's tea culture has evolved through three development phases: the introduct
 ## Key Facts
 
 - **Tea Garden Distribution**: Mainly located in mountainous areas of Nantou, Chiayi, Taipei, and Hsinchu at elevations of 1000-2500 meters
-- **Famous Tea Varieties**: Dong Ding Oolong, Alishan High Mountain Tea, Wenshan Baozhong Tea, Oriental Beauty Tea
+- **Famous Tea Varieties**: Dong Ding Oolong (凍頂烏龍), Alishan (阿里山) High Mountain Tea, Wenshan Baozhong Tea, Oriental Beauty Tea
 - **Bubble Tea Origins**: Chun Shui Tang invented pearl milk tea in the 1980s, creating bubble tea culture
 - **Industry Scale**: Tea garden area approximately 12,000 hectares, annual production 14,000 tons
 - **International Impact**: Bubble tea shops worldwide, pearl milk tea as Taiwan's representative beverage
@@ -39,9 +39,9 @@ Taiwan's tea culture has evolved through three development phases: the introduct
 
 ### Major Tea Regions and Varieties
 
-**Nantou Tea Region**: Birthplace of Dong Ding Oolong tea, Lugu Township's Dong Ding Mountain at approximately 700 meters elevation with cool, misty climate. **Alishan Tea Region**: High mountain tea at 1000-1700 meters elevation, producing thick, durable leaves with elegant aroma.
+**Nantou Tea Region**: Birthplace of Dong Ding Oolong tea, Lugu (鹿谷) Township's Dong Ding Mountain (凍頂山) at approximately 700 meters elevation with cool, misty climate. **Alishan Tea Region**: High mountain tea at 1000-1700 meters elevation, producing thick, durable leaves with elegant aroma.
 
-**Lishan Tea Region**: Ultra-high altitude tea region above 2000 meters, where large day-night temperature differences create unique flavors. **Wenshan Tea Region**: Home of baozhong tea, located in southern Taipei mountain areas, characterized by light-fragrant green tea.
+**Lishan (梨山) Tea Region**: Ultra-high altitude tea region above 2000 meters, where large day-night temperature differences create unique flavors. **Wenshan Tea Region**: Home of baozhong tea, located in southern Taipei mountain areas, characterized by light-fragrant green tea.
 
 **Oriental Beauty Tea**: Produced in Hsinchu and Miaoli mountain areas, develops honey fragrance from green leafhopper bites, also known as White Tip Oolong. **Tieguanyin Tea**: Mainly produced in Muzha area, featuring distinctive roasted aroma.
 

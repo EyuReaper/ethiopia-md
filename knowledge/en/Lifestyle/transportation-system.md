@@ -38,9 +38,9 @@ Taoyuan Airport MRT connects international terminals with Taipei city center, al
 
 If high-speed rail is the aorta and metro the blood vessels, then buses are the capillaries spread throughout Taiwan. Taipei's bus network density ranks highest in Asia, with an average bus stop every 300 meters, allowing citizens to easily transfer to public transportation anywhere.
 
-Taipei's buses are not just transportation tools but moving urban landscapes. Route Red 5, running from Daan Forest Park to Yangmingshan, allows passengers to move from urban jungle to mountain wilderness within an hour. The Zhongxiao trunk line, passing through eastern district highlights, witnesses the city's prosperity and changes. The existence of night buses makes Taipei a true "city that never sleeps."
+Taipei's buses are not just transportation tools but moving urban landscapes. Route Red 5, running from Daan Forest Park to Yangmingshan (陽明山, Mt. Yangming), allows passengers to move from urban jungle to mountain wilderness within an hour. The Zhongxiao trunk line, passing through eastern district highlights, witnesses the city's prosperity and changes. The existence of night buses makes Taipei a true "city that never sleeps."
 
-Long-distance buses connect every corner of Taiwan. Departing from Taipei Bus Station, you can take UBus to Alishan for sunrise, take HeXin Bus to Kenting for sunshine, or take KingBus to Hualien to appreciate Taroko's magnificence. These bus routes flow like Taiwan's bloodstream, incorporating every corner of the island into the transportation network.
+Long-distance buses connect every corner of Taiwan. Departing from Taipei Bus Station, you can take UBus to Mt. Alishan (阿里山) for sunrise, take HeXin Bus to Kenting (墾丁) for sunshine, or take KingBus to Hualien to appreciate Taroko Gorge's magnificence. These bus routes flow like Taiwan's bloodstream, incorporating every corner of the island into the transportation network.
 
 ## YouBike and the Micro-Transportation Revolution
 

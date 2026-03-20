@@ -27,7 +27,7 @@ The area around Xinbeitou MRT Station forms a complete hot spring commercial dis
 
 ## Jiaoxi: Yilan's Hot Spring Capital
 
-Jiaoxi ranks as Taiwan's famous hot spring city and the most popular hot spring destination after the Hsuehshan Tunnel opened. Just one hour's drive from Taipei, convenient transportation makes Jiaoxi the top choice for urbanites' weekend relaxation.
+Jiaoxi (礁溪) ranks as Taiwan's famous hot spring city and the most popular hot spring destination after the Hsuehshan Tunnel (雪山隧道, Snow Mountain Tunnel) opened. Just one hour's drive from Taipei, convenient transportation makes Jiaoxi the top choice for urbanites' weekend relaxation.
 
 Jiaoxi hot springs are sodium bicarbonate springs—clear, colorless, and odorless with temperatures around 50°C and pH values of 7-8, gentle and non-irritating to skin, earning the nickname "beauty springs." This spring quality makes skin feel smooth and is particularly beloved by female visitors.
 
@@ -39,7 +39,7 @@ Jiaoxi's hot spring culture also incorporates local characteristics. Hot spring 
 
 ## Zhiben: Taitung's Hot Spring Therapy Destination
 
-Zhiben Hot Springs, located in Taitung, represents eastern Taiwan's most important hot spring area. The natural environment nestled between mountains and water, pure air quality, and rich indigenous culture make Zhiben an excellent choice for mind-body healing.
+Zhiben (知本) Hot Springs, located in Taitung, represents eastern Taiwan's most important hot spring area. The natural environment nestled between mountains and water, pure air quality, and rich indigenous culture make Zhiben an excellent choice for mind-body healing.
 
 Zhiben hot springs are alkaline sodium bicarbonate springs with temperatures around 60-70°C and pH values of 8.5-9.5, offering effects of softening dead skin and whitening. This spring quality is relatively rare in Taiwan, earning the title "Taiwan's highest quality beauty springs."
 
@@ -51,7 +51,7 @@ Zhiben's characteristic combines indigenous culture with eco-tourism. Beinan Cul
 
 ## Guanziling: Unique Mud Hot Springs
 
-Guanziling represents Taiwan's only mud hot springs and one of the world's few mud-quality springs. Located in Tainan's Baihe, these springs contain rich minerals and trace elements with special therapeutic effects on skin and joints.
+Guanziling (關子嶺) represents Taiwan's only mud hot springs and one of the world's few mud-quality springs. Located in Tainan's Baihe (白河), these springs contain rich minerals and trace elements with special therapeutic effects on skin and joints.
 
 Guanziling hot springs are alkaline carbonate springs, but due to containing underground rock layer mud components, they display unique gray-black coloring. Spring temperatures reach about 75°C, requiring dilution before bathing. The mud's granular and slippery sensation characterizes Guanziling hot springs, earning the nickname "black springs."
 
@@ -79,7 +79,7 @@ Beitou's Kagaya represents an overseas branch of Kanazawa Kagaya in Japan, compl
 
 Jiaoxi's Evergreen Resort Hotel blends Western luxury with Japanese hot springs. Rooftop infinity spring pools, luxurious spring suites, and Michelin-level restaurants provide premium vacation experiences. The hotel also features children's play areas and family spring pools, suitable for family tourism.
 
-Yangmingshan's Volando Urai Spring Spa & Resort specializes in forest hot springs, hidden within Yangmingshan National Park, enjoying exceptional natural environments. Outdoor spring pools allow visitors to bathe under starlight while listening to insects and birds, feeling connections with nature.
+Yangmingshan's (陽明山) Volando Urai Spring Spa & Resort specializes in forest hot springs, hidden within Yangmingshan National Park, enjoying exceptional natural environments. Outdoor spring pools allow visitors to bathe under starlight while listening to insects and birds, feeling connections with nature.
 
 ## Public Baths and Private Bath Houses
 

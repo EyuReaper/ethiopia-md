@@ -21,7 +21,7 @@ The Dajia Jenn Lann Temple Mazu pilgrimage represents Taiwan's grandest religiou
 
 Along the procession route, local residents set up incense altars for welcoming ceremonies while providing free food and accommodation to pilgrims. This "human relay" scene demonstrates Taiwan society's warmth and religious sentiment. You'll witness business owners abandoning work to personally cook noodles, students volunteering as guides, and grandmothers sharing family-recipe braised pork rice with pilgrims.
 
-Beigang Chaotian Temple, Xingang Fengtian Temple, and Tainan Grand Mazu Temple each possess unique history and characteristics. Beigang Mazu's "fireworks sedan" ritual, Xingang Mazu's "plow cannon" tradition, and Tainan Mazu's ancient solemnity showcase the diverse aspects of Mazu worship.
+Beigang (北港) Chaotian Temple, Xingang (新港) Fengtian Temple, and Tainan Grand Mazu Temple each possess unique history and characteristics. Beigang Mazu's "fireworks sedan" ritual, Xingang Mazu's "plow cannon" tradition, and Tainan Mazu's ancient solemnity showcase the diverse aspects of Mazu worship.
 
 ## Guan Gong Worship: Symbol of Loyalty and Righteousness
 
@@ -37,7 +37,7 @@ Taiwan's Guan Gong worship developed unique "brotherhood culture" (義氣文化)
 
 Taiwan's religious life's greatest characteristic is "Buddhist-Taoist integration" (佛道融合). Within the same temple, you might see Guanyin Bodhisattva and the Jade Emperor enshrined together, with Buddhism's compassion and Taoism's worldly benefits harmoniously coexisting. This "religious fusion" reflects Taiwanese people's pragmatic yet inclusive character.
 
-Tzu Chi Foundation represents Taiwan Buddhism's flagship organization. Since Master Cheng Yen's 1966 establishment in Hualien, Tzu Chi has become Taiwan's largest charity organization with 10 million global members. Tzu Chi's "Humanistic Buddhism" philosophy emphasizing compassion, environmental protection, and helping others profoundly influences Taiwan society.
+Tzu Chi Foundation represents Taiwan Buddhism's flagship organization. Since Master Cheng Yen's 1966 establishment in Hualien (花蓮), Tzu Chi has become Taiwan's largest charity organization with 10 million global members. Tzu Chi's "Humanistic Buddhism" philosophy emphasizing compassion, environmental protection, and helping others profoundly influences Taiwan society.
 
 Fo Guang Shan pursues internationalization, establishing over 300 centers worldwide. Venerable Master Hsing Yun's "Humanistic Buddhism" thought brings Buddhism from mountains into modern life. Fo Guang Shan's educational enterprises, cultural promotion, and social services demonstrate Buddhism's modern transformation.
 
@@ -85,9 +85,9 @@ Though Christianity and Catholicism have fewer believers, they significantly inf
 
 ## Religious Tourism and Cultural Industries
 
-Taiwan's religious resources have become important tourism assets. Dajia Mazu pilgrimage, Baishatun Mazu procession, Yanshui Beehive Fireworks Festival, and Pingxi Sky Lanterns attract numerous domestic and international tourists.
+Taiwan's religious resources have become important tourism assets. Dajia Mazu pilgrimage, Baishatun Mazu procession, Yanshui (鹽水) Beehive Fireworks Festival, and Pingxi (平溪) Sky Lanterns attract numerous domestic and international tourists.
 
-Religious architecture's artistic value also receives recognition. Lukang Longshan Temple, Tainan Confucius Temple, and Wanhua Longshan Temple serve not only as faith centers but tourist attractions. Exquisite traditional architecture and rich cultural content make these temples Taiwan cultural representatives.
+Religious architecture's artistic value also receives recognition. Lukang (鹿港) Longshan Temple, Tainan Confucius Temple, and Wanhua (萬華) Longshan Temple serve not only as faith centers but tourist attractions. Exquisite traditional architecture and rich cultural content make these temples Taiwan cultural representatives.
 
 Religious cultural creative industries are also emerging. Mazu safety amulets, Guan Gong keychains, temple postcards—traditional religious elements transform into modern products. This "religious culturalization" helps younger generations rediscover traditional culture while providing new income sources for temples.
 

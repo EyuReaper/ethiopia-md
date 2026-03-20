@@ -41,7 +41,7 @@ The **legal system** implemented the "Law 63" (六三法), authorizing the Gover
 
 **Transportation construction** centered on the longitudinal railway (completed in 1908), connecting Keelung, Taipei, Taichung, Tainan, and Kaohsiung, with branch railways and road networks. **Port construction** modernized Keelung and Kaohsiung ports into contemporary commercial harbors, promoting foreign trade.
 
-**Water conservancy projects** built major irrigation systems like the Chianan Canal (嘉南大圳) and Taoyuan Canal, improving agricultural irrigation. **Power systems** constructed the Sun Moon Lake hydroelectric plant to supply island-wide electricity. **Urban planning** redesigned cities like Taipei and Taichung, creating modern urban areas.
+**Water conservancy projects** built major irrigation systems like the Chianan Canal (嘉南大圳) and Taoyuan Canal, improving agricultural irrigation. **Power systems** constructed the Sun Moon Lake (日月潭) hydroelectric plant to supply island-wide electricity. **Urban planning** redesigned cities like Taipei and Taichung, creating modern urban areas.
 
 ### Industrial Economic Policy
 

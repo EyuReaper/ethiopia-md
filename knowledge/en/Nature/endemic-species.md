@@ -19,7 +19,7 @@ Taiwan's endemic species are precious assets of global biodiversity. These uniqu
 
 ## Overview
 
-Taiwan sits on the edge of the Eurasian continental shelf, where complex geological history and diverse ecological environments have nurtured rich endemic species. From sea level to Yushan's main peak at 3,952 meters, vertical elevation changes create tropical, subtropical, temperate, and alpine climate zones, providing habitats for different organisms. Endemic species account for 25% of Taiwan's biodiversity, covering mammals, birds, reptiles, amphibians, fish, insects, and plants.
+Taiwan sits on the edge of the Eurasian continental shelf, where complex geological history and diverse ecological environments have nurtured rich endemic species. From sea level to Mt. Yushan's (Jade Mountain) main peak at 3,952 meters, vertical elevation changes create tropical, subtropical, temperate, and alpine climate zones, providing habitats for different organisms. Endemic species account for 25% of Taiwan's biodiversity, covering mammals, birds, reptiles, amphibians, fish, insects, and plants.
 
 ## Key Facts
 
@@ -75,7 +75,7 @@ Taiwan is a paradise for endemic insects. **Broad-tailed Swallowtail** is one of
 
 ### Conservation Efforts
 
-**National Park System**: Yushan, Taroko, Shei-Pa and other national parks protect important endemic species habitats. **Protected Area Network**: Nature reserves and wildlife refuges provide legal protection.
+**National Park System**: Yushan, Taroko, Shei-Pa (雪霸) and other national parks protect important endemic species habitats. **Protected Area Network**: Nature reserves and wildlife refuges provide legal protection.
 
 **Recovery Programs**: Active conservation actions including cherry salmon recovery and Formosan black bear population monitoring. **Citizen Science**: Platforms like eBird and iNaturalist promote public participation in biological surveys.
 

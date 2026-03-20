@@ -79,7 +79,7 @@ Typical instrumentation (“upper four” ensemble):
 - Erxian
 - Clapper board
 
-Nanguan teaches listening as an act of patience—an antidote to modern attention scarcity. In Taiwan, **Lukang** is its most important living hub.
+Nanguan teaches listening as an act of patience—an antidote to modern attention scarcity. In Taiwan, **Lukang (鹿港)** is its most important living hub.
 
 ### Electric Flower Trucks (電子花車): Sacred Meets Nightclub
 
@@ -101,7 +101,7 @@ Sung in a circle of 6–12 men, it is performed during millet harvest rituals to
 
 - **Amis Ilisin** (丰年祭) features call-and-response singing.
 - **Paiwan and Rukai nose flutes (雙管鼻笛)** are rare instruments played by nobles.
-- **Tao (達悟) clapping songs** on Orchid Island echo the rhythms of the sea.
+- **Tao (達悟) clapping songs** on Orchid Island (蘭嶼, Lanyu) echo the rhythms of the sea.
 
 These sounds are not “folk art” but **living ecosystems** of cultural memory.
 

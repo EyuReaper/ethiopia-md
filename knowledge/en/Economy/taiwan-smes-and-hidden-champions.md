@@ -9,7 +9,7 @@ lastVerified: 2026-03-19
 
 # Taiwan's SMEs and Hidden Champions
 
-In a metal-roofed factory in Lukang, Changhua, tens of thousands of precision screws are manufactured daily and shipped to BMW and Mercedes-Benz assembly lines worldwide. This company with fewer than 300 employees controls 30% of the global automotive precision screw market. This isn't an exception—it's the true face of Taiwan's economy. The real pillars supporting Taiwan aren't the "national champions" that capture media attention, but these quietly toiling "hidden champions."
+In a metal-roofed factory in Lukang (鹿港), Changhua, tens of thousands of precision screws are manufactured daily and shipped to BMW and Mercedes-Benz assembly lines worldwide. This company with fewer than 300 employees controls 30% of the global automotive precision screw market. This isn't an exception—it's the true face of Taiwan's economy. The real pillars supporting Taiwan aren't the "national champions" that capture media attention, but these quietly toiling "hidden champions."
 
 > Hermann Simon, the German management guru, defines hidden champions in his book as companies that rank among the top three globally in specific fields, have revenues under $4 billion, and maintain relatively low public profiles. Taiwan has over 200 such hidden champions, the highest density in the world.
 

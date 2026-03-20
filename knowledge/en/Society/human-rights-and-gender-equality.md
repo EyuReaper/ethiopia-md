@@ -47,7 +47,7 @@ The **martial law system** restricted people's fundamental rights, including fre
 
 The **Transitional Justice Act** (2017) established the legal foundation for transitional justice, with the **Transitional Justice Commission** responsible for truth investigation, archive organization, and legal cleanup. **Dealing with Ill-gotten Party Assets**: Pursuing political party assets improperly obtained during the authoritarian period.
 
-**Clearing Authoritarian Symbols**: Removing statues and emblems of authoritarian rulers. **Spatial Transformation**: Converting former authoritarian sites into human rights education venues, such as the Jing-Mei White Terror Memorial Park and Green Island Human Rights Culture Park.
+**Clearing Authoritarian Symbols**: Removing statues and emblems of authoritarian rulers. **Spatial Transformation**: Converting former authoritarian sites into human rights education venues, such as the Jing-Mei White Terror Memorial Park and Green Island (綠島, Ludao) Human Rights Culture Park.
 
 ### Gender Equality Development
 

@@ -12,7 +12,7 @@ featured: true
 
 ## 30-Second Overview
 
-Taiwan's 9 national parks protect the island's most precious natural treasures across just 36,000 square kilometers, showcasing biodiversity that rivals much larger countries. From Yushan's alpine peaks above 3,900 meters to Dongsha's pristine coral atolls, these protected areas preserve ecosystems ranging from subtropical rainforests to alpine tundra. Established between 1984-2014, Taiwan's national parks protect approximately 8.9% of the island's territory while safeguarding over 18,000 species of flora and fauna, including numerous endemic species found nowhere else on Earth. These parks represent Taiwan's commitment to conservation excellence, combining world-class protection with sustainable tourism and environmental education that attracts over 20 million visitors annually.
+Taiwan's 9 national parks protect the island's most precious natural treasures across just 36,000 square kilometers, showcasing biodiversity that rivals much larger countries. From Mt. Yushan's (Jade Mountain) alpine peaks above 3,900 meters to Dongsha's pristine coral atolls, these protected areas preserve ecosystems ranging from subtropical rainforests to alpine tundra. Established between 1984-2014, Taiwan's national parks protect approximately 8.9% of the island's territory while safeguarding over 18,000 species of flora and fauna, including numerous endemic species found nowhere else on Earth. These parks represent Taiwan's commitment to conservation excellence, combining world-class protection with sustainable tourism and environmental education that attracts over 20 million visitors annually.
 
 ## Why It Matters
 
@@ -33,14 +33,14 @@ For visitors, Taiwan's national parks offer some of the world's most accessible 
 2. **Yushan National Park** (1985) - Taiwan's highest peaks and alpine ecosystems  
 3. **Yangmingshan National Park** (1985) - Volcanic landscapes and hot springs
 4. **Taroko National Park** (1986) - Marble gorges and temperate forests
-5. **Shei-Pa National Park** (1992) - High mountain wilderness
+5. **Shei-Pa National Park (雪霸)** (1992) - High mountain wilderness
 6. **Kinmen National Park** (1995) - Historical battlefields and wetland ecology
 7. **Taijiang National Park** (2009) - Coastal wetlands and mangrove forests
 
 ### Marine Parks (2)
 
 8. **Dongsha Atoll National Park** (2007) - Pristine coral atoll ecosystem
-9. **South Penghu Marine National Park** (2014) - Marine biodiversity hotspot
+9. **South Penghu (澎湖) Marine National Park** (2014) - Marine biodiversity hotspot
 
 ## Detailed Park Profiles
 
@@ -191,7 +191,7 @@ Yushan protects Taiwan's highest peaks and most pristine alpine ecosystems. The 
 - **Seabird Colonies**: Important breeding sites for oceanic birds
 - **Research Station**: Advancing understanding of coral atoll ecology
 
-**South Penghu Marine National Park**: Protects the marine environment around Taiwan's southernmost islands, featuring:
+**South Penghu (澎湖) Marine National Park**: Protects the marine environment around Taiwan's southernmost islands, featuring:
 - **Marine Protected Zones**: Strict conservation areas allowing ecosystem recovery
 - **Traditional Fishing Culture**: Balancing conservation with local livelihoods
 - **Coral Restoration**: Active programs to restore damaged reef systems

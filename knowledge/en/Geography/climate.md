@@ -136,11 +136,11 @@ Based on maximum wind speed, typhoons are classified as:
 
 **Typhoon Herb (1996):**
 - Caused 51 deaths, economic losses of about NT$20 billion
-- Triggered severe landslides on Alishan Highway
+- Triggered severe landslides on Mt. Alishan (阿里山) Highway
 
 **Typhoon Morakot (2009):**
 - August 8th flood, caused 677 deaths and disappearances
-- 24-hour rainfall reached 1,403mm (Alishan weather station)
+- 24-hour rainfall reached 1,403mm (Mt. Alishan weather station)
 
 **Typhoon Soudelor (2015):**
 - Over 4 million households lost power across Taiwan
