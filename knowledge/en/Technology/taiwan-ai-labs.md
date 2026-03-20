@@ -1,12 +1,19 @@
 ---
-title: "Taiwan AI Labs - Pioneering AI for Social Good"
-description: "A non-profit AI research institute founded by PTT creator Audrey Tang, focusing on smart healthcare, smart cities, and disinformation defense through tech for good philosophy"
+title: 'Taiwan AI Labs - Pioneering AI for Social Good'
+description: 'A non-profit AI research institute founded by PTT creator Audrey Tang, focusing on smart healthcare, smart cities, and disinformation defense through tech for good philosophy'
 date: 2026-03-19
-tags: ["artificial intelligence", "smart healthcare", "Audrey Tang", "tech innovation", "information warfare defense"]
-author: "Taiwan.md"
+tags:
+  [
+    'artificial intelligence',
+    'smart healthcare',
+    'Audrey Tang',
+    'tech innovation',
+    'information warfare defense',
+  ]
+author: 'Taiwan.md'
 readingTime: 8
 featured: true
-category: "Technology"
+category: 'Technology'
 lastVerified: 2026-03-19
 ---
 
@@ -76,4 +83,4 @@ Taiwan AI Labs has proven three key points:
 
 ---
 
-*This article was written by community contributor @idlccp02 and reviewed by the editorial team.*
+_This article was written by community contributor @idlccp02 and reviewed by the editorial team._

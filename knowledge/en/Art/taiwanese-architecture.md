@@ -85,19 +85,19 @@ Most of his works are in Yilan, where long-term engagement with the locality has
 
 Kris Yao (姚仁喜) is another titan of contemporary Taiwanese architecture, known for his refined Modernist style. Since the 1990s, he has led a movement to steer Taiwanese commercial architecture back toward pure Modernism.
 
-His works, such as the Lanyang Museum and the Palace Museum Southern Branch, demonstrate an obsession with quality: precise proportions, elegant lines, and pure materials. The Lanyang Museum’s form is inspired by the *cuesta* rock formations of the Yilan coast, creating a modern image that is deeply rooted in local geography.
+His works, such as the Lanyang Museum and the Palace Museum Southern Branch, demonstrate an obsession with quality: precise proportions, elegant lines, and pure materials. The Lanyang Museum’s form is inspired by the _cuesta_ rock formations of the Yilan coast, creating a modern image that is deeply rooted in local geography.
 
 ## Halls of Faith: The Art of Temple Architecture
 
 ### Cultural Depth of Religious Spaces
 
-Temple architecture holds a special place in the Taiwanese spectrum. These are not just places of worship but repositories of traditional crafts, including stone carving, wood carving, painting, and *jian-nian* (剪黏, ceramic shard inlay).
+Temple architecture holds a special place in the Taiwanese spectrum. These are not just places of worship but repositories of traditional crafts, including stone carving, wood carving, painting, and _jian-nian_ (剪黏, ceramic shard inlay).
 
 Taiwanese temples blend architectural traditions from Southern Fujian, Chaozhou, and Hakka cultures. The "carved beams and painted rafters" are more than aesthetic pursuits; they are expressions of reverence for the divine. Every corner hides exquisite artistry: stone dragons symbolizing power, lions for protection, and wood carvings depicting historical epics.
 
-### *Jian-Nian* and Cochin Pottery: Three-Dimensional Poetry
+### _Jian-Nian_ and Cochin Pottery: Three-Dimensional Poetry
 
-*Jian-nian* (ceramic shard inlay) and Cochin pottery (交趾陶) are unique decorative crafts in Taiwanese temples. *Jian-nian* involves cutting colored porcelain pieces to form intricate patterns, while Cochin pottery uses low-temperature fired, colorful ceramic sculptures. These crafts decorate the roofs and walls with scenes from folk tales and classical operas like *The Romance of the Three Kingdoms*, creating a "maximalist" aesthetic that營造 a sacred atmosphere through visual density.
+_Jian-nian_ (ceramic shard inlay) and Cochin pottery (交趾陶) are unique decorative crafts in Taiwanese temples. _Jian-nian_ involves cutting colored porcelain pieces to form intricate patterns, while Cochin pottery uses low-temperature fired, colorful ceramic sculptures. These crafts decorate the roofs and walls with scenes from folk tales and classical operas like _The Romance of the Three Kingdoms_, creating a "maximalist" aesthetic that營造 a sacred atmosphere through visual density.
 
 ## The Spirit of Taiwan in Architecture
 

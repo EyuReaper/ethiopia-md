@@ -1,8 +1,14 @@
 ---
-title: "Jamie Lin (Chien-Li Feng)"
-description: "Former Google Taiwan Managing Director, AI industry pioneer, technology talent development advocate"
+title: 'Jamie Lin (Chien-Li Feng)'
+description: 'Former Google Taiwan Managing Director, AI industry pioneer, technology talent development advocate'
 date: 2026-03-20
-tags: ["Google", "Artificial Intelligence", "Technology Industry", "Talent Development"]
+tags:
+  [
+    'Google',
+    'Artificial Intelligence',
+    'Technology Industry',
+    'Talent Development',
+  ]
 lastVerified: 2026-03-20
 ---
 

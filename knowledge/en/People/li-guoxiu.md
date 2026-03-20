@@ -1,9 +1,8 @@
 ---
-
-title: "Li Guoxiu (李國修)"
-description: "Founder of Ping-Fong Acting Troupe and a defining voice of modern Taiwanese comedy theatre"
+title: 'Li Guoxiu (李國修)'
+description: 'Founder of Ping-Fong Acting Troupe and a defining voice of modern Taiwanese comedy theatre'
 date: 2026-03-20
-tags: ["theatre", "comedy", "Ping-Fong", "Taiwanese drama", "playwright"]
+tags: ['theatre', 'comedy', 'Ping-Fong', 'Taiwanese drama', 'playwright']
 lastVerified: 2026-03-20
 ---
 
@@ -15,9 +14,9 @@ Li passed away suddenly from a heart attack at 58, but his legacy continues to s
 
 ## A Childhood in the Military Dependents’ Village (眷村)
 
-Li was born in Taipei to an Air Force family and grew up in a military dependents’ village, or *juàncūn* (眷村). These villages were unique post‑war communities built to house soldiers and their families who came from different provinces in mainland China. They were multilingual, tight‑knit, and emotionally complex—combining discipline, nostalgia, and a deep sense of displacement.
+Li was born in Taipei to an Air Force family and grew up in a military dependents’ village, or _juàncūn_ (眷村). These villages were unique post‑war communities built to house soldiers and their families who came from different provinces in mainland China. They were multilingual, tight‑knit, and emotionally complex—combining discipline, nostalgia, and a deep sense of displacement.
 
-This *juàncūn* upbringing became one of Li’s most enduring creative sources. He witnessed the humor, sorrow, and resilience of a community living between memory and reality. In his later plays, the *juàncūn* becomes a cultural stage where Taiwan’s post‑war identity is negotiated.
+This _juàncūn_ upbringing became one of Li’s most enduring creative sources. He witnessed the humor, sorrow, and resilience of a community living between memory and reality. In his later plays, the _juàncūn_ becomes a cultural stage where Taiwan’s post‑war identity is negotiated.
 
 ## Theatre Awakening at Fu Jen Catholic University
 
@@ -27,7 +26,7 @@ This “smile with tears” aesthetic later became his signature: comedy that ne
 
 ## The Workshop Years: Learning Modern Theatre
 
-In 1984, Li co‑founded the Performance Workshop (表演工作坊) with artists such as Stan Lai (賴聲川) and Chin Shih‑jie (金士傑). The group became a major force in Taiwan’s emerging modern theatre scene. Li performed in landmark productions like *That Night, We Performed Crosstalk* (那一夜，我們說相聲), where he honed his sense of timing, improvisation, and audience rapport.
+In 1984, Li co‑founded the Performance Workshop (表演工作坊) with artists such as Stan Lai (賴聲川) and Chin Shih‑jie (金士傑). The group became a major force in Taiwan’s emerging modern theatre scene. Li performed in landmark productions like _That Night, We Performed Crosstalk_ (那一夜，我們說相聲), where he honed his sense of timing, improvisation, and audience rapport.
 
 During this period, Li began to clarify his own artistic direction. He discovered that comedy was not just entertainment—it was a tool for social observation. He also realized that Taiwan’s everyday life contained a rich theatrical language of its own.
 
@@ -39,17 +38,17 @@ The early years were difficult. Venues were small and audiences were few, but Li
 
 ## The Classic Trilogy
 
-### *Shamlet* (莎姆雷特, 1992)
+### _Shamlet_ (莎姆雷特, 1992)
 
-Li’s most iconic work is *Shamlet*, a Taiwanese adaptation of Shakespeare’s *Hamlet* set in a military dependents’ village. The protagonist is a *juàncūn* youth torn between family duty and personal aspiration. The play uses humor to explore filial responsibility, inherited trauma, and identity formation.
+Li’s most iconic work is _Shamlet_, a Taiwanese adaptation of Shakespeare’s _Hamlet_ set in a military dependents’ village. The protagonist is a _juàncūn_ youth torn between family duty and personal aspiration. The play uses humor to explore filial responsibility, inherited trauma, and identity formation.
 
-*Shamlet* proved that local Taiwanese experience could carry the weight of global classics. It became a landmark of Taiwan’s stage history.
+_Shamlet_ proved that local Taiwanese experience could carry the weight of global classics. It became a landmark of Taiwan’s stage history.
 
-### *Peking Opera Revelation* (京戲啟示錄, 1996)
+### _Peking Opera Revelation_ (京戲啟示錄, 1996)
 
 This semi‑autobiographical play tells the story of a Peking Opera performer struggling to survive in a modernizing Taiwan. Li himself performed Peking Opera on stage, integrating traditional aesthetics into contemporary theatre. The work won the first Taishin Arts Award and introduced younger audiences to the emotional depth of traditional opera.
 
-### *Daughter’s Red* (女兒紅, 1999)
+### _Daughter’s Red_ (女兒紅, 1999)
 
 Written as a tribute to his mother, this play portrays the life of a traditional Taiwanese woman whose dreams are absorbed into her family’s needs. The title refers to a traditional celebratory wine prepared for a daughter’s future wedding. Li crafted the piece with tenderness, turning personal memory into collective reflection.
 
@@ -61,19 +60,19 @@ His guiding belief was that comedy should leave room for tears. He often describ
 
 ## Training Actors and Building a Theatre Culture
 
-Li was also an influential teacher. Within Ping‑Fong he developed a rigorous training system that emphasized real‑life observation. Actors were asked to study everyday people in markets, on buses, in *juàncūn*, and then bring those details into their performances. Li believed that authenticity was the foundation of comedy.
+Li was also an influential teacher. Within Ping‑Fong he developed a rigorous training system that emphasized real‑life observation. Actors were asked to study everyday people in markets, on buses, in _juàncūn_, and then bring those details into their performances. Li believed that authenticity was the foundation of comedy.
 
 Many performers who trained under him went on to become leading figures in Taiwanese theatre, carrying his emphasis on sincerity and social empathy into the next generation.
 
-## Recording the Memory of *Juàncūn*
+## Recording the Memory of _Juàncūn_
 
-As Taiwan modernized, many military dependents’ villages were demolished. Li’s plays serve as cultural archives of that disappearing world. He preserved the dialects, gestures, and emotional textures of the *juàncūn*, translating a private community memory into a shared public narrative.
+As Taiwan modernized, many military dependents’ villages were demolished. Li’s plays serve as cultural archives of that disappearing world. He preserved the dialects, gestures, and emotional textures of the _juàncūn_, translating a private community memory into a shared public narrative.
 
 This is one of his most lasting contributions: a theatrical record of a community that helped shape post‑war Taiwan but often remained invisible in official history.
 
 ## Late Works and a Humor That Faced Mortality
 
-In the 2000s, Li began to suffer health issues, yet he continued to write and perform. Works like *Six Righteous Brothers* (六義幫, 2007) and *Golden Years* (黃金歲月, 2011) reflected a deeper contemplation of aging and loss. Even when facing illness, his humor remained intact—wry, warm, and grounded in everyday life.
+In the 2000s, Li began to suffer health issues, yet he continued to write and perform. Works like _Six Righteous Brothers_ (六義幫, 2007) and _Golden Years_ (黃金歲月, 2011) reflected a deeper contemplation of aging and loss. Even when facing illness, his humor remained intact—wry, warm, and grounded in everyday life.
 
 He once quipped, “Life is like going to the bathroom—no matter how you squeeze, something comes out.” The line is earthy and funny, but it also reflects his philosophy: life is messy, but laughter makes it bearable.
 

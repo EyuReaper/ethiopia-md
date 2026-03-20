@@ -1,14 +1,22 @@
 ---
-title: "Zhong Lihe: The Eternal Seeker of Nativeland"
+title: 'Zhong Lihe: The Eternal Seeker of Nativeland'
 description: "Author of 'The Man from Nativeland', revered as the Father of Taiwan Literature, a literary warrior who persisted in writing despite poverty and illness"
 date: 2026-03-20
-tags: [people, Zhong Lihe, The Man from Nativeland, Father of Taiwan Literature, Li Mountain Farm, nativist literature]
+tags:
+  [
+    people,
+    Zhong Lihe,
+    The Man from Nativeland,
+    Father of Taiwan Literature,
+    Li Mountain Farm,
+    nativist literature,
+  ]
 lastVerified: 2026-03-20
 ---
 
 # Zhong Lihe: The Eternal Seeker of Nativeland
 
-Zhong Lihe stands as Taiwan's most poignant literary tragic hero, a master who wrote of homeland yearning with his very life. Born in Meinong, Kaohsiung in 1915, and passing from tuberculosis in his hometown in 1960, his brief 45 years on earth produced immortal works like *The Man from Nativeland* (Yuan Xiang Ren 原鄉人) and *Li Mountain Farm* (Lishan Nongchang 笠山農場) through unwavering determination and sincere literary passion. His life was marked by suffering and struggle: grinding poverty, the torment of disease, the solitude of creation. Yet these hardships never crushed his devotion to literature—instead, they refined his work to even greater authenticity and emotional power. He is revered as the "Father of Taiwan Literature," not only for his artistic achievements but for establishing the spiritual exemplar of persistent creation for generations of Taiwan writers.
+Zhong Lihe stands as Taiwan's most poignant literary tragic hero, a master who wrote of homeland yearning with his very life. Born in Meinong, Kaohsiung in 1915, and passing from tuberculosis in his hometown in 1960, his brief 45 years on earth produced immortal works like _The Man from Nativeland_ (Yuan Xiang Ren 原鄉人) and _Li Mountain Farm_ (Lishan Nongchang 笠山農場) through unwavering determination and sincere literary passion. His life was marked by suffering and struggle: grinding poverty, the torment of disease, the solitude of creation. Yet these hardships never crushed his devotion to literature—instead, they refined his work to even greater authenticity and emotional power. He is revered as the "Father of Taiwan Literature," not only for his artistic achievements but for establishing the spiritual exemplar of persistent creation for generations of Taiwan writers.
 
 ## Literary Awakening of a Meinong Son
 
@@ -26,19 +34,19 @@ During his Manchurian period, Zhong Lihe worked and lived in various cities incl
 
 When Japan surrendered in 1945 and Taiwan was restored, Zhong Lihe eagerly prepared to return home. However, post-war chaos kept him stranded in Northeast China until 1946, when he finally returned to the hometown he had left eight years earlier. Upon this return, he was no longer the naive farm boy who had departed, but a middle-aged man weathered by hardship and filled with literary aspirations.
 
-## The Golden Period of Creation and *The Man from Nativeland*
+## The Golden Period of Creation and _The Man from Nativeland_
 
 Returning home marked Zhong Lihe's golden period of creation. Starting in 1947, he began publishing short stories, emerging prominently in Taiwan's literary scene. His works, set against the backdrop of Hakka farming villages, depicted the life struggles and spiritual pursuits of ordinary people with simple, sincere prose and profound, moving emotions.
 
-In 1956, Zhong Lihe completed the first draft of his most important novel, *The Man from Nativeland*. Based on his own life experiences, this work describes the protagonist's wandering years away from home and spiritual struggles upon return. The "nativeland" in the novel represents not just a geographical hometown, but a spiritual homeland for the soul.
+In 1956, Zhong Lihe completed the first draft of his most important novel, _The Man from Nativeland_. Based on his own life experiences, this work describes the protagonist's wandering years away from home and spiritual struggles upon return. The "nativeland" in the novel represents not just a geographical hometown, but a spiritual homeland for the soul.
 
-The creation process of *The Man from Nativeland* was marked by tremendous hardship. Zhong Lihe suffered from severe tuberculosis, frequently coughing up blood, yet he persisted in writing, often revising manuscripts while bedridden. He once declared: "I must finish writing my life before I die." This devotion to literature moved countless readers and became a cherished story in Taiwan literary history.
+The creation process of _The Man from Nativeland_ was marked by tremendous hardship. Zhong Lihe suffered from severe tuberculosis, frequently coughing up blood, yet he persisted in writing, often revising manuscripts while bedridden. He once declared: "I must finish writing my life before I die." This devotion to literature moved countless readers and became a cherished story in Taiwan literary history.
 
-## *Li Mountain Farm* and Authentic Rural Life
+## _Li Mountain Farm_ and Authentic Rural Life
 
-Beyond *The Man from Nativeland*, another major work was *Li Mountain Farm*, which depicted post-war Taiwan's rural poverty and farmers' survival struggles. The protagonist, Li Nanhui, is a hardworking, kind farmer who labors intensively on barren land yet struggles to support his family.
+Beyond _The Man from Nativeland_, another major work was _Li Mountain Farm_, which depicted post-war Taiwan's rural poverty and farmers' survival struggles. The protagonist, Li Nanhui, is a hardworking, kind farmer who labors intensively on barren land yet struggles to support his family.
 
-*Li Mountain Farm*'s value lay in its authenticity. Coming from farming background himself, Zhong Lihe had intimate experience with rural life. His farmer characters lacked idealized coloring, instead truthfully reflecting Taiwan farmers' actual living conditions. The novel's poverty depictions were unvarnished, its critique of social injustice quite sharp.
+_Li Mountain Farm_'s value lay in its authenticity. Coming from farming background himself, Zhong Lihe had intimate experience with rural life. His farmer characters lacked idealized coloring, instead truthfully reflecting Taiwan farmers' actual living conditions. The novel's poverty depictions were unvarnished, its critique of social injustice quite sharp.
 
 This work created a sensation in contemporary literary circles. Many critics considered it the pioneering work of Taiwan nativist literature. Through this novel, Zhong Lihe established a model for later nativist writers like [[Huang Chunming]] and Wang Zhenhe, proving that literature could truthfully reflect farmers' lives and destinies.
 
@@ -46,9 +54,9 @@ This work created a sensation in contemporary literary circles. Many critics con
 
 Zhong Lihe's creative career was filled with loneliness and setbacks. In that era of immature literary circles, his works often failed to receive due recognition and appreciation. Many manuscripts were returned, some never even finding publication opportunities. Combined with family financial difficulties and physical ailments, his circumstances were dire indeed.
 
-However, these difficulties never made him abandon literary creation. He always believed in literature's value, confident that truly excellent works would eventually be understood and accepted. Even in life's final stages, when tuberculosis had become severe, he continued writing, using trembling hands to revise *The Man from Nativeland* manuscripts.
+However, these difficulties never made him abandon literary creation. He always believed in literature's value, confident that truly excellent works would eventually be understood and accepted. Even in life's final stages, when tuberculosis had become severe, he continued writing, using trembling hands to revise _The Man from Nativeland_ manuscripts.
 
-On August 4, 1960, while revising *The Man from Nativeland*, Zhong Lihe suddenly coughed up blood and died in the hospital despite treatment, aged 44. At his death, *The Man from Nativeland* remained unfinished—a great regret in Taiwan literary history. Yet his literary spirit deeply moved later generations, inspiring writers for decades to come.
+On August 4, 1960, while revising _The Man from Nativeland_, Zhong Lihe suddenly coughed up blood and died in the hospital despite treatment, aged 44. At his death, _The Man from Nativeland_ remained unfinished—a great regret in Taiwan literary history. Yet his literary spirit deeply moved later generations, inspiring writers for decades to come.
 
 ## Position and Influence in Taiwan Literary History
 
@@ -69,6 +77,7 @@ His concept of "nativeland" (yuan xiang) has become central to Taiwan identity d
 For contemporary Taiwan writers, Zhong Lihe remains both inspiration and challenge—inspiration to write truthfully about Taiwan experience, challenge to match his dedication to craft despite obstacles. His legacy reminds us that great literature emerges not from comfortable circumstances, but from the courage to transform suffering into art that speaks to universal human experience.
 
 ## References
+
 - [Zhong Lihe Literature and Education Foundation](http://www.jhong-li-ho.org.tw) — Official foundation promoting Zhong Lihe's literary spirit
 - [Kaohsiung City Cultural Bureau - Zhong Lihe Memorial Hall](https://heritage.khcc.gov.tw/home02.aspx?ID=$7001&IDK=2&AP=$7001_HISTORY-0) — Official introduction to the Meinong memorial
 - [National Museum of Taiwan Literature - Zhong Lihe Digital Archive](https://www.nmtl.gov.tw/informationlist_386.html) — Digital collection of works and biographical materials

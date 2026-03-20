@@ -17,19 +17,19 @@ The development of theater and performing arts in Taiwan is a moving epic of cul
 
 In 1973, at the age of 26, **Lin Hwai-min** founded Cloud Gate Dance Theatre. It was not only Taiwan's first professional dance company but also the first contemporary dance troupe in any Chinese-speaking society. The significance of this venture far exceeded the founding of an artistic group; it represented the awakening of Taiwanese cultural subjectivity and the rooting of modern art.
 
-Lin chose the name "Cloud Gate" (雲門, *Yúnmén*) from the *Lüshi Chunqiu*, which records that "During the time of the Yellow Emperor, the master Da Rong created Yúnmén." This choice symbolized a look back and tribute to the roots of Chinese culture. However, the dance language he created was entirely new—fusing Western modern dance techniques with the spirit of Eastern culture, pioneering an unprecedented form of artistic expression in Taiwan at the time.
+Lin chose the name "Cloud Gate" (雲門, _Yúnmén_) from the _Lüshi Chunqiu_, which records that "During the time of the Yellow Emperor, the master Da Rong created Yúnmén." This choice symbolized a look back and tribute to the roots of Chinese culture. However, the dance language he created was entirely new—fusing Western modern dance techniques with the spirit of Eastern culture, pioneering an unprecedented form of artistic expression in Taiwan at the time.
 
 ### The Fusion Experiment of East and West
 
 Cloud Gate's artistic achievement lies in its success in creating a unique "Cloud Gate movement style." Lin Hwai-min did not simply imitate Western modern dance, nor did he remain stagnant in the revival of traditional dance. Instead, he found new expressive possibilities through a dialogue between Eastern and Western cultures.
 
-From early works like *The Tale of the White Serpent* and *Legacy* (薪傳, *Xīnchuán*), to later masterpieces like *Nine Songs*, *Moon Water*, and *Wild Cursive*, Cloud Gate’s creations have consistently explored how to express deep cultural connotations through the physical language of modern dance. *Legacy*, in particular, which deals with the history of pioneers and immigrants in Taiwan, is not just a dance performance but an embodiment and interpretation of collective cultural memory.
+From early works like _The Tale of the White Serpent_ and _Legacy_ (薪傳, _Xīnchuán_), to later masterpieces like _Nine Songs_, _Moon Water_, and _Wild Cursive_, Cloud Gate’s creations have consistently explored how to express deep cultural connotations through the physical language of modern dance. _Legacy_, in particular, which deals with the history of pioneers and immigrants in Taiwan, is not just a dance performance but an embodiment and interpretation of collective cultural memory.
 
 ### Taiwan’s Presence on the International Stage
 
 Cloud Gate's years of international touring have allowed the world to see Taiwan's artistic creativity. From New York's Lincoln Center to London's Sadler's Wells Theatre, and from the Théâtre du Châtelet in Paris to the Berlin Festival, Cloud Gate has been a highly anticipated regular at major global arts festivals. International media have hailed Cloud Gate as a "world-class modern dance company," a recognition not just of its artistic standard but of Taiwan's cultural vitality.
 
-Lin Hwai-min himself has received numerous international honors, including the Ramon Magsaysay Award, the International Society for the Performing Arts (ISPA) Distinguished Artist Award, and the Lifetime Achievement Award from the International Dance Day Committee. *Time* magazine even named him one of "Asia’s Heroes," proving the significant status of Taiwanese performing arts on the world stage.
+Lin Hwai-min himself has received numerous international honors, including the Ramon Magsaysay Award, the International Society for the Performing Arts (ISPA) Distinguished Artist Award, and the Lifetime Achievement Award from the International Dance Day Committee. _Time_ magazine even named him one of "Asia’s Heroes," proving the significant status of Taiwanese performing arts on the world stage.
 
 ## Contemporary Legend Theatre: The Modern Transformation of Opera
 
@@ -39,15 +39,15 @@ In 1986, **Wu Hsing-kuo** founded **Contemporary Legend Theatre** (當代傳奇�
 
 Wu Hsing-kuo himself is a perfect blend of tradition and modernity. Trained as a professional Peking Opera performer, he won the Golden Statue for Best Sheng (male lead) in Taiwan's Peking Opera competitions three times. He is also a film actor who won Best New Performer at the Hong Kong Film Awards. This cross-disciplinary experience gave him a unique artistic vision, allowing him to find innovative possibilities between traditional opera and modern theater.
 
-### *The Kingdom of Desire*: A Cultural Shockwave
+### _The Kingdom of Desire_: A Cultural Shockwave
 
-Contemporary Legend Theatre's founding work, *The Kingdom of Desire* (慾望城國), is a milestone in Taiwanese theater history. This production adapted Shakespeare's *Macbeth* into the style of Peking Opera, creating an entirely new theatrical form. Wu Hsing-kuo did not just perform a Western script using Peking Opera; he created a "third possibility" based on a deep understanding of both cultural traditions.
+Contemporary Legend Theatre's founding work, _The Kingdom of Desire_ (慾望城國), is a milestone in Taiwanese theater history. This production adapted Shakespeare's _Macbeth_ into the style of Peking Opera, creating an entirely new theatrical form. Wu Hsing-kuo did not just perform a Western script using Peking Opera; he created a "third possibility" based on a deep understanding of both cultural traditions.
 
-The success of *The Kingdom of Desire* extended far beyond Taiwan, earning widespread acclaim on the international stage. The UK’s *Times* compared Wu Hsing-kuo to the famous British actor Laurence Olivier, and *The Guardian* called him "Taiwan's Shakespeare." This work showed the world the potential of combining Chinese opera with Western drama and established Contemporary Legend Theatre's position in the international theater community.
+The success of _The Kingdom of Desire_ extended far beyond Taiwan, earning widespread acclaim on the international stage. The UK’s _Times_ compared Wu Hsing-kuo to the famous British actor Laurence Olivier, and _The Guardian_ called him "Taiwan's Shakespeare." This work showed the world the potential of combining Chinese opera with Western drama and established Contemporary Legend Theatre's position in the international theater community.
 
 ### Traditional Opera and Technological Innovation
 
-Entering the 21st century, Wu Hsing-kuo has continued to push the boundaries of innovation. In 2021, the theater collaborated with Taiwan’s first immersive digital exhibition platform, "AMBI SPACE," to translate *The Water Margin* into *Ultimate Hero*, a production combining live actors with digital virtual imagery. This demonstrated new possibilities for the integration of traditional opera and modern technology.
+Entering the 21st century, Wu Hsing-kuo has continued to push the boundaries of innovation. In 2021, the theater collaborated with Taiwan’s first immersive digital exhibition platform, "AMBI SPACE," to translate _The Water Margin_ into _Ultimate Hero_, a production combining live actors with digital virtual imagery. This demonstrated new possibilities for the integration of traditional opera and modern technology.
 
 However, as Wu Hsing-kuo says, "All technology is an abstract noun; for it to be thought-provoking, it must still have a story and a text." Technological innovation is merely a tool; the core remains the story and the emotion. This persistence in the essence of art allows Contemporary Legend Theatre to maintain artistic depth while pursuing innovation.
 
@@ -80,7 +80,9 @@ The achievements of Taiwanese performing arts on the international stage prove t
 More importantly, Taiwanese performing arts provide a unique cultural perspective. In an era of globalization, Taiwan's performing arts, with their fusion of Eastern and Western creative methods, provide a mode of artistic expression that differs from the Euro-American mainstream. This diversity not only enriches the face of global performing arts but also provides valuable experience for cultural workers in other regions.
 
 ---
-*References:*
+
+_References:_
+
 - Cloud Gate Dance Theatre official records and archives.
 - Contemporary Legend Theatre production history.
 - National Theater & Concert Hall (NTCH) annual reports.

@@ -1,11 +1,19 @@
 ---
-title: "Why Taiwan Needs Its Own Knowledge Base"
+title: 'Why Taiwan Needs Its Own Knowledge Base'
 description: "When AI models speak in human language telling stories written by others, how can Taiwanese ensure their own stories aren't rewritten?"
 date: 2026-03-20
-tags: ["AI", "Information Warfare", "Open Source", "SSOT", "Knowledge Sovereignty", "Taiwan"]
-author: "Che-Yu Wu"
+tags:
+  [
+    'AI',
+    'Information Warfare',
+    'Open Source',
+    'SSOT',
+    'Knowledge Sovereignty',
+    'Taiwan',
+  ]
+author: 'Che-Yu Wu'
 readingTime: 8
-category: "About"
+category: 'About'
 lastVerified: 2026-03-20
 ---
 
@@ -36,6 +44,7 @@ If high-quality, structured content about Taiwan largely comes from non-Taiwanes
 This isn't science fiction.
 
 Current AI models can already:
+
 - Write lengthy articles in **perfect Traditional Chinese**
 - Mimic **Taiwanese tone and vocabulary**
 - Generate seemingly **well-documented** discourse
@@ -78,18 +87,23 @@ Every article in Taiwan.md undergoes community review. If someone tries to submi
 Taiwan.md has established multi-layer quality assurance mechanisms:
 
 ### 1. Contributor Review
+
 Every article is submitted through GitHub Pull Requests, reviewed by maintainers and community members before merging.
 
 ### 2. Fact-Checking
+
 Key facts in articles must include reference sources. We encourage citing official statistics, academic research, and credible media.
 
 ### 3. Complete Change History
+
 Git version control records every modification's time, author, and content differences. Anyone can trace an article's complete evolution.
 
 ### 4. Community Oversight
+
 All content is public on GitHub. Anyone can raise Issues pointing out errors or submit corrections via PRs.
 
 ### 5. AI Hallucination Cross-Reference
+
 When AI generates suspicious content about Taiwan, anyone can return to Taiwan.md for comparison—**this is the value of SSOT.**
 
 ---
@@ -99,14 +113,17 @@ When AI generates suspicious content about Taiwan, anyone can return to Taiwan.m
 Let's calculate:
 
 **Risks of Not Building Open Source Knowledge Base:**
+
 - AI models learn Taiwan knowledge from scattered, potentially biased sources
 - No unified reference standard, making disinformation hard to quickly fact-check
 - Taiwan's story told by others
 
 **Risks of Building Open Source Knowledge Base:**
+
 - Data might be "referenced" by adversaries (but they could already get similar information from Wikipedia, news, etc.)
 
 **Benefits of Building Open Source Knowledge Base:**
+
 - AI models have high-quality Taiwan perspective data to learn from
 - Anyone globally can correctly understand Taiwan
 - Community-maintained fact-checking mechanisms
@@ -149,7 +166,7 @@ For highly controversial issues (Taiwan status, language policy, transitional ju
 
 We believe: **When all well-founded perspectives are fairly presented, readers naturally form their own judgments.** This is more honest than any pretense of "neutrality."
 
-> *"We don't define what Taiwan is. We present the multiple faces of what Taiwan has been, is, and might become—and trust you to think for yourself."*
+> _"We don't define what Taiwan is. We present the multiple faces of what Taiwan has been, is, and might become—and trust you to think for yourself."_
 
 For complete perspective system explanation, see [Editorial Guidelines EDITORIAL.md](https://github.com/frank890417/taiwan-md/blob/main/EDITORIAL.md).
 

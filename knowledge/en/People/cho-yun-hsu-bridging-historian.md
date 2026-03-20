@@ -1,8 +1,15 @@
 ---
-title: "Cho-yun Hsu: Bridging East and West as a Master Historian"
-description: "Master historian, author of The Course of Chinese History, Professor Emeritus at University of Pittsburgh"
+title: 'Cho-yun Hsu: Bridging East and West as a Master Historian'
+description: 'Master historian, author of The Course of Chinese History, Professor Emeritus at University of Pittsburgh'
 date: 2026-03-20
-tags: ["historian", "historiography", "Chinese history", "cultural history", "scholar"]
+tags:
+  [
+    'historian',
+    'historiography',
+    'Chinese history',
+    'cultural history',
+    'scholar',
+  ]
 lastVerified: 2026-03-20
 ---
 
@@ -65,6 +72,7 @@ Cho-yun Hsu passed away in 2024, concluding nearly a century of life's journey. 
 Hsu's approach to Chinese history was revolutionary in its systematic integration of Western social science methods with traditional Chinese historiography. He pioneered what he called "structural history," examining long-term social, economic, and cultural patterns rather than focusing solely on dynastic changes and political events.
 
 His theoretical framework emphasized:
+
 - **Comparative Analysis**: Systematically comparing Chinese institutions with those of other civilizations
 - **Social Stratification Studies**: Examining class structures and social mobility across dynasties
 - **Cultural Adaptation**: Understanding how Chinese civilization adapted to changing internal and external pressures
@@ -77,6 +85,7 @@ This methodological innovation influenced a generation of historians and establi
 Cho-yun Hsu's work fundamentally changed how Chinese history was understood in Western academia. Before his contributions, Chinese history was often viewed as exotic or peripheral to world historical development. His scholarship demonstrated that Chinese civilization was central to understanding global historical processes.
 
 His influence extended beyond academia through:
+
 - **Training International Scholars**: Mentoring numerous students who became leading figures in Chinese studies worldwide
 - **Bridging Cultural Divides**: Facilitating understanding between Chinese and Western scholarly traditions
 - **Public Intellectual Role**: Regularly contributing to public discourse about Chinese culture and history
@@ -87,6 +96,7 @@ His influence extended beyond academia through:
 The methodological approaches Cho-yun Hsu developed continue to shape contemporary Chinese historical research. His emphasis on comparative methodology has become standard practice in the field, while his focus on social history and ordinary people's experiences anticipated later trends in historical scholarship.
 
 Modern scholars continue to build on his theoretical foundations, particularly his work on:
+
 - Cultural interaction and exchange patterns
 - Social mobility and class structure analysis
 - Comparative institutional development

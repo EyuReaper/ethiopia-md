@@ -1,11 +1,19 @@
 ---
-
-title: "Taiwan’s Fermented and Pickled Foods"
-description: "From stinky tofu to fermented rice wine, Taiwan’s fermentation culture blends Minnan, Hakka, Indigenous, and Japanese techniques into a distinctive flavor universe."
+title: 'Taiwan’s Fermented and Pickled Foods'
+description: 'From stinky tofu to fermented rice wine, Taiwan’s fermentation culture blends Minnan, Hakka, Indigenous, and Japanese techniques into a distinctive flavor universe.'
 date: 2026-03-18
-tags: ["fermented foods", "pickling", "stinky tofu", "fermented tofu", "kimchi", "microbes", "traditional craft"]
-author: "Taiwan.md"
-difficulty: "intermediate"
+tags:
+  [
+    'fermented foods',
+    'pickling',
+    'stinky tofu',
+    'fermented tofu',
+    'kimchi',
+    'microbes',
+    'traditional craft',
+  ]
+author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 15
 featured: false
 lastVerified: 2026-03-19
@@ -45,11 +53,13 @@ Traditional brine (臭滷水) is made with:
 - Brine and natural microbial environments
 
 **Fermentation stages:**
+
 1. **Early fermentation (1–2 months):** vegetables begin to break down, building a base microbial community
 2. **Deep fermentation (3–6 months):** complex microbial ecosystems develop, forming distinctive aroma compounds
 3. **Maturation (8+ months):** flavor stabilizes and the brine becomes usable
 
 **Microbial dynamics:**
+
 - Proteins break into amino acids
 - Sulfur compounds (hydrogen sulfide, ammonia) create the signature odor
 - Esters and aldehydes create layered aroma and flavor
@@ -69,17 +79,20 @@ Modern producers now isolate strains, control fermentation conditions, and imple
 Fermented tofu is a domestic icon—soft, creamy cubes aged with salt, rice wine, and spices.
 
 **Traditional process:**
+
 1. Firm tofu is cut into blocks
 2. Mold inoculation (natural or cultivated)
 3. White mycelium growth under controlled temperature and humidity
 4. Salt, wine, and spice aging
 
 **Styles:**
+
 - **White:** mild and creamy
 - **Red:** colored with red yeast rice (紅麴)
 - **Spicy:** infused with chili and pepper
 
 **Nutritional value:**
+
 - High in vitamin B12
 - Protein is more digestible
 - Rich in calcium and phosphorus
@@ -89,11 +102,13 @@ Fermented tofu is a domestic icon—soft, creamy cubes aged with salt, rice wine
 Pickles in Taiwan are a science of time and salt. They offer balance to fatty dishes and provide crisp textures year-round.
 
 **Common varieties:**
+
 - **Pickled cabbage:** lightly sour and refreshing
 - **Dried radish (蘿蔔乾/菜脯):** chewy, sweet-salty, used in omelets or stir-fries
 - **Pickled cucumbers:** crunchy, sweet-and-sour, a popular side dish
 
 **Preservation principles:**
+
 - Salt-driven dehydration lowers water activity
 - Lactic fermentation creates acidity that inhibits harmful bacteria
 - Enzymes and Maillard reactions generate depth of flavor
@@ -132,11 +147,13 @@ Taiwan’s fermentation sector is now a hybrid of tradition and technology:
 - **Exports:** growing steadily
 
 **Innovation trends:**
+
 - Strain selection and fermentation control
 - Automated equipment and quality monitoring
 - Functional fermented products with health claims
 
 **Food safety systems:**
+
 - National Food Safety and Sanitation Act
 - Pathogen testing and heavy metal screening
 - Standards specific to fermented foods

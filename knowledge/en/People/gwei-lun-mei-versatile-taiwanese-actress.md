@@ -1,14 +1,21 @@
 ---
-title: "Gwei Lun-Mei"
+title: 'Gwei Lun-Mei'
 description: "From 'Secret' to international film festivals, a low-key method actress who represents Taiwan's new generation of cinema talent"
 date: 2026-03-20
-tags: ["Gwei Lun-Mei", "actress", "Secret", "international film festivals", "method acting"]
+tags:
+  [
+    'Gwei Lun-Mei',
+    'actress',
+    'Secret',
+    'international film festivals',
+    'method acting',
+  ]
 lastVerified: 2026-03-20
 ---
 
 # Gwei Lun-Mei: Taiwan's Quietly Resilient Method Actress
 
-Gwei Lun-Mei stands among Taiwan's most accomplished actresses of her generation, renowned for her authentic and sincere acting style coupled with a refreshingly low-key personal approach. Rising to prominence in 2007 through Jay Chou's directorial debut "Secret," she has since delivered nuanced performances in films like "Blue Gate Crossing" and "GF*BF," establishing herself as a regular presence at international film festivals and multiple Golden Horse Award nominee. Critics regard her as one of Taiwan's most precious cinematic assets.
+Gwei Lun-Mei stands among Taiwan's most accomplished actresses of her generation, renowned for her authentic and sincere acting style coupled with a refreshingly low-key personal approach. Rising to prominence in 2007 through Jay Chou's directorial debut "Secret," she has since delivered nuanced performances in films like "Blue Gate Crossing" and "GF\*BF," establishing herself as a regular presence at international film festivals and multiple Golden Horse Award nominee. Critics regard her as one of Taiwan's most precious cinematic assets.
 
 ## A Military Dependents' Village Girl's Artistic Awakening
 
@@ -46,7 +53,7 @@ In interviews, Gwei Lun-Mei frequently expresses gratitude and remembrance for Y
 
 Gwei Lun-Mei's works regularly gain selection for international film festivals, and she has been invited multiple times to serve as a festival judge. These experiences have broadened her international perspective while enhancing Taiwan cinema's global visibility.
 
-Her 2012 film "GF*BF" stands as one of her most significant works, co-starring with Joseph Chang and Rhydian Vaughan in a complex emotional triangle. The production was selected for multiple international festivals and received widespread critical praise.
+Her 2012 film "GF\*BF" stands as one of her most significant works, co-starring with Joseph Chang and Rhydian Vaughan in a complex emotional triangle. The production was selected for multiple international festivals and received widespread critical praise.
 
 She has also participated in works by Hong Kong director Ann Hui, including "Our Time Will Come," demonstrating her adaptability across different cultural contexts. These cross-regional collaborations have enriched her performance experiences considerably.
 

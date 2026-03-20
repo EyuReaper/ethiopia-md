@@ -1,6 +1,6 @@
 ---
-title: "Terrain and Geology"
-description: "Taiwan’s compact island holds dramatic vertical relief, five mountain ranges, and living plate tectonics that shape its landscapes, hot springs, and seismic life."
+title: 'Terrain and Geology'
+description: 'Taiwan’s compact island holds dramatic vertical relief, five mountain ranges, and living plate tectonics that shape its landscapes, hot springs, and seismic life.'
 date: 2026-03-17
 tags: [geography, geology, mountains, plate-tectonics, earthquakes, hot-springs]
 lastVerified: 2026-03-19
@@ -11,7 +11,7 @@ lastVerified: 2026-03-19
 Taiwan is a small island—just 36,197 square kilometers—but its geography behaves like a continent. From sea level to the 3,952‑meter summit of Yushan (玉山), the vertical rise approaches 4,000 meters within a short horizontal distance. That steep relief compresses climate zones, ecosystems, and geological stories into a single day’s drive. Taiwan is a living laboratory of plate tectonics, and the landscape you see today is still being built, millimeter by millimeter, every year.
 
 ![Taroko Gorge’s marble cliffs](/images/wiki/taroko-gorge-swallow-grotto.jpg)
-*Image source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taroko_National_Park_Wei_01.jpg) | CC BY-SA 4.0 | Photo by Wei*
+_Image source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taroko_National_Park_Wei_01.jpg) | CC BY-SA 4.0 | Photo by Wei_
 
 ## The Miracle of Plate Collision
 
@@ -163,7 +163,8 @@ Taiwan’s terrain is not just scenery; it is a living narrative of collision, u
 
 ---
 
-*References:*
+_References:_
+
 - [Geological Survey and Mining Management Agency, MOEA](https://www.gsmma.gov.tw/)
 - [Central Weather Administration – Seismic Center](https://scweb.cwa.gov.tw/)
 - [NTU Department of Geosciences](http://www.gl.ntu.edu.tw/)

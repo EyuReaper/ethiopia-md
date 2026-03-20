@@ -1,8 +1,16 @@
 ---
-title: "Jam Hsiao"
+title: 'Jam Hsiao'
 description: "Taiwan's 'Rain God,' Golden Melody Award winner who transformed from street performer to international superstar"
 date: 2026-03-20
-tags: ["music", "pop-music", "jazz", "street-performer", "golden-melody-award", "rain-god"]
+tags:
+  [
+    'music',
+    'pop-music',
+    'jazz',
+    'street-performer',
+    'golden-melody-award',
+    'rain-god',
+  ]
 lastVerified: 2026-03-20
 ---
 

@@ -2,7 +2,7 @@
 title: "Chen Wei-yin: Taiwan's MLB Pioneer"
 description: "Taiwan's successful Major League Baseball pitcher who brought pride to Taiwan on international baseball's biggest stage"
 date: 2026-03-20
-tags: ["baseball", "MLB", "sports", "athlete", "pitcher"]
+tags: ['baseball', 'MLB', 'sports', 'athlete', 'pitcher']
 lastVerified: 2026-03-20
 ---
 

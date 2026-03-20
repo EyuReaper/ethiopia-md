@@ -1,8 +1,9 @@
 ---
-title: "Kevin Lin Yi-jie"
+title: 'Kevin Lin Yi-jie'
 description: "Taiwanese ultramarathon legend who conquered Earth's most extreme environments on foot, first person to run across the Sahara Desert"
 date: 2026-03-19
-tags: ["people", "ultramarathon", "extreme exploration", "athlete", "Sahara Desert"]
+tags:
+  ['people', 'ultramarathon', 'extreme exploration', 'athlete', 'Sahara Desert']
 lastVerified: 2026-03-19
 ---
 

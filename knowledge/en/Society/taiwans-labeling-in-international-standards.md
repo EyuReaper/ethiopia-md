@@ -1,12 +1,19 @@
 ---
-
-title: "Taiwan’s Labeling in International Standards"
-description: "From ISO codes to open‑source datasets—how Taiwan’s name is negotiated across global digital infrastructure"
+title: 'Taiwan’s Labeling in International Standards'
+description: 'From ISO codes to open‑source datasets—how Taiwan’s name is negotiated across global digital infrastructure'
 date: 2026-03-18
-category: "Society"
-tags: ["ISO 3166", "international standards", "open source", "g0v", "digital sovereignty", "Taiwan naming"]
-author: "Taiwan.md Contributors"
-difficulty: "intermediate"
+category: 'Society'
+tags:
+  [
+    'ISO 3166',
+    'international standards',
+    'open source',
+    'g0v',
+    'digital sovereignty',
+    'Taiwan naming',
+  ]
+author: 'Taiwan.md Contributors'
+difficulty: 'intermediate'
 readingTime: 10
 featured: false
 lastVerified: 2026-03-19
@@ -111,4 +118,4 @@ Each small fix—choosing “Taiwan” in a UI, using CLDR names, updating a dat
 
 ---
 
-*With appreciation to g0v contributors and open‑source maintainers who keep Taiwan’s name accurate in global software systems.*
+_With appreciation to g0v contributors and open‑source maintainers who keep Taiwan’s name accurate in global software systems._

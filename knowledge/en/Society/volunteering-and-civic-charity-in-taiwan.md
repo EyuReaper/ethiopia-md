@@ -1,11 +1,17 @@
 ---
-
-title: "Volunteering and Civic Charity in Taiwan"
-description: "From Tzu Chi’s relief network to neighborhood mutual aid—how Taiwan built one of Asia’s most active volunteer cultures"
+title: 'Volunteering and Civic Charity in Taiwan'
+description: 'From Tzu Chi’s relief network to neighborhood mutual aid—how Taiwan built one of Asia’s most active volunteer cultures'
 date: 2026-03-19
-tags: ["volunteering", "NGOs", "charity", "civic participation", "community building"]
-category: "Society"
-author: "Taiwan.md"
+tags:
+  [
+    'volunteering',
+    'NGOs',
+    'charity',
+    'civic participation',
+    'community building',
+  ]
+category: 'Society'
+author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-19
 ---
@@ -55,17 +61,20 @@ As society modernized, volunteering diversified and professionalized:
 ### Faith‑Based and Charity Networks
 
 **Tzu Chi Foundation**
+
 - Active in over 60 countries
 - Four major missions: charity, medical care, education, humanistic culture
 - Tens of thousands of Taiwanese volunteers
 - Known for rapid disaster response, bone‑marrow registries, and recycling programs
 
 **Fo Guang Shan (Buddhist Light International Association)**
+
 - Global network of temples and community centers
 - Strong youth volunteer programs
 - Cultural education and social care as core missions
 
 **Christian NGOs**
+
 - **World Vision Taiwan**: child sponsorship and community development
 - **Mennonite hospitals**: rural healthcare
 - **Mustard Seed Mission**: support for vulnerable families
@@ -73,23 +82,29 @@ As society modernized, volunteering diversified and professionalized:
 ### Environmental and Conservation NGOs
 
 **Society of Wilderness (founded 1995)**
+
 - Citizen ecology projects, coastal cleanups, trail stewardship
 
 **Homemakers United Foundation**
+
 - Focus on food safety, sustainable consumption, and environmental advocacy
 
 **Environmental Quality Protection Foundation**
+
 - Environmental monitoring, citizen participation in impact assessments
 
 ### Social Welfare and Care
 
 **Red Cross Society of the ROC**
+
 - Disaster relief, first‑aid training, humanitarian support
 
 **Foundation for Orphaned Children**
+
 - Tutoring, counseling, and mentoring programs
 
 **Elder‑care NGOs** (e.g., Old 5 Old Foundation)
+
 - “Seniors caring for seniors” model
 - Home visits, phone check‑ins, health promotion
 
@@ -109,6 +124,7 @@ According to Ministry of Health and Welfare statistics:
 - **Estimated economic value:** roughly NT$24 billion
 
 **Demographics**
+
 - Age 45–64: ~45% (core workforce)
 - Age 65+: ~25% (retirees with high civic engagement)
 - Age 25–44: ~20%

@@ -1,9 +1,17 @@
 ---
-
-title: "Nieh Yung-jen (聶永真)"
-description: "Taiwanese graphic designer and AGI member, known for Golden Melody Awards visuals and presidential inauguration identities"
+title: 'Nieh Yung-jen (聶永真)'
+description: 'Taiwanese graphic designer and AGI member, known for Golden Melody Awards visuals and presidential inauguration identities'
 date: 2026-03-19
-tags: ["people", "Nieh Yung-jen", "designer", "graphic design", "AGI", "visual identity", "Taiwan"]
+tags:
+  [
+    'people',
+    'Nieh Yung-jen',
+    'designer',
+    'graphic design',
+    'AGI',
+    'visual identity',
+    'Taiwan',
+  ]
 lastVerified: 2026-03-19
 ---
 
@@ -27,7 +35,7 @@ His work is defined by three recurring principles:
 2. **The power of whitespace** — silence and space become part of the message.
 3. **Visual translation of music** — design is a continuation of the album’s mood, not a decorative wrapper.
 
-For example, his design for Cheer Chen’s *The Meaning of Travel* (旅行的意義) uses delicate typography and a soft palette to evoke a quiet, wandering sensibility. The result is a cover that feels like the music itself—gentle, thoughtful, and intimate.
+For example, his design for Cheer Chen’s _The Meaning of Travel_ (旅行的意義) uses delicate typography and a soft palette to evoke a quiet, wandering sensibility. The result is a cover that feels like the music itself—gentle, thoughtful, and intimate.
 
 ## Political Visuals as Cultural Signals
 
@@ -49,7 +57,7 @@ International recognition expanded his influence, bringing him into dialogue wit
 
 ## Eastern Modernism in Branding
 
-Beyond music and politics, Nieh has shaped the identities of many Taiwanese brands. His approach can be described as *Eastern modernism*: extracting cultural essence rather than replicating traditional motifs. He translates Taiwan’s sensibilities into contemporary form—clean lines, balanced typography, and restrained color systems that feel both rooted and global.
+Beyond music and politics, Nieh has shaped the identities of many Taiwanese brands. His approach can be described as _Eastern modernism_: extracting cultural essence rather than replicating traditional motifs. He translates Taiwan’s sensibilities into contemporary form—clean lines, balanced typography, and restrained color systems that feel both rooted and global.
 
 One example is the “Taiwan” logotype created for tourism branding. Its flowing strokes echo the island’s maritime character, while its warm palette suggests hospitality. The result is subtle yet unmistakably Taiwanese.
 

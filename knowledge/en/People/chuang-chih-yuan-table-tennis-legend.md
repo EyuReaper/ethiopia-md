@@ -1,8 +1,15 @@
 ---
-title: "Chuang Chih-yuan"
-description: "Table tennis legend, four-time Olympian, the solitary warrior who conquered European professional leagues"
+title: 'Chuang Chih-yuan'
+description: 'Table tennis legend, four-time Olympian, the solitary warrior who conquered European professional leagues'
 date: 2026-03-20
-tags: ["Sports", "Table Tennis", "Olympics", "Professional Table Tennis", "European League"]
+tags:
+  [
+    'Sports',
+    'Table Tennis',
+    'Olympics',
+    'Professional Table Tennis',
+    'European League',
+  ]
 lastVerified: 2026-03-20
 ---
 

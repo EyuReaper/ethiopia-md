@@ -1,8 +1,16 @@
 ---
-title: "Li Zongsheng (Jonathan Lee)"
-description: "Taiwan’s master songwriter and producer whose songs turned life’s joys and losses into a shared language"
+title: 'Li Zongsheng (Jonathan Lee)'
+description: 'Taiwan’s master songwriter and producer whose songs turned life’s joys and losses into a shared language'
 date: 2026-03-19
-tags: ["music", "singer-songwriter", "producer", "Mandopop", "lyricism", "life philosophy"]
+tags:
+  [
+    'music',
+    'singer-songwriter',
+    'producer',
+    'Mandopop',
+    'lyricism',
+    'life philosophy',
+  ]
 lastVerified: 2026-03-19
 ---
 
@@ -32,7 +40,7 @@ What made his writing distinctive was its **plainspoken precision**. Li doesn’
 
 ## “The Hill” and the Sound of Midlife
 
-In 2013, Li released **“The Hill (山丘)”**, widely regarded as his late-career masterpiece. The line *“crossed over the hill, only to find no one waiting”* resonated across generations, especially among those entering middle age. The song is not about defeat; it’s about what it means to keep walking when the romantic promises of youth no longer apply.
+In 2013, Li released **“The Hill (山丘)”**, widely regarded as his late-career masterpiece. The line _“crossed over the hill, only to find no one waiting”_ resonated across generations, especially among those entering middle age. The song is not about defeat; it’s about what it means to keep walking when the romantic promises of youth no longer apply.
 
 For Taiwanese audiences, “The Hill” became more than a hit—it became a cultural moment, a shared reflection on aging in a rapidly changing society.
 

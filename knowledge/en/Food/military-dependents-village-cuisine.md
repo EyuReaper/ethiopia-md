@@ -1,12 +1,19 @@
 ---
-title: "Military Dependents’ Village Cuisine (眷村菜)"
-description: "A 1949 taste migration that blended regional Chinese flavors inside bamboo-fenced villages, and how those kitchens reshaped Taiwan’s food memory"
+title: 'Military Dependents’ Village Cuisine (眷村菜)'
+description: 'A 1949 taste migration that blended regional Chinese flavors inside bamboo-fenced villages, and how those kitchens reshaped Taiwan’s food memory'
 date: 2026-03-19
-tags: ["military dependents’ villages", "waisheng cuisine", "beef noodle soup", "migration", "bamboo fences"]
-author: "Taiwan.md"
+tags:
+  [
+    'military dependents’ villages',
+    'waisheng cuisine',
+    'beef noodle soup',
+    'migration',
+    'bamboo fences',
+  ]
+author: 'Taiwan.md'
 readingTime: 8
 featured: false
-category: "Food"
+category: 'Food'
 lastVerified: 2026-03-19
 ---
 

@@ -1,9 +1,16 @@
 ---
-
-title: "The Buffet Aunties’ Intuitive Pricing"
-description: "A human algorithm Taiwan has not fully automated: how the self‑serve buffet auntie prices your plate with a single glance"
-tags: ["buffet", "everyday life", "algorithms", "fuzzy logic", "Taiwanese culture", "food culture"]
-author: "Taiwan.md Contributors"
+title: 'The Buffet Aunties’ Intuitive Pricing'
+description: 'A human algorithm Taiwan has not fully automated: how the self‑serve buffet auntie prices your plate with a single glance'
+tags:
+  [
+    'buffet',
+    'everyday life',
+    'algorithms',
+    'fuzzy logic',
+    'Taiwanese culture',
+    'food culture',
+  ]
+author: 'Taiwan.md Contributors'
 date: 2026-03-19
 readingTime: 5
 featured: false
@@ -113,6 +120,6 @@ What looks like a casual number is actually the output of a sophisticated, lived
 
 You might still wonder how the auntie calculates your plate. But perhaps the more Taiwan‑like answer is this:
 
-She doesn’t “calculate.” She *reads the room*.
+She doesn’t “calculate.” She _reads the room_.
 
 And that, in Taiwan, is a kind of intelligence you can taste.

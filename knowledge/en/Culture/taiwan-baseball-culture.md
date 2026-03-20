@@ -1,11 +1,20 @@
 ---
-title: "Taiwan Baseball Culture"
+title: 'Taiwan Baseball Culture'
 description: "From the legendary Red Leaf Little League to CPBL tears and triumphs — how baseball became Taiwan's 'national sport'"
 date: 2026-03-18
-category: "Culture"
-tags: ["baseball", "CPBL", "Red Leaf Little League", "national sport", "sports", "Wang Chien-ming", "Otani effect"]
-author: "Taiwan.md Contributors"
-difficulty: "beginner"
+category: 'Culture'
+tags:
+  [
+    'baseball',
+    'CPBL',
+    'Red Leaf Little League',
+    'national sport',
+    'sports',
+    'Wang Chien-ming',
+    'Otani effect',
+  ]
+author: 'Taiwan.md Contributors'
+difficulty: 'beginner'
 readingTime: 10
 featured: false
 lastVerified: 2026-03-19

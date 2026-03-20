@@ -1,12 +1,19 @@
 ---
-title: "Taiwan’s Vegetarian Culture"
-description: "From Buddhist compassion to inventive plant‑based cuisine, Taiwan has become a global hub for vegetarian living and culinary innovation."
+title: 'Taiwan’s Vegetarian Culture'
+description: 'From Buddhist compassion to inventive plant‑based cuisine, Taiwan has become a global hub for vegetarian living and culinary innovation.'
 date: 2026-03-19
-tags: ["vegetarian", "Buddhism", "plant-based cuisine", "Tzu Chi", "vegetarian restaurants"]
-author: "Taiwan.md"
+tags:
+  [
+    'vegetarian',
+    'Buddhism',
+    'plant-based cuisine',
+    'Tzu Chi',
+    'vegetarian restaurants',
+  ]
+author: 'Taiwan.md'
 readingTime: 8
 featured: false
-category: "Food"
+category: 'Food'
 lastVerified: 2026-03-19
 ---
 
@@ -97,6 +104,6 @@ In a world seeking new food futures, Taiwan’s vegetarian landscape offers a ma
 - 《台灣素食文化研究》，釋果東著，法鼓文化，2020年
 - 〈台灣素食市場調查報告〉，《食品工業月刊》第52卷第3期，2019年
 - 《慈濟素食文化的社會實踐》，王順民著，洪葉文化，2018年
-- "Vegetarianism in Taiwan: Religious and Cultural Perspectives", *Asian Studies Review*, March 2021
+- "Vegetarianism in Taiwan: Religious and Cultural Perspectives", _Asian Studies Review_, March 2021
 - 中華民國素食營養學會官網：https://www.tvna.org.tw/
 - 《台灣佛教與素食文化》，聖嚴法師著，法鼓文化，2017年

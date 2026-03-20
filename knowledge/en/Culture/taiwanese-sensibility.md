@@ -1,12 +1,20 @@
 ---
-
-title: "Taiwanese Sensibility: The Taiwan Aesthetic Through Korean Eyes"
+title: 'Taiwanese Sensibility: The Taiwan Aesthetic Through Korean Eyes'
 description: "From K-pop MVs to Seoul Book Fair, how '대만감성' made Taiwan's everyday street scenes Asia's most charming aesthetic symbol"
 date: 2026-03-18
-category: "Culture"
-tags: ["Taiwanese sensibility", "대만감성", "Korea", "aesthetics", "streetscape", "cultural export", "tourism"]
-author: "Taiwan.md"
-difficulty: "beginner"
+category: 'Culture'
+tags:
+  [
+    'Taiwanese sensibility',
+    '대만감성',
+    'Korea',
+    'aesthetics',
+    'streetscape',
+    'cultural export',
+    'tourism',
+  ]
+author: 'Taiwan.md'
+difficulty: 'beginner'
 readingTime: 12
 featured: false
 lastVerified: 2026-03-19
@@ -57,7 +65,7 @@ Taiwanese Sensibility has a highly recognizable visual language:
 ### Life Scenes
 
 - Traditional market stalls and vendors
-- Moments waiting for trains at railroad crossings  
+- Moments waiting for trains at railroad crossings
 - Late-night convenience stores glowing
 - Spectacular sight of motorcycles filling entire streets
 - Neighborhood grocery stores and ice shops in alleys
@@ -120,20 +128,20 @@ Taiwanese Sensibility is an extremely visual concept—words can hardly convey i
 
 ### Core Hashtags
 
-| Hashtag | Meaning | Link |
-|---------|---------|------|
+| Hashtag       | Meaning                              | Link                                                          |
+| ------------- | ------------------------------------ | ------------------------------------------------------------- |
 | **#대만감성** | Taiwanese Sensibility (main hashtag) | [Instagram](https://www.instagram.com/explore/tags/대만감성/) |
-| **#대만여행** | Taiwan Travel | [Instagram](https://www.instagram.com/explore/tags/대만여행/) |
-| **#대만카페** | Taiwan Cafes | [Instagram](https://www.instagram.com/explore/tags/대만카페/) |
+| **#대만여행** | Taiwan Travel                        | [Instagram](https://www.instagram.com/explore/tags/대만여행/) |
+| **#대만카페** | Taiwan Cafes                         | [Instagram](https://www.instagram.com/explore/tags/대만카페/) |
 
 ### Scene-Based Hashtags
 
-| Hashtag | Meaning | Link |
-|---------|---------|------|
-| **#대만맛집** | Taiwan Food | [Instagram](https://www.instagram.com/explore/tags/대만맛집/) |
+| Hashtag         | Meaning              | Link                                                            |
+| --------------- | -------------------- | --------------------------------------------------------------- |
+| **#대만맛집**   | Taiwan Food          | [Instagram](https://www.instagram.com/explore/tags/대만맛집/)   |
 | **#대만야시장** | Taiwan Night Markets | [Instagram](https://www.instagram.com/explore/tags/대만야시장/) |
-| **#대만거리** | Taiwan Streets | [Instagram](https://www.instagram.com/explore/tags/대만거리/) |
-| **#타이베이** | Taipei | [Instagram](https://www.instagram.com/explore/tags/타이베이/) |
+| **#대만거리**   | Taiwan Streets       | [Instagram](https://www.instagram.com/explore/tags/대만거리/)   |
+| **#타이베이**   | Taipei               | [Instagram](https://www.instagram.com/explore/tags/타이베이/)   |
 
 ### Notable Accounts
 
@@ -180,15 +188,15 @@ This might be Taiwanese Sensibility's deepest meaning: seeing ourselves anew thr
 
 ## Numbers Tell the Story
 
-| Metric | Data |
-|---------|------|
-| 2024 Korean visitors to Taiwan | Over 620,000 (3rd largest source) |
-| January 2024 Korean visitors | 113,000 (first among all sources that month) |
-| 2025 Seoul Book Fair Taiwan Pavilion size | 360 square meters |
-| Exhibited books | 550 titles |
-| Fair events | Over 62 |
-| Total fair attendance | Over 150,000 (record-breaking) |
-| Copyright meetings | Over 550 |
+| Metric                                    | Data                                         |
+| ----------------------------------------- | -------------------------------------------- |
+| 2024 Korean visitors to Taiwan            | Over 620,000 (3rd largest source)            |
+| January 2024 Korean visitors              | 113,000 (first among all sources that month) |
+| 2025 Seoul Book Fair Taiwan Pavilion size | 360 square meters                            |
+| Exhibited books                           | 550 titles                                   |
+| Fair events                               | Over 62                                      |
+| Total fair attendance                     | Over 150,000 (record-breaking)               |
+| Copyright meetings                        | Over 550                                     |
 
 ---
 
@@ -203,7 +211,7 @@ This might be Taiwanese Sensibility's deepest meaning: seeing ourselves anew thr
 ### Related Topics
 
 - **→ [Taiwan Tea Ceremony and Aesthetic Living]**: Another representation of Taiwan's slow living
-- **→ [Food and Night Market Culture]**: Indispensable taste elements in Taiwanese Sensibility  
+- **→ [Food and Night Market Culture]**: Indispensable taste elements in Taiwanese Sensibility
 - **→ [Convenience Store Culture]**: Late-night convenience stores are classic Taiwanese Sensibility scenes
 
 ---
@@ -224,4 +232,4 @@ This might be Taiwanese Sensibility's deepest meaning: seeing ourselves anew thr
 
 ---
 
-*This article uses a three-tier reading depth design, suitable for readers with different needs. Contributions of additional content are welcome!*
+_This article uses a three-tier reading depth design, suitable for readers with different needs. Contributions of additional content are welcome!_

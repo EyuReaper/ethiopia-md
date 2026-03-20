@@ -1,12 +1,20 @@
 ---
-title: "Taiwan’s Electronic Music & Party Culture: From Underground Raves to Global Stages"
-description: "How Taiwan’s EDM scene evolved from warehouse raves to international festivals, and why its DIY labels still matter"
+title: 'Taiwan’s Electronic Music & Party Culture: From Underground Raves to Global Stages'
+description: 'How Taiwan’s EDM scene evolved from warehouse raves to international festivals, and why its DIY labels still matter'
 date: 2026-03-19
-tags: ["electronic music", "rave", "party culture", "DJ", "festivals", "underground"]
-author: "Taiwan.md"
+tags:
+  [
+    'electronic music',
+    'rave',
+    'party culture',
+    'DJ',
+    'festivals',
+    'underground',
+  ]
+author: 'Taiwan.md'
 readingTime: 15
 featured: true
-category: "Music"
+category: 'Music'
 lastVerified: 2026-03-19
 ---
 

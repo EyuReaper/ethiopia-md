@@ -1,9 +1,18 @@
 ---
-title: "Taiwanese Breakfast Culture"
-description: "From danbing and shaobing‑youtiao to the global rise of Yonghe Soy Milk, Taiwan’s morning ritual is a living map of migration, innovation, and neighborhood warmth."
+title: 'Taiwanese Breakfast Culture'
+description: 'From danbing and shaobing‑youtiao to the global rise of Yonghe Soy Milk, Taiwan’s morning ritual is a living map of migration, innovation, and neighborhood warmth.'
 date: 2026-03-18
-tags: ["breakfast", "danbing", "shaobing-youtiao", "Yonghe Soy Milk", "Mei & Mei", "breakfast shops", "soy milk"]
-category: "Food"
+tags:
+  [
+    'breakfast',
+    'danbing',
+    'shaobing-youtiao',
+    'Yonghe Soy Milk',
+    'Mei & Mei',
+    'breakfast shops',
+    'soy milk',
+  ]
+category: 'Food'
 lastVerified: 2026-03-19
 ---
 
@@ -14,7 +23,7 @@ At 6:30 a.m., Taiwanese streets already smell like sizzling **danbing (蛋餅)**
 Taiwanese breakfast is special not only because of variety but because it merges Chinese traditions, Japanese influence, and local invention. From wheat‑based northern dishes to rice‑based southern ones, Taiwan learned to absorb, remix, and make the morning its own. Breakfast shops became neighborhood landmarks, economic micro‑engines, and an everyday expression of Taiwan’s hospitality.
 
 ![Taiwanese breakfast shop](/images/wiki/taiwan_breakfast.jpg)
-*Image source: a typical Taiwanese breakfast shop with danbing, burgers, and soy milk*
+_Image source: a typical Taiwanese breakfast shop with danbing, burgers, and soy milk_
 
 ## From “no breakfast” to a breakfast nation
 
@@ -23,11 +32,13 @@ In traditional agrarian Taiwan, people did not eat a defined “breakfast.” Fa
 After 1949, large waves of mainland Chinese migrants brought northern wheat‑based techniques: steaming, dough fermentation, and soy processing. Taiwan then layered in local ingredients and tastes. The result is a hybrid breakfast landscape.
 
 **Northern influences:**
+
 - **Shaobing‑youtiao (燒餅油條):** baked sesame flatbread + fried dough stick
 - **Soy milk (豆漿):** a classic protein drink
 - **Baozi and mantou (包子、饅頭):** steamed buns
 
 **Local adaptations:**
+
 - **Rice milk (米漿):** a Taiwanese rice‑based drink
 - **Fan‑tuan (飯糰):** a localized rice roll
 - **Taiwanese danbing (粉漿蛋餅):** a batter‑based crepe unique to Taiwan
@@ -39,6 +50,7 @@ After 1949, large waves of mainland Chinese migrants brought northern wheat‑ba
 Danbing is the flagship of Taiwan’s breakfast identity. Its appeal is **flexibility**: it can be simple or endlessly customized.
 
 **How it’s made:**
+
 1. Thin batter or flatbread on a griddle
 2. Beaten egg layered on top
 3. Rolled and sliced
@@ -74,6 +86,7 @@ It is the ultimate “eat‑on‑the‑go” breakfast for students and commuter
 The most successful international symbol of Taiwanese breakfast is **Yonghe Soy Milk**. It began in 1955 as a small shop in Yonghe (永和), selling shaobing, youtiao, and soy milk. The brand expanded across Taipei in the 1980s, and by the 1990s reached overseas Chinese communities.
 
 **Why it worked:**
+
 1. **Standardized recipes** for consistent taste
 2. **Localized adaptation** for different markets
 3. **Strong brand identity** tied to Taiwanese comfort food
@@ -86,6 +99,7 @@ Today, Yonghe Soy Milk is a global shorthand for “Taiwanese breakfast.”
 **Mei & Mei (美而美)** was a pioneer of breakfast franchising. Founded in 1983, it professionalized the industry through standardized menus, clean interiors, and a franchise model that made small‑business ownership accessible.
 
 Its impact:
+
 - Raised hygiene and service expectations
 - Encouraged central kitchens and consistent supply chains
 - Inspired dozens of later breakfast chains

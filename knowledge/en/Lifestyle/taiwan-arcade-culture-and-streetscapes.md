@@ -1,10 +1,19 @@
 ---
-
-title: "Taiwan’s Arcade Culture and Streetscapes"
-description: "From colonial planning to everyday ingenuity, Taiwan’s covered arcades shape street life, commerce, and the politics of public space."
+title: 'Taiwan’s Arcade Culture and Streetscapes'
+description: 'From colonial planning to everyday ingenuity, Taiwan’s covered arcades shape street life, commerce, and the politics of public space.'
 date: 2026-03-18
-tags: ["arcades", "streetscapes", "urban architecture", "street vendors", "scooter parking", "urban renewal", "colonial architecture", "public space"]
-category: "Lifestyle"
+tags:
+  [
+    'arcades',
+    'streetscapes',
+    'urban architecture',
+    'street vendors',
+    'scooter parking',
+    'urban renewal',
+    'colonial architecture',
+    'public space',
+  ]
+category: 'Lifestyle'
 featured: true
 lastVerified: 2026-03-19
 ---
@@ -18,7 +27,7 @@ Under the arcades, you’ll see daily life in motion: breakfast stalls setting u
 The qílóu’s evolution mirrors Taiwan’s social shifts: colonial modernization, postwar self-built housing, the rise of informal economies, the dominance of scooters, and contemporary debates on urban renewal. It is a story of adaptation and negotiation—between climate and architecture, commerce and mobility, regulation and improvisation.
 
 ![Taiwan arcade streetscape](/images/wiki/taiwan_arcade.jpg)
-*Photo: Arcaded shophouses in Dihua Street, Taipei, a classic commercial district where the qílóu defines the street’s rhythm.*
+_Photo: Arcaded shophouses in Dihua Street, Taipei, a classic commercial district where the qílóu defines the street’s rhythm._
 
 ## Origins: From Southeast Asia to Taiwanese Streets
 

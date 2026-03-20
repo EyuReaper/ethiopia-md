@@ -1,12 +1,19 @@
 ---
-title: "Taiwan’s Coffee Industry"
-description: "From Japanese-era plantings to a world barista champion, the century-long rise of Taiwan coffee"
+title: 'Taiwan’s Coffee Industry'
+description: 'From Japanese-era plantings to a world barista champion, the century-long rise of Taiwan coffee'
 date: 2026-03-19
-tags: ["coffee", "Gukeng coffee", "Alishan coffee", "Simple Kaffa", "third-wave coffee"]
-author: "Taiwan.md"
+tags:
+  [
+    'coffee',
+    'Gukeng coffee',
+    'Alishan coffee',
+    'Simple Kaffa',
+    'third-wave coffee',
+  ]
+author: 'Taiwan.md'
 readingTime: 9
 featured: true
-category: "Food"
+category: 'Food'
 lastVerified: 2026-03-19
 ---
 

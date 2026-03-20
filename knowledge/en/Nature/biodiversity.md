@@ -1,14 +1,20 @@
 ---
-
-title: "Biodiversity on a Small Island: Why Taiwan Is a Global Hotspot"
-description: "Taiwan holds more than 59,000 recorded species and an unusually high rate of endemism. This article translates the island’s biodiversity into its ecological, cultural, and conservation meaning."
+title: 'Biodiversity on a Small Island: Why Taiwan Is a Global Hotspot'
+description: 'Taiwan holds more than 59,000 recorded species and an unusually high rate of endemism. This article translates the island’s biodiversity into its ecological, cultural, and conservation meaning.'
 date: 2026-03-18
-tags: ["biodiversity", "endemic species", "conservation", "ecosystems", "environmental protection"]
-author: "Taiwan.md"
-difficulty: "intermediate"
+tags:
+  [
+    'biodiversity',
+    'endemic species',
+    'conservation',
+    'ecosystems',
+    'environmental protection',
+  ]
+author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 10
 featured: true
-category: "Nature"
+category: 'Nature'
 lastVerified: 2026-03-19
 ---
 
@@ -50,20 +56,25 @@ Taiwan sits where the Eurasian Plate meets the Philippine Sea Plate. The Tropic 
 Taiwan’s forests cover more than 60% of the island. They are not uniform; they shift with elevation:
 
 **Tropical Rainforest Zone (0–500m)**
+
 - Southern lowlands
 - Dominant species: Chinese banyan (榕樹), Sterculia (茄苳)
 
 **Subtropical Broadleaf Zone (500–1,500m)**
+
 - The most diverse forest layer
 - Dominant species: camphor (樟樹), nanmu (楠木)
 
 **Temperate Mixed Forest Zone (1,500–2,500m)**
+
 - Home to giant conifers such as red cypress (紅檜) and Taiwan cypress (扁柏)
 
 **Subalpine Conifer Zone (2,500–3,500m)**
+
 - Cold‑adapted forests of Taiwan fir (台灣冷杉) and hemlock (台灣鐵杉)
 
 **Alpine Zone (above 3,500m)**
+
 - Dwarf shrubs and hardy plants like Yushan rhododendron (玉山杜鵑)
 
 This vertical stratification is a major driver of Taiwan’s biodiversity density.
@@ -71,6 +82,7 @@ This vertical stratification is a major driver of Taiwan’s biodiversity densit
 ## Animal Diversity: Endemic and Iconic Species
 
 ### Mammals
+
 Taiwan has around 80 mammal species, 29 of them endemic.
 
 - **Formosan black bear (台灣黑熊)** — a conservation flagship facing habitat fragmentation.
@@ -79,6 +91,7 @@ Taiwan has around 80 mammal species, 29 of them endemic.
 - **Formosan clouded leopard (台灣雲豹)** — declared extinct in 2014, now a symbol of conservation urgency.
 
 ### Birds
+
 Taiwan records over 600 bird species, with nearly 30 endemic:
 
 - **Taiwan blue magpie (台灣藍鵲)** — a charismatic endemic often proposed as a “national bird.”
@@ -86,9 +99,11 @@ Taiwan records over 600 bird species, with nearly 30 endemic:
 - **Black‑faced spoonbill (黑面琵鷺)** — a global success story of wetland conservation, with Taiwan as a key wintering site.
 
 ### Amphibians and Reptiles
+
 Endemism is extremely high: more than 50% of reptiles and 60% of amphibians are endemic. Species such as the Morrison’s tree frog (莫氏樹蛙) and Taiwan salamanders (台灣山椒魚) are living relics of ancient climatic eras.
 
 ### Insects and Invertebrates
+
 Taiwan’s insect diversity is vast—over 20,000 recorded species and possibly double that number in reality. Many are endemic and tied to micro‑habitats, making them sensitive indicators of ecosystem change.
 
 ## Marine Biodiversity
@@ -104,15 +119,19 @@ Coral reefs are particularly significant. Taiwan hosts roughly 300 coral species
 ## Conservation Challenges
 
 ### Habitat Loss and Fragmentation
+
 Urban expansion, agricultural development, and road construction fragment habitats—especially in lowland and mid‑elevation areas where biodiversity is highest.
 
 ### Climate Change
+
 Warming temperatures push alpine species higher, shrinking their living space. Sea‑level rise and ocean acidification threaten coastal wetlands and coral reefs.
 
 ### Invasive Species
+
 Non‑native species such as the golden apple snail (福壽螺) and red imported fire ant (紅火蟻) disrupt ecosystems and agricultural landscapes.
 
 ### Over‑exploitation
+
 Illegal wildlife trade, overfishing, and tourism pressure add stress to already vulnerable species.
 
 ## Conservation Efforts and Success Stories
@@ -148,7 +167,8 @@ As Taiwan balances economic development with environmental stewardship, its choi
 
 ---
 
-*Further Reading:*
+_Further Reading:_
+
 - [Endemic Species](../Nature/endemic-species.md)
 - [National Parks](../Nature/national-parks.md)
 - [Geography and Geology](../Geography/geography-and-geology.md)

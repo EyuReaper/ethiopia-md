@@ -2,7 +2,15 @@
 title: "Hong-Chih Kuo: Taiwan's Left-Handed Ace"
 description: "Left-handed pitcher who made his mark in MLB with the Los Angeles Dodgers, representing Taiwan's baseball pride on the international stage"
 date: 2026-03-20
-tags: ["sports", "baseball", "MLB", "Dodgers", "left-handed pitcher", "Taiwan baseball"]
+tags:
+  [
+    'sports',
+    'baseball',
+    'MLB',
+    'Dodgers',
+    'left-handed pitcher',
+    'Taiwan baseball',
+  ]
 lastVerified: 2026-03-20
 ---
 
@@ -53,6 +61,7 @@ His experience with the Dodgers also made Taiwan fans more interested in MLB, pr
 Though plagued by injuries, Kuo's fighting spirit and never-give-up attitude became symbols of Taiwan baseball spirit. He was not just an outstanding left-handed pitcher, but an important milestone on Taiwan baseball's path to internationalization. His story continues to inspire every Taiwan baseball player with dreams.
 
 ## References
+
 - [Chinese Professional Baseball League](https://www.cpbl.com.tw/) — Kuo's CPBL career records
 - [MLB Official Website](https://www.mlb.com/) — Major league appearance records and statistics
 - [Los Angeles Dodgers Official Website](https://www.mlb.com/dodgers) — Related materials from his Dodgers period

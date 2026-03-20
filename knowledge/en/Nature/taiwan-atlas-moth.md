@@ -1,10 +1,18 @@
 ---
-
-title: "Taiwan’s Atlas Moth"
-description: "The world’s largest moth—wings like an open book, a life that never eats, and a fragile refuge in Taiwan’s low mountains"
+title: 'Taiwan’s Atlas Moth'
+description: 'The world’s largest moth—wings like an open book, a life that never eats, and a fragile refuge in Taiwan’s low mountains'
 date: 2026-03-19
-tags: ["Atlas Moth", "Attacus atlas", "moth", "insects", "conservation", "biodiversity", "ecology"]
-author: "Taiwan.md Contributors"
+tags:
+  [
+    'Atlas Moth',
+    'Attacus atlas',
+    'moth',
+    'insects',
+    'conservation',
+    'biodiversity',
+    'ecology',
+  ]
+author: 'Taiwan.md Contributors'
 readingTime: 10
 featured: false
 lastVerified: 2026-03-19
@@ -14,7 +22,7 @@ lastVerified: 2026-03-19
 
 ## 30‑second snapshot
 
-The Atlas Moth (*Attacus atlas*) is the largest moth on Earth. Its wings can span 25–30 cm—wider than a laptop. In Taiwan it’s affectionately called **蛇頭蛾** ("snake‑head moth") because the wing tips resemble a cobra’s head. The most startling fact: adults **have no mouthparts** and never eat. After emergence, they live 1–2 weeks on stored fat, focusing entirely on mating before they die. Taiwan is one of the few places where wild populations still survive, but sightings are becoming rare.
+The Atlas Moth (_Attacus atlas_) is the largest moth on Earth. Its wings can span 25–30 cm—wider than a laptop. In Taiwan it’s affectionately called **蛇頭蛾** ("snake‑head moth") because the wing tips resemble a cobra’s head. The most startling fact: adults **have no mouthparts** and never eat. After emergence, they live 1–2 weeks on stored fat, focusing entirely on mating before they die. Taiwan is one of the few places where wild populations still survive, but sightings are becoming rare.
 
 ## Why it matters
 
@@ -105,4 +113,4 @@ Protecting Atlas Moths means protecting low‑mountain forests—habitats often 
 
 ---
 
-*The Atlas Moth’s story is a reminder that beauty can be both vast and fragile. When a rare wing beats in a dim forest, it’s not only a spectacle—it’s a signal. Protecting that signal means protecting the living fabric of Taiwan itself.*
+_The Atlas Moth’s story is a reminder that beauty can be both vast and fragile. When a rare wing beats in a dim forest, it’s not only a spectacle—it’s a signal. Protecting that signal means protecting the living fabric of Taiwan itself._

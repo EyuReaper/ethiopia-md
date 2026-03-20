@@ -1,14 +1,15 @@
 ---
-title: "Li Ang"
-description: "A feminist literary pioneer whose bold novels confronted patriarchy, sexuality, and violence in Taiwan"
+title: 'Li Ang'
+description: 'A feminist literary pioneer whose bold novels confronted patriarchy, sexuality, and violence in Taiwan'
 date: 2026-03-19
-tags: [people, Li Ang, feminist literature, Taiwanese literature, gender, Lukang]
-translatedFrom: "knowledge/People/李昂.md"
+tags:
+  [people, Li Ang, feminist literature, Taiwanese literature, gender, Lukang]
+translatedFrom: 'knowledge/People/李昂.md'
 ---
 
 # Li Ang: A Feminist Literary Rebel from Lukang
 
-Li Ang (李昂), born Shi Shu-duan (施淑端) in 1952, is one of Taiwan’s most influential and controversial writers. Her novels challenged patriarchal norms with a directness that was almost unheard of in conservative Taiwanese society, especially in the early 1980s. She is best known for *The Butcher’s Wife* (《殺夫》, 1983) and *The Lost Garden* (《迷園》, 1991), works that made feminist anger and female desire impossible to ignore. For many readers, Li Ang is not only a novelist but a cultural provocateur who forced Taiwan to look at the violence embedded in everyday life.
+Li Ang (李昂), born Shi Shu-duan (施淑端) in 1952, is one of Taiwan’s most influential and controversial writers. Her novels challenged patriarchal norms with a directness that was almost unheard of in conservative Taiwanese society, especially in the early 1980s. She is best known for _The Butcher’s Wife_ (《殺夫》, 1983) and _The Lost Garden_ (《迷園》, 1991), works that made feminist anger and female desire impossible to ignore. For many readers, Li Ang is not only a novelist but a cultural provocateur who forced Taiwan to look at the violence embedded in everyday life.
 
 ## Lukang: The Old Port, the Old Rules
 
@@ -22,23 +23,23 @@ Li Ang studied philosophy at Chinese Culture University in the early 1970s, a pe
 
 After graduation, she briefly worked as a teacher, but soon committed to writing. For a woman in that era, choosing literature as a life path was risky: financial uncertainty, social skepticism, and a cultural atmosphere that expected women to stay within familiar roles. Li Ang pushed against all of that.
 
-## *The Butcher’s Wife* (《殺夫》): A Shock to the System
+## _The Butcher’s Wife_ (《殺夫》): A Shock to the System
 
-Published in 1983, *The Butcher’s Wife* exploded onto the literary scene. The novel tells the story of Lin Shi (林市), a woman trapped in a violent marriage who eventually kills her husband. The subject matter — domestic violence, sexual abuse, and female rage — was taboo. Li Ang refused to sanitize it.
+Published in 1983, _The Butcher’s Wife_ exploded onto the literary scene. The novel tells the story of Lin Shi (林市), a woman trapped in a violent marriage who eventually kills her husband. The subject matter — domestic violence, sexual abuse, and female rage — was taboo. Li Ang refused to sanitize it.
 
 The novel became a cultural flashpoint. Conservatives accused it of immorality and brutality; supporters saw it as a landmark in Taiwanese literature and feminist consciousness. The book forced public discussion about family violence and gender oppression in a society that preferred silence.
 
-Internationally, *The Butcher’s Wife* was translated into multiple languages and became a key text in Asian feminist literature. Scholars often cite it as an early and radical articulation of women’s resistance in a Confucian-heritage society.
+Internationally, _The Butcher’s Wife_ was translated into multiple languages and became a key text in Asian feminist literature. Scholars often cite it as an early and radical articulation of women’s resistance in a Confucian-heritage society.
 
-## *The Lost Garden* (《迷園》): Memory, Desire, and Cultural Labyrinth
+## _The Lost Garden_ (《迷園》): Memory, Desire, and Cultural Labyrinth
 
-If *The Butcher’s Wife* was a shout, *The Lost Garden* is a maze. Published in 1991, it uses a layered narrative and a symbolic garden to explore women’s inner worlds across generations. The garden becomes a cultural metaphor: a space of beauty, inheritance, and confinement.
+If _The Butcher’s Wife_ was a shout, _The Lost Garden_ is a maze. Published in 1991, it uses a layered narrative and a symbolic garden to explore women’s inner worlds across generations. The garden becomes a cultural metaphor: a space of beauty, inheritance, and confinement.
 
-Li Ang’s style in *The Lost Garden* is more complex and lyrical. She moves between time periods, between realism and allegory. The result is a work that reflects a changing Taiwan — modernizing yet haunted by old structures. It shows her growth from a social critic into a literary artist with a deep symbolic language.
+Li Ang’s style in _The Lost Garden_ is more complex and lyrical. She moves between time periods, between realism and allegory. The result is a work that reflects a changing Taiwan — modernizing yet haunted by old structures. It shows her growth from a social critic into a literary artist with a deep symbolic language.
 
 ## Beyond Feminism: Expanding the Lens
 
-Li Ang’s later writing extends beyond women’s issues, though gender remains central. She wrote about food culture in *The Mandarin Duck Feast* (《鴛鴦春膳》), about political and historical memory in *Ghosts That Can Be Seen* (《看得見的鬼》), and about Taiwan’s political changes in *Sugarcane Roadside, Everyone Chews* (《路邊甘蔗眾人啃》).
+Li Ang’s later writing extends beyond women’s issues, though gender remains central. She wrote about food culture in _The Mandarin Duck Feast_ (《鴛鴦春膳》), about political and historical memory in _Ghosts That Can Be Seen_ (《看得見的鬼》), and about Taiwan’s political changes in _Sugarcane Roadside, Everyone Chews_ (《路邊甘蔗眾人啃》).
 
 Her range shows that she is not only a feminist writer but a public intellectual. She has always treated literature as a space for social argument — a place where uncomfortable truths can be told in full voice.
 

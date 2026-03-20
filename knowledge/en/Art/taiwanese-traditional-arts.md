@@ -13,31 +13,31 @@ Traditional Taiwanese art serves as a living vessel for the island's cultural me
 
 ### Huang Chun-hsiung and the Rise of Television Budaixi
 
-In 1970, when Huang Chun-hsiung's *The Great Scholar of Yunzhou* (雲州大儒俠) first aired on TTV, no one predicted it would become a miracle in Taiwanese television history. The character Shi Yan-wen (史艷文) not only achieved a staggering 97% viewership rate but also captivated the entire Taiwanese society. Huang moved traditional *Budaixi* (glove puppetry) from theater stages to television screens, utilizing exquisite puppet craftsmanship, innovative lighting effects, and music, elevating folk theater into national entertainment.
+In 1970, when Huang Chun-hsiung's _The Great Scholar of Yunzhou_ (雲州大儒俠) first aired on TTV, no one predicted it would become a miracle in Taiwanese television history. The character Shi Yan-wen (史艷文) not only achieved a staggering 97% viewership rate but also captivated the entire Taiwanese society. Huang moved traditional _Budaixi_ (glove puppetry) from theater stages to television screens, utilizing exquisite puppet craftsmanship, innovative lighting effects, and music, elevating folk theater into national entertainment.
 
 This success was no accident. Huang inherited skills from his father, Huang Hai-dai, but more importantly, he had a keen insight into modern media. He understood the unique nature of television as a medium, adjusting narrative pacing and enhancing visual effects to find a place for traditional art in a new era.
 
 ### Political Interference and Artistic Fate
 
-However, in 1974, the Kuomintang (KMT) government banned all *Budaixi* programs from television under the pretext of "promoting Mandarin" and "interfering with normal farming and industrial work cycles." This ban was not just a linguistic policy but a suppression of indigenous Taiwanese culture. *Budaixi* was interrupted at its most glorious moment, and a ten-year void caused the art form to nearly lose an entire generation of viewers.
+However, in 1974, the Kuomintang (KMT) government banned all _Budaixi_ programs from television under the pretext of "promoting Mandarin" and "interfering with normal farming and industrial work cycles." This ban was not just a linguistic policy but a suppression of indigenous Taiwanese culture. _Budaixi_ was interrupted at its most glorious moment, and a ten-year void caused the art form to nearly lose an entire generation of viewers.
 
 This history reminds us that the survival of traditional arts is often inextricably linked to the political environment. Cultural policy is not just an administrative decision; it directly affects the life and death of artistic forms.
 
 ### The Modernization Revolution of Pili
 
-After *Budaixi* regained freedom in the 1980s, Huang Chun-hsiung's sons, Huang Chiang-hua and Huang Wen-tse, founded the Pili International Multimedia company, pioneering a new business model. No longer dependent on television stations, they produced videos directly for sale, establishing an independent kingdom for puppetry. The establishment of Pili Satellite TV in 1995 provided a dedicated platform for the art.
+After _Budaixi_ regained freedom in the 1980s, Huang Chun-hsiung's sons, Huang Chiang-hua and Huang Wen-tse, founded the Pili International Multimedia company, pioneering a new business model. No longer dependent on television stations, they produced videos directly for sale, establishing an independent kingdom for puppetry. The establishment of Pili Satellite TV in 1995 provided a dedicated platform for the art.
 
-Pili's success lies in its modernization strategy: exquisite special effects, complex world-building, and a commercialized management model. Characters like Su Huan-jen (素還真) and Ye Xiao-chai (葉小釵) are not just dramatic characters but cultural icons and commercial brands. This transformation evolved *Budaixi* from traditional folk drama into a modern entertainment industry, proving the survival potential of traditional arts in a commercial society.
+Pili's success lies in its modernization strategy: exquisite special effects, complex world-building, and a commercialized management model. Characters like Su Huan-jen (素還真) and Ye Xiao-chai (葉小釵) are not just dramatic characters but cultural icons and commercial brands. This transformation evolved _Budaixi_ from traditional folk drama into a modern entertainment industry, proving the survival potential of traditional arts in a commercial society.
 
 ## The Indigenous Aesthetics of Gezaixi (Taiwanese Opera)
 
 ### From Folk to Stage
 
-*Gezaixi* (歌仔戲) is the only traditional opera form nurtured entirely on Taiwanese soil. Originating in Yilan, it fused folk musical elements like *Geza* tunes and "Four-Line Couplets" to form a complete theatrical system in the early 20th century. The preciousness of *Gezaixi* lies in its "wildness"—it has no courtly background or literati packaging; it is a natural product of commoner life.
+_Gezaixi_ (歌仔戲) is the only traditional opera form nurtured entirely on Taiwanese soil. Originating in Yilan, it fused folk musical elements like _Geza_ tunes and "Four-Line Couplets" to form a complete theatrical system in the early 20th century. The preciousness of _Gezaixi_ lies in its "wildness"—it has no courtly background or literati packaging; it is a natural product of commoner life.
 
 ### The Family Heritage of Ming Hwa Yuan
 
-The Ming Hwa Yuan Arts & Cultural Group represents another modernization path for *Gezaixi*. Unlike the commercialization of Pili, Ming Hwa Yuan chose the direction of artistic refinement. They maintained traditional characteristics while pursuing higher artistic standards in stage design, musical arrangement, and scriptwriting.
+The Ming Hwa Yuan Arts & Cultural Group represents another modernization path for _Gezaixi_. Unlike the commercialization of Pili, Ming Hwa Yuan chose the direction of artistic refinement. They maintained traditional characteristics while pursuing higher artistic standards in stage design, musical arrangement, and scriptwriting.
 
 Ming Hwa Yuan's success lies in its comprehensive talent cultivation system. From the brothers Chen Sheng-fu and Chen Sheng-zai to the second and third generations, Ming Hwa Yuan proves the importance of family heritage in preserving traditional arts. They pass on not just skills, but persistence and passion for art.
 
@@ -45,23 +45,23 @@ Ming Hwa Yuan's success lies in its comprehensive talent cultivation system. Fro
 
 The Tang Mei-yun Taiwanese Opera Company represents the sophisticated development of the art. Tang Mei-yun, coming from the golden age of television opera and having experienced indoor, outdoor, and television stages, decided to form her own troupe in 1997 with the motto "Inherit Tradition, Create New Horizons."
 
-Tang's contribution lies in elevating *Gezaixi* to the level of artistic theater. Through collaboration with modern theater practitioners, she enriched the expressive techniques of the opera while maintaining its unique musicality and emotional expression. Her troupe was selected as a "Taiwan Brand Team" by the Ministry of Culture, proving the success of the refinement route.
+Tang's contribution lies in elevating _Gezaixi_ to the level of artistic theater. Through collaboration with modern theater practitioners, she enriched the expressive techniques of the opera while maintaining its unique musicality and emotional expression. Her troupe was selected as a "Taiwan Brand Team" by the Ministry of Culture, proving the success of the refinement route.
 
 ## Musical Traditions: Beiguan and Nanguan
 
-Taiwan's traditional music preserves a rich Fujianese cultural heritage. *Beiguan* (北管) music is rhythmic and intense, often used in temple festivals and theatrical accompaniment; *Nanguan* (南管) music is elegant and delicate, known as a "living fossil of music," maintaining the original appearance of ancient central Chinese music.
+Taiwan's traditional music preserves a rich Fujianese cultural heritage. _Beiguan_ (北管) music is rhythmic and intense, often used in temple festivals and theatrical accompaniment; _Nanguan_ (南管) music is elegant and delicate, known as a "living fossil of music," maintaining the original appearance of ancient central Chinese music.
 
-This coexistence of "folk" and "refined" musical ecologies reflects the complexity of Taiwanese society. *Beiguan* satisfies folk entertainment needs, while *Nanguan* carries cultural spiritual pursuits. Both run parallel, constituting a complete picture of Taiwanese musical culture.
+This coexistence of "folk" and "refined" musical ecologies reflects the complexity of Taiwanese society. _Beiguan_ satisfies folk entertainment needs, while _Nanguan_ carries cultural spiritual pursuits. Both run parallel, constituting a complete picture of Taiwanese musical culture.
 
 ## Religious Art: Bajiajiang and Zhentou Culture
 
-*Bajiajiang* (八家將, Eight Generals) is the most visually impactful performing art in Taiwanese religious culture. These performers, dressed in magnificent costumes with facial paintings, serve as guardians of deities during temple fairs, driving away evil through specific steps and movements. The aesthetic of *Bajiajiang* is a wild sanctity, fusing religious belief, theatrical performance, and social ritual.
+_Bajiajiang_ (八家將, Eight Generals) is the most visually impactful performing art in Taiwanese religious culture. These performers, dressed in magnificent costumes with facial paintings, serve as guardians of deities during temple fairs, driving away evil through specific steps and movements. The aesthetic of _Bajiajiang_ is a wild sanctity, fusing religious belief, theatrical performance, and social ritual.
 
-*Zhentou* (陣頭, troupe) culture demonstrates the diversity of Taiwanese folk art. From dragon and lion dances to *Song Jiang* Battle Arrays, each troupe has its specific function and aesthetic. These performances are not just entertainment but symbols of community identity and cultural expressions of traditional social organizations.
+_Zhentou_ (陣頭, troupe) culture demonstrates the diversity of Taiwanese folk art. From dragon and lion dances to _Song Jiang_ Battle Arrays, each troupe has its specific function and aesthetic. These performances are not just entertainment but symbols of community identity and cultural expressions of traditional social organizations.
 
 ## Architectural Poetics: Koji Pottery and Chien-nien
 
-The decorative arts on traditional Taiwanese architecture have reached high standards. *Koji* Pottery (交趾陶) uses vibrant colors and exquisite shapes to turn mythological stories and historical legends into three-dimensional visual narratives. *Chien-nien* (剪黏, cut and paste) technique uses various colored porcelain pieces to create exquisite patterns, filling architectural surfaces with rich textural changes.
+The decorative arts on traditional Taiwanese architecture have reached high standards. _Koji_ Pottery (交趾陶) uses vibrant colors and exquisite shapes to turn mythological stories and historical legends into three-dimensional visual narratives. _Chien-nien_ (剪黏, cut and paste) technique uses various colored porcelain pieces to create exquisite patterns, filling architectural surfaces with rich textural changes.
 
 These crafts are not just decorations but cultural creations of masters. Each work carries folk wisdom and aesthetic concepts, showcasing the artistic creativity of the artisan class. Under the impact of modernization, these techniques face the danger of extinction, but more and more artists are investing in preservation and innovation.
 
@@ -80,7 +80,9 @@ More importantly, these art forms prove that cultural vitality lies not in stagn
 The value of traditional Taiwanese arts lies not only in their historical significance but also in their contribution to contemporary cultural construction. In an era of globalization, these folk treasures remind us that true cultural power comes from creative inheritance rooted in the land.
 
 ---
-*References:*
+
+_References:_
+
 - [Ministry of Culture - Traditional Arts in Taiwan](https://www.moc.gov.tw/)
 - [Pili International Multimedia](https://www.pili.com.tw/)
 - [Ming Hwa Yuan Arts & Cultural Group](https://www.twmhy.com/)

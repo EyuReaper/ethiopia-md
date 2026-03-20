@@ -1,8 +1,19 @@
 ---
-title: "Yang Yung-Wei"
+title: 'Yang Yung-Wei'
 description: "Taiwan judoka who won silver medal in men's 60kg at 2021 Tokyo Olympics, Taiwan's first Olympic judo medal"
 date: 2026-03-20
-tags: ["people", "Yang Yung-Wei", "judo", "Olympics", "silver medal", "athlete", "Taiwan", "indigenous", "Paiwan"]
+tags:
+  [
+    'people',
+    'Yang Yung-Wei',
+    'judo',
+    'Olympics',
+    'silver medal',
+    'athlete',
+    'Taiwan',
+    'indigenous',
+    'Paiwan',
+  ]
 lastVerified: 2026-03-20
 ---
 

@@ -1,12 +1,11 @@
 ---
-
-title: "Taiwan’s Coastal Landforms and Seascapes: Where Plates, Waves, and People Meet"
-description: "From rocky capes in the north to coral reefs in the south, Taiwan’s 1,200 km coastline reveals a living archive of tectonics, ecology, and culture."
+title: 'Taiwan’s Coastal Landforms and Seascapes: Where Plates, Waves, and People Meet'
+description: 'From rocky capes in the north to coral reefs in the south, Taiwan’s 1,200 km coastline reveals a living archive of tectonics, ecology, and culture.'
 date: 2026-03-19
-tags: ["coastal landforms", "seascapes", "tectonics", "geology", "Taiwan"]
-category: "Geography"
-author: "Taiwan.md"
-difficulty: "intermediate"
+tags: ['coastal landforms', 'seascapes', 'tectonics', 'geology', 'Taiwan']
+category: 'Geography'
+author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 12
 featured: true
 lastVerified: 2026-03-19
@@ -38,11 +37,13 @@ To understand Taiwan’s maritime culture, you must read its coastal geology.
 **Range:** from Cape Sandiao (三貂角) to the Tamsui River mouth
 
 **Landscape features:**
+
 - Alternating **headlands and bays**
 - **Rocky coasts** formed by hard sandstone and igneous rock
 - Abundant **sea cliffs**, **wave-cut platforms**, **sea caves**, and **sea stacks**
 
 **Iconic sites:**
+
 - **Yehliu Geopark (野柳地質公園):** home to the “Queen’s Head” mushroom rock
 - **Bitou Cape (鼻頭角):** a textbook example of marine erosion
 - **Keelung Islet (基隆嶼):** a volcanic island ringed by wave-cut platforms
@@ -54,11 +55,13 @@ The northern coast is a field laboratory for erosion and rock strength—where t
 **Range:** from Cape Sandiao south to the Pingtung border
 
 **Landscape features:**
+
 - **Fault cliffs** with mountains rising directly from the sea
 - **Narrow coastal plains** (often only 2–3 km wide)
 - **Marine terraces** that record uplift history
 
 **Highlights:**
+
 - **Qingshui Cliff (清水斷崖):** vertical walls of marble rising 800+ meters
 - **Shitiping (石梯坪):** uplifted coral reefs forming stair-step platforms
 - **Baxian Caves (八仙洞):** sea caves with archaeological significance
@@ -70,11 +73,13 @@ This coast is visually spectacular and geologically young—a portrait of a rest
 **Range:** from Tamsui south to the Hengchun Peninsula
 
 **Landscape features:**
+
 - Long, straight **sandy and muddy shores**
 - Extensive **lagoons**, **sandbars**, and **tidal flats**
 - Large **river deltas** carrying sediment to the sea
 
 **Notable areas:**
+
 - **Fangyuan and Wangong (芳苑/王功):** tidal mudflats and oyster farming
 - **Qigu Lagoon (七股潟湖):** Taiwan’s largest lagoon system
 - **Budai Salt Fields (布袋鹽田):** historic salt landscape
@@ -86,11 +91,13 @@ The west coast is Taiwan’s agricultural and aquaculture edge—rich but vulner
 **Range:** the Hengchun Peninsula (恆春半島) to Cape Eluanbi (鵝鸞鼻)
 
 **Landscape features:**
+
 - **Coral reefs**—both modern and uplifted
 - **High coral terraces** recording past sea levels
 - Tropical waters that support rich marine biodiversity
 
 **Key reserves:**
+
 - **Kenting National Park (墾丁國家公園)**
 - **Hengchun uplifted coral reef reserve**
 

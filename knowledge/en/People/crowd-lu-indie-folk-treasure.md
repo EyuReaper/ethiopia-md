@@ -1,8 +1,18 @@
 ---
-title: "Crowd Lu (盧廣仲)"
+title: 'Crowd Lu (盧廣仲)'
 description: "Taiwanese singer-songwriter and actor who captured hearts with his grassroots charm and unique vocal style, becoming the youngest triple-crown winner of Taiwan's Golden Melody, Golden Bell, and Golden Horse Awards"
 date: 2026-03-20
-tags: [people, crowd-lu, singer, actor, golden-melody-awards, triple-crown, tainan, taiwan]
+tags:
+  [
+    people,
+    crowd-lu,
+    singer,
+    actor,
+    golden-melody-awards,
+    triple-crown,
+    tainan,
+    taiwan,
+  ]
 lastVerified: 2026-03-20
 ---
 
@@ -51,6 +61,6 @@ From a car accident victim in Tainan to a shining triple-crown king, Crowd Lu us
 ## Further Reading
 
 - [[Nieh Yung-jen (聶永真)]] - Master designer who has frequently created visuals for Taiwan's pop music
-- [[Chi Po-lin (齊柏林)]] - Creator who similarly documented Taiwan's land through imagery  
+- [[Chi Po-lin (齊柏林)]] - Creator who similarly documented Taiwan's land through imagery
 - [[Tsai Ing-wen (蔡英文)]] - Interacted with creators like Crowd Lu, focusing on Taiwan's cultural soft power
 - [[Ang Lee (李安)]] - Taiwan's highest benchmark for film creators on the international stage

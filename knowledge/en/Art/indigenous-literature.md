@@ -130,9 +130,10 @@ As Walis Nokan writes in his poetry: "Ancestral songs flow through my veins." Th
 
 ---
 
-*References:*
-- Sun Dachuan, [*Mountain and Sea World: Depictions of Taiwan Indigenous Peoples' Spiritual World*](https://www.books.com.tw/products/0010459186)
-- Walis Nokan, [*Ino's Re-survey*](https://readmoo.com/book/210297335000101)
-- Syaman Rapongan, [*Eyes of the Sky*](https://www.books.com.tw/products/0010554127)
-- Badai, [*The Stork*](https://www.books.com.tw/products/0010374110)
-- Pu Zhongcheng, *Selected Oral Literature of Taiwan Indigenous Peoples*
+_References:_
+
+- Sun Dachuan, [_Mountain and Sea World: Depictions of Taiwan Indigenous Peoples' Spiritual World_](https://www.books.com.tw/products/0010459186)
+- Walis Nokan, [_Ino's Re-survey_](https://readmoo.com/book/210297335000101)
+- Syaman Rapongan, [_Eyes of the Sky_](https://www.books.com.tw/products/0010554127)
+- Badai, [_The Stork_](https://www.books.com.tw/products/0010374110)
+- Pu Zhongcheng, _Selected Oral Literature of Taiwan Indigenous Peoples_

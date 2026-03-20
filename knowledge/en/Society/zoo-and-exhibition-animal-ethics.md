@@ -1,17 +1,26 @@
 ---
-
-title: "Zoos and Exhibition Animal Ethics in Taiwan"
-description: "From iron cages to immersive aquariums, Taiwan is rethinking what it means to display animals—and what ethical care should look like in the 21st century."
+title: 'Zoos and Exhibition Animal Ethics in Taiwan'
+description: 'From iron cages to immersive aquariums, Taiwan is rethinking what it means to display animals—and what ethical care should look like in the 21st century.'
 date: 2026-03-18
-tags: ["zoos", "exhibition animals", "animal welfare", "Xpark", "Taipei Zoo", "animal ethics", "Hsinchu Zoo"]
-author: "Taiwan.md Contributors"
+tags:
+  [
+    'zoos',
+    'exhibition animals',
+    'animal welfare',
+    'Xpark',
+    'Taipei Zoo',
+    'animal ethics',
+    'Hsinchu Zoo',
+  ]
+author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false
 lastVerified: 2026-03-19
 ---
 
 # Zoos and Exhibition Animal Ethics in Taiwan
-*From iron cages to the glow of Xpark’s jellyfish walls—Taiwan is redefining how humans relate to animals on display.*
+
+_From iron cages to the glow of Xpark’s jellyfish walls—Taiwan is redefining how humans relate to animals on display._
 
 ## 30-Second Overview
 
@@ -44,6 +53,7 @@ Critics point out that space is still limited and captivity remains captivity. Y
 Xpark, a Japanese‑style urban aquarium in Taoyuan, opened in 2020 with immersive lighting, minimalist architecture, and visually stunning exhibits. It quickly became “the most beautiful aquarium in Taiwan.” But its beauty sparked backlash.
 
 Reports emerged of:
+
 - **rays with injuries**, possibly from confined spaces
 - **penguins showing repetitive stress behaviors**
 - **constant bright lighting**, disrupting nocturnal species

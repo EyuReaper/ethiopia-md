@@ -1,8 +1,8 @@
 ---
-title: "Food"
+title: 'Food'
 date: 2026-03-20
 tags: [美食, Hub]
-description: "台灣美食不只是味覺享受，更是文化認同的重要載體。從一碗牛肉麵的湯頭，可以品嚐到外省移民的鄉愁；從一顆肉圓的製作工法，可以看見閩南飲食文化的傳承。台灣美食的發展軌跡，反映了族群融合、經濟發展、生活方式變遷的完整歷程。"
+description: '台灣美食不只是味覺享受，更是文化認同的重要載體。從一碗牛肉麵的湯頭，可以品嚐到外省移民的鄉愁；從一顆肉圓的製作工法，可以看見閩南飲食文化的傳承。台灣美食的發展軌跡，反映了族群融合、經濟發展、生活方式變遷的完整歷程。'
 ---
 
 # 台灣美食 🍜
@@ -12,7 +12,7 @@ description: "台灣美食不只是味覺享受，更是文化認同的重要載
 每一口食物都承載著時間的重量。當你咬下一口[台灣滷肉飯](/food/台灣滷肉飯)，那熟悉的鹹香會瞬間喚醒童年的記憶；當你啜飲一杯[珍珠奶茶](/food/珍珠奶茶)，那Q彈的珍珠會告訴你關於台灣創意的故事。這裡的美食從不高高在上，它們活在巷弄裡，活在夜市中，活在每個台灣人的日常生活裡。
 
 ![台灣珍珠奶茶](/images/wiki/taiwan-traditional-architecture.jpg)
-*圖片來源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Variations_of_Taiwanese_tapioca_pearls.JPG) | CC BY-SA 3.0 | 攝影者：Nandaro*
+_圖片來源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Variations_of_Taiwanese_tapioca_pearls.JPG) | CC BY-SA 3.0 | 攝影者：Nandaro_
 
 ## 根的記憶：原鄉味道的在地轉化
 
@@ -77,7 +77,7 @@ description: "台灣美食不只是味覺享受，更是文化認同的重要載
 今天，當我們談論台灣美食時，我們談論的不只是食物本身，更是一種生活方式、一種文化態度。它包容而不失個性，傳統而不乏創新，在地而不封閉。這種特質讓台灣美食在全球化的浪潮中保持了自己的獨特性，也讓它成為台灣最具代表性的文化名片之一。
 
 ![台灣牛肉麵](/images/wiki/4eea1b8cf86b.jpg)
-*圖片來源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwanese_Beef_Noodle_Soup.jpg) | CC BY-SA 3.0*
+_圖片來源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwanese_Beef_Noodle_Soup.jpg) | CC BY-SA 3.0_
 
 ## 延伸閱讀
 
@@ -120,4 +120,4 @@ description: "台灣美食不只是味覺享受，更是文化認同的重要載
 
 ---
 
-*台灣美食的魅力，在於它承載的不只是味道，更是記憶、情感與認同。每一口食物都是文化的結晶，每一道菜都是歷史的見證。*
+_台灣美食的魅力，在於它承載的不只是味道，更是記憶、情感與認同。每一口食物都是文化的結晶，每一道菜都是歷史的見證。_

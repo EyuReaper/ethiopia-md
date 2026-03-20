@@ -1,12 +1,19 @@
 ---
-
-title: "Social Movements and Civic Participation"
-description: "From Wild Lily to Sunflower, Taiwan’s civic movements show how public participation deepened democracy and reshaped social values"
+title: 'Social Movements and Civic Participation'
+description: 'From Wild Lily to Sunflower, Taiwan’s civic movements show how public participation deepened democracy and reshaped social values'
 date: 2026-03-18
-category: "Society"
-tags: ["social movements", "civic participation", "democracy", "Wild Lily Student Movement", "Sunflower Movement", "social reform"]
-author: "Taiwan.md"
-difficulty: "intermediate"
+category: 'Society'
+tags:
+  [
+    'social movements',
+    'civic participation',
+    'democracy',
+    'Wild Lily Student Movement',
+    'Sunflower Movement',
+    'social reform',
+  ]
+author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 12
 featured: true
 lastVerified: 2026-03-19
@@ -59,6 +66,7 @@ As political reforms stabilized, movements diversified: gender equality, indigen
 **Scale:** Approximately 6,000–10,000 students.
 
 **Four demands:**
+
 1. Dissolve the National Assembly.
 2. Abolish the Temporary Provisions.
 3. Convene a National Affairs Conference.

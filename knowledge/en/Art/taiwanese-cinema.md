@@ -21,23 +21,23 @@ The rise of the New Cinema movement was not accidental. It was built on deep obs
 
 ### Hou Hsiao-hsien’s Poetics of Time
 
-Hou Hsiao-hsien (侯孝賢) is undoubtedly the most important flag-bearer of the Taiwan New Cinema. From *The Boys from Fengkuei* to *Dust in the Wind*, and from *A City of Sadness* to *Three Times*, Hou created a unique cinematic language—the aesthetic of the "long take."
+Hou Hsiao-hsien (侯孝賢) is undoubtedly the most important flag-bearer of the Taiwan New Cinema. From _The Boys from Fengkuei_ to _Dust in the Wind_, and from _A City of Sadness_ to _Three Times_, Hou created a unique cinematic language—the aesthetic of the "long take."
 
-His films reject dramatic plot twists, instead using the mundane yet profound details of daily life. Through precise visual language, he captures the passage of time and the texture of memory. *A City of Sadness* (悲情城市) addressed the sensitive historical subject of the February 28 Incident, not through passionate denunciation, but by presenting the complexity of history and individual helplessness through the lens of family history.
+His films reject dramatic plot twists, instead using the mundane yet profound details of daily life. Through precise visual language, he captures the passage of time and the texture of memory. _A City of Sadness_ (悲情城市) addressed the sensitive historical subject of the February 28 Incident, not through passionate denunciation, but by presenting the complexity of history and individual helplessness through the lens of family history.
 
 Hou’s cinematic aesthetics have deeply influenced the development of world cinema. He proved that film can be like poetry, not requiring explicit narrative logic but conveying deep emotion and thought through the rhythm and tempo of imagery.
 
 ### Edward Yang’s Urban Realism
 
-If Hou Hsiao-hsien is the poet of rural Taiwan, Edward Yang (楊德昌) is the analytical surgeon of urban Taiwan. Works such as *That Day, on the Beach*, *A Brighter Summer Day*, and *Yi Yi* precisely dissect the alienation and dilemmas of interpersonal relationships in modern society.
+If Hou Hsiao-hsien is the poet of rural Taiwan, Edward Yang (楊德昌) is the analytical surgeon of urban Taiwan. Works such as _That Day, on the Beach_, _A Brighter Summer Day_, and _Yi Yi_ precisely dissect the alienation and dilemmas of interpersonal relationships in modern society.
 
-Yang’s cinematic language is rational and cool; he excels at using complex narrative structures to show the multifaceted nature of modern life. *A Brighter Summer Day* (牯嶺街少年殺人事件) centers on a juvenile homicide to reflect the oppressive atmosphere of 1960s Taiwanese society and the lost state of its youth. This four-hour epic demonstrates Yang’s deep reflection on social reality and his pursuit of cinematic art.
+Yang’s cinematic language is rational and cool; he excels at using complex narrative structures to show the multifaceted nature of modern life. _A Brighter Summer Day_ (牯嶺街少年殺人事件) centers on a juvenile homicide to reflect the oppressive atmosphere of 1960s Taiwanese society and the lost state of its youth. This four-hour epic demonstrates Yang’s deep reflection on social reality and his pursuit of cinematic art.
 
-*Yi Yi* (一一) was Yang’s final masterpiece, presenting modern existential dilemmas and spiritual pursuits through the daily life of a middle-class Taipei family. Winning the Best Director award at the Cannes Film Festival, it proved that the artistic achievements of Taiwanese cinema were recognized globally.
+_Yi Yi_ (一一) was Yang’s final masterpiece, presenting modern existential dilemmas and spiritual pursuits through the daily life of a middle-class Taipei family. Winning the Best Director award at the Cannes Film Festival, it proved that the artistic achievements of Taiwanese cinema were recognized globally.
 
 ### Tsai Ming-liang’s Body Politics
 
-Tsai Ming-liang (蔡明亮) represents another possibility of the Taiwan New Cinema. His films are highly personalized, focusing on the loneliness and desire of individuals in the modern city. From *Rebels of the Neon God* and *Vive L'Amour* to *The Wayward Cloud* and *Stray Dogs*, Tsai created a minimalist cinematic aesthetic.
+Tsai Ming-liang (蔡明亮) represents another possibility of the Taiwan New Cinema. His films are highly personalized, focusing on the loneliness and desire of individuals in the modern city. From _Rebels of the Neon God_ and _Vive L'Amour_ to _The Wayward Cloud_ and _Stray Dogs_, Tsai created a minimalist cinematic aesthetic.
 
 His films often feature extremely long takes and minimal dialogue to present the inner state of his characters. This extreme cinematic language challenges audience habits but opens new frontiers for cinematic expression. Tsai’s films are a thorough rebellion against commercial film logic; he insists on expressing personal artistic concepts without compromising for the market.
 
@@ -47,19 +47,19 @@ His films often feature extremely long takes and minimal dialogue to present the
 
 Ang Lee’s (李安) success represents the highest achievement of Taiwanese cinema on the international stage. He has managed to maintain his artistic pursuits within the Hollywood commercial system while handling subjects from different cultural backgrounds, demonstrating rare cross-cultural creative ability.
 
-From his early "Father Trilogy"—*Pushing Hands*, *The Wedding Banquet*, and *Eat Drink Man Woman*—Lee showed a deep understanding of cultural conflict and family ethics. These films, set in Taiwanese families, deal with universal family and cultural identity issues faced by all humanity.
+From his early "Father Trilogy"—_Pushing Hands_, _The Wedding Banquet_, and _Eat Drink Man Woman_—Lee showed a deep understanding of cultural conflict and family ethics. These films, set in Taiwanese families, deal with universal family and cultural identity issues faced by all humanity.
 
-### The Cultural Miracle of *Crouching Tiger, Hidden Dragon*
+### The Cultural Miracle of _Crouching Tiger, Hidden Dragon_
 
-The 2000 film *Crouching Tiger, Hidden Dragon* (臥虎藏龍) is the most significant case of international success in Taiwanese film history. It not only won the Academy Award for Best Foreign Language Film and three technical awards but also created immense commercial success worldwide.
+The 2000 film _Crouching Tiger, Hidden Dragon_ (臥虎藏龍) is the most significant case of international success in Taiwanese film history. It not only won the Academy Award for Best Foreign Language Film and three technical awards but also created immense commercial success worldwide.
 
-The success of *Crouching Tiger, Hidden Dragon* lay in its ability to package classical Chinese culture into a form acceptable to international audiences. Lee did not simply cater to Western Orientalist imaginations; he created a work that possessed Chinese cultural depth while adhering to international cinematic language. This film proved that Asian cinema can maintain its cultural characteristics while gaining international recognition.
+The success of _Crouching Tiger, Hidden Dragon_ lay in its ability to package classical Chinese culture into a form acceptable to international audiences. Lee did not simply cater to Western Orientalist imaginations; he created a work that possessed Chinese cultural depth while adhering to international cinematic language. This film proved that Asian cinema can maintain its cultural characteristics while gaining international recognition.
 
-### *Brokeback Mountain* and *Life of Pi*
+### _Brokeback Mountain_ and _Life of Pi_
 
-In 2006 and 2013, Lee won the Academy Award for Best Director for *Brokeback Mountain* and *Life of Pi*, respectively, becoming the first Asian director to receive this honor.
+In 2006 and 2013, Lee won the Academy Award for Best Director for _Brokeback Mountain_ and _Life of Pi_, respectively, becoming the first Asian director to receive this honor.
 
-*Brokeback Mountain* deals with the gay romance of American cowboys, a subject completely foreign to Lee, yet he deeply understood the universality of human emotion, creating a heartbreaking love story. *Life of Pi* demonstrated Lee’s innovative ability in visual technology, using 3D to create a stunning fantasy world at sea.
+_Brokeback Mountain_ deals with the gay romance of American cowboys, a subject completely foreign to Lee, yet he deeply understood the universality of human emotion, creating a heartbreaking love story. _Life of Pi_ demonstrated Lee’s innovative ability in visual technology, using 3D to create a stunning fantasy world at sea.
 
 The success of these two films proved that Lee had transcended cultural background limitations to become a truly world-class director. His success set a new benchmark for Taiwanese cinema and inspired more Taiwanese directors to pursue their dreams on the international stage.
 
@@ -67,13 +67,13 @@ The success of these two films proved that Lee had transcended cultural backgrou
 
 ### Wei Te-sheng’s Local Epics
 
-Entering the 21st century, new trends emerged in Taiwanese cinema. Director Wei Te-sheng’s (魏德聖) *Cape No. 7* created a box office miracle in 2008, proving that local films still have huge market potential.
+Entering the 21st century, new trends emerged in Taiwanese cinema. Director Wei Te-sheng’s (魏德聖) _Cape No. 7_ created a box office miracle in 2008, proving that local films still have huge market potential.
 
-More importantly, Wei demonstrated cinematic epic ambition in *Warriors of the Rainbow: Seediq Bale* (賽德克·巴萊). This film about the Wushe Incident was not just a breakthrough in technical scale but also a deep reflection on Taiwan's historical memory. Wei used film to reinterpret this complex colonial history, opening a new path for the localization of Taiwanese cinema.
+More importantly, Wei demonstrated cinematic epic ambition in _Warriors of the Rainbow: Seediq Bale_ (賽德克·巴萊). This film about the Wushe Incident was not just a breakthrough in technical scale but also a deep reflection on Taiwan's historical memory. Wei used film to reinterpret this complex colonial history, opening a new path for the localization of Taiwanese cinema.
 
 ### Artistic Exploration of the New Generation
 
-New generation directors such as Chung Mong-hong (鍾孟宏) and Midi Z (趙德胤) continue the artistic tradition of Taiwan New Cinema. Chung’s works like *A Sun* and *Soul* show deep observation of Taiwanese social reality with innovative visual styles.
+New generation directors such as Chung Mong-hong (鍾孟宏) and Midi Z (趙德胤) continue the artistic tradition of Taiwan New Cinema. Chung’s works like _A Sun_ and _Soul_ show deep observation of Taiwanese social reality with innovative visual styles.
 
 Midi Z, a Burmese-Chinese director, brought a new cultural perspective to Taiwanese cinema with his "Homecoming Trilogy." His films deal with the identity issues of the Chinese diaspora, enriching the cultural connotations of Taiwanese film.
 
@@ -101,7 +101,7 @@ From the New Wave to the international stage, the development of Taiwanese cinem
 
 ### Reference & Further Reading
 
-*   **February 28 Incident (二二八事件):** A key historical event in 1947 that shaped Taiwan's modern political identity and was famously depicted in *A City of Sadness*.
-*   **Wushe Incident (霧社事件):** A major uprising by Taiwan's indigenous Seediq people against Japanese colonial forces in 1930, depicted in *Seediq Bale*.
-*   **Wabi-Sabi (侘寂):** An aesthetic concept of beauty that is imperfect, impermanent, and incomplete, often reflected in the minimalist and realistic styles of Taiwan's New Wave directors.
-*   **Sinosphere (華語圈):** Referring to the cultural and linguistic sphere of the Chinese-speaking world.
+- **February 28 Incident (二二八事件):** A key historical event in 1947 that shaped Taiwan's modern political identity and was famously depicted in _A City of Sadness_.
+- **Wushe Incident (霧社事件):** A major uprising by Taiwan's indigenous Seediq people against Japanese colonial forces in 1930, depicted in _Seediq Bale_.
+- **Wabi-Sabi (侘寂):** An aesthetic concept of beauty that is imperfect, impermanent, and incomplete, often reflected in the minimalist and realistic styles of Taiwan's New Wave directors.
+- **Sinosphere (華語圈):** Referring to the cultural and linguistic sphere of the Chinese-speaking world.

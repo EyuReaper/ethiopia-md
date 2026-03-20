@@ -14,7 +14,7 @@ Traditional Taiwanese arts serve as living vessels of the island's cultural memo
 
 ### Huang Jun-xiong and the Rise of Television Puppetry
 
-In 1970, when Huang Jun-xiong's *The Legend of Yunzhou* first aired on Taiwan Television, no one anticipated it would become a miracle in Taiwan television history. The character Shi Yanwen not only achieved an extraordinary 97% viewership rating but drove the entire Taiwanese society into frenzy. Huang Jun-xiong moved traditional hand puppet theater from indoor stages to television screens, transforming it from folk entertainment to national phenomenon through exquisite puppet craftsmanship, innovative audio-visual effects, and music.
+In 1970, when Huang Jun-xiong's _The Legend of Yunzhou_ first aired on Taiwan Television, no one anticipated it would become a miracle in Taiwan television history. The character Shi Yanwen not only achieved an extraordinary 97% viewership rating but drove the entire Taiwanese society into frenzy. Huang Jun-xiong moved traditional hand puppet theater from indoor stages to television screens, transforming it from folk entertainment to national phenomenon through exquisite puppet craftsmanship, innovative audio-visual effects, and music.
 
 This success was no accident. Huang Jun-xiong inherited skills from his father Huang Hai-dai but, more importantly, possessed keen insight into modern media. Understanding television's unique characteristics as a new medium, he adjusted narrative pacing and enhanced visual effects, allowing traditional art to find its place in the new era.
 
@@ -82,8 +82,9 @@ Taiwan traditional arts' value lies not only in historical significance but in c
 
 ---
 
-*References:*
-- Chen Lung-ting, *Research on Taiwan Traditional Puppet Theater*
-- Lin Mao-hsien, *History of Taiwan Opera Development*
-- Tsai Hsin-chang, *Taiwan Folk Art Investigation*
-- Wu Rong-shun, *Taiwan Traditional Music Research*
+_References:_
+
+- Chen Lung-ting, _Research on Taiwan Traditional Puppet Theater_
+- Lin Mao-hsien, _History of Taiwan Opera Development_
+- Tsai Hsin-chang, _Taiwan Folk Art Investigation_
+- Wu Rong-shun, _Taiwan Traditional Music Research_

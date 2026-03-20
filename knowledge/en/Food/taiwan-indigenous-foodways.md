@@ -1,10 +1,18 @@
 ---
-title: "Taiwan Indigenous Foodways"
-description: "From millet to wild greens, the ecological wisdom and living heritage of Indigenous cuisines"
+title: 'Taiwan Indigenous Foodways'
+description: 'From millet to wild greens, the ecological wisdom and living heritage of Indigenous cuisines'
 date: 2026-03-18
-tags: ["Indigenous", "food culture", "millet", "wild greens", "traditional cuisine", "tribal food"]
-author: "Taiwan.md"
-difficulty: "intermediate"
+tags:
+  [
+    'Indigenous',
+    'food culture',
+    'millet',
+    'wild greens',
+    'traditional cuisine',
+    'tribal food',
+  ]
+author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 12
 featured: false
 lastVerified: 2026-03-19
@@ -16,7 +24,7 @@ lastVerified: 2026-03-19
 
 Taiwan’s Indigenous foodways are deeply rooted in land, season, and reciprocity. **Millet (小米)** is the sacred staple, complemented by mountain greens, river and ocean protein, and techniques that honor what nature provides. Across Taiwan’s 16 Indigenous groups, food carries memory—of harvest festivals, ancestral rituals, and community ties.
 
-**Keywords**: millet, wild greens, bamboo‑tube rice, *cinavu* (吉拿福), pigeon‑pea soup (樹豆湯), flying fish (飛魚)
+**Keywords**: millet, wild greens, bamboo‑tube rice, _cinavu_ (吉拿福), pigeon‑pea soup (樹豆湯), flying fish (飛魚)
 
 ## Why It Matters
 
@@ -43,19 +51,21 @@ Millet is more than a staple. For the Paiwan, it is **djulis**; for the Amis, **
 - **Millet cakes**: steamed, elastic, and used in ritual feasts.
 - **Millet wine**: fermented, typically 15–20% alcohol.
 - **Cinavu (吉拿福)**: millet and pork wrapped in false roselle leaves, bound with silvergrass—one of Taiwan’s most iconic Indigenous dishes.
-- **Millet “zongzi”**: wrapped in *shengyue* (月桃) leaves rather than bamboo.
+- **Millet “zongzi”**: wrapped in _shengyue_ (月桃) leaves rather than bamboo.
 
 ## Wild Greens: The Mountain Pantry
 
 Indigenous communities are masters of the edible landscape.
 
 **Common greens**
+
 - **Bird’s‑nest fern (山蘇)**: crisp, vitamin‑rich.
 - **Diplazium fern (過溝菜蕨)**: known as “mountain spinach.”
 - **Chayote shoots (龍鬚菜)**: fragrant and tender.
 - **Shōwa herb (昭和草)**: lightly bitter, traditionally cooling.
 
 **Root crops and legumes**
+
 - **Wild taro (山芋)** and **cassava (樹薯)** provide starch.
 - **Pigeon pea (樹豆)** anchors soups and stews with protein.
 

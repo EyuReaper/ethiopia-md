@@ -1,8 +1,9 @@
 ---
-title: "A‑Mei (張惠妹)"
-description: "A Puyuma (卑南) powerhouse whose voice reshaped Mandopop and whose advocacy made her a symbol of Indigenous pride and LGBTQ+ allyship in Taiwan."
+title: 'A‑Mei (張惠妹)'
+description: 'A Puyuma (卑南) powerhouse whose voice reshaped Mandopop and whose advocacy made her a symbol of Indigenous pride and LGBTQ+ allyship in Taiwan.'
 date: 2026-03-19
-tags: ["music", "indigenous", "Puyuma", "Mandopop", "LGBTQ+ ally", "performance"]
+tags:
+  ['music', 'indigenous', 'Puyuma', 'Mandopop', 'LGBTQ+ ally', 'performance']
 lastVerified: 2026-03-19
 ---
 
@@ -12,7 +13,7 @@ A‑Mei (張惠妹; Puyuma: Kulilay Amit), born in 1972 in 卑南鄉 Beinan, Tai
 
 ## From the tribe to the national stage
 
-A‑Mei grew up in a Puyuma (卑南族) community where music is a living tradition—sung at ceremonies, carried in oral memory, and shared as collective identity. That grounding in Indigenous vocal culture shaped the power and sincerity of her singing. When she debuted in 1996 with the album *Sisters* (《姐妹》), the scale of her success was immediate and staggering. The record exploded across Taiwan and the broader Chinese‑language market, helping define the “golden era” of 1990s Mandopop.
+A‑Mei grew up in a Puyuma (卑南族) community where music is a living tradition—sung at ceremonies, carried in oral memory, and shared as collective identity. That grounding in Indigenous vocal culture shaped the power and sincerity of her singing. When she debuted in 1996 with the album _Sisters_ (《姐妹》), the scale of her success was immediate and staggering. The record exploded across Taiwan and the broader Chinese‑language market, helping define the “golden era” of 1990s Mandopop.
 
 Her rise did more than create a pop star. It disrupted stereotypes. Indigenous people in Taiwan have long been marginalized and misrepresented; A‑Mei’s success demonstrated that Indigenous identity could be a source of artistic authority and global appeal, not a limitation. Her career became a rare case where the mainstream learned to celebrate an Indigenous woman on her own terms.
 

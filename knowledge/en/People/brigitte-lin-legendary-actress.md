@@ -1,8 +1,15 @@
 ---
-title: "Brigitte Lin: From Romance Icon to Martial Arts Legend"
+title: 'Brigitte Lin: From Romance Icon to Martial Arts Legend'
 description: "The legendary actress who dominated both Qiong Yao romance films and Tsui Hark's martial arts cinema, becoming an eternal icon of Chinese cinema"
 date: 2026-03-20
-tags: ["Brigitte Lin", "actress", "Qiong Yao films", "The Swordsman II", "Chinese cinema"]
+tags:
+  [
+    'Brigitte Lin',
+    'actress',
+    'Qiong Yao films',
+    'The Swordsman II',
+    'Chinese cinema',
+  ]
 lastVerified: 2026-03-20
 ---
 
@@ -125,5 +132,5 @@ She represents not merely an outstanding actress, but a cultural symbol of Chine
 ## References
 
 - [Brigitte Lin — Taiwan Cinema](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12467) — Complete filmography
-- [Hong Kong Film Archive](https://www.filmarchive.gov.hk/zh_TW/web/hkfa/home.html) — Hong Kong period film materials  
+- [Hong Kong Film Archive](https://www.filmarchive.gov.hk/zh_TW/web/hkfa/home.html) — Hong Kong period film materials
 - [The Swordsman II — Hong Kong Film Awards Association](https://www.hkfaa.com/) — Critical evaluation of classic works

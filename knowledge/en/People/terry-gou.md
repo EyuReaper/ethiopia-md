@@ -1,5 +1,5 @@
 ---
-title: "Terry Gou"
+title: 'Terry Gou'
 description: "Founder of Hon Hai Precision Industry (Foxconn), world's largest electronics manufacturing services company"
 date: 2026-03-20
 tags: [people, entrepreneur, technology, manufacturing]
@@ -71,6 +71,6 @@ Today, as Hon Hai pivots toward electric vehicles, artificial intelligence, and 
 ## Further Reading
 
 - [[Stan Shih]]: Acer founder and advocate of the "smile curve" theory
-- [[Morris Chang]]: TSMC founder and semiconductor industry pioneer  
+- [[Morris Chang]]: TSMC founder and semiconductor industry pioneer
 - [[Jensen Huang]]: NVIDIA founder and AI chip leader
 - [[Mark Liu]]: TSMC chairman and semiconductor technology leader

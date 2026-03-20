@@ -1,9 +1,18 @@
 ---
-title: "Taiwan Leopard Cat Conservation"
-description: "Taiwan’s last native wild cat is down to fewer than 500 individuals—an urgent test of whether development can coexist with biodiversity"
+title: 'Taiwan Leopard Cat Conservation'
+description: 'Taiwan’s last native wild cat is down to fewer than 500 individuals—an urgent test of whether development can coexist with biodiversity'
 date: 2026-03-18
-tags: [leopard-cat, conservation, roadkill, habitat-loss, Miaoli, endangered-species, ecology]
-author: "Taiwan.md Contributors"
+tags:
+  [
+    leopard-cat,
+    conservation,
+    roadkill,
+    habitat-loss,
+    Miaoli,
+    endangered-species,
+    ecology,
+  ]
+author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false
 lastVerified: 2026-03-19
@@ -15,13 +24,14 @@ lastVerified: 2026-03-19
 
 Taiwan once had clouded leopards. In 2013, they were officially declared extinct in the wild.
 
-Now the island’s only remaining native wild cat is the **leopard cat** (石虎, *Prionailurus bengalensis*). Fewer than 500 are thought to remain—and the number is still shrinking.
+Now the island’s only remaining native wild cat is the **leopard cat** (石虎, _Prionailurus bengalensis_). Fewer than 500 are thought to remain—and the number is still shrinking.
 
 The leopard cat does **not** live deep in remote mountains. It lives in low‑elevation foothills of Miaoli, Nantou, and Taichung—precisely the landscapes most exposed to farming, roads, and factory development. It dies crossing highways, loses hunting grounds to construction, gets poisoned for raiding chicken coops, and can be killed by free‑roaming dogs.
 
 This is the sharpest frontline of Taiwan’s conservation debate: development vs. coexistence.
 
 **Key facts:**
+
 - Estimated population: **< 500**
 - Main habitat: low‑elevation foothills in Miaoli, Nantou, Taichung
 - Documented roadkills (2017–2023): **130+**
@@ -81,6 +91,7 @@ Some Miaoli and Nantou roads now include underpasses and culverts designed for w
 ### “Star” leopard cats
 
 Conservation needs narratives. Two well‑known leopard cats have helped:
+
 - **Jibao** (集寶), rescued and cared for at the Taichung animal shelter, became a public ambassador.
 - **A‑Hu** (阿虎) at the Endemic Species Research Institute is part of a captive‑breeding program.
 
@@ -94,10 +105,10 @@ The controversy exposed a gap between **symbolic conservation** and **real prote
 
 ## Surprising facts
 
-- 🐆 The leopard cat’s scientific name is *Prionailurus bengalensis*—not related to leopards.
+- 🐆 The leopard cat’s scientific name is _Prionailurus bengalensis_—not related to leopards.
 - 👀 Night vision is about **6×** stronger than humans, yet bright headlights immobilize them.
 - 🏠 A male’s territory can span **5–10 km²**—roughly the size of Taipei’s Da’an District.
-- ☠️ The clouded leopard (*Neofelis nebulosa*) was declared extinct in Taiwan in 2013.
+- ☠️ The clouded leopard (_Neofelis nebulosa_) was declared extinct in Taiwan in 2013.
 - 📸 Camera‑trap networks cover less than half of current leopard cat habitat.
 
 ## The last five hundred

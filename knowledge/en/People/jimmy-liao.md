@@ -1,14 +1,22 @@
 ---
-title: "Jimmy Liao"
-description: "Taiwan’s most internationally recognized picture‑book artist, whose poetic illustrations turned ‘繪本’ (picture books) into a bridge between childhood and adult emotion."
+title: 'Jimmy Liao'
+description: 'Taiwan’s most internationally recognized picture‑book artist, whose poetic illustrations turned ‘繪本’ (picture books) into a bridge between childhood and adult emotion.'
 date: 2026-03-19
-tags: ["people", "illustration", "picture books", "literature", "yilan", "visual culture"]
+tags:
+  [
+    'people',
+    'illustration',
+    'picture books',
+    'literature',
+    'yilan',
+    'visual culture',
+  ]
 lastVerified: 2026-03-19
 ---
 
 ## A poet of images who softened a generation
 
-Jimmy Liao (幾米, birth name 廖福彬), born in 1958 in 宜蘭 Yilan, is the artist who made Taiwan’s picture books feel like literature for grown‑ups. His works—*Turn Left, Turn Right*, *The Sound of Colors*, *Starry Starry Night*—blend spare text with luminous illustrations, turning everyday loneliness into something tender and shareable. In the Sinophone world, he effectively redefined 繪本 (picture books) as a serious artistic form rather than children’s ephemera.
+Jimmy Liao (幾米, birth name 廖福彬), born in 1958 in 宜蘭 Yilan, is the artist who made Taiwan’s picture books feel like literature for grown‑ups. His works—_Turn Left, Turn Right_, _The Sound of Colors_, _Starry Starry Night_—blend spare text with luminous illustrations, turning everyday loneliness into something tender and shareable. In the Sinophone world, he effectively redefined 繪本 (picture books) as a serious artistic form rather than children’s ephemera.
 
 International readers sometimes assume illustrated books are “for kids.” Jimmy Liao’s work complicates that assumption. His books are not simply stories with pictures; they are visual poems where silence matters as much as language. He draws the unspoken: urban isolation, the ache of missed connections, the quiet optimism of strangers learning to trust again. That emotional register—gentle, melancholic, but never cynical—became a signature of contemporary Taiwanese visual culture.
 
@@ -22,19 +30,19 @@ He studied fine arts at Chinese Culture University (文化大學美術系), trai
 
 In 1995, at 37, Liao was diagnosed with leukemia (血癌). The diagnosis interrupted his career and forced a reassessment of what mattered. During long treatments he turned back to drawing, not as a job but as a way to make sense of vulnerability. That period became the genesis of his picture‑book career.
 
-His first two books, *Secrets in the Woods* (《森林裡的秘密》) and *The Smiling Fish* (《微笑的魚》), appeared in 1998 and immediately stood out in Taiwan’s publishing scene. The market recognized something new: not “children’s books,” but illustrated narratives that could meet adult readers where their emotions lived. His timing coincided with a broader cultural shift in Taiwan, where audiences were ready for softer, more introspective stories after decades of political upheaval.
+His first two books, _Secrets in the Woods_ (《森林裡的秘密》) and _The Smiling Fish_ (《微笑的魚》), appeared in 1998 and immediately stood out in Taiwan’s publishing scene. The market recognized something new: not “children’s books,” but illustrated narratives that could meet adult readers where their emotions lived. His timing coincided with a broader cultural shift in Taiwan, where audiences were ready for softer, more introspective stories after decades of political upheaval.
 
 ## The Jimmy Liao universe: loneliness with light
 
 Across his work, recurring motifs appear: drifting clouds, long corridors, trains, umbrellas, small figures in big spaces. These are not just aesthetic choices; they are metaphors for Taiwan’s urban experience, where millions live close yet feel far apart. Liao’s characters rarely “solve” their problems. Instead, they recognize each other, which is a different kind of resolution.
 
-*Turn Left, Turn Right* (《向左走・向右走》) captures two neighbors whose lives nearly touch but keep missing each other—an allegory for modern life’s near‑miss relationships. *The Sound of Colors* (《地下鐵》) explores a blind girl’s inner world in the Taipei Metro, portraying how imagination becomes a survival tool. *Starry Starry Night* (《星空》) deals with adolescence and family fracture, presenting escape into nature as an act of healing. The emphasis is always on emotional truth rather than plot mechanics.
+_Turn Left, Turn Right_ (《向左走・向右走》) captures two neighbors whose lives nearly touch but keep missing each other—an allegory for modern life’s near‑miss relationships. _The Sound of Colors_ (《地下鐵》) explores a blind girl’s inner world in the Taipei Metro, portraying how imagination becomes a survival tool. _Starry Starry Night_ (《星空》) deals with adolescence and family fracture, presenting escape into nature as an act of healing. The emphasis is always on emotional truth rather than plot mechanics.
 
 This ability to make a simple story feel profound is why he is often called the “illustration poet.” His prose is sparse, but the images carry subtext, offering a space for readers to project their own memories. The effect is culturally specific and universal at once—rooted in Taiwanese city life, yet resonating with anyone who has felt alone in a crowd.
 
 ## From page to screen and stage
 
-Liao’s books have been adapted into films, theater, and animation, extending the reach of picture‑book aesthetics into mainstream culture. *Turn Left, Turn Right* was adapted into a film directed by Johnnie To (杜琪峯), starring Takeshi Kaneshiro (金城武) and Gigi Leung (梁詠琪). *The Sound of Colors* and *Starry Starry Night* also became films, translating his quiet emotional tempo into cinematic form.
+Liao’s books have been adapted into films, theater, and animation, extending the reach of picture‑book aesthetics into mainstream culture. _Turn Left, Turn Right_ was adapted into a film directed by Johnnie To (杜琪峯), starring Takeshi Kaneshiro (金城武) and Gigi Leung (梁詠琪). _The Sound of Colors_ and _Starry Starry Night_ also became films, translating his quiet emotional tempo into cinematic form.
 
 Adaptations are important not just for visibility but for legitimacy. They signaled that picture books could be a source of serious storytelling. In Taiwan, where cultural production often competes with massive global media, Liao’s cross‑media presence helped carve out a distinct local aesthetic that could still travel internationally.
 

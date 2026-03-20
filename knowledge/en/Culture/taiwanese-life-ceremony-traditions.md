@@ -1,12 +1,19 @@
 ---
-
-title: "Taiwanese Life Ceremony Traditions: Marriage, Funeral Rites, and Ritual Celebrations"
+title: 'Taiwanese Life Ceremony Traditions: Marriage, Funeral Rites, and Ritual Celebrations'
 description: "From the Twelve Engagement Gifts to banquet culture, explore how Taiwan's life ceremonies balance tradition and modernity"
 date: 2026-03-18
-category: "Culture"
-tags: ["wedding ceremonies", "funeral rites", "life rituals", "banquet culture", "traditional customs", "modern adaptation"]
-author: "Taiwan.md"
-difficulty: "beginner"
+category: 'Culture'
+tags:
+  [
+    'wedding ceremonies',
+    'funeral rites',
+    'life rituals',
+    'banquet culture',
+    'traditional customs',
+    'modern adaptation',
+  ]
+author: 'Taiwan.md'
+difficulty: 'beginner'
 readingTime: 14
 featured: true
 lastVerified: 2026-03-19
@@ -53,6 +60,7 @@ Taiwan's life ceremonies begin from birth, with specific rituals marking each gr
 The zhua zhou ceremony at one year old is one of Taiwan's most endearing traditions. Various objects are placed before the child:
 
 **Traditional Items**:
+
 - Brush: represents studying, becoming a scholar
 - Abacus: represents calculation skills, becoming a merchant
 - Seal: represents authority, becoming an official
@@ -60,6 +68,7 @@ The zhua zhou ceremony at one year old is one of Taiwan's most endearing traditi
 - Books: represents learning, becoming a scholar
 
 **Modern Innovations**:
+
 - Computer mouse: represents strong IT skills
 - Stethoscope: represents becoming a doctor
 - Microphone: represents becoming an entertainer
@@ -72,6 +81,7 @@ Though just a game, families always discuss the results with delight, making the
 Tainan's unique "Making Sixteen" (做十六歲) coming-of-age ceremony occurs annually on the seventh day of the seventh lunar month. Sixteen-year-old boys and girls visit temples to pray, thanking the gods for protection while announcing their transition to adulthood.
 
 **Ceremony Process**:
+
 1. Crossing the Seven Star Bridge or crawling under deity palanquins
 2. Giving thanks to guardian deities (usually Qi Niang Ma 七娘媽)
 3. Biting the chicken head (symbolizing farewell to childhood)
@@ -172,6 +182,7 @@ When discussing Taiwan's celebration culture, "banquet tables" (辦桌) cannot b
 Banquet dishes pursue being "cheap yet filling," with generous portions, strong flavors, and good presentation:
 
 **Classic Dishes**:
+
 1. White-cut chicken or drool chicken (appetizer)
 2. Red crab sticky rice or oil rice (main course)
 3. Braised fish or steamed fish (annual abundance)
@@ -232,6 +243,7 @@ Taiwan's funeral customs also reflect respect for life and emphasis on family. T
 **Mourning clothes**: Traditionally, family members wear mourning clothes, now usually simplified to black clothing and mourning bands.
 
 **Taboos**:
+
 - Cannot participate in celebrations for 49 days
 - Cannot make New Year visits during Chinese New Year
 - Some temples don't welcome filial sons

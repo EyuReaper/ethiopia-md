@@ -1,8 +1,14 @@
 ---
-
-title: "Taiwan’s Neighborhood and Li (里) Culture"
-description: "From the grassroots of democracy to community‑building movements, Taiwan’s li system shows how civic life is practiced on the street level."
-tags: ["li system", "community building", "community colleges", "civic participation", "local governance"]
+title: 'Taiwan’s Neighborhood and Li (里) Culture'
+description: 'From the grassroots of democracy to community‑building movements, Taiwan’s li system shows how civic life is practiced on the street level.'
+tags:
+  [
+    'li system',
+    'community building',
+    'community colleges',
+    'civic participation',
+    'local governance',
+  ]
 lastVerified: 2026-03-19
 ---
 
@@ -19,6 +25,7 @@ In Taiwan, a **li (里)** is the smallest administrative unit. It may include a 
 Taiwan’s **village‑and‑neighborhood system (村里制度)** is one of the most intimate democratic structures in the world. According to Taiwan’s Local Government Act, each li elects a **li‑chief** by direct vote. Terms last four years, and there are no term limits. The design keeps democratic participation accessible and personal.
 
 The li‑chief is a hybrid role: part public servant, part community organizer, part mediator. In practice, li‑chiefs handle everything from:
+
 - helping residents apply for documents,
 - organizing health and safety initiatives,
 - resolving neighborhood disputes,
@@ -48,6 +55,7 @@ The core idea is simple: **“Our community, our responsibility.”** Through pl
 In 1998, Taiwan’s first **community college (社區大學)** opened in Taipei’s Wenshan District. These colleges challenged the idea that education ends at a certain age or happens only in formal institutions. Their courses combine humanities, life skills, and civic participation.
 
 Community colleges often function as local think‑and‑do tanks:
+
 - The **Beitou Community College** promotes “Beitou Studies,” encouraging residents to map local history, ecology, and social issues.
 - Courses frequently include field research, oral history, and community mapping—turning learners into **local historians and advocates**.
 

@@ -1,10 +1,18 @@
 ---
 title: "Metamorphosis of an Island: Taiwan's Industrial Transformation"
 description: "From an agrarian society to one of the Four Asian Tigers, and eventually a global technology hub—the story of Taiwan's economic evolution."
-category: "Economy"
-date: "2026-03-20"
-author: "Taiwan.md"
-tags: ["Economic Transformation", "Industrial Upgrading", "Four Asian Tigers", "Semiconductors", "Manufacturing", "Economic Miracle"]
+category: 'Economy'
+date: '2026-03-20'
+author: 'Taiwan.md'
+tags:
+  [
+    'Economic Transformation',
+    'Industrial Upgrading',
+    'Four Asian Tigers',
+    'Semiconductors',
+    'Manufacturing',
+    'Economic Miracle',
+  ]
 readingTime: 18
 featured: true
 lastVerified: 2026-03-20
@@ -25,11 +33,13 @@ Since the 1950s, Taiwan has undergone three major industrial transformations: fr
 When the Nationalist government moved to Taiwan in 1949, they inherited a scarred agrarian society. With a population of 6 million, 85% of whom were farmers, Taiwan's per capita GDP was a mere $154 USD—among the lowest in the world.
 
 The government implemented a three-stage **Land Reform (1949–1953)**:
+
 1. **37.5% Rent Reduction**: Capped land rent at 37.5% of the main crop yield.
 2. **Sale of Public Land**: Sold government-owned land to farmers at low prices.
 3. **Land to the Tiller**: Compulsorily purchased land from landlords and resold it to tenant farmers.
 
 **Impact**:
+
 - 600,000 farming households gained land ownership.
 - Agricultural productivity surged.
 - A domestic market was created, releasing rural purchasing power.
@@ -52,6 +62,7 @@ In 1965, Taiwan established its first **Export Processing Zone (EPZ)** in Kaohsi
 ## The Era of the Economic Miracle: Infrastructure and Heavy Industry (1973–1987)
 
 To counter the 1973 oil crisis, the government launched the **Ten Major Construction Projects**. This was a massive state-led investment in infrastructure:
+
 - **Transportation**: Sun Yat-sen Freeway, Taoyuan International Airport, and major ports.
 - **Heavy Industry**: China Steel, CSBC Corporation (shipbuilding), and large-scale petrochemical plants.
 
@@ -66,6 +77,7 @@ In 1980, the **Hsinchu Science Park** was established. It wasn't just a factory 
 ### Semiconductors: The Silicon Shield
 
 Taiwan's semiconductor industry is perhaps the most successful "latecomer catch-up" in global history.
+
 - **1974**: ITRI's Electronics Research and Service Organization (ERSO) was formed.
 - **1987**: **TSMC (Taiwan Semiconductor Manufacturing Company)** was founded by Morris Chang.
 - **Innovation**: TSMC's "Pure-Play Foundry" model—manufacturing chips for others without competing with them—revolutionized the global industry.
@@ -92,6 +104,7 @@ TSMC's dominance in sub-7nm, 5nm, and 3nm processes has made it indispensable to
 ## Current Challenges and Future Outlook (2020–2030)
 
 Taiwan is now entering its **Fourth Transformation**:
+
 - **Digital Transformation**: Integrating AI, 5G, and IoT into traditional manufacturing.
 - **Green Transition**: Meeting Net-Zero targets through renewable energy.
 - **Biotech & Health**: Leveraging IT strengths in precision medicine.
@@ -100,10 +113,11 @@ As geopolitical tensions reshape global supply chains, Taiwan's role as a truste
 
 ## References
 
-- Li, K.T., *The Evolution of Policy Behind Taiwan's Development Success*.
-- World Bank, *The East Asian Miracle: Economic Growth and Public Policy*.
+- Li, K.T., _The Evolution of Policy Behind Taiwan's Development Success_.
+- World Bank, _The East Asian Miracle: Economic Growth and Public Policy_.
 - [TSMC Official History](https://www.tsmc.com)
 - [ITRI: 50 Years of Industrial Innovation](https://www.itri.org.tw)
 
 ---
-*Note: This article is part of the Taiwan.md project, aiming to provide international readers with a deep understanding of Taiwan's cultural and economic context.*
+
+_Note: This article is part of the Taiwan.md project, aiming to provide international readers with a deep understanding of Taiwan's cultural and economic context._

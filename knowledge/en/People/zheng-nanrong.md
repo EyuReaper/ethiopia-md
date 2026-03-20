@@ -1,16 +1,15 @@
 ---
-
-title: "Zheng Nanrong"
-description: "Martyr of free speech and founder of Freedom Era Weekly; commemorated on Taiwan’s Freedom of Speech Day (April 7)"
+title: 'Zheng Nanrong'
+description: 'Martyr of free speech and founder of Freedom Era Weekly; commemorated on Taiwan’s Freedom of Speech Day (April 7)'
 date: 2026-03-19
-tags: ["民主運動", "言論自由", "政治雜誌", "自由時代", "殉道者"]
+tags: ['民主運動', '言論自由', '政治雜誌', '自由時代', '殉道者']
 lastVerified: 2026-03-19
 featured: true
 ---
 
 # Zheng Nanrong: The Man Who Burned for Freedom of Speech
 
-Zheng Nanrong (鄭南榕, 1947–1989) is one of the most iconic figures in Taiwan’s democratization. As the founder of *Freedom Era Weekly* (《自由時代》雜誌), he challenged authoritarian rule at the height of martial law, insisting on what he called “100% freedom of speech.” On April 7, 1989, he set himself on fire when police broke into his magazine office to arrest him. His death at 42 became a defining moment in Taiwan’s struggle for democracy and remains a moral landmark in the island’s public memory.
+Zheng Nanrong (鄭南榕, 1947–1989) is one of the most iconic figures in Taiwan’s democratization. As the founder of _Freedom Era Weekly_ (《自由時代》雜誌), he challenged authoritarian rule at the height of martial law, insisting on what he called “100% freedom of speech.” On April 7, 1989, he set himself on fire when police broke into his magazine office to arrest him. His death at 42 became a defining moment in Taiwan’s struggle for democracy and remains a moral landmark in the island’s public memory.
 
 ## A Complex Identity, a Deepened Sense of Freedom
 
@@ -18,15 +17,15 @@ Zheng was born in Taipei to a father from Fujian and a mother who was a Japanese
 
 He entered National Cheng Kung University in engineering, but soon felt that technical study could not answer the questions that mattered most to him. By the 1970s he was reading banned books on liberalism, human rights, and democracy, and becoming involved in the tangwai (黨外) opposition movement. These readings formed the backbone of his political conviction: public debate must be open, even when it is uncomfortable or dangerous.
 
-## *Freedom Era Weekly*: A Magazine as Resistance
+## _Freedom Era Weekly_: A Magazine as Resistance
 
-In 1984, Zheng founded *Freedom Era Weekly*, which quickly became one of the most important political magazines of the martial law era. Its mission statement was radical for the time: to fight for “100% freedom of speech.” The magazine openly discussed political reform, human rights, and Taiwan’s future—topics that the ruling Kuomintang (KMT) government regarded as subversive.
+In 1984, Zheng founded _Freedom Era Weekly_, which quickly became one of the most important political magazines of the martial law era. Its mission statement was radical for the time: to fight for “100% freedom of speech.” The magazine openly discussed political reform, human rights, and Taiwan’s future—topics that the ruling Kuomintang (KMT) government regarded as subversive.
 
 The editorial style was confrontational. It published material that mainstream outlets would not touch, and it refused to submit to censorship. Zheng believed that media should act as a watchdog, not a mouthpiece. As a result, the magazine was repeatedly seized, and Zheng faced constant legal pressure.
 
 ## Breaking Taboos: Publishing the “Republic of Taiwan” Draft Constitution
 
-In 1988, *Freedom Era Weekly* published a draft constitution for a “Republic of Taiwan,” written by activist Hsu Shih-kai (許世楷). In the martial law context, advocating Taiwan independence could be prosecuted as rebellion. Zheng knew the consequences yet insisted on printing the document. For him, the issue was not independence per se, but the principle that no idea should be forbidden.
+In 1988, _Freedom Era Weekly_ published a draft constitution for a “Republic of Taiwan,” written by activist Hsu Shih-kai (許世楷). In the martial law context, advocating Taiwan independence could be prosecuted as rebellion. Zheng knew the consequences yet insisted on printing the document. For him, the issue was not independence per se, but the principle that no idea should be forbidden.
 
 This act marked a crucial moment in Taiwan’s freedom-of-expression history. It tested the limits of state power and exposed how fragile public discourse still was. Zheng’s insistence on open debate forced society to confront the contradiction between modernization and political repression.
 

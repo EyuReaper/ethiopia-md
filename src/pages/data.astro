@@ -7,58 +7,150 @@ const categories = [
     title: '政府開放資料',
     description: '政府機關釋出的結構化資料集與統計平台',
     items: [
-      { name: '政府資料開放平臺', url: 'https://data.gov.tw/', desc: '政府開放資料統一入口，上萬筆資料集' },
-      { name: '主計總處統計資料庫', url: 'https://statdb.dgbas.gov.tw/', desc: '人口、經濟、物價等核心國家統計' },
-      { name: '中選會選舉資料庫', url: 'https://db.cec.gov.tw/', desc: '歷屆選舉結果與投票數據' },
-      { name: '全國法規資料庫', url: 'https://law.moj.gov.tw/', desc: '所有法律、命令、判例全文檢索' },
-      { name: '空氣品質監測網', url: 'https://airtw.moenv.gov.tw/', desc: '即時 AQI、PM2.5 監測數據' },
-    ]
+      {
+        name: '政府資料開放平臺',
+        url: 'https://data.gov.tw/',
+        desc: '政府開放資料統一入口，上萬筆資料集',
+      },
+      {
+        name: '主計總處統計資料庫',
+        url: 'https://statdb.dgbas.gov.tw/',
+        desc: '人口、經濟、物價等核心國家統計',
+      },
+      {
+        name: '中選會選舉資料庫',
+        url: 'https://db.cec.gov.tw/',
+        desc: '歷屆選舉結果與投票數據',
+      },
+      {
+        name: '全國法規資料庫',
+        url: 'https://law.moj.gov.tw/',
+        desc: '所有法律、命令、判例全文檢索',
+      },
+      {
+        name: '空氣品質監測網',
+        url: 'https://airtw.moenv.gov.tw/',
+        desc: '即時 AQI、PM2.5 監測數據',
+      },
+    ],
   },
   {
     icon: '🗺️',
     title: '互動地圖與視覺化',
     description: '即時監測、地理圖資與環境視覺化工具',
     items: [
-      { name: '台灣海纜動態地圖', url: 'https://smc.peering.tw/', desc: '民間開發的海底電纜即時監測，公民科技典範' },
-      { name: '國土測繪圖資服務雲', url: 'https://maps.nlsc.gov.tw/', desc: '台灣地圖圖資、航照、地籍' },
-      { name: '地震測報中心', url: 'https://scweb.cwa.gov.tw/', desc: '即時地震資訊與歷史紀錄' },
-      { name: '水利署防災資訊網', url: 'https://fhy.wra.gov.tw/', desc: '即時水情、河川水位、水庫蓄水量' },
-      { name: '環境即時通', url: 'https://env.gov.tw/', desc: '空品、紫外線、水質即時監測' },
-    ]
+      {
+        name: '台灣海纜動態地圖',
+        url: 'https://smc.peering.tw/',
+        desc: '民間開發的海底電纜即時監測，公民科技典範',
+      },
+      {
+        name: '國土測繪圖資服務雲',
+        url: 'https://maps.nlsc.gov.tw/',
+        desc: '台灣地圖圖資、航照、地籍',
+      },
+      {
+        name: '地震測報中心',
+        url: 'https://scweb.cwa.gov.tw/',
+        desc: '即時地震資訊與歷史紀錄',
+      },
+      {
+        name: '水利署防災資訊網',
+        url: 'https://fhy.wra.gov.tw/',
+        desc: '即時水情、河川水位、水庫蓄水量',
+      },
+      {
+        name: '環境即時通',
+        url: 'https://env.gov.tw/',
+        desc: '空品、紫外線、水質即時監測',
+      },
+    ],
   },
   {
     icon: '🤖',
     title: '公民科技 (Civic Tech)',
     description: '開源社群、事實查核與數位民主工具',
     items: [
-      { name: 'g0v 零時政府', url: 'https://g0v.tw/', desc: '台灣最大的開源公民科技社群' },
-      { name: 'KKTIX 公民科技活動', url: 'https://g0v-jothon.kktix.cc/', desc: 'g0v 黑客松、開放資料社群活動入口' },
-      { name: 'Cofacts 真的假的', url: 'https://cofacts.tw/', desc: '群眾協作的事實查核機器人' },
-      { name: 'vTaiwan', url: 'https://vtaiwan.tw/', desc: '數位民主討論平台，法規政策公民審議' },
-      { name: 'JOIN 公共政策參與平台', url: 'https://join.gov.tw/', desc: '政府提案、連署、政策討論' },
-    ]
+      {
+        name: 'g0v 零時政府',
+        url: 'https://g0v.tw/',
+        desc: '台灣最大的開源公民科技社群',
+      },
+      {
+        name: 'KKTIX 公民科技活動',
+        url: 'https://g0v-jothon.kktix.cc/',
+        desc: 'g0v 黑客松、開放資料社群活動入口',
+      },
+      {
+        name: 'Cofacts 真的假的',
+        url: 'https://cofacts.tw/',
+        desc: '群眾協作的事實查核機器人',
+      },
+      {
+        name: 'vTaiwan',
+        url: 'https://vtaiwan.tw/',
+        desc: '數位民主討論平台，法規政策公民審議',
+      },
+      {
+        name: 'JOIN 公共政策參與平台',
+        url: 'https://join.gov.tw/',
+        desc: '政府提案、連署、政策討論',
+      },
+    ],
   },
   {
     icon: '📰',
     title: '資料新聞與查核',
     description: '深度調查報導、事實查核與資料新聞媒體',
     items: [
-      { name: '報導者', url: 'https://www.twreporter.org/', desc: '台灣非營利深度調查媒體' },
-      { name: '台灣事實查核中心', url: 'https://tfc-taiwan.org.tw/', desc: 'IFCN 認證事實查核機構' },
-      { name: 'READr 讀+', url: 'https://www.readr.tw/', desc: '資料新聞與開放資料視覺化報導' },
-      { name: '典藏 ARTouch', url: 'https://artouch.com/', desc: '台灣藝術新聞與深度評論媒體' },
-    ]
+      {
+        name: '報導者',
+        url: 'https://www.twreporter.org/',
+        desc: '台灣非營利深度調查媒體',
+      },
+      {
+        name: '台灣事實查核中心',
+        url: 'https://tfc-taiwan.org.tw/',
+        desc: 'IFCN 認證事實查核機構',
+      },
+      {
+        name: 'READr 讀+',
+        url: 'https://www.readr.tw/',
+        desc: '資料新聞與開放資料視覺化報導',
+      },
+      {
+        name: '典藏 ARTouch',
+        url: 'https://artouch.com/',
+        desc: '台灣藝術新聞與深度評論媒體',
+      },
+    ],
   },
   {
     icon: '🔬',
     title: '學術與研究',
     description: '數位典藏、生態資料與 AI 語料庫',
     items: [
-      { name: '中研院開放博物館', url: 'https://openmuseum.tw/', desc: '數位典藏與線上策展' },
-      { name: '國家文化記憶庫', url: 'https://tcmb.culture.tw/', desc: '台灣文化記憶數位保存' },
-      { name: '台灣生物多樣性網絡', url: 'https://tbn.biodiv.tw/', desc: '物種分布、生態觀測' },
-      { name: '臺灣主權 AI 訓練語料庫 TAIC', url: 'https://huggingface.co/TAIDE', desc: '台灣本土 AI 訓練資料集' },
-    ]
+      {
+        name: '中研院開放博物館',
+        url: 'https://openmuseum.tw/',
+        desc: '數位典藏與線上策展',
+      },
+      {
+        name: '國家文化記憶庫',
+        url: 'https://tcmb.culture.tw/',
+        desc: '台灣文化記憶數位保存',
+      },
+      {
+        name: '台灣生物多樣性網絡',
+        url: 'https://tbn.biodiv.tw/',
+        desc: '物種分布、生態觀測',
+      },
+      {
+        name: '臺灣主權 AI 訓練語料庫 TAIC',
+        url: 'https://huggingface.co/TAIDE',
+        desc: '台灣本土 AI 訓練資料集',
+      },
+    ],
   },
 ];
 ---
@@ -82,58 +174,83 @@ const categories = [
         <article class="story-block">
           <h2 class="story-title">📜 從電子化到開放化：台灣數位治理的三十年</h2>
           <p>
-            台灣的數位政府之路始於 1997 年——行政院啟動「電子化政府計畫」，目標是讓政府服務上網。
+            台灣的數位政府之路始於 1997
+            年——行政院啟動「電子化政府計畫」，目標是讓政府服務上網。
             從第一階段的「網路報稅」到第四階段的「政府雲端」，歷經四個世代的演進，台灣逐步建立起亞洲最完整的電子化政府基礎設施。
           </p>
           <p>
             2012 年，行政院第 3322 次院會做出關鍵決議：推動「政府資料開放」。
-            隔年 4 月，<strong>data.gov.tw 政府資料開放平臺</strong>正式上線，台灣從「電子化政府」跨入「開放政府」時代。
+            隔年 4 月，<strong>data.gov.tw 政府資料開放平臺</strong
+            >正式上線，台灣從「電子化政府」跨入「開放政府」時代。
             政府不再只是把服務搬上網路，而是把原始數據交到人民手中。
           </p>
           <p>
-            這個決定帶來了驚人的成果：台灣在 2015、2016、2017 年<strong>三度蟬聯「全球開放資料指標」(Global Open Data Index) 第一名</strong>。
-            2018 年，六都簽署「資料開放憲章」(Open Data Charter)，成為亞洲首批簽署 ODC 的城市。
-            截至 2026 年，data.gov.tw 已收錄超過 55,000 筆資料集，涵蓋交通、環境、經濟、健康等領域。
+            這個決定帶來了驚人的成果：台灣在 2015、2016、2017 年<strong
+              >三度蟬聯「全球開放資料指標」(Global Open Data Index) 第一名</strong
+            >。 2018 年，六都簽署「資料開放憲章」(Open Data
+            Charter)，成為亞洲首批簽署 ODC 的城市。 截至 2026 年，data.gov.tw
+            已收錄超過 55,000 筆資料集，涵蓋交通、環境、經濟、健康等領域。
           </p>
         </article>
 
         <article class="story-block">
-          <h2 class="story-title">🏗️ g0v 與公民科技運動：「拆政府，原地重建」</h2>
+          <h2 class="story-title">
+            🏗️ g0v 與公民科技運動：「拆政府，原地重建」
+          </h2>
           <p>
-            2012 年底，一群工程師、設計師、社運人士因為不滿政府經濟動能推升方案的宣傳影片，
-            決定「不只批評，要動手做」——<strong>g0v（零時政府）</strong>在這樣的精神下誕生。
-            他們把政府網站的 "gov" 替換成 "g0v"，建立影子版本，重新設計資訊呈現方式。
+            2012
+            年底，一群工程師、設計師、社運人士因為不滿政府經濟動能推升方案的宣傳影片，
+            決定「不只批評，要動手做」——<strong>g0v（零時政府）</strong
+            >在這樣的精神下誕生。 他們把政府網站的 "gov" 替換成
+            "g0v"，建立影子版本，重新設計資訊呈現方式。
           </p>
           <p>
-            g0v 的運作模式是「黑客松」(hackathon)：每兩個月一次、超過百人的集體共創。
-            自 2012 年以來，g0v 已舉辦超過 <strong>60 次大型黑客松</strong>，累積超過 <strong>900 個提案</strong>。
+            g0v
+            的運作模式是「黑客松」(hackathon)：每兩個月一次、超過百人的集體共創。
+            自 2012 年以來，g0v 已舉辦超過 <strong>60 次大型黑客松</strong
+            >，累積超過 <strong>900 個提案</strong>。
             社群不設會員制、沒有組織架構，任何人都可以提案、認領、貢獻——這種「沒有人」文化
             （「沒有人會做，所以你就是那個人」）成為台灣公民科技的精神圖騰。
           </p>
-          <p>
-            g0v 孵化的專案已經深入台灣人的日常：
-          </p>
+          <p>g0v 孵化的專案已經深入台灣人的日常：</p>
           <ul class="story-list">
-            <li><strong>口罩地圖</strong>（2020）— COVID-19 爆發時，工程師在 72 小時內完成即時藥局口罩庫存地圖，單日超過 600 萬次查詢，成為全球數位防疫典範</li>
-            <li><strong>Cofacts 真的假的</strong>（2016 至今）— LINE 上的群眾協作事實查核機器人，已處理超過 10 萬則可疑訊息</li>
-            <li><strong>Disfactory 農地違章工廠回報</strong> — 公民自行標記農地上的違法工廠，推動政策修法</li>
-            <li><strong>政治獻金數位化</strong>（2014）— 3 萬名網友在 24 小時內完成 2,637 份紙本政治獻金報告的數位化，促成後續法規修改</li>
-            <li><strong>vTaiwan</strong> — 數位法規討論平台，使用 Pol.is 演算法凝聚共識，處理過 Uber、遠距醫療等議題</li>
+            <li>
+              <strong>口罩地圖</strong>（2020）— COVID-19 爆發時，工程師在 72
+              小時內完成即時藥局口罩庫存地圖，單日超過 600
+              萬次查詢，成為全球數位防疫典範
+            </li>
+            <li>
+              <strong>Cofacts 真的假的</strong>（2016 至今）— LINE
+              上的群眾協作事實查核機器人，已處理超過 10 萬則可疑訊息
+            </li>
+            <li>
+              <strong>Disfactory 農地違章工廠回報</strong> — 公民自行標記農地上的違法工廠，推動政策修法
+            </li>
+            <li>
+              <strong>政治獻金數位化</strong>（2014）— 3 萬名網友在 24
+              小時內完成 2,637 份紙本政治獻金報告的數位化，促成後續法規修改
+            </li>
+            <li>
+              <strong>vTaiwan</strong> — 數位法規討論平台，使用 Pol.is 演算法凝聚共識，處理過
+              Uber、遠距醫療等議題
+            </li>
           </ul>
         </article>
 
         <article class="story-block">
           <h2 class="story-title">🌐 唐鳳效應與數位民主制度化</h2>
           <p>
-            2016 年，g0v 核心參與者唐鳳受邀擔任行政院政務委員，成為全球首位「數位政委」。
+            2016 年，g0v
+            核心參與者唐鳳受邀擔任行政院政務委員，成為全球首位「數位政委」。
             她帶入的不只是技術，更是一套「開放政府」的治理哲學：
             <strong>PDIS（公共數位創新空間）</strong>成為政府與公民社群的橋樑，
             「協作會議」制度讓公民可以直接參與政策討論。
           </p>
           <p>
-            2022 年，台灣成立<strong>數位發展部（moda）</strong>，將數位治理提升到部會層級。
-            moda 推動的計畫包括：MyData 個人資料自主運用、
-            TAIDE 台灣本土大型語言模型、數位韌性（防範海纜斷裂的備援方案）、
+            2022 年，台灣成立<strong>數位發展部（moda）</strong
+            >，將數位治理提升到部會層級。 moda 推動的計畫包括：MyData
+            個人資料自主運用、 TAIDE
+            台灣本土大型語言模型、數位韌性（防範海纜斷裂的備援方案）、
             以及「資料公益」框架——讓匿名化的健保資料可以用於公衛研究，同時保護個人隱私。
           </p>
         </article>
@@ -141,43 +258,52 @@ const categories = [
         <article class="story-block">
           <h2 class="story-title">🔮 為什麼台灣的數位公民文化值得關注？</h2>
           <p>
-            台灣的開放資料與公民科技之所以獨特，在於它不是由上而下的政策成果，而是<strong>政府與民間的雙向運動</strong>：
+            台灣的開放資料與公民科技之所以獨特，在於它不是由上而下的政策成果，而是<strong
+              >政府與民間的雙向運動</strong
+            >：
             政府開放數據，公民用數據建立工具，工具改變政策，政策又釋出更多數據。
             這個正向循環讓台灣成為全球數位民主的實驗場。
           </p>
           <p>
             從口罩地圖到事實查核，從預算視覺化到農地違章回報——
-            台灣證明了一件事：<strong>當公民有能力理解數據、政府願意釋出數據，民主就不只是四年一次的投票，而是每天都在發生的協作</strong>。
+            台灣證明了一件事：<strong
+              >當公民有能力理解數據、政府願意釋出數據，民主就不只是四年一次的投票，而是每天都在發生的協作</strong
+            >。
           </p>
-          <p>
-            以下是我們整理的台灣開放數據與公民科技資源，歡迎探索：
-          </p>
+          <p>以下是我們整理的台灣開放數據與公民科技資源，歡迎探索：</p>
         </article>
       </section>
 
       <!-- Categories -->
       <div class="categories">
-        {categories.map(cat => (
-          <section class="category-card">
-            <div class="category-header">
-              <span class="category-icon">{cat.icon}</span>
-              <div>
-                <h2 class="category-title">{cat.title}</h2>
-                <p class="category-desc">{cat.description}</p>
+        {
+          categories.map((cat) => (
+            <section class="category-card">
+              <div class="category-header">
+                <span class="category-icon">{cat.icon}</span>
+                <div>
+                  <h2 class="category-title">{cat.title}</h2>
+                  <p class="category-desc">{cat.description}</p>
+                </div>
               </div>
-            </div>
-            <ul class="item-list">
-              {cat.items.map(item => (
-                <li class="item">
-                  <a href={item.url} target="_blank" rel="noopener noreferrer" class="item-link">
-                    {item.name}
-                  </a>
-                  <span class="item-desc">— {item.desc}</span>
-                </li>
-              ))}
-            </ul>
-          </section>
-        ))}
+              <ul class="item-list">
+                {cat.items.map((item) => (
+                  <li class="item">
+                    <a
+                      href={item.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      class="item-link"
+                    >
+                      {item.name}
+                    </a>
+                    <span class="item-desc">— {item.desc}</span>
+                  </li>
+                ))}
+              </ul>
+            </section>
+          ))
+        }
       </div>
 
       <!-- Back link -->

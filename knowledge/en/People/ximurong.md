@@ -1,6 +1,6 @@
 ---
-title: "Xi Murong (席慕蓉)"
-description: "Best-selling poet of the Chinese-speaking world whose gentle lyricism bridges the steppe and the modern city"
+title: 'Xi Murong (席慕蓉)'
+description: 'Best-selling poet of the Chinese-speaking world whose gentle lyricism bridges the steppe and the modern city'
 date: 2026-03-19
 tags: [people, poetry, literature, essayist, Mongolian-heritage]
 lastVerified: 2026-03-19
@@ -10,7 +10,7 @@ lastVerified: 2026-03-19
 
 ## A Voice of Tenderness in Modern Chinese Poetry
 
-Xi Murong (席慕蓉), born in 1943, is one of the most beloved poets in the Chinese-speaking world. Known for her lyrical, intimate style, she writes with a clarity that feels simple but resonates deeply. Her poetry collections—*Qilixiang* (《七里香》) and *Unregretful Youth* (《無怨的青春》)—sold in extraordinary numbers, making her perhaps the most widely read modern Chinese poet of the late twentieth century.
+Xi Murong (席慕蓉), born in 1943, is one of the most beloved poets in the Chinese-speaking world. Known for her lyrical, intimate style, she writes with a clarity that feels simple but resonates deeply. Her poetry collections—_Qilixiang_ (《七里香》) and _Unregretful Youth_ (《無怨的青春》)—sold in extraordinary numbers, making her perhaps the most widely read modern Chinese poet of the late twentieth century.
 
 Xi’s cultural identity is as layered as her imagery. She was born in Chongqing, grew up in Hong Kong, and later settled in Taiwan. She carries Mongolian heritage and a lifelong emotional pull toward the steppe. This constellation of places and identities shaped her poetry’s distinctive atmosphere: a gentle, almost musical voice that speaks of memory, distance, longing, and the quiet beauty of ordinary life.
 
@@ -26,9 +26,9 @@ Xi studied art at National Taiwan Normal University’s Fine Arts Department. He
 
 After graduating in 1966, she won a scholarship to Belgium’s Catholic University of Leuven, where she continued her art studies. Europe’s museums and classical architecture broadened her aesthetic perspective. These experiences did not distance her from Chinese poetry; instead, they enriched her sense of form, metaphor, and visual imagination.
 
-## *Qilixiang*: The Breakthrough
+## _Qilixiang_: The Breakthrough
 
-Though she worked primarily as an artist and teacher in the 1970s, Xi’s poetry drew increasing attention. The publication of *Qilixiang* in 1981 made her a literary phenomenon. The poems were accessible yet deeply moving, rejecting obscurity in favor of sincere feeling. Her language was clean, melodic, and emotionally direct, offering readers a sense of calm in a rapidly modernizing society.
+Though she worked primarily as an artist and teacher in the 1970s, Xi’s poetry drew increasing attention. The publication of _Qilixiang_ in 1981 made her a literary phenomenon. The poems were accessible yet deeply moving, rejecting obscurity in favor of sincere feeling. Her language was clean, melodic, and emotionally direct, offering readers a sense of calm in a rapidly modernizing society.
 
 The collection includes the celebrated poem “A Tree in Bloom” (〈一棵開花的樹〉):
 
@@ -38,17 +38,17 @@ The collection includes the celebrated poem “A Tree in Bloom” (〈一棵開�
 
 The poem’s mixture of spiritual devotion and romantic longing became iconic, often memorized by students and recited at public readings.
 
-## *Unregretful Youth*: Memory, Love, and Time
+## _Unregretful Youth_: Memory, Love, and Time
 
-A year later, *Unregretful Youth* (1982) confirmed her popularity. While *Qilixiang* often dwells on encounter and longing, *Unregretful Youth* looks back on time itself—youth as a luminous but fleeting season. Her writing matured here, revealing a poet who could turn everyday scenes into moral reflection without losing her gentleness.
+A year later, _Unregretful Youth_ (1982) confirmed her popularity. While _Qilixiang_ often dwells on encounter and longing, _Unregretful Youth_ looks back on time itself—youth as a luminous but fleeting season. Her writing matured here, revealing a poet who could turn everyday scenes into moral reflection without losing her gentleness.
 
 Her poems are also notable for their musicality. They read like songs, and many have been adapted or quoted in popular culture. This rhythm comes not from strict formal meter but from an intuitive feel for spoken cadence—another reason her work resonates across generations.
 
 ## Essays and the Call of the Steppe
 
-Xi’s prose has a similar warmth. In the late 1980s, she began publishing essay collections such as *Traces of Growth* (《成長的痕跡》) and *There Is a Song* (《有一首歌》). Her essays blend memoir with cultural reflection, often circling the same themes as her poetry: family, distance, memory, and the desire for belonging.
+Xi’s prose has a similar warmth. In the late 1980s, she began publishing essay collections such as _Traces of Growth_ (《成長的痕跡》) and _There Is a Song_ (《有一首歌》). Her essays blend memoir with cultural reflection, often circling the same themes as her poetry: family, distance, memory, and the desire for belonging.
 
-As she grew older, her Mongolian heritage became a stronger creative force. In 1989, she made her first journey to the Mongolian steppe, an experience that profoundly affected her. It reawakened a deep ancestral longing and inspired many works centered on the grasslands. Titles like *My Home Is on the Plateau* (《我的家在高原上》) reflect a search for origin and a reconciliation between modern life and inherited identity.
+As she grew older, her Mongolian heritage became a stronger creative force. In 1989, she made her first journey to the Mongolian steppe, an experience that profoundly affected her. It reawakened a deep ancestral longing and inspired many works centered on the grasslands. Titles like _My Home Is on the Plateau_ (《我的家在高原上》) reflect a search for origin and a reconciliation between modern life and inherited identity.
 
 For readers in Taiwan, these works also opened a window onto cultures often distant from the island’s everyday life, enriching the multicultural texture of Taiwanese literature.
 

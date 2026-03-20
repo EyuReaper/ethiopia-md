@@ -1,9 +1,10 @@
 ---
-title: "Taiwan Floral Fabric"
+title: 'Taiwan Floral Fabric'
 description: "From Japanese colonial industrial products to symbols of local cultural identity, Taiwan floral fabric's journey of identity transformation"
 date: 2026-03-19
-tags: ["culture", "Hakka", "textiles", "design", "localization", "cultural revival"]
-author: "Taiwan.md Contributors"
+tags:
+  ['culture', 'Hakka', 'textiles', 'design', 'localization', 'cultural revival']
+author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false
 lastVerified: 2026-03-19
@@ -131,7 +132,8 @@ Today, when we re-appreciate those vibrant peonies, elegant chrysanthemums, and 
 
 ---
 
-*References:*
+_References:_
+
 - [Taiwan Floral Fabric - wikis.tw](https://www.wikis.tw)
 - Chen Zong-ping, ["The Floral Era: Cultural History of Taiwan Floral Fabric"](https://www.books.com.tw/products/0010559973)
 - Wu Qing-gui, ["Taiwan Floral Fabric: Tradition and Innovation"](https://www.books.com.tw/products/0010462341)

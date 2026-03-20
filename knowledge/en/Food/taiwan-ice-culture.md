@@ -1,12 +1,12 @@
 ---
-title: "Taiwan’s Ice Culture"
-description: "From Yujing mango snow to the shaved-ice revolution, why Taiwan eats ice year‑round"
+title: 'Taiwan’s Ice Culture'
+description: 'From Yujing mango snow to the shaved-ice revolution, why Taiwan eats ice year‑round'
 date: 2026-03-19
-tags: ["ice desserts", "mango ice", "snow ice", "shaved ice", "ICE MONSTER"]
-author: "Taiwan.md"
+tags: ['ice desserts', 'mango ice', 'snow ice', 'shaved ice', 'ICE MONSTER']
+author: 'Taiwan.md'
 readingTime: 7
 featured: false
-category: "Food"
+category: 'Food'
 lastVerified: 2026-03-19
 ---
 
@@ -16,7 +16,7 @@ Few places in the world love ice as unabashedly as Taiwan. Even when winter nigh
 
 ## Yujing Mango: A Local Fruit Becomes a Global Icon
 
-Tainan’s Yujing (玉井) is widely known as Taiwan’s “mango hometown.” During the May–August harvest, devotees travel here for one thing: mango ice made with fresh **Aiwen** (愛文) mangos—Taiwan’s prized variety known for perfumed sweetness. The classic bowl is simple: hand‑cut mango, a mound of shaved ice (剉冰 *cuò bīng*), and a drizzle of fresh mango juice. The honesty of the ingredients is the point.
+Tainan’s Yujing (玉井) is widely known as Taiwan’s “mango hometown.” During the May–August harvest, devotees travel here for one thing: mango ice made with fresh **Aiwen** (愛文) mangos—Taiwan’s prized variety known for perfumed sweetness. The classic bowl is simple: hand‑cut mango, a mound of shaved ice (剉冰 _cuò bīng_), and a drizzle of fresh mango juice. The honesty of the ingredients is the point.
 
 As the dessert spread island‑wide, regional interpretations emerged. Some add pudding or jelly for contrast, others use local varieties to deepen aroma. Then came **ICE MONSTER**, founded in Taipei’s East District in 2003. It refined mango ice into a visual and sensory spectacle using **snow ice** (雪花冰)—thin, milky flakes that melt like velvet. The brand’s expansion to Hong Kong, Singapore, and Los Angeles turned Yujing’s fruit into Taiwan’s edible ambassador.
 
@@ -28,7 +28,7 @@ Matcha, chocolate, and strawberry snow ice became canvases for layered toppings 
 
 ## Shaved Ice and the People’s Memory
 
-Despite snow ice’s popularity, traditional shaved ice remains emotionally central. The ritual—choosing from rows of red beans, mung beans, taro, grass jelly (仙草 *xiān cǎo*), aiyu jelly (愛玉 *ài yù*), tapioca pearls (粉圓 *fěn yuán*)—is a living archive of childhood summers. It’s also an early form of personalization: every bowl is self‑authored, long before “customization” became a trend.
+Despite snow ice’s popularity, traditional shaved ice remains emotionally central. The ritual—choosing from rows of red beans, mung beans, taro, grass jelly (仙草 _xiān cǎo_), aiyu jelly (愛玉 _ài yù_), tapioca pearls (粉圓 _fěn yuán_)—is a living archive of childhood summers. It’s also an early form of personalization: every bowl is self‑authored, long before “customization” became a trend.
 
 Night‑market shaved‑ice stalls are part of Taiwan’s public rhythm. The vendor’s practiced motions—shave, scoop, drizzle syrup—feel almost ceremonial. In recent years, “retro shaved ice” shops have revived classic flavors and handwritten menus, appealing to older patrons and a new generation hungry for memory.
 
@@ -40,9 +40,9 @@ Taiwan’s winters are also mild compared to northern climates. The habit, then,
 
 ## Regional Ice, Local Ingredients
 
-Every region has its signature creations. Yilan is known for garlic ice cream; Taichung’s **Fengren Ice (豐仁冰)** combines fruit syrup with red beans; Tainan’s **pang‑bing** ice cream uses *peng bing* crackers. Hualien offers ice cream made from local taro. The islands add their own twists: Kinmen uses sorghum liquor; Matsu features aged rice wine popsicles.
+Every region has its signature creations. Yilan is known for garlic ice cream; Taichung’s **Fengren Ice (豐仁冰)** combines fruit syrup with red beans; Tainan’s **pang‑bing** ice cream uses _peng bing_ crackers. Hualien offers ice cream made from local taro. The islands add their own twists: Kinmen uses sorghum liquor; Matsu features aged rice wine popsicles.
 
-Indigenous communities also experiment with traditional ingredients—millet, red quinoa (紅藜 *hóng lí*), or mountain vegetables—offering flavors that carry cultural memory. These desserts aren’t novelty; they are edible extensions of place.
+Indigenous communities also experiment with traditional ingredients—millet, red quinoa (紅藜 _hóng lí_), or mountain vegetables—offering flavors that carry cultural memory. These desserts aren’t novelty; they are edible extensions of place.
 
 ## Health Trends and New Directions
 

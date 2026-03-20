@@ -1,8 +1,8 @@
 ---
-title: "Chi Cheng: The Flying Antelope"
-description: "The Flying Antelope, bronze medalist in 80m hurdles at 1968 Mexico Olympics"
+title: 'Chi Cheng: The Flying Antelope'
+description: 'The Flying Antelope, bronze medalist in 80m hurdles at 1968 Mexico Olympics'
 date: 2026-03-20
-tags: ["sports", "track and field", "Olympics", "hurdles"]
+tags: ['sports', 'track and field', 'Olympics', 'hurdles']
 lastVerified: 2026-03-20
 ---
 

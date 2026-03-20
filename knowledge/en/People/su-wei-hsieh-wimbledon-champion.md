@@ -2,7 +2,15 @@
 title: "Su-Wei Hsieh: Taiwan's Tennis Trailblazer"
 description: "2013 Wimbledon women's doubles champion, Taiwan's first Grand Slam titlist"
 date: 2026-03-20
-tags: ["sports", "tennis", "Wimbledon", "Grand Slam", "women's doubles", "professional tennis"]
+tags:
+  [
+    'sports',
+    'tennis',
+    'Wimbledon',
+    'Grand Slam',
+    "women's doubles",
+    'professional tennis',
+  ]
 lastVerified: 2026-03-20
 ---
 
@@ -53,6 +61,7 @@ As Taiwan's first Grand Slam champion, Hsieh's influence extends beyond the spor
 Su-Wei Hsieh is not just a successful professional player but an important milestone in Taiwan tennis history. Her Wimbledon women's doubles championship will forever be recorded in Taiwan sporting history, inspiring future players to courageously pursue higher goals.
 
 ## References
+
 - [Chinese Taipei Tennis Association](https://www.tennis.org.tw/) — Hsieh's professional career data
 - [WTA Official Website](https://www.wtatennis.com/) — Professional rankings and tournament records
 - [Wimbledon Official Website](https://www.wimbledon.com/) — 2013 women's doubles championship record

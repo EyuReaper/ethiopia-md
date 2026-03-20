@@ -1,9 +1,15 @@
 ---
-
-title: "Social Housing and Housing Justice"
-description: "How Taiwan uses social housing to pursue housing justice—shifting homes from a speculative commodity back to a basic right"
+title: 'Social Housing and Housing Justice'
+description: 'How Taiwan uses social housing to pursue housing justice—shifting homes from a speculative commodity back to a basic right'
 date: 2026-03-18
-tags: ["social housing", "housing justice", "housing policy", "lease-and-management", "urban renewal"]
+tags:
+  [
+    'social housing',
+    'housing justice',
+    'housing policy',
+    'lease-and-management',
+    'urban renewal',
+  ]
 readingTime: 13
 featured: false
 lastVerified: 2026-03-19
@@ -22,6 +28,7 @@ Housing is more than a roof—it is the foundation for security, family life, an
 Taiwan’s housing market is among the most expensive relative to income in Asia. When price‑to‑income ratios reach 15–20× in the Taipei region, many young households face a choice between unaffordable ownership and unstable rentals. Social housing is the government’s primary tool for **housing justice (居住正義)**—a term that signals not only affordability, but dignity, stability, and fairness in access to housing.
 
 For Taiwan, social housing policy represents:
+
 - **Social fairness:** ensuring decent housing for lower‑income and vulnerable households
 - **Intergenerational justice:** offering youth a realistic path to stable living
 - **Urban renewal:** using housing to revitalize aging neighborhoods
@@ -36,12 +43,14 @@ For Taiwan, social housing policy represents:
 - **Implication:** a typical family may need 10–15 years of income (before living expenses) to buy a home
 
 **Rental market issues:**
+
 - A large “informal” segment where landlords avoid tax reporting
 - Opaque rent levels and weak bargaining power for tenants
 - Uneven quality standards and limited tenant protections
 - Short leases that undermine residential stability
 
 **Groups with acute needs:**
+
 - **Youth:** wages lag behind housing inflation
 - **Single‑parent families:** high financial burden, limited choices
 - **Seniors:** shrinking fixed incomes and housing insecurity
@@ -51,6 +60,7 @@ For Taiwan, social housing policy represents:
 
 **1950–2010: Ownership‑First Model**
 Taiwan’s earlier housing policies centered on promoting ownership:
+
 - National housing (國宅) sold at discounted prices
 - Subsidized mortgages and tax incentives
 - Benefited primarily middle‑class households
@@ -61,18 +71,21 @@ The 2011 Housing Act reframed housing as a basic right, established the legal ba
 ## The “8 Years, 200,000 Units” Policy
 
 ### Core Targets (2017–2024)
+
 - **Total units:** 200,000
 - **Direct construction:** 120,000
 - **包租代管 (lease‑and‑management):** 80,000
 - **Total investment:** ~NT$440 billion
 
 ### Execution Strategy
+
 1. **Central–local coordination** through the National Housing and Urban Regeneration Center (國家住都中心)
 2. **Diverse land sources:** public land, urban‑renewal allocations, donations
 3. **Innovative financing:** Housing Fund + infrastructure budgets
 4. **Dedicated institutions:** specialized agencies to improve delivery
 
 ### Progress (as of end‑2024)
+
 - Direct construction: ~96,000 units (near target)
 - Lease‑and‑management: ~68,000 units
 - Total: ~164,000 units (~82% of target)
@@ -80,12 +93,15 @@ The 2011 Housing Act reframed housing as a basic right, established the legal ba
 ## Two‑Track Model: Direct Build + Lease‑and‑Management
 
 ### Track 1: Direct Construction (政府直接興建)
+
 - Government builds, owns, and manages
 - Greater control of quality and community design
 - Can integrate childcare, senior care, and public services into sites
 
 ### Track 2: 包租代管 (Lease‑and‑Management)
+
 A hybrid program that mobilizes private housing stock:
+
 - **包租 (Lease):** Government leases private units, then sublets at reduced rent
 - **代管 (Management):** Government helps landlords rent to qualified tenants and provides professional management
 
@@ -94,6 +110,7 @@ A hybrid program that mobilizes private housing stock:
 ## Social Mixing as a Core Principle
 
 Taiwan explicitly avoids concentration of poverty by designing **mixed‑income communities**:
+
 - **30% reserved** for vulnerable households
 - **70% open** to general households (youth, newlyweds, families with children)
 - Lottery systems to ensure fairness
@@ -116,6 +133,7 @@ This structure aims to avoid market distortion while ensuring affordability.
 Modern social housing in Taiwan emphasizes **quality and community life**, not bare‑bones units.
 
 **Common features:**
+
 - Barrier‑free access and elevator design
 - Non‑profit childcare centers
 - Day‑care services for seniors
@@ -123,6 +141,7 @@ Modern social housing in Taiwan emphasizes **quality and community life**, not b
 - Convenience retail (laundry, convenience stores)
 
 **Innovations include:**
+
 - Youth entrepreneurship studios
 - Shared kitchens
 - Rooftop gardens
@@ -132,18 +151,21 @@ Modern social housing in Taiwan emphasizes **quality and community life**, not b
 ## Representative Projects
 
 ### Taipei “Jiankang” Social Housing (台北健康公宅)
+
 - 1,400 units, completed 2017
 - Vertical greenery to reduce heat‑island effects
 - Childcare and senior day‑care on site
 - Helped shift the stereotype of social housing as “poor housing”
 
 ### New Taipei Zhonghe Youth Housing (中和青年社宅)
+
 - 522 units, completed 2019
 - Integrated with urban renewal + commercial space
 - Rooftop farm and rainwater recycling
 - Diamond‑level green‑building certification
 
 ### Taoyuan Bade Social Housing (桃園八德社宅)
+
 - 1,003 units, completed 2020
 - Largest single social housing project in Taiwan
 - Integrated transit planning and community facilities
@@ -152,12 +174,14 @@ Modern social housing in Taiwan emphasizes **quality and community life**, not b
 ## Package of Support in 包租代管
 
 **Government incentives for landlords:**
+
 - Reduced property and land taxes
 - Repair subsidies (NT$10,000–30,000 per unit)
 - Government‑provided insurance
 - Mediation and legal support
 
 **Challenges:**
+
 - Landlord hesitation and concerns about tenant risk
 - Over‑concentration in metropolitan areas
 - Rent levels still high for the poorest households
@@ -166,16 +190,19 @@ Modern social housing in Taiwan emphasizes **quality and community life**, not b
 ## Social Impact
 
 **Supply‑side effects**
+
 - Expanded rental supply by ~200,000 units
 - Slowed rent inflation
 - Increased transparency in the rental market
 
 **Demand‑side effects**
+
 - Stabilized housing for 400,000–500,000 people
 - Improved residential stability for youth and vulnerable groups
 - Reduced pressure to buy at any cost
 
 **Urban development**
+
 - Became a catalyst for neighborhood renewal
 - Boosted local commerce and services
 - Encouraged transit‑oriented planning
@@ -198,6 +225,7 @@ Taiwan’s model emphasizes **social mixing** and **community integration** rath
 ## What’s Next
 
 Policy discussions focus on:
+
 - Stronger legal foundations for long‑term continuity
 - New financing tools, including REIT‑like models
 - Smart management systems and data‑driven operations

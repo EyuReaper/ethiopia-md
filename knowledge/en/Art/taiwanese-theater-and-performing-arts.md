@@ -16,19 +16,19 @@ The development of Taiwan's theater and performing arts represents a moving epic
 
 In 1973, 26-year-old Lin Hwai-min founded Cloud Gate Dance Theatre, which was not only Taiwan's first professional dance company but also the first contemporary dance troupe in all Chinese-speaking societies. The significance of this pioneering effort far exceeded the establishment of an artistic organization—it represented the awakening of Taiwan's cultural subjectivity and the rooting of modern art.
 
-Lin Hwai-min chose the name "Cloud Gate" from a passage in the *Lüshi Chunqiu*: "In the time of the Yellow Emperor, Darong created the Cloud Gate, the Great Volume," symbolizing a return to and homage to the sources of Chinese culture. However, the dance language he created was entirely new—fusing Western modern dance techniques with Eastern cultural spirit, pioneering an unprecedented form of artistic expression in Taiwan at the time.
+Lin Hwai-min chose the name "Cloud Gate" from a passage in the _Lüshi Chunqiu_: "In the time of the Yellow Emperor, Darong created the Cloud Gate, the Great Volume," symbolizing a return to and homage to the sources of Chinese culture. However, the dance language he created was entirely new—fusing Western modern dance techniques with Eastern cultural spirit, pioneering an unprecedented form of artistic expression in Taiwan at the time.
 
 ### East-West Cultural Fusion Experiments
 
 Cloud Gate's artistic achievement lies in successfully creating a unique "Cloud Gate movement style." Lin Hwai-min did not simply imitate Western modern dance nor remain trapped in traditional dance revival, but found new expressive possibilities through East-West cultural dialogue.
 
-From early works like "The White Snake" and "The Tale of Lady White Snake" to later pieces like "Nine Songs" and "Legacy," and then to "Moon Water" and "Wind Shadow," Cloud Gate's creations consistently explored how to express profound cultural content through modern dance's bodily language. "Nine Songs" drew inspiration from Qu Yuan's *Songs of the South*, while "Legacy" dealt with Taiwan's immigration history. These works function not merely as dance performances but as embodiments and interpretations of cultural memory.
+From early works like "The White Snake" and "The Tale of Lady White Snake" to later pieces like "Nine Songs" and "Legacy," and then to "Moon Water" and "Wind Shadow," Cloud Gate's creations consistently explored how to express profound cultural content through modern dance's bodily language. "Nine Songs" drew inspiration from Qu Yuan's _Songs of the South_, while "Legacy" dealt with Taiwan's immigration history. These works function not merely as dance performances but as embodiments and interpretations of cultural memory.
 
 ### Taiwan's Presence on the International Stage
 
 Cloud Gate's years of overseas touring allowed the world to witness Taiwan's artistic creativity. From New York's Lincoln Center to London's Sadler's Wells Theatre, from Paris's Théâtre du Châtelet to the Berlin Festival, Cloud Gate has been an anticipated regular at major global arts festivals. International media has called Cloud Gate a "world-class modern dance company," representing not only recognition of artistic standards but acknowledgment of Taiwan's cultural power.
 
-Lin Hwai-min personally has received countless international honors, including the Philippines' Magsaysay Award, the International Association of Theatre Critics' Excellence in the Arts Award, and the International Theatre Institute's Lifetime Achievement Award for Dance. *Time* magazine even selected him as one of its "Asian Heroes," proving Taiwan's performing arts' important position on the international stage.
+Lin Hwai-min personally has received countless international honors, including the Philippines' Magsaysay Award, the International Association of Theatre Critics' Excellence in the Arts Award, and the International Theatre Institute's Lifetime Achievement Award for Dance. _Time_ magazine even selected him as one of its "Asian Heroes," proving Taiwan's performing arts' important position on the international stage.
 
 ### Cultural Inheritance's Contemporary Significance
 
@@ -46,9 +46,9 @@ Wu Hsing-kuo himself represents the perfect combination of tradition and moderni
 
 ### The Cultural Impact of "Kingdom of Desire"
 
-Contemporary Legend Theatre's founding work "Kingdom of Desire" stands as a milestone in Taiwan theater history. This work combined Shakespeare's *Macbeth* with Peking opera performance, creating an entirely new dramatic form. Wu Hsing-kuo did not simply perform Western scripts with Peking opera but, based on deep understanding of both cultural traditions, created a third possibility.
+Contemporary Legend Theatre's founding work "Kingdom of Desire" stands as a milestone in Taiwan theater history. This work combined Shakespeare's _Macbeth_ with Peking opera performance, creating an entirely new dramatic form. Wu Hsing-kuo did not simply perform Western scripts with Peking opera but, based on deep understanding of both cultural traditions, created a third possibility.
 
-"Kingdom of Desire's" success extended beyond Taiwan to widespread international acclaim. Britain's *The Times* compared Wu Hsing-kuo to famous British actor Laurence Olivier, while *The Guardian* called him "Taiwan's Shakespeare." This work allowed the world to see possibilities for combining Chinese opera with Western drama, establishing Contemporary Legend Theatre's position in international theater.
+"Kingdom of Desire's" success extended beyond Taiwan to widespread international acclaim. Britain's _The Times_ compared Wu Hsing-kuo to famous British actor Laurence Olivier, while _The Guardian_ called him "Taiwan's Shakespeare." This work allowed the world to see possibilities for combining Chinese opera with Western drama, establishing Contemporary Legend Theatre's position in international theater.
 
 ### Artistic Achievements in Cross-cultural Creation
 
@@ -106,8 +106,9 @@ The development trajectory of Taiwan's theater and performing arts witnesses how
 
 ---
 
-*References:*
-- Lin Hwai-min, *Cloud Gate Dance Theatre: Lin Hwai-min's Dance Aesthetics*
-- Wu Hsing-kuo, *Cross-Cultural Theater: Eastern and Western Fusion*
-- Chang Wen-yen, *Taiwan Little Theater Movement Research*
-- Liu Feng-hsueh, *Development of Taiwan Contemporary Performing Arts*
+_References:_
+
+- Lin Hwai-min, _Cloud Gate Dance Theatre: Lin Hwai-min's Dance Aesthetics_
+- Wu Hsing-kuo, _Cross-Cultural Theater: Eastern and Western Fusion_
+- Chang Wen-yen, _Taiwan Little Theater Movement Research_
+- Liu Feng-hsueh, _Development of Taiwan Contemporary Performing Arts_

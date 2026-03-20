@@ -161,10 +161,10 @@ const isEn = lang === 'en';
 const langPrefix = isEn ? '/en' : '';
 
 const descriptionsEn: Record<string, string> = {
-  history: 'The full arc of Taiwan\'s history from prehistory to the modern era',
-  geography: 'Taiwan\'s natural environment, terrain, and regional development',
+  history: "The full arc of Taiwan's history from prehistory to the modern era",
+  geography: "Taiwan's natural environment, terrain, and regional development",
   culture: 'The fusion of diverse ethnic cultures and local character',
-  food: 'From night market snacks to fine dining — Taiwan\'s food culture',
+  food: "From night market snacks to fine dining — Taiwan's food culture",
   art: 'Creative energy from traditional crafts to contemporary art',
   music: 'A soundscape from Indigenous music to pop',
   technology: 'Innovation and digital transformation on the tech island',
@@ -176,7 +176,10 @@ const descriptionsEn: Record<string, string> = {
 };
 ---
 
-<section class="category-grid" aria-label={isEn ? "Taiwan knowledge categories" : "台灣知識分類"}>
+<section
+  class="category-grid"
+  aria-label={isEn ? 'Taiwan knowledge categories' : '台灣知識分類'}
+>
   {
     categories.map((category, index) => (
       <article>
@@ -184,13 +187,19 @@ const descriptionsEn: Record<string, string> = {
           href={`${langPrefix}/${category.slug}`}
           class="category-card"
           data-color={category.color}
-          aria-label={isEn ? `Explore ${category.name_en}` : `探索${category.name}主題`}
+          aria-label={
+            isEn ? `Explore ${category.name_en}` : `探索${category.name}主題`
+          }
         >
           <div class="category-header">
             {category.cover ? (
               <img
                 src={category.cover}
-                alt={isEn ? `${category.name_en} category image` : `${category.name}主題相關圖片`}
+                alt={
+                  isEn
+                    ? `${category.name_en} category image`
+                    : `${category.name}主題相關圖片`
+                }
                 class="category-cover"
                 loading="lazy"
                 onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"
@@ -212,7 +221,9 @@ const descriptionsEn: Record<string, string> = {
             <h3 class="category-name">
               {isEn ? category.name_en : category.name}
             </h3>
-            <p class="category-description">{isEn ? descriptionsEn[category.slug] : category.description}</p>
+            <p class="category-description">
+              {isEn ? descriptionsEn[category.slug] : category.description}
+            </p>
             <div class="category-footer">
               <span class="explore-link">{isEn ? 'Explore →' : '探索 →'}</span>
             </div>

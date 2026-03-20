@@ -1,9 +1,17 @@
 ---
-title: "Taiwanese Baseball Culture: The National Sport Born of a Miracle"
+title: 'Taiwanese Baseball Culture: The National Sport Born of a Miracle'
 description: "From the legendary Hongye Little League to the rise of the CPBL, explore how baseball became Taiwan's most beloved sport and a core element of its national identity."
 date: 2026-03-20
 category: Culture
-tags: [Baseball, CPBL, National Sport, Chien-Ming Wang, Hongye Little League, Sports Culture]
+tags:
+  [
+    Baseball,
+    CPBL,
+    National Sport,
+    Chien-Ming Wang,
+    Hongye Little League,
+    Sports Culture,
+  ]
 lastVerified: 2026-03-20
 ---
 
@@ -92,9 +100,11 @@ The sport is Taiwan's "National Sport" not just because of its success, but beca
 This is the essence of baseball, and the true meaning of the "National Sport."
 
 ---
-*Reference Materials:*
-- Taiwan Baseball Wiki: *History of Baseball in Taiwan*.
-- *Hongye: The Story of How Baseball Became the National Sport*, Historical Archives.
-- *Taiwanese Baseball: From Scandals to World Champions*, CommonWealth Magazine.
+
+_Reference Materials:_
+
+- Taiwan Baseball Wiki: _History of Baseball in Taiwan_.
+- _Hongye: The Story of How Baseball Became the National Sport_, Historical Archives.
+- _Taiwanese Baseball: From Scandals to World Champions_, CommonWealth Magazine.
 - Chinese Professional Baseball League (CPBL) Official Historical Records.
-- National Digital Archives Program: *A Century of Baseball in Taiwan*.
+- National Digital Archives Program: _A Century of Baseball in Taiwan_.

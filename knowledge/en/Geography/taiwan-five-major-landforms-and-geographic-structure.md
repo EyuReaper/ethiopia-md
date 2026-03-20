@@ -1,11 +1,18 @@
 ---
-
-title: "Taiwan’s Five Major Landforms: From Mountain Spines to Fertile Plains"
-description: "A cultural-geographic tour of Taiwan’s five landform types and five mountain ranges, explaining how an asymmetric island shaped nature, settlement, and identity."
+title: 'Taiwan’s Five Major Landforms: From Mountain Spines to Fertile Plains'
+description: 'A cultural-geographic tour of Taiwan’s five landform types and five mountain ranges, explaining how an asymmetric island shaped nature, settlement, and identity.'
 date: 2026-03-18
-author: "Taiwan.md"
-tags: ["geography", "landforms", "mountain ranges", "plains", "Taiwan", "physical geography"]
-category: "Geography"
+author: 'Taiwan.md'
+tags:
+  [
+    'geography',
+    'landforms',
+    'mountain ranges',
+    'plains',
+    'Taiwan',
+    'physical geography',
+  ]
+category: 'Geography'
 readingTime: 12
 featured: true
 lastVerified: 2026-03-19

@@ -1,11 +1,19 @@
 ---
 title: "Zhuyin Phonetic Symbols: Taiwan's Unique Written Code"
-description: "The only phonetic system still used daily worldwide—how Zhuyin symbols evolved from a hundred-year-old ancient script simplification to become the shared code of 23 million people"
+description: 'The only phonetic system still used daily worldwide—how Zhuyin symbols evolved from a hundred-year-old ancient script simplification to become the shared code of 23 million people'
 date: 2026-03-18
-category: "Culture"
-tags: ["Zhuyin", "language", "education", "cultural identity", "input method", "ㄅㄆㄇ"]
-author: "Taiwan.md"
-difficulty: "beginner"
+category: 'Culture'
+tags:
+  [
+    'Zhuyin',
+    'language',
+    'education',
+    'cultural identity',
+    'input method',
+    'ㄅㄆㄇ',
+  ]
+author: 'Taiwan.md'
+difficulty: 'beginner'
 readingTime: 12
 featured: true
 lastVerified: 2026-03-19
@@ -122,7 +130,7 @@ In this rapidly changing era, Zhuyin symbols remind us: **some precious things a
 1. Ministry of Education, Republic of China, "Zhuyin Symbols Teaching Guide," 2024 Edition
 2. Wikipedia, "Zhuyin" entry, https://en.wikipedia.org/wiki/Bopomofo
 3. National Language Promotion Committee, Ministry of Education, ROC, "Evolution of Zhuyin Symbols," 1978
-4. Li Jiaxi, "Development and Application of Zhuyin Symbols in the Digital Age," *Linguistics Research*, Issue 42, 2023
+4. Li Jiaxi, "Development and Application of Zhuyin Symbols in the Digital Age," _Linguistics Research_, Issue 42, 2023
 5. Zhang Binghuang, "Survey Report on Chinese Input Method Usage Habits," Institute for Information Industry, 2022
-6. Lin Huijun, "Cultural Significance of Zhuyin Symbol Education in Taiwan," *Educational Research Monthly*, Issue 315, 2024
+6. Lin Huijun, "Cultural Significance of Zhuyin Symbol Education in Taiwan," _Educational Research Monthly_, Issue 315, 2024
 7. On This Day in History, "Birth of Chinese Phonetic Alphabet," https://lishishangdejintian.bmcx.com/622__lishishangdejintianchaxun/

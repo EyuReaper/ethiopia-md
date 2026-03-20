@@ -1,9 +1,9 @@
 ---
-
-title: "Jolin Tsai (蔡依林)"
-description: "From teen idol to cultural icon, a performer who elevated Mandopop into a high‑art stagecraft"
+title: 'Jolin Tsai (蔡依林)'
+description: 'From teen idol to cultural icon, a performer who elevated Mandopop into a high‑art stagecraft'
 date: 2026-03-19
-tags: [People, Singer, Entertainment, LGBTQ+ Rights, Mandopop, Golden Melody Awards]
+tags:
+  [People, Singer, Entertainment, LGBTQ+ Rights, Mandopop, Golden Melody Awards]
 lastVerified: 2026-03-19
 ---
 

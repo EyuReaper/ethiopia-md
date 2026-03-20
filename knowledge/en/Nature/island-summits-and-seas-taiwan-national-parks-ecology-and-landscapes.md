@@ -1,11 +1,17 @@
 ---
-
-title: "Island Summits and Seas: Taiwan’s National Parks as Living Ecological Archives"
-description: "A cultural translation of Taiwan’s nine national parks—an island-scale conservation network that stretches from tropical coasts to alpine snowlines, protecting endemic species, Indigenous heritage, and world-class geology."
+title: 'Island Summits and Seas: Taiwan’s National Parks as Living Ecological Archives'
+description: 'A cultural translation of Taiwan’s nine national parks—an island-scale conservation network that stretches from tropical coasts to alpine snowlines, protecting endemic species, Indigenous heritage, and world-class geology.'
 date: 2026-03-19
-tags: ["national parks", "conservation", "endemic species", "landscape diversity", "environmental education"]
-author: "Taiwan.md"
-difficulty: "intermediate"
+tags:
+  [
+    'national parks',
+    'conservation',
+    'endemic species',
+    'landscape diversity',
+    'environmental education',
+  ]
+author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 12
 featured: true
 lastVerified: 2026-03-19
@@ -66,12 +72,15 @@ Taiwan’s first marine national park lies in the South China Sea. The atoll’s
 ## Conservation Challenges and Future Directions
 
 ### Climate Pressure
+
 Taiwan’s alpine ecosystems are “moving upward.” As temperatures rise, subalpine conifers retreat and cold‑adapted species lose habitat. Marine parks face coral bleaching events that have become more frequent with rising sea temperatures.
 
 ### Human Pressure
+
 Tourism and urbanization remain constant pressures. Taroko’s breathtaking gorges can be overwhelmed by visitors; Yangmingshan must constantly negotiate its boundary with Taipei’s expanding metropolitan footprint. The challenge is to keep parks accessible without turning them into theme parks.
 
 ### Indigenous Rights and Co‑Management
+
 Many parks overlap with Indigenous territories. Taiwan has begun experimenting with co‑management (共管) frameworks, inviting Indigenous communities into conservation decision‑making. This is still a work in progress, but it marks an important shift: nature protection must also be cultural justice.
 
 ## Environmental Education and Sustainable Travel
@@ -93,13 +102,13 @@ They are where Taiwanese people go to meet the island as it truly is: high, wet,
 ## References
 
 - [National Park Service, Ministry of the Interior](https://www.nps.gov.tw/)
-- *Taiwan National Parks Annual*, Ministry of the Interior, 2020
+- _Taiwan National Parks Annual_, Ministry of the Interior, 2020
 - [Forestry and Nature Conservation Agency — Biodiversity](https://www.forest.gov.tw/biodiversity)
-- [*Taiwan’s National Parks* (book)](https://www.books.com.tw/products/0010193906)
+- [_Taiwan’s National Parks_ (book)](https://www.books.com.tw/products/0010193906)
 - [Taiwan Catalogue of Life](https://taicol.tw/)
 - [Forestry and Nature Conservation Agency](https://www.forest.gov.tw/)
 - [Taiwan Biodiversity Information Facility (TaiBIF)](https://portal.taibif.tw/)
-- [*Taiwan’s Most Beautiful Places: National Park Map*](https://www.books.com.tw/products/0010811062)
+- [_Taiwan’s Most Beautiful Places: National Park Map_](https://www.books.com.tw/products/0010811062)
 - [Tourism Administration — Statistical Yearbook](https://admin.taiwan.net.tw/businessinfo/FilePage?a=14034)
 - [National Geographic (Chinese Edition)](https://www.natgeomedia.com/)
 - [National Park Biodiversity Database](https://npgis.nps.gov.tw/newpublic/)

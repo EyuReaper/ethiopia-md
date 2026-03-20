@@ -2,7 +2,14 @@
 title: "Y.C. Wang: From Rice Shop to Petrochemical Empire - Taiwan's Management God"
 description: "The legendary entrepreneur who built Formosa Plastics Group from humble beginnings, becoming Taiwan's most revered business leader and industrial pioneer"
 date: 2026-03-20
-tags: ["Y.C. Wang", "Formosa Plastics", "Taiwan business", "petrochemicals", "entrepreneurship"]
+tags:
+  [
+    'Y.C. Wang',
+    'Formosa Plastics',
+    'Taiwan business',
+    'petrochemicals',
+    'entrepreneurship',
+  ]
 lastVerified: 2026-03-20
 ---
 

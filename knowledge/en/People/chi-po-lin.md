@@ -1,8 +1,18 @@
 ---
-title: "Chi Po-lin"
+title: 'Chi Po-lin'
 description: "Documentary filmmaker and aerial photographer, director of 'Beyond Beauty: Taiwan from Above', who spent 25 years documenting Taiwan's landscapes"
 date: 2026-03-20
-tags: [people, Chi Po-lin, documentary, Beyond Beauty Taiwan from Above, director, photographer, aerial photography, environment]
+tags:
+  [
+    people,
+    Chi Po-lin,
+    documentary,
+    Beyond Beauty Taiwan from Above,
+    director,
+    photographer,
+    aerial photography,
+    environment,
+  ]
 lastVerified: 2026-03-20
 ---
 
@@ -89,6 +99,6 @@ Chi Po-lin has departed, but his eyes still fly in the sky, his lens still recor
 ## Further Reading
 
 - [[Hou Hsiao-hsien]]: Important supporter of "Beyond Beauty: Taiwan from Above," director of Taiwan New Cinema
-- [[Ang Lee]]: Important representative of Taiwan cinema internationally  
+- [[Ang Lee]]: Important representative of Taiwan cinema internationally
 - [[Aaron Nieh]]: Representative figure of Taiwan visual design
 - [[Wu Ming-yi]]: Taiwan writer concerned with environmental issues

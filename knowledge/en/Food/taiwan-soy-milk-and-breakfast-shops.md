@@ -1,12 +1,19 @@
 ---
-title: "Soy Milk and Breakfast Shops in Taiwan"
-description: "From the Yonghe Soy Milk origin myth to the Mei & Mei franchise empire, Taiwan’s breakfast shops form one of the densest morning cultures in the world."
+title: 'Soy Milk and Breakfast Shops in Taiwan'
+description: 'From the Yonghe Soy Milk origin myth to the Mei & Mei franchise empire, Taiwan’s breakfast shops form one of the densest morning cultures in the world.'
 date: 2026-03-19
-tags: ["soy milk", "breakfast shops", "Yonghe Soy Milk", "shaobing-youtiao", "Mei & Mei"]
-author: "Taiwan.md"
+tags:
+  [
+    'soy milk',
+    'breakfast shops',
+    'Yonghe Soy Milk',
+    'shaobing-youtiao',
+    'Mei & Mei',
+  ]
+author: 'Taiwan.md'
 readingTime: 9
 featured: true
-category: "Food"
+category: 'Food'
 lastVerified: 2026-03-19
 ---
 
@@ -28,11 +35,13 @@ Whether single‑founder or collective, Yonghe Soy Milk became a **symbol**—no
 Taiwanese breakfast menus are a map of migration and adaptation:
 
 **Northern Chinese influences:**
+
 - **Shaobing‑youtiao (燒餅油條)** — a flaky sesame flatbread wrapped around a fried dough stick
 - **Baozi and mantou (包子、饅頭)** — steamed buns and plain bread
 - **Hot soy milk (豆漿)** — a protein‑rich morning drink
 
 **Local innovations:**
+
 - **Danbing (蛋餅)** — a thin egg crepe that evolved into Taiwan’s signature breakfast
 - **Rice milk (米漿)** — a sweet, fragrant rice‑based drink
 - **Fan‑tuan (飯糰)** — a portable rice roll for commuters
@@ -103,6 +112,6 @@ To understand Taiwan, wake up early, walk into a modest breakfast shop, and list
 - 《台灣早餐文化史》，林明德著，玉山社，2019年
 - 〈永和豆漿的身世之謎〉，《商業週刊》第1234期，2015年
 - 《連鎖餐飲經營學》，黃營杉著，五南出版，2020年
-- "Taiwan's Breakfast Shop Phenomenon", *Taiwan Business TOPICS*, June 2018
+- "Taiwan's Breakfast Shop Phenomenon", _Taiwan Business TOPICS_, June 2018
 - 經濟部中小企業處官網：https://www.moeasmea.gov.tw/
 - 《台灣庶民飲食史》，陳玉箴著，時報出版，2021年

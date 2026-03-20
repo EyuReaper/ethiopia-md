@@ -1,10 +1,18 @@
 ---
-title: "KMT Government Relocation and Post-War Reconstruction"
+title: 'KMT Government Relocation and Post-War Reconstruction'
 description: "The historical background, process, and impact of the Kuomintang government's 1949 relocation to Taiwan, and post-war political, economic, and social reconstruction"
 date: 2026-03-18
-tags: ["KMT Government", "Government Relocation", "Post-War Reconstruction", "1949", "Chinese Civil War", "Mainlander Migration"]
-category: "History"
-author: "Taiwan.md"
+tags:
+  [
+    'KMT Government',
+    'Government Relocation',
+    'Post-War Reconstruction',
+    '1949',
+    'Chinese Civil War',
+    'Mainlander Migration',
+  ]
+category: 'History'
+author: 'Taiwan.md'
 readingTime: 22
 featured: true
 lastVerified: 2026-03-19
@@ -127,6 +135,7 @@ When the KMT government relocated to Taiwan, Taiwan faced severe economic crisis
 To solve rural problems and stabilize the regime, the KMT government implemented large-scale land reform in Taiwan, an important measure in post-war reconstruction.
 
 **Three-Stage Land Reform:**
+
 1. **37.5% Rent Reduction (1949)**: Reduced agricultural land rent to no more than 37.5% of production, lightening tenant farmer burdens.
 2. **Public Land Release (1951)**: Sold public lands from the Japanese colonial period to tenant farmers under favorable conditions.
 3. **Land to the Tiller (1953)**: Forcibly purchased landlords' farmland exceeding 3 jia and resold it to tenant farmers.

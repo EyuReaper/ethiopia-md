@@ -1,16 +1,15 @@
 ---
-
-title: "Lin Hwai-min"
-description: "Founder of Cloud Gate Dance Theatre and the pioneering force behind modern dance in Taiwan."
+title: 'Lin Hwai-min'
+description: 'Founder of Cloud Gate Dance Theatre and the pioneering force behind modern dance in Taiwan.'
 date: 2026-03-19
-tags: ["people", "dance", "arts", "performing arts"]
+tags: ['people', 'dance', 'arts', 'performing arts']
 lastVerified: 2026-03-19
 featured: true
 ---
 
 # Lin Hwai-min
 
-Lin Hwai-min (林懷民, b. 1947) is widely regarded as the father of modern dance in Taiwan. In 1973, he founded **Cloud Gate Dance Theatre (雲門舞集)**, the first professional modern dance company in the Chinese-speaking world. Over the next five decades, Cloud Gate evolved into one of Asia’s most influential contemporary dance ensembles—praised by *The New York Times* as “the most important modern dance company in the Chinese-speaking world.”
+Lin Hwai-min (林懷民, b. 1947) is widely regarded as the father of modern dance in Taiwan. In 1973, he founded **Cloud Gate Dance Theatre (雲門舞集)**, the first professional modern dance company in the Chinese-speaking world. Over the next five decades, Cloud Gate evolved into one of Asia’s most influential contemporary dance ensembles—praised by _The New York Times_ as “the most important modern dance company in the Chinese-speaking world.”
 
 Lin’s achievement is not just artistic; it is institutional and cultural. He built a choreography language rooted in East Asian aesthetics, cultivated generations of dancers, and expanded the audience for contemporary dance in Taiwan—transforming what was once a niche art into a public cultural landmark.
 

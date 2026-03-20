@@ -1,9 +1,15 @@
 ---
-
-title: "Chu Ching-Wu (朱經武)"
-description: "Taiwan-born physicist whose 1987 high‑temperature superconductivity breakthrough reshaped modern materials science"
+title: 'Chu Ching-Wu (朱經武)'
+description: 'Taiwan-born physicist whose 1987 high‑temperature superconductivity breakthrough reshaped modern materials science'
 date: 2026-03-20
-tags: ["physicist", "superconductivity", "materials science", "Academia Sinica", "University of Houston"]
+tags:
+  [
+    'physicist',
+    'superconductivity',
+    'materials science',
+    'Academia Sinica',
+    'University of Houston',
+  ]
 lastVerified: 2026-03-20
 featured: true
 ---

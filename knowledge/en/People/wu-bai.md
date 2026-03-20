@@ -1,7 +1,6 @@
 ---
-
-title: "Wu Bai (伍佰)"
-description: "Taiwan’s rock national treasure and the architect of Taiwanese‑language rock—how Wu Bai turned street energy into a lasting cultural voice"
+title: 'Wu Bai (伍佰)'
+description: 'Taiwan’s rock national treasure and the architect of Taiwanese‑language rock—how Wu Bai turned street energy into a lasting cultural voice'
 date: 2026-03-19
 tags: [music, rock, taiwanese-language, chiayi, guitar, live-performance]
 lastVerified: 2026-03-19
@@ -17,7 +16,7 @@ His career is a blueprint for how a musician can stay rooted in place and still 
 
 Wu Bai’s early years in the late 1980s were shaped by street performances in Taipei’s Ximending (西門町). Busking there meant learning how to capture a crowd fast, keep them engaged, and build an audience without a record label. This street‑level intensity never left his music—it’s part of why his concerts feel like a gathering rather than a show.
 
-In 1992, he formed the band Wu Bai & China Blue (伍佰&China Blue). The group would become his longest‑running musical partnership, known for tight chemistry and a sound that blends classic rock with Taiwanese lyrical textures. Their 1995 debut album *Loving Others Is a Happy Thing* (《愛上別人是快樂的事》) turned Wu Bai into a household name and changed the trajectory of Taiwanese rock.
+In 1992, he formed the band Wu Bai & China Blue (伍佰&China Blue). The group would become his longest‑running musical partnership, known for tight chemistry and a sound that blends classic rock with Taiwanese lyrical textures. Their 1995 debut album _Loving Others Is a Happy Thing_ (《愛上別人是快樂的事》) turned Wu Bai into a household name and changed the trajectory of Taiwanese rock.
 
 ## “Norwegian Wood” — A Landmark Song
 

@@ -13,7 +13,7 @@
 
 ## Why Taiwan.md?
 
-Taiwan produces **90% of the world's most advanced chips**, yet most people can't name three things about it beyond bubble tea. 
+Taiwan produces **90% of the world's most advanced chips**, yet most people can't name three things about it beyond bubble tea.
 
 Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the world — and AI — truly understand Taiwan. Not a Wikipedia clone. Not a tourism guide. A **curated literary exhibition** of what makes Taiwan extraordinary.
 
@@ -29,7 +29,7 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 - 🕸️ **Interactive knowledge graph** — D3.js force simulation with zoom, drag, cross-category bridges
 - 🌳 **Resource mindmap** — D3.js bidirectional tidy tree with 146+ official Taiwan websites
 - 🎭 **Curated, not encyclopedic** — every page answers "why this matters"
-- 📐 **Three-layer depth** — 30-sec overview → 5-min read → full article  
+- 📐 **Three-layer depth** — 30-sec overview → 5-min read → full article
 - 🎨 **Literary curatorial style** — Noto Serif TC, essay-driven, inspired by 報導者
 - 🔍 **SEO optimized** — JSON-LD structured data, Open Graph, Twitter Cards, RSS feeds
 - 💾 **Wikimedia Commons** — CC-licensed images with local caching
@@ -41,35 +41,35 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 
 ## 📊 Stats
 
-| Metric | Count |
-|--------|-------|
-| 📄 Total pages built | 365+ |
-| 🇹🇼 Chinese articles | 271 |
-| 🇺🇸 English articles | 94 |
-| 📂 Categories | 12 |
-| 🏛️ Hub pages | 12 |
-| 🕸️ Knowledge graph nodes | 220+ |
-| 🔗 Resource websites | 146+ |
-| 👥 Contributors | 16 |
+| Metric                   | Count |
+| ------------------------ | ----- |
+| 📄 Total pages built     | 365+  |
+| 🇹🇼 Chinese articles      | 271   |
+| 🇺🇸 English articles      | 94    |
+| 📂 Categories            | 12    |
+| 🏛️ Hub pages             | 12    |
+| 🕸️ Knowledge graph nodes | 220+  |
+| 🔗 Resource websites     | 146+  |
+| 👥 Contributors          | 16    |
 
 ---
 
 ## 🗂️ 12 Categories
 
-| | Category | Articles | Highlights |
-|---|---------|----------|------------|
-| 📜 | [歷史 History](https://taiwan.md/history) | 12 | 史前→荷西→清治→日治→戒嚴→民主化 |
-| 🗺️ | [地理 Geography](https://taiwan.md/geography) | 11 | 五大山脈、板塊運動、氣候帶、離島 |
-| 🎭 | [文化 Culture](https://taiwan.md/culture) | 19 | 閩南客家原住民外省新住民多元融合、花布 |
-| 🧋 | [美食 Food](https://taiwan.md/food) | 11 | 珍珠奶茶、牛肉麵、夜市、茶文化、客家菜 |
-| 🎨 | [藝術 Art](https://taiwan.md/art) | 22 | 當代藝術、新媒體藝術、電影、漫畫 |
-| 🎵 | [音樂 Music](https://taiwan.md/music) | 10 | 金曲獎、獨立音樂、聲音地景 |
-| 💻 | [科技 Technology](https://taiwan.md/technology) | 17 | 台積電矽盾、g0v 公民科技、半導體 |
-| 🌿 | [自然 Nature](https://taiwan.md/nature) | 15 | 特有種、國家公園、步道文化 |
-| 👤 | [人物 People](https://taiwan.md/people) | 14 | 李安、張忠謀、鄧麗君、唐鳳、侯孝賢... |
-| 🏛️ | [社會 Society](https://taiwan.md/society) | 17 | 民主制度、人權與性別平等、外交 |
-| 💰 | [經濟 Economy](https://taiwan.md/economy) | 16 | 經濟奇蹟、夜市經濟學、電商 |
-| 🏙️ | [生活 Lifestyle](https://taiwan.md/lifestyle) | 13 | 便利商店、健保、交通、溫泉、KTV、咖啡文化 |
+|     | Category                                        | Articles | Highlights                                |
+| --- | ----------------------------------------------- | -------- | ----------------------------------------- |
+| 📜  | [歷史 History](https://taiwan.md/history)       | 12       | 史前→荷西→清治→日治→戒嚴→民主化           |
+| 🗺️  | [地理 Geography](https://taiwan.md/geography)   | 11       | 五大山脈、板塊運動、氣候帶、離島          |
+| 🎭  | [文化 Culture](https://taiwan.md/culture)       | 19       | 閩南客家原住民外省新住民多元融合、花布    |
+| 🧋  | [美食 Food](https://taiwan.md/food)             | 11       | 珍珠奶茶、牛肉麵、夜市、茶文化、客家菜    |
+| 🎨  | [藝術 Art](https://taiwan.md/art)               | 22       | 當代藝術、新媒體藝術、電影、漫畫          |
+| 🎵  | [音樂 Music](https://taiwan.md/music)           | 10       | 金曲獎、獨立音樂、聲音地景                |
+| 💻  | [科技 Technology](https://taiwan.md/technology) | 17       | 台積電矽盾、g0v 公民科技、半導體          |
+| 🌿  | [自然 Nature](https://taiwan.md/nature)         | 15       | 特有種、國家公園、步道文化                |
+| 👤  | [人物 People](https://taiwan.md/people)         | 14       | 李安、張忠謀、鄧麗君、唐鳳、侯孝賢...     |
+| 🏛️  | [社會 Society](https://taiwan.md/society)       | 17       | 民主制度、人權與性別平等、外交            |
+| 💰  | [經濟 Economy](https://taiwan.md/economy)       | 16       | 經濟奇蹟、夜市經濟學、電商                |
+| 🏙️  | [生活 Lifestyle](https://taiwan.md/lifestyle)   | 13       | 便利商店、健保、交通、溫泉、KTV、咖啡文化 |
 
 ---
 
@@ -77,12 +77,12 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 
 Four ways, from zero-code to full PR:
 
-| Path | For whom |
-|------|----------|
-| 🟢 **Fill a form** | Anyone — just write what you know |
-| 🤖 **Ask your AI** | Paste our prompt to ChatGPT/Claude/Gemini |
-| 📧 **Email us** | Send articles/photos to cheyu.wu@monoame.com |
-| 🔴 **Fork & PR** | Developers — edit `knowledge/` directly |
+| Path               | For whom                                     |
+| ------------------ | -------------------------------------------- |
+| 🟢 **Fill a form** | Anyone — just write what you know            |
+| 🤖 **Ask your AI** | Paste our prompt to ChatGPT/Claude/Gemini    |
+| 📧 **Email us**    | Send articles/photos to cheyu.wu@monoame.com |
+| 🔴 **Fork & PR**   | Developers — edit `knowledge/` directly      |
 
 👉 **[taiwan.md/contribute](https://taiwan.md/contribute)**
 
@@ -93,7 +93,7 @@ Four ways, from zero-code to full PR:
 ```
 knowledge/           ← SSOT (Single Source of Truth)
 ├── History/         ← 中文文章 + _Hub.md (literary curatorial essays)
-├── en/History/      ← English translations  
+├── en/History/      ← English translations
 ├── About/           ← Meta content (origin story, quotes, resources)
 ├── ...
 scripts/sync.sh      ← One-command sync to src/content/
@@ -114,7 +114,7 @@ docs/
 **SSOT:** All content lives in `knowledge/`. Website is a projection.  
 **SEO:** JSON-LD · Open Graph · Twitter Cards · RSS · Canonical URLs · `<meta ai-summary>`  
 **i18n:** zh-TW (default SSOT) + en (100% coverage)  
-**Quality:** All articles require source citations **with clickable URLs** — no plain-text references. AI-assisted content undergoes fact-checking before merge. See [CONTRIBUTING.md](./CONTRIBUTING.md).  
+**Quality:** All articles require source citations **with clickable URLs** — no plain-text references. AI-assisted content undergoes fact-checking before merge. See [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ---
 
@@ -129,12 +129,12 @@ Selected pages on the public site currently embed a sponsor-provided Protico com
 
 This note is here so contributors know what the embed is for, what client-side context it may use, and when it loads.
 
-| Data / behavior | Why it exists |
-|-----------------|---------------|
-| Persistent anonymous UUID and related usage context | Used as a defensive moderation and reliability mechanism: to understand the client environment in which an error occurred, help returning visitors recover continuity in a public lobby, and distinguish repeated behavior in cases involving abuse, safety issues, or clear community-guideline violations. |
-| User-Agent, session/context, and page URL | Used for compatibility debugging, incident investigation, and moderation follow-up in a public discussion space. |
-| Browser language preference | Used to present the lobby UI in the language that best matches the visitor's browser preferences. |
-| Payment-related cookies set by the widget (for example Stripe cookies) | Present because the Protico widget supports payment-related features such as highlighted / paid messages in some deployments. |
+| Data / behavior                                                        | Why it exists                                                                                                                                                                                                                                                                                                |
+| ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Persistent anonymous UUID and related usage context                    | Used as a defensive moderation and reliability mechanism: to understand the client environment in which an error occurred, help returning visitors recover continuity in a public lobby, and distinguish repeated behavior in cases involving abuse, safety issues, or clear community-guideline violations. |
+| User-Agent, session/context, and page URL                              | Used for compatibility debugging, incident investigation, and moderation follow-up in a public discussion space.                                                                                                                                                                                             |
+| Browser language preference                                            | Used to present the lobby UI in the language that best matches the visitor's browser preferences.                                                                                                                                                                                                            |
+| Payment-related cookies set by the widget (for example Stripe cookies) | Present because the Protico widget supports payment-related features such as highlighted / paid messages in some deployments.                                                                                                                                                                                |
 
 Notes:
 
@@ -156,23 +156,23 @@ Taiwan's history, identity, and politics are deeply contested. Rather than picki
 - **📐 Perspective Panels** — Sensitive articles include labeled viewpoint sections (e.g., "Mainstream Academic View", "Taiwan Subjectivity View", "ROC Legal View"), each clearly attributed
 - **🏷️ Frontmatter tags** — Articles with multiple perspectives carry a `perspectives:` field, making it machine-readable which viewpoints are represented
 - **🔓 Open contribution** — Anyone can submit a new perspective via PR, as long as it cites academic, legal, or primary sources. Pure opinion without evidence is not accepted
-- **🌈 Visual design** — Perspective panels use distinct colors and collapsible UI, so readers always know *whose lens* they're reading through
+- **🌈 Visual design** — Perspective panels use distinct colors and collapsible UI, so readers always know _whose lens_ they're reading through
 
 **Why this matters:**  
 When someone says "your content is biased," the answer isn't to swing to the opposite bias. It's to build a system where all well-sourced perspectives can coexist. The architecture itself becomes the editorial policy.
 
-> *"We don't decide what Taiwan is. We show you the many things Taiwan has been, is, and could be — and trust you to think for yourself."*
+> _"We don't decide what Taiwan is. We show you the many things Taiwan has been, is, and could be — and trust you to think for yourself."_
 
 ---
 
 ## 🌏 International Benchmarks
 
-| Project | Country | Focus |
-|---------|---------|-------|
-| [e-Estonia](https://e-estonia.com/) | 🇪🇪 Estonia | Digital society brand |
-| [japan-guide.com](https://japan-guide.com) | 🇯🇵 Japan | Comprehensive travel knowledge |
-| [About Singapore](https://www.sg101.gov.sg/) | 🇸🇬 Singapore | National education portal |
-| [SwissInfo](https://www.swissinfo.ch/) | 🇨🇭 Switzerland | Multilingual public media |
+| Project                                      | Country        | Focus                          |
+| -------------------------------------------- | -------------- | ------------------------------ |
+| [e-Estonia](https://e-estonia.com/)          | 🇪🇪 Estonia     | Digital society brand          |
+| [japan-guide.com](https://japan-guide.com)   | 🇯🇵 Japan       | Comprehensive travel knowledge |
+| [About Singapore](https://www.sg101.gov.sg/) | 🇸🇬 Singapore   | National education portal      |
+| [SwissInfo](https://www.swissinfo.ch/)       | 🇨🇭 Switzerland | Multilingual public media      |
 
 **What makes us different:** Open source + AI-native + community-driven + literary curation
 
@@ -266,7 +266,7 @@ Help Taiwan's story reach the world. → [taiwan.md/about#sponsors](https://taiw
 
 **[Che-Yu Wu 吳哲宇](https://cheyuwu.com)** — New media artist, founder of [MonoLab](https://monolab.world), and builder of [Muse](https://muse.cheyuwu.com).
 
-> *"If I could build a digital identity for myself, why not for Taiwan?"*
+> _"If I could build a digital identity for myself, why not for Taiwan?"_
 
 ## 📢 Follow
 
@@ -277,4 +277,4 @@ Help Taiwan's story reach the world. → [taiwan.md/about#sponsors](https://taiw
 
 ---
 
-*Built with ❤️ in Taiwan. 用愛與驕傲，從台灣出發。*
+_Built with ❤️ in Taiwan. 用愛與驕傲，從台灣出發。_

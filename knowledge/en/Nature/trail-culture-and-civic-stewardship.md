@@ -1,10 +1,9 @@
 ---
-
-title: "Trail Culture and Civic Stewardship in Taiwan"
-description: "From the Thousand Miles Trail Association to the iTrail platform, Taiwan’s hiking paths reveal a unique culture of civic science, volunteer care, and ecological ethics."
+title: 'Trail Culture and Civic Stewardship in Taiwan'
+description: 'From the Thousand Miles Trail Association to the iTrail platform, Taiwan’s hiking paths reveal a unique culture of civic science, volunteer care, and ecological ethics.'
 date: 2026-03-19
 tags: [自然, 步道, 公民科學, 生態保育]
-author: "Taiwan.md Contributors"
+author: 'Taiwan.md Contributors'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-19

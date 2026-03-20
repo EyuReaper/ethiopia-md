@@ -1,8 +1,15 @@
 ---
-title: "Chen Shui-bian: The Controversial Pioneer of Democratic Transition"
+title: 'Chen Shui-bian: The Controversial Pioneer of Democratic Transition'
 description: "Taiwan's 10th and 11th President, central figure in the historic 2000 power transition, a polarizing leader in Taiwan's democratization"
 date: 2026-03-20
-tags: ["president", "power transition", "Democratic Progressive Party", "Taipei mayor", "corruption case"]
+tags:
+  [
+    'president',
+    'power transition',
+    'Democratic Progressive Party',
+    'Taipei mayor',
+    'corruption case',
+  ]
 lastVerified: 2026-03-20
 ---
 
@@ -18,7 +25,7 @@ During his university years, Chen already showed political interests, actively p
 
 ## Legal Career and Political Awakening
 
-After becoming a practicing attorney in 1974, Chen specialized in civil and commercial litigation, building a solid professional reputation. In the 1980s, he gradually became involved with the *dangwai* (outside-the-party) opposition movement, providing legal services for political dissidents, including defending those connected to the Kaohsiung Incident (Formosa Incident).
+After becoming a practicing attorney in 1974, Chen specialized in civil and commercial litigation, building a solid professional reputation. In the 1980s, he gradually became involved with the _dangwai_ (outside-the-party) opposition movement, providing legal services for political dissidents, including defending those connected to the Kaohsiung Incident (Formosa Incident).
 
 This experience deepened his understanding of Taiwan's political problems and established connections with democracy movement activists. Using his legal expertise to support the democracy movement, he gradually transformed from lawyer to political activist, becoming one of the key figures bridging legal profession and political reform.
 

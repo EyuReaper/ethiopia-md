@@ -1,8 +1,15 @@
 ---
-title: "Lin Yi-hsiung"
+title: 'Lin Yi-hsiung'
 description: "Pioneer of Taiwan's democracy movement, survivor of the Lin family massacre, anti-nuclear activist who exemplifies resilience in tragedy"
 date: 2026-03-19
-tags: ["democracy movement", "Lin family massacre", "anti-nuclear movement", "political victim", "Tzulin Foundation"]
+tags:
+  [
+    'democracy movement',
+    'Lin family massacre',
+    'anti-nuclear movement',
+    'political victim',
+    'Tzulin Foundation',
+  ]
 lastVerified: 2026-03-19
 ---
 
@@ -14,11 +21,11 @@ Lin Yi-hsiung (林義雄), born in 1941 in Yilan, stands as a pivotal figure in 
 
 Lin was born into a traditional family in Yilan, where his father served as an elementary school principal. An academically gifted student, he attended National Taiwan University's Law School and became a practicing attorney. In the early 1970s, he began engaging with politics, believing Taiwan needed more democratic political institutions.
 
-In 1977, Lin was elected to the Yilan County Council, officially entering the political arena. His active participation in council proceedings, frequently questioning county government policies, marked him as a promising political newcomer. He participated in Taoyuan County magistrate campaign assistance, establishing relationships with *dangwai* (黨外, "outside the party") figures like Huang Hsin-chieh (黃信介) and Kang Ning-hsiang (康寧祥).
+In 1977, Lin was elected to the Yilan County Council, officially entering the political arena. His active participation in council proceedings, frequently questioning county government policies, marked him as a promising political newcomer. He participated in Taoyuan County magistrate campaign assistance, establishing relationships with _dangwai_ (黨外, "outside the party") figures like Huang Hsin-chieh (黃信介) and Kang Ning-hsiang (康寧祥).
 
 ## Involvement in the Formosa Movement
 
-In 1979, Lin became a key organizer for *Formosa Magazine* (美麗島雜誌), responsible for promoting the publication in northern Taiwan. Utilizing his legal expertise, he provided legal consultation for the magazine while organizing various political activities.
+In 1979, Lin became a key organizer for _Formosa Magazine_ (美麗島雜誌), responsible for promoting the publication in northern Taiwan. Utilizing his legal expertise, he provided legal consultation for the magazine while organizing various political activities.
 
 Following the Formosa Incident (美麗島事件), Lin was arrested alongside Shih Ming-teh (施明德), Huang Hsin-chieh, and others, charged with sedition. During military tribunal proceedings, he insisted on self-defense, refusing to admit any sedition charges, demonstrating both legal professionalism and political principles.
 

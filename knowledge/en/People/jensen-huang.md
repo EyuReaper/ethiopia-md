@@ -1,9 +1,9 @@
 ---
-
-title: "Jensen Huang"
-description: "Co-founder and CEO of NVIDIA, the ‘godfather of AI,’ whose vision and Taiwan ties reshaped global computing"
+title: 'Jensen Huang'
+description: 'Co-founder and CEO of NVIDIA, the ‘godfather of AI,’ whose vision and Taiwan ties reshaped global computing'
 date: 2026-03-19
-tags: [People, Jensen Huang, NVIDIA, AI, Semiconductors, Technology, Taiwan, Tainan]
+tags:
+  [People, Jensen Huang, NVIDIA, AI, Semiconductors, Technology, Taiwan, Tainan]
 lastVerified: 2026-03-19
 featured: true
 ---
@@ -50,7 +50,7 @@ This concept resonates in Taiwan, where digital governance and openness are part
 
 Despite his techno‑optimism, Huang has consistently acknowledged the ethical and societal stakes of AI. He has invested in education partnerships and research in Taiwan, urging young people to “run, don’t walk” toward the future—an exhortation that has become part of his public myth.
 
-In 2024, *Time* named him one of the world’s 100 most influential people. The black leather jacket has become more than a fashion choice; it is a symbol of relentless iteration—an insistence on pushing forward even when the future looks uncertain.
+In 2024, _Time_ named him one of the world’s 100 most influential people. The black leather jacket has become more than a fashion choice; it is a symbol of relentless iteration—an insistence on pushing forward even when the future looks uncertain.
 
 ## A bridge between Taiwan and the world
 

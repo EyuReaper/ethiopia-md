@@ -1,14 +1,21 @@
 ---
-
 title: "Taiwan's Science Park Development"
 description: "From Hsinchu to Southern Taiwan Science Parks, exploring the development history and unique positioning of Taiwan's three major science parks"
 date: 2026-03-18
-tags: ["science parks", "HSIP", "CTSP", "STSP", "high-tech industry", "industrial clusters"]
-author: "Taiwan.md"
-difficulty: "intermediate"
+tags:
+  [
+    'science parks',
+    'HSIP',
+    'CTSP',
+    'STSP',
+    'high-tech industry',
+    'industrial clusters',
+  ]
+author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 10
 featured: true
-category: "Technology"
+category: 'Technology'
 lastVerified: 2026-03-19
 ---
 
@@ -37,6 +44,7 @@ Taiwan was then facing a critical moment of industrial transformation. Tradition
 ### Development Timeline
 
 HSIP's growth can be divided into several stages:
+
 - **1980s**: Focused primarily on PC peripheral industries, accumulating foundational technical capabilities
 - **1990s**: Rapid semiconductor industry development, with leading companies like TSMC and UMC established
 - **2000s**: Rise of optoelectronics and communications industries, diversifying park functions
@@ -47,6 +55,7 @@ HSIP's growth can be divided into several stages:
 Today's HSIP is the flagship of Taiwan's high-tech industry, hosting over 500 companies with nearly 180,000 employees. The park houses not only semiconductor giants like TSMC and UMC but also numerous startups and international corporate R&D centers.
 
 HSIP's success factors include:
+
 - **Talent Clustering Effect**: Top universities providing continuous talent flow
 - **Complete Industrial Ecosystem**: Full supply chain from IC design to packaging and testing
 - **Strong Innovation Culture**: Atmosphere encouraging entrepreneurship and technological innovation
@@ -60,6 +69,7 @@ In 1995, Southern Taiwan Science Park was officially established to balance nort
 ### Industrial Positioning
 
 STSP had clear industrial positioning from the start:
+
 - **Optoelectronics Industry**: LCD panels, LED, and other optoelectronic technologies
 - **Semiconductor Industry**: Important base for advanced process technologies
 - **Biotechnology Industry**: Combining southern Taiwan's agricultural foundation to develop biotechnology
@@ -80,6 +90,7 @@ Established in 2003, Central Taiwan Science Park is located at Taiwan's north-so
 ### Development Characteristics
 
 CTSP mainly consists of three parks: Taichung Park, Huwei Park, and Erlin Park, each with different industrial characteristics:
+
 - **Taichung Park**: Optoelectronics, precision machinery, biotechnology
 - **Huwei Park**: Green energy technology, agricultural biotechnology
 - **Erlin Park**: Semiconductors, solar cells
@@ -87,6 +98,7 @@ CTSP mainly consists of three parks: Taichung Park, Huwei Park, and Erlin Park, 
 ### Four-Life Harmony Philosophy
 
 CTSP particularly emphasizes the development philosophy of "Four-Life Harmony":
+
 - **Production**: Highly efficient production environment
 - **Living**: Quality living functions
 - **Ecology**: Sustainable environmental protection
@@ -99,6 +111,7 @@ This philosophy reflects new thinking in Taiwan's science park development: purs
 ### Industrial Division of Labor
 
 The three major science parks have formed clear industrial division of labor:
+
 - **HSIP**: IC design, communications, software, and other knowledge-intensive industries
 - **CTSP**: Optoelectronics, precision machinery, green energy, and other technology-intensive industries
 - **STSP**: Semiconductor manufacturing, biotechnology, advanced materials, and other capital-intensive industries
@@ -106,6 +119,7 @@ The three major science parks have formed clear industrial division of labor:
 ### Development Models
 
 Each park has developed unique models:
+
 - **HSIP Model**: Close industry-academia-research integration, active innovation and entrepreneurship
 - **STSP Model**: Led by major corporations, complete industrial clusters
 - **CTSP Model**: Balanced development, four-life harmony
@@ -159,7 +173,8 @@ As emerging fields like AI, quantum computing, and space technology rise, Taiwan
 
 ---
 
-*Further Reading:*
+_Further Reading:_
+
 - [Semiconductor Industry](../Technology/semiconductor-industry.md)
 - [AI and Artificial Intelligence Industry](../Technology/artificial-intelligence-industry.md)
 - [Economic Miracle](../Economy/economic-miracle.md)

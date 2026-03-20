@@ -1,13 +1,19 @@
 ---
-
-title: "Braised Pork Rice (滷肉飯): Taiwan’s Everyday National Dish"
-description: "From military dependents’ kitchens to a nationwide comfort food, the north–south debate and cultural meaning of braised pork rice"
+title: 'Braised Pork Rice (滷肉飯): Taiwan’s Everyday National Dish'
+description: 'From military dependents’ kitchens to a nationwide comfort food, the north–south debate and cultural meaning of braised pork rice'
 date: 2026-03-19
-tags: ["braised pork rice", "rouzao rice", "military dependents’ villages", "everyday cuisine", "north–south differences"]
-author: "Taiwan.md"
+tags:
+  [
+    'braised pork rice',
+    'rouzao rice',
+    'military dependents’ villages',
+    'everyday cuisine',
+    'north–south differences',
+  ]
+author: 'Taiwan.md'
 readingTime: 8
 featured: true
-category: "Food"
+category: 'Food'
 lastVerified: 2026-03-19
 ---
 
@@ -20,11 +26,13 @@ A humble bowl of braised pork rice—lǔròu fàn (滷肉飯)—is one of Taiwan
 One of Taiwan’s most charming food debates is over what to call this dish. In the north, people say **lǔròu fàn (滷肉飯)**; in the south, it’s **ròuzào fàn (肉燥飯)**. This is not merely a linguistic difference. It reflects two distinct cooking traditions.
 
 **Northern style (滷肉飯):**
+
 - Uses pork belly cut into larger chunks, often with skin.
 - Slow-braised with soy sauce, rock sugar, rice wine, and spices.
 - The collagen-rich sauce becomes thick and glossy.
 
 **Southern style (肉燥飯):**
+
 - Pork is minced or finely chopped.
 - Seasoning is lighter and relies on fried shallots (紅蔥頭) for aroma.
 - The flavor feels brighter and less viscous.
@@ -75,6 +83,6 @@ In Taiwan, every bowl carries a story: a grandmother in a village kitchen, a lat
 - 《台灣飲食文化》，焦桐著，二魚文化，2020年
 - 〈滷肉飯的身世〉，《聯合報》美食版，2018年3月15日
 - 《眷村菜：時代的滋味》，毛奇著，時報出版，2019年
-- "Taiwan's National Dish Debate", *Taiwan Review*, 2011年8月號
+- "Taiwan's National Dish Debate", _Taiwan Review_, 2011年8月號
 - 台灣觀光局官網：https://www.taiwan.net.tw/
 - 《台灣小吃大全》，舒國治著，聯經出版，2021年

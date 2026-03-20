@@ -1,9 +1,10 @@
 ---
-title: "Chen Chien-jen"
-description: "An epidemiologist-turned-statesman who helped steer Taiwan through SARS and COVID-19"
+title: 'Chen Chien-jen'
+description: 'An epidemiologist-turned-statesman who helped steer Taiwan through SARS and COVID-19'
 date: 2026-03-19
-tags: [people, Chen Chien-jen, epidemiology, public health, vice president, premier]
-translatedFrom: "knowledge/People/陳建仁.md"
+tags:
+  [people, Chen Chien-jen, epidemiology, public health, vice president, premier]
+translatedFrom: 'knowledge/People/陳建仁.md'
 ---
 
 # Chen Chien-jen: Public Health, Politics, and Taiwan’s Crisis Leadership
@@ -18,7 +19,7 @@ Chen studied zoology at National Taiwan University, then pursued a Ph.D. in epid
 
 His work on Blackfoot disease (烏腳病) — a vascular disease caused by arsenic exposure in southwestern Taiwan — was especially influential. Chen’s research established a causal link between arsenic-contaminated groundwater and the disease, a finding that reshaped both Taiwanese and international approaches to environmental health.
 
-With more than 500 academic papers, including publications in *The Lancet* and *New England Journal of Medicine*, Chen built a reputation as a rigorous scientist and a patient mentor. The academic credibility he earned would later become a foundation for his political legitimacy.
+With more than 500 academic papers, including publications in _The Lancet_ and _New England Journal of Medicine_, Chen built a reputation as a rigorous scientist and a patient mentor. The academic credibility he earned would later become a foundation for his political legitimacy.
 
 ## Turning Research into Policy
 

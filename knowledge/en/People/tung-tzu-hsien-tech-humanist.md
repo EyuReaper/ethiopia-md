@@ -1,8 +1,9 @@
 ---
-title: "Tung Tzu-hsien (童子賢)"
+title: 'Tung Tzu-hsien (童子賢)'
 description: "Chairman and CEO of Pegatron Corporation, a tech industry leader who bridges technology and humanities, and key supporter of Taiwan's Eslite Bookstore"
 date: 2026-03-20
-tags: [people, tung-tzu-hsien, pegatron, technology, humanities, eslite-bookstore]
+tags:
+  [people, tung-tzu-hsien, pegatron, technology, humanities, eslite-bookstore]
 lastVerified: 2026-03-20
 ---
 

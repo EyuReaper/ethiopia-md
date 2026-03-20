@@ -2,7 +2,19 @@
 title: "Taiwan's Marine Ecology"
 description: "Kuroshio Current, coral reefs, and ocean biodiversity: why Taiwan's surrounding seas are a global ecological hotspot—and why they need protection"
 date: 2026-03-18
-tags: [marine-ecology, Kuroshio-Current, coral-reefs, cetaceans, flying-fish-season, marine-conservation, offshore-wind, Green-Island, Orchid-Island, Kenting]
+tags:
+  [
+    marine-ecology,
+    Kuroshio-Current,
+    coral-reefs,
+    cetaceans,
+    flying-fish-season,
+    marine-conservation,
+    offshore-wind,
+    Green-Island,
+    Orchid-Island,
+    Kenting,
+  ]
 category: Nature
 lastVerified: 2026-03-19
 ---
@@ -20,6 +32,7 @@ For Taiwan, the ocean is a lifeline. It feeds coastal communities, shapes climat
 ## The Kuroshio: Taiwan’s oceanic artery
 
 The Kuroshio (黑潮, “Black Current”) is the North Pacific’s most powerful warm current:
+
 - Originates east of the Philippines
 - Flows along Taiwan’s eastern edge and onward to Japan
 - Moves up to ~5 km per hour with a volume comparable to 200 Yangtze Rivers
@@ -32,23 +45,28 @@ The Kuroshio (黑潮, “Black Current”) is the North Pacific’s most powerfu
 Taiwan is home to the northernmost tropical reefs in East Asia. Key reef zones include:
 
 **Kenting National Park** (southern tip)
+
 - Taiwan’s largest reef system
 - 60–80% live coral coverage in prime zones
 - Over 60 stony coral species and 1,000+ fish species
 
 **Xiaoliuqiu** (coral island)
+
 - Taiwan’s only coral limestone island
 - Major green sea turtle (Chelonia mydas) habitat
 
 **Green Island (綠島)**
+
 - Volcanic reefs and the famous “Giant Mushroom Rock” coral formations
 - A rare seawater hot spring ecosystem
 
 **Orchid Island (蘭嶼)**
+
 - High coral coverage (often 90%+)
 - Traditional Tao fishing practices intertwined with conservation
 
 **Northeast Coast**
+
 - Temperate coral communities and sea-fan forests
 - Rich intertidal biodiversity
 
@@ -61,6 +79,7 @@ Taiwan’s waters host 38 cetacean species—about one‑third of the world’s 
 Whale watching has grown into a major eco‑tourism industry since the 1990s, with Hualien as the primary hub (sighting rates often above 85%). This industry not only provides alternative livelihoods for fishers but also serves as a moving classroom for marine education.
 
 **Conservation challenges** include:
+
 - Underwater noise from ships and sonar
 - Entanglement in fishing gear
 - Plastic ingestion and habitat degradation
@@ -96,11 +115,13 @@ Taiwan has built a network of marine protected areas and national marine parks, 
 Taiwan’s offshore wind expansion is part of its energy transition, with large arrays planned off Changhua and Yunlin. The ecological trade‑off is complex:
 
 **Potential benefits**:
+
 - Turbine foundations act as artificial reefs
 - No‑trawl zones can reduce fishing pressure
 - Lower carbon emissions help mitigate climate change
 
 **Risks**:
+
 - Construction noise and seabed disruption
 - Migration corridor interference (including the critically endangered Indo‑Pacific humpback dolphin, known locally as the “white dolphin”)
 - Changes to local fisheries

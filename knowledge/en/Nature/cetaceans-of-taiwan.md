@@ -1,12 +1,20 @@
 ---
-
-title: "Cetaceans of Taiwan"
-description: "A third of the world’s whales and dolphins pass these waters—how Taiwan moved from whaling to whale‑watching and why the “Mazu Fish” needs saving"
+title: 'Cetaceans of Taiwan'
+description: 'A third of the world’s whales and dolphins pass these waters—how Taiwan moved from whaling to whale‑watching and why the “Mazu Fish” needs saving'
 date: 2026-03-19
-tags: ["Taiwan", "cetaceans", "whales", "dolphins", "marine conservation", "whale watching", "Kuroshio"]
-author: "Haí Nǚ"
+tags:
+  [
+    'Taiwan',
+    'cetaceans',
+    'whales',
+    'dolphins',
+    'marine conservation',
+    'whale watching',
+    'Kuroshio',
+  ]
+author: 'Haí Nǚ'
 readingTime: 12
-category: "Nature"
+category: 'Nature'
 lastVerified: 2026-03-19
 ---
 
@@ -29,10 +37,12 @@ Cetaceans sit at the top of the marine food web. Their presence indicates **ocea
 Taiwan’s east and west coasts are oceanographically different, creating distinct cetacean habitats.
 
 ### East coast: a deep‑sea corridor
+
 The eastern shoreline drops steeply into deep water. The Kuroshio Current runs close to shore, delivering warm water and abundant migratory fish and squid. This is prime habitat for **deep‑diving and offshore species**: sperm whales, beaked whales, and large dolphin pods.
 
 ### West coast: a shallow‑sea nursery
-The Taiwan Strait is broad and shallow (average ~60 m). Its coastal waters nurture **nearshore species**, including the island’s most fragile treasure: the **Indo‑Pacific humpback dolphin** (*Sousa chinensis taiwanensis*), locally called **「媽祖魚」** ("Mazu Fish") because sightings historically clustered around the Mazu festival season.
+
+The Taiwan Strait is broad and shallow (average ~60 m). Its coastal waters nurture **nearshore species**, including the island’s most fragile treasure: the **Indo‑Pacific humpback dolphin** (_Sousa chinensis taiwanensis_), locally called **「媽祖魚」** ("Mazu Fish") because sightings historically clustered around the Mazu festival season.
 
 ---
 
@@ -41,15 +51,19 @@ The Taiwan Strait is broad and shallow (average ~60 m). Its coastal waters nurtu
 Below are some of the most recognizable neighbors in Taiwan’s waters:
 
 ### Spinner Dolphin
+
 Often called the **“ballet dancers of the sea”**, spinner dolphins leap and spin above the surface, frequently riding boat waves. They are among the most commonly sighted species on the east coast.
 
 ### Risso’s Dolphin
+
 Known for their **scar‑covered bodies**, these dolphins bear white scratches that function like social “badges.” They tend to be calmer and prefer deeper waters.
 
 ### Sperm Whale
+
 The **largest toothed whale** in the world, with a blocky head and deep‑diving abilities. Sightings off Hualien and Shitiping are treasured moments for whale‑watchers. Their angled blow is a classic signature.
 
 ### Indo‑Pacific Humpback Dolphin (Mazu Fish)
+
 A **critically endangered** subspecies endemic to Taiwan’s west coast. Fewer than **60 individuals** remain. Coastal development, offshore wind projects, noise, and fishing gear entanglement threaten their survival.
 
 ---
@@ -57,12 +71,15 @@ A **critically endangered** subspecies endemic to Taiwan’s west coast. Fewer t
 ## From whaling to whale‑watching
 
 ### 1950s–1980s: the whaling era
+
 Post‑war Taiwan had active whaling sites. In **Banana Bay (香蕉灣)** near Kenting, whales and dolphins were hunted for meat and oil—an era when survival outweighed ecological concern.
 
 ### 1990: a conservation turning point
+
 In 1990, a mass dolphin killing in Penghu shocked the public and drew international attention. The government responded by listing cetaceans under the **Wildlife Conservation Act**, banning hunting, capture, and trade.
 
 ### 1997: whale‑watching begins
+
 In July 1997, Taiwan’s first whale‑watching boat launched from Hualien. Since then, whale‑watching has flourished in **Yilan (Wushi Harbor), Hualien, and Taitung**, becoming both a conservation platform and a cultural re‑connection with the sea.
 
 ---

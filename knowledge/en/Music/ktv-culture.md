@@ -1,12 +1,21 @@
 ---
-title: "Taiwan’s KTV Culture: From Holiday and Cashbox to the Social Ritual of the Private Room"
-description: "How karaoke became a Taiwanese social institution—through private rooms, brand rivalries, song charts, and the post‑pandemic search for a new model."
+title: 'Taiwan’s KTV Culture: From Holiday and Cashbox to the Social Ritual of the Private Room'
+description: 'How karaoke became a Taiwanese social institution—through private rooms, brand rivalries, song charts, and the post‑pandemic search for a new model.'
 date: 2026-03-19
-tags: ["KTV culture", "karaoke", "Holiday KTV", "Cashbox", "private rooms", "pop music", "social life"]
-author: "Taiwan.md"
+tags:
+  [
+    'KTV culture',
+    'karaoke',
+    'Holiday KTV',
+    'Cashbox',
+    'private rooms',
+    'pop music',
+    'social life',
+  ]
+author: 'Taiwan.md'
 readingTime: 12
 featured: true
-category: "Music"
+category: 'Music'
 lastVerified: 2026-03-19
 ---
 

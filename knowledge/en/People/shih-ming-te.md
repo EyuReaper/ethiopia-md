@@ -1,8 +1,15 @@
 ---
-title: "Shih Ming-te"
-description: "Leader of the Kaohsiung Incident and a democracy pioneer who spent 25 years in prison for Taiwan’s freedom"
+title: 'Shih Ming-te'
+description: 'Leader of the Kaohsiung Incident and a democracy pioneer who spent 25 years in prison for Taiwan’s freedom'
 date: 2026-03-19
-tags: ["democracy", "Kaohsiung Incident", "political prisoner", "Red Shirt Movement", "political leadership"]
+tags:
+  [
+    'democracy',
+    'Kaohsiung Incident',
+    'political prisoner',
+    'Red Shirt Movement',
+    'political leadership',
+  ]
 lastVerified: 2026-03-19
 ---
 
@@ -22,11 +29,11 @@ Yet Shih did not vanish into the system. In prison, he read extensively and deve
 
 Once free, Shih joined the **dangwai (黨外)** movement—literally “outside the party,” a broad coalition of opposition voices before formal opposition parties were legal. During the late 1970s, Taiwan’s political atmosphere loosened slightly under international pressure, and Shih emerged as a key organizer and strategist.
 
-He helped create *Formosa Magazine (美麗島雜誌)*, an influential dissident publication that advocated democratic reform, human rights, and political accountability. Its tone was rational and civic, but its content challenged the core taboos of the era.
+He helped create _Formosa Magazine (美麗島雜誌)_, an influential dissident publication that advocated democratic reform, human rights, and political accountability. Its tone was rational and civic, but its content challenged the core taboos of the era.
 
 ## The Kaohsiung (Formosa) Incident: A Turning Point
 
-On December 10, 1979—International Human Rights Day—*Formosa Magazine* held a rally in Kaohsiung. The event escalated into clashes between citizens and police, later known as the **Kaohsiung Incident (美麗島事件)**. The government responded with mass arrests.
+On December 10, 1979—International Human Rights Day—_Formosa Magazine_ held a rally in Kaohsiung. The event escalated into clashes between citizens and police, later known as the **Kaohsiung Incident (美麗島事件)**. The government responded with mass arrests.
 
 Shih, as a senior figure at the magazine, was charged with sedition and faced the death penalty in a military trial. He refused to plead guilty. His courtroom statements became legendary—clear, direct, and defiant—casting the proceedings as a moral battle for Taiwan’s future.
 
@@ -54,7 +61,7 @@ Shih’s life is often summarized by his insistence on moral integrity. He is re
 
 During his long imprisonments, Shih wrote extensively—poems, essays, and memoirs that recorded the inner life of a political prisoner. These writings are more than personal testimony; they are historical documents of authoritarian Taiwan.
 
-His memoirs, especially *The Memoirs of Shih Ming-te (施明德回憶錄)*, provide first-hand accounts of the democracy movement and remain key references for historians and readers seeking to understand Taiwan’s transition.
+His memoirs, especially _The Memoirs of Shih Ming-te (施明德回憶錄)_, provide first-hand accounts of the democracy movement and remain key references for historians and readers seeking to understand Taiwan’s transition.
 
 ## Why Shih Ming-te Still Matters
 

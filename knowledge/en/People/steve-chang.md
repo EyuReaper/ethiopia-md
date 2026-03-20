@@ -1,8 +1,15 @@
 ---
-title: "Steve Chang (張明正)"
-description: "Founder of Trend Micro and a pioneer who proved Taiwan’s software industry could lead globally in cybersecurity."
+title: 'Steve Chang (張明正)'
+description: 'Founder of Trend Micro and a pioneer who proved Taiwan’s software industry could lead globally in cybersecurity.'
 date: 2026-03-19
-tags: ["technology", "cybersecurity", "software industry", "entrepreneurship", "trend micro"]
+tags:
+  [
+    'technology',
+    'cybersecurity',
+    'software industry',
+    'entrepreneurship',
+    'trend micro',
+  ]
 lastVerified: 2026-03-19
 ---
 

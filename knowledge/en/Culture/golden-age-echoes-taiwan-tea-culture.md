@@ -2,9 +2,17 @@
 title: "Golden Age Echoes: Evolution and Craftsmanship of Taiwan's Tea Culture"
 description: "From Dong Ding Oolong to high mountain teas, exploring the historical evolution of Taiwan's tea culture and the essence of tea-making craftsmanship"
 date: 2026-03-19
-tags: ["tea culture", "Dong Ding Oolong", "high mountain tea", "tea craftsmanship", "tea ceremony aesthetics", "agricultural culture"]
-author: "Taiwan.md"
-difficulty: "intermediate"
+tags:
+  [
+    'tea culture',
+    'Dong Ding Oolong',
+    'high mountain tea',
+    'tea craftsmanship',
+    'tea ceremony aesthetics',
+    'agricultural culture',
+  ]
+author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 10
 featured: true
 lastVerified: 2026-03-19
@@ -136,15 +144,15 @@ In the globalization era, Taiwan tea culture demonstrates small island culture's
 
 ## References
 
-- [*Development History of Taiwan Tea*](https://www.tbrs.gov.tw/), Council of Agriculture Tea Research and Extension Station, 2019
-- Chen Huantang, *Taiwan Oolong Tea Manufacturing Technology*, Fengnian Society, 2018
-- Fan Zengping, *Theory of Taiwan Tea Culture*, Business Weekly Publications, 2020
-- *Dong Ding Oolong Tea*, Lugu Township Farmers' Association, 2017
-- Lin Mulian, *Taiwan High Mountain Tea*, Morning Star Publishing, 2019
-- [*Taiwan Tea Industry Statistical Yearbook*](https://www.tbrs.gov.tw/), COA Tea Research and Extension Station, 2023
-- Cai Rongzhang, [*Heart Method of Tea*](https://www.books.com.tw/products/0010971194), Building Block Culture, 2021
-- [*Tea Industry Newsletter*](https://www.tbrs.gov.tw/), Tea Research and Extension Station Regular Publication
-- Liu Yong, *From Traditional to Modern: Taiwan Tea Industry Development Research*, Institute of National History, 2020
-- *Taiwan Agricultural Yearbook*, Council of Agriculture
-- Chen Guoyi, *Taiwan Tea Industry Analysis*, Taiwan Tea Association, 2022
+- [_Development History of Taiwan Tea_](https://www.tbrs.gov.tw/), Council of Agriculture Tea Research and Extension Station, 2019
+- Chen Huantang, _Taiwan Oolong Tea Manufacturing Technology_, Fengnian Society, 2018
+- Fan Zengping, _Theory of Taiwan Tea Culture_, Business Weekly Publications, 2020
+- _Dong Ding Oolong Tea_, Lugu Township Farmers' Association, 2017
+- Lin Mulian, _Taiwan High Mountain Tea_, Morning Star Publishing, 2019
+- [_Taiwan Tea Industry Statistical Yearbook_](https://www.tbrs.gov.tw/), COA Tea Research and Extension Station, 2023
+- Cai Rongzhang, [_Heart Method of Tea_](https://www.books.com.tw/products/0010971194), Building Block Culture, 2021
+- [_Tea Industry Newsletter_](https://www.tbrs.gov.tw/), Tea Research and Extension Station Regular Publication
+- Liu Yong, _From Traditional to Modern: Taiwan Tea Industry Development Research_, Institute of National History, 2020
+- _Taiwan Agricultural Yearbook_, Council of Agriculture
+- Chen Guoyi, _Taiwan Tea Industry Analysis_, Taiwan Tea Association, 2022
 - International Tea Committee - Global Tea Market Report

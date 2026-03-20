@@ -1,7 +1,6 @@
 ---
-
-title: "Mayday (五月天)"
-description: "From a high school band in Taipei to a generational symbol of Mandarin rock—how Mayday turned youthful sincerity into Taiwan’s loudest cultural heartbeat"
+title: 'Mayday (五月天)'
+description: 'From a high school band in Taipei to a generational symbol of Mandarin rock—how Mayday turned youthful sincerity into Taiwan’s loudest cultural heartbeat'
 date: 2026-03-19
 tags: [people, band, rock, mandarin-pop, golden-melody-awards, live-concerts]
 lastVerified: 2026-03-19
@@ -19,9 +18,9 @@ In the late 1990s, Taiwan’s mainstream pop market was dominated by idol‑styl
 
 ## Breaking Through: A New Kind of Mandarin Rock
 
-Mayday’s first album *The First Album* (《第一張創作專輯》, 1999) immediately made waves with songs like “Embrace” (《擁抱》) and “Crazy World” (《瘋狂世界》). The next album, *Love’s Journey* (《愛情萬歲》, 2000), consolidated their reputation with tracks such as “Tenderness” (《溫柔》), “Fool” (《憨人》), and “Lonely Ending” (《終結孤單》). This record won them the Golden Melody Award (金曲獎) for Best Band, confirming that rock could hold the center of the Mandarin pop stage.
+Mayday’s first album _The First Album_ (《第一張創作專輯》, 1999) immediately made waves with songs like “Embrace” (《擁抱》) and “Crazy World” (《瘋狂世界》). The next album, _Love’s Journey_ (《愛情萬歲》, 2000), consolidated their reputation with tracks such as “Tenderness” (《溫柔》), “Fool” (《憨人》), and “Lonely Ending” (《終結孤單》). This record won them the Golden Melody Award (金曲獎) for Best Band, confirming that rock could hold the center of the Mandarin pop stage.
 
-As their discography expanded—*Life, Live* (《人生海海》), *The Proud of Gods* (《神的孩子都在跳舞》), *Born to Love* (《為愛而生》)—Mayday’s sound grew more layered, moving between bright pop‑rock hooks and more reflective, atmospheric pieces. They never abandoned their rock foundation, but they widened it, blending cinematic arrangements, anthemic choruses, and storytelling that could travel beyond Taiwan.
+As their discography expanded—_Life, Live_ (《人生海海》), _The Proud of Gods_ (《神的孩子都在跳舞》), _Born to Love_ (《為愛而生》)—Mayday’s sound grew more layered, moving between bright pop‑rock hooks and more reflective, atmospheric pieces. They never abandoned their rock foundation, but they widened it, blending cinematic arrangements, anthemic choruses, and storytelling that could travel beyond Taiwan.
 
 ## Lyrics as Cultural Memory
 

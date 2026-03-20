@@ -1,9 +1,17 @@
 ---
-title: "Che-Yu Wu (吳哲宇) — A Media Artist Who Grows Life in Code"
-description: "A Taiwanese new media artist and educator whose algorithmic works have appeared at the Venice Biennale and Art Basel, and who teaches thousands to think with code."
+title: 'Che-Yu Wu (吳哲宇) — A Media Artist Who Grows Life in Code'
+description: 'A Taiwanese new media artist and educator whose algorithmic works have appeared at the Venice Biennale and Art Basel, and who teaches thousands to think with code.'
 date: 2026-03-19
-tags: ["new media art", "generative art", "creative coding", "NFT", "education", "people"]
-author: "Taiwan.md Contributors"
+tags:
+  [
+    'new media art',
+    'generative art',
+    'creative coding',
+    'NFT',
+    'education',
+    'people',
+  ]
+author: 'Taiwan.md Contributors'
 readingTime: 10
 featured: false
 lastVerified: 2026-03-19
@@ -28,18 +36,23 @@ This “build first, understand later” approach reflects a broader Taiwanese m
 ## Signature Works
 
 ### **The Great Equation (2023)**
+
 A solo exhibition at AMBI SPACE ONE in Taipei 101, one of the world’s largest p5.js generative art shows. Viewers were immersed in a massive visual environment where mathematical formulas generated real-time imagery—fractals, fluid dynamics, and algorithmic patterns unfolding on screen.
 
 ### **SoulFish (2022–2024)**
+
 Exhibited at the Venice Biennale. The piece simulates a digital school of fish where every individual holds unique “soul parameters.” Their collective behavior is emergent, unpredictable, and deeply organic. The work asks: if digital life could have a soul, what would it look like?
 
 ### **The Soul of Flowers (2023–2024)**
+
 Shown at Art Basel Miami in collaboration with the Tezos Foundation. Using L-system algorithms, the work models the growth and decay of flowers. Each bloom lives a full life cycle, emphasizing impermanence and the beauty of transience.
 
 ### **The Eternal Garden in a Bottle (2024–2025)**
+
 Created during a residency at CENTQUATRE-PARIS and later exhibited in Kaohsiung’s Pier-2 Art Center. The installation includes a live piano performance: the audience’s music drives a closed digital ecosystem in real time. The work explores preservation versus captivity—whether keeping something alive also means confining it.
 
 ### **Algorithmic Verses (2025)**
+
 An immersive piano performance at Huashan 1914 Creative Park. Real-time piano sound is analyzed through FFT spectral data and translated into visuals, creating a synesthetic landscape. Wu is both composer and programmer, blurring the boundary between artist and engineer.
 
 ## Creative Philosophy
@@ -82,16 +95,16 @@ In March 2026, Wu launched **Taiwan.md**, an open-source knowledge base about Ta
 
 ## Major Exhibitions
 
-| Year | Exhibition | Location |
-|------|-----------|----------|
-| 2025 | The Eternal Garden in a Bottle (Immersive Performance) | Kaohsiung Pier-2 Art Center |
-| 2025 | The Coffee Dreamscape | Starbucks DreamPlaza, Taipei |
-| 2025 | Algorithmic Verses (Immersive Piano Performance) | Huashan 1914 Creative Park |
-| 2024 | Artist Residency — The Eternal Garden in a Bottle | CENTQUATRE-PARIS |
-| 2024 | Generative Art Dome Projection | C-LAB Taiwan Contemporary Culture Lab |
-| 2024 | SoulFish Collabs | Venice Biennale |
-| 2023 | The Soul of Flowers | Art Basel Miami × Tezos |
-| 2023 | The Great Equation (Solo Exhibition) | Taipei 101 AMBI SPACE ONE |
+| Year | Exhibition                                             | Location                              |
+| ---- | ------------------------------------------------------ | ------------------------------------- |
+| 2025 | The Eternal Garden in a Bottle (Immersive Performance) | Kaohsiung Pier-2 Art Center           |
+| 2025 | The Coffee Dreamscape                                  | Starbucks DreamPlaza, Taipei          |
+| 2025 | Algorithmic Verses (Immersive Piano Performance)       | Huashan 1914 Creative Park            |
+| 2024 | Artist Residency — The Eternal Garden in a Bottle      | CENTQUATRE-PARIS                      |
+| 2024 | Generative Art Dome Projection                         | C-LAB Taiwan Contemporary Culture Lab |
+| 2024 | SoulFish Collabs                                       | Venice Biennale                       |
+| 2023 | The Soul of Flowers                                    | Art Basel Miami × Tezos               |
+| 2023 | The Great Equation (Solo Exhibition)                   | Taipei 101 AMBI SPACE ONE             |
 
 ## Further Reading
 

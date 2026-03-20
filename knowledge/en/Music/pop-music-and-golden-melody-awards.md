@@ -1,9 +1,16 @@
 ---
-title: "Contemporary Pop Music and the Golden Melody Awards"
+title: 'Contemporary Pop Music and the Golden Melody Awards'
 description: "From the 'Mandopop Grammy' to musical pluralism—exploring the innovation and heritage of Taiwan's pop music scene."
 date: 2026-03-20
-tags: ["Golden Melody Awards", "Pop Music", "Indie Music", "Indigenous Music", "Mandopop"]
-author: "Taiwan.md Contributors"
+tags:
+  [
+    'Golden Melody Awards',
+    'Pop Music',
+    'Indie Music',
+    'Indigenous Music',
+    'Mandopop',
+  ]
+author: 'Taiwan.md Contributors'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-20
@@ -16,6 +23,7 @@ lastVerified: 2026-03-20
 The Golden Melody Awards (GMA), often called the "Grammys of the Mandopop world," have witnessed the transformation of Taiwan's pop music since their founding in 1990. Initially dominated by mainstream Mandarin and Taiwanese-language pop, the awards have evolved into a rich ecosystem of diversity. Today, they cover four major language categories—Mandarin, Taiwanese, Hakka, and Indigenous languages—alongside independent (indie) music and cross-genre experimentation. The GMA are not just a mark of professional honor but a vital barometer of Taiwan's cultural plurality and creative vitality.
 
 **Key Figures:**
+
 - Founded: 1990 (1st Edition)
 - Award Categories: 35+ categories covering major languages and technical achievements.
 - Cultural Impact: Attracts over 2 million TV viewers and millions more on digital platforms annually.
@@ -71,6 +79,7 @@ AI-generated music, virtual performances, and immersive audio are new frontiers.
 Taiwan's pop music and the Golden Melody Awards tell a story of creativity, diversity, and inclusion. In the waves of globalization, Taiwan's musicians use this platform to maintain the depth and breadth of Mandopop while showcasing the unique charm of their local cultures.
 
 ## Further Reading
+
 - [Official Website of the Golden Melody Awards](https://gma.tavis.tw/)
 - [Ministry of Culture: Bureau of Audiovisual and Popular Music Industry](https://www.bamid.gov.tw/)
 - [Abao: The Indigenous Diva Reshaping Mandopop](https://www.marieclaire.com.tw/entertainment/music/80160)

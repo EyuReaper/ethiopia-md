@@ -1,12 +1,21 @@
 ---
-title: "Taiwan’s Scooter Culture"
-description: "An island of scooters, where everyday mobility becomes identity, memory, and a quiet kind of freedom"
+title: 'Taiwan’s Scooter Culture'
+description: 'An island of scooters, where everyday mobility becomes identity, memory, and a quiet kind of freedom'
 date: 2026-03-19
-tags: [lifestyle, scooters, mobility, commuting culture, Gogoro, customization, transportation]
-author: "Taiwan.md"
-readingTime: "8 min"
+tags:
+  [
+    lifestyle,
+    scooters,
+    mobility,
+    commuting culture,
+    Gogoro,
+    customization,
+    transportation,
+  ]
+author: 'Taiwan.md'
+readingTime: '8 min'
 featured: true
-category: "Lifestyle"
+category: 'Lifestyle'
 lastVerified: 2026-03-19
 ---
 
@@ -19,7 +28,7 @@ With roughly one scooter for every 1.6 people, Taiwan ranks among the most scoot
 ## A brief history: from luxury to necessity
 
 **1950s–1970s: the Vespa era**
-Vespa scooters arrived in the 1950s as aspirational objects. The image of Audrey Hepburn in *Roman Holiday* helped spark a wave of desire. Soon, local manufacturing took off: Sanyang (SYM) began producing Honda scooters in 1960, and Kymco followed in 1963. By the 1970s, scooters had become accessible to ordinary households.
+Vespa scooters arrived in the 1950s as aspirational objects. The image of Audrey Hepburn in _Roman Holiday_ helped spark a wave of desire. Soon, local manufacturing took off: Sanyang (SYM) began producing Honda scooters in 1960, and Kymco followed in 1963. By the 1970s, scooters had become accessible to ordinary households.
 
 **1980s–1990s: the scooter kingdom**
 Taiwan’s economic boom accelerated scooter ownership. Total numbers rose from about 2 million in 1980 to more than 10 million by 1995. A complete industrial ecosystem formed—parts suppliers, repair shops, customization studios, and a robust secondhand market. Learning to ride became a rite of passage.
@@ -43,9 +52,10 @@ Scooters are relatively affordable to buy, fuel, and maintain. For a household b
 Scooter commuting is a daily choreography. Riders weave through side streets, park in tight spaces, and arrive at work without the burden of traffic jams or expensive parking.
 
 Cultural habits emerge from this routine:
+
 - **Rain gear culture**: Full-body ponchos are standard, even for short rides.
 - **Helmet hair**: Hairstyles are quietly optimized for helmets.
-- **“Breakfast-on-the-go”**: A soy milk and蛋餅 *danbing* (egg crepe) combo is a common commuting ritual.
+- **“Breakfast-on-the-go”**: A soy milk and蛋餅 _danbing_ (egg crepe) combo is a common commuting ritual.
 - **Family mobility**: It’s not unusual to see parents carrying children or groceries—a highly practiced balance.
 
 ## The Gogoro effect
@@ -57,6 +67,7 @@ The ecosystem now includes major manufacturers such as Yamaha, Aeon, PGO, and eM
 ## Customization and identity
 
 Scooter modification is an expressive subculture. Riders customize for aesthetics, performance, or comfort:
+
 - **Visual**: paint jobs, decals, LED accents, and custom body panels
 - **Performance**: exhaust systems, ECU tuning, intake upgrades
 - **Comfort**: ergonomic seats, suspension adjustments, handlebar modifications
@@ -70,6 +81,7 @@ Scooter dominance brings challenges. Scooter-related accidents remain a major pu
 ## Generational shifts
 
 Each generation carries a different scooter memory:
+
 - **Post-war generation**: scooters symbolized upward mobility
 - **Gen X**: the golden age of customization and youth freedom
 - **Millennials**: the transition toward environmental awareness

@@ -1,14 +1,20 @@
 ---
-
 title: "Taiwan's AI and Artificial Intelligence Industry"
 description: "Exploring Taiwan's AI industry development from semiconductor advantages to application scenarios, examining the tech island's path toward intelligent transformation"
 date: 2026-03-18
-tags: ["AI", "artificial intelligence", "tech industry", "digital transformation", "semiconductor"]
-author: "Taiwan.md"
-difficulty: "intermediate"
+tags:
+  [
+    'AI',
+    'artificial intelligence',
+    'tech industry',
+    'digital transformation',
+    'semiconductor',
+  ]
+author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 8
 featured: true
-category: "Technology"
+category: 'Technology'
 lastVerified: 2026-03-19
 ---
 
@@ -37,6 +43,7 @@ Taiwan's electronic manufacturing services industry also plays an important role
 ### Government Promotion Strategy
 
 The Taiwanese government has formulated a "Four Major Strategies" to promote AI industry development:
+
 - **Expand Computing Power**: Build AI computing infrastructure and enhance computational resources
 - **Link Application Domains**: Establish AI application scenarios connecting industrial needs
 - **Attract Talent**: Cultivate AI talent and attract international professionals
@@ -47,6 +54,7 @@ The government particularly focuses on key application areas including smart hea
 ### Current AI Adoption in Industries
 
 According to the "Taiwan Industry AI Adoption Survey" from early 2025, despite the generative AI boom lasting two years, 70% of Taiwanese enterprises have yet to cross the AI adoption threshold. Main challenges include:
+
 - Insufficient or poor-quality data
 - Lack of AI technical talent
 - High implementation costs
@@ -77,6 +85,7 @@ Taiwan's banking industry actively adopts AI technology, from customer service c
 ### Talent Development
 
 To address AI talent shortages, Taiwan adopts multiple approaches:
+
 - Universities establishing AI-related departments and research centers
 - Government promoting AI talent development programs
 - Enterprise-academia collaboration in practical talent training
@@ -116,7 +125,8 @@ In this era where AI defines the future, Taiwan stands at a historical turning p
 
 ---
 
-*Further Reading:*
+_Further Reading:_
+
 - [Semiconductor Industry](../Technology/semiconductor-industry.md)
 - [Open Source Communities and g0v](../Technology/open-source-and-g0v.md)
 - [Economic Miracle](../Economy/economic-miracle.md)

@@ -1,11 +1,10 @@
 ---
-
-title: "Taiwan’s River Systems and Hydrology: Short, Fast, and Seasonally Extreme"
-description: "A cultural-geographic overview of Taiwan’s rivers—from Zhuoshui to Gaoping—showing how steep terrain shapes water, cities, and resilience."
+title: 'Taiwan’s River Systems and Hydrology: Short, Fast, and Seasonally Extreme'
+description: 'A cultural-geographic overview of Taiwan’s rivers—from Zhuoshui to Gaoping—showing how steep terrain shapes water, cities, and resilience.'
 date: 2026-03-18
-author: "Taiwan.md"
-tags: ["geography", "rivers", "hydrology", "water resources", "Taiwan"]
-category: "Geography"
+author: 'Taiwan.md'
+tags: ['geography', 'rivers', 'hydrology', 'water resources', 'Taiwan']
+category: 'Geography'
 readingTime: 11
 featured: true
 lastVerified: 2026-03-19

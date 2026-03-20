@@ -1,8 +1,19 @@
 ---
-title: "Taiwan Hot Springs and Geothermal Energy"
+title: 'Taiwan Hot Springs and Geothermal Energy'
 description: "From Beitou's Roman bath to Green Island's ocean hot spring: how Taiwan's geology shaped a distinctive hot‑spring culture—and a major clean‑energy opportunity"
 date: 2026-03-18
-tags: [hot-springs, geothermal, Beitou, Jiaoxi, Zhiben, Green-Island, Japanese-colonial-heritage, geothermal-power, wellness-culture]
+tags:
+  [
+    hot-springs,
+    geothermal,
+    Beitou,
+    Jiaoxi,
+    Zhiben,
+    Green-Island,
+    Japanese-colonial-heritage,
+    geothermal-power,
+    wellness-culture,
+  ]
 category: Nature
 lastVerified: 2026-03-19
 ---
@@ -30,18 +41,22 @@ Taiwan lies where the Philippine Sea Plate collides with the Eurasian Plate, cre
 ## Hot‑spring types and signature regions
 
 **Sulfur springs** (Beitou, Yangmingshan, Guanziling)
+
 - Acidic, mineral‑rich, distinct “sulfur” aroma
 - Historically linked with skin care and circulation benefits
 
 **Bicarbonate springs** (Jiaoxi, Su’ao, Sichongxi)
+
 - Slightly alkaline, silky to the touch
 - Known as “beauty baths” for their softening effect
 
 **Seawater hot springs** (Green Island’s Zhaori)
+
 - A rare ocean hot spring (one of only three in the world)
 - Temperature shifts with tides; soaking with waves at sunrise is iconic
 
 **Mud springs** (Guanziling)
+
 - Taiwan’s only mud hot spring; grey, mineral‑dense slurry
 - Formed from shale and sandstone weathering
 
@@ -49,7 +64,7 @@ Taiwan lies where the Philippine Sea Plate collides with the Eurasian Plate, cre
 
 ### Beitou: the birthplace of Taiwan’s modern hot‑spring culture
 
-- **Indigenous era**: The Ketagalan people called it *Pataauw*, “the witch,” referencing the steam.
+- **Indigenous era**: The Ketagalan people called it _Pataauw_, “the witch,” referencing the steam.
 - **Japanese era**: Formal development began; the 1913 bathhouse became a landmark. Rare “Hokutolite” (北投石) was discovered here.
 - **Post‑war tourism**: Beitou grew into a major spa district; heritage restoration revived public baths and museums.
 
@@ -59,7 +74,7 @@ Jiaoxi’s bicarbonate springs and abundant flow made it a dense resort zone. Th
 
 ### Zhiben: indigenous culture meets resort development
 
-In Taitung, the Puyuma people called Zhiben *Katratripul*—a sacred healing site. The area now combines forest recreation, resort hotels, and indigenous cultural experiences.
+In Taitung, the Puyuma people called Zhiben _Katratripul_—a sacred healing site. The area now combines forest recreation, resort hotels, and indigenous cultural experiences.
 
 ### Green Island’s Zhaori Hot Spring
 
@@ -83,6 +98,7 @@ Hot springs now anchor regional tourism corridors: Beitou and Wulai in the north
 Taiwan’s first geothermal experiments began in the 1970s. The Qingshui plant in Yilan operated from 1981 to 1993, later restarted with modern technology. Today, geothermal development is rising again as part of Taiwan’s energy transition.
 
 **Key sites**:
+
 - **Qingshui (Yilan)**: ~4.2 MW, the largest operating geothermal plant
 - **Ruisui, Yuli (Hualien)**: exploration and pilot phases
 - **Jinlun, Zhiben (Taitung)**: mixed power and direct‑use development
@@ -92,6 +108,7 @@ Taiwan’s first geothermal experiments began in the 1970s. The Qingshui plant i
 ## Sustainability challenges
 
 Geothermal and hot‑spring development must avoid “using up” the resource:
+
 - **Water‑quality protection** and source monitoring
 - **Reinjection technology** to sustain reservoir pressure
 - **Environmental impact assessments** for drilling and facilities
@@ -102,6 +119,7 @@ Climate change adds pressure: altered rainfall affects recharge, extreme weather
 ## Indigenous hot‑spring wisdom
 
 Indigenous communities have long used hot springs for healing, ritual, and social life:
+
 - **Atayal (Ulay)**: warm‑water sites for recovery and postpartum care
 - **Bunun**: springs as gifts from mountain spirits
 - **Puyuma (Zhiben)**: ceremonial and healing use

@@ -1,5 +1,5 @@
 ---
-title: "Lu Yen-hsun (盧彥勳)"
+title: 'Lu Yen-hsun (盧彥勳)'
 description: "Taiwan's tennis ace who reached Wimbledon quarterfinals in 2010, representing Taiwan in four Olympic Games and becoming the nation's most accomplished male tennis player"
 date: 2026-03-20
 tags: [people, lu-yen-hsun, tennis, olympics, wimbledon, professional-tennis]

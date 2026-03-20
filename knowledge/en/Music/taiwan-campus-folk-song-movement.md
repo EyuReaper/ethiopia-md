@@ -1,11 +1,20 @@
 ---
-title: "Taiwan’s Campus Folk Song Movement: Singing Our Own Songs"
-description: "A 1970s cultural awakening that urged Taiwanese youth to ‘sing our own songs’—from the Tamkang Incident to the rise of campus folk and the birth of modern Taiwanese pop."
+title: 'Taiwan’s Campus Folk Song Movement: Singing Our Own Songs'
+description: 'A 1970s cultural awakening that urged Taiwanese youth to ‘sing our own songs’—from the Tamkang Incident to the rise of campus folk and the birth of modern Taiwanese pop.'
 date: 2026-03-18
-category: "Music"
-tags: ["folk song movement", "campus folk", "Golden Melody", "Lee Shuang‑tse", "Yang Hsien", "Hu De‑fu", "sing our own songs"]
-author: "Taiwan.md Contributors"
-difficulty: "beginner"
+category: 'Music'
+tags:
+  [
+    'folk song movement',
+    'campus folk',
+    'Golden Melody',
+    'Lee Shuang‑tse',
+    'Yang Hsien',
+    'Hu De‑fu',
+    'sing our own songs',
+  ]
+author: 'Taiwan.md Contributors'
+difficulty: 'beginner'
 readingTime: 12
 featured: false
 lastVerified: 2026-03-19
@@ -37,7 +46,7 @@ An Indigenous singer from the Puyuma people, Hu De‑fu brought the sound of Tai
 
 ### Lee Shuang‑tse (李雙澤): The Revolutionary
 
-Lee’s 1976 outburst at Tamkang was the movement’s most dramatic moment. It reframed folk music as cultural resistance. His demand—*sing our own songs*—would become a rallying cry for campus folk, and later generations of Taiwanese musicians.
+Lee’s 1976 outburst at Tamkang was the movement’s most dramatic moment. It reframed folk music as cultural resistance. His demand—_sing our own songs_—would become a rallying cry for campus folk, and later generations of Taiwanese musicians.
 
 🎵 **Listen:** [“Formosa (美麗島)” – Lee Shuang‑tse, performed by Yang Zu‑chun](https://www.youtube.com/watch?v=4UvWeuzhxHw)
 
@@ -86,7 +95,7 @@ Yet decline did not mean disappearance—it meant transformation.
 
 ### Lo Ta‑yu: The Heir of Rebellion
 
-Lo Ta‑yu inherited the movement’s spirit but sharpened its edge. Albums like *Zhihu Zheye (之乎者也)* and *Home (家)* combined social critique with pop sensibility, ushering in a new era of Taiwanese popular music.
+Lo Ta‑yu inherited the movement’s spirit but sharpened its edge. Albums like _Zhihu Zheye (之乎者也)_ and _Home (家)_ combined social critique with pop sensibility, ushering in a new era of Taiwanese popular music.
 
 ### Seeds of Indie and Alternative
 
@@ -115,4 +124,4 @@ The shattered Coca‑Cola bottle at Tamkang still echoes today. It asks every Ta
 - [Tamsui Wiki: Tamkang Incident](http://tamsui.dils.tku.edu.tw/wiki/index.php/%E6%B7%A1%E6%B1%9F%E4%BA%8B%E4%BB%B6)
 - [Fount Media: Lee Shuang‑tse and “Sing Our Own Songs”](https://www.fountmedia.io/article/104260)
 - [SEF Exchange Magazine: “Forty Years of Folk Songs”](https://www.sef.org.tw/article-1-129-5006)
-- *Nandu Weekly: Key Figures in 30 Years of Taiwanese Folk Music*
+- _Nandu Weekly: Key Figures in 30 Years of Taiwanese Folk Music_

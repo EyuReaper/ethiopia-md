@@ -1,10 +1,18 @@
 ---
-
-title: "Taiwan’s Soundscape"
-description: "From garbage truck melodies to Indigenous polyphony—listening to Taiwan as a living cultural archive"
+title: 'Taiwan’s Soundscape'
+description: 'From garbage truck melodies to Indigenous polyphony—listening to Taiwan as a living cultural archive'
 date: 2026-03-17
-tags: ["soundscape", "garbage truck music", "temple festivals", "Indigenous music", "Nanguan", "Beiguan", "street sounds"]
-author: "Taiwan.md Contributors"
+tags:
+  [
+    'soundscape',
+    'garbage truck music',
+    'temple festivals',
+    'Indigenous music',
+    'Nanguan',
+    'Beiguan',
+    'street sounds',
+  ]
+author: 'Taiwan.md Contributors'
 readingTime: 10
 featured: false
 lastVerified: 2026-03-19
@@ -14,14 +22,15 @@ lastVerified: 2026-03-19
 
 ## 30-Second Overview
 
-Close your eyes—can you hear Taiwan? At 6:30 p.m., a slow piano melody glides through alleyways as neighbors carry their trash out to the garbage truck. Deep at night, temple drums in **Beiguan (北管)** thunder while neon-lit **electric flower trucks (電子花車)** flash before the gods. In the mountains, the Bunun people sing **Pasibutbut**, a ritual polyphony so rich it sounds like eight voices coming from four. 
+Close your eyes—can you hear Taiwan? At 6:30 p.m., a slow piano melody glides through alleyways as neighbors carry their trash out to the garbage truck. Deep at night, temple drums in **Beiguan (北管)** thunder while neon-lit **electric flower trucks (電子花車)** flash before the gods. In the mountains, the Bunun people sing **Pasibutbut**, a ritual polyphony so rich it sounds like eight voices coming from four.
 
 Taiwan’s soundscape is not background noise. It is a living cultural code—an archive of memory, migration, and identity.
 
 **Signature sounds:**
+
 - 🚛 **Garbage truck music**: Taiwan’s daily civic ritual
 - 🏯 **Temple festivals**: Beiguan and Nanguan ensembles, percussion troupes
-- 🏔️ **Indigenous polyphony**: Bunun *Pasibutbut*
+- 🏔️ **Indigenous polyphony**: Bunun _Pasibutbut_
 - 🛵 **Scooter chorus**: the world’s densest motorcycle culture
 - 🌙 **Night market calls**: the theater of everyday commerce
 
@@ -44,7 +53,7 @@ Taiwan is one of the only places in the world where garbage trucks play classica
 1. **“Für Elise” (致愛麗絲)** — Beethoven. Common in northern and central Taiwan.
 2. **“A Maiden’s Prayer” (少女的祈禱)** — Tekla Bądarzewska, 1856. Common in southern Taiwan.
 
-Where you live determines which melody is *your* daily call. This musical geography is oddly precise—northerners find “A Maiden’s Prayer” unfamiliar; southerners find “Für Elise” strange.
+Where you live determines which melody is _your_ daily call. This musical geography is oddly precise—northerners find “A Maiden’s Prayer” unfamiliar; southerners find “Für Elise” strange.
 
 Since the 1997 “no garbage on the ground” policy, this music has become part of Taiwan’s daily social choreography: neighbors meet, chat, and take out trash together. It is public policy disguised as ritual.
 
@@ -73,6 +82,7 @@ Beiguan is loud, percussive, and emotionally intense. If rock music is “maximu
 Nanguan (also called **Nanyin**, 南音) is the opposite of Beiguan: refined, slow, and meditative. It preserves musical structures dating back to the Tang and Song dynasties and was inscribed on UNESCO’s Intangible Cultural Heritage list in 2009.
 
 Typical instrumentation (“upper four” ensemble):
+
 - Horizontal pipa
 - Sansian
 - Dongxiao (bamboo flute, Tang-era size)
@@ -91,9 +101,9 @@ International media like BBC and Vice have covered it as a uniquely Taiwanese ph
 
 ## Indigenous Sound: Memory of the Land
 
-### Bunun *Pasibutbut*: “Eight-Part Harmony” That Isn’t
+### Bunun _Pasibutbut_: “Eight-Part Harmony” That Isn’t
 
-Often called “eight-part harmony,” *Pasibutbut* is actually **four-part singing** that produces **overtone resonance** so rich it appears as eight voices. In 1952, Japanese ethnomusicologist Kurosawa Takatomo submitted a recording to UNESCO, astonishing researchers worldwide.
+Often called “eight-part harmony,” _Pasibutbut_ is actually **four-part singing** that produces **overtone resonance** so rich it appears as eight voices. In 1952, Japanese ethnomusicologist Kurosawa Takatomo submitted a recording to UNESCO, astonishing researchers worldwide.
 
 Sung in a circle of 6–12 men, it is performed during millet harvest rituals to honor **Dihanin**, the sky deity. The myth says the sound came from nature itself—tree hollows, waterfalls, forest wind.
 

@@ -1,16 +1,22 @@
 ---
-
-title: "Edward Yang (楊德昌)"
-description: "A leading voice of the Taiwan New Cinema movement, Cannes Best Director, and the poet of urban alienation"
+title: 'Edward Yang (楊德昌)'
+description: 'A leading voice of the Taiwan New Cinema movement, Cannes Best Director, and the poet of urban alienation'
 date: 2026-03-19
-tags: ["director", "Taiwan New Cinema", "Edward Yang", "Cannes Film Festival", "urban cinema"]
+tags:
+  [
+    'director',
+    'Taiwan New Cinema',
+    'Edward Yang',
+    'Cannes Film Festival',
+    'urban cinema',
+  ]
 lastVerified: 2026-03-19
 featured: true
 ---
 
 # Edward Yang (楊德昌): The Poet of Urban Alienation
 
-Edward Yang (楊德昌) stands at the core of the Taiwan New Cinema movement. Through films such as *A Brighter Summer Day* (牯嶺街少年殺人事件) and *Yi Yi* (一一), he examined the inner lives of modern city dwellers with a cool, architectural eye. Often called “the Antonioni of the East,” Yang used Taipei as both setting and character, revealing how modernization reshaped families, friendships, and moral imagination. In 2000, *Yi Yi* earned him Best Director at the Cannes Film Festival—an international milestone for Taiwanese cinema.
+Edward Yang (楊德昌) stands at the core of the Taiwan New Cinema movement. Through films such as _A Brighter Summer Day_ (牯嶺街少年殺人事件) and _Yi Yi_ (一一), he examined the inner lives of modern city dwellers with a cool, architectural eye. Often called “the Antonioni of the East,” Yang used Taipei as both setting and character, revealing how modernization reshaped families, friendships, and moral imagination. In 2000, _Yi Yi_ earned him Best Director at the Cannes Film Festival—an international milestone for Taiwanese cinema.
 
 ## Early Life and Education
 
@@ -22,33 +28,33 @@ He studied at Taipei Municipal Jianguo High School, where he developed a passion
 
 Yang returned to Taiwan in 1981 as the local film industry faced a creative slump. Alongside filmmakers like Hou Hsiao‑hsien (侯孝賢), Wu Nien‑jen (吳念真), and Wan Jen (萬仁), he helped launch the Taiwan New Cinema movement, which sought a more realistic and locally grounded film language.
 
-His first film segment, “Expectation” (〈指望〉) in the anthology *In Our Time* (光陰的故事, 1982), introduced his hallmark style: restrained camera movement, long takes, and an observational tone. His first feature, *That Day, on the Beach* (海灘的一天, 1983), explored the emotional landscape of urban women through a complex, time‑layered narrative and announced his arrival as a major director.
+His first film segment, “Expectation” (〈指望〉) in the anthology _In Our Time_ (光陰的故事, 1982), introduced his hallmark style: restrained camera movement, long takes, and an observational tone. His first feature, _That Day, on the Beach_ (海灘的一天, 1983), explored the emotional landscape of urban women through a complex, time‑layered narrative and announced his arrival as a major director.
 
 ## The Urban Trilogy
 
 Yang’s mature style unfolded through what critics call his “urban trilogy,” films that map Taipei’s social fabric and emotional disconnections.
 
-### *Taipei Story* (青梅竹馬, 1985)
+### _Taipei Story_ (青梅竹馬, 1985)
 
 Yang’s first feature as sole director portrays a couple negotiating love and ambition in a rapidly modernizing Taipei. The city’s architecture becomes a visual metaphor for emotional distance, and the film remains a quintessential portrait of urban intimacy under pressure.
 
-### *The Terrorizers* (恐怖分子, 1986)
+### _The Terrorizers_ (恐怖分子, 1986)
 
 A masterwork of fragmented storytelling, the film begins with a wrong phone call that triggers a cascade of crises across different social classes. Its fractured narrative mirrors the fragmentation of modern life, earning Yang international acclaim and a Golden Horse Award for Best Original Screenplay.
 
-### *A Confucian Confusion* (獨立時代, 1994)
+### _A Confucian Confusion_ (獨立時代, 1994)
 
 Set in the post‑martial‑law era, the film examines the moral confusion and ideological drift of Taipei’s middle class. Its ensemble structure captures a society negotiating freedom, consumerism, and identity.
 
-## Historical Reflection: *A Brighter Summer Day*
+## Historical Reflection: _A Brighter Summer Day_
 
-Released in 1991, *A Brighter Summer Day* is Yang’s epic reconstruction of a 1961 murder case involving teenage gangs. Set during the White Terror, the film spans nearly four hours, portraying a society under authoritarian pressure and youth caught between American pop culture and traditional expectations.
+Released in 1991, _A Brighter Summer Day_ is Yang’s epic reconstruction of a 1961 murder case involving teenage gangs. Set during the White Terror, the film spans nearly four hours, portraying a society under authoritarian pressure and youth caught between American pop culture and traditional expectations.
 
-The film’s scale is both historical and intimate. It is a collective memory project—a portrait of an era’s fear and tenderness. The film won multiple Golden Horse Awards and was later recognized by *Cahiers du Cinéma* as one of the best films of the 1990s.
+The film’s scale is both historical and intimate. It is a collective memory project—a portrait of an era’s fear and tenderness. The film won multiple Golden Horse Awards and was later recognized by _Cahiers du Cinéma_ as one of the best films of the 1990s.
 
-## Cannes Recognition: *Yi Yi*
+## Cannes Recognition: _Yi Yi_
 
-*Yi Yi* (2000) is Yang’s final feature and widely considered his masterpiece. Centered on a middle‑class Taipei family, the film examines three generations as they navigate marriage, childhood, business, and mortality. Its gentle, precise structure offers a panoramic view of Taiwan at the turn of the millennium, balancing East‑West tension, tradition and modernity, and the fragility of everyday life.
+_Yi Yi_ (2000) is Yang’s final feature and widely considered his masterpiece. Centered on a middle‑class Taipei family, the film examines three generations as they navigate marriage, childhood, business, and mortality. Its gentle, precise structure offers a panoramic view of Taiwan at the turn of the millennium, balancing East‑West tension, tradition and modernity, and the fragility of everyday life.
 
 Yang’s achievement at Cannes—Best Director—marked the first time a Taiwanese director won one of the festival’s top prizes. The film also received the New York Film Critics Circle Award for Best Foreign Language Film, solidifying Yang’s position in world cinema.
 
@@ -67,5 +73,5 @@ Edward Yang died of colon cancer on June 29, 2007, in Beverly Hills at the age o
 ## References
 
 - [Edward Yang — Taiwan Cinema](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12441) — official filmography and biography
-- [Festival de Cannes 2000](https://www.festival-cannes.com/en/editions/2000) — *Yi Yi* awards record
+- [Festival de Cannes 2000](https://www.festival-cannes.com/en/editions/2000) — _Yi Yi_ awards record
 - [Taiwan Film and Audiovisual Institute](https://www.tfai.org.tw/) — background on the Taiwan New Cinema movement

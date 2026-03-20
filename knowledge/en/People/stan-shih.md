@@ -1,9 +1,8 @@
 ---
-
-title: "Stan Shih (施振榮)"
-description: "Founder of Acer and the thinker behind the ‘Smiling Curve’—a key strategist of Taiwan’s technology transformation"
+title: 'Stan Shih (施振榮)'
+description: 'Founder of Acer and the thinker behind the ‘Smiling Curve’—a key strategist of Taiwan’s technology transformation'
 date: 2026-03-19
-tags: ["entrepreneur", "technology", "management", "Acer", "Smiling Curve"]
+tags: ['entrepreneur', 'technology', 'management', 'Acer', 'Smiling Curve']
 lastVerified: 2026-03-19
 ---
 

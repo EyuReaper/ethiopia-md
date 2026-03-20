@@ -1,8 +1,16 @@
 ---
-title: "Fang-Yi Sheu (許芳宜)"
+title: 'Fang-Yi Sheu (許芳宜)'
 description: "From a small-town girl in Yilan to principal dancer at Martha Graham Dance Company and founder of LAFA — she tells Taiwan's most powerful stories through movement"
 date: 2026-03-19
-tags: ["dance", "performing arts", "Martha Graham", "LAFA", "modern dance", "contemporary dance"]
+tags:
+  [
+    'dance',
+    'performing arts',
+    'Martha Graham',
+    'LAFA',
+    'modern dance',
+    'contemporary dance',
+  ]
 lastVerified: 2026-03-19
 ---
 

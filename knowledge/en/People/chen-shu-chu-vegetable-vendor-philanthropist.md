@@ -1,9 +1,17 @@
 ---
-
-title: "Chen Shu-chu"
-description: "A vegetable vendor from Taitung whose ordinary acts of kindness define what true wealth means"
+title: 'Chen Shu-chu'
+description: 'A vegetable vendor from Taitung whose ordinary acts of kindness define what true wealth means'
 date: 2026-03-19
-tags: [People, Philanthropy, Taitung, Vegetable vendor, TIME Magazine, Forbes, Education donations]
+tags:
+  [
+    People,
+    Philanthropy,
+    Taitung,
+    Vegetable vendor,
+    TIME Magazine,
+    Forbes,
+    Education donations,
+  ]
 lastVerified: 2026-03-20
 ---
 

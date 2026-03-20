@@ -1,11 +1,17 @@
 ---
-
-title: "An Island’s Transformation: Taiwan’s Industrial Upgrading and Economic Trajectory"
-description: "From agrarian base to global tech hub, this is Taiwan’s half-century journey through export-led growth, industrial upgrading, and the rise of the ‘Silicon Shield.’"
+title: 'An Island’s Transformation: Taiwan’s Industrial Upgrading and Economic Trajectory'
+description: 'From agrarian base to global tech hub, this is Taiwan’s half-century journey through export-led growth, industrial upgrading, and the rise of the ‘Silicon Shield.’'
 date: 2026-03-19
-tags: ["economic development", "industrial transformation", "economic miracle", "high-tech industry", "Taiwan model"]
-author: "Taiwan.md"
-category: "Economy"
+tags:
+  [
+    'economic development',
+    'industrial transformation',
+    'economic miracle',
+    'high-tech industry',
+    'Taiwan model',
+  ]
+author: 'Taiwan.md'
+category: 'Economy'
 readingTime: 12
 featured: true
 lastVerified: 2026-03-19
@@ -30,6 +36,7 @@ Taiwan shows how a small economy can reposition itself in global value chains th
 Postwar Taiwan was largely agricultural; farming accounted for over one-third of GDP. Land reforms—such as the “375 rent reduction,” public land release, and “land to the tiller” (耕者有其田)—reduced inequality and unlocked productivity. These reforms also created rural capital, which later fueled industrial investment.
 
 Key achievements:
+
 - **Agricultural modernization:** improved crop varieties, fertilizer use, and mechanization
 - **Education expansion:** universal basic education to prepare industrial labor
 - **Infrastructure rebuilding:** power, roads, and transport restored after wartime damage
@@ -39,6 +46,7 @@ Key achievements:
 In the 1960s, Taiwan pivoted to export-oriented industrialization. Textiles and electronics assembly became twin engines of growth, supported by abundant labor and global demand.
 
 Highlights:
+
 - **Textile surge:** from contract manufacturing to brand development; by the 1970s Taiwan was the world’s #2 textile exporter
 - **Electronics seedbed:** TV assembly and OEM production created the first generation of electronic engineers
 
@@ -49,6 +57,7 @@ GDP growth exceeded 10% annually—a period remembered as the beginning of Taiwa
 The oil shocks and rising competition prompted a strategic shift toward heavy industry. The government launched the Ten Major Construction Projects (十大建設), including steel, petrochemicals, shipbuilding, and transport infrastructure.
 
 Strategic outcomes:
+
 - **China Steel (中鋼):** established a complete domestic steel chain
 - **Shipbuilding:** pushed Taiwan into maritime industry
 - **Petrochemicals:** anchored downstream manufacturing
@@ -61,6 +70,7 @@ In 1980, the Hsinchu Science Park was created, signaling a long-term bet on high
 After the end of martial law, Taiwan accelerated liberalization and focused on ICT and semiconductors. This phase cemented the island’s role in the global tech stack.
 
 Key developments:
+
 - **Semiconductors:** TSMC (1987) pioneered the pure-play foundry model, reshaping global production. UMC and other firms built cluster effects.
 - **ICT ecosystem:** Acer and ASUS became global brands; Foxconn built the world’s largest electronics manufacturing network; MediaTek became a leading fabless chip designer.
 - **Industrial clusters:** the Hsinchu, Central, and Southern science parks formed a nationwide innovation corridor.
@@ -86,6 +96,7 @@ Taiwan excelled at moving from **OEM → ODM → OBM** (contract manufacturing t
 ## Current challenges and the next transformation
 
 Taiwan’s success comes with new risks:
+
 1. **Overconcentration in semiconductors:** a vulnerability amid geopolitical tension
 2. **Wage stagnation:** limited domestic consumption growth
 3. **Talent outflow:** competition from neighboring tech hubs
@@ -97,6 +108,7 @@ The government’s **Six Core Strategic Industries** aim to diversify the econom
 ## Taiwan’s global position
 
 Despite its size, Taiwan is a critical node:
+
 - **Semiconductors:** >60% of global foundry capacity
 - **Electronics:** ~90% of the world’s laptops are produced by Taiwanese firms
 - **Machine tools:** top global exporter
@@ -107,6 +119,7 @@ This prominence underpins the “Silicon Shield” idea: global dependence on Ta
 ## Lessons for other small economies
 
 Taiwan’s trajectory suggests four recurring principles:
+
 1. **Specialize and scale**: focus on comparative advantages
 2. **Keep upgrading**: shift to higher value activities before mature industries decline
 3. **Build institutions**: strong governance and policy continuity matter
@@ -121,8 +134,8 @@ Taiwan now stands at a new crossroads. Its challenge is no longer basic industri
 ## References
 
 1. Academia Sinica – [Research on the causes of Taiwan’s economic miracle](https://www.sinica.edu.tw/)
-2. Wu Tsung-min, *Taiwan’s 400 Years of Economic History* (Spring Hill Publishing)
-3. Chiu Wan-wen, *Origins of Taiwan’s Postwar Development* (Linking Publishing)
+2. Wu Tsung-min, _Taiwan’s 400 Years of Economic History_ (Spring Hill Publishing)
+3. Chiu Wan-wen, _Origins of Taiwan’s Postwar Development_ (Linking Publishing)
 4. Executive Yuan – [Six Core Strategic Industries Policy White Paper](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/7a65a06e-3f71-4c68-b368-85549fbca5d1)
 5. Ministry of Economic Affairs – [Annual Statistical Report on Industrial Development](https://www.moea.gov.tw/)
 6. ITRI – [Taiwan’s High-Tech Industry Development Review](https://www.itri.org.tw/)

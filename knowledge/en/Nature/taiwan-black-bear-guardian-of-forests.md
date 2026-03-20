@@ -1,10 +1,18 @@
 ---
-title: "The Formosan Black Bear: Last King of the Forests"
+title: 'The Formosan Black Bear: Last King of the Forests'
 description: "The white 'V' on its chest is its signature—discover the story of Taiwan's largest carnivore and the ongoing battle for its survival."
 date: 2026-03-20
-category: "Nature"
-tags: ["Formosan Black Bear", "Conservation", "Endangered Species", "Mei-Hsiu Hwang", "Mountain Culture", "National Parks"]
-author: "Taiwan.md"
+category: 'Nature'
+tags:
+  [
+    'Formosan Black Bear',
+    'Conservation',
+    'Endangered Species',
+    'Mei-Hsiu Hwang',
+    'Mountain Culture',
+    'National Parks',
+  ]
+author: 'Taiwan.md'
 readingTime: 12
 featured: true
 lastVerified: 2026-03-20
@@ -14,7 +22,7 @@ lastVerified: 2026-03-20
 
 ## 30-Second Overview
 
-The **Formosan Black Bear** (*Ursus thibetanus formosanus*) is a subspecies of the Asiatic Black Bear endemic to Taiwan. Its most iconic feature is the yellowish-white crescent or "V" mark on its chest, earning it the nickname "Moon Bear." As Taiwan's largest carnivore, it sits at the top of the mountain ecosystem, yet its survival is precariously balanced. With an estimated population of only 200 to 600 individuals, the bear faces threats not from natural predators, but from human activity—illegal snares, habitat fragmentation, and poaching.
+The **Formosan Black Bear** (_Ursus thibetanus formosanus_) is a subspecies of the Asiatic Black Bear endemic to Taiwan. Its most iconic feature is the yellowish-white crescent or "V" mark on its chest, earning it the nickname "Moon Bear." As Taiwan's largest carnivore, it sits at the top of the mountain ecosystem, yet its survival is precariously balanced. With an estimated population of only 200 to 600 individuals, the bear faces threats not from natural predators, but from human activity—illegal snares, habitat fragmentation, and poaching.
 
 **Key Terms**: Moon Bear, Endemic Subspecies, V-mark, Apex Predator, Black Bear Mama (Mei-Hsiu Hwang).
 
@@ -34,6 +42,7 @@ Beyond ecology, the bear is a **cultural totem**. From the sacred ancestral lege
 ## "Black Bear Mama": The 20-Year Quest of Mei-Hsiu Hwang
 
 Professor **Mei-Hsiu Hwang** is the pioneer of black bear research in Taiwan. When she began her work in 1998, almost nothing was known about the species' population or behavior.
+
 - **Fieldwork**: She and her team spent years in the wilderness, setting humane traps, fitting radio collars, and tracking bears 24/7.
 - **Discovery**: She proved the bears' massive range and their fear of humans, debunking many aggressive-bear myths.
 - **Conservationist**: She founded the Taiwan Black Bear Conservation Association and pushed for stricter laws against poaching and the use of metal snares.
@@ -52,7 +61,7 @@ Road construction, agricultural expansion, and tourism infrastructure slice the 
 
 ### Indigenous Guardians
 
-To the **Bunun people**, the black bear is a "forest person" and a sacred spirit (*tumaz*). Traditional taboos often forbade the killing of bears, believing that harming a bear would bring misfortune to the tribe. Indigenous hunters today are increasingly becoming key partners in conservation, using their traditional knowledge to track and protect the bears.
+To the **Bunun people**, the black bear is a "forest person" and a sacred spirit (_tumaz_). Traditional taboos often forbade the killing of bears, believing that harming a bear would bring misfortune to the tribe. Indigenous hunters today are increasingly becoming key partners in conservation, using their traditional knowledge to track and protect the bears.
 
 ### OhBear and the "Mascot Problem"
 
@@ -61,6 +70,7 @@ While the "OhBear" mascot has made the bear a household name, conservationists w
 ## How to Co-exist?
 
 Since the "Salute to the Mountains" policy in 2019, hiking has surged in Taiwan. This brings new challenges:
+
 - **Food Management**: Bears have an incredible sense of smell. Improper food storage at campsites attracts bears, leading them to associate humans with easy meals—a dangerous habit for both.
 - **"Bear Smart" Hiking**: Hikers are encouraged to carry bear bells, store food in bear-resistant containers, and "Leave No Trace."
 
@@ -75,4 +85,5 @@ Since the "Salute to the Mountains" policy in 2019, hiking has surged in Taiwan.
 The story of the Formosan Black Bear is a mirror of Taiwan's own journey—balancing development with the protection of its unique natural soul. The "V" on its chest is more than a mark; it's a question of whether we can share this small, beautiful island with its original king.
 
 ---
-*Visit the [Taiwan Black Bear Conservation Association](https://www.taiwanbear.org.tw) to learn how you can support the "Moon Bears."*
+
+_Visit the [Taiwan Black Bear Conservation Association](https://www.taiwanbear.org.tw) to learn how you can support the "Moon Bears."_

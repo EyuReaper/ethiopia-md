@@ -1,12 +1,20 @@
 ---
-title: "Taiwan’s Instrument-Making Industry: From Houli Saxophones to Global Music Factories"
-description: "How Taiwan turned rural craft into world‑class instrument manufacturing—from Houli’s saxophones and OEM guitar empires to precision music‑box movements—and why the industry is now reinventing itself through premium craft and brand building."
+title: 'Taiwan’s Instrument-Making Industry: From Houli Saxophones to Global Music Factories'
+description: 'How Taiwan turned rural craft into world‑class instrument manufacturing—from Houli’s saxophones and OEM guitar empires to precision music‑box movements—and why the industry is now reinventing itself through premium craft and brand building.'
 date: 2026-03-19
-tags: ["instrument manufacturing", "Houli saxophones", "guitar OEM", "music boxes", "manufacturing", "Taiwan craftsmanship"]
-author: "Taiwan.md"
+tags:
+  [
+    'instrument manufacturing',
+    'Houli saxophones',
+    'guitar OEM',
+    'music boxes',
+    'manufacturing',
+    'Taiwan craftsmanship',
+  ]
+author: 'Taiwan.md'
 readingTime: 13
 featured: true
-category: "Music"
+category: 'Music'
 lastVerified: 2026-03-19
 ---
 

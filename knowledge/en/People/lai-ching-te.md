@@ -1,11 +1,18 @@
 ---
-
-title: "Lai Ching-te: A public-health doctor who climbed from a mining town to the presidency"
-description: "Taiwan’s 16th president and the first sitting vice president elected to the office"
-category: "People"
-date: "2026-03-19"
-author: "Taiwan.md"
-tags: ["President", "Physician", "Politics", "Democratic Progressive Party", "Public Health", "Tainan"]
+title: 'Lai Ching-te: A public-health doctor who climbed from a mining town to the presidency'
+description: 'Taiwan’s 16th president and the first sitting vice president elected to the office'
+category: 'People'
+date: '2026-03-19'
+author: 'Taiwan.md'
+tags:
+  [
+    'President',
+    'Physician',
+    'Politics',
+    'Democratic Progressive Party',
+    'Public Health',
+    'Tainan',
+  ]
 readingTime: 12
 featured: true
 lastVerified: 2026-03-19
@@ -23,7 +30,7 @@ Lai Ching‑te (賴清德) is Taiwan’s 16th president. Born in 1959 in the min
 
 ### Three layers of medical training
 
-Lai’s biography is often told as a meritocratic ascent, but what is culturally significant in Taiwan is *how* that ascent was shaped by medicine. He studied rehabilitation medicine at National Taiwan University, completed a post‑baccalaureate medical program at National Cheng Kung University, and earned a Master of Public Health at Harvard. In Taiwanese public discourse, he is described as a rare doctor trained across “third medicine” (rehabilitation), “second medicine” (clinical practice), and “first medicine” (public health). The phrase matters because it frames him as a practitioner who thinks beyond the clinic and into population‑level policy.
+Lai’s biography is often told as a meritocratic ascent, but what is culturally significant in Taiwan is _how_ that ascent was shaped by medicine. He studied rehabilitation medicine at National Taiwan University, completed a post‑baccalaureate medical program at National Cheng Kung University, and earned a Master of Public Health at Harvard. In Taiwanese public discourse, he is described as a rare doctor trained across “third medicine” (rehabilitation), “second medicine” (clinical practice), and “first medicine” (public health). The phrase matters because it frames him as a practitioner who thinks beyond the clinic and into population‑level policy.
 
 His public‑health education also forged a particular political style: evidence‑based language, system‑level diagnosis, and an emphasis on prevention. Taiwanese media frequently note his preference for data, metrics, and “precision governance,” a term that echoes clinical decision‑making.
 
@@ -52,6 +59,7 @@ Lai served four terms as legislator. He gained a reputation for meticulous polic
 Tainan is Taiwan’s oldest city and a symbol of cultural memory. Lai’s two terms as mayor rebranded the city as both heritage capital and experimental laboratory. He promoted the “Tainan 400” cultural branding campaign, expanded preservation of historic sites, and encouraged creative industries. He also pushed solar energy and smart‑city infrastructure, framing Tainan as a livable, low‑carbon city.
 
 Key initiatives included:
+
 - **Cultural governance**: city branding, museum networks, and historic district revitalization
 - **Digital administration**: early 4G rollout and open‑data pilots
 - **Energy transition**: aggressive solar deployment and green‑city targets

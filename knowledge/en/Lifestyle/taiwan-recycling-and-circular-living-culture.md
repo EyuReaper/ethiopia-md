@@ -1,13 +1,20 @@
 ---
-title: "Taiwan’s Recycling and Circular‑Living Culture"
-description: "From “Garbage Island” to global exemplar—how Taiwan turned waste into a civic ritual."
-tags: [Zero Waste, 4-in-1 Recycling, Environmental Culture, Circular Economy, Green Living]
+title: 'Taiwan’s Recycling and Circular‑Living Culture'
+description: 'From “Garbage Island” to global exemplar—how Taiwan turned waste into a civic ritual.'
+tags:
+  [
+    Zero Waste,
+    4-in-1 Recycling,
+    Environmental Culture,
+    Circular Economy,
+    Green Living,
+  ]
 lastVerified: 2026-03-19
 ---
 
 # Taiwan’s Recycling and Circular‑Living Culture
 
-At night in Taiwan, a familiar melody floats down the street: *Für Elise* or *Maiden’s Prayer*. When the music arrives, people step outside carrying neatly separated bags—general trash, recyclables, and food waste. This is not just garbage collection. It is a daily civic ritual, a social choreography that transformed Taiwan from “Garbage Island” into one of the world’s most recognized recycling success stories.
+At night in Taiwan, a familiar melody floats down the street: _Für Elise_ or _Maiden’s Prayer_. When the music arrives, people step outside carrying neatly separated bags—general trash, recyclables, and food waste. This is not just garbage collection. It is a daily civic ritual, a social choreography that transformed Taiwan from “Garbage Island” into one of the world’s most recognized recycling success stories.
 
 Behind this small scene lies a decades‑long environmental revolution. In the 1980s, Taiwan’s rapid industrialization overwhelmed its waste systems. Rivers became dumping grounds, trash mounds rose along coastlines, and plastic flowed into the sea. International media called Taiwan a “garbage island”—a painful nickname, yet not inaccurate. The crisis forced a national rethink: waste was no longer an afterthought but a public policy emergency.
 
@@ -17,7 +24,7 @@ In the mid‑1990s, cities began implementing a policy known as **垃圾不落�
 
 It did more than clean the streets. It rewired social responsibility. When people must physically deliver what they throw away, they begin to question how much they throw away. The policy turned waste into a personal, visible act rather than an invisible disposal.
 
-The music‑playing garbage truck became a symbol of this change. What started as a signal system became a cultural icon, one that even foreign visitors remember. The sound of *Für Elise* now evokes not only nostalgia but also Taiwan’s collective environmental discipline.
+The music‑playing garbage truck became a symbol of this change. What started as a signal system became a cultural icon, one that even foreign visitors remember. The sound of _Für Elise_ now evokes not only nostalgia but also Taiwan’s collective environmental discipline.
 
 ## The 4‑in‑1 Recycling Program
 

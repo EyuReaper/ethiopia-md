@@ -1,12 +1,20 @@
 ---
-title: "Taiwan’s Music Industry in the Streaming Era: From Record Stores to Platforms"
-description: "How Taiwan moved from a record‑store golden age through the piracy crash to launching KKBOX—one of the world’s first legal streaming services—and what that shift means for artists, audiences, and culture today."
+title: 'Taiwan’s Music Industry in the Streaming Era: From Record Stores to Platforms'
+description: 'How Taiwan moved from a record‑store golden age through the piracy crash to launching KKBOX—one of the world’s first legal streaming services—and what that shift means for artists, audiences, and culture today.'
 date: 2026-03-19
-tags: ["music industry", "streaming", "KKBOX", "digital music", "record stores", "indie music"]
-author: "Taiwan.md"
+tags:
+  [
+    'music industry',
+    'streaming',
+    'KKBOX',
+    'digital music',
+    'record stores',
+    'indie music',
+  ]
+author: 'Taiwan.md'
 readingTime: 15
 featured: true
-category: "Music"
+category: 'Music'
 lastVerified: 2026-03-19
 ---
 
@@ -26,7 +34,7 @@ Taiwan’s transition is a leading case study in the Chinese‑language music wo
 
 ### Record Stores as Cultural Hubs
 
-In the 1990s, Taiwan had more than 3,000 record stores. Chains like **玫瑰大眾 (Rose)** and **佳佳 (Jia Jia)** sat alongside independent shops, and Fridays were release days when fans lined up for new albums. A hit album could sell hundreds of thousands of copies. **Jay Chou (周杰倫)** sold over 300,000 copies of his debut *Jay* in Taiwan alone; **Mayday (五月天)** reached half a million for *The Best of Both Worlds*.
+In the 1990s, Taiwan had more than 3,000 record stores. Chains like **玫瑰大眾 (Rose)** and **佳佳 (Jia Jia)** sat alongside independent shops, and Fridays were release days when fans lined up for new albums. A hit album could sell hundreds of thousands of copies. **Jay Chou (周杰倫)** sold over 300,000 copies of his debut _Jay_ in Taiwan alone; **Mayday (五月天)** reached half a million for _The Best of Both Worlds_.
 
 Record stores were more than retail—they were social spaces, recommendation engines, and a gateway to music literacy.
 
@@ -78,7 +86,7 @@ Early skepticism from labels and network limitations were real, but KKBOX’s pe
 
 ### Spotify’s Entry (2013)
 
-Spotify’s arrival brought algorithmic discovery and social sharing to Taiwan. Features like *Discover Weekly* changed how fans found music.
+Spotify’s arrival brought algorithmic discovery and social sharing to Taiwan. Features like _Discover Weekly_ changed how fans found music.
 
 ### Apple Music and YouTube Music
 
@@ -101,7 +109,7 @@ Streaming + digital aggregators (DistroKid, TuneCore) + local platforms like **S
 
 ### A Canonical Indie Success Story
 
-**草東沒有派對 (No Party For Cao Dong)** broke out via streaming and social media. Their album *The Servile* (2016) and hit “大風吹” reached tens of millions of views. The story became proof that a grassroots band could go mainstream in the streaming era.
+**草東沒有派對 (No Party For Cao Dong)** broke out via streaming and social media. Their album _The Servile_ (2016) and hit “大風吹” reached tens of millions of views. The story became proof that a grassroots band could go mainstream in the streaming era.
 
 ### New Revenue Mix
 

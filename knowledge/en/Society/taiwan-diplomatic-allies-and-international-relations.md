@@ -1,10 +1,16 @@
 ---
-
-title: "Taiwan’s Diplomatic Allies and International Relations"
-description: "From 70 allies to 12, Taiwan sustains global presence without a UN seat through informal diplomacy, strategic industries, and democratic partnerships."
+title: 'Taiwan’s Diplomatic Allies and International Relations'
+description: 'From 70 allies to 12, Taiwan sustains global presence without a UN seat through informal diplomacy, strategic industries, and democratic partnerships.'
 date: 2026-03-19
-tags: ["diplomacy", "allies", "international relations", "cross-strait", "United Nations"]
-author: "Taiwan.md Contributors"
+tags:
+  [
+    'diplomacy',
+    'allies',
+    'international relations',
+    'cross-strait',
+    'United Nations',
+  ]
+author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: true
 lastVerified: 2026-03-19
@@ -23,17 +29,21 @@ Taiwan (Republic of China) currently has **12 formal diplomatic allies**, one of
 According to Taiwan’s Ministry of Foreign Affairs, Taiwan’s allies are concentrated in the Pacific, Latin America, the Caribbean, and one in Europe.
 
 ### Asia‑Pacific (3)
+
 - **Marshall Islands** (1998)
 - **Palau** (1999)
 - **Tuvalu** (1979)
 
 ### Africa (1)
+
 - **Eswatini** (1968) — Taiwan’s only ally in Africa
 
 ### Europe (1)
+
 - **Holy See (Vatican City)** (1942) — Taiwan’s longest‑standing ally in Europe
 
 ### Latin America & Caribbean (7)
+
 - **Belize** (1989)
 - **Guatemala** (1933)
 - **Haiti** (1956)
@@ -65,12 +75,15 @@ This decline was not a single event but a structural shift in global politics an
 Three structural forces explain the trend:
 
 ### 1) UN Resolution 2758 (1971)
+
 The UN General Assembly recognized the People’s Republic of China as the sole legitimate representative of China. Taiwan’s loss of UN representation created a diplomatic “either/or” choice for other nations.
 
 ### 2) China’s diplomatic pressure
+
 The PRC enforces the **“One China” policy**: countries cannot maintain formal relations with both Beijing and Taipei. As China’s economic influence expanded, many governments shifted recognition for access to markets, infrastructure financing, and investment.
 
 ### 3) The realist calculus of small states
+
 Most of Taiwan’s remaining allies are smaller countries. For them, switching recognition can be a survival strategy rather than a political statement—seeking larger aid packages and development support.
 
 ---
@@ -92,21 +105,27 @@ Taiwan’s diplomatic posture has shifted by administration:
 Taiwan’s real international influence operates outside formal recognition.
 
 ### 1) Overseas offices (110+)
+
 Taiwan maintains more than 110 overseas offices. They function as de‑facto embassies, handling visas, trade, cultural exchange, and consular services. Examples include:
+
 - **American Institute in Taiwan (AIT)** and **TECRO** in the U.S.
 - **Japan‑Taiwan Exchange Association** and Taiwan’s representative offices in Japan
 - Representative offices across Europe under various names
 
 ### 2) Participation in international organizations
+
 Taiwan is not a UN member, but it participates in key organizations under special names:
+
 - **WTO** as the “Separate Customs Territory of Taiwan, Penghu, Kinmen and Matsu.”
 - **APEC** as “Chinese Taipei.”
 - **WHO / World Health Assembly**: previously participated as an observer (2009–2016) but currently excluded.
 
 ### 3) Semiconductor diplomacy (the “silicon shield”)
+
 TSMC produces over 90% of the world’s advanced semiconductors. This creates a strategic dependence—major economies need Taiwan’s chips. The term **“silicon shield” (矽盾)** refers to the deterrent effect of this economic centrality.
 
 ### 4) Democracy and values diplomacy
+
 Taiwan consistently ranks among Asia’s top democracies. In recent years, lawmakers and civic delegations from the U.S. and Europe have increased visits, emphasizing shared values rather than formal recognition.
 
 ---
@@ -119,6 +138,7 @@ A common question: what if Taiwan lost all formal allies? The reality is that th
 - Japan lacks formal ties but maintains deep economic and cultural connections.
 
 The risks would be mostly symbolic and institutional:
+
 - Fewer official seats in international forums
 - Greater exclusion from global organizations
 - Increased ambiguity in international legal status
@@ -140,13 +160,16 @@ Taiwan, however, has learned to operate in “informal” space. This is part of
 ## Further reading
 
 ### Official sources
+
 - [Ministry of Foreign Affairs — Diplomatic Allies](https://www.mofa.gov.tw/AlliesIndex.aspx?n=167&sms=33)
 - [Ministry of Foreign Affairs — Overseas Offices](https://www.mofa.gov.tw/OverseasOffice.aspx?n=168&sms=87)
 
 ### News and analysis
+
 - [PTS News — Honduras breaks ties: a timeline of Taiwan’s allies](https://news.pts.org.tw/article/627439)
 - [Business Today — What happens if Taiwan has zero allies?](https://www.businesstoday.com.tw/article/category/80392/post/201909200015/)
 
 ### Reference
+
 - Wikipedia — [Timeline of ROC Foreign Relations](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%A4%96%E4%BA%A4%E9%97%9C%E4%BF%82%E5%B9%B4%E8%A1%A8)
 - Wikipedia — [Foreign relations of Taiwan](https://en.wikipedia.org/wiki/Foreign_relations_of_Taiwan)

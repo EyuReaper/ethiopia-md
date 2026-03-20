@@ -1,8 +1,8 @@
 ---
-title: "Tai-Yu Wu (吳大猷)"
-description: "A pioneering theoretical physicist and long-time president of Academia Sinica who shaped the foundations of modern Chinese physics."
+title: 'Tai-Yu Wu (吳大猷)'
+description: 'A pioneering theoretical physicist and long-time president of Academia Sinica who shaped the foundations of modern Chinese physics.'
 date: 2026-03-19
-tags: ["people", "scientists", "physics", "education"]
+tags: ['people', 'scientists', 'physics', 'education']
 lastVerified: 2026-03-19
 featured: true
 ---
@@ -43,7 +43,7 @@ The impact of his leadership is still felt today. Taiwan’s later rise in techn
 
 Wu carried a strong belief that science must serve both truth and society. His famous remark, “Science has no borders, but scientists have a homeland,” captures a balance between universal knowledge and civic responsibility. He rejected academic dishonesty and insisted that integrity was the core of scientific work.
 
-In retirement, he continued to advise policymakers and mentor younger scientists. His memoir, *A Scientist’s Journey* (《一個科學工作者的經歷》), remains a key reference for understanding the development of modern Chinese science and the intellectual history of the 20th century.
+In retirement, he continued to advise policymakers and mentor younger scientists. His memoir, _A Scientist’s Journey_ (《一個科學工作者的經歷》), remains a key reference for understanding the development of modern Chinese science and the intellectual history of the 20th century.
 
 ## Lasting Significance
 

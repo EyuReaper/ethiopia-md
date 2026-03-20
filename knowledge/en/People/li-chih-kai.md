@@ -1,9 +1,8 @@
 ---
-
-title: "Li Chih-Kai (李智凱)"
-description: "Taiwanese gymnast and Tokyo 2020 Olympic pommel horse silver medalist, known as the ‘Tumbling Boy’ from a landmark documentary"
+title: 'Li Chih-Kai (李智凱)'
+description: 'Taiwanese gymnast and Tokyo 2020 Olympic pommel horse silver medalist, known as the ‘Tumbling Boy’ from a landmark documentary'
 date: 2026-03-20
-tags: ["gymnastics", "Olympics", "pommel horse", "athlete", "Taiwan"]
+tags: ['gymnastics', 'Olympics', 'pommel horse', 'athlete', 'Taiwan']
 lastVerified: 2026-03-20
 ---
 
@@ -11,7 +10,7 @@ lastVerified: 2026-03-20
 
 On August 1, 2021, inside Tokyo’s Ariake Gymnastics Centre, Li Chih‑Kai completed a nearly flawless pommel horse routine. When he landed, the arena erupted. His Olympic silver medal was a historic first for Taiwan’s men’s gymnastics—and the culmination of a story that had been documented since childhood.
 
-Li is one of the main subjects of the documentary *Jump! Boys* (翻滾吧！男孩), a film that followed a group of young gymnasts from a grassroots training camp in southern Taiwan. For many Taiwanese viewers, his Tokyo medal was not just a sporting achievement but the endpoint of a 16‑year coming‑of‑age narrative.
+Li is one of the main subjects of the documentary _Jump! Boys_ (翻滾吧！男孩), a film that followed a group of young gymnasts from a grassroots training camp in southern Taiwan. For many Taiwanese viewers, his Tokyo medal was not just a sporting achievement but the endpoint of a 16‑year coming‑of‑age narrative.
 
 ## A Childhood in Motion
 
@@ -45,7 +44,7 @@ The medal was not only an athletic achievement but a cultural one. It symbolized
 
 ## More Than a Medal: A Cultural Narrative
 
-Li’s story resonates in Taiwan because it is a story of perseverance built on community. The *Jump! Boys* documentary revealed the realities of grassroots training—limited funding, few facilities, and intense physical demands. The fact that one of those boys reached Olympic success gave national visibility to a sport often overshadowed by baseball and basketball.
+Li’s story resonates in Taiwan because it is a story of perseverance built on community. The _Jump! Boys_ documentary revealed the realities of grassroots training—limited funding, few facilities, and intense physical demands. The fact that one of those boys reached Olympic success gave national visibility to a sport often overshadowed by baseball and basketball.
 
 Li’s journey also fits a broader Taiwanese narrative: ordinary beginnings, long‑term persistence, and quiet determination rather than spectacle. His persona is modest and focused, which aligns with a cultural preference for humility over self‑promotion.
 

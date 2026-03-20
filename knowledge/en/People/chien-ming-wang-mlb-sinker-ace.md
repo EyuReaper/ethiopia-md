@@ -1,8 +1,9 @@
 ---
 title: "Chien-Ming Wang: Taiwan's Sinker Ball Ace Who Conquered MLB"
-description: "The Taiwanese pitcher whose devastating sinker ball dominated Major League Baseball, creating a nationwide phenomenon and inspiring a generation"
+description: 'The Taiwanese pitcher whose devastating sinker ball dominated Major League Baseball, creating a nationwide phenomenon and inspiring a generation'
 date: 2026-03-20
-tags: ["Chien-Ming Wang", "baseball", "MLB", "New York Yankees", "Taiwan sports"]
+tags:
+  ['Chien-Ming Wang', 'baseball', 'MLB', 'New York Yankees', 'Taiwan sports']
 lastVerified: 2026-03-20
 ---
 
@@ -83,6 +84,6 @@ Today's young Taiwanese athletes, whether in baseball or other sports, can look 
 ## References
 
 - [MLB Official Records: Chien-Ming Wang Career Statistics](https://www.mlb.com/player/chien-ming-wang-457705) — Complete MLB performance records
-- [New York Yankees Team History](https://www.mlb.com/yankees/history) — Yankees organizational archives  
+- [New York Yankees Team History](https://www.mlb.com/yankees/history) — Yankees organizational archives
 - [Taiwan Baseball Hall of Fame](http://www.baseballhall.org.tw/) — Taiwan baseball historical documentation
 - [World Baseball Classic Archives](https://www.worldbaseballclassic.com/) — International competition records

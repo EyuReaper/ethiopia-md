@@ -1,10 +1,18 @@
 ---
-title: "Emerging Religions and Spiritual Culture in Taiwan"
+title: 'Emerging Religions and Spiritual Culture in Taiwan'
 description: "Exploring the rise and development of Taiwan's post-war new religious movements, including the profound social and cultural impact of the Buddhist 'Four Great Mountains' and Yiguandao religious groups"
 date: 2026-03-18
-tags: ["religion", "Buddhism", "Yiguandao", "Humanistic Buddhism", "spiritual culture", "charity work"]
-category: "Culture"
-author: "Taiwan.md"
+tags:
+  [
+    'religion',
+    'Buddhism',
+    'Yiguandao',
+    'Humanistic Buddhism',
+    'spiritual culture',
+    'charity work',
+  ]
+category: 'Culture'
+author: 'Taiwan.md'
 readingTime: 19
 featured: true
 lastVerified: 2026-03-19
@@ -61,6 +69,7 @@ Post-war Taiwanese society underwent rapid modernization transformation, providi
 **Core Philosophy**: Tzu Chi emphasizes the spirit of "bamboo bank years," advocating accumulating small love into great love from daily life. Master Cheng Yen's concept of "for Buddhism, for all beings" views charity work as an important path to spiritual cultivation.
 
 **Four Major Missions**:
+
 - **Charity Mission**: Starting from Hualien, gradually expanding charity assistance throughout Taiwan and worldwide
 - **Medical Mission**: Establishing modern hospitals, realizing medical philosophy that balances "saving lives" and "saving hearts"
 - **Education Mission**: Creating educational institutions like Tzu Chi University and Tzu Chi University of Science and Technology

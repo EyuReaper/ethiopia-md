@@ -1,10 +1,18 @@
 ---
 title: "The Rise of AI Island: Taiwan's Artificial Intelligence Development and Future Strategy"
 description: "From the AlphaGo shock to the generative AI wave, how Taiwan uses 'small nation, big strategy' to find its unique position in artificial intelligence"
-category: "Technology"
-date: "2026-03-19"
-author: "Taiwan.md"
-tags: ["artificial intelligence", "AI policy", "semiconductors", "technology policy", "digital transformation", "innovation"]
+category: 'Technology'
+date: '2026-03-19'
+author: 'Taiwan.md'
+tags:
+  [
+    'artificial intelligence',
+    'AI policy',
+    'semiconductors',
+    'technology policy',
+    'digital transformation',
+    'innovation',
+  ]
 readingTime: 15
 featured: true
 lastVerified: 2026-03-19
@@ -25,6 +33,7 @@ Taiwan adopts an "AI Small Nation, Big Strategy" approach in artificial intellig
 In March 2016, Google DeepMind's AlphaGo defeated world Go champion Lee Sedol. This "human-machine battle" not only shocked the world but became a crucial awakening moment for Taiwan's AI development. When the world witnessed AI's first victory over a human grandmaster in complex strategic games, Taiwan's tech community began to realize: this wasn't just technological evolution, but the "Fourth Industrial Revolution" that could reshape global industrial competition.
 
 **AlphaGo's Multiple Meanings:**
+
 - Proved the immense potential of deep learning and big data
 - Showed AI was no longer limited to simple calculations but could handle complex decisions
 - Foreshadowed AI's transition from laboratories to practical applications
@@ -41,6 +50,7 @@ After the AlphaGo event, Taiwan's government and industry quickly reached consen
 Taiwan's greatest competitive advantage in AI development comes from its world-leading semiconductor manufacturing capabilities. **Taiwan Semiconductor Manufacturing Company (TSMC)** is not only the world's largest contract chip manufacturer but also a key partner in AI chip production:
 
 **Strategic Multiplier Effect of Semiconductors × AI:**
+
 - **AI Chip Manufacturing**: Contract manufacturing of high-end AI chips for giants like NVIDIA, Google, and Apple
 - **Edge Computing Advantage**: Developing low-power, high-performance edge AI chips
 - **AIoT Integration**: "Smart IoT" applications combining Internet of Things and AI
@@ -50,23 +60,25 @@ Taiwan's greatest competitive advantage in AI development comes from its world-l
 
 Taiwan possesses a complete ICT (Information and Communications Technology) industry chain from chip design to system integration, providing ideal conditions for AI industrialization:
 
-| Industry Segment | Representative Companies | AI Applications |
-|------------------|-------------------------|-----------------|
-| **Chip Design** | MediaTek, Realtek | AI-specific chips, NPU |
-| **Wafer Manufacturing** | TSMC, UMC | Advanced process AI chips |
-| **Assembly & Testing** | ASE Group, ChipMOS | AI chip packaging and testing |
-| **System Assembly** | Foxconn, Quanta, Inventec | AI servers, edge devices |
-| **Software Applications** | Trend Micro, III | AI cybersecurity, smart applications |
+| Industry Segment          | Representative Companies  | AI Applications                      |
+| ------------------------- | ------------------------- | ------------------------------------ |
+| **Chip Design**           | MediaTek, Realtek         | AI-specific chips, NPU               |
+| **Wafer Manufacturing**   | TSMC, UMC                 | Advanced process AI chips            |
+| **Assembly & Testing**    | ASE Group, ChipMOS        | AI chip packaging and testing        |
+| **System Assembly**       | Foxconn, Quanta, Inventec | AI servers, edge devices             |
+| **Software Applications** | Trend Micro, III          | AI cybersecurity, smart applications |
 
 ## National Strategy: Policy Framework for "AI Small Nation, Big Strategy"
 
 ### Phase One: Foundation Period (2017-2020)
 
 **Taiwan AI Action Plan (2018-2021)**
+
 - **Total Budget**: NT$10.07 billion (4 years)
 - **Five Strategies**: AI talent, technology, applications, industry, institutions
 
 **Core Construction Achievements:**
+
 1. **Taiwan AI Academy** (Established 2018)
    - President: Dr. Ethan Tu (former Google Taiwan Managing Director)
    - Trained over 7,000 AI talents in 4 years
@@ -84,10 +96,12 @@ Taiwan possesses a complete ICT (Information and Communications Technology) indu
 ### Phase Two: Acceleration Period (2021-2024)
 
 **AI Action Plan 2.0**
+
 - **Expanded Investment**: NT$20 billion over four years
 - **Key Areas**: Precision health, smart manufacturing, smart cities, digital governance
 
 **Breakthrough Developments:**
+
 1. **International AI Cooperation**
    - Established AI partnerships with the US, Japan, and EU
    - Participation in international AI standard-setting
@@ -108,11 +122,13 @@ Taiwan possesses a complete ICT (Information and Communications Technology) indu
 Taiwan combines National Health Insurance big data with its excellent healthcare system, creating unique advantages in medical AI:
 
 **Representative Achievements:**
+
 - **DeepQ**: AI diagnosis for diabetic retinopathy with 95% accuracy
 - **Acer Medical**: Blood smear AI analysis, exported to Southeast Asia
 - **NTU Hospital AI Center**: COVID-19 AI diagnostic system
 
 **Competitive Advantages:**
+
 - Complete National Health Insurance database (23 million people, 23 years of data)
 - High-quality healthcare system
 - Relatively open regulatory environment
@@ -122,11 +138,13 @@ Taiwan combines National Health Insurance big data with its excellent healthcare
 Taiwan's manufacturing industry possesses advantages in precision machining and quality control, with effective AI implementation enhancing competitiveness:
 
 **Application Cases:**
+
 - **TSMC**: AI-optimized wafer processes, improving yield rates
 - **Foxconn**: Smart factory AI quality inspection
 - **Delta Electronics**: AI industrial control solutions
 
 **Technical Features:**
+
 - Edge computing combined with process control
 - Machine vision quality inspection
 - Predictive maintenance systems
@@ -136,6 +154,7 @@ Taiwan's manufacturing industry possesses advantages in precision machining and 
 Taiwan's high urban density and complete digital infrastructure make it an ideal testing ground for smart city AI applications:
 
 **Benchmark Cases:**
+
 - **Taoyuan City**: AI traffic signal optimization, reducing wait times by 30%
 - **Taipei City**: AI garbage truck route planning
 - **Tainan City**: AI dengue fever epidemic warning system
@@ -145,6 +164,7 @@ Taiwan's high urban density and complete digital infrastructure make it an ideal
 Taiwan's Financial Supervisory Commission established a "regulatory sandbox" system, providing testing environments for FinTech and AI financial innovation:
 
 **Innovative Applications:**
+
 - **AI Risk Control**: Credit scoring, anti-money laundering detection
 - **Robo-advisors**: Personalized investment recommendations
 - **InsurTech**: Claims automation, insurance product recommendations
@@ -154,6 +174,7 @@ Taiwan's Financial Supervisory Commission established a "regulatory sandbox" sys
 Combining IoT sensors and AI analysis, Taiwan developed smart solutions suitable for small-scale precision agriculture:
 
 **Technical Highlights:**
+
 - **AI Pest and Disease Diagnosis**: Crop image recognition
 - **Smart Greenhouses**: Automatic environmental parameter control
 - **Agricultural Sales Prediction**: Demand forecasting and price analysis
@@ -165,11 +186,13 @@ Combining IoT sensors and AI analysis, Taiwan developed smart solutions suitable
 Led by Taiwan AI Academy, the talent cultivation program created a unique "Engineer + AI" training model:
 
 **Training Features:**
+
 - **Industry-oriented**: Courses directly aligned with enterprise needs
 - **Practice-focused**: 70% hands-on, 30% theory
 - **Multiple Channels**: Technical leader classes, manager classes, engineer classes
 
 **4-Year Results (2018-2022):**
+
 - Trained over 7,000 students
 - Collaborated with over 300 companies
 - 85% student career transition success rate
@@ -178,16 +201,17 @@ Led by Taiwan AI Academy, the talent cultivation program created a unique "Engin
 
 Taiwan universities rapidly established AI-related programs and graduate schools:
 
-| University | AI School/Graduate Institute | Specialty Areas |
-|------------|---------------------------|-----------------|
-| **National Taiwan University** | AI Research College | Medical AI, autonomous vehicles |
-| **National Tsing Hua University** | AI School | AI chip design |
-| **National Yang Ming Chiao Tung University** | AI School | 5G+AI, intelligent transportation |
-| **National Cheng Kung University** | AI System Center | Manufacturing AI |
+| University                                   | AI School/Graduate Institute | Specialty Areas                   |
+| -------------------------------------------- | ---------------------------- | --------------------------------- |
+| **National Taiwan University**               | AI Research College          | Medical AI, autonomous vehicles   |
+| **National Tsing Hua University**            | AI School                    | AI chip design                    |
+| **National Yang Ming Chiao Tung University** | AI School                    | 5G+AI, intelligent transportation |
+| **National Cheng Kung University**           | AI System Center             | Manufacturing AI                  |
 
 ### International Talent Attraction
 
 Taiwan actively attracts international AI talent:
+
 - **Yushan Scholar Program**: Attracting top AI scholars to Taiwan
 - **Act for the Recruitment and Employment of Foreign Professional Talent**: Relaxed work permits for AI talent
 - **Startup Visa**: Encouraging international AI teams to start businesses in Taiwan
@@ -225,11 +249,13 @@ The number of AI startups in Taiwan grew from fewer than 50 in 2016 to over 400 
 Taiwan's traditional large enterprises actively adopt AI technology:
 
 **Manufacturing Exemplars:**
+
 - **TSMC**: AI process optimization, 30% productivity increase
 - **Delta Electronics**: AI energy-saving solutions, 20% power reduction
 - **AU Optronics**: AI quality inspection, 15% yield improvement
 
 **Service Industry Innovation:**
+
 - **Chunghwa Telecom**: AI customer service, network optimization
 - **Cathay Financial Holdings**: AI wealth management, risk control
 - **7-Eleven**: AI inventory replenishment, consumer behavior analysis
@@ -239,6 +265,7 @@ Taiwan's traditional large enterprises actively adopt AI technology:
 ### Taiwan-US AI Cooperation
 
 **Key Cooperation Projects:**
+
 - **Semiconductor AI Chips**: Deep collaboration with US tech giants
 - **Cybersecurity AI**: Joint efforts against cyber threats
 - **Medical AI**: FDA certification and technical exchanges
@@ -246,6 +273,7 @@ Taiwan's traditional large enterprises actively adopt AI technology:
 ### Taiwan-Japan AI Partnership
 
 **Cooperation Areas:**
+
 - **Smart Manufacturing**: Toyota, Panasonic AI R&D in Taiwan
 - **Long-term Care Technology**: Addressing aging society challenges
 - **Disaster Prevention AI**: Earthquake and typhoon warning systems
@@ -297,12 +325,14 @@ Taiwan actively participates in EU AI ethics standard-setting, demonstrating com
 ### "AI Taiwan" Strategic Goals
 
 **Quantitative Targets (2030):**
+
 - AI industry output value reaches NT$1 trillion
 - AI talent cultivation: 100,000 people
 - AI unicorn companies: 10
 - Global AI talent competitiveness ranking: Top 5
 
 **Qualitative Goals:**
+
 1. **Asia-Pacific AI Application Hub**: Become a major exporter of AI solutions in the Asia-Pacific region
 2. **AI Ethics Benchmark**: Establish international model for responsible AI development
 3. **AI + Manufacturing Global Standard**: "Made in Taiwan + AI" becomes quality assurance

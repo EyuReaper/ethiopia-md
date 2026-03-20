@@ -1,6 +1,6 @@
 ---
-title: "Annette Lu (Lu Hsiu-lien)"
-description: "Pioneer of Taiwan’s women’s movement and the first female vice president in the Chinese-speaking world"
+title: 'Annette Lu (Lu Hsiu-lien)'
+description: 'Pioneer of Taiwan’s women’s movement and the first female vice president in the Chinese-speaking world'
 date: 2026-03-19
 tags: [people, politics, women’s-movement, vice-president, Kaohsiung-Incident]
 lastVerified: 2026-03-19
@@ -16,17 +16,17 @@ Lu’s early years unfolded in an era when women’s education and professional 
 
 ## The “New Feminism” That Shocked a Conservative Society
 
-In the early 1970s, Taiwan was still defined by a Confucian, patriarchal social order in which women were expected to be “virtuous wives and good mothers.” Lu challenged this directly. In 1974 she published *New Feminism* (新女性主義), arguing that women must be recognized as full individuals before being defined by gender roles. Her slogan “Be a person first, then a woman” (做人第一，做女人第二) sparked intense controversy. Traditionalists saw it as an assault on social order, while many young women found in it a language for their own aspirations.
+In the early 1970s, Taiwan was still defined by a Confucian, patriarchal social order in which women were expected to be “virtuous wives and good mothers.” Lu challenged this directly. In 1974 she published _New Feminism_ (新女性主義), arguing that women must be recognized as full individuals before being defined by gender roles. Her slogan “Be a person first, then a woman” (做人第一，做女人第二) sparked intense controversy. Traditionalists saw it as an assault on social order, while many young women found in it a language for their own aspirations.
 
-Lu didn’t stop at writing. She founded *The Pioneer* publishing house (拓荒者出版社) and became a tireless lecturer, translating global feminist ideas into Taiwan’s local context. This was more than an import of Western feminism; it was an early effort to articulate a Taiwanese feminist discourse that spoke to local realities—family structures, labor markets, and political constraints under authoritarian rule.
+Lu didn’t stop at writing. She founded _The Pioneer_ publishing house (拓荒者出版社) and became a tireless lecturer, translating global feminist ideas into Taiwan’s local context. This was more than an import of Western feminism; it was an early effort to articulate a Taiwanese feminist discourse that spoke to local realities—family structures, labor markets, and political constraints under authoritarian rule.
 
-She also helped establish *Awakening* (婦女新知雜誌社), one of Taiwan’s earliest women’s organizations, which later became the Awakening Foundation. This organization continues to be a cornerstone of Taiwan’s gender-equality movement, and Lu’s role in its founding is widely regarded as foundational.
+She also helped establish _Awakening_ (婦女新知雜誌社), one of Taiwan’s earliest women’s organizations, which later became the Awakening Foundation. This organization continues to be a cornerstone of Taiwan’s gender-equality movement, and Lu’s role in its founding is widely regarded as foundational.
 
 ## From Feminist Activism to Democratic Resistance
 
-By the late 1970s, Lu came to believe that women’s rights could not be fully realized without political freedom. Taiwan was then under martial law, with strict limits on press, assembly, and opposition politics. Lu joined the *Dangwai* (黨外, “outside the party”) democratic movement, becoming a prominent figure in the fight for political liberalization.
+By the late 1970s, Lu came to believe that women’s rights could not be fully realized without political freedom. Taiwan was then under martial law, with strict limits on press, assembly, and opposition politics. Lu joined the _Dangwai_ (黨外, “outside the party”) democratic movement, becoming a prominent figure in the fight for political liberalization.
 
-Her activism led directly to the 1979 Kaohsiung Incident (美麗島事件), one of the defining events in Taiwan’s democratization. After a pro-democracy rally, Lu and other leaders of *Formosa Magazine* (美麗島雜誌) were arrested. She was convicted of “sedition” and sentenced to 12 years in prison. During nearly six years of incarceration at Jingmei and Tucheng detention centers, she continued to read, reflect, and write. The prison years did not silence her; they deepened her resolve.
+Her activism led directly to the 1979 Kaohsiung Incident (美麗島事件), one of the defining events in Taiwan’s democratization. After a pro-democracy rally, Lu and other leaders of _Formosa Magazine_ (美麗島雜誌) were arrested. She was convicted of “sedition” and sentenced to 12 years in prison. During nearly six years of incarceration at Jingmei and Tucheng detention centers, she continued to read, reflect, and write. The prison years did not silence her; they deepened her resolve.
 
 In 1985, she was released under a general amnesty ordered by President Chiang Ching-kuo. Her release came as Taiwan was slowly beginning to loosen political controls, and Lu immediately re-entered public life.
 

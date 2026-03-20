@@ -26,7 +26,7 @@ According to records, the earliest photo studio opened by a Taiwanese was "Erwo 
 
 ### From Pictorial Salon to Shinko Shashin (New Photography)
 
-Taiwanese photography during the Japanese era was initially influenced by the mainstream Japanese "Artistic Photography" (Pictorial Salon Photography). This style pursues pictorial beauty and emphasizes composition and mood. However, with the development of theory and equipment, some enthusiasts began to contact the more avant-garde "Shinko Shashin" (新興寫真術, *xīnxīng xiězhēn shù*).
+Taiwanese photography during the Japanese era was initially influenced by the mainstream Japanese "Artistic Photography" (Pictorial Salon Photography). This style pursues pictorial beauty and emphasizes composition and mood. However, with the development of theory and equipment, some enthusiasts began to contact the more avant-garde "Shinko Shashin" (新興寫真術, _xīnxīng xiězhēn shù_).
 
 Shinko Shashin emphasizes "realistic observation of street hunting," advocating that photography should directly face reality and record true living conditions rather than deliberately creating beautified images. The introduction of this concept injected the spirit of realism into Taiwanese photography, laying the foundation for the later development of documentary photography.
 
@@ -50,7 +50,7 @@ The most famous example is his "Headless Man" series from the 1960s. In these ph
 
 While Chang Chao-tang opened a new realm of modern photography with his experimental language, **Juan I-jong** (阮義忠, born 1950) added a warm human touch with his deep humanistic concern and poetic documentary style.
 
-Juan's most important work, *Man and Land* (人與土地, 1987), is hailed as a classic in the history of Taiwanese photography. It captures the true face of Taiwanese society during its transition in the 1970s and 80s. In an era of rapid economic development and social change, Juan chose to aim his lens at traditional lifestyles that were about to disappear, recording the simplest and truest state of the Taiwanese people.
+Juan's most important work, _Man and Land_ (人與土地, 1987), is hailed as a classic in the history of Taiwanese photography. It captures the true face of Taiwanese society during its transition in the 1970s and 80s. In an era of rapid economic development and social change, Juan chose to aim his lens at traditional lifestyles that were about to disappear, recording the simplest and truest state of the Taiwanese people.
 
 These photos depict rural pastoral scenery, the focused expressions of traditional craftsmen, and the innocent play of children. Juan used his keen observation and deep humanistic literacy to transform these ordinary moments into eternal works of art.
 
@@ -58,7 +58,7 @@ These photos depict rural pastoral scenery, the focused expressions of tradition
 
 ### Shen Chao-liang: Poet of Landscape and Memory
 
-Among contemporary Taiwanese photographers, **Shen Chao-liang** (沈昭良, born 1968) is one of the most internationally renowned. His works, from the early *STAGE* (台灣綜藝團) to the recent *Drifting* (漂流) series, show his deep observation of society and culture. The *STAGE* series records the situation of traditional performing arts in modern society, reflecting the complexity of Taiwan's cultural transition through marginalized performance groups.
+Among contemporary Taiwanese photographers, **Shen Chao-liang** (沈昭良, born 1968) is one of the most internationally renowned. His works, from the early _STAGE_ (台灣綜藝團) to the recent _Drifting_ (漂流) series, show his deep observation of society and culture. The _STAGE_ series records the situation of traditional performing arts in modern society, reflecting the complexity of Taiwan's cultural transition through marginalized performance groups.
 
 ### Challenges of the Digital Age
 
@@ -69,7 +69,9 @@ Entering the 21st century, the popularity of digital photography technology has 
 Reviewing the history of Taiwanese photography, we see not only technological progress and aesthetic evolution but also a microcosm of the changes in Taiwan's social culture. Taiwanese photographers have used their lenses to record the beauty and sorrow of this island and witnessed the struggle and growth of the Taiwanese people. Their works are not only artistic creations but also cultural heritage, an important part of the collective memory of the Taiwanese people.
 
 ---
+
 **References:**
-- Kuo Li-hsin, *Realism and Its Discontents: Essays on Taiwanese Photography*
+
+- Kuo Li-hsin, _Realism and Its Discontents: Essays on Taiwanese Photography_
 - National Center of Photography and Images (NCPI), Taiwan
 - Representative works of Chang Chao-tang, Juan I-jong, and Shen Chao-liang.

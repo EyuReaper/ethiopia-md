@@ -1,11 +1,18 @@
 ---
-
-title: "Taiwan’s New Religious Movements and Spiritual Culture"
-description: "A cultural translation of Taiwan’s postwar religious revival—Buddhist ‘Four Great Mountains,’ Yiguandao, and the ways faith reshaped civic life, charity, and everyday ethics."
+title: 'Taiwan’s New Religious Movements and Spiritual Culture'
+description: 'A cultural translation of Taiwan’s postwar religious revival—Buddhist ‘Four Great Mountains,’ Yiguandao, and the ways faith reshaped civic life, charity, and everyday ethics.'
 date: 2026-03-18
-tags: ["religion", "Buddhism", "Yiguandao", "Humanistic Buddhism", "spiritual culture", "charity"]
-category: "Culture"
-author: "Taiwan.md"
+tags:
+  [
+    'religion',
+    'Buddhism',
+    'Yiguandao',
+    'Humanistic Buddhism',
+    'spiritual culture',
+    'charity',
+  ]
+category: 'Culture'
+author: 'Taiwan.md'
 readingTime: 19
 featured: true
 lastVerified: 2026-03-19

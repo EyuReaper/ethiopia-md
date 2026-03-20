@@ -1,7 +1,6 @@
 ---
-
-title: "He Feipeng (何飛鵬)"
-description: "Founder of Cite Media Group and a key architect of Taiwan’s publishing industry—how He Feipeng guided print culture into the digital age"
+title: 'He Feipeng (何飛鵬)'
+description: 'Founder of Cite Media Group and a key architect of Taiwan’s publishing industry—how He Feipeng guided print culture into the digital age'
 date: 2026-03-19
 tags: [publishing, media, digital-transformation, management]
 lastVerified: 2026-03-19
@@ -24,6 +23,7 @@ He often emphasizes that media is not just about distribution, but about judgmen
 In 1996, He founded Cite Media Group with a bold vision: to create the largest Chinese‑language publishing group in the world. His strategy was not to build one monolithic brand, but a constellation of specialized imprints serving different readers.
 
 Cite grew by combining:
+
 - **Brand diversification**: different imprints for business, lifestyle, literature, and culture
 - **Distribution strategy**: building strong channels across bookstores, convenience stores, and later, online platforms
 - **Editorial specialization**: recruiting editors who understood distinct readerships and could curate high‑quality content
@@ -38,7 +38,7 @@ He actively acquired translation rights for international bestsellers, ensuring 
 
 ## Magazines and the Power of Curation
 
-Beyond books, Cite became a major player in magazines. Titles under the group include *Business Weekly* (商業周刊), *ELLE*, and *Cosmopolitan*, covering finance, fashion, and lifestyle. He’s argued that in an era of information overload, the role of editors becomes more—not less—important. Readers are not just looking for news; they need meaning and structure.
+Beyond books, Cite became a major player in magazines. Titles under the group include _Business Weekly_ (商業周刊), _ELLE_, and _Cosmopolitan_, covering finance, fashion, and lifestyle. He’s argued that in an era of information overload, the role of editors becomes more—not less—important. Readers are not just looking for news; they need meaning and structure.
 
 This emphasis on curation made Cite’s magazines influential in shaping public conversations, especially on business trends and consumer culture. It also positioned the group to experiment with multimedia storytelling as digital platforms expanded.
 
@@ -47,6 +47,7 @@ This emphasis on curation made Cite’s magazines influential in shaping public 
 He Feipeng recognized early that publishing could not survive by simply digitizing print content. Instead, he pushed for a full rethinking of how content is created and consumed in the digital era.
 
 His strategy included:
+
 - **Digital infrastructure**: investing in online bookstores and e‑book platforms
 - **Cross‑media formats**: blending text with audio, video, and interactive content
 - **Data‑informed decisions**: using sales and reader analytics to refine publishing choices

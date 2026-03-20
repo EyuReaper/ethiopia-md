@@ -1,12 +1,19 @@
 ---
-
-title: "Taiwan’s Political Landscape and Electoral System"
-description: "A field guide to Taiwan’s semi‑presidential constitution, its mixed electoral rules, and the civic culture that keeps turnout high in a geopolitically pressured democracy."
+title: 'Taiwan’s Political Landscape and Electoral System'
+description: 'A field guide to Taiwan’s semi‑presidential constitution, its mixed electoral rules, and the civic culture that keeps turnout high in a geopolitically pressured democracy.'
 date: 2026-03-18
-category: "Society"
-tags: ["political system", "electoral rules", "semi-presidentialism", "local governance", "civil society", "digital democracy"]
-author: "Taiwan.md Contributors"
-difficulty: "intermediate"
+category: 'Society'
+tags:
+  [
+    'political system',
+    'electoral rules',
+    'semi-presidentialism',
+    'local governance',
+    'civil society',
+    'digital democracy',
+  ]
+author: 'Taiwan.md Contributors'
+difficulty: 'intermediate'
 readingTime: 12
 featured: false
 lastVerified: 2026-03-19
@@ -23,11 +30,13 @@ lastVerified: 2026-03-19
 Taiwan’s government is built on the **Constitution of the Republic of China**, which has been amended seven times. While the original design features a five‑branch system (Five Powers), contemporary practice has evolved toward a more classic separation of powers.
 
 ### 1. The dual‑executive structure
+
 - **President (總統)**: Directly elected every four years. The president oversees national defense, foreign affairs, and cross‑strait policy. The president also appoints the premier (行政院院長) without legislative confirmation.
 - **Executive Yuan (行政院)**: The cabinet, led by the premier. It proposes policy, drafts budgets, and must remain accountable to the legislature. A legislative no‑confidence vote can force the premier to resign and may trigger the dissolution of the legislature.
 - **Legislative Yuan (立法院)**: Unicameral parliament responsible for lawmaking, budget oversight, and checks on the executive.
 
 ### 2. The Five Powers system in practice
+
 Taiwan still maintains constitutional bodies for the **Judicial Yuan**, **Examination Yuan**, and **Control Yuan**. In practice, however, governance has moved closer to a three‑branch model. Debates over streamlining or reforming the Examination and Control Yuan remain a recurring theme in constitutional reform discussions.
 
 ---
@@ -37,6 +46,7 @@ Taiwan still maintains constitutional bodies for the **Judicial Yuan**, **Examin
 Taiwan holds elections frequently. National and local elections alternate on a two‑year rhythm, creating a continuous civic pulse.
 
 ### 1. National elections
+
 - **Presidential election:** A single round, **first‑past‑the‑post** system. The winner takes office with the highest vote share, which often amplifies strategic voting and “lesser‑evil” coalitions.
 - **Legislative election (113 seats):** A **mixed system** known locally as **並立制**—a “parallel” system that combines district seats with party‑list seats:
   - **73 district seats**: Single‑member districts (one representative per district).
@@ -44,6 +54,7 @@ Taiwan holds elections frequently. National and local elections alternate on a t
   - **6 Indigenous seats**: Elected in multi‑member constituencies divided into **Plains Indigenous** and **Mountain Indigenous** categories—an institutional recognition of Taiwan’s Austronesian peoples.
 
 ### 2. Local elections (“Nine‑in‑One”)
+
 Every four years, Taiwan holds a combined local election commonly called **九合一** (“nine‑in‑one”). It elects mayors, county magistrates, city and county councilors, township heads, borough chiefs, and more—all in one mega‑cycle. This is where local issues and public trust are tested most directly.
 
 ---
@@ -53,12 +64,16 @@ Every four years, Taiwan holds a combined local election commonly called **九�
 Taiwan’s political identity is shaped by both history and international status, creating distinct dynamics.
 
 ### 1. Party system and identity politics
+
 For decades, politics was dominated by two camps:
+
 - **“Blue” (Kuomintang / KMT)** and **“Green” (Democratic Progressive Party / DPP)**—often divided by national identity and cross‑strait policy.
 - In recent years, **third‑force parties** (e.g., Taiwan People’s Party) have gained traction, reframing the debate around domestic issues such as housing, wages, and energy policy.
 
 ### 2. Civic society and digital democracy
+
 Taiwan’s civil society is unusually active. Two hallmarks stand out:
+
 - **g0v (零時政府)**: A civic‑tech community that “forks” government data to make it transparent and usable—an open‑source ethos applied to public life.
 - **Recall elections and referendums**: Taiwan has lower barriers for recalls and citizen‑initiated referendums than many democracies, keeping elected officials under continuous scrutiny.
 
@@ -87,4 +102,4 @@ Taiwan shows that democracy is not only about voting; it is about **continuous p
 - [Central Election Commission (CEC) Election Database](https://db.cec.gov.tw/) — historical election data since the 1980s
 - [National Laws Database: Constitution of the Republic of China](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0000001)
 - [g0v (零時政府)](https://g0v.tw/) — civic technology and open government efforts
-- Wang Ding‑ming et al., *Changes in Taiwan’s Electoral System and Voting Behavior* (see [Journal of Electoral Studies](https://jestw.nccu.edu.tw/))
+- Wang Ding‑ming et al., _Changes in Taiwan’s Electoral System and Voting Behavior_ (see [Journal of Electoral Studies](https://jestw.nccu.edu.tw/))

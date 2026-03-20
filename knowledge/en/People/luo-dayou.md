@@ -1,9 +1,8 @@
 ---
-
-title: "Luo Dayou (羅大佑)"
-description: "The godfather of Mandarin pop, whose songs chronicled Taiwan’s social changes from the 1980s onward"
+title: 'Luo Dayou (羅大佑)'
+description: 'The godfather of Mandarin pop, whose songs chronicled Taiwan’s social changes from the 1980s onward'
 date: 2026-03-19
-tags: ["music", "singer-songwriter", "social commentary", "Mandopop", "Taiwan"]
+tags: ['music', 'singer-songwriter', 'social commentary', 'Mandopop', 'Taiwan']
 lastVerified: 2026-03-19
 ---
 
@@ -13,7 +12,7 @@ Luo Dayou (羅大佑), born in Taipei in 1954, is widely regarded as the most in
 
 ## From Medicine to Music
 
-Luo studied medicine and graduated in 1976 from China Medical College (now China Medical University). He worked as a radiologist, but his passion for music pulled him toward composition and songwriting. The decisive turn came in 1982 with his debut album *Zhi Hu Zhe Ye* (之乎者也), a groundbreaking release that blended folk, rock, and pop with lyrics that challenged social conventions.
+Luo studied medicine and graduated in 1976 from China Medical College (now China Medical University). He worked as a radiologist, but his passion for music pulled him toward composition and songwriting. The decisive turn came in 1982 with his debut album _Zhi Hu Zhe Ye_ (之乎者也), a groundbreaking release that blended folk, rock, and pop with lyrics that challenged social conventions.
 
 The album’s impact was immediate. Tracks like “Lukang, the Small Town” (鹿港小鎮) depicted the loss and displacement felt by rural communities amid urbanization. The title song, “Zhi Hu Zhe Ye,” poked at an education system obsessed with rote learning. In an era when popular music avoided politics or critique, Luo’s work opened a new space: music as civic reflection.
 
@@ -25,7 +24,7 @@ Other works are overtly socio‑political. “Orphan of Asia” (亞細亞的孤
 
 ## A Distinct Musical Language
 
-Luo Dayou’s style fuses rock, folk, and pop with a strong emphasis on lyrical depth. He has always insisted that popular music should engage reality rather than escape it. His words are literary but accessible, and his melodies balance simplicity with tension—like a conversation that keeps asking, *what are we becoming?*
+Luo Dayou’s style fuses rock, folk, and pop with a strong emphasis on lyrical depth. He has always insisted that popular music should engage reality rather than escape it. His words are literary but accessible, and his melodies balance simplicity with tension—like a conversation that keeps asking, _what are we becoming?_
 
 As a producer, Luo helped shape the careers of artists such as Sylvia Chang (張艾嘉), Chyi Yu (潘越雲), and Jonathan Lee (李宗盛), becoming a pivotal force behind Taiwan’s 1980s–90s musical renaissance. His influence extends beyond his own discography, defining an era’s aesthetic and ethical sensibility.
 
@@ -33,7 +32,7 @@ As a producer, Luo helped shape the careers of artists such as Sylvia Chang (張
 
 Even in the 21st century, Luo remains active and relevant. His later works continue to respond to contemporary issues while retaining the clarity and moral focus of his early songs. Younger artists—such as Wu Bai (伍佰) and Chen Sheng (陳昇)—have cited him as a key inspiration, and his songs are frequently re‑interpreted by new generations.
 
-In 2020, he released the album *Home III* (家III), reaffirming his ability to write with urgency and grace. Few artists sustain such long‑term relevance without diluting their core voice; Luo’s career is a rare case of enduring integrity.
+In 2020, he released the album _Home III_ (家III), reaffirming his ability to write with urgency and grace. Few artists sustain such long‑term relevance without diluting their core voice; Luo’s career is a rare case of enduring integrity.
 
 ## Why Luo Matters in Taiwan’s Cultural Story
 

@@ -1,5 +1,5 @@
 ---
-title: "Traditional Arts of Taiwan: Living Vessels of Cultural Memory"
+title: 'Traditional Arts of Taiwan: Living Vessels of Cultural Memory'
 category: Art
 tags: [Traditional Arts, Folk Art, Puppetry, Taiwanese Opera, Cultural Heritage]
 date: 2026-03-20
@@ -15,7 +15,7 @@ Traditional arts in Taiwan serve as "living vessels" for the island’s collecti
 
 ### Huang Chun-hsiung and the Rise of Television Puppetry
 
-In 1970, when Huang Chun-hsiung's *The Scholar-Swordsman of Yunzhou* (雲州大儒俠) first aired on TTV, few predicted it would become a miracle in Taiwanese television history. The protagonist, **Shi Yan-wen**, achieved a staggering 97% viewership rating, sparking a nationwide frenzy. Huang elevated traditional glove puppetry from local theaters to the small screen, using exquisite puppet craftsmanship alongside innovative sound, lighting, and music, transforming a folk pastime into a national phenomenon.
+In 1970, when Huang Chun-hsiung's _The Scholar-Swordsman of Yunzhou_ (雲州大儒俠) first aired on TTV, few predicted it would become a miracle in Taiwanese television history. The protagonist, **Shi Yan-wen**, achieved a staggering 97% viewership rating, sparking a nationwide frenzy. Huang elevated traditional glove puppetry from local theaters to the small screen, using exquisite puppet craftsmanship alongside innovative sound, lighting, and music, transforming a folk pastime into a national phenomenon.
 
 This success was no accident. While inheriting the skills of his father, the legendary master **Huang Hai-dai**, Huang Chun-hsiung possessed a keen insight into modern media. He understood the unique properties of television, adjusting the narrative pace and enhancing visual effects to help this traditional art find its place in a new era.
 
@@ -35,7 +35,7 @@ The success of **Pili Puppetry** (霹靂布袋戲) lies in its modernization str
 
 ### From Folk Roots to the Grand Stage
 
-**Taiwanese Opera** (Gezixi, 歌仔戲) is the only form of traditional theater born and bred entirely on Taiwanese soil. Originating in Yilan, it fused folk melodies like *Gezidiao* and *Sijulian* (four-line rhyming couplets) to form a complete theatrical system in the early 20th century. Its preciousness lies in its "wildness"—it has no courtly background or literati packaging; it is a natural product of commoner life.
+**Taiwanese Opera** (Gezixi, 歌仔戲) is the only form of traditional theater born and bred entirely on Taiwanese soil. Originating in Yilan, it fused folk melodies like _Gezidiao_ and _Sijulian_ (four-line rhyming couplets) to form a complete theatrical system in the early 20th century. Its preciousness lies in its "wildness"—it has no courtly background or literati packaging; it is a natural product of commoner life.
 
 ### Ming Hwa Yuan: A Legacy of Family
 
@@ -59,7 +59,7 @@ This coexistence of the sacred and the profane reflects the complexity of Taiwan
 
 **Ba-jia-jiang** (The Eight Generals, 八家將) is one of the most visually striking performance arts in Taiwanese religious culture. Dressed in ornate costumes with intricate face painting, these performers act as guardians for deities during temple fairs, using specific steps and movements to ward off evil. The aesthetic of Ba-jia-jiang is one of "wild holiness," blending religious belief, theatrical performance, and social ritual.
 
-**Zhen-tou** (阵头, troupe) culture further showcases the diversity of Taiwanese folk arts. From dragon and lion dances to martial arts displays like the *Song-jiang Battle Array*, each troupe has a specific function and aesthetic. These performances are not just entertainment; they are symbols of community identity and the cultural expression of traditional social organizations.
+**Zhen-tou** (阵头, troupe) culture further showcases the diversity of Taiwanese folk arts. From dragon and lion dances to martial arts displays like the _Song-jiang Battle Array_, each troupe has a specific function and aesthetic. These performances are not just entertainment; they are symbols of community identity and the cultural expression of traditional social organizations.
 
 ## Architectural Poetics: Koji Pottery and Chien-nien
 
@@ -82,8 +82,10 @@ More importantly, these art forms prove that the vitality of culture lies not in
 The value of Taiwanese traditional arts lies not just in their historical significance, but in their contribution to the construction of contemporary culture. In the era of globalization, these folk treasures remind us that true cultural power comes from a creative inheritance rooted in the soil.
 
 ---
-*Reference Materials:*
+
+_Reference Materials:_
+
 - Ministry of Culture, Taiwan: National Traditional Arts Awards Archives.
 - National Center for Traditional Arts (NCFTA) Research Reports.
-- *The Legend of Pili: A Study on the Modernization of Taiwanese Glove Puppetry*.
-- *The History of Gezixi: From the Fields to the National Theater*.
+- _The Legend of Pili: A Study on the Modernization of Taiwanese Glove Puppetry_.
+- _The History of Gezixi: From the Fields to the National Theater_.

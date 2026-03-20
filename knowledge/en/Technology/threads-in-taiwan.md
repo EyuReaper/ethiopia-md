@@ -2,11 +2,18 @@
 title: "Threads in Taiwan: From Viral Boom to Everyday 'Tsui' Culture"
 description: "Meta's Threads developed a rare global phenomenon of high user retention in Taiwan—nicknamed 'Tsui,' it became a new public square for Gen Z's casual thoughts, politicians' down-to-earth moments, and meme fermentation"
 date: 2026-03-19
-tags: ["social media", "digital culture", "Threads", "Gen Z", "political communication"]
-author: "idlccp02"
+tags:
+  [
+    'social media',
+    'digital culture',
+    'Threads',
+    'Gen Z',
+    'political communication',
+  ]
+author: 'idlccp02'
 readingTime: 8
 featured: true
-category: "Technology"
+category: 'Technology'
 lastVerified: 2026-03-19
 ---
 
@@ -71,4 +78,4 @@ But challenges are equally clear: in fragmented, emotion-driven short texts, how
 
 ---
 
-*This article was written by community contributor @idlccp02 and reviewed by the editorial team.*
+_This article was written by community contributor @idlccp02 and reviewed by the editorial team._

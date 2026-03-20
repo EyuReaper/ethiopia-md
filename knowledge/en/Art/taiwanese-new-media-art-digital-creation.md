@@ -17,7 +17,7 @@ The uniqueness of Taiwan's new media art comes first from the special cultural g
 
 This unique technical humanism allows Taiwan's new media art to present a face quite different from Europe, America, Japan, and Korea. Western new media art often emphasizes the avant-garde nature and criticality of concepts, while Japan and Korea lean towards refined technical aesthetics. Taiwan's new media art finds a warm and vital expression between the implicit poetry of the East and modern technology.
 
-As demonstrated in artist Wu Che-yu's solo exhibition *Formula of All Things* (萬物公式) at Taipei 101: algorithms are not cold mathematical symbols but organic life forms that can grow, breathe, and evolve. The digital creatures he created with p5.js swim in massive commercial spaces, as if telling an ancient story—about how life sprouts in the most unlikely places.
+As demonstrated in artist Wu Che-yu's solo exhibition _Formula of All Things_ (萬物公式) at Taipei 101: algorithms are not cold mathematical symbols but organic life forms that can grow, breathe, and evolve. The digital creatures he created with p5.js swim in massive commercial spaces, as if telling an ancient story—about how life sprouts in the most unlikely places.
 
 ## Policy Soil and Institutional Nutrients
 
@@ -31,15 +31,15 @@ C-LAB's "dialog() Asia New Media Art Festival" has become one of the most import
 
 ### Lin Pey-chwen: Poet of Life Science
 
-Lin Pey-chwen is a pioneer in Taiwan's digital art. Her *Eve Clone* (夏娃克隆) series of works explored the complex relationships between genetic engineering, artificial life, and the female body long before biotechnology became a hot topic. Her work is not simple praise or criticism of technology, but a deeper philosophical reflection: when life can be copied and transformed, what is the true "I"?
+Lin Pey-chwen is a pioneer in Taiwan's digital art. Her _Eve Clone_ (夏娃克隆) series of works explored the complex relationships between genetic engineering, artificial life, and the female body long before biotechnology became a hot topic. Her work is not simple praise or criticism of technology, but a deeper philosophical reflection: when life can be copied and transformed, what is the true "I"?
 
 In her interactive installations, viewers often need to drive visual and sound changes through biological signals (heartbeat, breathing, brainwaves). This design hides her profound understanding of the "body as medium." Technology here is not an external tool but an internal extension.
 
 ### Huang Hsin-chien: Poetry of Virtual Reality
 
-While most people still treat VR as a gaming toy, Huang Hsin-chien was already thinking about how to use this medium to tell stories. His VR work *La Camera Insabbiata* (Chalkroom), a collaboration with legendary American musician Laurie Anderson, won the Best VR Experience at the 2017 Venice Film Festival—this was not just a personal honor but an important milestone for Taiwan's new media art on the international stage.
+While most people still treat VR as a gaming toy, Huang Hsin-chien was already thinking about how to use this medium to tell stories. His VR work _La Camera Insabbiata_ (Chalkroom), a collaboration with legendary American musician Laurie Anderson, won the Best VR Experience at the 2017 Venice Film Festival—this was not just a personal honor but an important milestone for Taiwan's new media art on the international stage.
 
-The charm of *Chalkroom* lies in its complete subversion of the stereotype of VR as a "tool for escaping reality." In this virtual space, viewers experience a profound meditation on memory, death, and rebirth. Huang uses digital technology to create a Zen space that transcends physical limitations, where Eastern views on life and death perfectly merge with Western experimental art.
+The charm of _Chalkroom_ lies in its complete subversion of the stereotype of VR as a "tool for escaping reality." In this virtual space, viewers experience a profound meditation on memory, death, and rebirth. Huang uses digital technology to create a Zen space that transcends physical limitations, where Eastern views on life and death perfectly merge with Western experimental art.
 
 ### LuxuryLogico: Mechanical Poetics and Collective Creation
 
@@ -47,27 +47,27 @@ LuxuryLogico (豪華朗機工) is perhaps Taiwan's most influential cross-discip
 
 The cauldron for the 2017 Taipei Summer Universiade is LuxuryLogico's most well-known work. This 21-meter-tall mechanical flower bloomed slowly during the opening ceremony, perfectly combining Taiwan's technological strength with humanistic spirit. At that moment, the world saw the energy of Taiwan's new media art—the elegance of Eastern flowers, the precision of modern machinery, and the warmth of collective creation.
 
-Their *The Sound of Blooming* (聆聽花開的聲音) at the Taichung World Flora Exposition, consisting of 697 mechanical flowers, each opening or closing according to changes in ambient sound. This work transformed the abstract concept of "dialogue between technology and nature" into a concrete and perceptible poetic experience.
+Their _The Sound of Blooming_ (聆聽花開的聲音) at the Taichung World Flora Exposition, consisting of 697 mechanical flowers, each opening or closing according to changes in ambient sound. This work transformed the abstract concept of "dialogue between technology and nature" into a concrete and perceptible poetic experience.
 
 ### Wu Che-yu: Life Poetics of Algorithms
 
-Among the younger generation of new media artists in Taiwan, Wu Che-yu is a special presence. He is a code artist and a poet; he is familiar with every function of p5.js and also deeply versed in the rhythms and beats of music. His generative art work *SoulFish* swam at the Venice Biennale, and *The Soul of Flowers* (花的靈魂) bloomed at Art Basel Miami, each work telling the same story: how digital technology carries the temperature of life.
+Among the younger generation of new media artists in Taiwan, Wu Che-yu is a special presence. He is a code artist and a poet; he is familiar with every function of p5.js and also deeply versed in the rhythms and beats of music. His generative art work _SoulFish_ swam at the Venice Biennale, and _The Soul of Flowers_ (花的靈魂) bloomed at Art Basel Miami, each work telling the same story: how digital technology carries the temperature of life.
 
 In Wu Che-yu's creative philosophy, algorithms are not tools for controlling life but the language for life to express itself. His works often have a certain "digital vitality"—they grow, change, and evolve, and each presentation is unique. This creative method contains profound Eastern philosophical thinking: everything has a spirit, including those digital existences composed of code.
 
-His solo exhibition *Formula of All Things* at Taipei 101 transformed a commercial space into a massive digital ecosystem. When viewers walk past, the creatures on the screen change their behavior patterns due to the presence of people, as if they truly have the ability to perceive. This "human-machine empathy" experience design reflects the humanistic care unique to Taiwan's new media art.
+His solo exhibition _Formula of All Things_ at Taipei 101 transformed a commercial space into a massive digital ecosystem. When viewers walk past, the creatures on the screen change their behavior patterns due to the presence of people, as if they truly have the ability to perceive. This "human-machine empathy" experience design reflects the humanistic care unique to Taiwan's new media art.
 
 ### Wang Fu-rui: Archaeologist of Sound
 
 Wang Fu-rui is a pioneer of sound art in Taiwan, his works often exploring the complex relationships between sound and space, memory and time. In his installations, technology is not for creating novel sounds but for excavating forgotten auditory experiences and for teaching us how to "listen" again.
 
-His work *Beyond the Sound* (失聲祭), through special sound processing technology, reproduces those nearly disappearing traditional Taiwanese music and dialects. This creative orientation reflects an important feature of Taiwan's new media art: deep concern for local culture. Technology here is not a symbol of Westernization but a tool for preserving and passing on cultural memory.
+His work _Beyond the Sound_ (失聲祭), through special sound processing technology, reproduces those nearly disappearing traditional Taiwanese music and dialects. This creative orientation reflects an important feature of Taiwan's new media art: deep concern for local culture. Technology here is not a symbol of Westernization but a tool for preserving and passing on cultural memory.
 
 ### Yao Chung-han: Musician of Light and Shadow
 
 Yao Chung-han's sound and light art works perfectly combine the temporality of music with the spatiality of vision. He is skilled at creating synesthetic experiences that allow viewers to "see sound" and "hear light" simultaneously. In his installations, LED strips, sensors, and speakers are no longer cold electronic components but living entities that can breathe and sing.
 
-His *Radiant Beast* (光電獸) series transforms the beats of electronic music into a dance of light, creating a new "light-sound aesthetic." This creative method embodies a common trait of Taiwanese new media artists: not satisfied with single-medium expression but wanting to create a holistic, cross-sensory experience.
+His _Radiant Beast_ (光電獸) series transforms the beats of electronic music into a dance of light, creating a new "light-sound aesthetic." This creative method embodies a common trait of Taiwanese new media artists: not satisfied with single-medium expression but wanting to create a holistic, cross-sensory experience.
 
 ## Important Exhibitions and Cultural Events
 
@@ -95,7 +95,7 @@ On the global map of generative art, Taiwan occupies a unique and important posi
 
 ### Taiwanese Voices on fxHash and Art Blocks
 
-On decentralized NFT art platforms, works by Taiwanese artists often appear on collectors' watchlists. Wu Che-yu's *SoulFish* series on fxHash gives each digital fish a unique "DNA," and they generate different forms and behavior patterns according to the randomness of the algorithm. This creative method hides profound philosophical thinking: in the digital world, what is "individuality"? What is "the uniqueness of life"?
+On decentralized NFT art platforms, works by Taiwanese artists often appear on collectors' watchlists. Wu Che-yu's _SoulFish_ series on fxHash gives each digital fish a unique "DNA," and they generate different forms and behavior patterns according to the randomness of the algorithm. This creative method hides profound philosophical thinking: in the digital world, what is "individuality"? What is "the uniqueness of life"?
 
 Taiwanese generative artists are not satisfied with pure visual aesthetics; they are more concerned with how to inject emotion, memory, and even spirituality into algorithms. This creative orientation makes Taiwanese generative art present a warm and humanistic quality.
 
@@ -142,7 +142,9 @@ In the global tide of technology, Taiwan's new media art, with its unique "warm 
 On this small island in the Pacific, new media art is not just an art form but a way of life, a worldview, and a gentle imagination of the future. While the world is anxious about whether AI will replace humans, Taiwanese artists are already telling us the answer with their works: the true future is not humans being replaced by machines, but humans and machines creating a better world together.
 
 ---
-*References:*
+
+_References:_
+
 - [Taiwan Contemporary Culture Lab (C-LAB)](https://clab.org.tw/)
 - [Digital Art Center, Taipei](https://dac.taipei/)
 - [Taiwan in Venice - Taiwan Pavilion at Venice Biennale](https://www.taiwaninvenice.org/2024/en)

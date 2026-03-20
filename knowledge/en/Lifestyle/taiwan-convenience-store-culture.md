@@ -1,12 +1,13 @@
 ---
-title: "Taiwan’s Convenience Store Culture"
-description: "The world’s densest convenience-store network—7‑Eleven and FamilyMart as neighborhood lifelines that rewired daily life."
+title: 'Taiwan’s Convenience Store Culture'
+description: 'The world’s densest convenience-store network—7‑Eleven and FamilyMart as neighborhood lifelines that rewired daily life.'
 date: 2026-03-19
-tags: [Lifestyle, Convenience Stores, 7-Eleven, FamilyMart, Fresh Food, Urban Life]
-author: "Taiwan.md"
-readingTime: "7 min"
+tags:
+  [Lifestyle, Convenience Stores, 7-Eleven, FamilyMart, Fresh Food, Urban Life]
+author: 'Taiwan.md'
+readingTime: '7 min'
 featured: true
-category: "Lifestyle"
+category: 'Lifestyle'
 lastVerified: 2026-03-19
 ---
 

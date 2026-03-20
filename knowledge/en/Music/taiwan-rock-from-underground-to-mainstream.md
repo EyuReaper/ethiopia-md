@@ -1,12 +1,12 @@
 ---
-title: "Taiwan Rock: From Underground Rebellion to Mainstream"
-description: "A cultural history of Taiwanese rock—from the martial‑law era’s underground scenes and Crystal Records to the band boom of the 1990s and the mainstream rise of Mayday."
+title: 'Taiwan Rock: From Underground Rebellion to Mainstream'
+description: 'A cultural history of Taiwanese rock—from the martial‑law era’s underground scenes and Crystal Records to the band boom of the 1990s and the mainstream rise of Mayday.'
 date: 2026-03-18
-tags: ["rock", "music history", "underground music", "bands", "Taiwan music"]
-author: "Taiwan.md"
+tags: ['rock', 'music history', 'underground music', 'bands', 'Taiwan music']
+author: 'Taiwan.md'
 readingTime: 12
 featured: true
-category: "Music"
+category: 'Music'
 lastVerified: 2026-03-19
 ---
 
@@ -40,14 +40,14 @@ Rock in this period was not a market—it was a subculture.
 
 ### The Crystal Moment
 
-In 1987, **Ren Chiang‑da (任將達)** took over **Crystal Records**, and together with the *Rock Express* magazine, began building an underground infrastructure: compilations, festivals, and media that documented a hidden scene.
+In 1987, **Ren Chiang‑da (任將達)** took over **Crystal Records**, and together with the _Rock Express_ magazine, began building an underground infrastructure: compilations, festivals, and media that documented a hidden scene.
 
 The **Taipei New Music Festival** became a key platform. The 1989 compilation **Rock Records: “Totally Out of Tune (完全走調)”** gathered bands that would later define Taiwanese rock.
 
 ### Landmark Releases
 
-- **Double X – *The Idiot’s Lies* (白癡的謊言)**: a punk milestone
-- **Blacklist Studio – *Catching the Madman (抓狂歌)*:** a breakthrough in Taiwanese‑language rock
+- **Double X – _The Idiot’s Lies_ (白癡的謊言)**: a punk milestone
+- **Blacklist Studio – _Catching the Madman (抓狂歌)_:** a breakthrough in Taiwanese‑language rock
 - **The New Music Encyclopedia (搖滾之聲)**: a bible for a generation
 
 Crystal Records turned underground noise into a documented culture.
@@ -58,10 +58,10 @@ Crystal Records turned underground noise into a documented culture.
 
 By the early 1990s, independent labels multiplied: **Rock Records**, **Magic Stone**, **角頭音樂 (Chthonic/HTJ)**, and others. Each supported distinct aesthetics:
 
-- **Experimental noise:** *LTK Commune (濁水溪公社)*, *L.A. Boys?* (various scenes)
+- **Experimental noise:** _LTK Commune (濁水溪公社)_, _L.A. Boys?_ (various scenes)
 - **Tai‑Ke rock (台客搖滾):** rooted in Taiwanese‑language culture and working‑class life
-- **Punk/hardcore:** *Quarterback (四分衛)*, *Chaos* circles
-- **Alternative rock:** *Ladybug*, *Bones*‑influenced sounds
+- **Punk/hardcore:** _Quarterback (四分衛)_, _Chaos_ circles
+- **Alternative rock:** _Ladybug_, _Bones_‑influenced sounds
 
 ### Landmark Bands
 
@@ -144,7 +144,7 @@ In that sense, every guitar distortion carries a piece of Taiwan’s modern hist
 
 ## References
 
-1. Ren Chiang‑da et al., *Rock Records: The New Music Encyclopedia* (1990). [Crystal Records – Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%B0%B4%E6%99%B6%E5%94%B1%E7%89%87)
+1. Ren Chiang‑da et al., _Rock Records: The New Music Encyclopedia_ (1990). [Crystal Records – Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%B0%B4%E6%99%B6%E5%94%B1%E7%89%87)
 2. [PTT RockMetal board: “Taiwan Rock Timeline”](https://www.ptt.cc/bbs/RockMetal/M.1652359027.A.050.html)
 3. [Freshmusic.sg: Crystal Records 30th Anniversary](https://freshmusic.sg/2016/12/11/crystal/)
 4. [Jeph Bluecircus: Crystal Records and the Underground](http://jeph.bluecircus.net/archives/44)

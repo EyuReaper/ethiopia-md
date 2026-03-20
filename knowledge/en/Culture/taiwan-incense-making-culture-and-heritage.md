@@ -1,11 +1,19 @@
 ---
-title: "Taiwan Incense-Making Culture and Heritage Villages"
+title: 'Taiwan Incense-Making Culture and Heritage Villages'
 description: "From the century-old incense stick craft in Chiayi's Yunxiao Community to Taiwan's island-wide incense industry—an ancient trade about devotion, craftsmanship, and perseverance"
 date: 2026-03-18
-category: "Culture"
-tags: ["incense making", "traditional crafts", "religious culture", "Chiayi", "incense sticks", "folk beliefs"]
-author: "Taiwan.md Contributors"
-difficulty: "beginner"
+category: 'Culture'
+tags:
+  [
+    'incense making',
+    'traditional crafts',
+    'religious culture',
+    'Chiayi',
+    'incense sticks',
+    'folk beliefs',
+  ]
+author: 'Taiwan.md Contributors'
+difficulty: 'beginner'
 readingTime: 10
 featured: false
 lastVerified: 2026-03-19

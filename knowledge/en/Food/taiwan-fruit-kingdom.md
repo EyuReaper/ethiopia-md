@@ -1,9 +1,19 @@
 ---
-title: "Taiwan, the Fruit Kingdom"
-description: "From Irwin mangoes to wax apples, how Taiwan’s microclimates and farming ingenuity turned a small island into a world-class fruit museum"
+title: 'Taiwan, the Fruit Kingdom'
+description: 'From Irwin mangoes to wax apples, how Taiwan’s microclimates and farming ingenuity turned a small island into a world-class fruit museum'
 date: 2026-03-18
-tags: ["fruit", "mango", "lychee", "sugar apple", "wax apple", "agricultural innovation", "Yujing", "fruit exports"]
-category: "Food"
+tags:
+  [
+    'fruit',
+    'mango',
+    'lychee',
+    'sugar apple',
+    'wax apple',
+    'agricultural innovation',
+    'Yujing',
+    'fruit exports',
+  ]
+category: 'Food'
 lastVerified: 2026-03-19
 ---
 
@@ -14,7 +24,7 @@ Cut into a sun-warmed **Irwin mango (愛文芒果)** and the fragrance fills the
 A subtropical latitude, a central mountain spine, and dramatic elevation changes create countless microclimates. Farmers and researchers have learned to read these landscapes the way vintners read vineyards: a slope, a breeze, a diurnal temperature swing can all translate into flavor. Taiwan’s fruit is not just a local treat—it is a cultural export and a symbol of how an island uses precision and care to create abundance.
 
 ![Taiwan fruits](/images/wiki/taiwan_fruits.jpg)
-*Image source: Taiwan’s fruit diversity reflects its subtropical agricultural advantage.*
+_Image source: Taiwan’s fruit diversity reflects its subtropical agricultural advantage._
 
 ## A climate engineered by nature
 

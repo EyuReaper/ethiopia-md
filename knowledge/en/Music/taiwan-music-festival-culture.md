@@ -1,12 +1,20 @@
 ---
-title: "Taiwan’s Music Festival Culture: From Spring Scream to a Youth Movement"
-description: "Tracing how Taiwan’s festivals—from Spring Scream and Hohaiyan to Megaport and Awakening—became incubators for indie bands and a defining platform for youth culture."
+title: 'Taiwan’s Music Festival Culture: From Spring Scream to a Youth Movement'
+description: 'Tracing how Taiwan’s festivals—from Spring Scream and Hohaiyan to Megaport and Awakening—became incubators for indie bands and a defining platform for youth culture.'
 date: 2026-03-19
-tags: ["music festivals", "Spring Scream", "Hohaiyan", "Megaport", "indie music", "youth culture"]
-author: "Taiwan.md"
+tags:
+  [
+    'music festivals',
+    'Spring Scream',
+    'Hohaiyan',
+    'Megaport',
+    'indie music',
+    'youth culture',
+  ]
+author: 'Taiwan.md'
 readingTime: 14
 featured: true
-category: "Music"
+category: 'Music'
 lastVerified: 2026-03-19
 ---
 

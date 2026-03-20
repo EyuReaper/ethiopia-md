@@ -1,11 +1,18 @@
 ---
-
-title: "Marine Pollution Governance and Conservation in Taiwan"
-description: "An island surrounded by ocean—how Taiwan is tackling marine debris, overfishing, and climate stress through law, community action, and innovation"
+title: 'Marine Pollution Governance and Conservation in Taiwan'
+description: 'An island surrounded by ocean—how Taiwan is tackling marine debris, overfishing, and climate stress through law, community action, and innovation'
 date: 2026-03-18
-tags: ["marine conservation", "marine pollution", "ocean governance", "Ocean Affairs Council", "sustainable fisheries", "plastic pollution"]
-author: "Taiwan.md"
-difficulty: "intermediate"
+tags:
+  [
+    'marine conservation',
+    'marine pollution',
+    'ocean governance',
+    'Ocean Affairs Council',
+    'sustainable fisheries',
+    'plastic pollution',
+  ]
+author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 15
 featured: true
 lastVerified: 2026-03-19
@@ -200,15 +207,15 @@ Ultimately, Taiwan’s marine future will be decided by a simple truth: **the oc
 
 ## References
 
-1. Ocean Conservation Administration, OAC (2024). *Taiwan Marine Conservation White Paper*. [Online](https://www.oca.gov.tw/)
+1. Ocean Conservation Administration, OAC (2024). _Taiwan Marine Conservation White Paper_. [Online](https://www.oca.gov.tw/)
 2. Greenpeace Taiwan (2025). “Marine Conservation Act passed.” [Online](https://www.greenpeace.org/taiwan/update/35872/)
 3. Greenpeace Taiwan (2022). “Why the Act couldn’t wait.” [Online](https://www.greenpeace.org/taiwan/update/30154/)
 4. Executive Yuan (2024). “Key policies under the Marine Conservation Act.” [Online](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/8d360b7c-158b-4c9c-900f-2b7adeeef9c9)
 5. Ocean Conservation Network (2024). Marine debris statistics. [Online](https://iocean.oca.gov.tw/OCA_OceanConservation/PUBLIC/Marine_Litter.aspx)
 6. National Geographic Taiwan (2020). “A year‑long survey of Taiwan’s beach debris.” [Online](https://www.natgeomedia.com/environment/article/content-8745.html)
-7. Greenpeace Taiwan (2020). *Taiwan Coastline Debris Report*. [Online](https://www.greenpeace.org/taiwan/update/15198/)
+7. Greenpeace Taiwan (2020). _Taiwan Coastline Debris Report_. [Online](https://www.greenpeace.org/taiwan/update/15198/)
 8. Indigo Waters (2023). “10 things to know about marine debris.” [Online](https://www.indigowaters.org/10-things-you-need-to-know-about-marine-debris-zh)
 9. OceanWorld (2024). “Understanding marine debris.” [Online](https://www.oceanworld.com.tw/load_page/get_education_page/4)
-10. Wilderness Conservation Association (2023). *Taiwan Coastal Debris Annual Report*.
-11. Taiwan Turtle Island Association (2024). *Xiaoliuqiu Sea Turtle Conservation Report*.
-12. Academia Sinica (2023). *Microplastics Survey in Taiwan Waters*.
+10. Wilderness Conservation Association (2023). _Taiwan Coastal Debris Annual Report_.
+11. Taiwan Turtle Island Association (2024). _Xiaoliuqiu Sea Turtle Conservation Report_.
+12. Academia Sinica (2023). _Microplastics Survey in Taiwan Waters_.

@@ -1,11 +1,12 @@
 ---
-title: "Ming Hua Yuan"
-description: "From outdoor temple stages to the Taipei Arena, Taiwan’s leading gezai opera troupe proves that tradition is not the past—it is a living present"
+title: 'Ming Hua Yuan'
+description: 'From outdoor temple stages to the Taipei Arena, Taiwan’s leading gezai opera troupe proves that tradition is not the past—it is a living present'
 date: 2026-03-19
-tags: [gezai-opera, traditional-arts, performing-arts, ming-hua-yuan, chen-sheng-fu]
+tags:
+  [gezai-opera, traditional-arts, performing-arts, ming-hua-yuan, chen-sheng-fu]
 lastVerified: 2026-03-19
-translatedFrom: "People/明華園.md"
-sourceHash: "bfd12b"
+translatedFrom: 'People/明華園.md'
+sourceHash: 'bfd12b'
 ---
 
 # Ming Hua Yuan: An Empire of Gezai Opera Grown from the Outdoor Stage
@@ -28,7 +29,7 @@ Ming Hua Yuan’s breakthrough was simple in principle and daring in execution: 
 
 Traditional gezai opera stages were modest, the pacing slow, and the visual language restrained. Younger audiences often felt disconnected. Chen Sheng-fu brought in modern theater technologies—lighting rigs, immersive sound, stage machinery, wire work for airborne stunts, and even water-screen projections. These were not decorative gimmicks; they were ways to translate opera’s mythic stories into a visual vocabulary that contemporary audiences could feel in their bodies.
 
-The troupe’s famous “Ji Gong” (濟公活佛) series became a signature example. In these productions, characters literally soar, tumble, and vanish. The effect is part opera, part cinematic fantasy, and part temple carnival. Other landmark works, such as *Super White Snake* (《超炫白蛇傳》) and *Penglai Immortal* (《蓬萊大仙》), reimagined classic legends with brisk pacing, humor, and a modern sensibility. The result was a theatrical language that felt both rooted and surprising—a living art rather than a museum display.
+The troupe’s famous “Ji Gong” (濟公活佛) series became a signature example. In these productions, characters literally soar, tumble, and vanish. The effect is part opera, part cinematic fantasy, and part temple carnival. Other landmark works, such as _Super White Snake_ (《超炫白蛇傳》) and _Penglai Immortal_ (《蓬萊大仙》), reimagined classic legends with brisk pacing, humor, and a modern sensibility. The result was a theatrical language that felt both rooted and surprising—a living art rather than a museum display.
 
 In this sense, Ming Hua Yuan didn’t modernize by “Westernizing” the form. It modernized by reasserting what gezai opera has always been: popular theater that speaks directly to its community. The dazzling production values were not a replacement for tradition, but a magnifier for it.
 

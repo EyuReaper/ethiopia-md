@@ -1,8 +1,17 @@
 ---
-title: "Lung Ying-tai"
+title: 'Lung Ying-tai'
 description: "Author of 'Wild Fire,' one of the most influential essayists in the Chinese-speaking world and former Taiwan Minister of Culture"
 date: 2026-03-20
-tags: [people, Lung Ying-tai, Wild Fire, Big River Big Sea, essayist, Minister of Culture, public intellectual]
+tags:
+  [
+    people,
+    Lung Ying-tai,
+    Wild Fire,
+    Big River Big Sea,
+    essayist,
+    Minister of Culture,
+    public intellectual,
+  ]
 lastVerified: 2026-03-20
 ---
 

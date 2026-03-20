@@ -15,7 +15,7 @@ The development of Taiwanese modern poetry is like a winding river, starting fro
 
 The real start of Taiwanese modern poetry can be traced back to the 1950s. In the early post-war period, as large numbers of literati and scholars moved to Taiwan, the tradition of Chinese modern poetry took root on the island once again. The poetic creation of this period primarily inherited the New Poetry tradition since China's May Fourth Movement but also began to integrate local Taiwanese life experiences.
 
-**Ji Xian** is hailed as the "igniter of Taiwanese modern poetry." He founded the *Modern Poetry* (現代詩) magazine in 1953, proposing the theory of "horizontal transplantation," advocating for learning the techniques and spirit of Western modernist poetry, and laying an important foundation for the development of Taiwanese modern poetry.
+**Ji Xian** is hailed as the "igniter of Taiwanese modern poetry." He founded the _Modern Poetry_ (現代詩) magazine in 1953, proposing the theory of "horizontal transplantation," advocating for learning the techniques and spirit of Western modernist poetry, and laying an important foundation for the development of Taiwanese modern poetry.
 
 ## The Golden Age of the Three Major Poetry Societies
 
@@ -26,11 +26,13 @@ From the mid-1950s to the 1970s, Taiwanese modern poetry entered a golden develo
 The **Modern Poetry Society** (現代詩社) was established in 1956, led by Ji Xian. The society advocated for "horizontal transplantation," actively introducing Western modernist poetry and emphasizing the modernity and internationality of poetry.
 
 **Representative Figures**:
+
 - **Ji Xian** (1913-2013): The soul of the Modern Poetry Society, advocating the "Six Major Creeds."
-- **Cheng Chou-yu** (1933-): Famous for works like *Mistake* (錯誤), with an elegant and implicit poetic style.
+- **Cheng Chou-yu** (1933-): Famous for works like _Mistake_ (錯誤), with an elegant and implicit poetic style.
 - **Luo Xing**, **Yang Yun-da**, etc.
 
-Cheng Chou-yu's *Mistake* is considered a classic of Taiwanese modern poetry:
+Cheng Chou-yu's _Mistake_ is considered a classic of Taiwanese modern poetry:
+
 > I pass by Jiangnan / The face waiting in the seasons is like the blooming and falling of the lotus
 
 This poem, with its beautiful imagery and rhythm, showcases the poetic aesthetics pursued by the Modern Poetry Society.
@@ -40,11 +42,13 @@ This poem, with its beautiful imagery and rhythm, showcases the poetic aesthetic
 The **Blue Star Poetry Society** (藍星詩社) was established in 1954, founded by Yu Kwang-chung, Qin Zi-hao, and others. Compared to the radical modernism of the Modern Poetry Society, the Blue Star Poetry Society focused more on the **integration of classical literary tradition with modern poetic expression**, pursuing "vertical inheritance."
 
 **Representative Figures**:
-- **Yu Kwang-chung** (1928-2017): A giant of Taiwanese modern poetry, author of *Homesickness* (鄉愁).
+
+- **Yu Kwang-chung** (1928-2017): A giant of Taiwanese modern poetry, author of _Homesickness_ (鄉愁).
 - **Qin Zi-hao** (1912-1963): One of the founders of the Blue Star Poetry Society.
 - **Zhong Ding-wen**, **Rong Zi**, **Luo Men**, etc.
 
-Yu Kwang-chung's *Homesickness* is one of the most widely circulated modern poems in the Chinese-speaking world:
+Yu Kwang-chung's _Homesickness_ is one of the most widely circulated modern poems in the Chinese-speaking world:
+
 > Homesickness is a shallow strait / I am on this end / The mainland is on that end
 
 This poem not only showcases Yu Kwang-chung's profound literary skills but also reflects the national sentiment under a special historical background.
@@ -54,14 +58,17 @@ This poem not only showcases Yu Kwang-chung's profound literary skills but also 
 The **Genesis Poetry Society** (創世紀詩社) was established in 1954, founded by Zhang Mo, Lo Fu, and Ya Hsien. The greatest feature of this society was its **strong experimental spirit**, actively exploring Western modernist techniques such as surrealism and symbolism.
 
 **Representative Figures**:
-- **Lo Fu** (1928-2018): The "Poetry Demon," who shocked the poetic world with *Death in a Stone Cell* (石室之死亡).
-- **Ya Hsien** (1932-): Author of *Like a Song-like Andante* (如歌的行板).
+
+- **Lo Fu** (1928-2018): The "Poetry Demon," who shocked the poetic world with _Death in a Stone Cell_ (石室之死亡).
+- **Ya Hsien** (1932-): Author of _Like a Song-like Andante_ (如歌的行板).
 - **Zhang Mo** (1931-2017): The organizer and promoter of the poetry society.
 
-Lo Fu's *Gazing at My Home from the Border* (邊界望鄉) showcases his profound literary achievement:
+Lo Fu's _Gazing at My Home from the Border_ (邊界望鄉) showcases his profound literary achievement:
+
 > Perhaps gold is buried there / Perhaps only / My mother is buried there
 
-Ya Hsien's *Like a Song-like Andante* is known for its musicality and rhythm:
+Ya Hsien's _Like a Song-like Andante_ is known for its musicality and rhythm:
+
 > The necessity of tenderness / The necessity of affirmation / The necessity of a little wine and osmanthus flowers
 
 ## Local Turn: From Chinese Sentiment to Taiwanese Consciousness
@@ -72,14 +79,15 @@ Starting in the 1970s, Taiwanese modern poetry underwent an important turn. With
 
 **Wu Sheng** (1944-) is an important representative of Taiwanese nativist poetry. His poetry is deeply rooted in the soil and life of rural Taiwan, using plain language to express deep affection for his hometown.
 
-Representative works include *Storefront* (店仔頭) and *Speaking to Children* (向孩子說). His verses often carry the fragrance of the soil:
+Representative works include _Storefront_ (店仔頭) and _Speaking to Children_ (向孩子說). His verses often carry the fragrance of the soil:
+
 > I am the son of a farmer / I deeply understand / The weight of every inch of land
 
 Wu Sheng's poetry not only has a strong nativist color but also shows concern for environmental protection, earning him the title of "Taiwan's Poet of the Land."
 
 ### Xiang Yang: Pioneer of Taiwanese Language (Taigi) Poetry
 
-**Xiang Yang** (1955-) is an important promoter of Taiwanese language modern poetry. He not only creates poetry in the Taiwanese language but also actively promotes Taiwanese literature. His work *Song of the Land* (土地的歌) showcases the phonetic beauty and cultural connotation of Taiwanese language poetry.
+**Xiang Yang** (1955-) is an important promoter of Taiwanese language modern poetry. He not only creates poetry in the Taiwanese language but also actively promotes Taiwanese literature. His work _Song of the Land_ (土地的歌) showcases the phonetic beauty and cultural connotation of Taiwanese language poetry.
 
 Xiang Yang's contribution lies not only in creation but also in his construction and promotion of Taiwanese language poetic theory, opening a new path for the development of local Taiwanese poetry.
 
@@ -87,7 +95,7 @@ Xiang Yang's contribution lies not only in creation but also in his construction
 
 **Chen Li** (1954-) is one of the most innovative contemporary Taiwanese poets. His poetry has a strong experimental nature, good at using **sound**, **visuals**, and **word games** to create a unique poetic aesthetic.
 
-His *Microcosmos* (小宇宙) series and modern interpretations of classical poetry showcase his profound literary skills and innovative spirit. Chen Li is also an important translator, introducing a large amount of world poetry to Taiwan.
+His _Microcosmos_ (小宇宙) series and modern interpretations of classical poetry showcase his profound literary skills and innovative spirit. Chen Li is also an important translator, introducing a large amount of world poetry to Taiwan.
 
 ## The Rise of Female Poets
 
@@ -95,12 +103,13 @@ Female poets have also played an important role in the development of Taiwanese 
 
 ### Xi Murong: Delicate Writing of Emotion
 
-**Xi Murong** (1943-) is famous for her delicate writing of emotions. Her poetry often explores themes such as love, life, and nature. *A Blooming Tree* (一棵開花的樹) is widely loved:
+**Xi Murong** (1943-) is famous for her delicate writing of emotions. Her poetry often explores themes such as love, life, and nature. _A Blooming Tree_ (一棵開花的樹) is widely loved:
+
 > How to make you meet me / At my most beautiful moment
 
 ### Yang Mu: Perfect Fusion of Classical and Modern
 
-**Yang Mu** (1940-2020) is one of the masters of Taiwanese modern poetry. His poetic style is elegant, perfectly combining the deep heritage of classical literature with the expression techniques of modern poetry. Works like *Mountain Wind and Sea Rain* (山風海雨) and *Time Propositions* (時光命題) are classics of Taiwanese modern poetry.
+**Yang Mu** (1940-2020) is one of the masters of Taiwanese modern poetry. His poetic style is elegant, perfectly combining the deep heritage of classical literature with the expression techniques of modern poetry. Works like _Mountain Wind and Sea Rain_ (山風海雨) and _Time Propositions_ (時光命題) are classics of Taiwanese modern poetry.
 
 ## Diverse Development of Poetic Forms
 
@@ -127,6 +136,7 @@ Many excellent new-generation poets have emerged in contemporary Taiwan, showing
 3. **More Innovative Use of Media**: Combining images, music, the Internet, and other multimedia elements.
 
 **Representative Poets**:
+
 - **Shao Xia**: Known for her unique language style.
 - **Chen Yu-hong**: An important representative of female poets.
 - **Ching Hsiang-hai**: A representative figure of the new-generation poets.

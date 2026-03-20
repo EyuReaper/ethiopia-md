@@ -1,8 +1,15 @@
 ---
-title: "Stan Lai: Master of Theater Innovation"
-description: "Founder of Performance Workshop, creator of Secret Love in Peach Blossom Land, godfather of Chinese-language theater"
+title: 'Stan Lai: Master of Theater Innovation'
+description: 'Founder of Performance Workshop, creator of Secret Love in Peach Blossom Land, godfather of Chinese-language theater'
 date: 2026-03-20
-tags: ["Stan Lai", "theater", "Performance Workshop", "Secret Love in Peach Blossom Land", "theater director"]
+tags:
+  [
+    'Stan Lai',
+    'theater',
+    'Performance Workshop',
+    'Secret Love in Peach Blossom Land',
+    'theater director',
+  ]
 lastVerified: 2026-03-20
 ---
 

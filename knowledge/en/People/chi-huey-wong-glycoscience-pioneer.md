@@ -1,8 +1,16 @@
 ---
-title: "Chi-Huey Wong: Pioneer of Glycoscience"
-description: "World-renowned authority in carbohydrate chemistry, former president of Academia Sinica, and Nobel Prize candidate"
+title: 'Chi-Huey Wong: Pioneer of Glycoscience'
+description: 'World-renowned authority in carbohydrate chemistry, former president of Academia Sinica, and Nobel Prize candidate'
 date: 2026-03-20
-tags: ["academia", "chemistry", "Academia Sinica", "glycoscience", "carbohydrate chemistry", "Tanvex controversy"]
+tags:
+  [
+    'academia',
+    'chemistry',
+    'Academia Sinica',
+    'glycoscience',
+    'carbohydrate chemistry',
+    'Tanvex controversy',
+  ]
 lastVerified: 2026-03-20
 ---
 
@@ -20,7 +28,7 @@ In 2006, Wong accepted an invitation from then-President [[Chen Shui-bian]] to r
 
 Wong's most significant academic achievements lie in carbohydrate chemistry research. He developed numerous innovative carbohydrate synthesis methods, including programmable one-pot synthesis, which greatly simplified the preparation process for complex sugar molecules. This technology not only improved synthesis efficiency but also laid important foundations for the development of carbohydrate-based drugs.
 
-In the field of glycoprotein vaccines, Wong's team successfully developed cancer vaccine preparation technologies, particularly achieving important progress in research on breast cancer, prostate cancer, and other vaccines. His research results have been published in top-tier journals such as *Nature* and *Science*, with over 800 published papers and more than 40,000 citations, making him one of the most influential scholars globally in the glycoscience field.
+In the field of glycoprotein vaccines, Wong's team successfully developed cancer vaccine preparation technologies, particularly achieving important progress in research on breast cancer, prostate cancer, and other vaccines. His research results have been published in top-tier journals such as _Nature_ and _Science_, with over 800 published papers and more than 40,000 citations, making him one of the most influential scholars globally in the glycoscience field.
 
 ## Reforms During His Tenure as Academia Sinica President
 

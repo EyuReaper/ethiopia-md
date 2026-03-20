@@ -1,15 +1,22 @@
 ---
-title: "Taiwan’s Traditional Markets and Market Culture"
-description: "A living archive of everyday Taiwan, where commerce, community, and memory meet before sunrise"
-tags: ["traditional markets", "everyday culture", "community economy", "urban planning", "social capital"]
+title: 'Taiwan’s Traditional Markets and Market Culture'
+description: 'A living archive of everyday Taiwan, where commerce, community, and memory meet before sunrise'
+tags:
+  [
+    'traditional markets',
+    'everyday culture',
+    'community economy',
+    'urban planning',
+    'social capital',
+  ]
 lastVerified: 2026-03-19
 ---
 
 # Taiwan’s Traditional Markets and Market Culture
 
-At 5:30 a.m., the shutters of Dongmen Market lift and the first crates of vegetables arrive. Grandmothers wheel their菜籃車 *cailan che* (grocery carts) to a stall they’ve visited for years; before a word is spoken, the 老闆娘 *lao ban niang* (female owner) already knows what they need. This is not simply shopping. It is an ongoing social contract, a daily exchange of trust, memory, and care.
+At 5:30 a.m., the shutters of Dongmen Market lift and the first crates of vegetables arrive. Grandmothers wheel their菜籃車 _cailan che_ (grocery carts) to a stall they’ve visited for years; before a word is spoken, the 老闆娘 _lao ban niang_ (female owner) already knows what they need. This is not simply shopping. It is an ongoing social contract, a daily exchange of trust, memory, and care.
 
-In Taiwan, the traditional market—傳統市場 *chuántǒng shìchǎng*—has never been merely a place to buy food. It is a public commons, a social safety net, a neighborhood newsroom, and a cultural archive. It carries the rhythm of the city and the intimacy of a village.
+In Taiwan, the traditional market—傳統市場 _chuántǒng shìchǎng_—has never been merely a place to buy food. It is a public commons, a social safety net, a neighborhood newsroom, and a cultural archive. It carries the rhythm of the city and the intimacy of a village.
 
 ## From street stalls to civic infrastructure
 
@@ -69,7 +76,7 @@ The shift signals a broader revaluation: markets provide not only goods, but bel
 
 The future of Taiwan’s markets depends on balance. They must adapt to contemporary demands while protecting their core value: the relational fabric of daily life.
 
-An ideal market remains a place where you can still say, “照舊就好” *zhaojiu jiu hao* (“the usual, please”), and be understood. Where the smell of soy milk and fish still mixes with conversation. Where the city remembers itself each morning.
+An ideal market remains a place where you can still say, “照舊就好” _zhaojiu jiu hao_ (“the usual, please”), and be understood. Where the smell of soy milk and fish still mixes with conversation. Where the city remembers itself each morning.
 
 Taiwan’s traditional markets are not leftovers from the past—they are active cultural engines. They remind us that food is social, memory is sensory, and community is built through repeated, ordinary encounters. In a standardized world, these imperfect, human-scale spaces feel more precious than ever.
 

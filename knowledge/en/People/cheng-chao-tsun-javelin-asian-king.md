@@ -1,8 +1,8 @@
 ---
-title: "Cheng Chao-tsun: The Javelin King of Asia"
+title: 'Cheng Chao-tsun: The Javelin King of Asia'
 description: "Taiwan's javelin legend who set the Asian record of 91.36m at the 2017 Universiade, revolutionizing Asian javelin throwing"
 date: 2026-03-20
-tags: ["athletics", "track and field", "javelin", "Universiade", "Asian record"]
+tags: ['athletics', 'track and field', 'javelin', 'Universiade', 'Asian record']
 lastVerified: 2026-03-20
 ---
 
@@ -75,6 +75,7 @@ His influence extends beyond the javelin circle, inspiring athletes across all d
 Looking forward, Cheng continues to refine his technique and compete at the highest levels, always seeking to push the boundaries of what's possible in Asian javelin throwing. His journey from high school novice to Asian record holder exemplifies the power of talent meeting opportunity and dedicated coaching—a formula that continues to inspire the next generation of Taiwan athletes.
 
 ## References
+
 - [Chinese Taipei Athletics Association](https://www.athletics.org.tw/) — Cheng's competitive records and domestic athletics development
 - [World Athletics](https://www.worldathletics.org/) — Asian record certification and world rankings
 - [2017 Taipei Universiade Official Website](https://www.2017.taipei/) — Universiade victory process and detailed records

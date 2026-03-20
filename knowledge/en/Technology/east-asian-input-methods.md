@@ -1,12 +1,23 @@
 ---
-title: "Clash of Civilizations on Keyboards: A Century of East Asian Input Method Evolution"
+title: 'Clash of Civilizations on Keyboards: A Century of East Asian Input Method Evolution'
 description: "When keyboards worldwide look identical, how do different civilizations fit their scripts into 26 English letters? From Taiwan's Zhuyin to Korea's Dubeolsik, input methods are a silent cultural preservation battle"
 date: 2026-03-19
-tags: ["input methods", "technology", "culture", "Zhuyin", "Cangjie", "keyboard", "digitization", "East Asia", "writing systems"]
-author: "Taiwan.md"
+tags:
+  [
+    'input methods',
+    'technology',
+    'culture',
+    'Zhuyin',
+    'Cangjie',
+    'keyboard',
+    'digitization',
+    'East Asia',
+    'writing systems',
+  ]
+author: 'Taiwan.md'
 readingTime: 15
 featured: true
-category: "Technology"
+category: 'Technology'
 lastVerified: 2026-03-19
 ---
 
@@ -81,13 +92,13 @@ This choice has deep historical background:
 
 On the surface, both Zhuyin and Pinyin are "finding characters through pronunciation." But deep differences are enormous:
 
-| | Taiwan Zhuyin | China Pinyin |
-|---|---------|---------|
-| Symbol System | Independent symbols (ㄅㄆㄇ) | Latin letters (bpmf) |
-| Cultural Origin | Derived from Chinese character radicals | From Latinization movement |
-| Learning Prerequisites | No need to learn English first | Need to recognize English letters |
-| Keyboard Requirements | Need Zhuyin-marked keyboards | Any English keyboard |
-| Relationship with Writing | "Describes pronunciation" | "Translates into Latin letters" |
+|                           | Taiwan Zhuyin                           | China Pinyin                      |
+| ------------------------- | --------------------------------------- | --------------------------------- |
+| Symbol System             | Independent symbols (ㄅㄆㄇ)            | Latin letters (bpmf)              |
+| Cultural Origin           | Derived from Chinese character radicals | From Latinization movement        |
+| Learning Prerequisites    | No need to learn English first          | Need to recognize English letters |
+| Keyboard Requirements     | Need Zhuyin-marked keyboards            | Any English keyboard              |
+| Relationship with Writing | "Describes pronunciation"               | "Translates into Latin letters"   |
 
 This difference is not merely technical—it reflects fundamental divergence between both sides on "how Chinese should interface with the international world." Taiwan chose to preserve an independent symbolic system from the West; China chose to embrace Latinization.
 
@@ -102,6 +113,7 @@ Worth mentioning, China also has shape-based input—**Wubi** (Wang Yongmin, 198
 ### Unique Challenge of Japanese Input
 
 Japanese is one of the world's most complex writing systems, simultaneously using three scripts:
+
 - **Hiragana** (ひらがな): 46 basic syllabic symbols
 - **Katakana** (カタカナ): 46, mainly for foreign words
 - **Kanji** (漢字): Common usage about 2,000-3,000
@@ -183,14 +195,14 @@ In 2019, Myanmar's government officially announced full transition to **Myanmar 
 
 ## Comparison: Six Civilizations' Keyboard Philosophies
 
-| Civilization | Mainstream Input | Principle | Character Selection Needed? | Cultural Positioning |
-|------|-----------|------|----------|---------|
-| 🇹🇼 Taiwan | Zhuyin | Independent symbol phonetics | ✅ Many homophones | Cultural independence |
-| 🇨🇳 China | Hanyu Pinyin | Latin letter phonetics | ✅ Many homophones | International integration |
-| 🇯🇵 Japan | Romaji | Latin→Kana→Kanji | ✅ Kanji conversion | Multi-layer conversion |
-| 🇰🇷 Korea | Dubeolsik | Direct letter correspondence | ❌ Real-time assembly | Perfect adaptation |
-| 🇹🇭 Thailand | Kedmanee | Direct character correspondence | ❌ Direct output | Typewriter legacy |
-| 🇲🇲 Myanmar | Myanmar Unicode | Character combination | ❌ Direct output | Standardization battle |
+| Civilization | Mainstream Input | Principle                       | Character Selection Needed? | Cultural Positioning      |
+| ------------ | ---------------- | ------------------------------- | --------------------------- | ------------------------- |
+| 🇹🇼 Taiwan    | Zhuyin           | Independent symbol phonetics    | ✅ Many homophones          | Cultural independence     |
+| 🇨🇳 China     | Hanyu Pinyin     | Latin letter phonetics          | ✅ Many homophones          | International integration |
+| 🇯🇵 Japan     | Romaji           | Latin→Kana→Kanji                | ✅ Kanji conversion         | Multi-layer conversion    |
+| 🇰🇷 Korea     | Dubeolsik        | Direct letter correspondence    | ❌ Real-time assembly       | Perfect adaptation        |
+| 🇹🇭 Thailand  | Kedmanee         | Direct character correspondence | ❌ Direct output            | Typewriter legacy         |
+| 🇲🇲 Myanmar   | Myanmar Unicode  | Character combination           | ❌ Direct output            | Standardization battle    |
 
 ---
 

@@ -1,12 +1,19 @@
 ---
-title: "Taiwanese Salt-and-Pepper Fried Chicken (鹹酥雞)"
-description: "Taiwan’s late-night comfort ritual, where basil, pepper, and the social life of night markets turn fried chicken into cultural theatre"
+title: 'Taiwanese Salt-and-Pepper Fried Chicken (鹹酥雞)'
+description: 'Taiwan’s late-night comfort ritual, where basil, pepper, and the social life of night markets turn fried chicken into cultural theatre'
 date: 2026-03-19
-tags: ["fried chicken", "late-night culture", "night markets", "basil", "street food"]
-author: "Taiwan.md"
+tags:
+  [
+    'fried chicken',
+    'late-night culture',
+    'night markets',
+    'basil',
+    'street food',
+  ]
+author: 'Taiwan.md'
 readingTime: 7
 featured: true
-category: "Food"
+category: 'Food'
 lastVerified: 2026-03-19
 ---
 

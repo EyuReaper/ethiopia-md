@@ -1,8 +1,15 @@
 ---
-title: "Du Congming: Founder of Modern Medicine in Taiwan"
+title: 'Du Congming: Founder of Modern Medicine in Taiwan'
 description: "Taiwan's first medical doctor and father of modern medicine in Taiwan"
 date: 2026-03-19
-tags: ["Medicine", "Medical Doctor", "Modern Medicine Taiwan", "Kyoto Imperial University", "Pharmacology"]
+tags:
+  [
+    'Medicine',
+    'Medical Doctor',
+    'Modern Medicine Taiwan',
+    'Kyoto Imperial University',
+    'Pharmacology',
+  ]
 lastVerified: 2026-03-19
 ---
 

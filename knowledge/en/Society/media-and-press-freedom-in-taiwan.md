@@ -1,11 +1,17 @@
 ---
-
-title: "Media and Press Freedom in Taiwan"
-description: "From party‑state control to a noisy digital marketplace: how Taiwan’s press freedom emerged, and what it’s now up against"
+title: 'Media and Press Freedom in Taiwan'
+description: 'From party‑state control to a noisy digital marketplace: how Taiwan’s press freedom emerged, and what it’s now up against'
 date: 2026-03-18
-tags: ["media", "press freedom", "democratization", "digital transformation", "media literacy"]
-author: "Taiwan.md"
-difficulty: "intermediate"
+tags:
+  [
+    'media',
+    'press freedom',
+    'democratization',
+    'digital transformation',
+    'media literacy',
+  ]
+author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 15
 featured: false
 lastVerified: 2026-03-19
@@ -32,16 +38,19 @@ In an era of disinformation, Taiwan’s media ecology also matters international
 ### Mechanisms of Control
 
 **Print press restrictions**
+
 - **Press ban**: no new newspaper licenses after 1951
-- A handful of dominant papers: *Central Daily News* (KMT), *China Times*, *United Daily News*
+- A handful of dominant papers: _Central Daily News_ (KMT), _China Times_, _United Daily News_
 - **Pre‑publication censorship** by the Taiwan Garrison Command
 
 **Broadcast monopoly**
+
 - “Old Three Channels”: TTV (1962), CTV (1969), CTS (1971)
 - Each aligned with state, party, or military structures
 - Evening news standardized government messaging
 
 **Radio management**
+
 - State‑aligned stations (e.g., BCC, Voice of the Military) dominated content and frequencies
 
 ### Media’s Assigned Role
@@ -56,7 +65,7 @@ In an era of disinformation, Taiwan’s media ecology also matters international
 
 The lifting of press restrictions triggered a “newspaper war.” Dozens of titles emerged, print runs surged, and competition intensified:
 
-- New entrants like *Liberty Times* and *Taiwan Daily News*
+- New entrants like _Liberty Times_ and _Taiwan Daily News_
 - Aggressive promotional tactics (free copies, colored printing, tabloid formats)
 - Clear ideological divergence: pro‑independence vs. pro‑unification leanings
 
@@ -147,19 +156,23 @@ The shutdown of Taiwan’s Apple Daily—after the Hong Kong headquarters faced 
 ## Legal and Regulatory Framework
 
 **Key laws**
+
 - Radio and Television Act (1976)
 - Cable Television Act (1993)
 - Satellite Broadcasting Act (1999)
 - Digital Communications Act (2022)
 
 **Regulator**
+
 - **National Communications Commission (NCC)**, established 2006
 
 **Constitutional protection**
+
 - Freedom of speech guaranteed by ROC Constitution Article 11
 - Judicial interpretations explicitly protect press freedom
 
 **Disinformation policy**
+
 - The 2022 “Digital Intermediary Services Act” proposal was paused due to free‑speech concerns
 - Emphasis shifted to fact‑checking, platform self‑governance, and citizen reporting
 

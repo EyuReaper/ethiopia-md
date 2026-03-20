@@ -1,12 +1,12 @@
 ---
-title: "Taiwan Bread and Baking"
-description: "From Wu Pao-Chun’s world championship to 85°C’s global expansion, Taiwan’s baking scene blends local flavors with international technique."
+title: 'Taiwan Bread and Baking'
+description: 'From Wu Pao-Chun’s world championship to 85°C’s global expansion, Taiwan’s baking scene blends local flavors with international technique.'
 date: 2026-03-19
-tags: ["bread", "baking", "Wu Pao-Chun", "Taiwan-style bread", "85C"]
-author: "Taiwan.md"
+tags: ['bread', 'baking', 'Wu Pao-Chun', 'Taiwan-style bread', '85C']
+author: 'Taiwan.md'
 readingTime: 8
 featured: false
-category: "Food"
+category: 'Food'
 lastVerified: 2026-03-19
 ---
 

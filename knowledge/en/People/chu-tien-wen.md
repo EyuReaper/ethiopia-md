@@ -1,14 +1,21 @@
 ---
-title: "Chu Tien-wen"
-description: "Novelist and screenwriter who shaped Taiwan New Cinema, author of Notes of a Desolate Man"
+title: 'Chu Tien-wen'
+description: 'Novelist and screenwriter who shaped Taiwan New Cinema, author of Notes of a Desolate Man'
 date: 2026-03-19
-tags: ["literature", "screenwriting", "Hou Hsiao-hsien", "Notes of a Desolate Man", "Taiwan New Cinema"]
+tags:
+  [
+    'literature',
+    'screenwriting',
+    'Hou Hsiao-hsien',
+    'Notes of a Desolate Man',
+    'Taiwan New Cinema',
+  ]
 lastVerified: 2026-03-19
 ---
 
 # Chu Tien-wen: Where Literature and Cinema Become One
 
-**Chu Tien-wen (朱天文)** is one of Taiwan’s most refined cultural voices—a writer whose work moves effortlessly between page and screen. Born in Taipei in 1956, she grew up in a literary family and became a central figure of Taiwan’s **New Cinema (台灣新電影)** movement as the long-time screenwriting partner of director **Hou Hsiao-hsien (侯孝賢)**. Her fiction, especially *Notes of a Desolate Man (荒人手記)*, is widely regarded as a landmark in modern Taiwanese literature.
+**Chu Tien-wen (朱天文)** is one of Taiwan’s most refined cultural voices—a writer whose work moves effortlessly between page and screen. Born in Taipei in 1956, she grew up in a literary family and became a central figure of Taiwan’s **New Cinema (台灣新電影)** movement as the long-time screenwriting partner of director **Hou Hsiao-hsien (侯孝賢)**. Her fiction, especially _Notes of a Desolate Man (荒人手記)_, is widely regarded as a landmark in modern Taiwanese literature.
 
 To international audiences, Chu represents a uniquely Taiwanese synthesis: introspective literature with cinematic sensitivity, deeply rooted in local history yet capable of speaking to universal emotions.
 
@@ -20,9 +27,9 @@ Although she inherited a literary lineage, Chu’s voice quickly became her own.
 
 ## The “Sansan” Literary Experiment
 
-In 1977, Chu co-founded **_Sansan Journal (三三集刊)_**, a literary journal named after the phrase “三三不盡” from the *I Ching*, suggesting endless creative possibility. The journal championed aesthetic rigor and literary purity at a time when Taiwanese literature was often politicized.
+In 1977, Chu co-founded **_Sansan Journal (三三集刊)_**, a literary journal named after the phrase “三三不盡” from the _I Ching_, suggesting endless creative possibility. The journal championed aesthetic rigor and literary purity at a time when Taiwanese literature was often politicized.
 
-This period shaped Chu’s artistic philosophy: to honor language as craft, to trust subtle emotion over loud declarations, and to pursue literature as a space for quiet complexity. The sensibility cultivated in *Sansan* later became a core component of her screenwriting.
+This period shaped Chu’s artistic philosophy: to honor language as craft, to trust subtle emotion over loud declarations, and to pursue literature as a space for quiet complexity. The sensibility cultivated in _Sansan_ later became a core component of her screenwriting.
 
 ## The Hou Hsiao-hsien Partnership
 
@@ -61,5 +68,5 @@ In Chu Tien-wen, Taiwan has a creator who bridges mediums and generations, prese
 ## References
 
 - [Chu Tien-wen Research — National Museum of Taiwan Literature](https://www.nmtl.gov.tw/index.php?option=com_content&task=view&id=3456) — literature archive
-- [China Times Literary Award — *Notes of a Desolate Man*](https://www.readingtimes.com.tw/authors/1234) — author page
+- [China Times Literary Award — _Notes of a Desolate Man_](https://www.readingtimes.com.tw/authors/1234) — author page
 - [Taiwan Cinema Database — Chu Tien-wen’s screenplays](https://www.taiwancinema.com/ct_53400_25) — filmography

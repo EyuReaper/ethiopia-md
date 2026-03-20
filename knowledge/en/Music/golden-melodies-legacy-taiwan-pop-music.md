@@ -1,11 +1,18 @@
 ---
-
-title: "The Legacy of Golden Melodies: A Cultural History of Taiwan Pop"
-description: "From the Minyao folk-song movement to the Jay Chou era, how Taiwan shaped the Mandarin pop universe"
+title: 'The Legacy of Golden Melodies: A Cultural History of Taiwan Pop'
+description: 'From the Minyao folk-song movement to the Jay Chou era, how Taiwan shaped the Mandarin pop universe'
 date: 2026-03-19
-tags: ["Taiwan pop music", "Minyao movement", "Golden Melody Awards", "Jay Chou", "indie music", "music industry"]
-author: "Taiwan.md"
-difficulty: "intermediate"
+tags:
+  [
+    'Taiwan pop music',
+    'Minyao movement',
+    'Golden Melody Awards',
+    'Jay Chou',
+    'indie music',
+    'music industry',
+  ]
+author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 11
 featured: true
 lastVerified: 2026-03-19
@@ -53,7 +60,7 @@ The 1980s saw rapid growth of Taiwan’s record industry. Rock Records (滾石),
 
 ### The Singer-Songwriter Boom
 
-- **Luo Dayou (羅大佑):** widely called the “Godfather of Mandarin Pop.” His album *Zhi Hu Zhe Ye* (之乎者也) set a new standard for socially literate songwriting. Classics like “Love Song 1980” (戀曲1980) and “Childhood” (童年) mixed lyric beauty with social observation.
+- **Luo Dayou (羅大佑):** widely called the “Godfather of Mandarin Pop.” His album _Zhi Hu Zhe Ye_ (之乎者也) set a new standard for socially literate songwriting. Classics like “Love Song 1980” (戀曲1980) and “Childhood” (童年) mixed lyric beauty with social observation.
 - **Jonathan Lee (李宗盛):** known for emotionally precise storytelling. His songs (“True Hero” 真心英雄, “You Are a Little Bird” 我是一隻小小鳥, “The Price of Love” 愛的代價) defined the Taiwanese pop ballad tradition and influenced the entire Mandarin market.
 
 ### The Idol Group Wave
@@ -67,13 +74,13 @@ The 1990s brought a surge of female singers and broader genre exploration.
 - **A-Mei (張惠妹):** with her powerful voice and Indigenous background, she became the defining female artist of the decade. Songs like “Sisters” (姊妹) and “Listen to the Sea” (聽海) were cultural touchstones.
 - **Faye Wong (王菲):** while from Beijing, her collaborations with Taiwanese producers helped shape her signature sound.
 
-Alternative music also found its footing. Wu Bai & China Blue (伍佰 & China Blue) fused Taiwanese Hokkien (台語) with rock, giving local language music a new edge. The Blacklist Studio (黑名單工作室) album *Catching a Breakdown* (抓狂歌) was a milestone for social critique and experimental form.
+Alternative music also found its footing. Wu Bai & China Blue (伍佰 & China Blue) fused Taiwanese Hokkien (台語) with rock, giving local language music a new edge. The Blacklist Studio (黑名單工作室) album _Catching a Breakdown_ (抓狂歌) was a milestone for social critique and experimental form.
 
 ## The 2000s: The Jay Chou Revolution
 
 ### A New Musical Grammar
 
-In 2000, Jay Chou released his debut album *Jay*, merging R&B, hip-hop, and Chinese classical motifs with Mandarin pop songwriting. Tracks like “Nunchucks” (雙截棍) and “Dragon Fist” (龍拳) rewired the sound of Mandopop.
+In 2000, Jay Chou released his debut album _Jay_, merging R&B, hip-hop, and Chinese classical motifs with Mandarin pop songwriting. Tracks like “Nunchucks” (雙截棍) and “Dragon Fist” (龍拳) rewired the sound of Mandopop.
 
 ### The Lyricist Factor: Vincent Fang (方文山)
 
@@ -81,7 +88,7 @@ Lyricist Vincent Fang created the “China Wind” (中國風) aesthetic: classi
 
 ### Idol Dramas and Pop Crossovers
 
-Taiwanese idol dramas—*Meteor Garden*, *Lavender*, *Prince Turns Into Frog*—turned TV theme songs into nationwide hits and pushed idol groups like F4 and 5566 into pan-Asian stardom.
+Taiwanese idol dramas—_Meteor Garden_, _Lavender_, _Prince Turns Into Frog_—turned TV theme songs into nationwide hits and pushed idol groups like F4 and 5566 into pan-Asian stardom.
 
 ## Golden Melody Awards: The Mandarin Pop Hall of Fame
 
@@ -91,7 +98,7 @@ Founded in 1990 by Taiwan’s Government Information Office, the Golden Melody A
 
 Since the 2000s, Taiwan’s indie scene has grown into one of East Asia’s most vibrant. Indie labels such as **Chthonic’s** grassroots networks, **Mgrass** (角頭音樂), and **Wind Music** (風和日麗) have supported Taiwanese Hokkien, Hakka, Indigenous, and experimental genres.
 
-Live houses like Riverbank (河岸留言), Witch House (女巫店), and Kafka by the Sea (海邊的卡夫卡) provide crucial stages for emerging artists. Festivals such as *Spring Scream* (春天吶喊) and the *Ho-Hai-Yan Rock Festival* (貢寮國際海洋音樂祭) give indie music massive public visibility.
+Live houses like Riverbank (河岸留言), Witch House (女巫店), and Kafka by the Sea (海邊的卡夫卡) provide crucial stages for emerging artists. Festivals such as _Spring Scream_ (春天吶喊) and the _Ho-Hai-Yan Rock Festival_ (貢寮國際海洋音樂祭) give indie music massive public visibility.
 
 Many mainstream stars—Mayday (五月天), Sodagreen (蘇打綠), Crowd Lu (盧廣仲), Waa Wei (魏如萱)—came from this indie ecosystem while keeping a strong sense of authorship.
 

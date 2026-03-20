@@ -1,6 +1,6 @@
 ---
-title: "Taiwan’s Parks and Everyday Leisure"
-description: "From dawn tai chi to late‑night strolls—parks as Taiwan’s intergenerational living rooms."
+title: 'Taiwan’s Parks and Everyday Leisure'
+description: 'From dawn tai chi to late‑night strolls—parks as Taiwan’s intergenerational living rooms.'
 tags: [Parks, Leisure, Social Life, Intergenerational, Daily Life]
 lastVerified: 2026-03-19
 ---
