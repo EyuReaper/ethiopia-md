@@ -14,7 +14,7 @@ From the experimental explorations of the 1980s to today's prominence on interna
 
 ## Artistic Genes of the Technology Island
 
-The uniqueness of Taiwanese New Media Art first comes from the special cultural gene of this island. As the semiconductor industry made Taiwan a "Technology Island," artists were not hijacked by technical rationality; instead, they learned a rare skill: **letting technology serve emotion and letting algorithms carry poetry**.
+The uniqueness of Taiwanese New Media Art first comes from Taiwan's special cultural gene. As the semiconductor industry made Taiwan a "Technology Island," artists were not hijacked by technical rationality; instead, they learned a rare skill: **letting technology serve emotion and letting algorithms carry poetry**.
 
 This unique technical-humanistic view gives Taiwanese New Media Art a face completely different from that of Europe, America, Japan, and South Korea. Western New Media Art often emphasizes conceptual vanguardism and criticality, while Japan and South Korea lean toward exquisite technical aesthetics. Taiwanese New Media Art finds a warm and vital expression between subtle Eastern poetry and modern technology.
 

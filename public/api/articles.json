@@ -7117,6 +7117,23 @@
     "path": "en/Food/local-street-food-map-of-taiwan.md"
   },
   {
+    "title": "Local Taiwanese Street Food Map",
+    "description": "From Keelung Miaokou''s \"ding bian cu\" (rice noodle soup) to Pingtung Wanluan''s braised pork knuckle, from Hsinchu''s fish balls to Taitung''s custard apple, each city has its own unique culinary DNA. Follow the footsteps of locals to discover the most representative local street foods of Taiwan''s 22 counties and cities, savoring the island''s most authentic folk culture.",
+    "category": "en",
+    "tags": [
+      "local street food",
+      "regional cuisine",
+      "city specialties",
+      "Taiwan food map",
+      "folk culture"
+    ],
+    "url": "https://taiwan.md/en/Food/local-taiwanese-street-food-map",
+    "readingTime": 72,
+    "featured": true,
+    "date": "2026-03-20",
+    "path": "en/Food/local-taiwanese-street-food-map.md"
+  },
+  {
     "title": "Lu Yen-hsun (盧彥勳)",
     "description": "Taiwan's tennis ace who reached Wimbledon quarterfinals in 2010, representing Taiwan in four Olympic Games and becoming the nation's most accomplished male tennis player",
     "category": "en",
@@ -8162,6 +8179,23 @@
     "path": "en/Nature/taiwan-marine-ecology-coral-reef-conservation.md"
   },
   {
+    "title": "Taiwan Maritime Trade History",
+    "description": "Taiwan in the Age of Exploration - from international trade center to pirate kingdom, a legendary rise and fall",
+    "category": "en",
+    "tags": [
+      "maritime trade",
+      "Age of Exploration",
+      "international trade",
+      "pirates",
+      "port cities"
+    ],
+    "url": "https://taiwan.md/en/History/taiwan-maritime-trade-history",
+    "readingTime": 37,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "en/History/taiwan-maritime-trade-history.md"
+  },
+  {
     "title": "Taiwan Michelin Guide and Fine Dining",
     "description": "In 2018, the red cover of the Michelin Guide was first printed with \"TAIPEI,\" marking Taiwan\\'s official entry into the international culinary evaluation system. From street-side stalls to starred restaurants, from popular cuisine to fine dining, Taiwan\\'s culinary culture showcases its captivating blend of tradition and innovation on the international stage.",
     "category": "en",
@@ -8177,6 +8211,23 @@
     "featured": true,
     "date": "2026-03-20",
     "path": "en/Food/taiwan-michelin-fine-dining.md"
+  },
+  {
+    "title": "Taiwan Military Dependents' Villages History",
+    "description": "From bamboo fences to cultural heritage - collective memory and identity transformation of Mainlander immigrant military villages",
+    "category": "en",
+    "tags": [
+      "military dependents villages",
+      "Mainlander immigrants",
+      "collective memory",
+      "cultural preservation",
+      "urban renewal"
+    ],
+    "url": "https://taiwan.md/en/History/taiwan-military-dependents-villages-history",
+    "readingTime": 65,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "en/History/taiwan-military-dependents-villages-history.md"
   },
   {
     "title": "Taiwan New Media Art",
@@ -8232,6 +8283,39 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "en/About/taiwan-official-website-resources.md"
+  },
+  {
+    "title": "Taiwan People Knowledge Base Project — 200 People Initiative",
+    "description": "Taiwan.md people page expansion roadmap, aiming to cover 200 important figures representing Taiwan",
+    "category": "en",
+    "tags": [
+      "project",
+      "People",
+      "roadmap"
+    ],
+    "url": "https://taiwan.md/en/People/taiwan-people-knowledge-base-roadmap",
+    "readingTime": 39,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "en/People/taiwan-people-knowledge-base-roadmap.md"
+  },
+  {
+    "title": "Taiwan Railway History",
+    "description": "From Liu Mingchuan's Qing dynasty railway to the Japanese longitudinal line to high-speed rail: How railways shaped Taiwan's urban development and cultural memory",
+    "category": "en",
+    "tags": [
+      "railway",
+      "transportation infrastructure",
+      "urban development",
+      "Liu Mingchuan",
+      "longitudinal line",
+      "high-speed rail"
+    ],
+    "url": "https://taiwan.md/en/History/taiwan-railway-history",
+    "readingTime": 53,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "en/History/taiwan-railway-history.md"
   },
   {
     "title": "Taiwan Religion and Temple Culture",
@@ -8667,6 +8751,23 @@
     "featured": false,
     "date": "2026-03-17",
     "path": "en/Lifestyle/education-system.md"
+  },
+  {
+    "title": "Taiwan's Elections and Party Politics",
+    "description": "From the dangwai movement to multi-party democracy: How Taiwan evolved from authoritarianism to democratic electoral culture",
+    "category": "en",
+    "tags": [
+      "elections",
+      "democratization",
+      "party politics",
+      "dangwai movement",
+      "direct presidential election"
+    ],
+    "url": "https://taiwan.md/en/History/taiwan-elections-and-party-politics",
+    "readingTime": 58,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "en/History/taiwan-elections-and-party-politics.md"
   },
   {
     "title": "Taiwan’s Electronic Music & Party Culture: From Underground Raves to Global Stages",
@@ -9431,6 +9532,23 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "en/Art/taiwanese-modern-poetry-island-lyricism.md"
+  },
+  {
+    "title": "Taiwanese New Immigrant Culinary Fusion",
+    "description": "When Thai sour-spicy meets Taiwanese sweet-salty, when Vietnamese pho encounters Taiwanese braised delicacies, when Indonesian spices embrace local ingredients, a cross-border culinary revolution is quietly happening in Taiwan. New immigrants bring not only hometown cuisine but also new possibilities for enriching Taiwan''s food culture.",
+    "category": "en",
+    "tags": [
+      "new immigrant cuisine",
+      "Southeast Asian cuisine",
+      "cultural fusion",
+      "diverse dining",
+      "immigrant culture"
+    ],
+    "url": "https://taiwan.md/en/Food/taiwanese-new-immigrant-culinary-fusion",
+    "readingTime": 78,
+    "featured": true,
+    "date": "2026-03-20",
+    "path": "en/Food/taiwanese-new-immigrant-culinary-fusion.md"
   },
   {
     "title": "Taiwanese New Immigrant Food Fusion",

@@ -183,6 +183,6 @@ In the era of globalization, Taiwanese modern poetry must maintain its local cha
 
 From the foundation of the Three Major Poetry Societies to the deepening of the local turn, to contemporary diverse development, Taiwanese modern poetry showcases the rich changes of a literary genre in a specific time and space. Whether it's the homesickness of Yu Kwang-chung, the mistake of Cheng Chou-yu, the border of Lo Fu, or the soil of Wu Sheng, the Taiwanese language of Xiang Yang, the experiment of Chen Li, every voice has left a unique mark on the poetic map of this island.
 
-These poems not only record personal emotions and thoughts but also witness the changes and development of Taiwanese society. They are like lighthouses on the island, emitting the light of humanity in the long river of history, guiding successors to continue forward.
+These poems not only record personal emotions and thoughts but also witness the changes and development of Taiwanese society. They are like lighthouses in Taiwan, emitting the light of humanity in the long river of history, guiding successors to continue forward.
 
 The future of Taiwanese modern poetry will continue to develop in the dialogue between tradition and innovation, local and international. Just like the island itself, Taiwanese modern poetry will continue to showcase its unique charm and vitality in the fusion of diverse cultures. This island lyric tradition will surely bloom even more brilliant flowers in the new era.

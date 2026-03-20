@@ -469,7 +469,7 @@ The development of Taiwanese experimental and new media art carries forward-look
 
 ## Conclusion
 
-The development trajectory of Taiwanese experimental and new media art reflects this island's unique position between technology and humanities. From early video art exploration to today's cutting-edge applications of VR and AI technology in art, Taiwanese artists have maintained both sensitivity to new technology and deep concern for social issues.
+The development trajectory of Taiwanese experimental and new media art reflects Taiwan's unique position between technology and humanities. From early video art exploration to today's cutting-edge applications of VR and AI technology in art, Taiwanese artists have maintained both sensitivity to new technology and deep concern for social issues.
 
 In the global digitization wave, Taiwan possesses unique advantages: a complete technology industry chain, an open creative environment, rich cultural heritage, and an active attitude toward international exchange. The combination of these conditions enables Taiwan's new media art to not only achieve innovative breakthroughs in technology application but also possess unique Asian perspectives in cultural expression.
 

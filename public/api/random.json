@@ -1,103 +1,259 @@
 [
   {
-    "title": "Local Street Food Map of Taiwan",
-    "description": "From Keelung temple mouths ding-bian-hu to Pingtung Wanluan pig knuckles, from Hsinchu meatballs to Taitung custard apples, every city has its unique culinary DNA. Follow the footsteps of locals to explore the most representative local delicacies of Taiwan's 22 counties and cities, savoring the most authentic folk culture of this island.",
+    "title": "Stan Lai: Master of Theater Innovation",
+    "description": "Founder of Performance Workshop, creator of Secret Love in Peach Blossom Land, godfather of Chinese-language theater",
     "category": "en",
-    "tags": [
-      "local delicacies",
-      "indigenous cuisine",
-      "regional specialties",
-      "Taiwan food map",
-      "folk culture"
-    ],
-    "url": "https://taiwan.md/en/Food/local-street-food-map-of-taiwan",
-    "readingTime": 73,
-    "featured": true,
+    "tags": [],
+    "url": "https://taiwan.md/en/People/stan-lai-theater-innovation-master",
+    "readingTime": 47,
+    "featured": false,
     "date": "2026-03-20",
-    "path": "en/Food/local-street-food-map-of-taiwan.md"
+    "path": "en/People/stan-lai-theater-innovation-master.md"
   },
   {
-    "title": "Threads 在台灣：從現象級爆紅到日常「脆」文化",
-    "description": "Meta 的 Threads 在台灣發展出全球罕見的高黏著度——被暱稱為「脆」，成為 Z 世代碎碎念、政治人物「下凡」、迷因發酵的新公共廣場",
-    "category": "Technology",
-    "tags": [
-      "社群媒體",
-      "數位文化",
-      "Threads",
-      "Z世代",
-      "政治傳播"
-    ],
-    "url": "https://taiwan.md/Technology/Threads%E5%9C%A8%E5%8F%B0%E7%81%A3",
-    "readingTime": 6,
-    "featured": true,
-    "date": "2026-03-19",
-    "path": "Technology/Threads在台灣.md"
-  },
-  {
-    "title": "Century of Taiwanese Watercolor Painting",
-    "description": "From the enlightenment of Ishikawa Kin'ichiro during the Japanese colonial period to Chien Chung-Wei's international acclaim today, Taiwanese watercolor painting has flourished for a century, becoming Asia's most vibrant watercolor creative hub.",
+    "title": "Traditional Taiwanese Arts",
+    "description": "",
     "category": "en",
     "tags": [
-      "Art",
-      "watercolor",
-      "painting",
-      "水彩",
-      "art history"
+      "art",
+      "tradition",
+      "folk-art"
     ],
-    "url": "https://taiwan.md/en/Art/century-of-taiwanese-watercolor-painting",
+    "url": "https://taiwan.md/en/Art/taiwanese-traditional-arts",
+    "readingTime": 36,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "en/Art/taiwanese-traditional-arts.md"
+  },
+  {
+    "title": "Taiwan's 16 Indigenous Peoples: A Cultural Map",
+    "description": "Explore the distribution, languages, ceremonial traditions, and contemporary artistic developments of Taiwan's 16 officially recognized indigenous peoples, revealing the diverse cultural landscape of Taiwan's First Nations",
+    "category": "en",
+    "tags": [
+      "indigenous peoples",
+      "culture",
+      "ceremonies",
+      "languages",
+      "contemporary art"
+    ],
+    "url": "https://taiwan.md/en/Culture/indigenous-peoples-16-tribes-cultural-map",
     "readingTime": 35,
     "featured": false,
-    "date": "2026-03-19",
-    "path": "en/Art/century-of-taiwanese-watercolor-painting.md"
+    "date": "2026-03-20",
+    "path": "en/Culture/indigenous-peoples-16-tribes-cultural-map.md"
   },
   {
-    "title": "Chen Shu-chu",
-    "description": "A vegetable vendor from Taitung whose ordinary acts of kindness define what true wealth means",
+    "title": "Taiwan's Forest Ecosystems",
+    "description": "From subtropical coasts to alpine coniferous forests: A journey through the rich vertical biodiversity of Taiwan's forests.",
     "category": "en",
     "tags": [],
-    "url": "https://taiwan.md/en/People/chen-shu-chu-vegetable-vendor-philanthropist",
-    "readingTime": 26,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "en/People/chen-shu-chu-vegetable-vendor-philanthropist.md"
+    "url": "https://taiwan.md/en/Nature/taiwan-forest-ecosystems",
+    "readingTime": 38,
+    "featured": true,
+    "date": "2026-03-20",
+    "path": "en/Nature/taiwan-forest-ecosystems.md"
   },
   {
-    "title": "Seeing Taiwan — Historical Impressions of the Island",
-    "description": "How different eras and peoples have seen this island, from the Age of Exploration to the contemporary period",
+    "title": "Taiwan’s KTV Culture: From Holiday and Cashbox to the Social Ritual of the Private Room",
+    "description": "How karaoke became a Taiwanese social institution—through private rooms, brand rivalries, song charts, and the post‑pandemic search for a new model.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/Music/ktv-culture",
+    "readingTime": 27,
+    "featured": true,
+    "date": "2026-03-19",
+    "path": "en/Music/ktv-culture.md"
+  },
+  {
+    "title": "Taiwan’s Electronic Music & Party Culture: From Underground Raves to Global Stages",
+    "description": "How Taiwan’s EDM scene evolved from warehouse raves to international festivals, and why its DIY labels still matter",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/Music/taiwan-electronic-music-and-party-culture",
+    "readingTime": 25,
+    "featured": true,
+    "date": "2026-03-19",
+    "path": "en/Music/taiwan-electronic-music-and-party-culture.md"
+  },
+  {
+    "title": "Taiwan's Elections and Party Politics",
+    "description": "From the dangwai movement to multi-party democracy: How Taiwan evolved from authoritarianism to democratic electoral culture",
     "category": "en",
     "tags": [
-      "quotes",
-      "history",
-      "literature",
-      "culture"
+      "elections",
+      "democratization",
+      "party politics",
+      "dangwai movement",
+      "direct presidential election"
     ],
-    "url": "https://taiwan.md/en/About/seeing-taiwan-quotes",
-    "readingTime": 41,
-    "featured": true,
-    "date": "2026-03-17",
-    "path": "en/About/seeing-taiwan-quotes.md"
-  },
-  {
-    "title": "Du Congming: Founder of Modern Medicine in Taiwan",
-    "description": "Taiwan's first medical doctor and father of modern medicine in Taiwan",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/People/du-congming-founder-of-modern-medicine-in-taiwan",
-    "readingTime": 30,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "en/People/du-congming-founder-of-modern-medicine-in-taiwan.md"
-  },
-  {
-    "title": "Chi-Huey Wong: Pioneer of Glycoscience",
-    "description": "World-renowned authority in carbohydrate chemistry, former president of Academia Sinica, and Nobel Prize candidate",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/People/chi-huey-wong-glycoscience-pioneer",
-    "readingTime": 21,
+    "url": "https://taiwan.md/en/History/taiwan-elections-and-party-politics",
+    "readingTime": 58,
     "featured": false,
     "date": "2026-03-20",
-    "path": "en/People/chi-huey-wong-glycoscience-pioneer.md"
+    "path": "en/History/taiwan-elections-and-party-politics.md"
+  },
+  {
+    "title": "Taiwan’s Convenience Store Culture",
+    "description": "The world’s densest convenience-store network—7‑Eleven and FamilyMart as neighborhood lifelines that rewired daily life.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/Lifestyle/taiwan-convenience-store-culture",
+    "readingTime": 30,
+    "featured": true,
+    "date": "2026-03-19",
+    "path": "en/Lifestyle/taiwan-convenience-store-culture.md"
+  },
+  {
+    "title": "Taiwan's Indigenous Language Revitalization Movement",
+    "description": "From language endangerment crisis to revitalization efforts: examining Taiwan's indigenous language preservation challenges, policy developments, and community-based achievements",
+    "category": "en",
+    "tags": [
+      "indigenous languages",
+      "language revitalization",
+      "indigenous education",
+      "language policy",
+      "cultural transmission"
+    ],
+    "url": "https://taiwan.md/en/Culture/indigenous-language-revitalization-movement",
+    "readingTime": 44,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "en/Culture/indigenous-language-revitalization-movement.md"
+  },
+  {
+    "title": "Taiwan Michelin Guide and Fine Dining",
+    "description": "In 2018, the red cover of the Michelin Guide was first printed with \"TAIPEI,\" marking Taiwan\\'s official entry into the international culinary evaluation system. From street-side stalls to starred restaurants, from popular cuisine to fine dining, Taiwan\\'s culinary culture showcases its captivating blend of tradition and innovation on the international stage.",
+    "category": "en",
+    "tags": [
+      "Michelin",
+      "fine dining",
+      "starred restaurants",
+      "Taiwanese cuisine",
+      "internationalization"
+    ],
+    "url": "https://taiwan.md/en/Food/taiwan-michelin-fine-dining",
+    "readingTime": 64,
+    "featured": true,
+    "date": "2026-03-20",
+    "path": "en/Food/taiwan-michelin-fine-dining.md"
+  },
+  {
+    "title": "Taiwan's Startup Ecosystem",
+    "description": "From manufacturing mindset to innovation-driven economy: How Taiwan has built a comprehensive startup entrepreneurship ecosystem",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/Technology/taiwan-startup-ecosystem",
+    "readingTime": 75,
+    "featured": true,
+    "date": "2026-03-19",
+    "path": "en/Technology/taiwan-startup-ecosystem.md"
+  },
+  {
+    "title": "Taiwan's International Trade Policy: Finding Position in the Globalization Wave",
+    "description": "As a trade-oriented economy, Taiwan actively promotes diversified trade strategies including CPTPP membership bid and New Southbound Policy, seeking breakthroughs in international economic space under geopolitical constraints.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/Economy/taiwan-international-trade-policy",
+    "readingTime": 49,
+    "featured": true,
+    "date": "2026-03-19",
+    "path": "en/Economy/taiwan-international-trade-policy.md"
+  },
+  {
+    "title": "Taiwan’s New Religious Movements and Spiritual Culture",
+    "description": "A cultural translation of Taiwan’s postwar religious revival—Buddhist ‘Four Great Mountains,’ Yiguandao, and the ways faith reshaped civic life, charity, and everyday ethics.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/Culture/taiwan-new-religious-movements-and-spiritual-culture",
+    "readingTime": 39,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "en/Culture/taiwan-new-religious-movements-and-spiritual-culture.md"
+  },
+  {
+    "title": "Lee Yuan-tseh",
+    "description": "",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/People/lee-yuan-tseh",
+    "readingTime": 59,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "en/People/lee-yuan-tseh.md"
+  },
+  {
+    "title": "Taiwan's Seafood Culture",
+    "description": "Fresh catches from fishing ports, seafood restaurant culture, and iconic dishes like oyster omelets showcase Taiwan's island character and rich maritime culinary traditions",
+    "category": "en",
+    "tags": [
+      "seafood",
+      "fishing ports",
+      "island culture",
+      "oyster omelet",
+      "seafood cuisine"
+    ],
+    "url": "https://taiwan.md/en/Food/taiwan-seafood-culture",
+    "readingTime": 31,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "en/Food/taiwan-seafood-culture.md"
+  },
+  {
+    "title": "Taiwanese Experimental and New Media Art",
+    "description": "From video art to VR interactions, exploring Taiwan's innovative development in new media art and its technological art ecosystem",
+    "category": "en",
+    "tags": [
+      "new media art",
+      "digital art",
+      "interactive installations",
+      "video art",
+      "VR",
+      "AR",
+      "experimental art",
+      "technology art"
+    ],
+    "url": "https://taiwan.md/en/Art/taiwanese-experimental-and-new-media-art",
+    "readingTime": 78,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "en/Art/taiwanese-experimental-and-new-media-art.md"
+  },
+  {
+    "title": "Taiwan People Knowledge Base Project — 200 People Initiative",
+    "description": "Taiwan.md people page expansion roadmap, aiming to cover 200 important figures representing Taiwan",
+    "category": "en",
+    "tags": [
+      "project",
+      "People",
+      "roadmap"
+    ],
+    "url": "https://taiwan.md/en/People/taiwan-people-knowledge-base-roadmap",
+    "readingTime": 39,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "en/People/taiwan-people-knowledge-base-roadmap.md"
+  },
+  {
+    "title": "Su-Wei Hsieh: Taiwan's Tennis Trailblazer",
+    "description": "2013 Wimbledon women's doubles champion, Taiwan's first Grand Slam titlist",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/People/su-wei-hsieh-wimbledon-champion",
+    "readingTime": 25,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "en/People/su-wei-hsieh-wimbledon-champion.md"
+  },
+  {
+    "title": "Pai Hsien-yung (白先勇)",
+    "description": "Literary master, author of 'Taipei People,' and champion of Kunqu opera revival in modern Chinese literature",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/People/pai-hsien-yung-literary-master",
+    "readingTime": 30,
+    "featured": true,
+    "date": "2026-03-19",
+    "path": "en/People/pai-hsien-yung-literary-master.md"
   },
   {
     "title": "Stan Shih (施振榮)",
@@ -115,168 +271,5 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "en/People/stan-shih.md"
-  },
-  {
-    "title": "Emerging Religions and Spiritual Culture in Taiwan",
-    "description": "Exploring the rise and development of Taiwan's post-war new religious movements, including the profound social and cultural impact of the Buddhist 'Four Great Mountains' and Yiguandao religious groups",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Culture/emerging-religions-and-spiritual-culture",
-    "readingTime": 90,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "en/Culture/emerging-religions-and-spiritual-culture.md"
-  },
-  {
-    "title": "February 28 Incident and White Terror: Trauma and Memory under Taiwan's Authoritarian Rule",
-    "description": "From the February 28 Incident of 1947 to 38 years of martial law, Taiwan experienced state violence under authoritarian rule, only beginning to confront historical trauma and pursue transitional justice after the lifting of martial law.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/History/february-28-incident-and-white-terror-taiwan-authoritarian-rule-trauma-and-memory",
-    "readingTime": 64,
-    "featured": true,
-    "date": "2026-03-19",
-    "path": "en/History/february-28-incident-and-white-terror-taiwan-authoritarian-rule-trauma-and-memory.md"
-  },
-  {
-    "title": "FinTech Development in Taiwan",
-    "description": "From regulatory sandboxes to digital banks: The evolution and innovation of Taiwan's FinTech ecosystem.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Economy/taiwan-fintech-development",
-    "readingTime": 57,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "en/Economy/taiwan-fintech-development.md"
-  },
-  {
-    "title": "台灣電子商務與數位支付生態系：從PC家到蝦皮的數位商業進化",
-    "description": "探索台灣電子商務20年發展歷程，以及數位支付如何重塑消費生活",
-    "category": "Technology",
-    "tags": [],
-    "url": "https://taiwan.md/Technology/%E9%9B%BB%E5%AD%90%E5%95%86%E5%8B%99%E8%88%87%E6%95%B8%E4%BD%8D%E6%94%AF%E4%BB%98%E7%94%9F%E6%85%8B%E7%B3%BB",
-    "readingTime": 20,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "Technology/電子商務與數位支付生態系.md"
-  },
-  {
-    "title": "Taiwan Incense-Making Culture and Heritage Villages",
-    "description": "From the century-old incense stick craft in Chiayi's Yunxiao Community to Taiwan's island-wide incense industry—an ancient trade about devotion, craftsmanship, and perseverance",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Culture/taiwan-incense-making-culture-and-heritage",
-    "readingTime": 49,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "en/Culture/taiwan-incense-making-culture-and-heritage.md"
-  },
-  {
-    "title": "台灣原住民飲食文化",
-    "description": "從小米到野菜，探索台灣原住民族傳統飲食智慧與文化傳承",
-    "category": "Food",
-    "tags": [
-      "原住民",
-      "飲食文化",
-      "小米",
-      "野菜",
-      "傳統料理",
-      "部落美食"
-    ],
-    "url": "https://taiwan.md/Food/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E9%A3%B2%E9%A3%9F%E6%96%87%E5%8C%96",
-    "readingTime": 13,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "Food/台灣原住民飲食文化.md"
-  },
-  {
-    "title": "陳水扁",
-    "description": "第十、十一任總統，2000年首次政黨輪替主角，台灣民主化重要人物",
-    "category": "People",
-    "tags": [
-      "總統",
-      "政黨輪替",
-      "民進黨",
-      "台北市長",
-      "貪污案"
-    ],
-    "url": "https://taiwan.md/People/%E9%99%B3%E6%B0%B4%E6%89%81",
-    "readingTime": 10,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "People/陳水扁.md"
-  },
-  {
-    "title": "社會住宅與居住正義",
-    "description": "台灣如何透過社會住宅政策實現居住正義，讓每個人都有安身立命的地方",
-    "category": "Society",
-    "tags": [
-      "社會住宅",
-      "居住正義",
-      "住宅政策",
-      "包租代管",
-      "都市更新"
-    ],
-    "url": "https://taiwan.md/Society/%E7%A4%BE%E6%9C%83%E4%BD%8F%E5%AE%85%E8%88%87%E5%B1%85%E4%BD%8F%E6%AD%A3%E7%BE%A9",
-    "readingTime": 23,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "Society/社會住宅與居住正義.md"
-  },
-  {
-    "title": "台灣海洋生態",
-    "description": "黑潮、珊瑚礁與海洋生物多樣性：台灣海域的生態奇蹟與保育挑戰",
-    "category": "Nature",
-    "tags": [],
-    "url": "https://taiwan.md/Nature/%E5%8F%B0%E7%81%A3%E6%B5%B7%E6%B4%8B%E7%94%9F%E6%85%8B",
-    "readingTime": 19,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "Nature/台灣海洋生態.md"
-  },
-  {
-    "title": "Literature During Japanese Rule",
-    "description": "",
-    "category": "en",
-    "tags": [
-      "literature",
-      "Japanese colonial period",
-      "colonial literature",
-      "modernism"
-    ],
-    "url": "https://taiwan.md/en/Art/literature-during-japanese-rule",
-    "readingTime": 62,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "en/Art/literature-during-japanese-rule.md"
-  },
-  {
-    "title": "台灣原住民族土地正義與傳統領域",
-    "description": "探討台灣原住民族土地權利的歷史脈絡、法律發展、傳統領域劃設爭議與原住民族轉型正義委員會的工作成果",
-    "category": "Society",
-    "tags": [
-      "原住民族",
-      "土地正義",
-      "傳統領域",
-      "轉型正義",
-      "原轉會",
-      "土地權利"
-    ],
-    "url": "https://taiwan.md/Society/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E5%9C%9F%E5%9C%B0%E6%AD%A3%E7%BE%A9%E8%88%87%E5%82%B3%E7%B5%B1%E9%A0%98%E5%9F%9F",
-    "readingTime": 16,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "Society/台灣原住民族土地正義與傳統領域.md"
-  },
-  {
-    "title": "Lee Yuan-tseh",
-    "description": "",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/People/lee-yuan-tseh",
-    "readingTime": 59,
-    "featured": false,
-    "date": "2026-03-17",
-    "path": "en/People/lee-yuan-tseh.md"
   }
 ]

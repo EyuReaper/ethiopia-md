@@ -121,7 +121,7 @@ Taiwan's AI industry core advantage lies not only in manufacturing capabilities 
 
 More importantly, Taiwan's AI development embodies the concept of "AI for Good." Whether through smart healthcare systems improving medical quality or AI technology helping solve environmental problems, Taiwan is using AI to create a better society.
 
-In this era where AI defines the future, Taiwan stands at a historical turning point. Transitioning from a semiconductor manufacturing powerhouse to an AI innovation powerhouse represents not just industrial transformation but a leap in national competitiveness. Taiwan's AI story is redefining this island's position in the global technology landscape.
+In this era where AI defines the future, Taiwan stands at a historical turning point. Transitioning from a semiconductor manufacturing powerhouse to an AI innovation powerhouse represents not just industrial transformation but a leap in national competitiveness. Taiwan's AI story is redefining Taiwan's position in the global technology landscape.
 
 ---
 
