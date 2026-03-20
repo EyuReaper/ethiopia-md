@@ -97,11 +97,9 @@ for (const [slug, folder] of Object.entries(categoryMapping)) {
 const currentPath = Astro.url.pathname;
 const isEn = lang === 'en';
 const categorySlug = category?.toLowerCase() || '';
-// justfont requires CSS classes on elements to trigger font loading
-// Add all font classes to body so all fonts are loaded
-const jfFontClasses =
-  'jf-jinxuanlatte-regular jf-lanyangming-book jf-kamabit jf-lanyanghei-extrabold jf-lanyanghei-extraheavy jf-jinxuan-medium rixingsong-semibold';
-const jfClass = [categorySlug ? `jf-${categorySlug}` : '', jfFontClasses]
+// justfont: only put the body font class on <body> to avoid rate-limit.
+// Other font classes go on specific elements (h1-h6, blockquote, nav, etc.)
+const jfClass = ['jf-jinxuanlatte-regular', categorySlug ? `jf-${categorySlug}` : '']
   .filter(Boolean)
   .join(' ');
 
@@ -253,72 +251,26 @@ const navConfig = [
       var _jf = _jf || [];
       _jf.push(['p', '65854']);
       _jf.push(['initAction', true]);
-      _jf.push(['_setFont', 'jf-jinxuan-medium', 'css', '.jf-jinxuan-medium']);
-      _jf.push(['_setFont', 'jf-jinxuan-medium', 'alias', 'jf-jinxuan']);
-      _jf.push(['_setFont', 'jf-jinxuan-medium', 'weight', 500]);
-      _jf.push([
-        '_setFont',
-        'jf-jinxuanlatte-regular',
-        'css',
-        '.jf-jinxuanlatte-regular',
-      ]);
-      _jf.push([
-        '_setFont',
-        'jf-jinxuanlatte-regular',
-        'alias',
-        'jf-jinxuanlatte',
-      ]);
+      // justfont: target specific elements to avoid rate-limit
+      // (don't scan entire body for every font)
+      _jf.push(['_setFont', 'jf-jinxuanlatte-regular', 'css', 'body > main p, body > main li, body > main td']);
+      _jf.push(['_setFont', 'jf-jinxuanlatte-regular', 'alias', 'jf-jinxuanlatte']);
       _jf.push(['_setFont', 'jf-jinxuanlatte-regular', 'weight', 400]);
-      _jf.push([
-        '_setFont',
-        'jf-lanyangming-book',
-        'css',
-        '.jf-lanyangming-book',
-      ]);
+      _jf.push(['_setFont', 'jf-lanyanghei-extrabold', 'css', 'h2, h3, h4, h5, h6, nav, button']);
+      _jf.push(['_setFont', 'jf-lanyanghei-extrabold', 'alias', 'jf-lanyanghei']);
+      _jf.push(['_setFont', 'jf-lanyanghei-extrabold', 'weight', 800]);
+      _jf.push(['_setFont', 'jf-lanyanghei-extraheavy', 'css', 'h1']);
+      _jf.push(['_setFont', 'jf-lanyanghei-extraheavy', 'alias', 'jf-lanyanghei']);
+      _jf.push(['_setFont', 'jf-lanyanghei-extraheavy', 'weight', 920]);
+      _jf.push(['_setFont', 'jf-lanyangming-book', 'css', 'main blockquote']);
       _jf.push(['_setFont', 'jf-lanyangming-book', 'alias', 'jf-lanyangming']);
       _jf.push(['_setFont', 'jf-lanyangming-book', 'weight', 300]);
-      _jf.push(['_setFont', 'jf-kamabit', 'css', '.jf-kamabit']);
+      _jf.push(['_setFont', 'jf-kamabit', 'css', '.jf-food h1']);
       _jf.push(['_setFont', 'jf-kamabit', 'alias', 'jf-kamabit']);
       _jf.push(['_setFont', 'jf-kamabit', 'weight', 700]);
-      _jf.push([
-        '_setFont',
-        'rixingsong-semibold',
-        'css',
-        '.rixingsong-semibold',
-      ]);
-      _jf.push([
-        '_setFont',
-        'rixingsong-semibold',
-        'alias',
-        'rixingsong-semibold',
-      ]);
+      _jf.push(['_setFont', 'rixingsong-semibold', 'css', '.jf-history h1']);
+      _jf.push(['_setFont', 'rixingsong-semibold', 'alias', 'rixingsong-semibold']);
       _jf.push(['_setFont', 'rixingsong-semibold', 'weight', 600]);
-      _jf.push([
-        '_setFont',
-        'jf-lanyanghei-extrabold',
-        'css',
-        '.jf-lanyanghei-extrabold',
-      ]);
-      _jf.push([
-        '_setFont',
-        'jf-lanyanghei-extrabold',
-        'alias',
-        'jf-lanyanghei',
-      ]);
-      _jf.push(['_setFont', 'jf-lanyanghei-extrabold', 'weight', 800]);
-      _jf.push([
-        '_setFont',
-        'jf-lanyanghei-extraheavy',
-        'css',
-        '.jf-lanyanghei-extraheavy',
-      ]);
-      _jf.push([
-        '_setFont',
-        'jf-lanyanghei-extraheavy',
-        'alias',
-        'jf-lanyanghei',
-      ]);
-      _jf.push(['_setFont', 'jf-lanyanghei-extraheavy', 'weight', 920]);
       (function (A, p, c, m, l, q, r, h, B, D) {
         var b = A._jf;
         if (b.constructor !== Object) {
