@@ -80,6 +80,24 @@
     "path": "Society/人權與性別平等.md"
   },
   {
+    "title": "大立光電：從台中小廠到全球鏡頭王者的傳奇",
+    "description": "從1980年東海大學旁的小工廠起步，大立光電用40年時間成為全球手機鏡頭霸主，股價曾飆破6,000元創台股天價紀錄",
+    "category": "Economy",
+    "tags": [
+      "Economy",
+      "企業",
+      "光學產業",
+      "股王",
+      "手機鏡頭",
+      "精密製造"
+    ],
+    "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%A4%A7%E7%AB%8B%E5%85%89%E9%9B%BB",
+    "readingTime": 14,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "Economy/台灣企業：大立光電.md"
+  },
+  {
     "title": "中鋼：鐵頭部長與十大建設的鋼鐵傳奇",
     "description": "從趙耀東歐美談判智取技術，到高雄小港升起的第一縷白煙，中鋼用50年打造台灣重工業脊樑，是十大建設最成功的明珠",
     "category": "Economy",
@@ -113,6 +131,40 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "People/五月天.md"
+  },
+  {
+    "title": "仁寶電腦",
+    "description": "全球第二大筆電代工龍頭，台灣ODM產業的重要推手",
+    "category": "Economy",
+    "tags": [
+      "Economy",
+      "企業",
+      "電子代工",
+      "ODM"
+    ],
+    "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E4%BB%81%E5%AF%B6%E9%9B%BB%E8%85%A6",
+    "readingTime": 17,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "Economy/台灣企業：仁寶電腦.md"
+  },
+  {
+    "title": "太陽花學運",
+    "description": "一個30秒的麥克風宣布，最終讓台灣對中貿易依存度從42%跌至32%——十年後回望，這場佔領運動真正改變的不是任何法案，而是台灣的經濟命運",
+    "category": "Society",
+    "tags": [
+      "Society",
+      "歷史",
+      "政治",
+      "公民運動",
+      "科技",
+      "民主"
+    ],
+    "url": "https://taiwan.md/Society/%E5%A4%AA%E9%99%BD%E8%8A%B1%E5%AD%B8%E9%81%8B",
+    "readingTime": 16,
+    "featured": true,
+    "date": "2026-03-22",
+    "path": "Society/太陽花學運.md"
   },
   {
     "title": "方序中",
@@ -234,6 +286,26 @@
     "path": "People/麟洋配.md"
   },
   {
+    "title": "王齊麟與李洋（麟洋配）",
+    "description": "從國中同學到奧運金牌：「麟洋配」34分鐘內直落二擊敗中國，寫下台灣羽球史上第一面奧運金牌",
+    "category": "麟洋配.md",
+    "tags": [
+      "運動員",
+      "王齊麟",
+      "李洋",
+      "麟洋配",
+      "羽球",
+      "東京奧運",
+      "巴黎奧運",
+      "金牌"
+    ],
+    "url": "https://taiwan.md/%E9%BA%9F%E6%B4%8B%E9%85%8D",
+    "readingTime": 14,
+    "featured": true,
+    "date": "2026-03-19",
+    "path": "麟洋配.md"
+  },
+  {
     "title": "半導體產業",
     "description": "台灣半導體產業，特別是台積電，不僅是台灣經濟的重要支柱，更在全球科技生態系統中扮演關鍵角色。從智慧手機、電腦到人工智慧晶片，幾乎所有現代科技產品都依賴台積電的先進製程。這種技術優勢形成了「矽盾」效應，使台灣在地緣政治中具有重要的戰略價值。",
     "category": "Technology",
@@ -248,6 +320,24 @@
     "featured": false,
     "date": "2026-03-17",
     "path": "Technology/半導體產業.md"
+  },
+  {
+    "title": "半導體產業",
+    "description": "從張忠謀的歷史賭注到2奈米時代：台積電如何讓台灣成為全球科技命脈",
+    "category": "半導體產業.md",
+    "tags": [
+      "半導體",
+      "TSMC",
+      "台積電",
+      "先進製程",
+      "科技島",
+      "矽盾"
+    ],
+    "url": "https://taiwan.md/%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%94%A2%E6%A5%AD",
+    "readingTime": 19,
+    "featured": true,
+    "date": "2026-03-17",
+    "path": "半導體產業.md"
   },
   {
     "title": "台泥：台灣第一上市公司的綠色轉型傳奇",
@@ -654,7 +744,7 @@
   },
   {
     "title": "台灣生態多樣性熱點",
-    "description": "探索台灣如何在僅占全球陸地0.025%的面積中，孕育超過5萬種已知物種的世界級生物多樣性",
+    "description": "3.6 萬平方公里島嶼擠下 5.9 萬種生物，密度是全球平均值的 100 倍",
     "category": "Geography",
     "tags": [
       "生態",
@@ -664,9 +754,9 @@
       "國家公園"
     ],
     "url": "https://taiwan.md/Geography/%E5%8F%B0%E7%81%A3%E7%94%9F%E6%85%8B%E5%A4%9A%E6%A8%A3%E6%80%A7%E7%86%B1%E9%BB%9E",
-    "readingTime": 10,
+    "readingTime": 14,
     "featured": false,
-    "date": "2026-03-20",
+    "date": "2026-03-21",
     "path": "Geography/台灣生態多樣性熱點.md"
   },
   {
@@ -744,6 +834,112 @@
     "path": "Geography/台灣交通運輸網絡.md"
   },
   {
+    "title": "台灣企業：中華電信",
+    "description": "台灣最大電信業者，從國營壟斷到數位轉型的領航者",
+    "category": "Economy",
+    "tags": [
+      "Economy",
+      "企業",
+      "電信業",
+      "數位轉型",
+      "國營企業民營化"
+    ],
+    "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1",
+    "readingTime": 14,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "Economy/台灣企業：中華電信.md"
+  },
+  {
+    "title": "台灣企業：日月光半導體",
+    "description": "全球第一大封測廠，建設公司老闆為何轉戰半導體？",
+    "category": "Economy",
+    "tags": [
+      "Economy",
+      "企業",
+      "半導體業",
+      "封裝測試",
+      "科技製造"
+    ],
+    "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E6%97%A5%E6%9C%88%E5%85%89%E5%8D%8A%E5%B0%8E%E9%AB%94",
+    "readingTime": 12,
+    "featured": false,
+    "date": "2026-03-21",
+    "path": "Economy/台灣企業：日月光半導體.md"
+  },
+  {
+    "title": "台灣企業：台塑集團",
+    "description": "台灣經營之神王永慶打造的石化王國，台塑四寶的製造傳奇",
+    "category": "Economy",
+    "tags": [
+      "Economy",
+      "企業",
+      "石化工業",
+      "台塑集團",
+      "傳統產業",
+      "台塑四寶"
+    ],
+    "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%8F%B0%E5%A1%91%E9%9B%86%E5%9C%98",
+    "readingTime": 14,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "Economy/台灣企業：台塑集團.md"
+  },
+  {
+    "title": "台灣企業：台達電子",
+    "description": "全球電源管理領導者，從變壓器廠到綠能科技先驅",
+    "category": "Economy",
+    "tags": [
+      "Economy",
+      "企業",
+      "電源管理",
+      "綠能科技",
+      "工業自動化",
+      "ESG"
+    ],
+    "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%8F%B0%E9%81%94%E9%9B%BB%E5%AD%90",
+    "readingTime": 16,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "Economy/台灣企業：台達電子.md"
+  },
+  {
+    "title": "台灣企業：台積電",
+    "description": "全球晶片代工龍頭，掌握人類數位文明的關鍵命脈",
+    "category": "Economy",
+    "tags": [
+      "Economy",
+      "企業",
+      "半導體",
+      "科技",
+      "製造業",
+      "台積電"
+    ],
+    "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%8F%B0%E7%A9%8D%E9%9B%BB",
+    "readingTime": 13,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "Economy/台灣企業：台積電.md"
+  },
+  {
+    "title": "台灣企業：巨大機械",
+    "description": "從代工奴隸到標準制定者：巨大機械如何重新定義「台灣製造」的含義",
+    "category": "Economy",
+    "tags": [
+      "經濟",
+      "企業",
+      "巨大機械",
+      "捷安特",
+      "製造業",
+      "品牌轉型"
+    ],
+    "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%B7%A8%E5%A4%A7%E6%A9%9F%E6%A2%B0",
+    "readingTime": 25,
+    "featured": false,
+    "date": "2026-03-21",
+    "path": "Economy/台灣企業：巨大機械.md"
+  },
+  {
     "title": "台灣企業：玉山金控",
     "description": "從信用卡專業銀行到數位金融先鋒，43歲最年輕金控總經理的突破故事",
     "category": "Economy",
@@ -776,6 +972,77 @@
     "path": "Economy/台灣企業：長春石化.md"
   },
   {
+    "title": "台灣企業：長榮海運",
+    "description": "從一艘二手船到全球海運帝國，張榮發的藍海傳奇",
+    "category": "Economy",
+    "tags": [
+      "Economy",
+      "企業",
+      "海運業",
+      "物流",
+      "國際貿易"
+    ],
+    "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E9%95%B7%E6%A6%AE%E6%B5%B7%E9%81%8B",
+    "readingTime": 15,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "Economy/台灣企業：長榮海運.md"
+  },
+  {
+    "title": "台灣企業：國泰金控",
+    "description": "台灣最大金控集團，霖園集團打造的金融帝國",
+    "category": "Economy",
+    "tags": [
+      "Economy",
+      "企業",
+      "金融業",
+      "金控",
+      "銀行",
+      "保險"
+    ],
+    "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%9C%8B%E6%B3%B0%E9%87%91%E6%8E%A7",
+    "readingTime": 15,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "Economy/台灣企業：國泰金控.md"
+  },
+  {
+    "title": "台灣企業：富邦金控",
+    "description": "台灣市值第一大金控，蔡明忠兄弟打造的金融王國",
+    "category": "Economy",
+    "tags": [
+      "Economy",
+      "企業",
+      "金融業",
+      "金控",
+      "銀行",
+      "保險",
+      "富邦集團"
+    ],
+    "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%AF%8C%E9%82%A6%E9%87%91%E6%8E%A7",
+    "readingTime": 14,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "Economy/台灣企業：富邦金控.md"
+  },
+  {
+    "title": "台灣企業：統一企業",
+    "description": "38歲高清愿從零開始，13歲童工如何打造6,576億營收帝國",
+    "category": "Economy",
+    "tags": [
+      "Economy",
+      "企業",
+      "食品業",
+      "零售業",
+      "品牌經營"
+    ],
+    "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E7%B5%B1%E4%B8%80%E4%BC%81%E6%A5%AD",
+    "readingTime": 10,
+    "featured": false,
+    "date": "2026-03-21",
+    "path": "Economy/台灣企業：統一企業.md"
+  },
+  {
     "title": "台灣企業：瑞昱半導體",
     "description": "七個工程師200萬創業，讓小螃蟹爬進全世界每台電腦的傳奇故事",
     "category": "Economy",
@@ -790,6 +1057,60 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "Economy/台灣企業：瑞昱半導體.md"
+  },
+  {
+    "title": "台灣企業：廣達電腦",
+    "description": "從工廠火災到全球筆電王，林百里如何建造AI時代的新帝國？",
+    "category": "Economy",
+    "tags": [
+      "Economy",
+      "企業",
+      "電子代工",
+      "ODM",
+      "AI雲端",
+      "筆記型電腦"
+    ],
+    "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%BB%A3%E9%81%94%E9%9B%BB%E8%85%A6",
+    "readingTime": 14,
+    "featured": false,
+    "date": "2026-03-21",
+    "path": "Economy/台灣企業：廣達電腦.md"
+  },
+  {
+    "title": "台灣企業：聯發科技",
+    "description": "全球手機晶片挑戰者，從山寨機推手到AI晶片新星",
+    "category": "Economy",
+    "tags": [
+      "Economy",
+      "企業",
+      "半導體",
+      "晶片設計",
+      "IC設計",
+      "聯發科"
+    ],
+    "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E8%81%AF%E7%99%BC%E7%A7%91%E6%8A%80",
+    "readingTime": 15,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "Economy/台灣企業：聯發科技.md"
+  },
+  {
+    "title": "台灣企業：鴻海精密",
+    "description": "全球最大電子代工帝國，iPhone 背後的隱形冠軍",
+    "category": "Economy",
+    "tags": [
+      "Economy",
+      "企業",
+      "電子製造",
+      "代工",
+      "鴻海",
+      "富士康"
+    ],
+    "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E9%B4%BB%E6%B5%B7%E7%B2%BE%E5%AF%86",
+    "readingTime": 14,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "Economy/台灣企業：鴻海精密.md"
   },
   {
     "title": "台灣冰品文化",
@@ -1244,17 +1565,19 @@
   },
   {
     "title": "台灣建築",
-    "description": "",
+    "description": "從石板屋到摩天樓：一座島嶼的建築時光之旅",
     "category": "Art",
     "tags": [
       "建築",
       "文化",
-      "歷史"
+      "歷史",
+      "原住民",
+      "日治"
     ],
     "url": "https://taiwan.md/Art/%E5%8F%B0%E7%81%A3%E5%BB%BA%E7%AF%89",
-    "readingTime": 27,
+    "readingTime": 11,
     "featured": true,
-    "date": "2026-03-18",
+    "date": "2026-03-21",
     "path": "Art/台灣建築.md"
   },
   {
@@ -1991,6 +2314,23 @@
     "path": "Geography/台灣都市發展與城鄉差距.md"
   },
   {
+    "title": "台灣都市發展與城鄉差距",
+    "description": "70年從農業島變都市島，六都集中7成人口的光與影：繁榮台中vs凋零雲林的殘酷對比",
+    "category": "台灣都市發展與城鄉差距.md",
+    "tags": [
+      "都市發展",
+      "城鄉差距",
+      "六都",
+      "人口流動",
+      "區域發展"
+    ],
+    "url": "https://taiwan.md/%E5%8F%B0%E7%81%A3%E9%83%BD%E5%B8%82%E7%99%BC%E5%B1%95%E8%88%87%E5%9F%8E%E9%84%89%E5%B7%AE%E8%B7%9D",
+    "readingTime": 20,
+    "featured": false,
+    "date": "2026-03-21",
+    "path": "台灣都市發展與城鄉差距.md"
+  },
+  {
     "title": "台灣媒體與新聞自由",
     "description": "從黨國控制到媒體戰國時代：台灣新聞自由的民主化歷程與數位轉型挑戰",
     "category": "Society",
@@ -2548,17 +2888,20 @@
   },
   {
     "title": "台灣漫畫與插畫",
-    "description": "",
+    "description": "從鄭問征服日本成為「亞洲至寶」，到蔡志忠用漫畫詮釋古典哲學，台灣漫畫在世界舞台展現獨特文化魅力",
     "category": "Art",
     "tags": [
       "漫畫",
       "插畫",
-      "視覺藝術"
+      "視覺藝術",
+      "鄭問",
+      "蔡志忠",
+      "金漫獎"
     ],
     "url": "https://taiwan.md/Art/%E5%8F%B0%E7%81%A3%E6%BC%AB%E7%95%AB%E8%88%87%E6%8F%92%E7%95%AB",
-    "readingTime": 15,
+    "readingTime": 11,
     "featured": false,
-    "date": "2026-03-18",
+    "date": "2026-03-20",
     "path": "Art/台灣漫畫與插畫.md"
   },
   {
@@ -2626,7 +2969,7 @@
       "媽祖遶境"
     ],
     "url": "https://taiwan.md/Culture/%E5%8F%B0%E7%81%A3%E5%BB%9F%E6%9C%83%E8%88%87%E9%99%A3%E9%A0%AD%E6%96%87%E5%8C%96",
-    "readingTime": 18,
+    "readingTime": 11,
     "featured": false,
     "date": "2026-03-20",
     "path": "Culture/台灣廟會與陣頭文化.md"
@@ -2763,6 +3106,23 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "History/台灣選舉與政黨政治.md"
+  },
+  {
+    "title": "台灣選舉與政黨政治",
+    "description": "從1950年地方議員到2000年政黨輪替，看台灣如何用選票寫下民主轉型的奇蹟",
+    "category": "台灣選舉與政黨政治.md",
+    "tags": [
+      "選舉",
+      "民主化",
+      "政黨政治",
+      "美麗島事件",
+      "政黨輪替"
+    ],
+    "url": "https://taiwan.md/%E5%8F%B0%E7%81%A3%E9%81%B8%E8%88%89%E8%88%87%E6%94%BF%E9%BB%A8%E6%94%BF%E6%B2%BB",
+    "readingTime": 14,
+    "featured": false,
+    "date": "2026-03-21",
+    "path": "台灣選舉與政黨政治.md"
   },
   {
     "title": "台灣環境正義與鄰避爭議",
@@ -2943,17 +3303,19 @@
   },
   {
     "title": "台灣攝影",
-    "description": "",
+    "description": "從張照堂1965年引領現代攝影革命，到阮義忠《人與土地》定義紀實美學，台灣攝影在光影中記錄島嶼故事",
     "category": "Art",
     "tags": [
       "攝影",
       "視覺藝術",
+      "張照堂",
+      "阮義忠",
       "紀實"
     ],
     "url": "https://taiwan.md/Art/%E5%8F%B0%E7%81%A3%E6%94%9D%E5%BD%B1",
-    "readingTime": 31,
+    "readingTime": 13,
     "featured": false,
-    "date": "2026-03-18",
+    "date": "2026-03-20",
     "path": "Art/台灣攝影.md"
   },
   {
@@ -3048,7 +3410,7 @@
   },
   {
     "title": "生態多樣性",
-    "description": "台灣驚人的生物多樣性，探討小島如何孕育出超過5萬9千種生物，其中三成為特有種",
+    "description": "台灣面積僅佔全球0.025%，卻擁有超過5萬種生物，森林覆蓋率60.71%排名全球第33位",
     "category": "Nature",
     "tags": [
       "生態多樣性",
@@ -3058,9 +3420,9 @@
       "環境保護"
     ],
     "url": "https://taiwan.md/Nature/%E7%94%9F%E6%85%8B%E5%A4%9A%E6%A8%A3%E6%80%A7",
-    "readingTime": 16,
+    "readingTime": 10,
     "featured": true,
-    "date": "2026-03-18",
+    "date": "2026-03-21",
     "path": "Nature/生態多樣性.md"
   },
   {
@@ -3174,19 +3536,20 @@
   },
   {
     "title": "朱宗慶",
-    "description": "台灣打擊樂之父，將冷門藝術帶入主流的音樂教育推手",
+    "description": "從維也納歸來的打擊樂拓荒者，40 年來將冷門藝術轉為全民音樂",
     "category": "People",
     "tags": [
       "人物",
+      "朱宗慶",
       "音樂家",
       "打擊樂",
       "教育",
       "表演藝術"
     ],
     "url": "https://taiwan.md/People/%E6%9C%B1%E5%AE%97%E6%85%B6",
-    "readingTime": 12,
+    "readingTime": 15,
     "featured": false,
-    "date": "2026-03-19",
+    "date": "2026-03-21",
     "path": "People/朱宗慶.md"
   },
   {
@@ -3277,7 +3640,7 @@
   },
   {
     "title": "吳明益",
-    "description": "台灣自然書寫的先驅者，首位入圍國際曼布克獎的台灣作家",
+    "description": "首位入圍國際曼布克獎的台灣作家，用複眼視野編織自然與歷史的文學詩篇",
     "category": "People",
     "tags": [
       "人物",
@@ -3289,9 +3652,9 @@
       "小說家"
     ],
     "url": "https://taiwan.md/People/%E5%90%B3%E6%98%8E%E7%9B%8A",
-    "readingTime": 33,
+    "readingTime": 13,
     "featured": false,
-    "date": "2026-03-17",
+    "date": "2026-03-21",
     "path": "People/吳明益.md"
   },
   {
@@ -3364,6 +3727,23 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "People/呂冠緯.md"
+  },
+  {
+    "title": "宏碁集團 (Acer) - PC 產業的變革先驅",
+    "description": "從台灣桃園起家的個人電腦先驅，創造「多品牌、多通路」商業模式，成為全球 PC 產業的變革引擎",
+    "category": "Economy",
+    "tags": [
+      "Economy",
+      "企業",
+      "個人電腦",
+      "品牌",
+      "全球化"
+    ],
+    "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%AE%8F%E7%A2%81",
+    "readingTime": 19,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "Economy/台灣企業：宏碁.md"
   },
   {
     "title": "戒嚴時期",
@@ -3456,7 +3836,7 @@
   },
   {
     "title": "李智凱",
-    "description": "台灣體操選手，2021 東京奧運鞍馬銀牌，紀錄片《翻滾吧！男孩》主角之一",
+    "description": "從《翻滾吧！男孩》的菜市場凱到奧運銀牌，台灣鞍馬王子十六年的翻滾人生",
     "category": "People",
     "tags": [
       "人物",
@@ -3469,9 +3849,9 @@
       "台灣"
     ],
     "url": "https://taiwan.md/People/%E6%9D%8E%E6%99%BA%E5%87%B1",
-    "readingTime": 14,
+    "readingTime": 15,
     "featured": false,
-    "date": "2026-03-19",
+    "date": "2026-03-21",
     "path": "People/李智凱.md"
   },
   {
@@ -3492,7 +3872,7 @@
   },
   {
     "title": "李遠哲",
-    "description": "台灣第一位諾貝爾獎得主，以交叉分子束技術開創化學動力學新領域的科學先驅",
+    "description": "1986 年諾貝爾化學獎得主，以交叉分子束技術開創化學動力學新領域，台灣首位諾貝爾科學獎得主",
     "category": "People",
     "tags": [
       "人物",
@@ -3504,9 +3884,9 @@
       "台灣"
     ],
     "url": "https://taiwan.md/People/%E6%9D%8E%E9%81%A0%E5%93%B2",
-    "readingTime": 31,
+    "readingTime": 10,
     "featured": true,
-    "date": "2026-03-17",
+    "date": "2026-03-21",
     "path": "People/李遠哲.md"
   },
   {
@@ -3563,38 +3943,55 @@
     "path": "People/周杰倫.md"
   },
   {
+    "title": "和碩聯合科技 (Pegatron) - 電子代工的隱形冠軍",
+    "description": "從華碩分拆而生的代工巨頭，是 iPhone、遊戲機、筆電背後的隱形製造者，「電子五哥」之一",
+    "category": "Economy",
+    "tags": [
+      "Economy",
+      "企業",
+      "電子代工",
+      "製造業",
+      "ODM"
+    ],
+    "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%92%8C%E7%A2%A9%E8%81%AF%E5%90%88",
+    "readingTime": 18,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "Economy/台灣企業：和碩聯合.md"
+  },
+  {
     "title": "夜市文化",
-    "description": "夜市文化是台灣最獨特的文化符號之一，它不僅保存了台灣傳統小吃的精髓，更是庶民生活文化的縮影。夜市提供了一個平民化、親民的社交空間，讓不同階層、不同年齡的人都能在此享受美食、購物娛樂。對外國觀光客而言，夜市更是體驗「真正台灣味」最直接的方式。",
+    "description": "164個列管夜市、台南平均3.8萬人擁有一個夜市，從廟埕到國際觀光景點",
     "category": "Food",
     "tags": [
-      "美食",
       "夜市",
       "小吃",
       "文化",
-      "觀光"
+      "觀光",
+      "庶民生活"
     ],
     "url": "https://taiwan.md/Food/%E5%A4%9C%E5%B8%82%E6%96%87%E5%8C%96",
-    "readingTime": 12,
-    "featured": true,
-    "date": "2026-03-17",
+    "readingTime": 19,
+    "featured": false,
+    "date": "2026-03-21",
     "path": "Food/夜市文化.md"
   },
   {
-    "title": "夜市經濟學",
-    "description": "台灣夜市的經濟生態系統，從庶民創業到觀光產業的多層次商業模式",
+    "title": "夜市經濟學：一場沒有品牌的商業奇蹟",
+    "description": "探索台灣夜市如何在沒有品牌、裝潢和固定地點的情況下，創造年產值近4000億的經濟奇蹟",
     "category": "Economy",
     "tags": [
       "經濟",
       "夜市",
-      "觀光",
-      "創業",
+      "台灣",
       "商業模式",
-      "庶民經濟"
+      "觀光",
+      "小吃"
     ],
     "url": "https://taiwan.md/Economy/%E5%A4%9C%E5%B8%82%E7%B6%93%E6%BF%9F%E5%AD%B8",
-    "readingTime": 20,
+    "readingTime": 13,
     "featured": false,
-    "date": "2026-03-17",
+    "date": "2026-03-21",
     "path": "Economy/夜市經濟學.md"
   },
   {
@@ -3633,7 +4030,7 @@
   },
   {
     "title": "宗教與民間信仰",
-    "description": "媽祖遶境與關公信仰，佛道融合的島嶼靈性地圖",
+    "description": "從恐懼管理到信仰帝國：台灣如何創造全球最密集卻最自由的宗教生態",
     "category": "Lifestyle",
     "tags": [
       "生活",
@@ -3641,12 +4038,14 @@
       "媽祖",
       "民間信仰",
       "廟宇文化",
-      "台灣"
+      "王爺信仰",
+      "宗教自由",
+      "實用主義"
     ],
     "url": "https://taiwan.md/Lifestyle/%E5%AE%97%E6%95%99%E8%88%87%E6%B0%91%E9%96%93%E4%BF%A1%E4%BB%B0",
-    "readingTime": 17,
-    "featured": true,
-    "date": "2026-03-17",
+    "readingTime": 28,
+    "featured": false,
+    "date": "2026-03-22",
     "path": "Lifestyle/宗教與民間信仰.md"
   },
   {
@@ -3893,6 +4292,23 @@
     "path": "Geography/城市特色與區域文化.md"
   },
   {
+    "title": "城市特色與區域文化",
+    "description": "從新北404萬人到台南185萬人，看六都如何在產業轉型中塑造各自的城市性格",
+    "category": "城市特色與區域文化.md",
+    "tags": [
+      "城市",
+      "區域文化",
+      "六都",
+      "產業轉型",
+      "人口遷移"
+    ],
+    "url": "https://taiwan.md/%E5%9F%8E%E5%B8%82%E7%89%B9%E8%89%B2%E8%88%87%E5%8D%80%E5%9F%9F%E6%96%87%E5%8C%96",
+    "readingTime": 15,
+    "featured": false,
+    "date": "2026-03-21",
+    "path": "城市特色與區域文化.md"
+  },
+  {
     "title": "客家文化與語言",
     "description": "硬頸精神與天穿日：台灣客家人的文化傳承與現代復振",
     "category": "Culture",
@@ -4030,6 +4446,22 @@
     "path": "About/看見台灣引言集.md"
   },
   {
+    "title": "研華科技",
+    "description": "全球工業電腦領導廠商，從台灣起家的物聯網智能系統先驅",
+    "category": "Economy",
+    "tags": [
+      "Economy",
+      "企業",
+      "工業電腦",
+      "IoT"
+    ],
+    "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E7%A0%94%E8%8F%AF%E7%A7%91%E6%8A%80",
+    "readingTime": 14,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "Economy/台灣企業：研華科技.md"
+  },
+  {
     "title": "科技園區發展",
     "description": "從竹科到南科，探討台灣科學園區的發展歷程與三大園區的獨特定位",
     "category": "Technology",
@@ -4080,7 +4512,7 @@
   },
   {
     "title": "唐鳳",
-    "description": "全球首位跨性別部長，開放政府與數位民主的先鋒實踐者",
+    "description": "8歲停學自學程式設計，全球首位跨性別部長，用開源精神重新定義數位民主",
     "category": "People",
     "tags": [
       "人物",
@@ -4093,9 +4525,9 @@
       "vTaiwan"
     ],
     "url": "https://taiwan.md/People/%E5%94%90%E9%B3%B3",
-    "readingTime": 36,
+    "readingTime": 14,
     "featured": true,
-    "date": "2026-03-17",
+    "date": "2026-03-21",
     "path": "People/唐鳳.md"
   },
   {
@@ -4481,7 +4913,7 @@
   },
   {
     "title": "清治時期",
-    "description": "1683-1895年清朝統治台灣212年，從消極治理到積極建設，奠定現代台灣行政區劃與漢人社會基礎",
+    "description": "1683-1895年清朝統治台灣約212年，從消極治理到積極建設，奠定現代台灣行政區劃與漢人社會基礎",
     "category": "History",
     "tags": [
       "History",
@@ -4792,17 +5224,18 @@
   },
   {
     "title": "創辦人 — 吳哲宇 Che-Yu Wu",
-    "description": "新媒體藝術家、MonoLab 創辦人、Taiwan.md 發起人",
+    "description": "從程式碼到詩意：一位台灣藝術家的國際突破之路",
     "category": "About",
     "tags": [
       "about",
       "founder",
-      "artist"
+      "artist",
+      "新媒體藝術"
     ],
     "url": "https://taiwan.md/About/%E5%89%B5%E8%BE%A6%E4%BA%BA",
-    "readingTime": 4,
+    "readingTime": 15,
     "featured": false,
-    "date": "2026-03-17",
+    "date": "2026-03-21",
     "path": "About/創辦人.md"
   },
   {
@@ -4856,6 +5289,23 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "People/童子賢.md"
+  },
+  {
+    "title": "華碩電腦 (ASUS) - 主機板起家的科技巨人",
+    "description": "從台灣新竹起步的主機板小廠，蛻變為全球第五大個人電腦品牌的勵志傳奇",
+    "category": "Economy",
+    "tags": [
+      "Economy",
+      "企業",
+      "電腦硬體",
+      "品牌",
+      "科技"
+    ],
+    "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E8%8F%AF%E7%A2%A9",
+    "readingTime": 17,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "Economy/台灣企業：華碩.md"
   },
   {
     "title": "鈕承澤",
@@ -5101,7 +5551,7 @@
   },
   {
     "title": "楊勇緯",
-    "description": "台灣柔道選手，2021 東京奧運 60 公斤級銀牌，台灣柔道史上首面奧運獎牌",
+    "description": "2021 東京奧運柔道 60 公斤級銀牌，台灣史上首位奧運柔道獎牌得主，同年 11 月登上世界第一",
     "category": "People",
     "tags": [
       "人物",
@@ -5115,9 +5565,9 @@
       "排灣族"
     ],
     "url": "https://taiwan.md/People/%E6%A5%8A%E5%8B%87%E7%B7%AF",
-    "readingTime": 11,
+    "readingTime": 14,
     "featured": false,
-    "date": "2026-03-19",
+    "date": "2026-03-21",
     "path": "People/楊勇緯.md"
   },
   {
@@ -5157,20 +5607,22 @@
   },
   {
     "title": "溫泉文化",
-    "description": "從北投到礁溪，日式湯屋與台式泡湯的島嶼療癒學",
+    "description": "從軍事療養到世界三大泥泉：台灣意外成為溫泉王國的故事",
     "category": "Lifestyle",
     "tags": [
       "生活",
       "溫泉",
       "北投",
       "礁溪",
-      "泡湯文化",
-      "台灣"
+      "關子嶺",
+      "日治時期",
+      "地質",
+      "療癒文化"
     ],
     "url": "https://taiwan.md/Lifestyle/%E6%BA%AB%E6%B3%89%E6%96%87%E5%8C%96",
-    "readingTime": 15,
+    "readingTime": 20,
     "featured": false,
-    "date": "2026-03-17",
+    "date": "2026-03-22",
     "path": "Lifestyle/溫泉文化.md"
   },
   {
@@ -5345,6 +5797,23 @@
     "path": "Culture/語言多樣性與母語文化.md"
   },
   {
+    "title": "遠東集團：橫跨十一大產業的台灣商業帝國",
+    "description": "從上海紡織廠起家的遠東集團，87年來發展成台灣最多元化的企業帝國，觸角遍及石化、金融、零售、通訊等十一大產業",
+    "category": "Economy",
+    "tags": [
+      "Economy",
+      "企業",
+      "集團企業",
+      "多元經營",
+      "紡織業"
+    ],
+    "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E9%81%A0%E6%9D%B1%E9%9B%86%E5%9C%98",
+    "readingTime": 13,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "Economy/台灣企業：遠東集團.md"
+  },
+  {
     "title": "齊柏林",
     "description": "紀錄片導演、空拍攝影師，《看見台灣》導演，用 25 年時間記錄台灣地貌",
     "category": "People",
@@ -5392,6 +5861,17 @@
     "path": "Technology/數位身分證與數位政府.md"
   },
   {
+    "title": "數位身分證與數位政府",
+    "description": "從New eID的5.26億求償風暴到數位發展部成立：台灣數位政府20年的信任重建之路",
+    "category": "數位身分證與數位政府.md",
+    "tags": [],
+    "url": "https://taiwan.md/%E6%95%B8%E4%BD%8D%E8%BA%AB%E5%88%86%E8%AD%89%E8%88%87%E6%95%B8%E4%BD%8D%E6%94%BF%E5%BA%9C",
+    "readingTime": 21,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "數位身分證與數位政府.md"
+  },
+  {
     "title": "緣起故事 — Taiwan.md 的誕生",
     "description": "從街頭散步的靈感，到為世界策展台灣的完整入口",
     "category": "About",
@@ -5405,6 +5885,23 @@
     "featured": true,
     "date": "2026-03-17",
     "path": "About/緣起故事.md"
+  },
+  {
+    "title": "緯創資通 (Wistron) - 全球代工的變革先鋒",
+    "description": "從宏碁分拆而生的製造巨擘，年營收破兆的全球第四大電子代工廠，iPhone與 Dell 電腦背後的隱形推手",
+    "category": "Economy",
+    "tags": [
+      "Economy",
+      "企業",
+      "電子代工",
+      "製造業",
+      "ODM"
+    ],
+    "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E7%B7%AF%E5%89%B5%E8%B3%87%E9%80%9A",
+    "readingTime": 19,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "Economy/台灣企業：緯創資通.md"
   },
   {
     "title": "蔡依林",
@@ -5707,7 +6204,7 @@
   },
   {
     "title": "戴資穎",
-    "description": "台灣羽球女王，世界球后寶座200週創歷史紀錄的奧運銀牌選手",
+    "description": "214週世界球后紀錄保持者，從高雄前鎮到奧運銀牌的台灣羽球女王",
     "category": "People",
     "tags": [
       "人物",
@@ -5719,28 +6216,44 @@
       "台灣"
     ],
     "url": "https://taiwan.md/People/%E6%88%B4%E8%B3%87%E7%A9%8E",
-    "readingTime": 34,
+    "readingTime": 15,
     "featured": true,
-    "date": "2026-03-17",
+    "date": "2026-03-21",
     "path": "People/戴資穎.md"
   },
   {
     "title": "環保與永續發展",
-    "description": "台灣從工業污染到淨零轉型的環境覺醒之路，探討環保運動、循環經濟、企業ESG責任與2050淨零排放目標",
+    "description": "從煙囪之島到淨零台灣：40年環保運動的覺醒之路",
     "category": "Society",
     "tags": [
       "環保",
       "永續發展",
       "淨零排放",
       "循環經濟",
-      "ESG",
       "氣候變遷"
     ],
     "url": "https://taiwan.md/Society/%E7%92%B0%E4%BF%9D%E8%88%87%E6%B0%B8%E7%BA%8C%E7%99%BC%E5%B1%95",
-    "readingTime": 24,
+    "readingTime": 18,
     "featured": true,
-    "date": "2026-03-18",
+    "date": "2026-03-21",
     "path": "Society/環保與永續發展.md"
+  },
+  {
+    "title": "聯華電子 (UMC) - 台灣晶圓代工的開拓者",
+    "description": "台灣第一家晶圓代工廠，半世紀來見證並推動台灣半導體產業從無到有的奇蹟征程",
+    "category": "Economy",
+    "tags": [
+      "Economy",
+      "企業",
+      "半導體",
+      "晶圓代工",
+      "科技"
+    ],
+    "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E8%81%AF%E8%8F%AF%E9%9B%BB%E5%AD%90",
+    "readingTime": 14,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "Economy/台灣企業：聯華電子.md"
   },
   {
     "title": "謝淑薇",
@@ -5807,7 +6320,7 @@
   },
   {
     "title": "聶永真",
-    "description": "台灣平面設計師，AGI 會員，金曲獎視覺設計、總統就職典禮主視覺操刀者",
+    "description": "2012 年首位加入 AGI 的台灣設計師，操刀蔡英文兩次總統競選視覺、三獲金曲獎最佳專輯包裝",
     "category": "People",
     "tags": [
       "人物",
@@ -5820,9 +6333,9 @@
       "台灣"
     ],
     "url": "https://taiwan.md/People/%E8%81%B6%E6%B0%B8%E7%9C%9F",
-    "readingTime": 15,
+    "readingTime": 14,
     "featured": false,
-    "date": "2026-03-19",
+    "date": "2026-03-21",
     "path": "People/聶永真.md"
   },
   {
@@ -6914,13 +7427,22 @@
   },
   {
     "title": "Hot Spring Culture",
-    "description": "",
+    "description": "From Military Medicine to World-Class Mud Springs: How Taiwan Became an Accidental Hot Spring Empire",
     "category": "en",
-    "tags": [],
+    "tags": [
+      "lifestyle",
+      "hot springs",
+      "Beitou",
+      "Jiaoxi",
+      "Guanziling",
+      "Japanese colonial",
+      "geology",
+      "healing culture"
+    ],
     "url": "https://taiwan.md/en/Lifestyle/hot-spring-culture",
-    "readingTime": 56,
+    "readingTime": 70,
     "featured": false,
-    "date": "2026-03-17",
+    "date": "2026-03-22",
     "path": "en/Lifestyle/hot-spring-culture.md"
   },
   {
@@ -7768,14 +8290,21 @@
     "path": "en/People/nieh-yung-jen.md"
   },
   {
-    "title": "Night Market Economics",
-    "description": "Taiwan's night market economic ecosystem - from grassroots entrepreneurship to tourism industry's multi-layered business models",
+    "title": "Night Market Economics: A Commercial Miracle Without Brands",
+    "description": "How Taiwan's night markets create a 400-billion-dollar economic miracle without brands, décor, or fixed locations",
     "category": "en",
-    "tags": [],
+    "tags": [
+      "economics",
+      "night markets",
+      "Taiwan",
+      "business model",
+      "tourism",
+      "street food"
+    ],
     "url": "https://taiwan.md/en/Economy/night-market-economics",
-    "readingTime": 69,
+    "readingTime": 41,
     "featured": false,
-    "date": "2026-03-17",
+    "date": "2026-03-21",
     "path": "en/Economy/night-market-economics.md"
   },
   {
@@ -7965,6 +8494,42 @@
     "path": "en/History/prehistoric-era-and-indigenous-peoples.md"
   },
   {
+    "title": "PTT 批踢踢：台灣最頑固的公共廣場",
+    "description": "一個 1995 年架在宿舍裡的 BBS，三十年後依然用純文字介面運作，卻深刻塑造了台灣的網路語言、政治討論與集體記憶",
+    "category": "Technology",
+    "tags": [
+      "PTT",
+      "BBS",
+      "網路文化",
+      "鄉民",
+      "數位民主",
+      "社群媒體"
+    ],
+    "url": "https://taiwan.md/Technology/PTT%E6%89%B9%E8%B8%A2%E8%B8%A2",
+    "readingTime": 13,
+    "featured": true,
+    "date": "2026-03-21",
+    "path": "Technology/PTT批踢踢.md"
+  },
+  {
+    "title": "PTT: Taiwan's Most Stubborn Public Square",
+    "description": "A BBS set up in a dorm room in 1995, still running on a plain-text interface thirty years later, yet it profoundly shaped Taiwan's internet language, political discourse, and collective memory",
+    "category": "en",
+    "tags": [
+      "PTT",
+      "BBS",
+      "internet culture",
+      "digital democracy",
+      "social media",
+      "Taiwan"
+    ],
+    "url": "https://taiwan.md/en/Technology/ptt-bulletin-board-system",
+    "readingTime": 33,
+    "featured": true,
+    "date": "2026-03-21",
+    "path": "en/Technology/ptt-bulletin-board-system.md"
+  },
+  {
     "title": "Qing Dynasty Rule",
     "description": "1683-1895 Qing Dynasty ruled Taiwan for 212 years, from passive governance to active construction, establishing the foundation of modern Taiwan's administrative divisions and Han Chinese society",
     "category": "en",
@@ -7982,14 +8547,41 @@
   },
   {
     "title": "Religion and Folk Beliefs",
-    "description": "",
+    "description": "From Fear Management to Faith Empire: How Taiwan Created the World's Most Dense Yet Freest Religious Ecosystem",
     "category": "en",
-    "tags": [],
+    "tags": [
+      "lifestyle",
+      "religion",
+      "Mazu",
+      "folk beliefs",
+      "temple culture",
+      "Wangye worship",
+      "religious freedom",
+      "pragmatism"
+    ],
     "url": "https://taiwan.md/en/Lifestyle/religion-and-folk-beliefs",
-    "readingTime": 47,
+    "readingTime": 105,
     "featured": false,
-    "date": "2026-03-17",
+    "date": "2026-03-22",
     "path": "en/Lifestyle/religion-and-folk-beliefs.md"
+  },
+  {
+    "title": "Religion and Folk Beliefs",
+    "description": "From survival pragmatism to spiritual homeland: How Taiwan built the world's densest temple network",
+    "category": "en",
+    "tags": [
+      "lifestyle",
+      "religion",
+      "Mazu",
+      "folk beliefs",
+      "temple culture",
+      "Wang Ye worship"
+    ],
+    "url": "https://taiwan.md/en/Lifestyle/religion-folk-beliefs",
+    "readingTime": 74,
+    "featured": false,
+    "date": "2026-03-21",
+    "path": "en/Lifestyle/religion-folk-beliefs.md"
   },
   {
     "title": "Renjian Magazine (人間雜誌)",
@@ -10284,6 +10876,23 @@
     "featured": true,
     "date": "2026-03-19",
     "path": "en/Technology/artificial-intelligence-development-strategy.md"
+  },
+  {
+    "title": "The Sunflower Movement",
+    "description": "A 30-second microphone announcement that ultimately shifted Taiwan's trade dependence on China from 42% to 32% — looking back after a decade, this occupation movement didn't just block a trade deal, it rewrote Taiwan's economic destiny",
+    "category": "en",
+    "tags": [
+      "Society",
+      "History",
+      "Politics",
+      "Democracy",
+      "Civic-Tech"
+    ],
+    "url": "https://taiwan.md/en/Society/sunflower-movement",
+    "readingTime": 52,
+    "featured": true,
+    "date": "2026-03-22",
+    "path": "en/Society/sunflower-movement.md"
   },
   {
     "title": "Theater and Performing Arts in Taiwan: An Island on Stage",
