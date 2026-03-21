@@ -1,6 +1,4 @@
-culture/台灣廟會與陣頭文化.md
-art/台灣漫畫與插畫.md
-art/台灣攝影.md
+
 art/台灣建築.md
 about/創辦人.md
 society/環保與永續發展.md
