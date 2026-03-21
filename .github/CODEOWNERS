@@ -20,8 +20,10 @@ src/i18n/ @frank890417 @YenTingWu
 # 中文內容（owner 審核）
 knowledge/ @frank890417
 
-# 英文翻譯 — fredchu co-reviews (i18n expertise)
-knowledge/en/ @frank890417 @fredchu
+# 多語系內容
+knowledge/en/ @frank890417 @fredchu @YenTingWu
+knowledge/es/ @frank890417 @YenTingWu
+knowledge/ja/ @frank890417 @YenTingWu
 
 # 腳本與工具
 scripts/ @frank890417
