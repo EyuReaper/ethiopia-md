@@ -1428,6 +1428,109 @@ const otherCategories = categories
       padding: 1rem;
     }
   }
+
+  /* Food Visualization */
+  .food-viz {
+    padding: 48px 0;
+    background: linear-gradient(135deg, #fdf6ec 0%, #fff5f5 100%);
+    border-radius: 16px;
+    margin: 32px 0;
+  }
+  .food-viz-inner {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 24px;
+    text-align: center;
+  }
+  .food-viz h2 {
+    font-size: 2.2rem;
+    font-weight: 800;
+    margin-bottom: 1rem;
+    color: #1a1a2e;
+    letter-spacing: var(--title-letter-spacing);
+    font-family: var(--font-editorial);
+  }
+  .food-viz-subtitle {
+    color: #64748b;
+    font-size: 1.1rem;
+    margin-bottom: 2rem;
+  }
+  .viz-tabs {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    margin: 24px 0;
+  }
+  .viz-tab {
+    padding: 10px 24px;
+    border: 2px solid #e0d5c3;
+    border-radius: 24px;
+    background: white;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 500;
+    transition: all 0.2s;
+  }
+  .viz-tab:hover {
+    background: #f8f9fa;
+    border-color: #E85D3A;
+  }
+  .viz-tab.active {
+    background: #E85D3A;
+    color: white;
+    border-color: #E85D3A;
+  }
+  .viz-container {
+    margin: 24px auto;
+    max-width: 800px;
+  }
+  .viz-container svg {
+    width: 100%;
+    height: auto;
+  }
+  .viz-legend {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 16px;
+    margin-top: 16px;
+  }
+  .legend-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 6px 12px;
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 20px;
+    font-size: 0.9rem;
+    border: 1px solid #e2e8f0;
+  }
+  .legend-color {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+  }
+
+  @media (max-width: 768px) {
+    .food-viz {
+      padding: 32px 0;
+      margin: 24px 0;
+    }
+    .food-viz-inner {
+      padding: 0 16px;
+    }
+    .food-viz h2 {
+      font-size: 1.8rem;
+    }
+    .viz-tabs {
+      flex-direction: column;
+      align-items: center;
+      gap: 8px;
+    }
+    .viz-tab {
+      width: 200px;
+    }
+  }
 </style>
 
 <script define:vars={{ taiexData, cpiData, salaryData, housingData, isEconomy }}
@@ -1613,4 +1716,472 @@ const otherCategories = categories
   }
 
   if (isEconomy) init();
+</script>
+
+<!-- Food Visualization Script -->
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    // 只有 food 分類才執行
+    const currentCategory = window.location.pathname.split('/')[1];
+    if (currentCategory !== 'food') return;
+
+    // 食物數據
+    const foodData = {
+      "name": "台灣味",
+      "children": [
+        {
+          "name": "主食",
+          "children": [
+            {"name": "牛肉麵", "url": "/food/牛肉麵", "desc": "台灣最具代表性的國民美食"},
+            {"name": "滷肉飯", "url": "/food/台灣滷肉飯", "desc": "最平凡卻最不平凡的家常味道"},
+            {"name": "小吃", "url": "/food/台灣小吃", "desc": "街頭美食的豐富樣貌"},
+            {"name": "米食文化", "url": "/food/台灣米食文化", "desc": "稻米在台灣的風味演進"},
+            {"name": "麵食文化", "url": "/food/台灣麵食文化", "desc": "東西麵點的台式詮釋"},
+            {"name": "海鮮文化", "url": "/food/台灣海鮮文化", "desc": "四面環海的魚鮮恩賜"},
+            {"name": "鹹酥雞", "url": "/food/台灣鹹酥雞", "desc": "台灣國民炸物"},
+            {"name": "手路菜", "url": "/food/台灣手路菜", "desc": "精緻台菜"}
+          ]
+        },
+        {
+          "name": "飲品",
+          "children": [
+            {"name": "珍珠奶茶", "url": "/food/珍珠奶茶", "desc": "台灣創新力的最佳見證"},
+            {"name": "手搖飲", "url": "/food/台灣手搖飲文化", "desc": "液體革命"},
+            {"name": "茶文化", "url": "/food/茶文化", "desc": "台灣茶葉的品質傳奇"},
+            {"name": "咖啡", "url": "/food/台灣咖啡產業", "desc": "高品質咖啡文化的崛起"},
+            {"name": "豆漿", "url": "/food/台灣豆漿與早餐店", "desc": "傳統豆漿店的現代化"}
+          ]
+        },
+        {
+          "name": "甜點冰品",
+          "children": [
+            {"name": "冰品文化", "url": "/food/台灣冰品文化", "desc": "消暑聖品與甜蜜記憶"},
+            {"name": "水果王國", "url": "/food/台灣水果王國", "desc": "天然甜美與加工創意"},
+            {"name": "麵包烘焙", "url": "/food/台灣麵包與烘焙", "desc": "東西方烘焙的在地化"}
+          ]
+        },
+        {
+          "name": "文化場域",
+          "children": [
+            {"name": "夜市文化", "url": "/food/夜市文化", "desc": "庶民美食的舞台"},
+            {"name": "夜市小吃圖鑑", "url": "/food/台灣夜市小吃圖鑑", "desc": "夜市美食完整導覽"},
+            {"name": "早餐文化", "url": "/food/台灣早餐文化", "desc": "東西融合的晨間飲食革命"},
+            {"name": "辦桌文化", "url": "/food/台灣辦桌文化", "desc": "集體用餐的儀式感"},
+            {"name": "地方小吃地圖", "url": "/food/台灣地方小吃地圖", "desc": "各縣市代表性美食"},
+            {"name": "米其林", "url": "/food/台灣米其林與精緻餐飲", "desc": "星級餐廳文化"}
+          ]
+        },
+        {
+          "name": "族群記憶",
+          "children": [
+            {"name": "眷村菜", "url": "/food/台灣眷村菜", "desc": "外省移民的鄉愁地圖"},
+            {"name": "原住民飲食", "url": "/food/台灣原住民飲食文化", "desc": "島嶼美食的原始基因"},
+            {"name": "客家飲食", "url": "/food/客家飲食文化", "desc": "醃漬保存的生活哲學"},
+            {"name": "新住民美食", "url": "/food/台灣新住民美食融合", "desc": "多元文化餐桌"}
+          ]
+        },
+        {
+          "name": "工藝傳承",
+          "children": [
+            {"name": "發酵醃製", "url": "/food/台灣發酵食品與醃製文化", "desc": "時間的魔法"},
+            {"name": "醬料調味", "url": "/food/台灣醬料與調味", "desc": "台式口味的靈魂"},
+            {"name": "素食文化", "url": "/food/台灣素食文化", "desc": "宗教信仰與創意料理"}
+          ]
+        }
+      ]
+    };
+
+    const networkData = {
+      "nodes": [
+        {"id": "牛肉麵", "group": "主食", "url": "/food/牛肉麵"},
+        {"id": "滷肉飯", "group": "主食", "url": "/food/台灣滷肉飯"},
+        {"id": "小吃", "group": "主食", "url": "/food/台灣小吃"},
+        {"id": "米食文化", "group": "主食", "url": "/food/台灣米食文化"},
+        {"id": "麵食文化", "group": "主食", "url": "/food/台灣麵食文化"},
+        {"id": "海鮮文化", "group": "主食", "url": "/food/台灣海鮮文化"},
+        {"id": "鹹酥雞", "group": "主食", "url": "/food/台灣鹹酥雞"},
+        {"id": "手路菜", "group": "主食", "url": "/food/台灣手路菜"},
+        {"id": "珍珠奶茶", "group": "飲品", "url": "/food/珍珠奶茶"},
+        {"id": "手搖飲", "group": "飲品", "url": "/food/台灣手搖飲文化"},
+        {"id": "茶文化", "group": "飲品", "url": "/food/茶文化"},
+        {"id": "咖啡", "group": "飲品", "url": "/food/台灣咖啡產業"},
+        {"id": "豆漿", "group": "飲品", "url": "/food/台灣豆漿與早餐店"},
+        {"id": "冰品文化", "group": "甜點冰品", "url": "/food/台灣冰品文化"},
+        {"id": "水果王國", "group": "甜點冰品", "url": "/food/台灣水果王國"},
+        {"id": "麵包烘焙", "group": "甜點冰品", "url": "/food/台灣麵包與烘焙"},
+        {"id": "夜市文化", "group": "場域", "url": "/food/夜市文化"},
+        {"id": "夜市小吃圖鑑", "group": "場域", "url": "/food/台灣夜市小吃圖鑑"},
+        {"id": "早餐文化", "group": "場域", "url": "/food/台灣早餐文化"},
+        {"id": "辦桌文化", "group": "場域", "url": "/food/台灣辦桌文化"},
+        {"id": "地方小吃地圖", "group": "場域", "url": "/food/台灣地方小吃地圖"},
+        {"id": "米其林", "group": "場域", "url": "/food/台灣米其林與精緻餐飲"},
+        {"id": "眷村菜", "group": "族群記憶", "url": "/food/台灣眷村菜"},
+        {"id": "原住民飲食", "group": "族群記憶", "url": "/food/台灣原住民飲食文化"},
+        {"id": "客家飲食", "group": "族群記憶", "url": "/food/客家飲食文化"},
+        {"id": "新住民美食", "group": "族群記憶", "url": "/food/台灣新住民美食融合"},
+        {"id": "發酵醃製", "group": "工藝傳承", "url": "/food/台灣發酵食品與醃製文化"},
+        {"id": "醬料調味", "group": "工藝傳承", "url": "/food/台灣醬料與調味"},
+        {"id": "素食文化", "group": "工藝傳承", "url": "/food/台灣素食文化"}
+      ],
+      "links": [
+        {"source": "夜市文化", "target": "夜市小吃圖鑑", "strength": 1},
+        {"source": "夜市文化", "target": "鹹酥雞", "strength": 0.8},
+        {"source": "夜市文化", "target": "滷肉飯", "strength": 0.6},
+        {"source": "珍珠奶茶", "target": "手搖飲", "strength": 1},
+        {"source": "珍珠奶茶", "target": "茶文化", "strength": 0.8},
+        {"source": "茶文化", "target": "咖啡", "strength": 0.5},
+        {"source": "眷村菜", "target": "牛肉麵", "strength": 0.9},
+        {"source": "眷村菜", "target": "麵食文化", "strength": 0.7},
+        {"source": "原住民飲食", "target": "海鮮文化", "strength": 0.6},
+        {"source": "客家飲食", "target": "發酵醃製", "strength": 0.8},
+        {"source": "早餐文化", "target": "豆漿", "strength": 1},
+        {"source": "小吃", "target": "夜市文化", "strength": 0.9},
+        {"source": "小吃", "target": "鹹酥雞", "strength": 0.8},
+        {"source": "小吃", "target": "滷肉飯", "strength": 0.7},
+        {"source": "辦桌文化", "target": "手路菜", "strength": 0.9},
+        {"source": "辦桌文化", "target": "海鮮文化", "strength": 0.7},
+        {"source": "冰品文化", "target": "水果王國", "strength": 0.8},
+        {"source": "水果王國", "target": "手搖飲", "strength": 0.5},
+        {"source": "米食文化", "target": "滷肉飯", "strength": 0.7},
+        {"source": "麵食文化", "target": "牛肉麵", "strength": 0.9},
+        {"source": "醬料調味", "target": "發酵醃製", "strength": 0.8},
+        {"source": "素食文化", "target": "辦桌文化", "strength": 0.5},
+        {"source": "米其林", "target": "手路菜", "strength": 0.8},
+        {"source": "新住民美食", "target": "夜市文化", "strength": 0.6},
+        {"source": "新住民美食", "target": "小吃", "strength": 0.5},
+        {"source": "地方小吃地圖", "target": "夜市文化", "strength": 0.8},
+        {"source": "地方小吃地圖", "target": "小吃", "strength": 0.9},
+        {"source": "麵包烘焙", "target": "早餐文化", "strength": 0.6}
+      ]
+    };
+
+    // 配色
+    const groupColors = {
+      '主食': '#E85D3A',
+      '飲品': '#8B6F47',
+      '甜點冰品': '#E89B3A',
+      '場域': '#C44569',
+      '族群記憶': '#546E7A',
+      '工藝傳承': '#6A8B3D'
+    };
+
+    // Tab 切換功能
+    document.querySelectorAll('.viz-tab').forEach(tab => {
+      tab.addEventListener('click', () => {
+        document.querySelectorAll('.viz-tab').forEach(t => t.classList.remove('active'));
+        tab.classList.add('active');
+        const viz = tab.dataset.viz;
+        document.getElementById('sunburstViz').style.display = viz === 'sunburst' ? 'block' : 'none';
+        document.getElementById('networkViz').style.display = viz === 'network' ? 'block' : 'none';
+        
+        // 重新渲染當前視圖
+        if (viz === 'sunburst') {
+          renderSunburst();
+        } else {
+          renderNetwork();
+        }
+      });
+    });
+
+    // 創建圖例
+    function createLegend() {
+      const legend = document.getElementById('vizLegend');
+      legend.innerHTML = '';
+      
+      Object.entries(groupColors).forEach(([group, color]) => {
+        const item = document.createElement('div');
+        item.className = 'legend-item';
+        item.innerHTML = `
+          <div class="legend-color" style="background-color: ${color}"></div>
+          <span>${group}</span>
+        `;
+        legend.appendChild(item);
+      });
+    }
+
+    // 渲染 Sunburst Chart
+    function renderSunburst() {
+      const container = document.getElementById('sunburstViz');
+      container.innerHTML = '';
+      
+      const width = 600;
+      const height = 600;
+      const radius = Math.min(width, height) / 2 - 10;
+      const centerRadius = 80;
+      
+      const svg = d3.select(container)
+        .append('svg')
+        .attr('viewBox', `0 0 ${width} ${height}`)
+        .attr('width', '100%')
+        .attr('height', 'auto');
+        
+      const g = svg.append('g')
+        .attr('transform', `translate(${width / 2}, ${height / 2})`);
+
+      // 準備數據
+      const root = d3.hierarchy(foodData)
+        .sum(d => d.children ? 0 : 1)
+        .sort((a, b) => b.value - a.value);
+
+      // 分區布局
+      const partition = d3.partition().size([2 * Math.PI, radius]);
+      partition(root);
+
+      // 弧生成器
+      const arc = d3.arc()
+        .startAngle(d => d.x0)
+        .endAngle(d => d.x1)
+        .innerRadius(d => Math.max(0, d.y0))
+        .outerRadius(d => Math.max(0, d.y1));
+
+      // 中心文字
+      g.append('circle')
+        .attr('r', centerRadius)
+        .attr('fill', '#fff')
+        .attr('stroke', '#e2e8f0')
+        .attr('stroke-width', 2);
+
+      g.append('text')
+        .attr('text-anchor', 'middle')
+        .attr('dy', '-0.1em')
+        .style('font-size', '24px')
+        .style('font-weight', '700')
+        .style('fill', '#1a1a2e')
+        .text('🍜');
+
+      g.append('text')
+        .attr('text-anchor', 'middle')
+        .attr('dy', '1.2em')
+        .style('font-size', '16px')
+        .style('font-weight', '600')
+        .style('fill', '#1a1a2e')
+        .text('台灣味');
+
+      // 中心顯示區域（用於 hover 顯示）
+      const centerText = g.append('text')
+        .attr('text-anchor', 'middle')
+        .attr('dy', '2.8em')
+        .style('font-size', '12px')
+        .style('fill', '#64748b')
+        .style('opacity', 0);
+
+      // 繪製扇形
+      const path = g.selectAll('path')
+        .data(root.descendants().slice(1))
+        .enter().append('path')
+        .attr('d', arc)
+        .attr('fill', d => {
+          if (d.depth === 1) {
+            return groupColors[d.data.name] || '#94a3b8';
+          } else {
+            const parent = d.parent;
+            const color = groupColors[parent.data.name] || '#94a3b8';
+            return d3.color(color).brighter(0.3);
+          }
+        })
+        .attr('stroke', '#fff')
+        .attr('stroke-width', 1)
+        .style('cursor', d => d.depth === 2 && d.data.url ? 'pointer' : 'default')
+        .style('opacity', 0.9);
+
+      // 交互效果
+      path.on('mouseenter', function(event, d) {
+        d3.select(this).style('opacity', 1).attr('stroke-width', 2);
+        
+        if (d.data.desc) {
+          centerText
+            .text(d.data.desc)
+            .style('opacity', 1)
+            .transition()
+            .duration(200)
+            .style('opacity', 0.8);
+        }
+      })
+      .on('mouseleave', function(event, d) {
+        d3.select(this).style('opacity', 0.9).attr('stroke-width', 1);
+        
+        centerText
+          .transition()
+          .duration(200)
+          .style('opacity', 0);
+      })
+      .on('click', function(event, d) {
+        if (d.depth === 2 && d.data.url) {
+          window.location.href = d.data.url;
+        }
+      });
+
+      // 添加文字標籤（僅第一層）
+      const text = g.selectAll('text.category-label')
+        .data(root.children)
+        .enter().append('text')
+        .attr('class', 'category-label')
+        .attr('transform', function(d) {
+          const angle = (d.x0 + d.x1) / 2 * 180 / Math.PI;
+          const radius = (d.y0 + d.y1) / 2;
+          return `rotate(${angle - 90}) translate(${radius},0) rotate(${angle < 180 ? 0 : 180})`;
+        })
+        .attr('dy', '0.35em')
+        .style('text-anchor', function(d) {
+          const angle = (d.x0 + d.x1) / 2;
+          return angle < Math.PI ? 'start' : 'end';
+        })
+        .style('font-size', '12px')
+        .style('font-weight', '600')
+        .style('fill', '#1a1a2e')
+        .text(d => d.data.name);
+    }
+
+    // 渲染 Force-Directed Graph
+    function renderNetwork() {
+      const container = document.getElementById('networkViz');
+      container.innerHTML = '';
+      
+      const width = 800;
+      const height = 500;
+      
+      const svg = d3.select(container)
+        .append('svg')
+        .attr('viewBox', `0 0 ${width} ${height}`)
+        .attr('width', '100%')
+        .attr('height', 'auto');
+
+      // 支援縮放和拖移
+      const zoom = d3.zoom()
+        .scaleExtent([0.5, 3])
+        .on('zoom', function(event) {
+          g.attr('transform', event.transform);
+        });
+
+      svg.call(zoom);
+
+      const g = svg.append('g');
+
+      // 準備數據
+      const nodes = networkData.nodes.map(d => ({...d}));
+      const links = networkData.links.map(d => ({...d}));
+
+      // 力導向模擬
+      const simulation = d3.forceSimulation(nodes)
+        .force('link', d3.forceLink(links).id(d => d.id).distance(d => 80 / d.strength))
+        .force('charge', d3.forceManyBody().strength(-200))
+        .force('center', d3.forceCenter(width / 2, height / 2))
+        .force('collision', d3.forceCollide().radius(30));
+
+      // 繪製連線
+      const link = g.append('g')
+        .attr('stroke', '#999')
+        .attr('stroke-opacity', 0.3)
+        .selectAll('line')
+        .data(links)
+        .join('line')
+        .attr('stroke-width', d => Math.sqrt(d.strength * 3));
+
+      // 繪製節點
+      const node = g.append('g')
+        .selectAll('circle')
+        .data(nodes)
+        .join('circle')
+        .attr('r', d => {
+          const degree = links.filter(l => l.source.id === d.id || l.target.id === d.id).length;
+          return Math.max(8, Math.sqrt(degree) * 4);
+        })
+        .attr('fill', d => groupColors[d.group] || '#94a3b8')
+        .attr('stroke', '#fff')
+        .attr('stroke-width', 2)
+        .style('cursor', 'pointer')
+        .call(drag(simulation));
+
+      // 節點標籤
+      const label = g.append('g')
+        .selectAll('text')
+        .data(nodes)
+        .join('text')
+        .text(d => d.id)
+        .style('font-size', '11px')
+        .style('font-weight', '500')
+        .style('fill', '#1a1a2e')
+        .attr('text-anchor', 'middle')
+        .attr('dy', '0.35em')
+        .style('pointer-events', 'none');
+
+      // 拖拽功能
+      function drag(simulation) {
+        function dragstarted(event) {
+          if (!event.active) simulation.alphaTarget(0.3).restart();
+          event.subject.fx = event.subject.x;
+          event.subject.fy = event.subject.y;
+        }
+        
+        function dragged(event) {
+          event.subject.fx = event.x;
+          event.subject.fy = event.y;
+        }
+        
+        function dragended(event) {
+          if (!event.active) simulation.alphaTarget(0);
+          event.subject.fx = null;
+          event.subject.fy = null;
+        }
+        
+        return d3.drag()
+          .on('start', dragstarted)
+          .on('drag', dragged)
+          .on('end', dragended);
+      }
+
+      // 交互效果
+      node.on('mouseenter', function(event, d) {
+        // 高亮相關節點和連線
+        const connectedNodes = new Set([d.id]);
+        const connectedLinks = links.filter(l => 
+          l.source.id === d.id || l.target.id === d.id
+        );
+        
+        connectedLinks.forEach(l => {
+          connectedNodes.add(l.source.id);
+          connectedNodes.add(l.target.id);
+        });
+
+        // 淡化其他元素
+        node.style('opacity', n => connectedNodes.has(n.id) ? 1 : 0.1);
+        link.style('opacity', l => 
+          l.source.id === d.id || l.target.id === d.id ? 0.8 : 0.05
+        );
+        label.style('opacity', n => connectedNodes.has(n.id) ? 1 : 0.2);
+      })
+      .on('mouseleave', function() {
+        // 恢復所有元素
+        node.style('opacity', 1);
+        link.style('opacity', 0.3);
+        label.style('opacity', 1);
+      })
+      .on('click', function(event, d) {
+        if (d.url) {
+          window.location.href = d.url;
+        }
+      });
+
+      // 更新位置
+      simulation.on('tick', () => {
+        link
+          .attr('x1', d => d.source.x)
+          .attr('y1', d => d.source.y)
+          .attr('x2', d => d.target.x)
+          .attr('y2', d => d.target.y);
+
+        node
+          .attr('cx', d => d.x)
+          .attr('cy', d => d.y);
+
+        label
+          .attr('x', d => d.x)
+          .attr('y', d => d.y);
+      });
+    }
+
+    // 初始化
+    createLegend();
+    renderSunburst();
+  });
 </script>
