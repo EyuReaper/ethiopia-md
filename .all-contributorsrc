@@ -150,6 +150,35 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/48248414?v=4",
       "profile": "https://github.com/eryet",
       "contributions": ["code"]
+    },
+    {
+      "login": "x1001000",
+      "name": "十百千",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6036508?v=4",
+      "profile": "https://github.com/x1001000",
+      "contributions": ["content"]
+    },
+    {
+      "login": "RayHsu1117",
+      "name": "RayHsu1117",
+      "avatar_url": "https://avatars.githubusercontent.com/u/105488123?v=4",
+      "profile": "https://github.com/RayHsu1117",
+      "contributions": ["code"]
+    },
+    {
+      "login": "AndyWang505",
+      "name": "Andy Wang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71600455?v=4",
+      "profile": "https://andywangtw.dev/",
+      "contributions": ["code"]
+    },
+    {
+      "login": "p3nchan",
+      "name": "Penchan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5032148?v=4",
+      "profile": "https://penchan.co/",
+      "contributions": ["content"]
     }
   ]
 }
+
