@@ -1,12 +1,12 @@
 {
-  "totalArticles": 898,
+  "totalArticles": 904,
   "totalCategories": 27,
-  "estimatedContributors": 60,
-  "totalTags": 2343,
+  "estimatedContributors": 61,
+  "totalTags": 2364,
   "categories": [
     {
       "name": "en",
-      "count": 465
+      "count": 468
     },
     {
       "name": "History",
@@ -14,7 +14,7 @@
     },
     {
       "name": "Culture",
-      "count": 30
+      "count": 31
     },
     {
       "name": "Society",
@@ -26,7 +26,7 @@
     },
     {
       "name": "People",
-      "count": 109
+      "count": 111
     },
     {
       "name": "ja",
@@ -120,7 +120,7 @@
     },
     {
       "name": "人物",
-      "count": 48
+      "count": 49
     },
     {
       "name": "企業",
@@ -128,7 +128,7 @@
     },
     {
       "name": "people",
-      "count": 20
+      "count": 21
     },
     {
       "name": "台灣",
@@ -151,6 +151,10 @@
       "count": 13
     },
     {
+      "name": "culture",
+      "count": 12
+    },
+    {
       "name": "歷史",
       "count": 11
     },
@@ -167,15 +171,15 @@
       "count": 11
     },
     {
+      "name": "文化",
+      "count": 11
+    },
+    {
       "name": "音樂",
       "count": 11
     },
     {
       "name": "體育",
-      "count": 11
-    },
-    {
-      "name": "culture",
       "count": 11
     },
     {
@@ -189,15 +193,11 @@
     {
       "name": "奧運",
       "count": 10
-    },
-    {
-      "name": "TSMC",
-      "count": 10
     }
   ],
   "languageDistribution": {
-    "zh-TW": 898,
+    "zh-TW": 904,
     "en": 0
   },
-  "lastUpdated": "2026-03-23T13:23:05.647Z"
+  "lastUpdated": "2026-03-23T13:32:04.788Z"
 }

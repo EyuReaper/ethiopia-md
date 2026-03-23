@@ -3497,6 +3497,22 @@
     "path": "Music/台灣KTV文化.md"
   },
   {
+    "title": "台灣VTuber",
+    "description": "一個不賣廣告、用台語唱歌的虛擬主播，如何在萬物皆可虛擬的時代重新定義台灣流行文化",
+    "category": "Culture",
+    "tags": [
+      "文化",
+      "科技",
+      "直播",
+      "虛擬偶像"
+    ],
+    "url": "https://taiwan.md/Culture/%E5%8F%B0%E7%81%A3VTuber",
+    "readingTime": 14,
+    "featured": false,
+    "date": "2026-03-23",
+    "path": "Culture/台灣VTuber.md"
+  },
+  {
     "title": "台灣YouTuber產業與文化：從蔡阿嘎到奇軒，一個島嶼的數位文化進化史",
     "description": "一個從魔術起家的創作者如何成為台灣首位千萬訂閱YouTuber？這背後是台灣網路影音文化從本土娛樂進化為國際輸出的完整故事",
     "category": "Culture",
@@ -4027,6 +4043,25 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "People/李國修.md"
+  },
+  {
+    "title": "李梅樹",
+    "description": "一位畫家花了36年建一座廟，把學院派美學搬進民間信仰",
+    "category": "People",
+    "tags": [
+      "人物",
+      "藝術",
+      "美術",
+      "三峽",
+      "祖師廟",
+      "寫實主義",
+      "台展"
+    ],
+    "url": "https://taiwan.md/People/%E6%9D%8E%E6%A2%85%E6%A8%B9",
+    "readingTime": 10,
+    "featured": false,
+    "date": "2026-03-23",
+    "path": "People/李梅樹.md"
   },
   {
     "title": "李智凱",
@@ -6268,6 +6303,22 @@
     "path": "People/蔡英文.md"
   },
   {
+    "title": "蔣為文：台語文運動的水牛戰士",
+    "description": "一個機械系畢業生，為什麼會成為最激進的台語文運動推行者？從 2011 年舉牌抗議黃春明到成為越南研究專家，蔣為文用行動詮釋語言即認同的終極信念。",
+    "category": "People",
+    "tags": [
+      "語言學家",
+      "台語文運動",
+      "母語教育",
+      "越南研究"
+    ],
+    "url": "https://taiwan.md/People/%E8%94%A3%E7%82%BA%E6%96%87",
+    "readingTime": 11,
+    "featured": false,
+    "date": "2026-03-23",
+    "path": "People/蔣為文.md"
+  },
+  {
     "title": "豬哥亮",
     "description": "台灣秀場文化代表，國民喜劇演員，2017年病逝",
     "category": "People",
@@ -7362,6 +7413,22 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "en/Economy/taiwan-companies-china-steel.md"
+  },
+  {
+    "title": "Chiung Wi-vun: The Buffalo Warrior of Taiwanese Language Movement",
+    "description": "Why did a mechanical engineering graduate become the most radical advocate for Taiwanese language rights? From his 2011 protest banner against Huang Chun-ming to becoming a Vietnam studies expert, Chiung Wi-vun embodies the belief that language equals identity.",
+    "category": "en",
+    "tags": [
+      "Linguist",
+      "Taiwanese Language Movement",
+      "Mother Tongue Education",
+      "Vietnam Studies"
+    ],
+    "url": "https://taiwan.md/en/People/chiung-wi-vun",
+    "readingTime": 37,
+    "featured": false,
+    "date": "2026-03-23",
+    "path": "en/People/chiung-wi-vun.md"
   },
   {
     "title": "Cho-yun Hsu: Bridging East and West as a Master Historian",
@@ -9116,6 +9183,25 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "en/People/li-guoxiu.md"
+  },
+  {
+    "title": "Li Mei-shu",
+    "description": "A painter who spent 36 years building a temple, bringing academic aesthetics into folk religion",
+    "category": "en",
+    "tags": [
+      "people",
+      "art",
+      "painting",
+      "sanxia",
+      "temple",
+      "realism",
+      "taiwan-exhibition"
+    ],
+    "url": "https://taiwan.md/en/People/li-mei-shu",
+    "readingTime": 35,
+    "featured": false,
+    "date": "2026-03-23",
+    "path": "en/People/li-mei-shu.md"
   },
   {
     "title": "Li Zongsheng (Jonathan Lee)",
@@ -11614,6 +11700,22 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "en/Geography/taiwan-transportation-network.md"
+  },
+  {
+    "title": "Taiwan VTuber",
+    "description": "How a virtual streamer who refuses ads and sings in Taiwanese Hokkien is redefining pop culture in the digital age",
+    "category": "en",
+    "tags": [
+      "culture",
+      "technology",
+      "streaming",
+      "virtual-idol"
+    ],
+    "url": "https://taiwan.md/en/Culture/taiwan-vtuber",
+    "readingTime": 43,
+    "featured": false,
+    "date": "2026-03-23",
+    "path": "en/Culture/taiwan-vtuber.md"
   },
   {
     "title": "Taiwan YouTuber Industry & Culture: From Tsai A-Ga to Chi Hsuan - A Digital Cultural Evolution",
