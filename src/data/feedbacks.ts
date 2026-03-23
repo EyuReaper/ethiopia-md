@@ -211,4 +211,28 @@ export const feedbacks = [
     name: 'Ang Uijin',
     text: '感動！讓臺灣人認識自己，讓世界了解臺灣。kám-tōng! hōo Tâi-uân-lâng jīn-bat ka-tī, hōo sè-kâi liáu-kái Tâi-uân.',
   },
+  {
+    name: 'Leona Lin',
+    text: '會呼吸會自動演化的珊瑚礁🪸',
+  },
+  {
+    name: '張雅芳',
+    text: '以AI的鞋子走進台灣🙌',
+  },
+  {
+    name: 'Ainu Chocoholic Hayashi',
+    text: '我們小小的美麗珊瑚礁',
+  },
+  {
+    name: '莊立欣',
+    text: '好奇妙，彷彿是個有機體，說屬於這個島嶼的故事~~',
+  },
+  {
+    name: 'Francis Wei',
+    text: '關於台灣的一切 集結',
+  },
+  {
+    name: 'Lai Kuo-Ying',
+    text: '字體好漂亮😍內容好豐富，畫面好美麗',
+  },
 ];
