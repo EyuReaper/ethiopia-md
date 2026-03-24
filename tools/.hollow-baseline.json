@@ -1,8 +1,8 @@
 {
   "version": "2.0",
-  "timestamp": "2026-03-24T17:52:44Z",
+  "timestamp": "2026-03-24T18:54:13Z",
   "total": 439,
-  "flagged": 149,
+  "flagged": 148,
   "files": [
     {"file": "_Home.md", "score": 9},
     {"file": "about/台灣官方網站資源.md", "score": 8},
@@ -36,7 +36,6 @@
     {"file": "economy/台灣企業：中華電信.md", "score": 6},
     {"file": "economy/台灣企業：仁寶電腦.md", "score": 6},
     {"file": "economy/台灣企業：台塑集團.md", "score": 6},
-    {"file": "economy/台灣企業：台積電.md", "score": 8},
     {"file": "economy/台灣企業：和碩聯合.md", "score": 4},
     {"file": "economy/台灣企業：國泰金控.md", "score": 6},
     {"file": "economy/台灣企業：宏碁.md", "score": 4},
