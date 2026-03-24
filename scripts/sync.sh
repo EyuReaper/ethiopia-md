@@ -15,7 +15,7 @@ echo "🔄 步驟 1/2: 同步 knowledge/ → src/content/..."
 # 建立目錄結構
 echo "📁 建立目錄結構..."
 mkdir -p src/content/zh-TW/{about,art,culture,economy,food,geography,history,lifestyle,music,nature,people,society,technology,resources}
-mkdir -p src/content/en/{about,food,history,nature,society,technology,resources}
+mkdir -p src/content/en/{about,art,culture,economy,food,geography,history,lifestyle,music,nature,people,society,technology,resources}
 
 # 統計初始檔案數
 KNOWLEDGE_COUNT=$(find knowledge/ -name "*.md" | wc -l)
@@ -70,7 +70,7 @@ done
 # 同步英文內容
 echo "🇺🇸 同步英文內容..."
 if [ -d "knowledge/en" ]; then
-  for category in About Food History Nature Society Technology; do
+  for category in About Art Culture Economy Food Geography Lifestyle Music People History Nature Society Technology; do
     if [ -d "knowledge/en/$category" ]; then
       lowercase_category=$(echo $category | tr '[:upper:]' '[:lower:]')
       for file in knowledge/en/$category/*.md; do
