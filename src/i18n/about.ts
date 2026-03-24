@@ -486,7 +486,7 @@ export const aboutUI = {
     'about.team.founder.tagline':
       '新媒體藝術家 ・ MonoLab 創辦人 ・ Taiwan.md 發起人',
     'about.team.founder.bio':
-      '哲宇是一位新媒體藝術家，相信演算法藝術不是讓電腦畫畫，而是設計生命的規則。他的作品探索數位生命、數學之美與人機共生的可能性。曾參與威尼斯雙年展、Art Basel Miami、巴黎 104 駐村，代表作包括台北 101 個展《萬物公式》、沈浸式鋼琴演奏會《演算詩篇》等。',
+      '哲宇是一位新媒體藝術家，相信演算法藝術不是讓電腦畫畫，而是設計生命的規則。他的作品探索數位生命、數學之美與人機共生的可能性。曾參與威尼斯雙年展、Art Basel Miami、巴黎 104 駐村，代表作包括台北 101 個展《萬物公式》、沉浸式鋼琴演奏會《演算詩篇》等。',
 
     // Founder links
     'about.team.founder.link.website': 'cheyuwu.com',
