@@ -398,7 +398,25 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "chenyi-wu",
+      "name": "Chen-Yi Wu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66383520?v=4",
+      "profile": "https://github.com/chenyi-wu",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "yuweichen1008",
+      "name": "Yuwei Chen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12914366?v=4",
+      "profile": "https://github.com/yuweichen1008",
+      "contributions": [
+        "content"
+      ]
     }
   ],
-  "totalContributors": 40
+  "totalContributors": 42
 }

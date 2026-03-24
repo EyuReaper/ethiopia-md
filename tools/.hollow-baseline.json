@@ -1,8 +1,8 @@
 {
   "version": "2.0",
-  "timestamp": "2026-03-24T18:54:13Z",
+  "timestamp": "2026-03-24T19:54:30Z",
   "total": 439,
-  "flagged": 148,
+  "flagged": 147,
   "files": [
     {"file": "_Home.md", "score": 9},
     {"file": "about/台灣官方網站資源.md", "score": 8},
@@ -94,7 +94,6 @@
     {"file": "lifestyle/台灣交通系統.md", "score": 4},
     {"file": "lifestyle/台灣便利商店文化.md", "score": 4},
     {"file": "lifestyle/台灣咖啡文化.md", "score": 4},
-    {"file": "lifestyle/台灣機車文化.md", "score": 7},
     {"file": "lifestyle/夜生活與KTV文化.md", "score": 5},
     {"file": "music/_Music Hub.md", "score": 7},
     {"file": "music/台灣KTV文化.md", "score": 4},
