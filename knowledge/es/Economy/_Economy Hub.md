@@ -1,5 +1,5 @@
 ---
-title: "Economía"
+title: 'Economía'
 date: 2026-03-17
 tags: [economía, Hub]
 description: "Taiwán pasó de ser miembro de los 'Cuatro Tigres Asiáticos' a convertirse en la 22.ª economía más grande del mundo, con un PIB per cápita de 30.000 dólares, logrando el 'Milagro Económico de Taiwán'. La industria de semiconductores se ha convertido en el pilar económico, representando el 18% del PIB, con TSMC contribuyendo solo el 7,9% del PIB de Taiwán, demostrando el poderoso impacto económico de su posición como 'Isla del Silicio'."
@@ -12,7 +12,7 @@ En la década de 1960, cuando los expertos del Banco Mundial llegaron a Taiwán 
 Hoy, cuando deslizas la pantalla de tu teléfono inteligente, cuando usas tu computadora portátil para trabajar, cuando enciendes el chip avanzado de tu vehículo eléctrico, es muy probable que estés usando semiconductores fabricados en Taiwán. Esta pequeña isla que ocupa solo el 0,025% de la superficie terrestre global, en realidad controla más del 60% de la capacidad de producción de semiconductores del mundo, convirtiéndose en el "escudo de silicio" indispensable del mundo digital. De una pobre sociedad agrícola a una próspera potencia tecnológica, la historia de transformación de la economía taiwanesa es uno de los capítulos más espectaculares en la historia del desarrollo humano.
 
 ![Planta de TSMC](/images/wiki/taiwan-coast-landscape.jpg)
-*Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TSMC_Fab5.JPG) | CC BY-SA 3.0 | Fotógrafo: Walter Siegmund*
+_Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TSMC_Fab5.JPG) | CC BY-SA 3.0 | Fotógrafo: Walter Siegmund_
 
 ## Años Milagrosos de Cero a Héroe
 
@@ -34,7 +34,7 @@ A fines de la década de 1980, cuando la industria manufacturera tradicional enf
 
 📖 Lectura adicional: [Morris Chang](/people/張忠謀) | [Industria de Semiconductores](/technology/半導體產業)
 
-El éxito de la [[industria de semiconductores]] impulsó el establecimiento de todo un ecosistema tecnológico. [[MediaTek]] compite con Qualcomm en el campo de chips para teléfonos móviles, [[ASE]] se mantiene líder en el mercado de empaquetado y prueba de semiconductores, [[UMC]] es única en procesos especiales. Desde diseño de CI, fabricación de obleas hasta empaquetado y prueba, Taiwán ha establecido la cadena de industria de semiconductores más completa del mundo, haciendo que "Isla del Silicio" no sea una metáfora romántica, sino una realidad geopolítica seria.
+El éxito de la [[industria de semiconductores]] impulsó el establecimiento de todo un ecosistema tecnológico. [[mediatek]] compite con Qualcomm en el campo de chips para teléfonos móviles, [[ASE]] se mantiene líder en el mercado de empaquetado y prueba de semiconductores, [[UMC]] es única en procesos especiales. Desde diseño de CI, fabricación de obleas hasta empaquetado y prueba, Taiwán ha establecido la cadena de industria de semiconductores más completa del mundo, haciendo que "Isla del Silicio" no sea una metáfora romántica, sino una realidad geopolítica seria.
 
 ## Milagro Innovador de Clusters Tecnológicos
 
@@ -91,11 +91,11 @@ Cuando los expertos del Banco Mundial revisan la experiencia taiwanesa, ven un g
 En la reorganización de la cadena de suministro global de hoy, el ascenso de la economía digital, el agravamiento del cambio climático, el mundo necesita más que nunca la sabiduría y experiencia de Taiwán. Cómo esta pequeña isla mantiene su vitalidad innovadora en los cambios, cómo mantiene el espíritu de cooperación en la competencia, cómo persiste en el concepto sostenible en el crecimiento, todos estos serán temas comunes que enfrenta la humanidad. El próximo capítulo de la economía taiwanesa no es solo la historia de Taiwán, sino también la historia del mundo.
 
 ![Edificio Taipei 101](/images/wiki/e78df09feea3.jpg)
-*Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taipei_101_2009_amk.jpg) | CC BY-SA 3.0 | Fotógrafo: Andreas Krebs*
+_Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taipei_101_2009_amk.jpg) | CC BY-SA 3.0 | Fotógrafo: Andreas Krebs_
 
 ## Lectura Adicional
 
-- [[TSMC]]​: Desarrollo del líder de la industria de semiconductores global
+- [[tsmc]]​: Desarrollo del líder de la industria de semiconductores global
 - [[Parque Científico de Hsinchu]]​: Lugar de origen de la industria de alta tecnología de Taiwán
 - [[Cuatro Tigres Asiáticos]]​: Comparación internacional del milagro económico taiwanés
 - [[Industria de Semiconductores]]​: Base tecnológica de la posición de Isla del Silicio de Taiwán
@@ -108,4 +108,4 @@ En la reorganización de la cadena de suministro global de hoy, el ascenso de la
 
 ---
 
-*El milagro de la economía taiwanesa radica en conquistar el océano con la sabiduría de una isla y ganar el respeto del mundo con el coraje de la innovación.*
+_El milagro de la economía taiwanesa radica en conquistar el océano con la sabiduría de una isla y ganar el respeto del mundo con el coraje de la innovación._

@@ -1,5 +1,5 @@
 ---
-title: "Sociedad"
+title: 'Sociedad'
 date: 2026-03-17
 tags: [sociedad, Hub]
 description: "Taiwán ocupa el puesto 12 global y el primero en Asia en el Índice de Democracia de The Economist, siendo el único país de 'democracia completa' en Asia. En 2019 se convirtió en el primer país de Asia en legalizar el matrimonio entre personas del mismo sexo, liderando Asia en protección de derechos humanos, igualdad de género y tecnología cívica. Desde la transición del autoritarismo a la democracia, estableciendo una sociedad civil activa, proporciona un modelo importante para la democratización del mundo de habla china."
@@ -14,7 +14,7 @@ Hoy, cuando Taiwán ocupa el puesto doce global y el primero en Asia en el Índi
 La historia de la sociedad taiwanesa le dice al mundo una verdad importante: la democracia no es un monopolio de Occidente, la libertad no es un privilegio de una cultura específica, los derechos humanos no son exclusivos de ciertas naciones. En esta pequeña isla, la sociedad de habla china ha demostrado con acciones reales que anhelamos igualmente la dignidad, valoramos igualmente la libertad, y tenemos igualmente la capacidad de construir una sociedad democrática diversa, inclusiva y próspera.
 
 ![Cámara Legislativa](/images/wiki/0b2be9fb3977.jpg)
-*Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwan_Parliament_2016.jpg) | CC BY-SA 4.0*
+_Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwan_Parliament_2016.jpg) | CC BY-SA 4.0_
 
 ## Milagro Democrático del Silencio a Múltiples Voces
 
@@ -28,7 +28,7 @@ Pero lo que realmente hace que la democracia taiwanesa sea diferente no es el es
 
 El logro más orgulloso de la sociedad taiwanesa quizás sea su posición de liderazgo en la protección de derechos humanos. El 17 de mayo de 2019, Taiwán se convirtió en el primer país/región de Asia en legalizar el [[matrimonio entre personas del mismo sexo]]. Esta decisión histórica no se logró de la noche a la mañana, sino que es el resultado de décadas de aceptación gradual de valores diversos por parte de la sociedad taiwanesa.
 
-Comenzando desde el [[movimiento feminista]] de la década de 1980, la conciencia de [[igualdad de género]] de Taiwán ha mejorado continuamente. Hoy, la proporción de legisladoras femeninas en Taiwán alcanza el 41,6%, la proporción de mujeres en el gabinete supera el 30%, ocupando el sexto lugar en el índice global de igualdad de género. [[Tsai Ing-wen]] se convirtió en la primera mujer presidenta de Taiwán, no solo fue un avance para Taiwán, sino también un momento histórico para todo el mundo de habla china.
+Comenzando desde el [[movimiento feminista]] de la década de 1980, la conciencia de [[igualdad de género]] de Taiwán ha mejorado continuamente. Hoy, la proporción de legisladoras femeninas en Taiwán alcanza el 41,6%, la proporción de mujeres en el gabinete supera el 30%, ocupando el sexto lugar en el índice global de igualdad de género. [[tsai-ing-wen]] se convirtió en la primera mujer presidenta de Taiwán, no solo fue un avance para Taiwán, sino también un momento histórico para todo el mundo de habla china.
 
 El progreso de los [[derechos LGBTQ+]] es un indicador importante de la inclusividad de la sociedad taiwanesa. Desde el surgimiento del [[movimiento LGBT]] en la década de 1990, hasta el primer [[Desfile del Orgullo LGBT de Taiwán]] en 2003, y luego la legalización del matrimonio entre personas del mismo sexo en 2019, Taiwán completó en menos de treinta años el progreso social que muchos países occidentales tardaron décadas en lograr. El Desfile del Orgullo LGBT de Taiwán en octubre de cada año atrae a más de cien mil participantes, convirtiéndose en la mayor actividad de igualdad LGBT en Asia.
 
@@ -38,7 +38,7 @@ La protección de los [[derechos indígenas]] también es un aspecto importante 
 
 Ante el trauma histórico dejado por el gobierno autoritario, Taiwán eligió el camino de enfrentar valientemente el pasado. El establecimiento de la [[Comisión para Promover la Justicia Transicional]] marca la búsqueda de Taiwán por la verdad histórica y la preocupación por las víctimas. A través de investigación y estudio sistemáticos, la Comisión ha manejado más de quince mil casos de víctimas políticas, permitiendo que la verdad histórica vea la luz nuevamente.
 
-La rehabilitación del [[Incidente 228]] es un resultado importante de la justicia transicional. Desde la década de 1980, la sociedad taiwanesa gradualmente rompió el tabú, discutiendo esta historia encubierta. El Día Conmemorativo de la Paz 228 se convirtió en feriado nacional, el establecimiento del Museo Nacional Conmemorativo del 228, la rehabilitación y compensación de víctimas, todos demuestran el coraje de la sociedad taiwanesa para enfrentar la historia.
+La rehabilitación del [[228-incident]] es un resultado importante de la justicia transicional. Desde la década de 1980, la sociedad taiwanesa gradualmente rompió el tabú, discutiendo esta historia encubierta. El Día Conmemorativo de la Paz 228 se convirtió en feriado nacional, el establecimiento del Museo Nacional Conmemorativo del 228, la rehabilitación y compensación de víctimas, todos demuestran el coraje de la sociedad taiwanesa para enfrentar la historia.
 
 La persecución política del período de [[Terror Blanco]] también recibió la revisión debida. Innumerables víctimas políticas fueron rehabilitadas, sus historias fueron registradas, su dignidad fue restaurada. El establecimiento del [[Museo Nacional de Derechos Humanos]] no es solo un memorial para las víctimas, sino también un recordatorio para las futuras generaciones: la democracia y los derechos humanos no vienen fácilmente, necesitan protección generación tras generación.
 
@@ -52,9 +52,9 @@ Durante la pandemia de COVID-19, la [[prevención digital de epidemias]] de Taiw
 
 ## Coexistencia Armoniosa de una Sociedad Diversa
 
-La mayor característica de la sociedad taiwanesa es su [[diversidad]]. En esta pequeña isla, [[hoklo]], [[hakka]], [[indígenas]], [[grupos de provincias externas]] y [[nuevos inmigrantes]] coexisten armoniosamente, formando un patrón único de [[cultura multicultural]]. Esta diversidad no es un concepto teórico, sino la realidad de la vida cotidiana.
+La mayor característica de la sociedad taiwanesa es su [[diversidad]]. En esta pequeña isla, [[hoklo]], [[客家文化與語言]], [[indígenas]], [[grupos de provincias externas]] y [[nuevos inmigrantes]] coexisten armoniosamente, formando un patrón único de [[cultura multicultural]]. Esta diversidad no es un concepto teórico, sino la realidad de la vida cotidiana.
 
-Al entrar en cualquier comunidad taiwanesa, puedes ver escenas de diferentes grupos étnicos conviviendo pacíficamente. El [[hokkien]] tradicional, el [[hakka]], las [[lenguas indígenas]] y el [[mandarín]] moderno se usan entrelazados, formando el paisaje lingüístico único de Taiwán. Diferentes creencias religiosas coexisten en la misma calle, templos [[budistas]], templos [[taoístas]], iglesias [[cristianas]], iglesias [[católicas]] y mezquitas [[islámicas]] pueden encontrar su lugar.
+Al entrar en cualquier comunidad taiwanesa, puedes ver escenas de diferentes grupos étnicos conviviendo pacíficamente. El [[hokkien]] tradicional, el [[客家文化與語言]], las [[lenguas indígenas]] y el [[mandarín]] moderno se usan entrelazados, formando el paisaje lingüístico único de Taiwán. Diferentes creencias religiosas coexisten en la misma calle, templos [[budistas]], templos [[taoístas]], iglesias [[cristianas]], iglesias [[católicas]] y mezquitas [[islámicas]] pueden encontrar su lugar.
 
 La integración de [[nuevos inmigrantes]] es el capítulo más reciente de la sociedad diversa taiwanesa. Los nuevos inmigrantes del sudeste asiático han traído nuevos elementos culturales a Taiwán, desde [[cocina vietnamita]] hasta [[masaje tailandés]], desde [[cultura indonesia]] hasta [[música filipina]], estas culturas diversas han enriquecido el contenido de la sociedad taiwanesa. La incorporación de [[lenguas de nuevos inmigrantes]] al currículo de educación nacional muestra aún más el respeto de Taiwán por la diversidad cultural.
 
@@ -93,7 +93,7 @@ La historia de la sociedad taiwanesa continúa escribiéndose, pero ya ha dejado
 Cuando cae la noche, los [[mercados nocturnos]] de varios lugares de Taiwán están brillantemente iluminados, cuando personas de diferentes grupos étnicos, diferentes edades, diferentes orígenes se reúnen para degustar gastronomía y disfrutar de la vida, lo que vemos es la apariencia más hermosa de una sociedad: diversa pero armoniosa, libre pero ordenada, progresista pero inclusiva. Este es el valor más precioso de la sociedad taiwanesa, y también el mejor regalo que da al mundo.
 
 ![Desfile por la Igualdad en el Matrimonio](/images/wiki/76b17af8726c.jpg)
-*Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwan_Pride_2016_DSC_0652_(30457071235).jpg) | CC BY 2.0 | Fotógrafo: Abby Chen*
+_Fuente de la imagen: [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Taiwan_Pride_2016_DSC_0652_(30457071235).jpg>) | CC BY 2.0 | Fotógrafo: Abby Chen_
 
 ## Lectura Adicional
 
@@ -105,9 +105,9 @@ Cuando cae la noche, los [[mercados nocturnos]] de varios lugares de Taiwán est
 - [[Democracia Digital]]​: Combinación innovadora de tecnología y democracia
 - [[g0v Gobierno Cero]]​: Espíritu de código abierto de la tecnología cívica
 - [[Comisión para Promover la Justicia Transicional]]​: La búsqueda de la verdad histórica
-- [[Incidente 228]]​: Rehabilitación y reconciliación de la memoria histórica
+- [[228-incident]]​: Rehabilitación y reconciliación de la memoria histórica
 - [[Terror Blanco]]​: Persecución política bajo el gobierno autoritario
 
 ---
 
-*La grandeza de la sociedad taiwanesa radica en que con la práctica demostró que la libertad y el orden pueden coexistir, la diversidad y la armonía pueden fusionarse, el progreso y la tradición pueden prosperar juntos.*
+_La grandeza de la sociedad taiwanesa radica en que con la práctica demostró que la libertad y el orden pueden coexistir, la diversidad y la armonía pueden fusionarse, el progreso y la tradición pueden prosperar juntos._

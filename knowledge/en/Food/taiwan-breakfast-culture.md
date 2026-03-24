@@ -2,14 +2,24 @@
 title: 'Taiwan Breakfast Culture'
 description: "From dan bing and shao bing you tiao to Yonghe Soy Milk's global expansion, breakfast shop aunties and Taiwanese morning rituals"
 date: 2026-03-18
-tags: ['breakfast', 'dan bing', 'shao bing you tiao', 'Yonghe Soy Milk', 'Mei Er Mei', 'breakfast shop', 'soy milk shop']
+tags:
+  [
+    'breakfast',
+    'dan bing',
+    'shao bing you tiao',
+    'Yonghe Soy Milk',
+    'Mei Er Mei',
+    'breakfast shop',
+    'soy milk shop',
+  ]
 category: 'Food'
 lastVerified: 2026-03-19
 lastHumanReview: false
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Taiwanese_danbing_and_sandwitch.jpg/960px-Taiwanese_danbing_and_sandwitch.jpg"
-imageAlt: "Taiwanese Dan Bing"
-imageCredit: "Wikimedia Commons, CC BY-SA"
+image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Taiwanese_danbing_and_sandwitch.jpg/960px-Taiwanese_danbing_and_sandwitch.jpg'
+imageAlt: 'Taiwanese Dan Bing'
+imageCredit: 'Wikimedia Commons, CC BY-SA'
 ---
+
 # Taiwan Breakfast Culture
 
 At 6:30 AM, Taiwan's streets begin to awaken. Breakfast shop aunties have been busy for an hour already—dan bing (蛋餅, egg crepes) sizzling on griddles, golden you tiao (oil sticks) tumbling in oil vats, and soy milk machines humming as they grind fresh soybeans. Office workers queue for familiar orders: "dan bing with cheese, soy milk without ice," while students clutch pocket money for shao bing (烧饼, baked flatbread) with egg. This is how Taiwanese begin their day, and it represents one of the world's most diverse breakfast cultures.
@@ -29,7 +39,7 @@ Traditional Taiwanese agricultural society actually lacked the concept of "break
 
 - **Dawn Work:** Rise at daybreak, farm work first
 - **Morning Meal:** First meal around 10 AM
-- **Afternoon Snack:** Simple food in the afternoon  
+- **Afternoon Snack:** Simple food in the afternoon
 - **Evening Dinner:** Main meal at dusk
 
 This eating pattern began changing during Japanese rule. Japanese brought regular three-meal systems and punctual lifestyle rhythms. Combined with urbanization and industrialization, "breakfast" gradually became necessary.
@@ -349,7 +359,7 @@ Taiwan breakfast culture is a living cultural carrier, recording Taiwan society'
 
 ## Further Reading
 
-- [[Night Market Culture]] — Another important Taiwanese food culture space
+- [[night-market-culture]] — Another important Taiwanese food culture space
 - [[Taiwan Street Food]] — More Taiwan local delicacies
-- [[Convenience Store Culture]] — Another modern convenient dining choice in Taiwan
-- [[Tea Culture]] — Taiwan's traditional beverage cultural traditions
+- [[convenience-store-culture]] — Another modern convenient dining choice in Taiwan
+- [[tea-culture]] — Taiwan's traditional beverage cultural traditions

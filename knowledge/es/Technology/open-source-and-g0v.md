@@ -86,7 +86,11 @@ g0v demuestra la posibilidad de promover el gobierno abierto en sociedades de ha
 
 ## Temas relacionados
 
+<<<<<<< Updated upstream
+
+- # [[semiconductor-industry]]
 - [[Technology/Semiconductor Industry]]
-- [[Society/democratic-system]]
-- [[Lifestyle/convenience-store-culture]]
-- [[Economy/economic-miracle]]
+  > > > > > > > Stashed changes
+- [[democratic-system]]
+- [[convenience-store-culture]]
+- [[economic-miracle]]

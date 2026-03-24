@@ -63,7 +63,7 @@ On August 4, 1960, while revising _The Man from Nativeland_, Zhong Lihe suddenly
 
 Zhong Lihe's title as "Father of Taiwan Literature" is no accident. His works hold milestone significance in Taiwan literary development. First, he was among the earliest writers to use Taiwan local life as modern literary subject matter, establishing a nativist direction for Taiwan literature.
 
-Second, his creative attitude and literary spirit exemplified dedication for later writers. Persisting in creation under extremely difficult material conditions, this devotion to and passion for literature infected countless successors. Many renowned writers including [[Long Yingtai]] and [[Pai Hsien-yung]] have expressed admiration for Zhong Lihe.
+Second, his creative attitude and literary spirit exemplified dedication for later writers. Persisting in creation under extremely difficult material conditions, this devotion to and passion for literature infected countless successors. Many renowned writers including [[Long Yingtai]] and [[pai-hsien-yung-literary-master]] have expressed admiration for Zhong Lihe.
 
 Zhong Lihe's works also laid foundations for Taiwan nativist literature's development. His Hakka villages, farmer characters, and native language usage became objects of study and reference for later nativist writers. Without Zhong Lihe's pioneering contributions, the later flourishing of Taiwan nativist literature would not have been possible.
 

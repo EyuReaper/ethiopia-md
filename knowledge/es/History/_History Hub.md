@@ -1,8 +1,8 @@
 ---
-title: "Historia"
+title: 'Historia'
 date: 2026-03-17
 tags: [historia, Hub]
-description: "Comprender la historia de Taiwán es la clave para entender el Taiwán contemporáneo. El sistema político, la estructura social, las características culturales, el desarrollo económico e incluso los detalles de la vida cotidiana de Taiwán están profundamente marcados por las huellas de la historia. Desde la continuidad de la cultura indígena, la influencia de la experiencia colonial, el trauma del gobierno autoritario hasta los logros de la transición democrática, estas experiencias históricas han dado forma conjuntamente a la memoria colectiva y la identidad del pueblo taiwanés"
+description: 'Comprender la historia de Taiwán es la clave para entender el Taiwán contemporáneo. El sistema político, la estructura social, las características culturales, el desarrollo económico e incluso los detalles de la vida cotidiana de Taiwán están profundamente marcados por las huellas de la historia. Desde la continuidad de la cultura indígena, la influencia de la experiencia colonial, el trauma del gobierno autoritario hasta los logros de la transición democrática, estas experiencias históricas han dado forma conjuntamente a la memoria colectiva y la identidad del pueblo taiwanés'
 ---
 
 # Historia de Taiwán 🏛️
@@ -10,7 +10,7 @@ description: "Comprender la historia de Taiwán es la clave para entender el Tai
 En esta isla, la historia no es una carga pesada, sino sangre que fluye. Desde los fragmentos arqueológicos de la civilización prehistórica hasta la bandera ondeando frente a la Oficina Presidencial, cada esquina esconde historias emocionantes. Los cuatrocientos años de Taiwán son un viaje grandioso en busca de identidad, y también un testimonio de cómo la humanidad crea milagros en las grietas.
 
 ![Oficina Presidencial de Taipei](/images/wiki/9c3e53449201.jpg)
-*Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_Presidential-Office-Building-01.jpg) | CC BY-SA 4.0 | Fotógrafo: CEphoto, Uwe Aranas*
+_Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_Presidential-Office-Building-01.jpg) | CC BY-SA 4.0 | Fotógrafo: CEphoto, Uwe Aranas_
 
 ## La Memoria Milenaria de una Isla
 
@@ -53,21 +53,21 @@ En las calles y callejones de Taiwán, puedes escuchar la amabilidad del hokkien
 Hoy, cuando hablamos de la identidad "taiwanesa", ya no se refiere a un solo linaje o tradición cultural, sino a una experiencia común y una identificación de valores. Ya sea que tus ancestros vinieran de Quanzhou, Fujian; Meixian, Guangdong; Xiangtan, Hunan; o Hanói, Vietnam; Yakarta, Indonesia; siempre que te identifiques con esta tierra y estés dispuesto a crear el futuro junto con la gente de la isla, eres taiwanés. Este concepto de identidad inclusiva puede ser la revelación más valiosa que la historia taiwanesa ofrece al mundo.
 
 ![Memorial de Chiang Kai-shek](/images/wiki/aeba97222b07.jpg)
-*Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwan_Taipei_ChiangKaiShekMemorial_Square_amk.jpg) | CC BY-SA 3.0 | Fotógrafo: Andreas Krebs*
+_Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwan_Taipei_ChiangKaiShekMemorial_Square_amk.jpg) | CC BY-SA 3.0 | Fotógrafo: Andreas Krebs_
 
 ## Lectura Adicional
 
-- [[Era Prehistórica]]​: Pueblos austronesios y cultura indígena de Taiwán
+- [[prehistoric-era-and-indigenous-peoples]]​: Pueblos austronesios y cultura indígena de Taiwán
 - [[Período Holandés-Español]]​: Taiwán en la era de los grandes descubrimientos
 - [[Período Ming-Zheng]]​: Zheng Chenggong y la resistencia anti-Qing
-- [[Gobierno de la Dinastía Qing]]​: Desarrollo en la periferia del imperio
-- [[Era Colonial Japonesa]]​: Modernización y dominio colonial
-- [[Era de la Ley Marcial]]​: Gobierno autoritario y Terror Blanco
-- [[Democratización]]​: Revolución silenciosa y transición política
-- [[Incidente 228]]​: Trauma histórico y justicia transicional
+- [[qing-dynasty-rule]]​: Desarrollo en la periferia del imperio
+- [[japanese-colonial-era]]​: Modernización y dominio colonial
+- [[martial-law-era]]​: Gobierno autoritario y Terror Blanco
+- [[democratization]]​: Revolución silenciosa y transición política
+- [[228-incident]]​: Trauma histórico y justicia transicional
 - [[Terror Blanco]]​: Persecución política bajo el gobierno autoritario
 - [[Movimiento Democrático de Taiwán]]​: Del movimiento Dangwai a la política de partidos
 
 ---
 
-*La historia no es solo un registro del pasado, sino la base para comprender el presente e imaginar el futuro.*
+_La historia no es solo un registro del pasado, sino la base para comprender el presente e imaginar el futuro._

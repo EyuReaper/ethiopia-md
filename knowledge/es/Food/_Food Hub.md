@@ -1,8 +1,8 @@
 ---
-title: "Gastronomía"
+title: 'Gastronomía'
 date: 2026-03-17
 tags: [gastronomía, Hub]
-description: "La gastronomía taiwanesa no es solo un disfrute para el paladar, sino un portador importante de la identidad cultural. Desde el caldo de un tazón de sopa de fideos con carne, se puede saborear la nostalgia de los inmigrantes de provincias externas; desde el método de elaboración de una albóndiga de carne, se puede ver la transmisión de la cultura alimentaria hokkien. La trayectoria de desarrollo de la gastronomía taiwanesa refleja el proceso completo de fusión étnica, desarrollo económico y cambios en el estilo de vida."
+description: 'La gastronomía taiwanesa no es solo un disfrute para el paladar, sino un portador importante de la identidad cultural. Desde el caldo de un tazón de sopa de fideos con carne, se puede saborear la nostalgia de los inmigrantes de provincias externas; desde el método de elaboración de una albóndiga de carne, se puede ver la transmisión de la cultura alimentaria hokkien. La trayectoria de desarrollo de la gastronomía taiwanesa refleja el proceso completo de fusión étnica, desarrollo económico y cambios en el estilo de vida.'
 ---
 
 # Gastronomía de Taiwán 🍜
@@ -10,7 +10,7 @@ description: "La gastronomía taiwanesa no es solo un disfrute para el paladar, 
 En Taiwán, cada bocado de comida es una historia, cada plato es un fragmento de historia. Desde el vapor de los puestos de los mercados nocturnos hasta la presentación refinada de los restaurantes Michelin, la gastronomía taiwanesa muestra el lado más cálido de esta isla. No solo alimenta los cuerpos de las personas, sino que también nutre sus almas, convirtiéndose en un puente que conecta la memoria y las emociones.
 
 ![Té de burbujas taiwanés](/images/wiki/taiwan-traditional-architecture.jpg)
-*Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Variations_of_Taiwanese_tapioca_pearls.JPG) | CC BY-SA 3.0 | Fotógrafo: Nandaro*
+_Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Variations_of_Taiwanese_tapioca_pearls.JPG) | CC BY-SA 3.0 | Fotógrafo: Nandaro_
 
 ## Mapa Cultural del Gusto
 
@@ -55,15 +55,15 @@ Din Tai Fung llevó los xiao long bao al escenario mundial, permitiendo que el m
 El turismo gastronómico genera más de quince mil millones de dólares taiwaneses en ingresos turísticos anuales para Taiwán, el setenta y cinco por ciento de los turistas internacionales enumera la degustación de gastronomía como el propósito principal de visitar Taiwán. Cuando los turistas extranjeros hacen fila para esperar un tazón de sopa de fideos con carne, cuando vienen especialmente a Taiwán para beber auténtico té de burbujas, vemos no solo el encanto de la gastronomía, sino también el poder de la cultura.
 
 ![Sopa de fideos con carne taiwanesa](/images/wiki/4eea1b8cf86b.jpg)
-*Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwanese_Beef_Noodle_Soup.jpg) | CC BY-SA 3.0*
+_Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwanese_Beef_Noodle_Soup.jpg) | CC BY-SA 3.0_
 
 ## Lectura Adicional
 
-- [[Cultura del Mercado Nocturno]]​: El núcleo de la gastronomía popular taiwanesa
+- [[night-market-culture]]​: El núcleo de la gastronomía popular taiwanesa
 - [[Sopa de Fideos con Carne]]​: El desarrollo del alimento nacional taiwanés
-- [[Té de Burbujas]]​: La influencia global de la cultura de té agitado taiwanés
-- [[Comida Callejera Taiwanesa]]​: La rica variedad de comida callejera
-- [[Cultura del Té]]​: Del arte del té tradicional a las bebidas de té modernas
+- [[bubble-tea]]​: La influencia global de la cultura de té agitado taiwanés
+- [[taiwanese-street-food]]​: La rica variedad de comida callejera
+- [[tea-culture]]​: Del arte del té tradicional a las bebidas de té modernas
 - [[Cocina Indígena]]​: La cultura alimentaria más primitiva de Taiwán
 - [[Cocina de Pueblos Militares]]​: Memoria gastronómica de inmigrantes de provincias externas
 - [[Cocina Hakka]]​: Sabor hakka salado y rico
@@ -72,4 +72,4 @@ El turismo gastronómico genera más de quince mil millones de dólares taiwanes
 
 ---
 
-*El encanto de la gastronomía taiwanesa radica en la innovación dentro de la fusión, la vitalidad dentro de la tradición.*
+_El encanto de la gastronomía taiwanesa radica en la innovación dentro de la fusión, la vitalidad dentro de la tradición._

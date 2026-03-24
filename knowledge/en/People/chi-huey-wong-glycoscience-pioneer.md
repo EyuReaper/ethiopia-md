@@ -23,7 +23,7 @@ Chi-Huey Wong, born in 1948 in Tainan, is a leading scholar in the field of glyc
 
 After graduating from National Taiwan University's Department of Chemistry, Wong pursued graduate studies in the United States, earning his Ph.D. in organic chemistry from MIT in 1982. He subsequently held faculty positions at renowned institutions including Texas A&M University and California Institute of Technology, becoming a professor in Caltech's Chemistry Department in 1989. During his more than twenty years of studying and working in America, he built extensive international academic networks and developed exceptional research capabilities.
 
-In 2006, Wong accepted an invitation from then-President [[Chen Shui-bian]] to return to Taiwan and assume the presidency of Academia Sinica. This decision was viewed as an important case of Taiwan recruiting top international talent, reflecting his sense of mission to elevate Taiwan's scientific research standards.
+In 2006, Wong accepted an invitation from then-President [[chen-shui-bian-controversial-president]] to return to Taiwan and assume the presidency of Academia Sinica. This decision was viewed as an important case of Taiwan recruiting top international talent, reflecting his sense of mission to elevate Taiwan's scientific research standards.
 
 ## Breakthrough Contributions in Glycoscience Research
 

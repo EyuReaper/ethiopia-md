@@ -2,12 +2,12 @@
 created: 2026-03-17
 tags: [Historia, Dinastía Qing, apertura de puertos, Incidente Mudan]
 title: Gobierno de la Dinastía Qing
-description: "1683-1895 La Dinastía Qing gobernó Taiwán durante 212 años, desde el gobierno pasivo hasta la construcción activa, estableciendo la base de las divisiones administrativas modernas de Taiwán y la sociedad china han"
+description: '1683-1895 La Dinastía Qing gobernó Taiwán durante 212 años, desde el gobierno pasivo hasta la construcción activa, estableciendo la base de las divisiones administrativas modernas de Taiwán y la sociedad china han'
 date: 2026-03-17
 author: Taiwan.md
 readingTime: 10
 featured: false
-translatedFrom: "knowledge/History/清治時期.md"
+translatedFrom: 'knowledge/History/清治時期.md'
 ---
 
 # Gobierno de la Dinastía Qing
@@ -86,6 +86,7 @@ La política de migración temprana de los Qing tenía como objetivo controlar e
 **Desequilibrio de Género**: Las restricciones tempranas sobre la migración familiar crearon comunidades predominantemente masculinas
 
 Con el tiempo, las políticas se relajaron y se permitió a las familias. Los **patrones de asentamiento** se desarrollaron a lo largo de líneas geográficas y lingüísticas:
+
 - **Hablantes de Hoklo** 閩南人: Concentrados en llanuras costeras y valles de ríos principales
 - **Hablantes de Hakka** 客家人: A menudo se establecieron en áreas de colinas y tierras marginales
 - **Tensiones interétnicas**: La competencia por los recursos llevó a conflictos ocasionales
@@ -100,6 +101,7 @@ El **Tratado de Tientsin** (1858) cambió fundamentalmente la relación de Taiw�
 **Presencia Consular**: Los consulados extranjeros proporcionaron representación diplomática
 
 **Las Reformas de Liu Mingchuan** (1885-1891) representaron el esfuerzo de modernización más ambicioso:
+
 - **Construcción de Ferrocarriles**: Construyó la primera línea de ferrocarril de Taiwán desde Keelung hasta Hsinchu
 - **Sistema de Telégrafo**: Conectó las principales ciudades y estableció comunicación con el continente
 - **Militar Moderno**: Introdujo entrenamiento y equipo militar al estilo occidental
@@ -132,7 +134,7 @@ La **síntesis cultural** creó tradiciones distintivamente taiwanesas que combi
 
 ## Temas Relacionados
 
-- [[History/Dutch, Spanish and Koxinga Era]]
+- [[dutch-spanish-and-koxinga-era]]
 - [[History/Japanese Colonial Period]]
 - [[Culture/Ethnic Groups (Hoklo, Hakka, Indigenous, Mainlanders, New Residents)]]
-- [[Economy/Economic Miracle]]
+- [[economic-miracle]]

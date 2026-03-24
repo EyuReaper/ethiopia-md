@@ -1,6 +1,7 @@
 ---
 created: 2026-03-17
-tags: [Society, Democratization, Lifting Martial Law, Presidential Direct Elections]
+tags:
+  [Society, Democratization, Lifting Martial Law, Presidential Direct Elections]
 title: Sistema Democrático
 description: El camino de Taiwán desde el gobierno autoritario hasta las instituciones democráticas, estableciendo un sistema democrático completo mediante el levantamiento de la ley marcial, las elecciones presidenciales directas y otras fases
 date: 2026-03-17
@@ -75,6 +76,9 @@ Taiwán es aclamado como un "milagro democrático", durante mucho tiempo calific
 ## Temas relacionados
 
 - [[History/Martial Law Period]]
-- [[History/democratization]]
+- [[democratization]]
+  <<<<<<< Updated upstream
+- # [[human-rights-and-gender-equality]]
 - [[Society/Human Rights and Gender Equality]]
-- [[Technology/open-source-and-g0v]]
+  > > > > > > > Stashed changes
+- [[open-source-and-g0v]]

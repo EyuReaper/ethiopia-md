@@ -266,7 +266,7 @@ Teresa Teng proved that a voice from a small island could touch hearts across a 
 
 ## Related Topics
 
-- [[Music/pop-music-and-golden-melody-awards]]
-- [[Culture/ethnic-groups]]
-- [[History/democratization]]
-- [[People/ang-lee]]
+- [[pop-music-and-golden-melody-awards]]
+- [[ethnic-groups]]
+- [[democratization]]
+- [[ang-lee]]

@@ -1,9 +1,10 @@
 ---
-title: "Morris Chang — Arquitecto del escudo de silicio de Taiwán"
-description: "De ingeniero de Texas Instruments a fundador de TSMC: cómo Morris Chang revolucionó la fabricación global de semiconductores y creó la industria más estratégica de Taiwán"
+title: 'Morris Chang — Arquitecto del escudo de silicio de Taiwán'
+description: 'De ingeniero de Texas Instruments a fundador de TSMC: cómo Morris Chang revolucionó la fabricación global de semiconductores y creó la industria más estratégica de Taiwán'
 date: 2026-03-17
-tags: ["semiconductor", "TSMC", "tecnología", "negocios", "estrategia", "taiwan"]
-author: "Colaboradores de Taiwan.md"
+tags:
+  ['semiconductor', 'TSMC', 'tecnología', 'negocios', 'estrategia', 'taiwan']
+author: 'Colaboradores de Taiwan.md'
 readingTime: 18
 featured: true
 ---
@@ -29,6 +30,7 @@ Comprender la historia de Chang significa comprender cómo la visión estratégi
 Nacido en Ningbo, provincia de Zhejiang, Chang experimentó el período turbulento de China a través de la invasión japonesa, guerra civil y eventual victoria comunista. Su familia huyó a Hong Kong en 1948, luego a Taiwán, moldeando su comprensión de la inestabilidad política y la importancia del posicionamiento estratégico.
 
 **Experiencias formativas clave:**
+
 - Presenció cuán rápidamente pueden cambiar las ventajas tecnológicas y políticas
 - Aprendió el valor de construir capacidades irremplazables
 - Desarrolló pensamiento estratégico a largo plazo desde exposición temprana a incertidumbre geopolítica
@@ -53,6 +55,7 @@ Chang se unió a Texas Instruments como ingeniero junior y pasó 25 años ascend
 **Planificación estratégica**: Hojas de ruta tecnológicas a largo plazo y decisiones de inversión de capital
 
 ### Logros clave en TI
+
 - Lideró el desarrollo de importantes tecnologías de semiconductores
 - Gestionó operaciones de fabricación importantes
 - Ganó experiencia en mercados y fabricación asiáticos
@@ -62,6 +65,7 @@ Chang se unió a Texas Instruments como ingeniero junior y pasó 25 años ascend
 ### Comprendiendo la evolución de la industria
 
 Para la década de 1980, Chang observó varias tendencias cruciales:
+
 - **Costos crecientes**: Cada nueva generación de fabricación de chips requería inversión de capital exponencialmente mayor
 - **Complejidad creciente**: Diseño y fabricación se estaban convirtiendo en disciplinas separadas que requerían experiencia diferente
 - **Competencia global**: Las empresas japonesas estaban ganando cuota de mercado a través de excelencia en fabricación
@@ -124,6 +128,7 @@ El concepto de fundición de Chang resolvió múltiples problemas de la industri
 ### Enfoque de asociación con clientes
 
 Chang revolucionó las relaciones empresariales de semiconductores tratando a los clientes como socios en lugar de simples compradores:
+
 - **Desarrollo tecnológico compartido**: Colaboró con clientes en optimización de procesos
 - **Comunicación transparente**: Proporcionó datos detallados de fabricación e información de rendimiento
 - **Compromisos a largo plazo**: Construyó confianza a través de entrega consistente y planificación de capacidad
@@ -139,6 +144,7 @@ Chang revolucionó las relaciones empresariales de semiconductores tratando a lo
 ### Paciencia estratégica
 
 Chang consistentemente priorizó posición estratégica a largo plazo sobre ganancias a corto plazo:
+
 - **Inversión tecnológica**: Mantuvo gasto en I+D incluso durante recesiones
 - **Planificación de capacidad**: Construyó capacidad de fabricación adelantándose a demanda probada
 - **Posición de mercado**: Se centró en liderazgo tecnológico en lugar de competencia de precios
@@ -149,6 +155,7 @@ Chang consistentemente priorizó posición estratégica a largo plazo sobre gana
 ### Permitiendo la revolución fabless
 
 El modelo de fundición de Chang permitió el ascenso de empresas de semiconductores fabless que se centran completamente en diseño:
+
 - **Qualcomm**: Diseños de procesadores móviles
 - **NVIDIA**: Procesadores de gráficos e IA
 - **Broadcom**: Chips de comunicaciones
@@ -159,6 +166,7 @@ Sin las capacidades de fabricación de TSMC, estas empresas no podrían existir 
 ### Acelerando innovación
 
 Al separar diseño de fabricación, el modelo de Chang aceleró el ritmo de innovación de semiconductores:
+
 - **Tiempo al mercado más rápido**: Las empresas podían centrarse en diseño sin esperar capacidad de fabricación interna
 - **Barreras de entrada más bajas**: Startups podían competir con empresas establecidas sin requisitos masivos de capital
 - **Experiencia especializada**: Tanto empresas de diseño como fabricación podían optimizar para sus competencias centrales
@@ -166,6 +174,7 @@ Al separar diseño de fabricación, el modelo de Chang aceleró el ritmo de inno
 ### Creando estándares industriales
 
 La escala y amplitud de clientes de TSMC forzaron la creación de estándares industriales:
+
 - **Herramientas de diseño**: Software estandarizado para diseño y verificación de chips
 - **Procesos de fabricación**: Enfoques comunes para fabricación avanzada de chips
 - **Métricas de calidad**: Puntos de referencia industriales para rendimiento, confiabilidad y desempeño
@@ -175,6 +184,7 @@ La escala y amplitud de clientes de TSMC forzaron la creación de estándares in
 ### Escudo de silicio de Taiwán
 
 El dominio de TSMC en fabricación avanzada de semiconductores ha dado a Taiwán importancia geopolítica sin precedentes:
+
 - **Apalancamiento económico**: Controla producción de chips esenciales para la industria tecnológica global
 - **Indispensabilidad estratégica**: Ni China ni Estados Unidos pueden permitirse perder acceso a la fabricación de TSMC
 - **Posicionamiento defensivo**: Las capacidades tecnológicas de Taiwán proporcionan protección a través de interdependencia económica
@@ -182,6 +192,7 @@ El dominio de TSMC en fabricación avanzada de semiconductores ha dado a Taiwán
 ### Nodo central de cadena de suministro global
 
 La estrategia de Chang posicionó a Taiwán en el centro de cadenas de suministro tecnológicas globales:
+
 - **Capacidades irremplazables**: Ninguna otra empresa puede igualar la fabricación avanzada de TSMC a escala
 - **Dependencia de clientes**: Importantes empresas tecnológicas dependen completamente de TSMC para sus productos más avanzados
 - **Inversión en infraestructura**: Décadas de desarrollo especializado de instalaciones y talento no puede replicarse rápidamente
@@ -189,6 +200,7 @@ La estrategia de Chang posicionó a Taiwán en el centro de cadenas de suministr
 ### Gestionando presiones geopolíticas
 
 A medida que la importancia de TSMC creció, Chang navegó presión creciente de gobiernos chinos y estadounidenses:
+
 - **Neutralidad tecnológica**: Mantuvo relaciones con clientes de todas las regiones
 - **Diversificación de inversión**: Construyó capacidad de fabricación en múltiples países
 - **Comunicación estratégica**: Explicó el papel de TSMC como facilitador de innovación global en lugar de herramienta política
@@ -198,6 +210,7 @@ A medida que la importancia de TSMC creció, Chang navegó presión creciente de
 ### Planificación de sucesión
 
 Chang pasó sus últimos años en TSMC desarrollando la siguiente generación de liderazgo:
+
 - **Mark Liu**: Actual presidente, enfocado en planificación estratégica y relaciones con clientes
 - **C.C. Wei**: Actual CEO, especializado en desarrollo tecnológico y operaciones
 - **Capacidades institucionales**: Construyó sistemas y cultura que podían continuar sin su participación directa
@@ -205,6 +218,7 @@ Chang pasó sus últimos años en TSMC desarrollando la siguiente generación de
 ### Actividades de retiro (2018-presente)
 
 Desde retirarse como presidente de TSMC en 2018, Chang se ha enfocado en:
+
 - **Autobiografía**: Relato detallado de su carrera y pensamiento estratégico
 - **Oratoria pública**: Compartiendo perspectivas sobre estrategia tecnológica y desarrollo industrial
 - **Mentoría**: Asesorando a jóvenes emprendedores e ingenieros
@@ -213,21 +227,25 @@ Desde retirarse como presidente de TSMC en 2018, Chang se ha enfocado en:
 ## Perspectivas estratégicas de Chang
 
 ### Sobre competencia
+
 "No competimos con nuestros clientes. Los habilitamos para competir entre sí."
 
 Esta perspectiva fundamental impulsó el enfoque neutral al cliente de TSMC y permitió a la empresa servir a empresas competidoras simultáneamente.
 
 ### Sobre innovación
+
 "El liderazgo tecnológico no es sobre ser primero. Es sobre ser el mejor."
 
 Chang enfatizó excelencia y confiabilidad en fabricación sobre puro avance tecnológico, construyendo confianza del cliente a través de entrega consistente.
 
 ### Sobre globalización
+
 "En tecnología, tienes que ser global desde el primer día, o nunca tendrás éxito."
 
 La base de clientes internacional y cadena de suministro de TSMC fueron esenciales para lograr la escala necesaria para liderazgo en semiconductores.
 
 ### Sobre estrategia
+
 "La buena estrategia no es sobre lo que decides hacer. Es sobre lo que decides no hacer."
 
 El enfoque de Chang en servicios de fundición pura requirió decir no a oportunidades potencialmente rentables en diseño de chips y productos de consumo.
@@ -237,6 +255,7 @@ El enfoque de Chang en servicios de fundición pura requirió decir no a oportun
 ### Transformación económica
 
 El trabajo de Chang transformó la economía taiwanesa:
+
 - **Fabricación de alto valor**: Movió a Taiwán más allá del ensamblaje de bajo costo hacia producción de tecnología avanzada
 - **Ingresos de exportación**: Los semiconductores se convirtieron en la categoría de exportación más grande de Taiwán
 - **Empleo**: Creó cientos de miles de empleos altamente calificados
@@ -245,6 +264,7 @@ El trabajo de Chang transformó la economía taiwanesa:
 ### Desarrollo educativo y de talento
 
 El éxito de TSMC estimuló el enfoque de Taiwán en educación técnica:
+
 - **Programas universitarios**: Fortaleció programas de ingeniería eléctrica y ciencias de materiales
 - **Asociaciones industriales**: Las universidades desarrollaron relaciones más cercanas con empresas tecnológicas
 - **Talento internacional**: Atrajo ingenieros e investigadores de todo el mundo
@@ -257,15 +277,19 @@ El éxito de Chang demostró cómo países pequeños podían lograr influencia g
 ## Lecciones para liderazgo estratégico
 
 ### Visión con ejecución
+
 Chang combinó innovación revolucionaria de modelo empresarial con implementación meticulosa, mostrando que las ideas innovadoras requieren ejecución persistente para tener éxito.
 
 ### Enfoque en éxito del cliente
+
 Al priorizar el éxito del cliente sobre ganancias a corto plazo, Chang construyó relaciones que sostuvieron a TSMC a través de múltiples ciclos industriales.
 
 ### Pensamiento a largo plazo
+
 La disposición de Chang a invertir en capacidades antes de que la demanda fuera probada permitió a TSMC capturar oportunidades a medida que emergían.
 
 ### Construcción de puentes culturales
+
 La capacidad de Chang para navegar entre culturas empresariales orientales y occidentales fue esencial para construir confianza con clientes y socios globales.
 
 ## Relevancia continua
@@ -287,7 +311,7 @@ La transformación de Morris Chang de la industria de semiconductores taiwanesa 
 
 ## Temas relacionados
 
-- [[Technology/semiconductor-industry]]
-- [[Economy/economic-miracle]]
-- [[Geography/geography-and-geology]]
-- [[People/ang-lee]]
+- [[semiconductor-industry]]
+- [[economic-miracle]]
+- [[geography-and-geology]]
+- [[ang-lee]]

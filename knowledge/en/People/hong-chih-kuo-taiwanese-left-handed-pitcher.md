@@ -55,7 +55,7 @@ After retirement, Kuo actively engaged in baseball instruction and promotion. He
 
 ## Pioneer of Taiwan Baseball
 
-Kuo's contribution to Taiwan baseball extends beyond his competitive achievements; more importantly, he paved the way for future players. He proved that Taiwan pitchers could establish themselves in MLB, which was significant for raising Taiwan baseball's international visibility. Many subsequent Taiwan stars like [[Chien-Ming Wang]] and [[Wei-Yin Chen]] were inspired and motivated by his example.
+Kuo's contribution to Taiwan baseball extends beyond his competitive achievements; more importantly, he paved the way for future players. He proved that Taiwan pitchers could establish themselves in MLB, which was significant for raising Taiwan baseball's international visibility. Many subsequent Taiwan stars like [[chien-ming-wang-mlb-sinker-ace]] and [[陳偉殷]] were inspired and motivated by his example.
 
 His experience with the Dodgers also made Taiwan fans more interested in MLB, promoting the integration of Taiwan baseball culture with international standards. Many young Taiwan players set him as their goal, hoping to one day stand on an MLB mound and bring glory to Taiwan baseball.
 

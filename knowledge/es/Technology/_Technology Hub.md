@@ -1,5 +1,5 @@
 ---
-title: "Tecnología"
+title: 'Tecnología'
 date: 2026-03-17
 tags: [tecnología, Hub]
 description: "Taiwán, con la industria de semiconductores centrada en TSMC, controla más del 60% de la cuota de mercado de fundición de obleas global, siendo verdaderamente la 'montaña guardiana de la nación'. Al mismo tiempo, g0v gov zero con innovación tecnológica cívica ha convertido a Taiwán en un modelo internacional en el campo de la democracia digital. Desde la fabricación de hardware hasta la colaboración de código abierto, la tecnología taiwanesa muestra el modelo exitoso de gran estrategia de un país pequeño."
@@ -10,7 +10,7 @@ description: "Taiwán, con la industria de semiconductores centrada en TSMC, con
 En esta pequeña isla de solo treinta y seis mil kilómetros cuadrados se esconde el secreto que sostiene la civilización digital global. Cuando deslizas la pantalla de tu teléfono móvil, cuando enciendes tu computadora portátil, cuando te sumerges en el mundo de la realidad virtual, es muy probable que estés usando chips fabricados en Taiwán. Desde las salas blancas del Parque Científico de Hsinchu hasta el centro de I+D de Zhubei, Taiwán ha escrito como "isla del silicio" una historia legendaria de gran estrategia de un país pequeño en el mapa tecnológico global.
 
 ![Fábrica de TSMC en Hsinchu](/images/wiki/taiwan-coast-landscape.jpg)
-*Fuente de la imagen: [Arusanov](https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG) / [Dominio Público](https://zh.wikipedia.org/wiki/%E5%85%AC%E6%9C%89%E9%A2%86%E5%9F%9F)*
+_Fuente de la imagen: [Arusanov](https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG) / [Dominio Público](https://zh.wikipedia.org/wiki/%E5%85%AC%E6%9C%89%E9%A2%86%E5%9F%9F)_
 
 ## Leyenda del Escudo de Silicio: El Nacimiento de la Montaña Guardiana de la Nación
 
@@ -83,21 +83,28 @@ La competencia por talentos es otro desafío severo. Los gigantes tecnológicos 
 Los temas de desarrollo sostenible y ESG (Medio Ambiente, Social, Gobernanza) también traen nuevos desafíos a la industria tecnológica taiwanesa. TSMC se comprometió a lograr cero emisiones netas en 2050 y utiliza en gran medida energía renovable, esto no es solo una manifestación de responsabilidad social empresarial, sino también una dirección importante de transformación y actualización de la industria tecnológica taiwanesa. El desarrollo de tecnología verde puede ser la clave para que Taiwán gane en la próxima ronda de competencia tecnológica.
 
 ![Ministra Digital Audrey Tang](/images/wiki/52c5be9f282c.jpg)
-*Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Audrey_Tang_2016.jpg) | CC BY 2.0 | Fotógrafo: TechCrunch*
+_Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Audrey_Tang_2016.jpg) | CC BY 2.0 | Fotógrafo: TechCrunch_
 
 ## Lectura Adicional
 
 - [[Industria de Semiconductores]]​: TSMC y el establecimiento del imperio de chips taiwanés
-- [[TSMC]]​: La trayectoria de desarrollo y posición estratégica de la montaña guardiana de la nación
+- [[tsmc]]​: La trayectoria de desarrollo y posición estratégica de la montaña guardiana de la nación
 - [[Parque Científico de Hsinchu]]​: El milagro innovador del Silicon Valley del Este
 - [[g0v Gobierno Cero]]​: Tecnología cívica y colaboración de código abierto
 - [[Democracia Digital]]​: vTaiwan y gobernanza participativa
+  <<<<<<< Updated upstream
+- [[audrey-tang]]​: Ministra digital e innovación en gobernanza tecnológica
+- [[mediatek]]​: La competitividad global del diseño de IC taiwanés
+- [[acer-pc-industry-pioneer]]​: Curva de la sonrisa e internacionalización de marca
+- [[asus-computer]]​: De placas madre a marca tecnológica integral
+- # [[foxconn-precision-industry]]​: Fabricación de precisión y reino de fabricación por contrato
 - [[Audrey Tang]]​: Ministra digital e innovación en gobernanza tecnológica
-- [[MediaTek]]​: La competitividad global del diseño de IC taiwanés
+- [[mediatek]]​: La competitividad global del diseño de IC taiwanés
 - [[Acer]]​: Curva de la sonrisa e internacionalización de marca
 - [[ASUS]]​: De placas madre a marca tecnológica integral
 - [[Foxconn]]​: Fabricación de precisión y reino de fabricación por contrato
+  > > > > > > > Stashed changes
 
 ---
 
-*Taiwán demuestra con el escudo de silicio: un país pequeño puede encontrar una posición irremplazable en el mundo de los gigantes.*
+_Taiwán demuestra con el escudo de silicio: un país pequeño puede encontrar una posición irremplazable en el mundo de los gigantes._

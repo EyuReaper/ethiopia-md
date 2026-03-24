@@ -1,8 +1,8 @@
 ---
-title: "Estilo de Vida"
+title: 'Estilo de Vida'
 date: 2026-03-17
 tags: [estilo de vida, Hub]
-description: "El estilo de vida taiwanés fusiona tradición y modernidad, creando una cultura insular única. El seguro médico nacional cubre el 99,9%, la densidad de tiendas de conveniencia es la segunda más alta del mundo (una cada 2.213 personas), la tasa de penetración de motocicletas del 70% lidera el mundo. Desde la cultura de mercados nocturnos hasta círculos de vida 24 horas, la conveniencia de vida y el calor humano de los taiwaneses coexisten, mostrando la filosofía de vida de gran felicidad en una pequeña isla."
+description: 'El estilo de vida taiwanés fusiona tradición y modernidad, creando una cultura insular única. El seguro médico nacional cubre el 99,9%, la densidad de tiendas de conveniencia es la segunda más alta del mundo (una cada 2.213 personas), la tasa de penetración de motocicletas del 70% lidera el mundo. Desde la cultura de mercados nocturnos hasta círculos de vida 24 horas, la conveniencia de vida y el calor humano de los taiwaneses coexisten, mostrando la filosofía de vida de gran felicidad en una pequeña isla.'
 ---
 
 # Estilo de Vida en Taiwán 🏠
@@ -55,7 +55,7 @@ La integridad del sistema de educación técnica-vocacional permite que Taiwán 
 
 ## Cultura Terapéutica de la Isla de Aguas Termales
 
-Las condiciones geológicas favorables de Taiwán crean abundantes recursos de aguas termales, la [[cultura de aguas termales]] se convierte en una forma importante de ocio para los taiwaneses. Desde las aguas de azufre de Beitou hasta las aguas de belleza de Zhiben, desde las aguas termales de barro de Guanziling hasta las aguas de bicarbonato de sodio de Jiaoxi, diferentes tipos de agua proporcionan diferentes experiencias terapéuticas.
+Las condiciones geológicas favorables de Taiwán crean abundantes recursos de aguas termales, la [[hot-spring-culture]] se convierte en una forma importante de ocio para los taiwaneses. Desde las aguas de azufre de Beitou hasta las aguas de belleza de Zhiben, desde las aguas termales de barro de Guanziling hasta las aguas de bicarbonato de sodio de Jiaoxi, diferentes tipos de agua proporcionan diferentes experiencias terapéuticas.
 
 El Museo de Aguas Termales de Beitou preserva la cultura de baño del período japonés, la arquitectura refinada y la etiqueta estricta de baño muestran la profundidad de la cultura de aguas termales. Pero los taiwaneses también han desarrollado sus propias características en las aguas termales: huevos cocidos en aguas termales, verduras geotérmicas, ramen de aguas termales, haciendo que bañarse no sea solo un disfrute del cuerpo, sino también una experiencia del gusto.
 
@@ -86,10 +86,10 @@ Esta filosofía de vida se refleja en la búsqueda taiwanesa de "pequeñas y seg
 El encanto de la vida taiwanesa radica en crear conveniencia infinita con espacio limitado, mantener el calor humano en el ajetreo, preservar la cultura tradicional mientras se moderniza. Este equilibrio e inclusión son precisamente el poder blando más precioso de Taiwán.
 
 ![Paisaje urbano de Taipéi](/images/wiki/taiwan-mountain-scenic.jpg)
-*Fuente de la imagen: [Malcolm Koo](https://commons.wikimedia.org/wiki/File:Sec._1,_Hankou_Street,_Zhongzheng_District,_Taipei_City_(Taiwan).JPG) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*
+_Fuente de la imagen: [Malcolm Koo](<https://commons.wikimedia.org/wiki/File:Sec._1,_Hankou_Street,_Zhongzheng_District,_Taipei_City_(Taiwan).JPG>) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)_
 
 ![Tienda de conveniencia taiwanesa](/images/wiki/18dae3226cf0.jpg)
-*Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:7-Eleven_Minyou_Store_and_FamilyMart_Fubei_Store_20240323.jpg) | CC BY-SA 4.0*
+_Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:7-Eleven_Minyou_Store_and_FamilyMart_Fubei_Store_20240323.jpg) | CC BY-SA 4.0_
 
 ## Temas Relacionados
 
@@ -100,4 +100,4 @@ El encanto de la vida taiwanesa radica en crear conveniencia infinita con espaci
 
 ---
 
-*El encanto de la vida taiwanesa radica en crear conveniencia infinita con espacio limitado, manteniendo el calor humano en medio del ajetreo.*
+_El encanto de la vida taiwanesa radica en crear conveniencia infinita con espacio limitado, manteniendo el calor humano en medio del ajetreo._

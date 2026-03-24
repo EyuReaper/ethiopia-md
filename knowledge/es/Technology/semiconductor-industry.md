@@ -1,8 +1,8 @@
 ---
-title: "semiconductor-industry"
+title: 'semiconductor-industry'
 date: 2026-03-17
 tags: [technology, semiconductor, TSMC, industry]
-description: "La industria de semiconductores de Taiwán, particularmente TSMC, no solo es un pilar crucial de la economía de Taiwán, sino que también desempeña un papel clave"
+description: 'La industria de semiconductores de Taiwán, particularmente TSMC, no solo es un pilar crucial de la economía de Taiwán, sino que también desempeña un papel clave'
 ---
 
 # Industria de semiconductores de Taiwán (centrada en TSMC)
@@ -16,7 +16,9 @@ La industria de semiconductores de Taiwán, particularmente TSMC, no solo es un 
 ## TSMC: nacimiento y desarrollo del líder de la industria
 
 ### Contexto de fundación (1987)
+
 El establecimiento de TSMC tuvo profundas bases políticas:
+
 - **1973**: El gobierno estableció el Industrial Technology Research Institute (ITRI), realizando transferencia de tecnología de RCA
 - **1986**: K.T. Li invitó a Morris Chang a regresar a Taiwán como presidente de ITRI
 - **21 de febrero de 1987**: TSMC se estableció oficialmente con Morris Chang como primer presidente
@@ -24,11 +26,13 @@ El establecimiento de TSMC tuvo profundas bases políticas:
 ### Modelo de negocio innovador: servicios de fundición
 
 TSMC creó el primer modelo de fundición pura del mundo:
+
 - **Modelo de fundición pura**: Solo fabricación, sin diseño de chips, evitando competencia con clientes
 - **Tecnología neutral**: Proporcionando servicios de fabricación a todas las empresas de semiconductores sin fábrica
 - **Economías de escala**: Concentrando recursos en el desarrollo de las tecnologías de proceso más avanzadas
 
 ### Estructura de inversión (en la fundación)
+
 - **Inversión gubernamental**: 70 millones de USD (48,3%)
 - **Inversión privada**: 35 millones de USD (24,2%)
 - **Philips holandesa**: 40 millones de USD (27,5%)
@@ -36,12 +40,15 @@ TSMC creó el primer modelo de fundición pura del mundo:
 ## Posición de liderazgo tecnológico
 
 ### Evolución de la tecnología de procesos
+
 TSMC lidera continuamente a nivel mundial en tecnología de procesos:
+
 - **Más avanzado actualmente**: Proceso de 2 nanómetros en desarrollo
 - **En producción**: Procesos de 3 nanómetros, 5 nanómetros
 - **Capacidad de producción**: 1,89 millones de obleas equivalentes de 8 pulgadas de capacidad mensual en 2015
 
 ### Posición en el mercado global
+
 - **Cuota de mercado**: Número uno en el mercado global de fundición
 - **Base de clientes**: Apple, NVIDIA, AMD, MediaTek, Google y otros gigantes tecnológicos globales
 - **Áreas de aplicación**: Inteligencia artificial, conducción autónoma, computación de alto rendimiento
@@ -49,20 +56,26 @@ TSMC lidera continuamente a nivel mundial en tecnología de procesos:
 ## Estrategia de expansión global
 
 ### Fabricación en Estados Unidos (2020-2025)
+
 **Fábrica en Phoenix, Arizona:**
+
 - **Inversión**: 40.000 millones de USD
 - **Tecnología de proceso**: Procesos de 5 nanómetros, 3 nanómetros
 - **Cronograma**: Producción en masa a partir de 2025
 - **Significado estratégico**: Respondiendo a las demandas de fabricación nacional de EE. UU.
 
 ### Cooperación con Japón (2021-2025)
+
 **Fábrica de Kumamoto (JASM):**
+
 - **Socios**: Sony Semiconductor Solutions, Denso, Toyota Motor
 - **Tecnología de proceso**: 22 nanómetros a 28 nanómetros
 - **Propósito**: Principalmente suministrando al mercado de electrónica automotriz
 
 ### Expansión europea (2023-2027)
+
 **Fábrica de Dresde, Alemania (ESMC):**
+
 - **Socios**: Bosch, Infineon, NXP
 - **Objetivo**: Producir chips automotrices avanzados
 - **Producción esperada**: Finales de 2027
@@ -70,7 +83,9 @@ TSMC lidera continuamente a nivel mundial en tecnología de procesos:
 ## Ecosistema industrial
 
 ### Cadena industrial completa
+
 Taiwán ha construido una cadena industrial de semiconductores completa:
+
 - **Upstream**: Obleas de silicio, materiales químicos, equipos de proceso
 - **Midstream**: Fundición de obleas, ensamblaje y prueba
 - **Downstream**: Diseño de CI, integración de sistemas
@@ -78,11 +93,13 @@ Taiwán ha construido una cadena industrial de semiconductores completa:
 ### Ubicaciones principales de fábricas
 
 **En Taiwán:**
+
 - **Hsinchu Science Park**: Sede central, centro de I+D
 - **Central Taiwan Science Park**: Fab 15, Fab 25
 - **Southern Taiwan Science Park**: Fab 14, Fab 18, Fab 22 (Kaohsiung)
 
 **Sitios en el extranjero:**
+
 - **China**: Fab 10 de Shanghái, Fab 16 de Nanjing
 - **Estados Unidos**: Fab 11 de Washington, Fab 21 de Arizona
 - **Japón**: Fab 23 de Kumamoto
@@ -91,12 +108,14 @@ Taiwán ha construido una cadena industrial de semiconductores completa:
 ## Impacto económico y desempeño del mercado
 
 ### Escala financiera (2024)
+
 - **Ingresos**: 2,89 billones de NT$
 - **Ingresos netos**: 1,17 billones de NT$
 - **Activos totales**: 6,69 billones de NT$
 - **Empleados**: 65.152 personas
 
 ### Hitos del mercado de valores
+
 - **2019**: La capitalización de mercado superó por primera vez los 8 billones de NT$
 - **2020**: Se convirtió en la décima empresa más grande del mundo por capitalización de mercado
 - **Julio de 2024**: El precio de las acciones superó los 1.000 NT$
@@ -105,12 +124,15 @@ Taiwán ha construido una cadena industrial de semiconductores completa:
 ## Papel geopolítico: efecto de Escudo de Silicio
 
 ### Importancia estratégica
+
 La ventaja tecnológica de TSMC crea un "Escudo de Silicio":
+
 - **Monopolio tecnológico**: Controla la tecnología de proceso más avanzada del mundo
 - **Criticidad del suministro**: Los gigantes tecnológicos globales dependen todos de TSMC
 - **Valor geopolítico**: Todos los países necesitan la tecnología de semiconductores de Taiwán
 
 ### Competencia y cooperación internacional
+
 - **Guerra tecnológica EE. UU.-China**: Se convirtió en punto focal de la competencia tecnológica entre EE. UU. y China
 - **Seguridad de la cadena de suministro**: Países promoviendo la fabricación nacional de semiconductores
 - **Controles tecnológicos**: Controles de exportación de EE. UU. sobre tecnología de procesos avanzados
@@ -118,12 +140,14 @@ La ventaja tecnológica de TSMC crea un "Escudo de Silicio":
 ## Desafíos y perspectivas futuras
 
 ### Desafíos actuales
+
 - **Riesgo geopolítico**: Escalada de la competencia entre EE. UU. y China
 - **Competencia tecnológica**: Países aumentando inversiones en semiconductores
 - **Presiones de costes**: Costes de I+D de procesos avanzados aumentando rápidamente
 - **Competencia por talento**: Escasez mundial de talento en semiconductores
 
 ### Estrategias futuras
+
 - **Liderazgo tecnológico**: Continuar invirtiendo en I+D de procesos más avanzados
 - **Expansión global**: Estableciendo fábricas en EE. UU., Europa, Japón
 - **Aplicaciones diversificadas**: IA, electrónica automotriz, IoT y otras aplicaciones emergentes
@@ -132,11 +156,13 @@ La ventaja tecnológica de TSMC crea un "Escudo de Silicio":
 ## Innovación industrial e I+D
 
 ### Tecnologías de empaquetado avanzado
+
 - **CoWoS**: Tecnología Chip-on-Wafer-on-Substrate
 - **SoIC**: Tecnología System-on-Integrated-Chip
 - **3D IC**: Arquitectura de chip tridimensional
 
 ### Inversión en I+D
+
 - **Centros de I+D globales**: Nueva instalación de Hsinchu lanzada en 2023
 - **Gasto en I+D**: 7-8% de los ingresos dedicados a I+D
 - **Cooperación técnica**: Colaborando con las mejores universidades del mundo
@@ -144,11 +170,13 @@ La ventaja tecnológica de TSMC crea un "Escudo de Silicio":
 ## Compromisos de sostenibilidad
 
 ### Objetivos ambientales
+
 - **Iniciativa RE100**: 100% de energía renovable para 2050
 - **Fabricación de cero residuos**: Promoviendo cero descarga de residuos de proceso
 - **Gestión de recursos hídricos**: Estableciendo sistemas de plantas de agua reciclada
 
 ### Responsabilidad social
+
 - **TSMC Education and Culture Foundation**: Promoviendo actividades educativas y culturales
 - **TSMC Charity Foundation**: Invirtiendo en actividades de bienestar social
 - **Desarrollo de talento**: Colaborando con universidades para cultivar talento en semiconductores
@@ -156,6 +184,7 @@ La ventaja tecnológica de TSMC crea un "Escudo de Silicio":
 ## Datos y hechos clave
 
 ### Hitos tecnológicos
+
 - **1987**: Fundada, pionera del modelo de negocio de fundición
 - **1994**: Cotizada en la Bolsa de Taiwán
 - **1997**: Cotizada en la Bolsa de Nueva York
@@ -163,6 +192,7 @@ La ventaja tecnológica de TSMC crea un "Escudo de Silicio":
 - **En desarrollo**: Proceso de 2 nanómetros
 
 ### Posición global
+
 - **Cuota de mercado**: 54% del mercado global de fundición
 - **Número de clientes**: Más de 500 clientes
 - **Nodos de proceso**: Cubriendo de 6 nanómetros a 180 nanómetros
@@ -178,7 +208,7 @@ La ventaja tecnológica de TSMC crea un "Escudo de Silicio":
 
 ## Temas relacionados
 
-- [[Open Source Community and g0v]]: La cultura de innovación tecnológica de Taiwán
+- [[open-source-and-g0v]]: La cultura de innovación tecnológica de Taiwán
 - [[Digital Democracy]]: Cómo la tecnología cambia la participación democrática
 - [[Economy Hub|Economy]]: Contribución de la industria de semiconductores a la economía de Taiwán
 - [[Society Hub|Society]]: Impacto del desarrollo tecnológico en la sociedad
@@ -186,4 +216,4 @@ La ventaja tecnológica de TSMC crea un "Escudo de Silicio":
 
 ---
 
-*TSMC no es simplemente una empresa, sino el activo estratégico de Taiwán en la competencia tecnológica global, demostrando la excelencia de Taiwán en la fabricación de alta tecnología.*
+_TSMC no es simplemente una empresa, sino el activo estratégico de Taiwán en la competencia tecnológica global, demostrando la excelencia de Taiwán en la fabricación de alta tecnología._

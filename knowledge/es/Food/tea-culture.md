@@ -104,7 +104,7 @@ La cultura del té de Taiwán demuestra la fusión perfecta de tradición y mode
 
 ## Temas Relacionados
 
-- [[Food/taiwanese-street-food]]
-- [[Culture/ethnic-groups]]
-- [[Economy/economic-miracle]]
-- [[Lifestyle/convenience-store-culture]]
+- [[taiwanese-street-food]]
+- [[ethnic-groups]]
+- [[economic-miracle]]
+- [[convenience-store-culture]]

@@ -1,6 +1,7 @@
 ---
 created: 2026-03-17
-tags: [Lifestyle, Health Insurance, Medical System, Public Health, Social Welfare]
+tags:
+  [Lifestyle, Health Insurance, Medical System, Public Health, Social Welfare]
 title: Seguro Nacional de Salud
 description: El sistema de Seguro Nacional de Salud (NHI) de Taiwán proporciona servicios médicos universales, asequibles y de alta calidad, reconocido mundialmente como un excelente sistema sanitario
 date: 2026-03-17
@@ -74,12 +75,15 @@ Animar a los ciudadanos a descargar la aplicación "Libreta de salud" para compr
 
 ## Lectura adicional
 
-- [National Health Insurance - Wikipedia](https://en.wikipedia.org/wiki/National_Health_Insurance_(Taiwan))
+- [National Health Insurance - Wikipedia](<https://en.wikipedia.org/wiki/National_Health_Insurance_(Taiwan)>)
 - [National Health Insurance Administration, Ministry of Health and Welfare](https://www.nhi.gov.tw/english/)
 
 ## Temas relacionados
 
-- [[Lifestyle/convenience-store-culture]]
+- [[convenience-store-culture]]
+  <<<<<<< Updated upstream
+- # [[human-rights-and-gender-equality]]
 - [[Society/Human Rights and Gender Equality]]
-- [[Technology/open-source-and-g0v]]
-- [[Economy/economic-miracle]]
+  > > > > > > > Stashed changes
+- [[open-source-and-g0v]]
+- [[economic-miracle]]

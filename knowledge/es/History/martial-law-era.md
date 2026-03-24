@@ -1,9 +1,9 @@
 ---
-title: "Era de la Ley Marcial"
+title: 'Era de la Ley Marcial'
 date: 2026-03-17
 tags: [historia, ley marcial, autoritarismo, terror blanco]
-description: "La Era de la Ley Marcial es una fase crucial para comprender el desarrollo político moderno de Taiwán. Este período de gobierno autoritario no solo influyó profundamente en la cultura política de Taiwán, sino que también sentó las bases para la posterior transición democrática. La persecución política y las violaciones de derechos humanos durante la ley marcial se convirtieron en importantes fuerzas motrices para la búsqueda de democracia y libertad de Taiwán, y siguen siendo legados históricos que la justicia transicional debe abordar."
-translatedFrom: "knowledge/History/戒嚴時期.md"
+description: 'La Era de la Ley Marcial es una fase crucial para comprender el desarrollo político moderno de Taiwán. Este período de gobierno autoritario no solo influyó profundamente en la cultura política de Taiwán, sino que también sentó las bases para la posterior transición democrática. La persecución política y las violaciones de derechos humanos durante la ley marcial se convirtieron en importantes fuerzas motrices para la búsqueda de democracia y libertad de Taiwán, y siguen siendo legados históricos que la justicia transicional debe abordar.'
+translatedFrom: 'knowledge/History/戒嚴時期.md'
 ---
 
 # Era de la Ley Marcial de Taiwán
@@ -37,12 +37,14 @@ Según la Ley Marcial 戒嚴法, "durante el período de ley marcial declarado, 
 Durante la ley marcial, el gobierno emitió más de 30 varios decretos regulatorios, restringiendo severamente las libertades fundamentales otorgadas a las personas por la constitución:
 
 **Leyes Regulatorias Importantes:**
+
 - Regulaciones para Prevenir Asambleas, Asociaciones, Desfiles, Peticiones, Boicots de Clase, Huelgas y Cierres de Negocios Ilegales Durante el Período de Ley Marcial
 - Medidas Administrativas para el Control de Periódicos, Revistas y Libros Durante el Período de Ley Marcial de la Provincia de Taiwán
 - Estatuto para el Castigo de la Rebelión 懲治叛亂條例
 - Estatuto para la Eliminación de Bandidos y Espías Durante el Período de Supresión de la Rebelión
 
 **Las Libertades Restringidas Incluían:**
+
 - **Libertad de Reunión**: Prohibición de asambleas y desfiles no autorizados
 - **Libertad de Asociación**: Implementación de prohibición de partidos; solo el Kuomintang podía operar legalmente
 - **Libertad de Expresión**: Implementación de prohibición de prensa; censura estricta de publicaciones
@@ -58,6 +60,7 @@ El período de ley marcial estuvo acompañado de una severa persecución políti
 ### Estadísticas de Víctimas
 
 Según diferentes fuentes estadísticas:
+
 - **Datos oficiales del Ministerio de Justicia**: Durante el período de ley marcial de 38 años, las autoridades militares adjudicaron 29,407 casos criminales que involucraban personal no militar
 - **Estadísticas civiles**: Los casos relacionados con política involucraron aproximadamente 140,000 personas, con unas 4,500 ejecuciones estimadas
 - **Estadísticas de pena de muerte**: Según la Asociación de Taiwán para la Verdad y la Reconciliación, hubo 1,061 reclusos en el corredor de la muerte durante el período de ley marcial (a partir de 2013)
@@ -75,6 +78,7 @@ Según diferentes fuentes estadísticas:
 ### Sistema de Garantía Conjunta
 
 A partir de julio de 1949, Taiwán implementó un sistema integral de garantía conjunta 連坐保證制度:
+
 - Los empleados del gobierno debían tener garantes para ser contratados
 - El sistema se extendió gradualmente a todas las instituciones sociales
 - Se convirtió en un sistema de selección política que cubría a la gran mayoría de la población
@@ -116,6 +120,7 @@ A partir de julio de 1949, Taiwán implementó un sistema integral de garantía 
 ### Proceso de Levantamiento
 
 El 14 de julio de 1987, el Presidente Chiang Ching-kuo emitió un decreto presidencial anunciando el levantamiento de la ley marcial en el área de Taiwán a la medianoche del 15 de julio. Simultáneamente:
+
 - Se abolieron 30 leyes relacionadas del período de ley marcial
 - Se otorgaron reducciones de pena o liberaciones a 237 personas que habían sido juzgadas por tribunales militares durante la ley marcial
 - Se levantaron las prohibiciones de partidos políticos y prensa
@@ -137,6 +142,7 @@ El 14 de julio de 1987, el Presidente Chiang Ching-kuo emitió un decreto presid
 ### Profundización Democrática
 
 La experiencia de la ley marcial se convirtió en una referencia importante para el desarrollo democrático de Taiwán:
+
 - **Protección de Derechos Humanos**: Énfasis en los derechos humanos fundamentales
 - **Principios del Estado de Derecho**: Insistencia en la administración según la ley
 - **Sociedad Civil**: Participación activa de la sociedad civil
@@ -175,10 +181,13 @@ La experiencia de la ley marcial se convirtió en una referencia importante para
 
 - [[White Terror Period]]: Persecución política durante la ley marcial
 - [[Kaohsiung Incident]]: Importante evento del movimiento democrático
-- [[Democratization]]: El proceso de transición de la ley marcial a la democracia
+- [[democratization]]: El proceso de transición de la ley marcial a la democracia
+  <<<<<<< Updated upstream
+- # [[february-28-incident-and-white-terror-taiwan-authoritarian-rule-trauma-and-memory]]: Conflicto político temprano
 - [[February 28 Incident]]: Conflicto político temprano
+  > > > > > > > Stashed changes
 - [[Transitional Justice]]: Esfuerzos para abordar el legado autoritario
 
 ---
 
-*El período de ley marcial fue un capítulo oscuro en la historia de Taiwán, pero también sirvió como catalizador para el despertar democrático. Recordar esta historia es para asegurar que tragedias similares nunca vuelvan a suceder.*
+_El período de ley marcial fue un capítulo oscuro en la historia de Taiwán, pero también sirvió como catalizador para el despertar democrático. Recordar esta historia es para asegurar que tragedias similares nunca vuelvan a suceder._

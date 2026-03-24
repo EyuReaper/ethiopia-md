@@ -1,8 +1,8 @@
 ---
-title: "Cultura"
+title: 'Cultura'
 date: 2026-03-17
 tags: [cultura, Hub]
-description: "La diversidad cultural de Taiwán no es solo el resultado del desarrollo histórico, sino también la clave para comprender la sociedad taiwanesa contemporánea. ¿Cómo esta diversidad cultural pasa del conflicto a la fusión? ¿Cómo mantiene la tradición en el proceso de modernización? ¿Cómo mantiene las características locales en la era de la globalización? La experiencia de desarrollo cultural de Taiwán proporciona una referencia importante para las políticas culturales de sociedades diversas."
+description: 'La diversidad cultural de Taiwán no es solo el resultado del desarrollo histórico, sino también la clave para comprender la sociedad taiwanesa contemporánea. ¿Cómo esta diversidad cultural pasa del conflicto a la fusión? ¿Cómo mantiene la tradición en el proceso de modernización? ¿Cómo mantiene las características locales en la era de la globalización? La experiencia de desarrollo cultural de Taiwán proporciona una referencia importante para las políticas culturales de sociedades diversas.'
 ---
 
 # Cultura de Taiwán 🎭
@@ -12,7 +12,7 @@ Cuando cae la noche, las luces de la calle vieja del pueblo de Lukang se enciend
 Este es el secreto de la cultura taiwanesa: no es un linaje único y puro, sino una coexistencia de fusión diversa. En esta isla, la cultura nunca ha sido una elección binaria de blanco y negro, sino una mezcla libre de ricos colores en una paleta. Cuando [los cantos antiguos de los pueblos indígenas](/music/tradicion-musical-indigena-taiwanesa) y el sonido del rock de bandas modernas suenan en la misma noche, cuando el incienso de templos tradicionales y la atmósfera literaria de [cafeterías boutique](/lifestyle/cultura-del-cafe-taiwanes) coexisten en la misma calle, lo que presencias no es la ruptura de la cultura, sino la creación de la cultura.
 
 ![Cultura de procesión de Mazu en Taiwán](/images/wiki/f04323aed8cc.jpg)
-*Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2021大甲媽祖遶境_02.jpg) | CC BY-SA 4.0 | Fotógrafo: Outlookxp*
+_Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2021大甲媽祖遶境_02.jpg) | CC BY-SA 4.0 | Fotógrafo: Outlookxp_
 
 ## Laboratorio Cultural en la Isla
 
@@ -58,13 +58,18 @@ La capacidad más asombrosa de la cultura taiwanesa es el equilibrio ingenioso q
 
 El [[Sistema de Tesoros Humanos Vivos]] es una importante iniciativa de preservación cultural de Taiwán, más de doscientos preservadores de patrimonio cultural se han convertido en diccionarios vivientes de habilidades tradicionales. Pero estos maestros no son artículos de exhibición en museos, enseñan activamente habilidades a la generación más joven, permitiendo que la tradición obtenga nueva vida en la transmisión. Desde las óperas para honrar a los dioses en las entradas de los templos entrando en el salón del Teatro Nacional, las canciones de montaña hakka fusionándose con técnicas de arreglo moderno para crear un nuevo estilo musical, los antiguos tonos indígenas chocando con instrumentos modernos para crear piezas que sacuden el alma.
 
-Como isla, Taiwán ha desarrollado un carácter cultural único: abierto, inclusivo, altamente adaptable. Este carácter permite que Taiwán sea tanto receptor como creador en el océano de la cultura, manteniendo características locales mientras dialoga activamente con el mundo. El proceso de [[democratización]] ha cambiado profundamente el panorama cultural de Taiwán, desde el control cultural de la era autoritaria hasta el florecimiento de cien flores de la era democrática, la cultura taiwanesa ha experimentado una magnífica transformación de la uniformidad a la diversidad.
+Como isla, Taiwán ha desarrollado un carácter cultural único: abierto, inclusivo, altamente adaptable. Este carácter permite que Taiwán sea tanto receptor como creador en el océano de la cultura, manteniendo características locales mientras dialoga activamente con el mundo. El proceso de [[democratization]] ha cambiado profundamente el panorama cultural de Taiwán, desde el control cultural de la era autoritaria hasta el florecimiento de cien flores de la era democrática, la cultura taiwanesa ha experimentado una magnífica transformación de la uniformidad a la diversidad.
 
 ## Milagro Insular de la Creatividad Cultural
 
-A principios del siglo XXI, Taiwán propuso una estrategia de desarrollo de "industrias creativas culturales", esto no es terminología política, sino una manifestación de la esencia de la cultura taiwanesa. La música popular de Taiwán una vez lideró la tendencia cultural en chino mandarín, desde la suave voz de [[Teresa Teng]] cruzando las barreras políticas a través del Estrecho, hasta el ritmo innovador de [[Jay Chou]] redefiniendo la música pop en chino mandarín, desde el espíritu rock de [[Mayday]] inspirando a toda una generación, hasta el encanto pop de [[Jolin Tsai]] arrasando en Asia, los músicos taiwaneses cuentan historias emocionales universales con una perspectiva única de la isla.
+<<<<<<< Updated upstream
+A principios del siglo XXI, Taiwán propuso una estrategia de desarrollo de "industrias creativas culturales", esto no es terminología política, sino una manifestación de la esencia de la cultura taiwanesa. La música popular de Taiwán una vez lideró la tendencia cultural en chino mandarín, desde la suave voz de [[teresa-teng]] cruzando las barreras políticas a través del Estrecho, hasta el ritmo innovador de [[jay-chou]] redefiniendo la música pop en chino mandarín, desde el espíritu rock de [[mayday]] inspirando a toda una generación, hasta el encanto pop de [[蔡依林]] arrasando en Asia, los músicos taiwaneses cuentan historias emocionales universales con una perspectiva única de la isla.
+=======
+A principios del siglo XXI, Taiwán propuso una estrategia de desarrollo de "industrias creativas culturales", esto no es terminología política, sino una manifestación de la esencia de la cultura taiwanesa. La música popular de Taiwán una vez lideró la tendencia cultural en chino mandarín, desde la suave voz de [[Teresa Teng]] cruzando las barreras políticas a través del Estrecho, hasta el ritmo innovador de [[Jay Chou]] redefiniendo la música pop en chino mandarín, desde el espíritu rock de [[mayday]] inspirando a toda una generación, hasta el encanto pop de [[Jolin Tsai]] arrasando en Asia, los músicos taiwaneses cuentan historias emocionales universales con una perspectiva única de la isla.
 
-En el cine, la Nueva Ola del Cine Taiwanés también ha sacudido internacionalmente. El realismo poético de [[Hou Hsiao-hsien]] ganó el León de Oro en el Festival de Cine de Venecia, la narrativa transcultural de [[Ang Lee]] ganó el premio Oscar al Mejor Director dos veces, el espíritu experimental de [[Tsai Ming-liang]] desafía los límites del lenguaje cinematográfico, el sentimiento épico de [[Wei Te-sheng]] recrea la magnificencia de la historia taiwanesa. Estos directores han mostrado búsquedas estéticas únicas en el cine internacional, demostrando que el cine taiwanés puede dialogar con el mundo en su propio idioma.
+> > > > > > > Stashed changes
+
+En el cine, la Nueva Ola del Cine Taiwanés también ha sacudido internacionalmente. El realismo poético de [[hou-hsiao-hsien]] ganó el León de Oro en el Festival de Cine de Venecia, la narrativa transcultural de [[ang-lee]] ganó el premio Oscar al Mejor Director dos veces, el espíritu experimental de [[tsai-ming-liang]] desafía los límites del lenguaje cinematográfico, el sentimiento épico de [[wei-te-sheng-taiwanese-epic-filmmaker]] recrea la magnificencia de la historia taiwanesa. Estos directores han mostrado búsquedas estéticas únicas en el cine internacional, demostrando que el cine taiwanés puede dialogar con el mundo en su propio idioma.
 
 [[Eslite Bookstore]] creó el concepto único de "espacio cultural", haciendo de la librería no solo un lugar para vender libros, sino un asentamiento de cultura. Espacios de arte y cultura como [[Huashan 1914 Creative Park]] y [[Songshan Cultural and Creative Park]] transforman edificios antiguos en cunas de creatividad. Los [[Golden Horse Awards]] se han convertido en el Oscar del cine en chino mandarín, la [[Feria Internacional del Libro de Taipei]] es un carnaval editorial importante en Asia, estos eventos culturales permiten que el mundo vea el poder blando cultural de Taiwán.
 
@@ -99,4 +104,4 @@ Cuando turistas extranjeros caminan por las calles de Taipei, ven templos y rasc
 
 ---
 
-*El encanto de la cultura taiwanesa radica en que demuestra que la diversidad puede coexistir, la diferencia puede prosperar juntas, la tradición puede innovar.*
+_El encanto de la cultura taiwanesa radica en que demuestra que la diversidad puede coexistir, la diferencia puede prosperar juntas, la tradición puede innovar._

@@ -1,6 +1,13 @@
 ---
 created: 2026-03-17
-tags: [society, human rights, gender equality, same-sex marriage, transitional justice]
+tags:
+  [
+    society,
+    human rights,
+    gender equality,
+    same-sex marriage,
+    transitional justice,
+  ]
 title: Derechos Humanos e Igualdad de Género
 description: El camino progresista de Taiwán en la protección de los derechos humanos y la igualdad de género, desde las violaciones de derechos humanos autoritarias hasta convertirse en pionero de los derechos humanos en Asia
 date: 2026-03-17
@@ -89,11 +96,11 @@ Taiwán tiene un desempeño excelente en las clasificaciones internacionales de 
 
 ## Temas relacionados
 
-- [[Democratic System]]
+- [[democratic-system]]
 - [[Martial Law Period]]
-- [[Democracy and Democratization]]
+- [[democracy-and-democratization]]
 - [[Ethnic Groups (Hoklo, Hakka, Indigenous, Mainlander, New Immigrants)]]
 
 ---
 
-*El viaje de los derechos humanos de Taiwán demuestra que las sociedades pueden superar los legados autoritarios para construir democracias inclusivas que respetan los derechos y sirven como faros para la región.*
+_El viaje de los derechos humanos de Taiwán demuestra que las sociedades pueden superar los legados autoritarios para construir democracias inclusivas que respetan los derechos y sirven como faros para la región._

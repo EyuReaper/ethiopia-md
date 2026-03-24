@@ -74,7 +74,7 @@ Los proyectos de modernización del período colonial japonés se convirtieron e
 
 ## Temas Relacionados
 
-- [[History/Qing Dynasty Rule]]
+- [[qing-dynasty-rule]]
 - [[History/Martial Law Period]]
-- [[Society/democratic-system]]
-- [[Technology/open-source-and-g0v]]
+- [[democratic-system]]
+- [[open-source-and-g0v]]

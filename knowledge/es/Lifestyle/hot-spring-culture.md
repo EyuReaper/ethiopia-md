@@ -1,7 +1,15 @@
 ---
-title: "Cultura de Aguas Termales"
-category: "Lifestyle"
-tags: ["aguas termales", "beitou", "jiaoxi", "cultura de baño", "relajación", "bienestar"]
+title: 'Cultura de Aguas Termales'
+category: 'Lifestyle'
+tags:
+  [
+    'aguas termales',
+    'beitou',
+    'jiaoxi',
+    'cultura de baño',
+    'relajación',
+    'bienestar',
+  ]
 date: 2026-03-17
 ---
 
@@ -120,4 +128,4 @@ Las aguas termales urbanas representan productos de vida moderna. Los hoteles y 
 - [[Sistema de Transporte de Taiwán]]: Redes de transporte y desarrollo turístico en pueblos de aguas termales
 - [[Religión y Creencias Populares]]: Cultura de santuarios y creencias populares en áreas de aguas termales
 - [[Cultura del Café de Taiwán]]: Cultura de ocio de cafeterías en áreas de aguas termales
-- [[Vida Nocturna y Cultura KTV]]: Actividades de entretenimiento nocturno en complejos de aguas termales
+- [[nightlife-and-ktv-culture]]: Actividades de entretenimiento nocturno en complejos de aguas termales

@@ -1,8 +1,8 @@
 ---
-title: "Geografía"
+title: 'Geografía'
 date: 2026-03-17
 tags: [geografía, Hub]
-description: "Taiwán tiene un área total de 36.197 kilómetros cuadrados, una línea costera de 1.566,3 kilómetros, situada en la intersección de la placa continental euroasiática y la placa del mar de Filipinas. Su pico más alto, el Monte Jade, tiene una altitud de 3.952 metros, siendo la cuarta isla más alta del mundo. El Trópico de Cáncer atraviesa toda la isla, creando una zona climática completa desde el tropical hasta el alpino frío, nutriendo paisajes geográficos y ecosistemas extremadamente ricos."
+description: 'Taiwán tiene un área total de 36.197 kilómetros cuadrados, una línea costera de 1.566,3 kilómetros, situada en la intersección de la placa continental euroasiática y la placa del mar de Filipinas. Su pico más alto, el Monte Jade, tiene una altitud de 3.952 metros, siendo la cuarta isla más alta del mundo. El Trópico de Cáncer atraviesa toda la isla, creando una zona climática completa desde el tropical hasta el alpino frío, nutriendo paisajes geográficos y ecosistemas extremadamente ricos.'
 ---
 
 # Geografía de Taiwán 🗺️
@@ -14,7 +14,7 @@ Parado en el pico principal del [[Monte Jade]], contemplando esta hermosa isla, 
 Este cambio extremo de terreno no es casualidad, sino un regalo que proviene de la ubicación de Taiwán en la [[zona de intersección de placas]] más activa del mundo. Una velocidad de compresión de placas de ocho centímetros por año permite que Taiwán continúe "creciendo", y también hace de esta isla el laboratorio geológico más activo de la Tierra. De las montañas al océano, de las llanuras a los valles longitudinales, Taiwán muestra al mundo con su diversidad geográfica la creación más espectacular de la naturaleza.
 
 ![Mapa de ubicación de Taiwán](/images/wiki/207c474084bf.svg)
-*Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwan_location_map.svg) | CC BY-SA 3.0 | Fotógrafo: NordNordWest*
+_Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwan_location_map.svg) | CC BY-SA 3.0 | Fotógrafo: NordNordWest_
 
 ## Milagro Geológico en el Pacífico
 
@@ -50,7 +50,7 @@ Taiwán no es solo una isla, sino un archipiélago compuesto por la isla princip
 
 El [[archipiélago de Penghu]] es el grupo de islas periféricas más grande de Taiwán, compuesto por noventa islas. Estas islas están compuestas principalmente de [[basalto]], producto de erupciones volcánicas submarinas hace millones de años. El espectacular paisaje del [[basalto columnar]] muestra el enorme poder de la actividad volcánica. La cultura de [[trampas de pesca de piedra]] de Penghu combina perfectamente las características geológicas con la sabiduría humanística, es el grupo de trampas de pesca de piedra con la mayor densidad en todo el mundo.
 
-[[Kinmen]] y [[Matsu]] están ubicadas en el lado oeste del Estrecho de Taiwán, geológicamente son una extensión del continente. Estas islas están compuestas principalmente de [[granito]], después de una acción erosiva marina prolongada, han formado un terreno de erosión marina único. Los [[túneles de Cuishan]] de Kinmen y los [[túneles del Mar del Norte]] de Matsu muestran cómo los humanos utilizan las características geológicas de las islas para crear ingeniería de defensa militar.
+[[kinmen-matsu-guest-house-contemporary-art-museum]] y [[Matsu]] están ubicadas en el lado oeste del Estrecho de Taiwán, geológicamente son una extensión del continente. Estas islas están compuestas principalmente de [[granito]], después de una acción erosiva marina prolongada, han formado un terreno de erosión marina único. Los [[túneles de Cuishan]] de Kinmen y los [[túneles del Mar del Norte]] de Matsu muestran cómo los humanos utilizan las características geológicas de las islas para crear ingeniería de defensa militar.
 
 [[Lanyu]] y [[Isla Verde]] son islas volcánicas en el mar exterior del este de Taiwán, compuestas de [[andesita]]. Estas jóvenes islas volcánicas conservan ecosistemas de islas marinas primitivos, son campos importantes para estudiar la biogeografía insular. Los [[manantiales termales Zhaori]] son manantiales termales submarinos raros en el mundo, mostrando las características geológicas de las islas volcánicas.
 
@@ -99,7 +99,7 @@ Cuando contemplamos esta hermosa isla, vemos no solo la belleza natural de las m
 Esta pequeña isla no solo lleva el hogar de veintitrés millones de personas, sino que también es un precioso testimonio de la diversidad geográfica de la Tierra. De lo tropical a lo frío, del océano a las altas montañas, de las llanuras a los desfiladeros, Taiwán muestra al mundo con su riqueza geográfica las infinitas posibilidades de la creatividad de la naturaleza.
 
 ![Desfiladero de Taroko](/images/wiki/taroko-gorge-swallow-grotto.jpg)
-*Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwan_Taroko4.jpg) | CC BY-SA 3.0*
+_Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwan_Taroko4.jpg) | CC BY-SA 3.0_
 
 ## Lectura Adicional
 
@@ -116,4 +116,4 @@ Esta pequeña isla no solo lleva el hogar de veintitrés millones de personas, s
 
 ---
 
-*El milagro de la geografía taiwanesa radica en que con la escala de una isla, interpreta la esencia de la Tierra, mostrando la creación geográfica más refinada del Creador.*
+_El milagro de la geografía taiwanesa radica en que con la escala de una isla, interpreta la esencia de la Tierra, mostrando la creación geográfica más refinada del Creador._

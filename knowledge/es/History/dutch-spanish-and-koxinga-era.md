@@ -1,13 +1,19 @@
 ---
 created: 2026-03-17
-tags: [Historia, Compañía Neerlandesa de las Indias Orientales, Reino de Tungning, Koxinga]
+tags:
+  [
+    Historia,
+    Compañía Neerlandesa de las Indias Orientales,
+    Reino de Tungning,
+    Koxinga,
+  ]
 title: Era Neerlandesa, Española y de Koxinga
-description: "El primer gobierno colonial sistemático de Taiwán, desde el establecimiento del Fuerte Zeelandia por los neerlandeses hasta la fundación de Taiwán por Koxinga, sentando las bases para el asentamiento de los chinos han y las instituciones políticas"
+description: 'El primer gobierno colonial sistemático de Taiwán, desde el establecimiento del Fuerte Zeelandia por los neerlandeses hasta la fundación de Taiwán por Koxinga, sentando las bases para el asentamiento de los chinos han y las instituciones políticas'
 date: 2026-03-17
 author: Taiwan.md
 readingTime: 8
 featured: false
-translatedFrom: "knowledge/History/荷西明鄭時期.md"
+translatedFrom: 'knowledge/History/荷西明鄭時期.md'
 ---
 
 # Era Neerlandesa, Española y de Koxinga
@@ -138,7 +144,7 @@ Este período también estableció patrones que caracterizarían a Taiwán a lo 
 
 ## Temas Relacionados
 
-- [[History/Prehistoric Era and Indigenous Peoples]]
-- [[History/Qing Dynasty Rule]]
+- [[prehistoric-era-and-indigenous-peoples]]
+- [[qing-dynasty-rule]]
 - [[Culture/Ethnic Groups (Hoklo, Hakka, Indigenous, Mainlanders, New Residents)]]
-- [[Technology/Open Source Community and g0v]]
+- [[open-source-and-g0v]]

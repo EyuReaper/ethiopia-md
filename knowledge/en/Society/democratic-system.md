@@ -76,6 +76,9 @@ Taiwan is hailed as a "democratic miracle," long rated as a "Free" country by in
 ## Related Topics
 
 - [[History/Martial Law Period]]
-- [[History/democratization]]
+- [[democratization]]
+  <<<<<<< Updated upstream
+- # [[human-rights-and-gender-equality]]
 - [[Society/Human Rights and Gender Equality]]
-- [[Technology/open-source-and-g0v]]
+  > > > > > > > Stashed changes
+- [[open-source-and-g0v]]

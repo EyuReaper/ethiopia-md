@@ -68,7 +68,7 @@ His success in maintaining Pegatron's competitiveness while pursuing social goal
 
 ## Further Reading
 
-- [[Stan Shih (施振榮)]] - ASUS founder who pioneered Taiwan's transition from manufacturing to innovation
+- [[stan-shih]] - ASUS founder who pioneered Taiwan's transition from manufacturing to innovation
 - [[Terry Gou (郭台銘)]] - Foxconn founder whose manufacturing empire shaped Taiwan's tech industry
 - [[Morris Chang (張忠謀)]] - TSMC founder who created Taiwan's semiconductor leadership
 - [[Audrey Tang (唐鳳)]] - Digital minister who embodies tech-government collaboration

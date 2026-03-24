@@ -1,6 +1,7 @@
 ---
 created: 2026-03-17
-tags: [Nature, Endemic Species, Biodiversity, Taiwanese Black Bear, Sakura Trout]
+tags:
+  [Nature, Endemic Species, Biodiversity, Taiwanese Black Bear, Sakura Trout]
 title: 'Endemic Species'
 description: "Taiwan's rich endemic species showcase the evolutionary miracles of island biogeography and their conservation importance"
 date: 2026-03-17
@@ -10,6 +11,7 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 ---
+
 # Endemic Species
 
 > **30-Second Overview:** Despite covering only 36,000 square kilometers, Taiwan hosts over 4,000 endemic species, including celebrity wildlife like the Taiwanese black bear, Sakura trout, and Formosan rock macaque. This rich endemism reflects Taiwan's unique geographical position, geological history, and climatic conditions, while also facing conservation challenges from habitat destruction and climate change.
@@ -96,6 +98,6 @@ Taiwan's endemic species conservation experience holds important value for globa
 ## Related Topics
 
 - [[Geography/Topography and Climate]]
-- [[History/Prehistoric Era and Indigenous Peoples]]
-- [[Lifestyle/Convenience Store Culture]]
+- [[prehistoric-era-and-indigenous-peoples]]
+- [[convenience-store-culture]]
 - [[Culture/Ethnic Groups (Hoklo, Hakka, Indigenous, Mainland Chinese, New Immigrants)]]
