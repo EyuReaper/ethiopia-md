@@ -1,207 +1,179 @@
 ---
-title: "Taiwan's Forest Ecosystems"
-description: "From subtropical coasts to alpine coniferous forests: A journey through the rich vertical biodiversity of Taiwan's forests."
-date: 2026-03-20
+title: 'Taiwan Forest Ecosystems'
+description: 'A vertical journey from sea level to 3,952 meters, traversing the most compressed forest spectrum on Earth'
+date: 2026-03-23
 category: 'Nature'
-tags:
-  [
-    'Forest Ecology',
-    'Vertical Distribution',
-    'Taiwania',
-    'Cypress',
-    'Biodiversity',
-    'National Forests',
-  ]
-readingTime: 13
+tags: ['forest ecology', 'vertical distribution', 'Taiwania', 'cypress', 'cloud forest', 'biodiversity']
+readingTime: 15
 author: 'Taiwan.md'
-featured: true
-lastVerified: 2026-03-20
+featured: false
+lastVerified: 2026-03-23
+lastHumanReview: true
 ---
 
-# Taiwan's Forest Ecosystems
+# Taiwan Forest Ecosystems
 
-## 30-Second Overview
+> **30-second overview:** Within a horizontal distance of 200 kilometers, Taiwan rises from sea level to 3,952 meters, creating a complete forest spectrum from tropical to subarctic zones. With 60.92% forest coverage—double the global average—this island compresses almost every forest type on Earth into an incredibly small space. From salt-resistant Casuarina on the coast, to thousand-year-old cypresses in the cloud belt, to Juniperus squamata on peaks above 3,600 meters, this is the most biodiverse ecological journey in the shortest distance possible.
 
-Taiwan has a remarkable forest coverage of **60.71%**, ranking 33rd globally—double the world average. Within a short horizontal distance of 200 kilometers, the elevation rises from sea level to 3,952 meters (Jade Mountain), creating a complete vertical spectrum from tropical rainforests to alpine coniferous forests. From coastal windbreak forests to low-elevation camphor zones, and up to the ancient cypress and fir forests of the high mountains, Taiwan condenses major forest types of the Northern Hemisphere into one island.
+## A Counter-Intuitive Reality
 
-**Keywords:** Vertical Distribution, Ancient Cypress Forests, Taiwania, Red Cypress, Taiwan Fir, Biodiversity
+**Taiwan has one of the highest forest densities of any island in the world, yet its forests are simultaneously among the most vulnerable.**
 
-## Why It Matters
+2.186 million hectares of forest, 60.92% coverage, 460 million cubic meters of timber stock—these numbers place Taiwan 26th globally in forest coverage, double the world average of 30.3%. However, these forests cling almost entirely to vertical mountain faces, enduring annual typhoons, earthquakes, and torrential rains, plus the long-term threat of climate change.
 
-Taiwan's forests are a microcosm of global biodiversity. On this island of only 36,000 square kilometers, forests harbor over 4,000 species of vascular plants and 58,000 known species, about 25% of which are **endemic** (found nowhere else on Earth). These forests are not just habitats; they are Taiwan's "Green Lungs," absorbing approximately 500 million tons of CO2 annually.
+> **📝 Curator's Note**
+> Many don't realize that Taiwan's forest coverage exceeds Germany (32%), France (31%), and even forest-famous Norway (38%). But Taiwan's forests grow almost exclusively on slopes steeper than 30 degrees—this kind of "vertical forest" is rare anywhere in the world.
 
-From the **Taiwania** tree—a living fossil from the geologic age—to the **Taiwan Beech**—a relic from the Ice Age—these forests record the history of Earth's environmental changes. In the era of climate change, these pristine old-growth forests serve as critical natural laboratories for studying ecological adaptation and evolution.
+## From Coast to Sky: A 200-Kilometer Journey Through Time
 
-## Current State of Forests
+Standing at Keelung Port and looking south, you can see Yushan (Jade Mountain) 200 kilometers away. That distance—equivalent to Taipei to Hsinchu—climbs from 0 to 3,952 meters elevation. If you could instantly travel through this vertical sequence, you'd experience the complete transition from subtropical to subarctic climate zones.
 
-### Statistics
+### First Stop: Pioneer Troops in the Salt Spray (0-100 meters)
 
-According to the Forestry and Nature Conservation Agency, Taiwan's total forest area is **2.197 million hectares**, with a total stock volume of 502 million cubic meters. Compared to the global average coverage of 30.3%, Taiwan is incredibly green.
+The journey begins where waves crash against the shore. This looks barren—sand, salt spray, fierce winds—but look closely and you'll discover a small pioneer army.
 
-### Distribution
+Casuarina needles sway in the sea breeze—they're not actually leaves but reduced branch tips that minimize salt damage. Pandanus trees grip loose sand with aerial roots, while Pittosporum's waxy leaves reflect the harsh sunlight. These plants lack imposing stature but serve as the first defense line protecting the interior.
 
-Forest distribution shows significant geographical variance, with the highest coverage in the mountainous east and center:
+On the Hengchun Peninsula, you can still find Taiwan's last tropical forest remnants—Diospyros, Palaquium, and Diospyros ferrea. They're ice age survivors; when the entire Northern Hemisphere was locked in ice, this island's southernmost tip became the last refuge for tropical plants.
 
-- **Taitung County:** 81.64% (Highest)
-- **Hualien County:** 80.54%
-- **Yilan County:** 78.55%
-- **Nantou County:** 77.82%
+### Second Stop: The Camphor Kingdom (100-500 meters)
 
-The western plains, due to historical agricultural development and urbanization, have significantly less forest cover.
+Leaving the coast for low-elevation hills, the air begins to fill with a spicy fragrance. This is the scent of camphor—the aroma that once made Taiwan world-famous.
 
-### Forest Types
+From the late 19th to early 20th century, Taiwan produced 70% of the world's camphor. After the Japanese arrived, they expanded extraction of this "green gold" on a massive scale. Camphor wasn't just aromatic—it was essential for celluloid (early plastic) and smokeless gunpowder. A thousand-year-old camphor tree could yield dozens of kilograms of camphor, enough to make a family wealthy.
 
-- **Natural Forests:** 1.58 million hectares (72%), consisting mainly of old-growth and natural secondary forests.
-- **Plantations:** 617,000 hectares (28%), primarily for economic purposes.
+Today, little original camphor-nanmu forest remains. What you see are mostly secondary forests—regrowth after Japanese-era logging. But breathe deeply, and that fragrance persists. Lagerstroemia subcostata has bark so smooth even monkeys can't climb it, bougainvillea adds red splashes among the trees, and tree fern fronds unfurl like umbrellas, reminding you this was once dinosaur-era forest.
 
-**National Forests** account for 72% of the total area, serving as the backbone of conservation efforts.
+### Third Stop: The Acorn Forest's Abundant Table (500-1,800 meters)
 
-## Vertical Forest Zonation
+Climbing higher as temperatures drop, the forest protagonists become fagaceae—beech family trees. Cyclobalanopsis glauca, Quercus morii, Castanopsis carlesii—names unfamiliar to most, but you've definitely seen their fruit: acorns.
 
-Taiwan's unique geography creates one of the world's most complete vertical forest distributions. Climbing from sea level to 3,952 meters entails a temperature change equivalent to traveling from the equator to the arctic circle.
+This is Taiwan's wildlife cafeteria. In autumn, acorns rain down, drawing Formosan black bears, Formosan macaques, and wild boar for pre-winter feasting. Oak forest biodiversity is extraordinary; a single century-old oak can support hundreds of species of insects, birds, and small mammals.
 
-### Tropical Coastal Forest Zone (0-100m)
+At this elevation you begin encountering true giants. Quercus morii can reach 30 meters height with trunk diameters exceeding 2 meters. They live up to 500 years, witnessing indigenous tribal migrations, Han Chinese settlement, Japanese rule, and modern Taiwan's birth.
 
-**Climate:** Hot, humid, high salinity.
-**Key Species:** Beefwood (Casuarina), Screw Pine, Sea Hibiscus.
-**Ecology:** Plants with developed root systems to resist wind and salt.
-**Function:** Crucial for coastline protection. The Hengchun Peninsula retains remnants of tropical forests like the Ebony and Large-leaved Palaquium.
+### Fourth Stop: The Cloud Kings' Realm (1,800-2,500 meters)
 
-### Subtropical Broadleaf Forest Zone (100-1800m)
+Then you enter Taiwan's forest sanctuary—the cloud belt.
 
-#### Camphor & Machilus Zone (100-500m)
+This is the cypress homeland. Red cypress (Chamaecyparis formosensis) and Taiwan cypress (Chamaecyparis obtusa var. formosana)—Earth's only two Taiwan-endemic cypresses—found perfect survival conditions at this elevation. Annual rainfall of 3,000-5,000mm, relative humidity constantly above 80%, and clouds that almost never clear.
 
-**Climate:** Warm and humid (Avg. 20-25°C).
-**Key Species:** Camphor tree, Large-leaved Nanmu, Incense Nanmu, Ficus.
-**Significance:** Historically the main area for human settlement. Camphor trees were once heavily exploited for camphor production (a major export in the late 19th/early 20th century). Today, most are secondary forests.
+**Why cypresses? Why here?**
 
-#### Oak & Castanopsis Zone (500-1800m)
+The answer lies in water molecules. Clouds bring not just moisture but nutrients. Dust, pollen, and trace elements floating in cloud water are absorbed directly by leaves—this "fog fertilization" allows cypresses to grow into giants on barren ridges.
 
-**Climate:** Cool and humid (Avg. 15-20°C).
-**Key Species:** Ring-cupped Oak, Long-tail Chinquapin, Taiwan Zelkova.
-**Ecology:** Dominated by the **Fagaceae** family (oaks), which produce acorns—a vital food source for wildlife like the Formosan Black Bear and Formosan Rock Macaque.
+A 2,000-year-old red cypress can reach 12 meters in trunk diameter. Standing before one, you'd need 20 people holding hands to encircle it. Its lifespan spans all of human civilization—when it sprouted, Jesus hadn't been born; when Han Chinese first arrived in Taiwan, it had already lived 1,600 years.
 
-### Temperate Mixed Forest Zone (1800-2500m)
+> **💡 Did you know?**
+> Why do cypresses live so long? The secret is "hinokitiol"—a natural chemical compound with powerful antibacterial and insect-repelling properties that prevents decay even after death. Smangus has a thousand-year-old red cypress that fell 300 years ago but remains hard as new.
 
-#### Cypress Zone (Cloud Forest)
+At Qilan Mountain, you can see Taiwan's most complete original cypress forest. This area contains Taiwan's largest natural pure Taiwan cypress forest, designated a World Heritage potential site by the Cultural Affairs Council in 2003. Walking among these trees, you understand what "sacred trees" truly means—not from superstition, but from awe. These trees survived ice ages, volcanic eruptions, and major earthquakes; they're living fossils of Earth's history.
 
-**Climate:** Cool, foggy, high rainfall (3000-5000mm/year).
-**Key Species:** **Taiwan Red Cypress**, **Taiwan Yellow Cypress** (Hinoki), **Taiwania**, Taiwan Hemlock.
-**Value:** This zone contains world-class ancient cypress forests.
-**Culture:** Revered by Indigenous peoples as sacred trees. Heavily logged during the Japanese colonial era for their high-quality timber.
+But the cypress story is also Taiwan's most painful forest memory.
 
-**The Taiwania Story:** Named after the island, _Taiwania cryptomerioides_ is the only gymnosperm genus named after Taiwan. It is a living fossil, often called the "Grandpa of Taiwan." The "Three Sisters" of the Da-an River are Taiwania trees reaching nearly 80 meters in height—among the tallest in East Asia.
+### Japanese Logging Devastation: The Vanishing Cloud Forest
 
-#### Hemlock Zone (2000-2800m)
+In 1912, Alishan logging operations began. The Alishan Railway wasn't built for tourism but to transport thousand-year cypresses down the mountain. The zigzag tracks, narrow-gauge trains, and wooden stations—today's tourist attractions—were originally cypress infrastructure.
 
-**Climate:** Cold and rainy.
-**Key Species:** Taiwan Hemlock, Taiwan Spruce, Taiwan Armand Pine.
-**Ecology:** Often forms pure stands of coniferous trees with sparse undergrowth.
-**Fauna:** Habitat for high-altitude birds like the Mikado Pheasant.
+Over 33 years, the Japanese logged 9,773 hectares of Alishan forest, removing 3.47 million cubic meters of cypress. This timber built Japanese shrines and palaces, even supporting overseas military expansion. Taipingshan, Basianshan, and Alishan comprised the "Three Great Taiwan Logging Sites."
 
-### Subalpine Coniferous Forest Zone (2500-3600m)
+**When a thousand-year giant fell, the sound carried 5 kilometers.**
 
-#### Fir Zone
+Contemporary loggers reported that each falling giant cypress resonated throughout entire valleys, scattering wildlife as if mountain spirits wept. Indigenous peoples suffered most—their ancestral sacred trees became lumber for invaders' buildings.
 
-**Climate:** Freezing, snowy in winter (Avg. 5-10°C).
-**Key Species:** **Taiwan Fir** (Abies kawakamii).
-**Feature:** Pure stands of dark green firs, often shaped like Christmas trees, dominating the landscape near the timberline.
-**Distribution:** Snow Mountain, Hehuan Mountain, Jade Mountain.
+Post-war, the Republic of China government continued logging operations. Only in 1991 did authorities officially declare a "complete ban on natural forest logging," ending nearly a century of large-scale deforestation. But over 95% of Taiwan's original cypress forests had already vanished.
 
-### Alpine Vegetation Zone (Above 3600m)
+### Fifth Stop: Temperate Coniferous Forest's Ultimate Challenge (2,500-3,600 meters)
 
-#### Juniper Scrub
+Leaving cypress territory and climbing higher, you enter Taiwan's temperate zone—the realm of hemlocks and firs.
 
-**Environment:** Extreme winds, frost, intense UV radiation.
-**Key Species:** **Yushan Juniper**.
-**Form:** Due to strong winds, they often grow as low, creeping shrubs (krummholz), twisted into artistic shapes.
-**Significance:** The guardian of the timberline, marking the limit of tree growth.
+Taiwan hemlock looks like Christmas trees, but faces conditions far harsher than Nordic evergreens. Above 2,500 meters elevation, winter temperatures drop to -10°C, constant strong winds blow, and UV radiation is intense. Trees must complete annual growth in brief summers while conserving energy through long winters.
 
-## Star Species of the Forest
+Taiwan fir dominates this forest belt. They form vast pure stands resembling dark green oceans from afar. Each tree maintains perfect conical form—not for aesthetics, but to shed snow efficiently without branch breakage.
 
-### Giant Tree Groves
+On Xueshan, Hehuanshan, and Yushan, you witness spectacular Taiwan fir forests. Especially on clear mornings after fog lifts, sunlight on these dark green spires creates metallic gleams across entire forests. This is Taiwan's closest approximation to Nordic forests, yet it exists on a subtropical island at 23.5°N latitude.
 
-- **Lala Mountain:** Home to 22 giant cypresses over 1,000 years old.
-- **Dasheshan (Big Snow Mountain):** Features the 1,400-year-old Red Cypress "sacred tree."
-- **Smangus:** A remote Atayal tribal area guarding a magnificent grove of ancient Red Cypresses.
+### Final Stop: Sky City's Last Guardians (Above 3,600 meters)
 
-### Endemic Treasures
+Above 3,600 meters, true forest ends, but final guardians remain—Taiwan juniper (Juniperus squamata var. morrisonicola).
 
-- **Taiwan Beech:** A relic of the Ice Age with a very limited distribution, turning ridges golden yellow in autumn.
-- **Taiwan Zelkova:** A deciduous tree with valuable timber and beautiful autumn foliage.
-- **Stout Camphor (Cinnamomum kanehirae):** Endemic to Taiwan and host to the medicinal "Antrodia" fungus; endangered due to poaching.
+These trees no longer pursue towering height but creep along ground surfaces, forming green carpets. Fierce winds can't topple them because they grow lower than wind; frost can't kill them because their cell sap contains natural antifreeze; blazing sun can't desiccate them because waxy needles reflect intense light.
 
-## Ecological Functions
+Standing near Yushan's peak, observing Taiwan juniper forests below, you discover something remarkable: these seemingly diminutive shrubs may be older than valley trees below. A juniper appearing only half a meter tall might be 500 years old. They're forest line sentinels, marking the survival limit for woody plants.
 
-### Climate Regulation
+## Taiwania: Earth's Most Ancient Tree Species' Last Sanctuary
 
-Taiwan's forests serve as a massive carbon sink. The cloud forests (fog forests) play a unique role in intercepting water from fog, regulating local humidity and temperature.
+In this vertical journey, one species deserves special mention: Taiwania (Taiwania cryptomerioides).
 
-### Water Conservation
+Taiwania is among Earth's most ancient needle-leaf species, once widespread across the Northern Hemisphere. During the Cretaceous Period, dinosaurs wandered through Taiwania forests. When ice ages arrived, Northern Hemisphere Taiwania nearly vanished, surviving only in refugia in Taiwan and southwestern China.
 
-Forests are Taiwan's "Green Reservoirs." The water retention capacity of Taiwan's forests is estimated to be **200 times that of the Shimen Reservoir**. The canopy intercepts rain, reducing runoff and landslides while recharging groundwater aquifers.
+It's the only plant with Taiwan in its scientific name—monotypic genus and species, alongside giant sequoia and dawn redwood as a Tertiary relict plant—truly a living fossil. Taiwania established roots on this island 50,000 to 35,000 years ago during ice ages.
 
-### Biodiversity Habitat
+Today, Taiwan's Daan Creek watershed harbors a small Taiwania forest, including the famous "Three Sisters" reaching 80 meters height—Taiwan's tallest trees. These living fossils witnessed 65 million years of Earth's changes, older than human civilization, more ancient than the Himalayas' rise.
 
-- **Mammals:** Formosan Black Bear (V-shaped white chest mark), Formosan Serow.
-- **Birds:** Swinhoe's Pheasant, Taiwan Blue Magpie.
-- **Amphibians:** Taiwan Salamander (survivor from the glacial period).
+> **⚠️ Controversial Viewpoint**
+> Taiwania conservation involves differing opinions. Conservationists advocate strict protection with no human interference; some scholars support measured scientific research and educational access to increase public awareness. Balancing conservation with education remains a long-term Taiwan forest challenge.
 
-## Conservation: Trauma and Healing
+## Cloud Forest Climate Change Crisis
 
-### Historical Trauma
+Taiwan's forests face their greatest threat not from logging but climate change.
 
-During the Japanese colonial era (1895-1945), Taiwan's forests underwent massive industrial logging. Alishan, Taipingshan, and Baxianshan were known as the "Three Great Forestry Centers," supplying cypress for Shinto shrines across the empire. Logging continued post-war until a complete ban on logging natural forests was enacted in **1991**.
+Research by National Taiwan University's Forest Department indicates Taiwan temperatures will rise 2-4°C over the next 50 years, causing dramatic upward forest zone shifts. Latest computer simulations show: spruce forests will shrink 77-82%, nearly facing extinction; cypress forests will decrease 52-54% with greatly reduced distribution; low-elevation broadleaf forests will expand 37%, invading upward.
 
-### Modern Threats
+> **📊 Data Source**
+> These predictions come from NTU Forest Department research teams, published in The Reporter special coverage. Research used IPCC climate models and 30 years of Taiwan forest survey data.
 
-- **Climate Change:** Warming temperatures are pushing vegetation zones higher, squeezing alpine species that have nowhere left to go ("escalator to extinction").
-- **Invasive Species:** Mikania micrantha (Mile-a-minute weed) threatens low-elevation forests.
+**Most concerning is high-altitude plants' future.** They already live on mountaintops with nowhere higher to migrate. Yushan juniper and Taiwan fir—these high-elevation species—may face "nowhere to retreat" by century's end.
 
-### Achievements
+## Illegal Logging Shadow: Modern Forests' Hidden Threat
 
-- **Protected Areas:** Establishment of National Parks and Nature Reserves covering significant portions of the island.
-- **Restoration:** Shifting from timber production to ecosystem restoration and biodiversity conservation.
+Even with comprehensive logging bans today, Taiwan's forests still face illegal harvesting threats.
 
-## Forest Culture and Indigenous Wisdom
+In 2022, Miaoli County experienced Taiwan's largest recent illegal logging case—a gang harvested over 60,000 kilograms of precious timber. In 2023, Pingtung's Laiyi Township saw gangs colluding with biotechnology companies to steal camphor fungi wood, illegally profiting over 400,000 NT dollars.
 
-### Indigenous Perspectives
+**Why do people still risk illegal logging?**
 
-Taiwan's Indigenous peoples have lived in symbiosis with forests for millennia:
+The answer lies in massive profit differentials. A cypress burl might cost thousands NT in the mountains but sell for millions after carving. Despite 2015 Forest Law amendments setting maximum penalties at 10.5 years imprisonment plus 20 million NT fines for precious timber theft, enormous profits still tempt criminals.
 
-- **Atayal:** Follow "Gaga" (ancestral laws) which regulate hunting and gathering to prevent resource depletion.
-- **Tsou:** Designate specific forest areas as sacred or forbidden to maintain ecological balance.
-- **Paiwan:** Renowned for wood carving, maintaining a spiritual connection with the trees.
+More heartbreaking, this illegal harvesting targets the rarest species. Cinnamomum kanehirae faces massive poaching as the host tree for Antrodia cinnamomea, now extremely rare in the wild. Some thousand-year red cypresses are "skinned" for burls—trees survive but bear permanent scars.
 
-### Traditional Knowledge
+## Indigenous Forest Wisdom
 
-- **Medicinal Plants:** A vast pharmacopeia of forest herbs.
-- **Sustainable Harvest:** Rotational gathering practices that ensure regeneration.
+Discussing Taiwan's forests requires acknowledging indigenous contributions.
 
-## Future Outlook
+Atayal people have gaga (communal norms) protecting sacred cypress trees, Tsou establish no-cut zones maintaining ecological balance, and Paiwan developed sophisticated wood carving cultures. This traditional ecological knowledge often understands forest mysteries more deeply than modern science.
 
-### Adapting to Climate Change
+**Smangus cypress conservation exemplifies this perfectly.**
 
-Models predict that broadleaf forests will expand upwards, potentially displacing the unique cypress and fir zones. Conservation strategies now focus on:
+When this Atayal community discovered giant tree groves, they chose ecotourism over logging, making giant trees their economic foundation. Today, Smangus is called "God's Tribe," attracting tens of thousands annually to reverence thousand-year cypresses.
 
-- **Ecological Corridors:** Connecting fragmented forests to allow species migration.
-- **Germplasm Preservation:** Storing seeds of endangered alpine plants (Taiwan's "Noah's Ark").
+Indigenous forest philosophy differs importantly from modern conservation: they don't equate "protection" with "complete non-use." Moderate harvesting, rotational cutting, and forest management traditionally maintain forest health. This "forest symbiosis" wisdom is gaining renewed attention in modern conservation science.
 
-### Forest Recreation & Education
+## Forest Futures: Challenges and Hope
 
-The 18 National Forest Recreation Areas managed by the government provide public access:
+Taiwan's forest story chronicles loss and regeneration.
 
-- **Alishan:** Famous for its sunrise, sea of clouds, and forest railway.
-- **Taipingshan:** Features the Bong Bong Train and mossy ancient trails.
-- **Xitou:** Known for its bamboo forests and forest therapy.
+We lost 95% of original cypress forests, but the remaining 5% receives strict protection. We can't reverse climate change, but can build ecological corridors helping species migration. We can't prevent all illegal logging, but can educate more people about forest value.
 
-Taiwan's forests are a living museum of the Northern Hemisphere's ecology. Protecting them is not just about saving trees; it's about safeguarding a critical biological vault for the planet.
+Today's Taiwan forests write new chapters. Restoration projects proceed—the Forestry and Nature Conservation Agency promotes "forest restoration," planting native species in suitable locations. Technology aids protection through satellite monitoring, drone patrols, and AI recognition systems enabling more effective forest surveillance. Youth are awakening—increasing numbers of young Taiwanese join forest conservation, using VR, podcasts, and social media to protect forests in their own ways.
+
+## Journey's End and Beginning
+
+From sea-level Casuarina to Yushan's peak juniper, we've completed this 200-kilometer vertical journey. In just 15 minutes of reading, you've experienced Earth's most compressed ecological diversity.
+
+Taiwan's forest story teaches us: **Natural abundance and fragility often coexist.** 60.92% forest coverage makes this island verdant, but climate change threats create uncertain futures. Thousand-year cypress magnificence inspires awe, but they nearly vanished to chainsaws.
+
+Every tree is a history book recording Earth's changes, human footprints, and life's tenacity. Next time you walk in Taiwan's forests, remember you're on Earth's most spectacular natural stage—not just trees' home, but evolution's museum, climate change's frontline, and humanity-nature relationship's testing ground.
+
+Protecting Taiwan's forests means protecting Earth's biodiversity microcosm. On this 36,000-square-kilometer island lies concentrated imagination and responsibility for our planet's future.
 
 ## References
 
-1. Forestry and Nature Conservation Agency, "Fourth National Forest Resource Inventory Report."
-2. Taiwan Biodiversity Network (TBN).
-3. Council of Agriculture, "Status and Outlook of Forest Resources."
-4. [Taiwan Reforestation Association](https://www.reforestation.tw/).
-5. TBO Taiwan, "Analysis of Taiwan's Forest Coverage."
-6. Maolin National Scenic Area Administration.
+- [Forestry and Nature Conservation Agency "Fourth National Forest Resources Survey Results Summary"](https://www.forest.gov.tw/0002393)
+- [Agriculture Knowledge Portal "Fourth National Forest Resources Survey Results Summary"](https://kmweb.moa.gov.tw/knowledgebase.php?func=2&type=13230&id=308819)
+- [Lealeahotel Makayo Ecological Park "Entering Qilan: From Logging Site to World Heritage Potential"](https://makauy.lealeahotel.com/cilan-forest-heritage-path/)
+- [Taiwan Reforestation Association "Alpine Vegetation Zone Plant Communities"](https://www.reforestation.tw/?p=14319)
+- [Our Island "Yushan Juniper on Taiwan's Rooftop"](https://ourisland.pts.org.tw/content/2572)
+- [The Reporter "From Illegal Logging to Trading—Crimes and Transactions Surrounding Thousand-Year Sacred Trees"](https://www.twreporter.org/topics/illegal-logging)
+- [Alishan Forest Railway](https://zh.wikipedia.org/zh-tw/%E9%98%BF%E9%87%8C%E5%B1%B1%E6%9E%97%E6%A5%AD%E9%90%B5%E8%B7%AF)
+- [Taiwan Forest Recreation Network "Alishan Forest Railway"](https://recreation.forest.gov.tw/Forestry/FR?typ_id=0900041)

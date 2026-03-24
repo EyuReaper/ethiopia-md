@@ -13,7 +13,7 @@ tags:
     Democratization,
   ]
 author: 'Taiwan.md'
-readingTime: '12 minutes'
+readingTime: 12
 featured: true
 category: 'History'
 lastVerified: 2026-03-19

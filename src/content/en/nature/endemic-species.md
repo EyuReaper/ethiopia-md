@@ -1,86 +1,89 @@
 ---
 created: 2026-03-17
-tags:
-  [nature, endemic species, biodiversity, Formosan black bear, cherry salmon]
-title: Endemic Species
-description: Taiwan's rich endemic species showcase the evolutionary miracles of island biogeography and conservation importance
+tags: [Nature, Endemic Species, Biodiversity, Taiwanese Black Bear, Sakura Trout]
+title: 'Endemic Species'
+description: 'Taiwan's rich endemic species showcase the evolutionary miracles of island biogeography and their conservation importance'
 date: 2026-03-17
 author: Taiwan.md
 readingTime: 9
 featured: false
+lastVerified: 2026-03-19
+lastHumanReview: false
 ---
 
 # Endemic Species
 
-> **30-second overview:** Despite covering only 36,000 square kilometers, Taiwan hosts over 4,000 endemic species, including flagship species like the Formosan black bear, cherry salmon, and Formosan rock macaque. This rich endemism reflects Taiwan's unique geographic position, geological history, and climatic conditions, while also facing conservation challenges from habitat destruction and climate change.
+> **30-Second Overview:** Despite covering only 36,000 square kilometers, Taiwan hosts over 4,000 endemic species, including celebrity wildlife like the Taiwanese black bear, Sakura trout, and Formosan rock macaque. This rich endemism reflects Taiwan's unique geographical position, geological history, and climatic conditions, while also facing conservation challenges from habitat destruction and climate change.
 
 ## Why It Matters
 
-Taiwan's endemic species are precious assets of global biodiversity. These unique life forms, evolved over tens of thousands of years, cannot be recreated once extinct. Endemic species demonstrate the uniqueness and integrity of Taiwan's ecosystems and serve as keystone species maintaining ecological balance. Protecting endemic species is not only an ecological conservation responsibility but also a cultural mission to preserve Taiwan's natural heritage.
+Taiwan's endemic species represent precious assets for global biodiversity. These unique life forms, evolved over tens of thousands of years, cannot be recovered once extinct. Endemic species demonstrate the uniqueness and integrity of Taiwan's ecosystems while serving as keystone species maintaining ecological balance. Protecting endemic species is not only an ecological conservation responsibility but also a cultural mission to preserve Taiwan's natural heritage.
 
 ## Overview
 
-Taiwan sits on the edge of the Eurasian continental shelf, where complex geological history and diverse ecological environments have nurtured rich endemic species. From sea level to Mt. Yushan's (Jade Mountain) main peak at 3,952 meters, vertical elevation changes create tropical, subtropical, temperate, and alpine climate zones, providing habitats for different organisms. Endemic species account for 25% of Taiwan's biodiversity, covering mammals, birds, reptiles, amphibians, fish, insects, and plants.
+Taiwan sits on the edge of the Eurasian continental shelf, where complex geological history and diverse ecological environments have nurtured rich endemism. From sea level to Yushan's 3,952-meter peak, vertical elevation changes create tropical, subtropical, temperate, and alpine climate zones, providing habitats for diverse organisms. Endemic species comprise approximately 25% of Taiwan's biodiversity, spanning mammals, birds, reptiles, amphibians, fish, insects, and plants.
 
 ## Key Facts
 
-- **Endemic Species Count**: Over 4,000 endemic species, with endemism rate around 25%, four times the global average
-- **Flagship Species**: Formosan black bear, cherry salmon (櫻花鉤吻鮭), Formosan rock macaque, Mikado pheasant, Swinhoe's pheasant
-- **Plant Endemics**: Approximately 1,000 endemic vascular plant species, including Taiwan fir and red cypress
-- **Altitudinal Distribution**: Endemic species distributed from sea level to high mountains
-- **Conservation Status**: Many endemic species listed as endangered or critically endangered
+- **Endemic species count**: Over 4,000 endemic species with an endemism rate of approximately 25%—four times the global average
+- **Celebrity species**: Taiwanese black bear, Sakura trout (Formosan landlocked salmon), Formosan rock macaque, Mikado pheasant, Swinhoe's pheasant
+- **Plant endemism**: Approximately 1,000 endemic vascular plant species, including Taiwan cedar and Taiwan red cypress
+- **Elevational distribution**: Endemic species distributed from sea level to high mountains
+- **Conservation status**: Multiple endemic species listed as endangered or critically endangered
 
-## In-Depth Content
+## Deep Dive
 
 ### Island Biogeography Background
 
-**Geological History**: Taiwan Island formed during orogenic movement about 5 million years ago. **Ice Age Land Bridges**: Multiple connections and separations with the mainland created unique evolutionary environments. **Strait Isolation**: Geographic isolation by the Taiwan Strait allowed species to evolve independently from continental relatives.
+**Geological History**  
+Taiwan island formed approximately 5 million years ago through orogenic processes. **Ice Age Land Bridges** repeatedly connected and separated Taiwan from the mainland, creating unique evolutionary environments. **Strait Isolation** —the Taiwan Strait's geographical isolation enabled independent species evolution, developing differences from mainland relatives.
 
-**Ecological Diversity**: From tropical coastal forests to alpine tundra, diverse ecosystems within short distances provide evolutionary niches for different species. **Climate Change**: Historical climate fluctuations promoted vertical migration and adaptive divergence of species.
+**Ecological Diversity**  
+From tropical coastal forests to alpine meadows, Taiwan encompasses multiple ecosystems within short distances, providing diverse evolutionary niches. **Climate Change** —historical climate fluctuations promoted species' vertical migration and adaptive divergence.
 
 ### Endemic Mammals
 
-**Formosan Black Bear** (Ursus thibetanus formosanus) is Taiwan's largest terrestrial animal, characterized by white V-shaped chest marking, with current population estimated at 200-600 individuals. **Formosan Rock Macaque** is widely distributed across the island and the only native primate.
+**Taiwanese Black Bear** (_Ursus thibetanus formosanus_) is Taiwan's largest terrestrial animal, characterized by a distinctive white V-shaped chest patch. Current population estimates range from 200-600 individuals. **Formosan Rock Macaque** —widely distributed across the island and Taiwan's only native primate.
 
-**Formosan Wild Boar** is smaller than Asian wild boar, adapted to mountainous environments. **Formosan Serow** excels at rock climbing, distributed in middle to high elevations. **Formosan Sambar** is Taiwan's largest herbivore, with males having magnificent antlers.
+**Formosan Wild Boar** —smaller than Asian wild boar, adapted to mountainous environments. **Formosan Serow** —excellent cliff climbers distributed in mid-to-high elevations. **Formosan Sambar** —Taiwan's largest herbivore, with males sporting magnificent antlers.
 
 ### Endemic Birds
 
-**Mikado Pheasant** (Syrmaticus mikado) is Taiwan's endemic pheasant with males displaying gorgeous blue-black plumage and white tail feathers. **Swinhoe's Pheasant** inhabits middle to low elevations, with males having blue bellies and red wattles. **Taiwan Blue Magpie** features sapphire blue plumage and long tail, one of Taiwan's most beautiful birds.
+**Mikado Pheasant** (_Syrmaticus mikado_) is Taiwan's endemic pheasant species, with males displaying gorgeous blue-black plumage and white tail feathers. **Swinhoe's Pheasant** —distributed in low-to-mid elevations, males feature blue bellies and red wattles. **Taiwan Blue Magpie** —possessing sapphire blue plumage and long tails, among Taiwan's most beautiful birds.
 
-**Taiwan Yuhina**, **Taiwan Hwamei** and other babbler species showcase the diversity of Taiwan's montane avifauna. **Mikado Pheasant** was once mistaken as a subspecies but later confirmed as an independent species.
+**Taiwan Scimitar-babbler** and **Taiwan Hwamei** represent the diversity of Taiwan's mountain bird fauna. **Formosan Blue Pheasant** —once mistakenly considered a Mikado pheasant subspecies, later confirmed as a distinct species.
 
 ### Endemic Fish
 
-**Cherry Salmon** (Oncorhynchus masou formosanus) is a precious relic species from the Ice Age, surviving only in the upper Dajia River and called "national treasure fish." **Taiwan White Fish**, **Taiwan Stone Loach** and other freshwater fish demonstrate the uniqueness of island water systems.
+**Sakura Trout** (_Oncorhynchus masou formosanus_), also known as Formosan landlocked salmon, is a precious Ice Age relict species surviving only in the upper Dajia River system, earning the nickname "national treasure fish." **Formosan White Fish** and **Taiwan Shovel-jaw Carp** showcase the uniqueness of island freshwater systems.
 
-**Marine Endemics** include many coral reef fish and deep-sea species, reflecting the biogeographic specificity of Taiwan's waters.
+**Marine Endemic Species** include various coral reef fish and deep-sea species, reflecting the biogeographical uniqueness of Taiwan's waters.
 
 ### Endemic Plants
 
-**Taiwan Fir** (Taiwania cryptomerioides) is a world-class precious conifer reaching up to 90 meters tall. **Red Cypress** and **Taiwan Cypress** form precious cypress forest ecosystems. **Taiwan Incense Cedar**, **Taiwan Fir** and others showcase Taiwan's plant uniqueness.
+**Taiwan Cedar** (_Taiwania cryptomerioides_) is a globally precious conifer reaching heights of 90 meters. **Taiwan Red Cypress** and **Taiwan Yellow Cypress** form precious cypress forest ecosystems. **Taiwan Incense Cedar** and **Taiwan Zelkova** demonstrate Taiwan's botanical uniqueness.
 
-**Alpine Plants** like Yushan barberry, Yushan juniper adapt to harsh high-altitude environments. **Orchid Endemics**: Taiwan orchids have extremely high endemism rates, with many species having horticultural value.
+**Alpine Plants** like Yushan barberry and Yushan juniper adapt to harsh high-altitude environments. **Endemic Orchids** —Taiwan's orchid species show extremely high endemism rates, with many species having horticultural value.
 
 ### Endemic Insects
 
-Taiwan is a paradise for endemic insects. **Broad-tailed Swallowtail** is one of the world's largest swallowtails, distributed only in Taiwan's central mountains. **Taiwan Long-armed Scarab**, **Rainbow Stag Beetle** and other beetles show unique evolutionary adaptations.
+Taiwan is paradise for endemic insects. **Broad-tailed Swallowtail** is one of the world's largest swallowtail butterflies, distributed only in Taiwan's central mountains. **Taiwan Long-armed Scarab** and **Rainbow Stag Beetle** showcase unique evolutionary adaptations.
 
-**Butterfly Diversity**: Taiwan records about 400 butterfly species, with over 50 endemic species. **Endemic Moths**: Numbers are even larger, with many species still undescribed scientifically.
+**Butterfly Diversity** —Taiwan records approximately 400 butterfly species, with over 50 endemic species. **Endemic Moths** exist in even greater numbers, with many species yet to be scientifically described.
 
 ### Conservation Status and Challenges
 
-**Habitat Destruction**: Urban development, agricultural expansion, and road construction threaten endemic species habitats. **Climate Change**: Rising temperatures force montane species to migrate to higher elevations, eventually running out of available habitat.
+**Habitat Destruction** —urban development, agricultural expansion, and road construction threaten endemic species habitat. **Climate Change** —rising temperatures force alpine species to migrate to higher elevations, potentially leaving them with nowhere to go.
 
-**Invasive Species**: Aliens like Mikania micrantha, apple snails compete with native species for resources. **Over-development**: Excessive tourism activities may disturb wildlife behavior.
+**Invasive Species** —species like Mikania vine and golden apple snails compete with native species for resources. **Over-development** —excessive tourism activities may disrupt wildlife behavior.
 
 ### Conservation Efforts
 
-**National Park System**: Yushan, Taroko, Shei-Pa (雪霸) and other national parks protect important endemic species habitats. **Protected Area Network**: Nature reserves and wildlife refuges provide legal protection.
+**National Park System** —Yushan, Taroko, and Shei-Pa National Parks protect important endemic species habitat. **Protected Area Networks** —nature reserves and wildlife refuges provide legal protection.
 
-**Recovery Programs**: Active conservation actions including cherry salmon recovery and Formosan black bear population monitoring. **Citizen Science**: Platforms like eBird and iNaturalist promote public participation in biological surveys.
+**Recovery Programs** —active conservation efforts include Sakura trout restoration and Taiwanese black bear population monitoring. **Citizen Science** —platforms like eBird and iNaturalist promote public participation in biological surveys.
 
-**International Cooperation**: Collaboration with international conservation organizations to enhance conservation techniques and knowledge. **Environmental Education**: Through ecotourism and education promotion, raising public conservation awareness.
+**International Cooperation** —collaboration with international conservation organizations enhances conservation techniques and knowledge. **Environmental Education** —ecotourism and educational outreach raise public conservation awareness.
 
 ## Global Significance
 
@@ -88,19 +91,12 @@ Taiwan's endemic species conservation experience holds important value for globa
 
 ## Further Reading
 
-- [Endemic species of Taiwan - Wikipedia](https://en.wikipedia.org/wiki/Endemic_species_of_Taiwan)
-- [Taiwan Forestry Bureau Nature Conservation](https://www.forest.gov.tw/)
-- [Taiwan Biodiversity Information Facility](https://www.tbn.org.tw/)
-- [Endemic Species Research Institute](https://www.tesri.gov.tw/)
-- [Taiwan Encyclopedia of Life](https://taieol.tw/)
+- [Endemic Species of Taiwan - Wikipedia](https://en.wikipedia.org/wiki/Endemic_fauna_of_Taiwan)
+- [Forestry Bureau Nature Conservation Network](https://www.forest.gov.tw/)
 
 ## Related Topics
 
-- [[Topography and Climate]]
-- [[Prehistoric Era and Indigenous Peoples]]
-- [[Convenience Store Culture]]
-- [[Ethnic Groups (Hoklo, Hakka, Indigenous, Mainlander, New Immigrants)]]
-
----
-
-_Taiwan's endemic species represent millions of years of evolutionary history compressed into a small island, making their conservation crucial for maintaining global biodiversity._
+- [[Geography/Topography and Climate]]
+- [[History/Prehistoric Era and Indigenous Peoples]]
+- [[Lifestyle/Convenience Store Culture]]
+- [[Culture/Ethnic Groups (Hoklo, Hakka, Indigenous, Mainland Chinese, New Immigrants)]]

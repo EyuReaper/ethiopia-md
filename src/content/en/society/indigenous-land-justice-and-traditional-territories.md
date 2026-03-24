@@ -4,7 +4,7 @@ description: "Exploring the historical context, legal developments, territorial 
 date: 2026-03-20
 tags: [indigenous peoples, land justice, traditional territories, transitional justice, IHTJC, land rights]
 author: "Taiwan.md Contributors"
-readingTime: "12 minutes"
+readingTime: 12
 featured: false
 category: Society
 lastVerified: 2026-03-20

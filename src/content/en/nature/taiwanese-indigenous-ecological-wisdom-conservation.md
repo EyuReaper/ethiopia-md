@@ -4,7 +4,7 @@ description: "Exploring the traditional ecological knowledge accumulated by Taiw
 date: 2026-03-20
 tags: [indigenous peoples, ecological wisdom, environmental conservation, traditional knowledge, satoyama initiative, hunting culture, sustainable development]
 author: "Taiwan.md Contributors"
-readingTime: "9 minutes"
+readingTime: 9
 featured: false
 category: Nature
 lastVerified: 2026-03-20

@@ -4,7 +4,7 @@ description: "Taiwan, surrounded by ocean waters, possesses rich marine ecosyste
 date: 2026-03-20
 tags: [marine ecology, coral reef conservation, cetacean conservation, marine national parks, marine protected areas, biodiversity]
 author: "Taiwan.md Contributors"
-readingTime: "13 minutes"
+readingTime: 13
 featured: false
 category: Nature
 lastVerified: 2026-03-20

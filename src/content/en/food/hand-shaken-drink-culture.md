@@ -12,7 +12,7 @@ tags:
     'brand internationalization',
   ]
 author: 'Taiwan.md'
-readingTime: '8 minutes'
+readingTime: 8
 featured: true
 category: 'Food'
 lastVerified: 2026-03-19
