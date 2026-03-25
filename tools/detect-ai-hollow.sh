@@ -16,7 +16,8 @@
 #   5. 重複結構：連續 3+ 個相同格式的 bullet 區塊
 #   6. 段落文字少：非標題非bullet的散文行 < 10
 #   7. lastHumanReview: false
-#   8. 🆕 塑膠句式密度（EDITORIAL v3 五品種 + 變種）
+#   8. 🆕 塑膠句式密度（EDITORIAL v3 五品種 + 變種，≥1 即計分）
+#  8b. 🆕 破折號「——」濫用（AI 中文超級特徵，>4 即計分）
 #   9. 🆕 教科書開場（「台灣的X是...」「X是台灣...」）
 #  10. 🆕 總之/展望結尾
 #  11. 🆕 萬用 H2 模板（歷史/現況/未來展望）
@@ -153,17 +154,34 @@ scan_file() {
 
   # ── 8. 🆕 塑膠句式偵測（EDITORIAL v3 五品種 + 變種）──
   local plastic_count
-  plastic_count=$(grep -cE '不僅.{0,8}更是|不只.{0,8}也是|不是.{0,8}而是|展現了.{0,8}的精神|展現.{0,8}的決心|體現了.{0,8}的精神|從.{2,15}到.{2,15}，從.{2,15}到|扮演著.{0,10}角色|發揮著.{0,10}作用|見證了.{0,10}的歷程|彰顯了|承載著.{0,10}的|不僅僅是.{0,10}更是|既是.{0,8}也是.{0,8}更是' "$f" 2>/dev/null || echo "0")
+  plastic_count=$(grep -cE '不僅.{0,8}更是|不只.{0,8}也是|不是.{0,8}而是|展現了.{0,8}的精神|展現.{0,8}的決心|體現了.{0,8}的精神|從.{2,15}到.{2,15}，從.{2,15}到|扮演著.{0,10}角色|發揮著.{0,10}作用|見證了.{0,10}的歷程|彰顯了|承載著.{0,10}的|不僅僅是.{0,10}更是|既是.{0,8}也是.{0,8}更是|成為.{0,8}的重要.{0,6}|為.{0,10}注入.{0,8}活力|為.{0,10}奠定.{0,8}基礎|在.{0,10}上扮演.{0,8}角色|為.{0,10}提供了.{0,8}動力|開啟了.{0,8}的新篇章|翻開.{0,8}的新頁|書寫.{0,8}的篇章|譜寫.{0,8}的華章|綻放.{0,8}的光芒|閃耀.{0,8}的光輝' "$f" 2>/dev/null || echo "0")
   plastic_count=${plastic_count//[[:space:]]/}
   if [[ $plastic_count -gt 8 ]]; then
-    score=$((score + 3))
+    score=$((score + 4))
     reasons="${reasons}塑膠句${plastic_count}個 "
   elif [[ $plastic_count -gt 4 ]]; then
-    score=$((score + 2))
+    score=$((score + 3))
     reasons="${reasons}塑膠句${plastic_count}個 "
   elif [[ $plastic_count -gt 2 ]]; then
+    score=$((score + 2))
+    reasons="${reasons}塑膠句${plastic_count}個 "
+  elif [[ $plastic_count -ge 1 ]]; then
     score=$((score + 1))
     reasons="${reasons}塑膠句${plastic_count}個 "
+  fi
+
+  # ── 8b. 🆕 破折號「——」濫用偵測 ──
+  local dash_count
+  dash_count=$(grep -o '——' "$f" | wc -l | tr -d '[:space:]')
+  if [[ $dash_count -gt 15 ]]; then
+    score=$((score + 3))
+    reasons="${reasons}破折號${dash_count}個 "
+  elif [[ $dash_count -gt 8 ]]; then
+    score=$((score + 2))
+    reasons="${reasons}破折號${dash_count}個 "
+  elif [[ $dash_count -gt 4 ]]; then
+    score=$((score + 1))
+    reasons="${reasons}破折號${dash_count}個 "
   fi
 
   # ── 9. 🆕 教科書開場偵測 ──
