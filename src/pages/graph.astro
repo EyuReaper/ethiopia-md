@@ -118,7 +118,7 @@ if (allEnArticles.length === 0) {
 }
 
 // Center node
-nodes.push({ id: 'taiwan', label: '🇹🇼 Taiwan.md', group: 'center', size: 30 });
+nodes.push({ id: 'taiwan', label: 'Taiwan.md', group: 'center', size: 30 });
 
 // SSOT concept node
 nodes.push({
@@ -218,24 +218,8 @@ for (const cat of categories) {
     }
   }
 
-  // English article nodes
-  const enCatArticles = allEnArticles.filter((a) => {
-    const parts = a.id.split('/');
-    return parts[0] === cat && !parts[parts.length - 1].startsWith('_');
-  });
-  for (const article of enCatArticles) {
-    const slug = article.id.split('/').slice(1).join('/').replace(/\.md$/, '');
-    const nodeId = `en/${cat}/${slug}`;
-    nodes.push({
-      id: nodeId,
-      label: `🌐 ${article.data.title}`,
-      group: cat,
-      color: categoryColors[cat],
-      size: 8,
-      url: `/en/${cat}/${slug}`,
-    });
-    edges.push({ source: cat, target: nodeId });
-  }
+  // English article nodes — only show in /en/graph
+  // (removed from zh-TW graph to reduce clutter)
 }
 
 // Cross-category edges via shared tags
@@ -372,11 +356,40 @@ const graphData = JSON.stringify({ nodes, edges });
     const g = svg.append('g');
 
     // Zoom
-    svg.call(
-      d3.zoom().on('zoom', (event) => {
-        g.attr('transform', event.transform);
-      }),
-    );
+    const zoomBehavior = d3.zoom().on('zoom', (event) => {
+      g.attr('transform', event.transform);
+    });
+    svg.call(zoomBehavior);
+
+    // Fit all nodes after simulation settles
+    function zoomToFit() {
+      const bounds = g.node().getBBox();
+      const fullWidth = width;
+      const fullHeight = height;
+      const bWidth = bounds.width;
+      const bHeight = bounds.height;
+      const midX = bounds.x + bWidth / 2;
+      const midY = bounds.y + bHeight / 2;
+      const scale = 0.85 / Math.max(bWidth / fullWidth, bHeight / fullHeight);
+      const translate = [
+        fullWidth / 2 - scale * midX,
+        fullHeight / 2 - scale * midY,
+      ];
+      svg
+        .transition()
+        .duration(750)
+        .call(
+          zoomBehavior.transform,
+          d3.zoomIdentity.translate(translate[0], translate[1]).scale(scale),
+        );
+    }
+
+    // Fix taiwan node at center
+    const taiwanNode = data.nodes.find((n) => n.id === 'taiwan');
+    if (taiwanNode) {
+      taiwanNode.fx = width / 2;
+      taiwanNode.fy = height / 2;
+    }
 
     const simulation = d3
       .forceSimulation(data.nodes)
@@ -386,15 +399,23 @@ const graphData = JSON.stringify({ nodes, edges });
           .forceLink(data.edges)
           .id((d) => d.id)
           .distance((d) => {
-            if (d.source.id === 'taiwan') return 150;
-            return 80;
-          }),
+            if (d.source.id === 'taiwan') return 700;
+            // Same category = close, cross-category = far
+            if (
+              d.source.group &&
+              d.target.group &&
+              d.source.group === d.target.group
+            )
+              return 50;
+            return 250;
+          })
+          .strength(1),
       )
-      .force('charge', d3.forceManyBody().strength(-200))
+      .force('charge', d3.forceManyBody().strength(-180))
       .force('center', d3.forceCenter(width / 2, height / 2))
       .force(
         'collision',
-        d3.forceCollide().radius((d) => d.size + 5),
+        d3.forceCollide().radius((d) => d.size + 4),
       );
 
     // Links
@@ -536,6 +557,7 @@ const graphData = JSON.stringify({ nodes, edges });
         d3.select(event.target).attr('stroke', '#fff').attr('stroke-width', 2);
       });
 
+    let ticked = 0;
     simulation.on('tick', () => {
       link
         .attr('x1', (d) => d.source.x)
@@ -544,6 +566,8 @@ const graphData = JSON.stringify({ nodes, edges });
         .attr('y2', (d) => d.target.y);
       node.attr('cx', (d) => d.x).attr('cy', (d) => d.y);
       label.attr('x', (d) => d.x).attr('y', (d) => d.y);
+      ticked++;
+      if (ticked === 100) zoomToFit();
     });
   }
 </script>
