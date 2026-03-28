@@ -1,0 +1,28 @@
+name: "��� 失效連結回報 Broken Link"
+description: "���報網站上的 404 或失效連結"
+title: "404: "
+labels: ["bug", "broken-link"]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: "失效的網址 Broken URL"
+      description: "你看到 404 的完整網址"
+      placeholder: "https://taiwan.md/..."
+    validations:
+      required: true
+  - type: input
+    id: referrer
+    attributes:
+      label: "從哪裡連過來的 Referrer"
+      description: "你是從哪個頁面點進去的？（選填）"
+      placeholder: "https://taiwan.md/history"
+    validations:
+      required: false
+  - type: textarea
+    id: context
+    attributes:
+      label: "其他說明 Additional context"
+      description: "任何可以幫助我們找到問題的資訊"
+    validations:
+      required: false

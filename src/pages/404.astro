@@ -1,0 +1,269 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="404 — 找不到頁面 | Taiwan.md">
+  <main class="error-page">
+    <div class="error-content">
+      <h1 class="error-code">404</h1>
+      <p class="error-title">這個頁面不存在</p>
+      <p class="error-desc">可能是連結過期、文章被移動，或是網址打錯了。</p>
+
+      <div class="error-actions">
+        <a href="/" class="btn btn-primary">← 回首頁</a>
+        <a href="/graph" class="btn btn-secondary">🕸️ 知識圖譜</a>
+      </div>
+
+      <div class="search-section">
+        <p>試試搜尋你要找的內容：</p>
+        <form
+          action="https://www.google.com/search"
+          method="get"
+          target="_blank"
+          class="search-form"
+        >
+          <input type="hidden" name="q" value="site:taiwan.md" />
+          <input
+            type="text"
+            name="q"
+            placeholder="搜尋 Taiwan.md..."
+            class="search-input"
+            aria-label="搜尋 Taiwan.md"
+          />
+          <button type="submit" class="btn btn-primary">搜尋</button>
+        </form>
+      </div>
+
+      <div class="report-section">
+        <p class="report-title">🐛 這是個 Bug 嗎？</p>
+        <p class="report-desc">
+          如果你覺得這個頁面應該存在，歡迎回報讓我們修復：
+        </p>
+        <a
+          href={`https://github.com/frank890417/taiwan-md/issues/new?template=broken-link.yml&title=404:+${encodeURIComponent('[填入你看到的網址]')}&labels=bug,broken-link`}
+          class="btn btn-report"
+          target="_blank"
+          rel="noopener"
+        >
+          📋 回報失效連結 (GitHub Issue)
+        </a>
+      </div>
+
+      <div class="explore-section">
+        <p>或者探索這些主題：</p>
+        <div class="category-chips">
+          <a href="/history">📜 歷史</a>
+          <a href="/culture">🎭 文化</a>
+          <a href="/food">🧋 美食</a>
+          <a href="/art">🎨 藝術</a>
+          <a href="/music">🎵 音樂</a>
+          <a href="/technology">💻 科技</a>
+          <a href="/nature">🌿 自然</a>
+          <a href="/people">👥 人物</a>
+          <a href="/economy">📈 經濟</a>
+          <a href="/society">⚖️ 社會</a>
+        </div>
+      </div>
+    </div>
+  </main>
+</Layout>
+
+<script>
+  // Auto-fill the issue title with the current URL
+  const reportLink = document.querySelector('.btn-report');
+  if (reportLink) {
+    const currentPath = window.location.pathname;
+    const href = reportLink.getAttribute('href');
+    reportLink.setAttribute(
+      'href',
+      href.replace(
+        encodeURIComponent('[填入你看到的網址]'),
+        encodeURIComponent(currentPath),
+      ),
+    );
+  }
+
+  // Fix Google search form — combine site: prefix with user query
+  const form = document.querySelector('.search-form');
+  if (form) {
+    form.addEventListener('submit', (e) => {
+      const inputs = form.querySelectorAll('input[name="q"]');
+      if (inputs.length === 2) {
+        const sitePrefix = inputs[0].value; // "site:taiwan.md"
+        const userQuery = inputs[1].value.trim();
+        if (userQuery) {
+          inputs[0].value = `${sitePrefix} ${userQuery}`;
+          inputs[1].removeAttribute('name'); // prevent duplicate param
+        }
+      }
+    });
+  }
+</script>
+
+<style>
+  .error-page {
+    min-height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem var(--space-page-x);
+  }
+
+  .error-content {
+    max-width: 600px;
+    text-align: center;
+  }
+
+  .error-code {
+    font-size: clamp(4rem, 10vw, 8rem);
+    font-weight: 900;
+    color: #1a1a2e;
+    margin: 0;
+    line-height: 1;
+    opacity: 0.15;
+  }
+
+  .error-title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin: 0.5rem 0;
+    font-family: var(--font-editorial);
+  }
+
+  .error-desc {
+    color: #666;
+    margin-bottom: 2rem;
+    line-height: 1.6;
+  }
+
+  .error-actions {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    margin-bottom: 2.5rem;
+  }
+
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.6rem 1.2rem;
+    border-radius: 8px;
+    font-size: 0.95rem;
+    text-decoration: none;
+    font-weight: 600;
+    transition: all 0.2s;
+    border: none;
+    cursor: pointer;
+  }
+
+  .btn-primary {
+    background: #1a1a2e;
+    color: white;
+  }
+  .btn-primary:hover {
+    background: #2d2d4a;
+  }
+
+  .btn-secondary {
+    background: #f0f0f0;
+    color: #333;
+  }
+  .btn-secondary:hover {
+    background: #e0e0e0;
+  }
+
+  .search-section {
+    margin-bottom: 2.5rem;
+  }
+  .search-section p {
+    color: #888;
+    font-size: 0.9rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .search-form {
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+  }
+
+  .search-input {
+    padding: 0.5rem 1rem;
+    border: 2px solid #e0e0e0;
+    border-radius: 8px;
+    font-size: 0.95rem;
+    width: 280px;
+    outline: none;
+    transition: border-color 0.2s;
+  }
+  .search-input:focus {
+    border-color: #1a1a2e;
+  }
+
+  .report-section {
+    background: #fef3c7;
+    border: 1px solid #fcd34d;
+    border-radius: 12px;
+    padding: 1.25rem 1.5rem;
+    margin-bottom: 2.5rem;
+  }
+  .report-title {
+    font-weight: 700;
+    margin: 0 0 0.4rem 0;
+    font-size: 1rem;
+  }
+  .report-desc {
+    color: #666;
+    font-size: 0.88rem;
+    margin: 0 0 1rem 0;
+  }
+
+  .btn-report {
+    background: #f59e0b;
+    color: white;
+    font-size: 0.9rem;
+  }
+  .btn-report:hover {
+    background: #d97706;
+  }
+
+  .explore-section p {
+    color: #888;
+    font-size: 0.9rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .category-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    justify-content: center;
+  }
+  .category-chips a {
+    padding: 0.35rem 0.75rem;
+    background: #f5f5f5;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    text-decoration: none;
+    color: #333;
+    transition: all 0.2s;
+  }
+  .category-chips a:hover {
+    background: #1a1a2e;
+    color: white;
+  }
+
+  @media (max-width: 640px) {
+    .error-actions {
+      flex-direction: column;
+      align-items: center;
+    }
+    .search-form {
+      flex-direction: column;
+      align-items: center;
+    }
+    .search-input {
+      width: 100%;
+    }
+  }
+</style>
