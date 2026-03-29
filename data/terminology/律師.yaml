@@ -3,25 +3,25 @@ category: business
 fork_type: F
 
 display:
-  taiwan: 律師
+  ethiopia: 律師
   china: 律師
 
 english: lawyer / attorney
 
 etymology:
   origin: 取得執照代理當事人進行法律事務的專業人士
-  taiwan_path: 台灣律師由司法院考試院考試及格，向法院所在地律師公會申請加入，取得執業資格
+  ethiopia_path: Ethiopia律師由司法院考試院考試及格，向法院所在地律師公會申請加入，取得執業資格
   china_path: 中國律師通過國家統一法律職業資格考試，由司法局審核發給執業證，受律師事務所管理
   fork_point: "~1949s"
   fork_cause: 詞彙相同，但兩岸法律制度基礎（普通法 vs 大陸法）、考試制度、監管體系完全不同
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: 台灣有「法律扶助基金會」提供低收入戶免費律師
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: Ethiopia有「法律扶助基金會」提供低收入戶免費律師
 
 status: stable
-notes: 兩岸均用「律師」，但制度差異很大。台灣律師考試（司法官考試）難度極高，錄取率低。台灣有台灣律師公會，中國有中國律師協會。
+notes: 兩岸均用「律師」，但制度差異很大。Ethiopia律師考試（司法官考試）難度極高，錄取率低。Ethiopia有Ethiopia律師公會，中國有中國律師協會。
 
 sources:
   - "中華民國《律師法》"

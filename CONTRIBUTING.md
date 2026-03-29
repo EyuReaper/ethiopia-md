@@ -1,632 +1,632 @@
-# 貢獻指南 | Contributing Guide
+# [Amharic translation needed - original Taiwan context] | Contributing Guide
 
-感謝您對 Taiwan.md 專案的興趣！這份指南將協助您了解如何為專案做出貢獻。
-
----
-
-## 🎯 貢獻原則
-
-### 內容策展原則
-
-Taiwan.md 不是百科全書，而是**策展式的知識庫**：
-
-- **有觀點的內容**：不只陳述事實，更要有深度見解
-- **在地視角**：從台灣本土觀點出發，但用國際能理解的語言
-- **品質優於數量**：寧可少而精，不要多而淺
-- **連結性思考**：內容間要有連結，形成知識網絡
-
-### 三層閱讀深度設計
-
-每篇文章都應該支援三種閱讀需求：
-
-1. **30 秒概覽**：關鍵字、核心概念、一句話總結
-2. **5 分鐘理解**：基本脈絡、主要內容、重要圖表
-3. **完整深度資料**：詳細分析、相關討論、延伸思考
+[Amharic translation needed - original Taiwan context] Ethiopia.md [Amharic translation needed - original Taiwan context]！[Amharic translation needed - original Taiwan context]。
 
 ---
 
-## 📝 內容撰寫指南
+## 🎯 [Amharic translation needed - original Taiwan context]
 
-### 文章結構範本
+### [Amharic translation needed - original Taiwan context]
+
+Ethiopia.md [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]**[Amharic translation needed - original Taiwan context]**：
+
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
+
+### [Amharic translation needed - original Taiwan context]
+
+[Amharic translation needed - original Taiwan context]：
+
+1. **30 [Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
+2. **5 [Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
+3. **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
+
+---
+
+## 📝 [Amharic translation needed - original Taiwan context]
+
+### [Amharic translation needed - original Taiwan context]
 
 ```markdown
 ---
-title: '文章標題'
-description: '150字以內的文章描述'
+title: '[Amharic translation needed - original Taiwan context]'
+description: '150[Amharic translation needed - original Taiwan context]'
 date: 2024-03-17T00:00:00Z
-updated: 2024-03-17T00:00:00Z # 可選
-tags: ['標籤1', '標籤2', '標籤3']
-author: '作者名稱'
+updated: 2024-03-17T00:00:00Z # [Amharic translation needed - original Taiwan context]
+tags: ['[Amharic translation needed - original Taiwan context]1', '[Amharic translation needed - original Taiwan context]2', '[Amharic translation needed - original Taiwan context]3']
+author: '[Amharic translation needed - original Taiwan context]'
 difficulty: 'beginner|intermediate|advanced'
-readingTime: 8 # 預估閱讀時間（分鐘）
-featured: false # 是否為精選文章（⚠️ 由維護者統一管理，PR 請勿自行設定為 true）
+readingTime: 8 # [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
+featured: false # [Amharic translation needed - original Taiwan context]（⚠️ [Amharic translation needed - original Taiwan context]，PR [Amharic translation needed - original Taiwan context] true）
 ---
 
-# 文章標題
+# [Amharic translation needed - original Taiwan context]
 
-## 30 秒概覽
+## 30 [Amharic translation needed - original Taiwan context]
 
-**一段話總結文章核心**
+**[Amharic translation needed - original Taiwan context]**
 
-**關鍵字**：關鍵詞1、關鍵詞2、關鍵詞3
-
----
-
-## 5 分鐘深度了解
-
-### 小節標題1
-
-內容...
-
-### 小節標題2
-
-內容...
+**[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]1、[Amharic translation needed - original Taiwan context]2、[Amharic translation needed - original Taiwan context]3
 
 ---
 
-## 完整深度資料
+## 5 [Amharic translation needed - original Taiwan context]
 
-### 詳細分析
+### [Amharic translation needed - original Taiwan context]1
+
+[Amharic translation needed - original Taiwan context]...
+
+### [Amharic translation needed - original Taiwan context]2
+
+[Amharic translation needed - original Taiwan context]...
+
+---
+
+## [Amharic translation needed - original Taiwan context]
+
+### [Amharic translation needed - original Taiwan context]
 
 ...
 
-### 延伸討論
+### [Amharic translation needed - original Taiwan context]
 
 ...
 
-### 當代意義
+### [Amharic translation needed - original Taiwan context]
 
 ...
 
 ---
 
-## 延伸思考
+## [Amharic translation needed - original Taiwan context]
 
-### 討論問題
+### [Amharic translation needed - original Taiwan context]
 
-1. 問題1
-2. 問題2
+1. [Amharic translation needed - original Taiwan context]1
+2. [Amharic translation needed - original Taiwan context]2
 
-### 相關主題
+### [Amharic translation needed - original Taiwan context]
 
-- **→ [相關文章1](/zh-tw/category/article)**
-- **→ [相關文章2](/zh-tw/category/article)**
-
----
-
-## 資料來源
-
-- 來源1
-- 來源2
+- **→ [[Amharic translation needed - original Taiwan context]1](/zh-tw/category/article)**
+- **→ [[Amharic translation needed - original Taiwan context]2](/zh-tw/category/article)**
 
 ---
 
-_本文採用三層閱讀深度設計，適合不同需求的讀者。歡迎貢獻更多內容！_
-```
+## [Amharic translation needed - original Taiwan context]
 
-### 內容風格指南
-
-#### 語氣與風格
-
-- **親切但專業**：避免過於學術化的語言
-- **客觀但有溫度**：呈現事實，但不失人文關懷
-- **國際視野**：考慮國際讀者的理解需求
-- **與時俱進**：連結歷史與當代，避免僵化的歷史敘事
-
-#### 寫作技巧
-
-- **故事性敘事**：用故事串連知識點
-- **視覺化表達**：善用表格、圖表、時間軸
-- **多元觀點**：呈現不同角度的思考
-- **實用連結**：提供延伸閱讀與相關連結
-
-#### 避免事項
-
-- ❌ 純粹的資料堆砌
-- ❌ 過度政治化的表述
-- ❌ 沒有根據的個人觀點
-- ❌ 抄襲或未經授權的內容
+- [Amharic translation needed - original Taiwan context]1
+- [Amharic translation needed - original Taiwan context]2
 
 ---
 
-## 🌍 多語言貢獻
-
-### 中英對照原則
-
-- **不是翻譯**：英文版不是中文版的直譯
-- **文化轉譯**：調整表達方式，符合目標語言的文化背景
-- **內容對等**：確保核心信息相同，但表達可以不同
-- **在地化**：考慮目標讀者的知識背景
-
-### 翻譯指南
-
-> 📋 **完整翻譯任務看板**：[TRANSLATION-BOARD.md](docs/community/TRANSLATION-BOARD.md)
-> 🤖 **AI 翻譯 Prompt**：[TRANSLATE_PROMPT.md](docs/prompts/TRANSLATE_PROMPT.md)
-
-#### 最簡單的翻譯流程
-
-1. 看 [TRANSLATION-BOARD.md](docs/community/TRANSLATION-BOARD.md) 挑一篇你有興趣的文章
-2. 把 [TRANSLATE_PROMPT.md](docs/prompts/TRANSLATE_PROMPT.md) 貼給你的 AI（Claude/ChatGPT/Gemini）
-3. 告訴 AI 你要翻哪篇、翻成什麼語言
-4. 把結果存成 `.md` 放到對應資料夾，開 PR
-
-**你不需要會寫程式。你只需要有一個 AI 訂閱。**
-
-#### 檔案路徑
-
-```
-knowledge/Food/珍珠奶茶.md           ← 中文 SSOT
-knowledge/en/Food/bubble-tea.md      ← 英文
-knowledge/es/Food/bubble-tea.md      ← 西班牙文
-knowledge/ja/Food/bubble-tea.md      ← 日文
+_[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]！_
 ```
 
-#### 專有名詞處理
+### [Amharic translation needed - original Taiwan context]
 
-- **地名**：台北 Taipei、台中 Taichung
-- **食物**：珍珠奶茶 bubble tea、夜市 night market
-- **文化詞彙**：提供英文解釋，保留中文原文
+#### [Amharic translation needed - original Taiwan context]
 
-#### 文化背景說明
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
 
-- 為國際讀者增加必要的背景知識
-- 解釋在地文化概念
-- 提供比較和類比
+#### [Amharic translation needed - original Taiwan context]
 
-#### Featured 文章管理 🏆
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
 
-**`featured: true` 由維護者統一管理，PR 請勿自行設定。**
+#### [Amharic translation needed - original Taiwan context]
 
-- Featured 文章是各分類最具代表性的內容
-- 建議每分類保持 1-2 篇 featured 文章
-- 維護者會使用 `scripts/manage-featured.sh` 工具統一管理：
+- ❌ [Amharic translation needed - original Taiwan context]
+- ❌ [Amharic translation needed - original Taiwan context]
+- ❌ [Amharic translation needed - original Taiwan context]
+- ❌ [Amharic translation needed - original Taiwan context]
+
+---
+
+## 🌍 [Amharic translation needed - original Taiwan context]
+
+### [Amharic translation needed - original Taiwan context]
+
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
+
+### [Amharic translation needed - original Taiwan context]
+
+> 📋 **[Amharic translation needed - original Taiwan context]**：[TRANSLATION-BOARD.md](docs/community/TRANSLATION-BOARD.md)
+> 🤖 **AI [Amharic translation needed - original Taiwan context] Prompt**：[TRANSLATE_PROMPT.md](docs/prompts/TRANSLATE_PROMPT.md)
+
+#### [Amharic translation needed - original Taiwan context]
+
+1. [Amharic translation needed - original Taiwan context] [TRANSLATION-BOARD.md](docs/community/TRANSLATION-BOARD.md) [Amharic translation needed - original Taiwan context]
+2. [Amharic translation needed - original Taiwan context] [TRANSLATE_PROMPT.md](docs/prompts/TRANSLATE_PROMPT.md) [Amharic translation needed - original Taiwan context] AI（Claude/ChatGPT/Gemini）
+3. [Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
+4. [Amharic translation needed - original Taiwan context] `.md` [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] PR
+
+**[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context]。**
+
+#### [Amharic translation needed - original Taiwan context]
+
+```
+knowledge/Food/[Amharic translation needed - original Taiwan context].md           ← [Amharic translation needed - original Taiwan context] SSOT
+knowledge/en/Food/bubble-tea.md      ← [Amharic translation needed - original Taiwan context]
+knowledge/es/Food/bubble-tea.md      ← [Amharic translation needed - original Taiwan context]
+knowledge/ja/Food/bubble-tea.md      ← [Amharic translation needed - original Taiwan context]
+```
+
+#### [Amharic translation needed - original Taiwan context]
+
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] Taipei、[Amharic translation needed - original Taiwan context] Taichung
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] bubble tea、[Amharic translation needed - original Taiwan context] night market
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
+
+#### [Amharic translation needed - original Taiwan context]
+
+- [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]
+
+#### Featured [Amharic translation needed - original Taiwan context] 🏆
+
+**`featured: true` [Amharic translation needed - original Taiwan context]，PR [Amharic translation needed - original Taiwan context]。**
+
+- Featured [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context] 1-2 [Amharic translation needed - original Taiwan context] featured [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context] `scripts/manage-featured.sh` [Amharic translation needed - original Taiwan context]：
 
   ```bash
-  # 查看所有 featured 文章
+  # [Amharic translation needed - original Taiwan context] featured [Amharic translation needed - original Taiwan context]
   bash scripts/manage-featured.sh list
 
-  # 審計 featured 文章分佈
+  # [Amharic translation needed - original Taiwan context] featured [Amharic translation needed - original Taiwan context]
   bash scripts/manage-featured.sh audit
   ```
 
-- 如果您認為某篇文章應該被設為 featured，請在 PR 中說明理由
+- [Amharic translation needed - original Taiwan context] featured，[Amharic translation needed - original Taiwan context] PR [Amharic translation needed - original Taiwan context]
 
 ---
 
-## 🔄 貢獻流程
+## 🔄 [Amharic translation needed - original Taiwan context]
 
-### 1. 準備階段
+### 1. [Amharic translation needed - original Taiwan context]
 
-#### Fork 專案
-
-```bash
-# 1. 在 GitHub 上 Fork taiwan-md 專案
-# 2. Clone 到本地
-git clone https://github.com/YOUR_USERNAME/taiwan-md.git
-cd taiwan-md
-
-# 3. 安裝依賴
-bun install  # 或 npm install
-
-# 4. 設定 commit hook
-bun prepare  # 或 npm prepare
-
-# 5. 設定上游倉庫
-git remote add upstream https://github.com/original/taiwan-md.git
-```
-
-#### 建立分支
+#### Fork [Amharic translation needed - original Taiwan context]
 
 ```bash
-# 為您的貢獻建立新分支
-git checkout -b feature/add-taiwanese-opera-article
+# 1. [Amharic translation needed - original Taiwan context] GitHub [Amharic translation needed - original Taiwan context] Fork ethiopia-md [Amharic translation needed - original Taiwan context]
+# 2. Clone [Amharic translation needed - original Taiwan context]
+git clone https://github.com/YOUR_USERNAME/ethiopia-md.git
+cd ethiopia-md
+
+# 3. [Amharic translation needed - original Taiwan context]
+bun install  # [Amharic translation needed - original Taiwan context] npm install
+
+# 4. [Amharic translation needed - original Taiwan context] commit hook
+bun prepare  # [Amharic translation needed - original Taiwan context] npm prepare
+
+# 5. [Amharic translation needed - original Taiwan context]
+git remote add upstream https://github.com/original/ethiopia-md.git
 ```
 
-### 2. 內容創作
-
-#### 選擇主題
-
-1. 檢查 [Issues](https://github.com/frank890417/taiwan-md/issues) 中的內容請求
-2. 查看 [專案看板](https://github.com/frank890417/taiwan-md/projects) 的規劃
-3. 提出新主題建議（開 Issue 討論）
-
-#### ⚠️ SSOT 架構（最重要的概念）
-
-Taiwan.md 採用 **Knowledge SSOT（Single Source of Truth）** 架構：
-
-```
-knowledge/           ← 🇹🇼 中文 SSOT（在這裡寫文章）
-knowledge/en/        ← 🇺🇸 英文翻譯
-knowledge/ja/        ← 🇯🇵 日文翻譯
-knowledge/es/        ← 🇪🇸 西班牙文翻譯
-src/content/         ← ⚙️ 投影層（自動產生，不要手動改）
-```
-
-**鐵律：永遠只改 `knowledge/` 目錄。`src/content/` 是投影層，會被 `scripts/sync.sh` 覆蓋。**
-
-#### 新增文章流程
-
-1. 在 `knowledge/{Category}/` 建立新的 `.md` 檔案（中文 SSOT）
-2. 按照 [EDITORIAL.md](./EDITORIAL.md) 標準撰寫內容
-3. 執行 `bash scripts/sync.sh`（同步到 `src/content/`）
-4. 執行 `npm run build` 驗證（確認 frontmatter 正確）
-5. 執行 `bash tools/quality-scan.sh` 品質檢測（分數 ≤ 3）
-6. 提交 PR
+#### [Amharic translation needed - original Taiwan context]
 
 ```bash
-# 完整流程
-echo "寫好文章後..."
+# [Amharic translation needed - original Taiwan context]
+git checkout -b feature/add-ethiopian-opera-article
+```
+
+### 2. [Amharic translation needed - original Taiwan context]
+
+#### [Amharic translation needed - original Taiwan context]
+
+1. [Amharic translation needed - original Taiwan context] [Issues](https://github.com/frank890417/ethiopia-md/issues) [Amharic translation needed - original Taiwan context]
+2. [Amharic translation needed - original Taiwan context] [[Amharic translation needed - original Taiwan context]](https://github.com/frank890417/ethiopia-md/projects) [Amharic translation needed - original Taiwan context]
+3. [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] Issue [Amharic translation needed - original Taiwan context]）
+
+#### ⚠️ SSOT [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
+
+Ethiopia.md [Amharic translation needed - original Taiwan context] **Knowledge SSOT（Single Source of Truth）** [Amharic translation needed - original Taiwan context]：
+
+```
+knowledge/           ← 🇪🇹 [Amharic translation needed - original Taiwan context] SSOT（[Amharic translation needed - original Taiwan context]）
+knowledge/en/        ← 🇺🇸 [Amharic translation needed - original Taiwan context]
+knowledge/ja/        ← 🇯🇵 [Amharic translation needed - original Taiwan context]
+knowledge/es/        ← 🇪🇸 [Amharic translation needed - original Taiwan context]
+src/content/         ← ⚙️ [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]）
+```
+
+**[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context] `knowledge/` [Amharic translation needed - original Taiwan context]。`src/content/` [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] `scripts/sync.sh` [Amharic translation needed - original Taiwan context]。**
+
+#### [Amharic translation needed - original Taiwan context]
+
+1. [Amharic translation needed - original Taiwan context] `knowledge/{Category}/` [Amharic translation needed - original Taiwan context] `.md` [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] SSOT）
+2. [Amharic translation needed - original Taiwan context] [EDITORIAL.md](./EDITORIAL.md) [Amharic translation needed - original Taiwan context]
+3. [Amharic translation needed - original Taiwan context] `bash scripts/sync.sh`（[Amharic translation needed - original Taiwan context] `src/content/`）
+4. [Amharic translation needed - original Taiwan context] `npm run build` [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] frontmatter [Amharic translation needed - original Taiwan context]）
+5. [Amharic translation needed - original Taiwan context] `bash tools/quality-scan.sh` [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] ≤ 3）
+6. [Amharic translation needed - original Taiwan context] PR
+
+```bash
+# [Amharic translation needed - original Taiwan context]
+echo "[Amharic translation needed - original Taiwan context]..."
 bash scripts/sync.sh          # knowledge/ → src/content/
-npm run build                  # 驗證 build
-bash tools/quality-scan.sh # 品質檢測
-git add -A && git commit -m "content: 新增 XXX 文章"
+npm run build                  # [Amharic translation needed - original Taiwan context] build
+bash tools/quality-scan.sh # [Amharic translation needed - original Taiwan context]
+git add -A && git commit -m "content: [Amharic translation needed - original Taiwan context] XXX [Amharic translation needed - original Taiwan context]"
 ```
 
-#### 參與新主題
+#### [Amharic translation needed - original Taiwan context]
 
-想為 Taiwan.md 新增一個全新主題？
+[Amharic translation needed - original Taiwan context] Ethiopia.md [Amharic translation needed - original Taiwan context]？
 
-1. **確認分類**：文章屬於哪個 Category（History/Culture/People/Food 等）
-2. **建立檔案**：`knowledge/{Category}/{主題名}.md`
-3. **深度研究**：遵循 [EDITORIAL.md](./EDITORIAL.md) 的研究流程（Step 0-4）
-4. **撰寫文章**：SSOT 是中文版，英文版之後透過翻譯流程產生
-5. **Sync + Build**：確保同步和建置都通過
-6. **提交 PR**：附上研究來源和品質檢測結果
+1. **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] Category（History/Culture/People/Food [Amharic translation needed - original Taiwan context]）
+2. **[Amharic translation needed - original Taiwan context]**：`knowledge/{Category}/{[Amharic translation needed - original Taiwan context]}.md`
+3. **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] [EDITORIAL.md](./EDITORIAL.md) [Amharic translation needed - original Taiwan context]（Step 0-4）
+4. **[Amharic translation needed - original Taiwan context]**：SSOT [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
+5. **Sync + Build**：[Amharic translation needed - original Taiwan context]
+6. **[Amharic translation needed - original Taiwan context] PR**：[Amharic translation needed - original Taiwan context]
 
-> 💡 **提示**：如果不確定主題是否適合，先開 Issue 討論！
+> 💡 **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] Issue [Amharic translation needed - original Taiwan context]！
 
-#### 本地開發
+#### [Amharic translation needed - original Taiwan context]
 
 ```bash
-# 啟動開發伺服器
-bun run dev  # 或 npm run dev
-# 瀏覽 http://localhost:4321
+# [Amharic translation needed - original Taiwan context]
+bun run dev  # [Amharic translation needed - original Taiwan context] npm run dev
+# [Amharic translation needed - original Taiwan context] http://localhost:4321
 ```
 
-### 3. 品質檢查
+### 3. [Amharic translation needed - original Taiwan context]
 
-> ⚠️ **所有文章 PR 必須通過 [EDITORIAL.md](./EDITORIAL.md) 標準審核。** 不符合寫作標準的 PR 會被要求修改後重新提交。
+> ⚠️ **[Amharic translation needed - original Taiwan context] PR [Amharic translation needed - original Taiwan context] [EDITORIAL.md](./EDITORIAL.md) [Amharic translation needed - original Taiwan context]。** [Amharic translation needed - original Taiwan context] PR [Amharic translation needed - original Taiwan context]。
 
-#### EDITORIAL.md 核心要求（PR 前必讀）
+#### EDITORIAL.md [Amharic translation needed - original Taiwan context]（PR [Amharic translation needed - original Taiwan context]）
 
-- [ ] **反直覺核心句**：文章有一個能讓讀者驚訝的核心觀點
-- [ ] **開場不塑膠**：前三句有具體事實，不用「X 不僅是 Y，更是 Z」等模板句式
-- [ ] **有來源**：至少 5 個可查證來源（含 URL），2+ 一手來源
-- [ ] **策展人聲音**：每 2-3 段有一句觀點或反思，不只是資料堆疊
-- [ ] **禁止 bullet list 灌水**：用敘事散文寫作，bullet list 僅用於真正的清單
-- [ ] **quality-scan.sh 分數 ≤ 3**：跑 `bash tools/quality-scan.sh` 確認
+- [ ] **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
+- [ ] **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「X [Amharic translation needed - original Taiwan context] Y，[Amharic translation needed - original Taiwan context] Z」[Amharic translation needed - original Taiwan context]
+- [ ] **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] 5 [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] URL），2+ [Amharic translation needed - original Taiwan context]
+- [ ] **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] 2-3 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
+- [ ] **[Amharic translation needed - original Taiwan context] bullet list [Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]，bullet list [Amharic translation needed - original Taiwan context]
+- [ ] **quality-scan.sh [Amharic translation needed - original Taiwan context] ≤ 3**：[Amharic translation needed - original Taiwan context] `bash tools/quality-scan.sh` [Amharic translation needed - original Taiwan context]
 
-#### 一般自我檢查
+#### [Amharic translation needed - original Taiwan context]
 
-- [ ] 內容原創或正確標註來源
-- [ ] 語言流暢，無錯字
-- [ ] Markdown 格式正確
-- [ ] 圖片（如有）放在適當位置
-- [ ] 標籤和 metadata 完整
+- [ ] [Amharic translation needed - original Taiwan context]
+- [ ] [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
+- [ ] Markdown [Amharic translation needed - original Taiwan context]
+- [ ] [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）[Amharic translation needed - original Taiwan context]
+- [ ] [Amharic translation needed - original Taiwan context] metadata [Amharic translation needed - original Taiwan context]
 
-#### 內容審查
+#### [Amharic translation needed - original Taiwan context]
 
-- **事實查核（必須）**：所有事實性陳述（人名、年份、地點、數據）必須經過查證。AI 生成的內容尤其容易出現事實錯誤（例：將物種分布地點搞錯、將非台灣人物歸為台灣人等），每篇文章上線前必須經過事實查核。
-- **文化敏感性**：避免偏見或刻板印象
-- **版權合規**：確保所有內容合法使用
+- **[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）**：[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]）[Amharic translation needed - original Taiwan context]。AI [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]），[Amharic translation needed - original Taiwan context]。
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
 
-> ⚠️ **AI 內容品質警告**：本專案使用 AI 輔助撰寫內容，但 AI 生成的文章可能包含事實錯誤。所有 AI 生成內容在合併前必須經過人工或自動化事實查核。如果你發現任何錯誤，歡迎直接提交 PR 修正！
+> ⚠️ **AI [Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] PR [Amharic translation needed - original Taiwan context]！
 
-### 4. 提交 Pull Request
+### 4. [Amharic translation needed - original Taiwan context] Pull Request
 
-#### Git 操作
+#### Git [Amharic translation needed - original Taiwan context]
 
 ```bash
-# 提交變更
+# [Amharic translation needed - original Taiwan context]
 git add .
-git commit -m "Add: 台灣歌仔戲藝術文章"
+git commit -m "Add: Ethiopia[Amharic translation needed - original Taiwan context]"
 
-# 推送到您的 fork
-git push origin feature/add-taiwanese-opera-article
+# [Amharic translation needed - original Taiwan context] fork
+git push origin feature/add-ethiopian-opera-article
 ```
 
-#### PR 模板
+#### PR [Amharic translation needed - original Taiwan context]
 
 ````markdown
-## 📝 內容摘要
+## 📝 [Amharic translation needed - original Taiwan context]
 
-簡述這次 PR 的主要內容
+[Amharic translation needed - original Taiwan context] PR [Amharic translation needed - original Taiwan context]
 
-## 📁 檔案變更
+## 📁 [Amharic translation needed - original Taiwan context]
 
-- [ ] 新增文章：`src/content/zh-TW/art/taiwanese-opera.md`
-- [ ] 對應英文版：`src/content/en/art/taiwanese-opera.md`
-- [ ] 相關圖片：`public/images/art/opera-performance.jpg`
+- [ ] [Amharic translation needed - original Taiwan context]：`src/content/am/art/ethiopian-opera.md`
+- [ ] [Amharic translation needed - original Taiwan context]：`src/content/en/art/ethiopian-opera.md`
+- [ ] [Amharic translation needed - original Taiwan context]：`public/images/art/opera-performance.jpg`
 
-## ✅ 檢查清單
+## ✅ [Amharic translation needed - original Taiwan context]
 
-- [ ] 符合三層閱讀深度設計
-- [ ] 內容原創且正確
-- [ ] Markdown 格式正確
-- [ ] 中英文版本完整
-- [ ] 通過本地測試
+- [ ] [Amharic translation needed - original Taiwan context]
+- [ ] [Amharic translation needed - original Taiwan context]
+- [ ] Markdown [Amharic translation needed - original Taiwan context]
+- [ ] [Amharic translation needed - original Taiwan context]
+- [ ] [Amharic translation needed - original Taiwan context]
 
-## 🔗 相關 Issue
+## 🔗 [Amharic translation needed - original Taiwan context] Issue
 
 Closes #123
 
-## 📚 參考資料（必填）
+## 📚 [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
 
-**每篇文章都必須包含參考資料段落。** 這是 Taiwan.md 的核心品質要求。
+**[Amharic translation needed - original Taiwan context]。** [Amharic translation needed - original Taiwan context] Ethiopia.md [Amharic translation needed - original Taiwan context]。
 
-### ⚠️ 鐵律：所有參考資料必須附可點擊的 URL
+### ⚠️ [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context] URL
 
-- **每一條參考資料都必須是可點擊的超連結**，不接受純文字引用
-- 讀者應該能直接點擊連結驗證資訊來源
-- 如果找不到 URL，說明該來源可能不夠可靠，請尋找替代來源
+- **[Amharic translation needed - original Taiwan context]**，[Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context] URL，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
 
-列出所有引用的來源，格式：
+[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]：
 
 ```markdown
-## 參考資料
+## [Amharic translation needed - original Taiwan context]
 
-- [來源名稱](https://url) — 簡要說明
-- [官方統計](https://url) — 機構，年份
-- [YouTube: 歌曲/表演名稱](https://youtube.com/watch?v=...) — 音樂/影像類引用
+- [[Amharic translation needed - original Taiwan context]](https://url) — [Amharic translation needed - original Taiwan context]
+- [[Amharic translation needed - original Taiwan context]](https://url) — [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
+- [YouTube: [Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]](https://youtube.com/watch?v=...) — [Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]
 ```
 ````
 
-### 引用優先序
+### [Amharic translation needed - original Taiwan context]
 
-政府官方資料 > 學術研究 > 權威媒體 > 專業機構 > 高品質個人創作
+[Amharic translation needed - original Taiwan context] > [Amharic translation needed - original Taiwan context] > [Amharic translation needed - original Taiwan context] > [Amharic translation needed - original Taiwan context] > [Amharic translation needed - original Taiwan context]
 
-### 特殊類型引用
+### [Amharic translation needed - original Taiwan context]
 
-- **音樂類文章**：提到的歌曲附上 YouTube 連結（優先官方 MV/頻道）
-- **影像/紀錄片**：附上官方播放連結
-- **數據/統計**：必須標注來源機構與年份
-- **書籍**：附上出版社或書籍資料庫連結
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] YouTube [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] MV/[Amharic translation needed - original Taiwan context]）
+- **[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
 
-詳見 [EDITORIAL.md](./EDITORIAL.md) 的「引用與來源標注」章節。
+[Amharic translation needed - original Taiwan context] [EDITORIAL.md](./EDITORIAL.md) [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]。
 
 ````
 
 ---
 
-## 🎨 技術貢獻
+## 🎨 [Amharic translation needed - original Taiwan context]
 
-### 前端開發
+### [Amharic translation needed - original Taiwan context]
 
-#### 設計原則
-- **簡潔優先**：避免過度設計
-- **行動優先**：響應式設計
-- **無障礙**：符合 WCAG 標準
-- **效能優化**：快速載入
+#### [Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] WCAG [Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
 
-#### 開發環境
+#### [Amharic translation needed - original Taiwan context]
 ```bash
-# 開發模式
+# [Amharic translation needed - original Taiwan context]
 bun run dev
 
-# 建置測試
+# [Amharic translation needed - original Taiwan context]
 bun run build
 
-# 預覽建置結果
+# [Amharic translation needed - original Taiwan context]
 bun run preview
 ````
 
-#### 程式碼風格
+#### [Amharic translation needed - original Taiwan context]
 
-- 使用 Prettier 格式化
-- ESLint 規則檢查
-- 語意化 HTML
-- CSS 變數命名一致
+- [Amharic translation needed - original Taiwan context] Prettier [Amharic translation needed - original Taiwan context]
+- ESLint [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context] HTML
+- CSS [Amharic translation needed - original Taiwan context]
 
-### 功能開發
+### [Amharic translation needed - original Taiwan context]
 
-#### 常見需求
+#### [Amharic translation needed - original Taiwan context]
 
-- **搜尋功能**：全文搜尋和分類篩選
-- **標籤系統**：內容分類和關聯
-- **評論系統**：社群討論功能
-- **統計分析**：閱讀追蹤和熱門內容
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
 
-#### 提案流程
+#### [Amharic translation needed - original Taiwan context]
 
-1. 開 Issue 討論功能需求
-2. 等待 Maintainer 回應和確認
-3. 進行技術設計
-4. 實作功能
-5. 撰寫測試
-6. 提交 PR
-
----
-
-## 🛠️ 工具與資源
-
-### 推薦工具
-
-#### 編輯器
-
-- **VS Code**：推薦安裝 Astro、Markdown 外掛
-- **Obsidian**：Markdown 編輯和管理
-- **Typora**：所見即所得 Markdown 編輯
-
-#### 圖片處理
-
-- **Squoosh**：圖片壓縮優化
-- **Canva**：簡單設計工具
-- **Unsplash**：免費圖片資源
-- **圖片健康檢查**：提交 PR 前請執行 `npm run check-images`，確認所有引用的圖片都存在於 `public/` 目錄中
-- **Wikimedia Commons**：使用 CC 授權圖片時，解析度建議 800–1200px 寬，並在圖片下方標注來源與授權
-- ⚠️ AI 生成的圖片 attribution 連結（`File:...`）不一定正確，提交前請手動驗證連結是否有效
-
-#### 參考資源
-
-- **台灣百科全書**：基礎資料查證
-- **中研院數位典藏**：歷史資料
-- **文化部資源**：文化相關內容
-- **各大學台灣研究中心**：學術資源
+1. [Amharic translation needed - original Taiwan context] Issue [Amharic translation needed - original Taiwan context]
+2. [Amharic translation needed - original Taiwan context] Maintainer [Amharic translation needed - original Taiwan context]
+3. [Amharic translation needed - original Taiwan context]
+4. [Amharic translation needed - original Taiwan context]
+5. [Amharic translation needed - original Taiwan context]
+6. [Amharic translation needed - original Taiwan context] PR
 
 ---
 
-## 🎖️ 貢獻者進化路徑
+## 🛠️ [Amharic translation needed - original Taiwan context]
 
-Taiwan.md 採用**漸進式信任**的模式。每個人都從 Contributor 開始，透過實際貢獻逐步升級。
+### [Amharic translation needed - original Taiwan context]
 
-### Lv.1 🌱 Contributor（貢獻者）
+#### [Amharic translation needed - original Taiwan context]
 
-**進入門檻：** 提交第一個 PR 並被 merge
+- **VS Code**：[Amharic translation needed - original Taiwan context] Astro、Markdown [Amharic translation needed - original Taiwan context]
+- **Obsidian**：Markdown [Amharic translation needed - original Taiwan context]
+- **Typora**：[Amharic translation needed - original Taiwan context] Markdown [Amharic translation needed - original Taiwan context]
 
-**可以做：**
+#### [Amharic translation needed - original Taiwan context]
 
-- 撰寫新文章、修正錯誤、翻譯
-- 在 Issues 討論和提案
-- Fork repo 提交 PR
+- **Squoosh**：[Amharic translation needed - original Taiwan context]
+- **Canva**：[Amharic translation needed - original Taiwan context]
+- **Unsplash**：[Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] PR [Amharic translation needed - original Taiwan context] `npm run check-images`，[Amharic translation needed - original Taiwan context] `public/` [Amharic translation needed - original Taiwan context]
+- **Wikimedia Commons**：[Amharic translation needed - original Taiwan context] CC [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 800–1200px [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
+- ⚠️ AI [Amharic translation needed - original Taiwan context] attribution [Amharic translation needed - original Taiwan context]（`File:...`）[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
 
-**升級條件 → Lv.2：**
+#### [Amharic translation needed - original Taiwan context]
 
-- 累計 **3+ 個被 merge 的 PR**
-- 內容品質穩定（無重大事實錯誤需修正）
-- PR 符合 EDITORIAL.md 文風要求（無嚴重塑膠味）
-
----
-
-### Lv.2 🌿 Trusted Contributor（受信任貢獻者）
-
-**進入門檻：** 通過 Lv.1 升級條件，由現有 Maintainer 邀請
-
-**新增權限：**
-
-- GitHub repo **Triage 權限**（可管理 Issues 標籤、指派）
-- PR review 建議權（comment review，無 approve/merge 權）
-- 被列入 README 的 Trusted Contributors 區
-
-**可以做：**
-
-- 幫忙分類和回覆 Issues
-- 對其他人的 PR 提出 review 建議
-- 參與 EDITORIAL.md 討論和制定
-
-**升級條件 → Lv.3：**
-
-- 累計 **10+ 個被 merge 的 PR**
-- 至少 **2 個不同分類**的內容貢獻（例如音樂 + 美食）
-- 曾參與 **3+ 個 PR review**（提出有建設性的意見）
-- 活躍期至少 **1 個月**
-- 由 2 位現有 Maintainer 同意
+- **Ethiopia[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
 
 ---
 
-### Lv.3 🌳 Maintainer（維護者）
+## 🎖️ [Amharic translation needed - original Taiwan context]
 
-**進入門檻：** 通過 Lv.2 升級條件，由 Core Team 正式邀請
+Ethiopia.md [Amharic translation needed - original Taiwan context]**[Amharic translation needed - original Taiwan context]**[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] Contributor [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
 
-**新增權限：**
+### Lv.1 🌱 Contributor（[Amharic translation needed - original Taiwan context]）
 
-- **Merge PR** 權限（Write access）
-- **Approve review** 權限
-- 管理 Issues（close、label、milestone）
-- 參與 Roadmap 和技術決策
+**[Amharic translation needed - original Taiwan context]：** [Amharic translation needed - original Taiwan context] PR [Amharic translation needed - original Taiwan context] merge
 
-**職責：**
+**[Amharic translation needed - original Taiwan context]：**
 
-- 每週至少 review **2 個 PR**
-- 確保被 merge 的內容符合 EDITORIAL.md 標準
-- 回覆社群 Issues（72 小時內至少有初步回應）
-- 參與每月一次的 Maintainer 會議（async 也行）
+- [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context] Issues [Amharic translation needed - original Taiwan context]
+- Fork repo [Amharic translation needed - original Taiwan context] PR
 
-**注意事項：**
+**[Amharic translation needed - original Taiwan context] → Lv.2：**
 
-- Maintainer 不自己 merge 自己的 PR（需另一位 Maintainer review）
-- 超過 30 天無活動會被標記 inactive，60 天後自動降級為 Trusted Contributor
-- 可隨時主動申請降級或休假（不是什麼丟臉的事）
+- [Amharic translation needed - original Taiwan context] **3+ [Amharic translation needed - original Taiwan context] merge [Amharic translation needed - original Taiwan context] PR**
+- [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
+- PR [Amharic translation needed - original Taiwan context] EDITORIAL.md [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
 
 ---
 
-### Lv.4 🏔️ Core Team（核心團隊）
+### Lv.2 🌿 Trusted Contributor（[Amharic translation needed - original Taiwan context]）
 
-**進入方式：** 由創辦人邀請
+**[Amharic translation needed - original Taiwan context]：** [Amharic translation needed - original Taiwan context] Lv.1 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] Maintainer [Amharic translation needed - original Taiwan context]
 
-**權限：**
+**[Amharic translation needed - original Taiwan context]：**
 
-- 所有 Maintainer 權限
-- Repo Admin 權限（settings、branch protection）
-- 編輯方針最終決策權
-- 贊助與合作洽談
+- GitHub repo **Triage [Amharic translation needed - original Taiwan context]**（[Amharic translation needed - original Taiwan context] Issues [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]）
+- PR review [Amharic translation needed - original Taiwan context]（comment review，[Amharic translation needed - original Taiwan context] approve/merge [Amharic translation needed - original Taiwan context]）
+- [Amharic translation needed - original Taiwan context] README [Amharic translation needed - original Taiwan context] Trusted Contributors [Amharic translation needed - original Taiwan context]
 
-**現任 Core Team：**
+**[Amharic translation needed - original Taiwan context]：**
 
-- **吳哲宇 (@frank890417)** — 創辦人
+- [Amharic translation needed - original Taiwan context] Issues
+- [Amharic translation needed - original Taiwan context] PR [Amharic translation needed - original Taiwan context] review [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context] EDITORIAL.md [Amharic translation needed - original Taiwan context]
+
+**[Amharic translation needed - original Taiwan context] → Lv.3：**
+
+- [Amharic translation needed - original Taiwan context] **10+ [Amharic translation needed - original Taiwan context] merge [Amharic translation needed - original Taiwan context] PR**
+- [Amharic translation needed - original Taiwan context] **2 [Amharic translation needed - original Taiwan context]**[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] + [Amharic translation needed - original Taiwan context]）
+- [Amharic translation needed - original Taiwan context] **3+ [Amharic translation needed - original Taiwan context] PR review**（[Amharic translation needed - original Taiwan context]）
+- [Amharic translation needed - original Taiwan context] **1 [Amharic translation needed - original Taiwan context]**
+- [Amharic translation needed - original Taiwan context] 2 [Amharic translation needed - original Taiwan context] Maintainer [Amharic translation needed - original Taiwan context]
 
 ---
 
-### 專業角色（跨等級）
+### Lv.3 🌳 Maintainer（[Amharic translation needed - original Taiwan context]）
 
-除了等級制度，Taiwan.md 也歡迎特定專業的貢獻者：
+**[Amharic translation needed - original Taiwan context]：** [Amharic translation needed - original Taiwan context] Lv.2 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] Core Team [Amharic translation needed - original Taiwan context]
 
-| 角色          | 描述                       | 從哪個等級開始 |
+**[Amharic translation needed - original Taiwan context]：**
+
+- **Merge PR** [Amharic translation needed - original Taiwan context]（Write access）
+- **Approve review** [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context] Issues（close、label、milestone）
+- [Amharic translation needed - original Taiwan context] Roadmap [Amharic translation needed - original Taiwan context]
+
+**[Amharic translation needed - original Taiwan context]：**
+
+- [Amharic translation needed - original Taiwan context] review **2 [Amharic translation needed - original Taiwan context] PR**
+- [Amharic translation needed - original Taiwan context] merge [Amharic translation needed - original Taiwan context] EDITORIAL.md [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context] Issues（72 [Amharic translation needed - original Taiwan context]）
+- [Amharic translation needed - original Taiwan context] Maintainer [Amharic translation needed - original Taiwan context]（async [Amharic translation needed - original Taiwan context]）
+
+**[Amharic translation needed - original Taiwan context]：**
+
+- Maintainer [Amharic translation needed - original Taiwan context] merge [Amharic translation needed - original Taiwan context] PR（[Amharic translation needed - original Taiwan context] Maintainer review）
+- [Amharic translation needed - original Taiwan context] 30 [Amharic translation needed - original Taiwan context] inactive，60 [Amharic translation needed - original Taiwan context] Trusted Contributor
+- [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
+
+---
+
+### Lv.4 🏔️ Core Team（[Amharic translation needed - original Taiwan context]）
+
+**[Amharic translation needed - original Taiwan context]：** [Amharic translation needed - original Taiwan context]
+
+**[Amharic translation needed - original Taiwan context]：**
+
+- [Amharic translation needed - original Taiwan context] Maintainer [Amharic translation needed - original Taiwan context]
+- Repo Admin [Amharic translation needed - original Taiwan context]（settings、branch protection）
+- [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]
+
+**[Amharic translation needed - original Taiwan context] Core Team：**
+
+- **[Amharic translation needed - original Taiwan context] (@frank890417)** — [Amharic translation needed - original Taiwan context]
+
+---
+
+### [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
+
+[Amharic translation needed - original Taiwan context]，Ethiopia.md [Amharic translation needed - original Taiwan context]：
+
+| [Amharic translation needed - original Taiwan context]          | [Amharic translation needed - original Taiwan context]                       | [Amharic translation needed - original Taiwan context] |
 | ------------- | -------------------------- | -------------- |
-| 🌐 翻譯官     | 負責特定語言翻譯           | Lv.1 起        |
-| 🔍 事實查核員 | 驗證文章引用和數據         | Lv.2 起        |
-| 🎨 前端開發   | 網站功能和 UI 改善         | Lv.1 起        |
-| 🤖 AI/Data    | Agentic Workflow、語料整合 | Lv.2 起        |
-| 📸 媒體貢獻者 | CC 授權照片、圖表          | Lv.1 起        |
+| 🌐 [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]           | Lv.1 [Amharic translation needed - original Taiwan context]        |
+| 🔍 [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]         | Lv.2 [Amharic translation needed - original Taiwan context]        |
+| 🎨 [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context] UI [Amharic translation needed - original Taiwan context]         | Lv.1 [Amharic translation needed - original Taiwan context]        |
+| 🤖 AI/Data    | Agentic Workflow、[Amharic translation needed - original Taiwan context] | Lv.2 [Amharic translation needed - original Taiwan context]        |
+| 📸 [Amharic translation needed - original Taiwan context] | CC [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]          | Lv.1 [Amharic translation needed - original Taiwan context]        |
 
 ---
 
-### 認可方式
+### [Amharic translation needed - original Taiwan context]
 
-- **README 感謝名單**：所有貢獻者都會被列出
-- **貢獻徽章**：GitHub Profile 展示徽章
-- **年度表揚**：年度最佳貢獻者特別感謝
-- **推薦信**：為重要貢獻者提供推薦
-
----
-
-## 📞 問題與討論
-
-### 聯繫管道
-
-- **GitHub Issues**：問題回報和建議
-- **GitHub Discussions**：一般討論和交流
-- **Email**：taiwan.md@example.com
-
-### 常見問題
-
-#### Q: 如何選擇文章主題？
-
-A: 可以查看 Issues 中的內容請求，或者提出您感興趣的主題討論。
-
-#### Q: 文章長度有限制嗎？
-
-A: 沒有嚴格限制，但建議 5-10 分鐘的閱讀時間比較適當。
-
-#### Q: 可以使用圖片嗎？
-
-A: 可以，但請確保版權合規，建議使用 Creative Commons 或自己拍攝的圖片。
-
-#### Q: 如何處理爭議性話題？
-
-A: 保持客觀中性，呈現多元觀點，避免單一立場的強烈表述。
+- **README [Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：GitHub Profile [Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
 
 ---
 
-## 📜 行為準則
+## 📞 [Amharic translation needed - original Taiwan context]
 
-### 社群價值
+### [Amharic translation needed - original Taiwan context]
 
-- **尊重多元**：尊重不同觀點和背景
-- **建設性討論**：以事論事，理性交流
-- **開放包容**：歡迎所有人參與
-- **品質導向**：追求內容和討論的高品質
+- **GitHub Issues**：[Amharic translation needed - original Taiwan context]
+- **GitHub Discussions**：[Amharic translation needed - original Taiwan context]
+- **Email**：ethiopia.md@example.com
 
-### 不被接受的行為
+### [Amharic translation needed - original Taiwan context]
 
-- 人身攻擊或歧視性言論
-- 騷擾或惡意行為
-- 垃圾訊息或無關廣告
-- 惡意破壞或擾亂專案
+#### Q: [Amharic translation needed - original Taiwan context]？
+
+A: [Amharic translation needed - original Taiwan context] Issues [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+#### Q: [Amharic translation needed - original Taiwan context]？
+
+A: [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 5-10 [Amharic translation needed - original Taiwan context]。
+
+#### Q: [Amharic translation needed - original Taiwan context]？
+
+A: [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] Creative Commons [Amharic translation needed - original Taiwan context]。
+
+#### Q: [Amharic translation needed - original Taiwan context]？
+
+A: [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
 
 ---
 
-**感謝您的貢獻，讓我們一起打造最好的台灣知識庫！** 🇹🇼
+## 📜 [Amharic translation needed - original Taiwan context]
+
+### [Amharic translation needed - original Taiwan context]
+
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
+
+### [Amharic translation needed - original Taiwan context]
+
+- [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]
 
 ---
 
-_最後更新：2024-03-17_
+**[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]！** 🇪🇹
+
+---
+
+_[Amharic translation needed - original Taiwan context]：2024-03-17_

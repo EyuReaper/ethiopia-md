@@ -1,11 +1,11 @@
 #!/bin/bash
 
-# Taiwan.md Featured 文章統一管控工具
-# 管理 knowledge/ 目錄下文章的 featured: true 設定
+# Ethiopia.md Featured [Amharic translation needed - original Taiwan context]
+# [Amharic translation needed - original Taiwan context] knowledge/ [Amharic translation needed - original Taiwan context] featured: true [Amharic translation needed - original Taiwan context]
 
 set -euo pipefail
 
-# 顏色定義
+# [Amharic translation needed - original Taiwan context]
 RED='\033[0;31m'
 GREEN='\033[0;32m'
 YELLOW='\033[1;33m'
@@ -14,40 +14,40 @@ NC='\033[0m' # No Color
 
 KNOWLEDGE_DIR="knowledge"
 
-# 使用說明
+# [Amharic translation needed - original Taiwan context]
 usage() {
-    echo -e "${BLUE}🏆 Taiwan.md Featured 文章管控工具${NC}"
+    echo -e "${BLUE}🏆 Ethiopia.md Featured [Amharic translation needed - original Taiwan context]${NC}"
     echo ""
-    echo "用法: $0 <command> [arguments]"
+    echo "[Amharic translation needed - original Taiwan context]: $0 <command> [arguments]"
     echo ""
-    echo "指令:"
-    echo "  list                    - 列出所有 featured 文章"
-    echo "  set <文章路徑>           - 設定文章為 featured"
-    echo "  unset <文章路徑>         - 取消文章的 featured 狀態"
-    echo "  audit                   - 檢查 featured 數量分佈"
+    echo "[Amharic translation needed - original Taiwan context]:"
+    echo "  list                    - [Amharic translation needed - original Taiwan context] featured [Amharic translation needed - original Taiwan context]"
+    echo "  set <[Amharic translation needed - original Taiwan context]>           - [Amharic translation needed - original Taiwan context] featured"
+    echo "  unset <[Amharic translation needed - original Taiwan context]>         - [Amharic translation needed - original Taiwan context] featured [Amharic translation needed - original Taiwan context]"
+    echo "  audit                   - [Amharic translation needed - original Taiwan context] featured [Amharic translation needed - original Taiwan context]"
     echo ""
-    echo "範例:"
+    echo "[Amharic translation needed - original Taiwan context]:"
     echo "  $0 list"
-    echo "  $0 set knowledge/Culture/台灣夜市文化.md"
-    echo "  $0 unset knowledge/Music/台灣搖滾樂發展史.md"
+    echo "  $0 set knowledge/Culture/Ethiopia[Amharic translation needed - original Taiwan context].md"
+    echo "  $0 unset knowledge/Music/Ethiopia[Amharic translation needed - original Taiwan context].md"
     echo "  $0 audit"
 }
 
-# 列出所有 featured 文章
+# [Amharic translation needed - original Taiwan context] featured [Amharic translation needed - original Taiwan context]
 list_featured() {
-    echo -e "${BLUE}📋 所有 Featured 文章列表${NC}"
+    echo -e "${BLUE}📋 [Amharic translation needed - original Taiwan context] Featured [Amharic translation needed - original Taiwan context]${NC}"
     echo "======================================"
     
     local count=0
     local current_category=""
     
-    # 按分類排序顯示
+    # [Amharic translation needed - original Taiwan context]
     grep -r "featured: true" "$KNOWLEDGE_DIR" | \
         sort | \
         while IFS=':' read -r file _; do
             ((count++))
             
-            # 提取分類名稱
+            # [Amharic translation needed - original Taiwan context]
             local category=$(dirname "$file" | sed "s|$KNOWLEDGE_DIR/||" | sed 's|^en/||' | cut -d'/' -f1)
             
             if [[ "$category" != "$current_category" ]]; then
@@ -55,42 +55,42 @@ list_featured() {
                 current_category="$category"
             fi
             
-            # 提取文章標題（從檔名）
+            # [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
             local title=$(basename "$file" .md)
             echo -e "  ✨ $title"
-            echo -e "     ${BLUE}檔案: $file${NC}"
+            echo -e "     ${BLUE}[Amharic translation needed - original Taiwan context]: $file${NC}"
     done
     
     local total=$(grep -r "featured: true" "$KNOWLEDGE_DIR" | wc -l)
     echo ""
-    echo -e "${GREEN}📊 總計: $total 篇 featured 文章${NC}"
+    echo -e "${GREEN}📊 [Amharic translation needed - original Taiwan context]: $total [Amharic translation needed - original Taiwan context] featured [Amharic translation needed - original Taiwan context]${NC}"
 }
 
-# 設定文章為 featured
+# [Amharic translation needed - original Taiwan context] featured
 set_featured() {
     local file_path="$1"
     
     if [[ ! -f "$file_path" ]]; then
-        echo -e "${RED}❌ 檔案不存在: $file_path${NC}"
+        echo -e "${RED}❌ [Amharic translation needed - original Taiwan context]: $file_path${NC}"
         exit 1
     fi
     
-    # 檢查是否已經是 featured
+    # [Amharic translation needed - original Taiwan context] featured
     if grep -q "featured: true" "$file_path"; then
-        echo -e "${YELLOW}⚠️  文章已經是 featured 狀態: $file_path${NC}"
+        echo -e "${YELLOW}⚠️  [Amharic translation needed - original Taiwan context] featured [Amharic translation needed - original Taiwan context]: $file_path${NC}"
         return
     fi
     
-    # 在 frontmatter 中加入 featured: true
+    # [Amharic translation needed - original Taiwan context] frontmatter [Amharic translation needed - original Taiwan context] featured: true
     if grep -q "^---$" "$file_path"; then
-        # 在第二個 --- 之前插入 featured: true
+        # [Amharic translation needed - original Taiwan context] --- [Amharic translation needed - original Taiwan context] featured: true
         sed -i '' '/^---$/,/^---$/{
             /^---$/!{
                 /featured:/d
             }
         }' "$file_path"
         
-        # 在第二個 --- 之前加入 featured: true
+        # [Amharic translation needed - original Taiwan context] --- [Amharic translation needed - original Taiwan context] featured: true
         awk '
         /^---$/ && NR==1 { print; next }
         /^---$/ && seen_first { print "featured: true"; print; next }
@@ -98,51 +98,51 @@ set_featured() {
         { print }
         ' "$file_path" > "${file_path}.tmp" && mv "${file_path}.tmp" "$file_path"
         
-        echo -e "${GREEN}✅ 已設定 featured: $file_path${NC}"
+        echo -e "${GREEN}✅ [Amharic translation needed - original Taiwan context] featured: $file_path${NC}"
     else
-        echo -e "${RED}❌ 檔案缺少 frontmatter: $file_path${NC}"
+        echo -e "${RED}❌ [Amharic translation needed - original Taiwan context] frontmatter: $file_path${NC}"
         exit 1
     fi
 }
 
-# 取消文章的 featured 狀態
+# [Amharic translation needed - original Taiwan context] featured [Amharic translation needed - original Taiwan context]
 unset_featured() {
     local file_path="$1"
     
     if [[ ! -f "$file_path" ]]; then
-        echo -e "${RED}❌ 檔案不存在: $file_path${NC}"
+        echo -e "${RED}❌ [Amharic translation needed - original Taiwan context]: $file_path${NC}"
         exit 1
     fi
     
-    # 檢查是否為 featured
+    # [Amharic translation needed - original Taiwan context] featured
     if ! grep -q "featured: true" "$file_path"; then
-        echo -e "${YELLOW}⚠️  文章本來就不是 featured 狀態: $file_path${NC}"
+        echo -e "${YELLOW}⚠️  [Amharic translation needed - original Taiwan context] featured [Amharic translation needed - original Taiwan context]: $file_path${NC}"
         return
     fi
     
-    # 移除 featured: true 行
+    # [Amharic translation needed - original Taiwan context] featured: true [Amharic translation needed - original Taiwan context]
     sed -i '' '/^featured: true$/d' "$file_path"
     
-    echo -e "${GREEN}✅ 已取消 featured: $file_path${NC}"
+    echo -e "${GREEN}✅ [Amharic translation needed - original Taiwan context] featured: $file_path${NC}"
 }
 
-# 審計 featured 文章分佈
+# [Amharic translation needed - original Taiwan context] featured [Amharic translation needed - original Taiwan context]
 audit_featured() {
-    echo -e "${BLUE}📊 Featured 文章分佈審計${NC}"
+    echo -e "${BLUE}📊 Featured [Amharic translation needed - original Taiwan context]${NC}"
     echo "======================================"
     
     local total_featured=0
     local total_articles=0
     
-    echo -e "${YELLOW}各分類 Featured 文章統計：${NC}"
+    echo -e "${YELLOW}[Amharic translation needed - original Taiwan context] Featured [Amharic translation needed - original Taiwan context]：${NC}"
     echo ""
     
-    # 統計各分類的 featured 文章數量
+    # [Amharic translation needed - original Taiwan context] featured [Amharic translation needed - original Taiwan context]
     for category_dir in "$KNOWLEDGE_DIR"/*/ ; do
         if [[ -d "$category_dir" ]]; then
             local category=$(basename "$category_dir")
             
-            # 跳過英文版本和特殊目錄
+            # [Amharic translation needed - original Taiwan context]
             if [[ "$category" == "en" || "$category" == "About" ]]; then
                 continue
             fi
@@ -158,7 +158,7 @@ audit_featured() {
             total_featured=$((total_featured + featured_count))
             total_articles=$((total_articles + total_count))
             
-            # 根據比例給出顏色提示
+            # [Amharic translation needed - original Taiwan context]
             local color=""
             if [[ $featured_count -eq 0 ]]; then
                 color="${RED}"
@@ -175,27 +175,27 @@ audit_featured() {
     done
     
     echo ""
-    echo -e "${BLUE}總計統計：${NC}"
+    echo -e "${BLUE}[Amharic translation needed - original Taiwan context]：${NC}"
     local overall_percentage=$((total_featured * 100 / total_articles))
-    echo -e "📊 Featured 文章: $total_featured/$total_articles ($overall_percentage%)"
+    echo -e "📊 Featured [Amharic translation needed - original Taiwan context]: $total_featured/$total_articles ($overall_percentage%)"
     echo ""
     
-    echo -e "${YELLOW}建議：${NC}"
-    echo "• 建議每個分類保持 1-2 篇 featured 文章"
-    echo "• featured 文章應該是該分類最具代表性的內容"
-    echo "• 總體 featured 比例建議控制在 5-10%"
+    echo -e "${YELLOW}[Amharic translation needed - original Taiwan context]：${NC}"
+    echo "• [Amharic translation needed - original Taiwan context] 1-2 [Amharic translation needed - original Taiwan context] featured [Amharic translation needed - original Taiwan context]"
+    echo "• featured [Amharic translation needed - original Taiwan context]"
+    echo "• [Amharic translation needed - original Taiwan context] featured [Amharic translation needed - original Taiwan context] 5-10%"
     echo ""
     
     if [[ $overall_percentage -gt 15 ]]; then
-        echo -e "${RED}⚠️  Featured 文章比例過高 ($overall_percentage%)，建議精簡${NC}"
+        echo -e "${RED}⚠️  Featured [Amharic translation needed - original Taiwan context] ($overall_percentage%)，[Amharic translation needed - original Taiwan context]${NC}"
     elif [[ $overall_percentage -lt 3 ]]; then
-        echo -e "${YELLOW}⚠️  Featured 文章比例較低 ($overall_percentage%)，可適當增加${NC}"
+        echo -e "${YELLOW}⚠️  Featured [Amharic translation needed - original Taiwan context] ($overall_percentage%)，[Amharic translation needed - original Taiwan context]${NC}"
     else
-        echo -e "${GREEN}✅ Featured 文章比例適中 ($overall_percentage%)${NC}"
+        echo -e "${GREEN}✅ Featured [Amharic translation needed - original Taiwan context] ($overall_percentage%)${NC}"
     fi
 }
 
-# 主程式
+# [Amharic translation needed - original Taiwan context]
 main() {
     if [[ $# -eq 0 ]]; then
         usage
@@ -208,16 +208,16 @@ main() {
             ;;
         "set")
             if [[ $# -ne 2 ]]; then
-                echo -e "${RED}❌ 錯誤：需要指定文章路徑${NC}"
-                echo "用法: $0 set <文章路徑>"
+                echo -e "${RED}❌ [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]${NC}"
+                echo "[Amharic translation needed - original Taiwan context]: $0 set <[Amharic translation needed - original Taiwan context]>"
                 exit 1
             fi
             set_featured "$2"
             ;;
         "unset")
             if [[ $# -ne 2 ]]; then
-                echo -e "${RED}❌ 錯誤：需要指定文章路徑${NC}"
-                echo "用法: $0 unset <文章路徑>"
+                echo -e "${RED}❌ [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]${NC}"
+                echo "[Amharic translation needed - original Taiwan context]: $0 unset <[Amharic translation needed - original Taiwan context]>"
                 exit 1
             fi
             unset_featured "$2"
@@ -226,12 +226,12 @@ main() {
             audit_featured
             ;;
         *)
-            echo -e "${RED}❌ 未知指令: $1${NC}"
+            echo -e "${RED}❌ [Amharic translation needed - original Taiwan context]: $1${NC}"
             usage
             exit 1
             ;;
     esac
 }
 
-# 執行主程式
+# [Amharic translation needed - original Taiwan context]
 main "$@"

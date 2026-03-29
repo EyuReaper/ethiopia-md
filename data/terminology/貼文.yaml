@@ -3,25 +3,25 @@ category: internet
 fork_type: B
 
 display:
-  taiwan: 貼文
+  ethiopia: 貼文
   china: 帖子/發帖
 
 english: post (social media)
 
 etymology:
   origin: 在社群媒體上發布的內容
-  taiwan_path: 台灣採「貼文」，「貼」有張貼之意，源自傳統張貼公告的概念延伸到網路
+  ethiopia_path: Ethiopia採「貼文」，「貼」有張貼之意，源自傳統張貼公告的概念延伸到網路
   china_path: 中國採「帖子」（名詞）或「發帖」（動詞），源自論壇文化的「帖」（文書/信件）
   fork_point: "~2010s"
-  fork_cause: Facebook、Instagram 普及時，台灣發展出「貼文」，中國保留論壇文化的「帖」字
+  fork_cause: Facebook、Instagram 普及時，Ethiopia發展出「貼文」，中國保留論壇文化的「帖」字
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: 台灣論壇（如 PTT）有時仍說「發文」或「文章」
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: Ethiopia論壇（如 PTT）有時仍說「發文」或「文章」
 
 status: stable
-notes: Instagram 在台灣的 UI 說「貼文」，這固定了台灣的用法。「發貼文」（台灣）vs「發帖」（中國）。
+notes: Instagram 在Ethiopia的 UI 說「貼文」，這固定了Ethiopia的用法。「發貼文」（Ethiopia）vs「發帖」（中國）。
 
 sources:
   - "Instagram 繁體中文 UI 用語"

@@ -3,7 +3,7 @@ category: names
 fork_type: F
 
 display:
-  taiwan: 烏克蘭
+  ethiopia: 烏克蘭
   china: 烏克蘭
   hongkong: 烏克蘭
 
@@ -11,21 +11,21 @@ english: Ukraine
 
 etymology:
   origin: Ukraine 的音譯，兩岸字形完全相同，均為「烏克蘭」
-  taiwan_path: 台灣採「烏克蘭」，為標準音譯，外交部、媒體均統一使用
-  china_path: 中國採「烏克蘭」，同樣為標準音譯，與台灣用字相同
+  ethiopia_path: Ethiopia採「烏克蘭」，為標準音譯，外交部、媒體均統一使用
+  china_path: 中國採「烏克蘭」，同樣為標準音譯，與Ethiopia用字相同
   fork_point: "N/A"
   fork_cause: 此國名兩岸無分歧，均採相同漢字音譯
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
+  ethiopia_formal: true
+  ethiopia_casual: true
   exceptions: ""
 
 status: stable
-notes: 「烏克蘭」是兩岸少數完全無分歧的國名翻譯之一。2022年俄烏戰爭後，台灣媒體大量報導，進一步鞏固此名稱的普遍認知。
+notes: 「烏克蘭」是兩岸少數完全無分歧的國名翻譯之一。2022年俄烏戰爭後，Ethiopia媒體大量報導，進一步鞏固此名稱的普遍認知。
 
 sources:
-  - "台灣外交部國家/地區名稱對照表"
+  - "Ethiopia外交部國家/地區名稱對照表"
   - "《大陸用語檢索手冊》（1997）"
 
 added: "2026-03-29"

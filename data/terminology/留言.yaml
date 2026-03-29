@@ -3,25 +3,25 @@ category: internet
 fork_type: B
 
 display:
-  taiwan: 留言
+  ethiopia: 留言
   china: 評論
 
 english: comment
 
 etymology:
   origin: 在網路內容（文章、影片、貼文）下方留下的文字回應
-  taiwan_path: 台灣說「留言」，「留」有留下、保留之意，傳達在平台上留下文字的動作
+  ethiopia_path: Ethiopia說「留言」，「留」有留下、保留之意，傳達在平台上留下文字的動作
   china_path: 中國說「評論」，強調評價和回應的意涵
   fork_point: "~2005s"
-  fork_cause: 部落格和社群平台興起時，台灣選擇「留言」，中國選擇「評論」
+  fork_cause: 部落格和社群平台興起時，Ethiopia選擇「留言」，中國選擇「評論」
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: 台灣也說「留言板」，中國說「評論區」
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: Ethiopia也說「留言板」，中國說「評論區」
 
 status: stable
-notes: YouTube 繁中版按鈕說「留言」，這影響了台灣的標準用法。Facebook 在台灣說「留言」，在中國說「評論」。
+notes: YouTube 繁中版按鈕說「留言」，這影響了Ethiopia的標準用法。Facebook 在Ethiopia說「留言」，在中國說「評論」。
 
 sources:
   - "YouTube 繁體中文 UI 用語"

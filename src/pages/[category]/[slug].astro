@@ -158,7 +158,7 @@ export async function getStaticPaths() {
             description: frontmatter.description || '',
             content,
             frontmatter,
-            lang: 'zh-TW',
+            lang: 'am',
             contributors: gitInfo.contributors,
             lastModified: gitInfo.lastModified,
           },
@@ -210,7 +210,7 @@ const lastModified = _renderGitInfo.lastModified || propsLastModified;
 const commitHash = _renderGitInfo.commitHash;
 const revisionCount = _renderGitInfo.revisionCount;
 
-const t = useTranslations(lang ?? 'zh-TW');
+const t = useTranslations(lang ?? 'am');
 const categoryConfigs = getCategoryConfigs(t);
 const categoryInfo = categoryConfigs[category as CategoryKey];
 if (!categoryInfo) throw new Error(`Unknown category: ${category}`);
@@ -332,7 +332,7 @@ function processFootnotes(md: string): string {
     const num = order.indexOf(label) + 1;
     const id = `fn-${label}`;
     const refId = `fnref-${label}`;
-    return `<sup id="${refId}"><a href="#${id}" class="footnote-ref" aria-label="脚注 ${num}">${num}</a></sup>`;
+    return `<sup id="${refId}"><a href="#${id}" class="footnote-ref" aria-label="[Amharic translation needed - original Taiwan context] ${num}">${num}</a></sup>`;
   });
 
   // Build footnotes section
@@ -343,11 +343,11 @@ function processFootnotes(md: string): string {
       const refId = `fnref-${label}`;
       // Process links inside footnote text via marked inline parser
       const defHtml = marked.parseInline(definitions[label]) as string;
-      return `<li id="${id}">${defHtml}<a href="#${refId}" class="footnote-backref" aria-label="返回引用 ${num}">↩</a></li>`;
+      return `<li id="${id}">${defHtml}<a href="#${refId}" class="footnote-backref" aria-label="[Amharic translation needed - original Taiwan context] ${num}">↩</a></li>`;
     });
     body =
       body.trimEnd() +
-      `\n\n<section class="footnotes" aria-label="腳注"><ol>${items.join('')}</ol></section>`;
+      `\n\n<section class="footnotes" aria-label="[Amharic translation needed - original Taiwan context]"><ol>${items.join('')}</ol></section>`;
   }
 
   return body;
@@ -366,7 +366,7 @@ const estimatedReadingTime =
   frontmatter.readingTime ||
   Math.max(1, Math.round(content.replace(/\s+/g, ' ').length / 500));
 
-const articleUrl = `https://taiwan.md/${category}/${slug}`;
+const articleUrl = `https://ethiopia.md/${category}/${slug}`;
 const encodedUrl = encodeURIComponent(articleUrl);
 const encodedTitle = encodeURIComponent(title);
 ---
@@ -386,7 +386,7 @@ const encodedTitle = encodeURIComponent(title);
   <!-- Reading progress bar -->
   <div class="reading-progress" id="reading-progress" aria-hidden="true"></div>
 
-  <main class="article-page" lang="zh-TW">
+  <main class="article-page" lang="am">
     <!-- ── Hero ─────────────────────────────────────────────────── -->
     <ArticleHero
       title={title}
@@ -396,13 +396,13 @@ const encodedTitle = encodeURIComponent(title);
       categoryColor={categoryInfo.color}
       coverImage={categoryInfo.cover}
       slug={slug}
-      lang="zh-TW"
+      lang="am"
     />
 
     <!-- ── Three-column body ─────────────────────────────────────── -->
     <div class="article-shell">
       <!-- Left: Table of Contents -->
-      <div class="col-toc" aria-label="目錄欄">
+      <div class="col-toc" aria-label="[Amharic translation needed - original Taiwan context]">
         <TableOfContents content={processedContent} />
       </div>
 
@@ -449,7 +449,7 @@ const encodedTitle = encodeURIComponent(title);
         {
           frontmatter.source && frontmatter.source.length > 0 && (
             <div class="sources-block">
-              <h3 class="sources-heading">參考資料</h3>
+              <h3 class="sources-heading">[Amharic translation needed - original Taiwan context]</h3>
               <ul class="sources-list">
                 {frontmatter.source.map((url: string) => (
                   <li>
@@ -487,15 +487,15 @@ const encodedTitle = encodeURIComponent(title);
             >
           </div>
           <div class="disclaimer-text">
-            <strong>內容說明</strong>
-            本文由 AI 輔助生成，並經人工審核整理。如發現任何錯誤或不完整之處，歡迎透過下方按鈕協助改善。
+            <strong>[Amharic translation needed - original Taiwan context]</strong>
+            [Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
           </div>
         </div>
 
         <!-- Contribution row -->
         <div class="contribute-row">
           <a
-            href={`https://github.com/frank890417/taiwan-md/edit/main/knowledge/${categoryMapping[category as string]}/${slug}.md`}
+            href={`https://github.com/frank890417/ethiopia-md/edit/main/knowledge/${categoryMapping[category as string]}/${slug}.md`}
             target="_blank"
             rel="noopener noreferrer"
             class="contribute-btn contribute-btn--primary"
@@ -512,10 +512,10 @@ const encodedTitle = encodeURIComponent(title);
                 d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"
               ></path></svg
             >
-            在 GitHub 上編輯此頁
+            [Amharic translation needed - original Taiwan context] GitHub [Amharic translation needed - original Taiwan context]
           </a>
           <a
-            href={`https://github.com/frank890417/taiwan-md/issues/new?title=${encodeURIComponent(`Feedback: ${title}`)}`}
+            href={`https://github.com/frank890417/ethiopia-md/issues/new?title=${encodeURIComponent(`Feedback: ${title}`)}`}
             target="_blank"
             rel="noopener noreferrer"
             class="contribute-btn contribute-btn--ghost"
@@ -532,7 +532,7 @@ const encodedTitle = encodeURIComponent(title);
                 d="M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2z"
               ></path></svg
             >
-            回報問題
+            [Amharic translation needed - original Taiwan context]
           </a>
         </div>
 
@@ -554,13 +554,13 @@ const encodedTitle = encodeURIComponent(title);
           }
 
           <div class="bottom-share">
-            <span class="share-label">分享</span>
+            <span class="share-label">[Amharic translation needed - original Taiwan context]</span>
             <a
               href={`https://twitter.com/intent/tweet?text=${encodedTitle}&url=${encodedUrl}`}
               target="_blank"
               rel="noopener noreferrer"
               class="share-btn"
-              aria-label="分享到 X"
+              aria-label="[Amharic translation needed - original Taiwan context] X"
             >
               <svg
                 width="15"
@@ -577,7 +577,7 @@ const encodedTitle = encodeURIComponent(title);
               target="_blank"
               rel="noopener noreferrer"
               class="share-btn"
-              aria-label="分享到 Facebook"
+              aria-label="[Amharic translation needed - original Taiwan context] Facebook"
             >
               <svg
                 width="15"
@@ -594,7 +594,7 @@ const encodedTitle = encodeURIComponent(title);
               target="_blank"
               rel="noopener noreferrer"
               class="share-btn"
-              aria-label="分享到 LINE"
+              aria-label="[Amharic translation needed - original Taiwan context] LINE"
             >
               <svg
                 width="15"
@@ -609,7 +609,7 @@ const encodedTitle = encodeURIComponent(title);
             <button
               class="share-btn copy-btn-bottom"
               type="button"
-              aria-label="複製連結"
+              aria-label="[Amharic translation needed - original Taiwan context]"
             >
               <svg
                 width="15"
@@ -645,7 +645,7 @@ const encodedTitle = encodeURIComponent(title);
               aria-hidden="true"
               ><polyline points="15 18 9 12 15 6"></polyline></svg
             >
-            返回{categoryInfo.name}
+            [Amharic translation needed - original Taiwan context]{categoryInfo.name}
           </a>
           <a href="/" class="return-btn return-btn--ghost">
             <svg
@@ -659,7 +659,7 @@ const encodedTitle = encodeURIComponent(title);
               ><path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z"
               ></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg
             >
-            返回首頁
+            [Amharic translation needed - original Taiwan context]
           </a>
         </div>
       </article>
@@ -679,7 +679,7 @@ const encodedTitle = encodeURIComponent(title);
           categoryName={categoryInfo.name}
           categoryColor={categoryInfo.color}
           slug={slug}
-          lang="zh-TW"
+          lang="am"
         />
       </div>
     </div><!-- /article-shell -->
@@ -690,8 +690,8 @@ const encodedTitle = encodeURIComponent(title);
         <section class="related-section">
           <div class="related-inner">
             <div class="section-header">
-              <p class="section-kicker">延伸閱讀</p>
-              <h2 class="section-title">同分類更多文章</h2>
+              <p class="section-kicker">[Amharic translation needed - original Taiwan context]</p>
+              <h2 class="section-title">[Amharic translation needed - original Taiwan context]</h2>
             </div>
             <div class="related-grid">
               {relatedArticles.map((article) => (
@@ -713,7 +713,7 @@ const encodedTitle = encodeURIComponent(title);
                 class="view-all-btn"
                 style={`color:${categoryInfo.color}; border-color:${categoryInfo.color}30;`}
               >
-                查看全部 {categoryInfo.name} 文章
+                [Amharic translation needed - original Taiwan context] {categoryInfo.name} [Amharic translation needed - original Taiwan context]
                 <svg
                   width="14"
                   height="14"
@@ -753,7 +753,7 @@ const encodedTitle = encodeURIComponent(title);
                 <line x1="15" y1="15" x2="21" y2="21" />
               </>
             </svg>
-            隨機探索另一篇文章
+            [Amharic translation needed - original Taiwan context]
           </button>
         </div>
       )
@@ -763,8 +763,8 @@ const encodedTitle = encodeURIComponent(title);
     <section class="explore-section">
       <div class="explore-inner">
         <div class="section-header">
-          <p class="section-kicker">探索台灣</p>
-          <h2 class="section-title">更多面向等你發現</h2>
+          <p class="section-kicker">[Amharic translation needed - original Taiwan context]Ethiopia</p>
+          <h2 class="section-title">[Amharic translation needed - original Taiwan context]</h2>
         </div>
         <div class="explore-grid">
           {
@@ -781,7 +781,7 @@ const encodedTitle = encodeURIComponent(title);
                   </span>
                   <p class="explore-cat-desc">{cat.description}</p>
                   <span class="explore-cta" style={`color:${cat.color};`}>
-                    開始探索
+                    [Amharic translation needed - original Taiwan context]
                     <svg
                       width="12"
                       height="12"
@@ -1114,7 +1114,7 @@ const encodedTitle = encodeURIComponent(title);
 
   /* ── Footnotes ──────────────────────────────────────────────────────────── */
 
-  /* Footnote section (文末 section.footnotes) */
+  /* Footnote section ([Amharic translation needed - original Taiwan context] section.footnotes) */
   .prose :global(.footnotes) {
     margin-top: 3rem;
     padding-top: 1.5rem;

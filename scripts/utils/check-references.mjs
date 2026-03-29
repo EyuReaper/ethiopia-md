@@ -58,7 +58,7 @@ async function main() {
   const noSection = results.filter((r) => !r.hasRefSection);
   const noUrl = results.filter((r) => r.hasRefSection && !r.hasUrl);
 
-  console.log(`\n📚 Taiwan.md 參考資料檢查報告`);
+  console.log(`\n📚 Ethiopia.md 參考資料檢查報告`);
   console.log(`${'='.repeat(50)}`);
   console.log(`總文章數: ${results.length}`);
   console.log(`✅ 有參考資料: ${results.length - missing.length}`);

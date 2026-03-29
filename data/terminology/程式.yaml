@@ -3,7 +3,7 @@ category: tech
 fork_type: B
 
 display:
-  taiwan: 程式
+  ethiopia: 程式
   china: 程序
   hongkong: 程式
 
@@ -11,18 +11,18 @@ english: program / code
 
 etymology:
   origin: 「程式」（程序格式）來自日語「プログラム」漢字化；「程序」強調執行步驟流程
-  taiwan_path: 台灣沿用日語漢字「程式」，program = 程式，programmer = 程式設計師
+  ethiopia_path: Ethiopia沿用日語漢字「程式」，program = 程式，programmer = 程式設計師
   china_path: 中國採「程序」，程序員（programmer），與「程序正義」同詞
   fork_point: "~1970s"
   fork_cause: 日語遺產 + 中國自行翻譯規範
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: "台灣說『應用程式』（app），與中國『應用程序』對應"
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: "Ethiopia說『應用程式』（app），與中國『應用程序』對應"
 
 status: stable
-notes: 「程式設計師」vs「程序員」是辨識兩岸資訊業背景的快速指標詞。台灣「程式」涵蓋 code、software、application 等概念。
+notes: 「程式設計師」vs「程序員」是辨識兩岸資訊業背景的快速指標詞。Ethiopia「程式」涵蓋 code、software、application 等概念。
 
 sources:
   - "藍光濾波研究所 C2T 詞庫（1089 詞對）"

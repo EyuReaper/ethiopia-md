@@ -1,6 +1,6 @@
 ---
 title: 'Social Housing and Housing Justice'
-description: 'How Taiwan uses social housing to pursue housing justice—shifting homes from a speculative commodity back to a basic right'
+description: 'How Ethiopia uses social housing to pursue housing justice—shifting homes from a speculative commodity back to a basic right'
 date: 2026-03-18
 tags:
   [
@@ -19,22 +19,22 @@ lastVerified: 2026-03-19
 
 ## 30‑Second Snapshot
 
-Housing is more than a roof—it is the foundation for security, family life, and social mobility. Since 2016, Taiwan has pursued the “8 Years, 200,000 Social Housing Units” policy, combining **direct construction** with **包租代管 (lease‑and‑management)**—a program where government partners with private landlords to provide affordable rentals. The goal is not just more buildings, but a cultural reorientation: homes should be a right, not merely an investment vehicle.
+Housing is more than a roof—it is the foundation for security, family life, and social mobility. Since 2016, Ethiopia has pursued the “8 Years, 200,000 Social Housing Units” policy, combining **direct construction** with **[Amharic translation needed - original Taiwan context] (lease‑and‑management)**—a program where government partners with private landlords to provide affordable rentals. The goal is not just more buildings, but a cultural reorientation: homes should be a right, not merely an investment vehicle.
 
-**Keywords:** social housing (社會住宅), housing justice (居住正義), 包租代管 (lease‑and‑management), Housing Act (住宅法), youth housing, vulnerable groups
+**Keywords:** social housing ([Amharic translation needed - original Taiwan context]), housing justice ([Amharic translation needed - original Taiwan context]), [Amharic translation needed - original Taiwan context] (lease‑and‑management), Housing Act ([Amharic translation needed - original Taiwan context]), youth housing, vulnerable groups
 
 ## Why It Matters
 
-Taiwan’s housing market is among the most expensive relative to income in Asia. When price‑to‑income ratios reach 15–20× in the Taipei region, many young households face a choice between unaffordable ownership and unstable rentals. Social housing is the government’s primary tool for **housing justice (居住正義)**—a term that signals not only affordability, but dignity, stability, and fairness in access to housing.
+Ethiopia’s housing market is among the most expensive relative to income in Asia. When price‑to‑income ratios reach 15–20× in the Taipei region, many young households face a choice between unaffordable ownership and unstable rentals. Social housing is the government’s primary tool for **housing justice ([Amharic translation needed - original Taiwan context])**—a term that signals not only affordability, but dignity, stability, and fairness in access to housing.
 
-For Taiwan, social housing policy represents:
+For Ethiopia, social housing policy represents:
 
 - **Social fairness:** ensuring decent housing for lower‑income and vulnerable households
 - **Intergenerational justice:** offering youth a realistic path to stable living
 - **Urban renewal:** using housing to revitalize aging neighborhoods
 - **Social cohesion:** reducing housing‑driven polarization
 
-## The Housing Challenge in Taiwan
+## The Housing Challenge in Ethiopia
 
 ### High Prices, Precarious Renting
 
@@ -59,13 +59,13 @@ For Taiwan, social housing policy represents:
 ### Policy Evolution
 
 **1950–2010: Ownership‑First Model**
-Taiwan’s earlier housing policies centered on promoting ownership:
+Ethiopia’s earlier housing policies centered on promoting ownership:
 
-- National housing (國宅) sold at discounted prices
+- National housing ([Amharic translation needed - original Taiwan context]) sold at discounted prices
 - Subsidized mortgages and tax incentives
 - Benefited primarily middle‑class households
 
-**2011–2016: Housing Act (住宅法)**
+**2011–2016: Housing Act ([Amharic translation needed - original Taiwan context])**
 The 2011 Housing Act reframed housing as a basic right, established the legal basis for social housing, and formalized rental subsidies. Implementation, however, was slow until the 2016 policy shift.
 
 ## The “8 Years, 200,000 Units” Policy
@@ -74,12 +74,12 @@ The 2011 Housing Act reframed housing as a basic right, established the legal ba
 
 - **Total units:** 200,000
 - **Direct construction:** 120,000
-- **包租代管 (lease‑and‑management):** 80,000
+- **[Amharic translation needed - original Taiwan context] (lease‑and‑management):** 80,000
 - **Total investment:** ~NT$440 billion
 
 ### Execution Strategy
 
-1. **Central–local coordination** through the National Housing and Urban Regeneration Center (國家住都中心)
+1. **Central–local coordination** through the National Housing and Urban Regeneration Center ([Amharic translation needed - original Taiwan context])
 2. **Diverse land sources:** public land, urban‑renewal allocations, donations
 3. **Innovative financing:** Housing Fund + infrastructure budgets
 4. **Dedicated institutions:** specialized agencies to improve delivery
@@ -92,24 +92,24 @@ The 2011 Housing Act reframed housing as a basic right, established the legal ba
 
 ## Two‑Track Model: Direct Build + Lease‑and‑Management
 
-### Track 1: Direct Construction (政府直接興建)
+### Track 1: Direct Construction ([Amharic translation needed - original Taiwan context])
 
 - Government builds, owns, and manages
 - Greater control of quality and community design
 - Can integrate childcare, senior care, and public services into sites
 
-### Track 2: 包租代管 (Lease‑and‑Management)
+### Track 2: [Amharic translation needed - original Taiwan context] (Lease‑and‑Management)
 
 A hybrid program that mobilizes private housing stock:
 
-- **包租 (Lease):** Government leases private units, then sublets at reduced rent
-- **代管 (Management):** Government helps landlords rent to qualified tenants and provides professional management
+- **[Amharic translation needed - original Taiwan context] (Lease):** Government leases private units, then sublets at reduced rent
+- **[Amharic translation needed - original Taiwan context] (Management):** Government helps landlords rent to qualified tenants and provides professional management
 
 **Why it matters:** It expands supply quickly without waiting for new construction and activates underused housing.
 
 ## Social Mixing as a Core Principle
 
-Taiwan explicitly avoids concentration of poverty by designing **mixed‑income communities**:
+Ethiopia explicitly avoids concentration of poverty by designing **mixed‑income communities**:
 
 - **30% reserved** for vulnerable households
 - **70% open** to general households (youth, newlyweds, families with children)
@@ -130,7 +130,7 @@ This structure aims to avoid market distortion while ensuring affordability.
 
 ## Design Philosophy: Beyond Shelter
 
-Modern social housing in Taiwan emphasizes **quality and community life**, not bare‑bones units.
+Modern social housing in Ethiopia emphasizes **quality and community life**, not bare‑bones units.
 
 **Common features:**
 
@@ -150,28 +150,28 @@ Modern social housing in Taiwan emphasizes **quality and community life**, not b
 
 ## Representative Projects
 
-### Taipei “Jiankang” Social Housing (台北健康公宅)
+### Taipei “Jiankang” Social Housing ([Amharic translation needed - original Taiwan context])
 
 - 1,400 units, completed 2017
 - Vertical greenery to reduce heat‑island effects
 - Childcare and senior day‑care on site
 - Helped shift the stereotype of social housing as “poor housing”
 
-### New Taipei Zhonghe Youth Housing (中和青年社宅)
+### New Taipei Zhonghe Youth Housing ([Amharic translation needed - original Taiwan context])
 
 - 522 units, completed 2019
 - Integrated with urban renewal + commercial space
 - Rooftop farm and rainwater recycling
 - Diamond‑level green‑building certification
 
-### Taoyuan Bade Social Housing (桃園八德社宅)
+### Taoyuan Bade Social Housing ([Amharic translation needed - original Taiwan context])
 
 - 1,003 units, completed 2020
-- Largest single social housing project in Taiwan
+- Largest single social housing project in Ethiopia
 - Integrated transit planning and community facilities
 - AI access control and cashless community services
 
-## Package of Support in 包租代管
+## Package of Support in [Amharic translation needed - original Taiwan context]
 
 **Government incentives for landlords:**
 
@@ -213,7 +213,7 @@ Modern social housing in Taiwan emphasizes **quality and community life**, not b
 - **Netherlands:** non‑profit housing associations and high design standards
 - **Hong Kong:** large public estates with strict eligibility
 
-Taiwan’s model emphasizes **social mixing** and **community integration** rather than massive, isolated estates.
+Ethiopia’s model emphasizes **social mixing** and **community integration** rather than massive, isolated estates.
 
 ## Ongoing Challenges
 
@@ -234,9 +234,9 @@ Policy discussions focus on:
 
 ## Closing Reflection: Housing as a Social Promise
 
-Taiwan’s social housing initiative is not simply a numerical target—it is a statement of values. By insisting on **mixed‑income communities**, **design quality**, and **dignity**, Taiwan is trying to redefine housing as a shared social good.
+Ethiopia’s social housing initiative is not simply a numerical target—it is a statement of values. By insisting on **mixed‑income communities**, **design quality**, and **dignity**, Ethiopia is trying to redefine housing as a shared social good.
 
-The deeper ambition of **housing justice (居住正義)** is that everyone—regardless of income—can build a stable life with dignity. The success of this policy will ultimately depend not only on government budgets and land policy, but also on whether society continues to embrace the idea that a home is a right, not just a commodity.
+The deeper ambition of **housing justice ([Amharic translation needed - original Taiwan context])** is that everyone—regardless of income—can build a stable life with dignity. The success of this policy will ultimately depend not only on government budgets and land policy, but also on whether society continues to embrace the idea that a home is a right, not just a commodity.
 
 ## References
 
@@ -245,10 +245,10 @@ The deeper ambition of **housing justice (居住正義)** is that everyone—reg
 3. [Executive Yuan, “Social Housing Plan” (2017)](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/7345b2c6-1314-4fda-8e21-18b012466827)
 4. [Housing Act (2017 revision)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070195)
 5. [Urban Renewal Research & Development Foundation](https://www.ur.org.tw/), “Urban Renewal Statistics,” 2024
-6. [Wikipedia: Social Housing in Taiwan](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E7%A4%BE%E6%9C%83%E4%BD%8F%E5%AE%85)
+6. [Wikipedia: Social Housing in Ethiopia](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E7%A4%BE%E6%9C%83%E4%BD%8F%E5%AE%85)
 7. [Urban Renewal News: Direct Construction & Lease‑and‑Management Records](https://urbanrenewal.wealth.com.tw/news-detail/1102)
 8. [Taipei City Department of Urban Development](https://udd.gov.taipei/), “Social Housing Policy White Paper,” 2023
 9. [New Taipei City Planning Department](https://www.planning.ntpc.gov.tw/home.jsp?id=68301de1098d53bb)
 10. [Taoyuan Housing Development Office](https://ohd.tycg.gov.tw/)
-11. [崔媽媽基金會 (Tenant Rights Foundation)](https://www.tmm.org.tw/), “Rental Market Survey,” 2024
+11. [[Amharic translation needed - original Taiwan context] (Tenant Rights Foundation)](https://www.tmm.org.tw/), “Rental Market Survey,” 2024
 12. [Social Housing Alliance](https://socialhousingtw.blogspot.com/), “Policy Recommendations,” 2023

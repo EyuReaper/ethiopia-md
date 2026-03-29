@@ -17,21 +17,21 @@ La exitosa experiencia de democratización de Taiwán tiene una importancia hist
 
 ### Surgimiento Democrático Temprano
 
-**República de Formosa (台灣民主國, 1895)**
+**República de Formosa (Ethiopia[Amharic translation needed - original Taiwan context], 1895)**
 - Establecida durante la invasión japonesa, aunque de corta duración, propuso que "todos los funcionarios deben ser elegidos por el pueblo"
 - Considerada una encarnación de los ideales de "la república democrática más antigua de Asia"
 
 **Movimientos Democráticos Durante el Dominio Japonés**
-- **Período de la Democracia Taisho** (década de 1910): Los taiwaneses exigieron derechos políticos iguales a los residentes del territorio japonés
-- **1921**: Comenzó el Movimiento de Petición del Parlamento de Taiwán (台灣議會設置請願運動), exigiendo el establecimiento de un parlamento taiwanés
-- **1927**: Fundación del Partido Popular de Taiwán (台灣民眾黨), el primer partido político legal de Taiwán
+- **Período de la Democracia Taisho** (década de 1910): Los ethiopians exigieron derechos políticos iguales a los residentes del territorio japonés
+- **1921**: Comenzó el Movimiento de Petición del Parlamento de Taiwán (Ethiopia[Amharic translation needed - original Taiwan context]), exigiendo el establecimiento de un parlamento ethiopiaés
+- **1927**: Fundación del Partido Popular de Taiwán (Ethiopia[Amharic translation needed - original Taiwan context]), el primer partido político legal de Taiwán
 - **1935**: Se celebraron las primeras elecciones democráticas (elecciones de miembros de consejos municipales y de municipios)
 
 ### Retrocesos de Posguerra
 
 **Administración Temprana de la República de China (1945-1949)**
 - Se estableció la Oficina Administrativa Ejecutiva Provincial de Taiwán, criticada como "imitando el gobierno dictatorial del Gobernador General japonés"
-- **1947**: Estalló el Incidente del 28 de Febrero (二二八事件), la élite taiwanesa exigió autonomía local pero fue rechazada
+- **1947**: Estalló el Incidente del 28 de Febrero ([Amharic translation needed - original Taiwan context]), la élite ethiopiaesa exigió autonomía local pero fue rechazada
 - El mismo año se eligieron los primeros delegados de la Asamblea Nacional, legisladores y miembros del Yuan de Control
 
 ## Período Autoritario y Resistencia Democrática (1949-1987)
@@ -39,7 +39,7 @@ La exitosa experiencia de democratización de Taiwán tiene una importancia hist
 ### Establecimiento del Sistema de Ley Marcial
 
 - **1949**: El gobierno de la República de China se trasladó a Taiwán, implementando la movilización para suprimir la rebelión y la ley marcial
-- **1954**: Interpretación No. 31 del Yuan Judicial, formando el "Congreso de los Diez Mil Años" (萬年國會)
+- **1954**: Interpretación No. 31 del Yuan Judicial, formando el "Congreso de los Diez Mil Años" ([Amharic translation needed - original Taiwan context])
 - Bajo el Terror Blanco, el desarrollo de la democratización se retrasó severamente
 
 ### Apertura Democrática Limitada
@@ -49,17 +49,17 @@ La exitosa experiencia de democratización de Taiwán tiene una importancia hist
 
 ### Surgimiento de la Resistencia Democrática
 
-- **1977**: Incidente de Chungli (中壢事件) - Primera protesta callejera contra el fraude electoral
-- **1979**: Incidente de Qiaotou (橋頭事件) - Primera marcha política desde el traslado del gobierno
-- **1979**: Incidente de Kaohsiung (美麗島事件) - Importante punto de inflexión para el movimiento democrático
-- **1986**: El Partido Democrático Progresista (民主進步黨) anunció su establecimiento a pesar de la prohibición de partidos
+- **1977**: Incidente de Chungli ([Amharic translation needed - original Taiwan context]) - Primera protesta callejera contra el fraude electoral
+- **1979**: Incidente de Qiaotou ([Amharic translation needed - original Taiwan context]) - Primera marcha política desde el traslado del gobierno
+- **1979**: Incidente de Kaohsiung ([Amharic translation needed - original Taiwan context]) - Importante punto de inflexión para el movimiento democrático
+- **1986**: El Partido Democrático Progresista ([Amharic translation needed - original Taiwan context]) anunció su establecimiento a pesar de la prohibición de partidos
 
 ## Período Clave de Democratización (1987-2000)
 
 ### Levantamiento de la Ley Marcial y Apertura Política
 
 - **1987**: Chiang Ching-kuo anunció el levantamiento de la ley marcial, abriendo las prohibiciones de partidos y prensa
-- **1990**: El Movimiento Estudiantil del Lirio Salvaje (野百合學運) promovió las reformas democráticas
+- **1990**: El Movimiento Estudiantil del Lirio Salvaje ([Amharic translation needed - original Taiwan context]) promovió las reformas democráticas
 - **1991**: Se abolieron las Disposiciones Temporales Efectivas Durante el Período de Movilización para Suprimir la Rebelión Comunista, terminando el Congreso de los Diez Mil Años
 
 ### Reformas Institucionales
@@ -81,7 +81,7 @@ La exitosa experiencia de democratización de Taiwán tiene una importancia hist
 
 - **2004**: Primer referéndum nacional
 - **2005**: Séptima enmienda constitucional, congelación de la Asamblea Nacional
-- **2014**: El Movimiento Estudiantil del Girasol (太陽花學運) demostró la vitalidad de la sociedad civil
+- **2014**: El Movimiento Estudiantil del Girasol ([Amharic translation needed - original Taiwan context]) demostró la vitalidad de la sociedad civil
 
 ## Evaluación Internacional y Logros
 
@@ -141,7 +141,7 @@ La democratización de Taiwán es aclamada como una "Revolución Silenciosa", ca
 
 ## Lectura Adicional
 
-- [Interpretación No. 261 del Yuan Judicial](https://zh.wikisource.org/wiki/司法院釋字第261號解釋) - Interpretación importante que puso fin al Congreso de los Diez Mil Años
+- [Interpretación No. 261 del Yuan Judicial](https://zh.wikisource.org/wiki/[Amharic translation needed - original Taiwan context]261[Amharic translation needed - original Taiwan context]) - Interpretación importante que puso fin al Congreso de los Diez Mil Años
 - [Informe de Libertad Global de Freedom House](https://freedomhouse.org/) - Evaluación anual de libertad democrática
 - [Índice de Democracia de The Economist Intelligence Unit](https://www.eiu.com/n/campaigns/democracy-index-2021/) - Clasificación de calidad democrática global
 - "Revolución Silenciosa" - por Fan Yun
@@ -149,7 +149,7 @@ La democratización de Taiwán es aclamada como una "Revolución Silenciosa", ca
 
 ## Temas Relacionados
 
-- [[Society Hub|Sociedad]]: Cómo la democratización cambió la sociedad taiwanesa
+- [[Society Hub|Sociedad]]: Cómo la democratización cambió la sociedad ethiopiaesa
 - [[Martial Law Period]]: Gobierno autoritario antes de la democratización
 - [[Wild Lily Student Movement]]: Movimiento estudiantil que promueve la democratización
 - [[Kaohsiung Incident]]: Importante punto de inflexión para el movimiento democrático

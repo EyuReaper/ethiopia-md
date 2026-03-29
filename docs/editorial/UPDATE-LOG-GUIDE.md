@@ -1,160 +1,160 @@
-# UPDATE-LOG-GUIDE.md — Taiwan.md 更新日誌撰寫原則
+# UPDATE-LOG-GUIDE.md — Ethiopia.md [Amharic translation needed - original Taiwan context]
 
-> 每次發社群更新前，寫的人（人類或 AI）都要先讀這份文件。
-> 更新日誌是專案的門面。寫得好，讀者變貢獻者；寫得爛，讀者滑過去。
-
----
-
-## 核心信念
-
-**更新日誌是開發日記，不是 changelog。**
-
-讀者想知道的是「你們在幹嘛、為什麼這樣做」，不是 commit list。
-一篇好的更新日誌，讀完會讓人覺得「這群人在認真做事，我想參與」。
+> [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] AI）[Amharic translation needed - original Taiwan context]。
+> [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]；[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
 
 ---
 
-## 語氣校準
+## [Amharic translation needed - original Taiwan context]
 
-### ✅ 要的
+**[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] changelog。**
 
-- **第一人稱「我們」**：讀起來像團隊日記，不像公關稿
-- **承認問題**：「坦白說，其中一半是 AI 初稿品質」比「我們持續優化內容品質」有力 100 倍
-- **講決策背後的原因**：不只說做了什麼，說為什麼這樣做
-- **有節奏**：大事件用段落展開，小事件一行帶過
-- **具體數字**：「501 行 → 134 行」比「大幅精簡」有說服力
-
-### ❌ 不要的
-
-- **塑膠句式**（跟 EDITORIAL.md 同一份黑名單）：
-  - ~~不是 X，而是 Y~~
-  - ~~不僅 X，更是 Y~~
-  - ~~持續優化~~、~~大幅提升~~、~~全面升級~~
-  - ~~感謝大家的支持~~（除非真的要感謝具體的人）
-- **Changelog 格式**：不要純列 commit message
-- **自吹自擂**：讓事實說話，不要替自己貼金
-- **數字轟炸**：不是每個數字都需要出現，選最有故事性的
-
-### 自我檢測
-
-寫完唸出來。如果聽起來像：
-
-- 新聞稿 → 重寫
-- GitHub Release Notes → 加故事
-- 朋友聊天 → ✅ 差不多對了
+[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]」，[Amharic translation needed - original Taiwan context] commit list。
+[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]」。
 
 ---
 
-## 結構模板
+## [Amharic translation needed - original Taiwan context]
 
-不是死規定，但這個順序通常最有效：
+### ✅ [Amharic translation needed - original Taiwan context]
 
-### 1. 開場：一句話定調今天的主題
+- **[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」**：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：「[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context] 100 [Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：「501 [Amharic translation needed - original Taiwan context] → 134 [Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]
 
-找到今天最重要的一件事，用一句話概括。
+### ❌ [Amharic translation needed - original Taiwan context]
 
-- ✅ 「今天我們花了半天重新定義『好文章』的標準。」
-- ❌ 「今天最大的變化不是新文章，而是我們重新定義了好文章的標準。」（塑膠句式）
+- **[Amharic translation needed - original Taiwan context]**（[Amharic translation needed - original Taiwan context] EDITORIAL.md [Amharic translation needed - original Taiwan context]）：
+  - ~~[Amharic translation needed - original Taiwan context] X，[Amharic translation needed - original Taiwan context] Y~~
+  - ~~[Amharic translation needed - original Taiwan context] X，[Amharic translation needed - original Taiwan context] Y~~
+  - ~~[Amharic translation needed - original Taiwan context]~~、~~[Amharic translation needed - original Taiwan context]~~、~~[Amharic translation needed - original Taiwan context]~~
+  - ~~[Amharic translation needed - original Taiwan context]~~（[Amharic translation needed - original Taiwan context]）
+- **Changelog [Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] commit message
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
 
-### 2. 主線故事：展開最重要的 1-2 件事
+### [Amharic translation needed - original Taiwan context]
 
-用 2-3 段講清楚：做了什麼 → 為什麼這樣做 → 結果如何。
-可以放 Before/After 對比、具體數字、決策過程。
+[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]：
 
-### 3. 其他更新：一段帶過
-
-社群 PR、技術修復、新文章等，不需要每個都展開。
-用「@誰 做了什麼」格式，簡潔有力。
-
-### 4. 收尾：數字快照 + 連結
-
-當前 stars / forks / contributors / 文章數。
-GitHub + 網站連結。
+- [Amharic translation needed - original Taiwan context] → [Amharic translation needed - original Taiwan context]
+- GitHub Release Notes → [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context] → ✅ [Amharic translation needed - original Taiwan context]
 
 ---
 
-## Before/After 範例
+## [Amharic translation needed - original Taiwan context]
 
-### ❌ 壞（changelog 風格）
+[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]：
+
+### 1. [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
+
+[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+- ✅ 「[Amharic translation needed - original Taiwan context]『[Amharic translation needed - original Taiwan context]』[Amharic translation needed - original Taiwan context]。」
+- ❌ 「[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。」（[Amharic translation needed - original Taiwan context]）
+
+### 2. [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context] 1-2 [Amharic translation needed - original Taiwan context]
+
+[Amharic translation needed - original Taiwan context] 2-3 [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context] → [Amharic translation needed - original Taiwan context] → [Amharic translation needed - original Taiwan context]。
+[Amharic translation needed - original Taiwan context] Before/After [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。
+
+### 3. [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
+
+[Amharic translation needed - original Taiwan context] PR、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+[Amharic translation needed - original Taiwan context]「@[Amharic translation needed - original Taiwan context] [Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+### 4. [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context] + [Amharic translation needed - original Taiwan context]
+
+[Amharic translation needed - original Taiwan context] stars / forks / contributors / [Amharic translation needed - original Taiwan context]。
+GitHub + [Amharic translation needed - original Taiwan context]。
+
+---
+
+## Before/After [Amharic translation needed - original Taiwan context]
+
+### ❌ [Amharic translation needed - original Taiwan context]（changelog [Amharic translation needed - original Taiwan context]）
 
 ```
-📋 Taiwan.md v0.5.1 更新
+📋 Ethiopia.md v0.5.1 [Amharic translation needed - original Taiwan context]
 
-✅ 新增：
-- EDITORIAL.md v2 寫作方法論
-- 品質自動改善 cron
-- PTT 批踢踢文章
+✅ [Amharic translation needed - original Taiwan context]：
+- EDITORIAL.md v2 [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context] cron
+- PTT [Amharic translation needed - original Taiwan context]
 - REVIEWERS.md
 - ROADMAP.md
 
-🔄 改善：
-- 夜市經濟學重寫
-- Nav 重新排序
-- Data/About 頁面模板化
+🔄 [Amharic translation needed - original Taiwan context]：
+- [Amharic translation needed - original Taiwan context]
+- Nav [Amharic translation needed - original Taiwan context]
+- Data/About [Amharic translation needed - original Taiwan context]
 
-📊 695 ⭐ / 75 forks / 718 篇文章
+📊 695 ⭐ / 75 forks / 718 [Amharic translation needed - original Taiwan context]
 ```
 
-### ✅ 好（開發日記風格）
+### ✅ [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
 
 ```
-🇹🇼 Taiwan.md — Day 5 晚間更新
+🇪🇹 Ethiopia.md — Day 5 [Amharic translation needed - original Taiwan context]
 
-今天我們沒有衝新文章數量。我們花了半天重新定義「好文章」的標準。
+[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]。
 
-Taiwan.md 現在有 700 篇文章。坦白說，其中大約一半是 AI 初稿品質
-——bullet list 灌水、數據沒來源、開場千篇一律。我們心知肚明，
-只是一直沒動手。
+Ethiopia.md [Amharic translation needed - original Taiwan context] 700 [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context]
+——bullet list [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，
+[Amharic translation needed - original Taiwan context]。
 
-今天動手了。
+[Amharic translation needed - original Taiwan context]。
 
-[展開 EDITORIAL v2 + 夜市實驗 + 自動化...]
+[[Amharic translation needed - original Taiwan context] EDITORIAL v2 + [Amharic translation needed - original Taiwan context] + [Amharic translation needed - original Taiwan context]...]
 
-其他更新：@p3nchan 寫了一篇很棒的 PTT 深度文章，直接 merge。
-@YenTingWu 完成兩個大 refactor，讓多語系維護成本降低。
+[Amharic translation needed - original Taiwan context]：@p3nchan [Amharic translation needed - original Taiwan context] PTT [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] merge。
+@YenTingWu [Amharic translation needed - original Taiwan context] refactor，[Amharic translation needed - original Taiwan context]。
 
-📊 695 ⭐ / 75 forks / 21 contributors / 718 篇文章
+📊 695 ⭐ / 75 forks / 21 contributors / 718 [Amharic translation needed - original Taiwan context]
 ```
 
-**差在哪？**
+**[Amharic translation needed - original Taiwan context]？**
 
-- ❌ 版本：像是給機器讀的，沒有人味
-- ✅ 版本：有決策脈絡、有自我批評、有具體對比、有人名
+- ❌ [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
+- ✅ [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
 
 ---
 
-## 發布平台注意事項
+## [Amharic translation needed - original Taiwan context]
 
 ### Threads / Instagram
 
-- 字數限制 500 字，需要更精簡
-- 開頭 2 行決定展開率
-- 可以拆成多則（1/2, 2/3）
+- [Amharic translation needed - original Taiwan context] 500 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context] 2 [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]（1/2, 2/3）
 
 ### Facebook
 
-- 可以寫長一點，但前 3 行最重要（展開前只看得到這些）
-- 標記具體的人會增加觸及
+- [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 3 [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
+- [Amharic translation needed - original Taiwan context]
 
 ### Discord
 
-- 上傳 .txt 檔案 + 一行摘要
-- 不要直接貼長文在聊天裡
+- [Amharic translation needed - original Taiwan context] .txt [Amharic translation needed - original Taiwan context] + [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]
 
 ### GitHub Discussions / Release
 
-- 可以最完整，包含技術細節
-- 連結到具體的 PR 和 commit
+- [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context] PR [Amharic translation needed - original Taiwan context] commit
 
 ---
 
-## 頻率建議
+## [Amharic translation needed - original Taiwan context]
 
-- **每日更新**：只在有「值得講的故事」時發。沒故事不硬發
-- **里程碑更新**：100 ⭐、1000 ⭐、重大功能上線
-- **社群回應更新**：有人發了好 PR、有人找到錯誤、有媒體報導
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：100 ⭐、1000 ⭐、[Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] PR、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
 
 ---
 
-_這份文件跟 EDITORIAL.md 一樣會持續演化。_
-_最後更新：2026-03-21_
+_[Amharic translation needed - original Taiwan context] EDITORIAL.md [Amharic translation needed - original Taiwan context]。_
+_[Amharic translation needed - original Taiwan context]：2026-03-21_

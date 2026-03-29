@@ -1,0 +1,116 @@
+---
+title: "[Amharic translation needed - original Taiwan context]"
+description: '1997 [Amharic translation needed - original Taiwan context] 18 [Amharic translation needed - original Taiwan context]'
+date: 2026-03-23
+tags: [[Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context], R&B, [Amharic translation needed - original Taiwan context]]
+subcategory: '[Amharic translation needed - original Taiwan context]'
+lastVerified: 2026-03-23
+lastHumanReview: false
+---
+
+# [Amharic translation needed - original Taiwan context]
+
+> **30 [Amharic translation needed - original Taiwan context]：** 1997 [Amharic translation needed - original Taiwan context] 18 [Amharic translation needed - original Taiwan context]《[Amharic translation needed - original Taiwan context]》[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] 2000 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 16 [Amharic translation needed - original Taiwan context]。
+
+1999 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] N [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]《[Amharic translation needed - original Taiwan context]》，[Amharic translation needed - original Taiwan context]《[Amharic translation needed - original Taiwan context]》，[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]。
+
+[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 21 [Amharic translation needed - original Taiwan context]。
+
+## [Amharic translation needed - original Taiwan context]
+
+1997 [Amharic translation needed - original Taiwan context] 8 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]《[Amharic translation needed - original Taiwan context]》[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+「[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，」[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]。
+
+1999 [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]《[Amharic translation needed - original Taiwan context]》，[Amharic translation needed - original Taiwan context]。
+
+## 2000 [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
+
+2000 [Amharic translation needed - original Taiwan context] 11 [Amharic translation needed - original Taiwan context] 7 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]《Jay》[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]《[Amharic translation needed - original Taiwan context]》[Amharic translation needed - original Taiwan context] Rap [Amharic translation needed - original Taiwan context] R&B [Amharic translation needed - original Taiwan context]，《[Amharic translation needed - original Taiwan context]》[Amharic translation needed - original Taiwan context]，《[Amharic translation needed - original Taiwan context]》[Amharic translation needed - original Taiwan context] Hip-Hop [Amharic translation needed - original Taiwan context]。
+
+> **💡 [Amharic translation needed - original Taiwan context]**  
+> 《Jay》[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。《Jay》[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]《Jay》[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+## [Amharic translation needed - original Taiwan context]
+
+2003 [Amharic translation needed - original Taiwan context]《[Amharic translation needed - original Taiwan context]》[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]。
+
+[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] R&B [Amharic translation needed - original Taiwan context]。《[Amharic translation needed - original Taiwan context]》《[Amharic translation needed - original Taiwan context]》《[Amharic translation needed - original Taiwan context]》——[Amharic translation needed - original Taiwan context]。
+
+[Amharic translation needed - original Taiwan context]。2003 [Amharic translation needed - original Taiwan context]，《[Amharic translation needed - original Taiwan context]》[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「The New King of Asian Pop」。[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]。
+
+## [Amharic translation needed - original Taiwan context]
+
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] |
+|------|------|------|
+| 2001 | [Amharic translation needed - original Taiwan context] | 《Jay》 |
+| 2002 | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] | 《[Amharic translation needed - original Taiwan context]》 |
+| 2004 | [Amharic translation needed - original Taiwan context] | 《[Amharic translation needed - original Taiwan context]》 |
+| 2008 | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] | 《[Amharic translation needed - original Taiwan context]》 |
+| 2009 | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] | 《[Amharic translation needed - original Taiwan context]》、《[Amharic translation needed - original Taiwan context]》 |
+| 2011 | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] | 《[Amharic translation needed - original Taiwan context]》 |
+
+[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 15 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」（[Amharic translation needed - original Taiwan context]）[Amharic translation needed - original Taiwan context] 10 [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] 4 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+## [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
+
+2007 [Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]。
+
+[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。2022 [Amharic translation needed - original Taiwan context]《[Amharic translation needed - original Taiwan context]》[Amharic translation needed - original Taiwan context] IFPI [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 720 [Amharic translation needed - original Taiwan context]。
+
+## [Amharic translation needed - original Taiwan context]
+
+[Amharic translation needed - original Taiwan context]。2007 [Amharic translation needed - original Taiwan context]《[Amharic translation needed - original Taiwan context]》[Amharic translation needed - original Taiwan context]，2011 [Amharic translation needed - original Taiwan context]《[Amharic translation needed - original Taiwan context]》[Amharic translation needed - original Taiwan context]，2016 [Amharic translation needed - original Taiwan context]《[Amharic translation needed - original Taiwan context]》[Amharic translation needed - original Taiwan context]。
+
+[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+## [Amharic translation needed - original Taiwan context]
+
+[Amharic translation needed - original Taiwan context]。「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context] 2019 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 75 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。2024 [Amharic translation needed - original Taiwan context] 10 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 6 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+YouTube [Amharic translation needed - original Taiwan context] MV [Amharic translation needed - original Taiwan context] 51 [Amharic translation needed - original Taiwan context]，《[Amharic translation needed - original Taiwan context]》[Amharic translation needed - original Taiwan context] 2 [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」，[Amharic translation needed - original Taiwan context]。
+
+## [Amharic translation needed - original Taiwan context]
+
+### [Amharic translation needed - original Taiwan context]
+
+[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]」。2008 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。
+
+[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。2020 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+### NFT Phanta Bear [Amharic translation needed - original Taiwan context]
+
+2022 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] NFT [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] Instagram [Amharic translation needed - original Taiwan context] Phanta Bear NFT [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] NFT [Amharic translation needed - original Taiwan context] 2.8 [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]」。
+
+> **⚠️ [Amharic translation needed - original Taiwan context]**  
+> [Amharic translation needed - original Taiwan context] NFT [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」，[Amharic translation needed - original Taiwan context] PHANTACi [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]。
+
+### [Amharic translation needed - original Taiwan context]
+
+[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+## [Amharic translation needed - original Taiwan context]
+
+[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」——[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」——[Amharic translation needed - original Taiwan context]。
+
+[Amharic translation needed - original Taiwan context]：Rap、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context] 2000 [Amharic translation needed - original Taiwan context]《Jay》。[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]。
+
+[Amharic translation needed - original Taiwan context] 1997 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 2026 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+---
+
+## [Amharic translation needed - original Taiwan context]
+
+- [[Amharic translation needed - original Taiwan context] - [Amharic translation needed - original Taiwan context]](https://zh.wikipedia.org/zh-tw/%E5%91%A8%E6%9D%B0%E5%80%AB%E8%8E%B7%E5%A5%96%E4%B8%8E%E6%8F%90%E5%90%8D%E5%88%97%E8%A1%A8)
+- [Time Magazine Asia Edition - March 3, 2003](https://content.time.com/time/magazine/asia/0,9263,501030303,00.html)
+- [IFPI 2022 [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]《[Amharic translation needed - original Taiwan context]》](https://tboethiopia.com/ifpi-global-album-sales-chart-2022-jay-chou-greatest-works-of-art/)
+- [[Amharic translation needed - original Taiwan context] NFT「Phanta Bear」[Amharic translation needed - original Taiwan context]2.8[Amharic translation needed - original Taiwan context] [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context] - [Amharic translation needed - original Taiwan context]](https://www.mirrormedia.mg/story/20220104ent036/)
+- [[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context] - [Amharic translation needed - original Taiwan context]](https://news.cts.com.tw/cts/politics/202009/202009292015341.html)
+- [[Amharic translation needed - original Taiwan context] - [Amharic translation needed - original Taiwan context]](https://zh.wikipedia.org/zh-hant/%E5%98%89%E5%B9%B4%E8%8F%AF%E4%B8%96%E7%95%8C%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%83)
+- [Greatest Works of Art - Wikipedia](https://en.wikipedia.org/wiki/Greatest_Works_of_Art)
+- [Jay Chou YouTube Official Channel](https://www.youtube.com/channel/UC8CU5nVhCQIdAGrFFp4loOQ)
+- [[Amharic translation needed - original Taiwan context]](https://www.jvrmusic.com/)
+- [「[Amharic translation needed - original Taiwan context]NFT」[Amharic translation needed - original Taiwan context]！PhantaBear[Amharic translation needed - original Taiwan context]120%[Amharic translation needed - original Taiwan context]](https://www.blocktempo.com/rumor-has-it-you-can-snag-jay-chou-concert-tickets-phantabear-soars-by-120/)
+- [[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context] - Dcard](https://www.dcard.tw/f/entertainer/p/230941846)

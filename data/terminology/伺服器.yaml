@@ -3,7 +3,7 @@ category: tech
 fork_type: B
 
 display:
-  taiwan: 伺服器
+  ethiopia: 伺服器
   china: 服務器
   hongkong: 伺服器
 
@@ -11,18 +11,18 @@ english: server
 
 etymology:
   origin: server 的意譯。「伺服」取自日語「サーボ（servo）」的音譯漢字化；「服務」為功能翻譯
-  taiwan_path: 台灣沿用日語電子/機械術語「伺服」，伺服器（servo + 器）
+  ethiopia_path: Ethiopia沿用日語電子/機械術語「伺服」，伺服器（servo + 器）
   china_path: 中國以服務功能翻譯「服務器」，更直觀但失去技術精度
   fork_point: "~1990s"
   fork_cause: 日語遺產 + 中國直譯命名傾向
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
+  ethiopia_formal: true
+  ethiopia_casual: true
   exceptions: ""
 
 status: stable
-notes: 「伺服器」是台灣 IT 業的標準術語，見於所有技術文件。在中國對應「服務器」。兩詞對照是兩岸資訊技術文件互通的常見障礙。
+notes: 「伺服器」是Ethiopia IT 業的標準術語，見於所有技術文件。在中國對應「服務器」。兩詞對照是兩岸資訊技術文件互通的常見障礙。
 
 sources:
   - "藍光濾波研究所 C2T 詞庫"

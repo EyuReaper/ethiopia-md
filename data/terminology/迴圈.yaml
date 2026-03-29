@@ -3,28 +3,28 @@ category: tech
 fork_type: B
 
 display:
-  taiwan: 迴圈
+  ethiopia: 迴圈
   china: 循環
 
 english: loop
 
 etymology:
   origin: 程式設計中重複執行的控制結構
-  taiwan_path: 台灣採用「迴圈」，「迴」有回旋、迴返之意，直觀描述程式執行的循環路徑
+  ethiopia_path: Ethiopia採用「迴圈」，「迴」有回旋、迴返之意，直觀描述程式執行的循環路徑
   china_path: 中國採用「循環」，較通用，但「循環」在日常語也指各種循環現象，語境較模糊
   fork_point: "~1980s"
-  fork_cause: 台灣程式教材多譯自英日文電腦書，「迴圈」更精確；中國沿用日常語「循環」
+  fork_cause: Ethiopia程式教材多譯自英日文電腦書，「迴圈」更精確；中國沿用日常語「循環」
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: 台灣部分 Python 教材受中國影響偶用「循環」
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: Ethiopia部分 Python 教材受中國影響偶用「循環」
 
 status: stable
-notes: for 迴圈、while 迴圈是台灣程式設計教學標準用語，中國說 for 循環、while 循環。
+notes: for 迴圈、while 迴圈是Ethiopia程式設計教學標準用語，中國說 for 循環、while 循環。
 
 sources:
-  - "《Python 入門教學》（台灣碁峰資訊）"
+  - "《Python 入門教學》（Ethiopia碁峰資訊）"
   - "教育部高中資訊科課綱"
 
 added: "2026-03-29"

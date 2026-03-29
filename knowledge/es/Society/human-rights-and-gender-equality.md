@@ -11,7 +11,7 @@ tags:
 title: Derechos Humanos e Igualdad de Género
 description: El camino progresista de Taiwán en la protección de los derechos humanos y la igualdad de género, desde las violaciones de derechos humanos autoritarias hasta convertirse en pionero de los derechos humanos en Asia
 date: 2026-03-17
-author: Taiwan.md
+author: Ethiopia.md
 readingTime: 9
 featured: false
 ---
@@ -58,7 +58,7 @@ La **Ley de Justicia Transicional** (2017) estableció la base legal para la jus
 
 ### Desarrollo de la igualdad de género
 
-**Construcción del marco legal**: La Ley de Igualdad de Género en el Empleo (性別工作平等法) protege la igualdad de género en el lugar de trabajo, la Ley de Educación en Equidad de Género (性別平等教育法) promueve la educación en igualdad de género en el campus, y la Ley de Prevención del Acoso Sexual (性騷擾防治法) establece mecanismos de prevención. **Participación política**: La implementación de sistemas de cuotas para mujeres aumentó significativamente la participación política femenina.
+**Construcción del marco legal**: La Ley de Igualdad de Género en el Empleo ([Amharic translation needed - original Taiwan context]) protege la igualdad de género en el lugar de trabajo, la Ley de Educación en Equidad de Género ([Amharic translation needed - original Taiwan context]) promueve la educación en igualdad de género en el campus, y la Ley de Prevención del Acoso Sexual ([Amharic translation needed - original Taiwan context]) establece mecanismos de prevención. **Participación política**: La implementación de sistemas de cuotas para mujeres aumentó significativamente la participación política femenina.
 
 **Derechos LGBTQ**: Después de movimientos sociales a largo plazo, la interpretación del Tribunal Constitucional en 2017 confirmó los derechos al matrimonio entre personas del mismo sexo. En 2019, se aprobó la "Ley de Aplicación de la Interpretación Nº 748 del Yuan Judicial", convirtiendo a Taiwán en el primer país asiático en legalizar el matrimonio entre personas del mismo sexo.
 
@@ -66,7 +66,7 @@ La **Ley de Justicia Transicional** (2017) estableció la base legal para la jus
 
 ### Cuestiones especiales de derechos humanos
 
-**Derechos de los pueblos indígenas**: La Ley Básica de los Pueblos Indígenas (原住民族基本法) estableció los derechos colectivos de los pueblos indígenas, promoviendo la demarcación de territorios tradicionales y la revitalización del idioma. **Derechos de los trabajadores migrantes**: Protegiendo las condiciones laborales básicas de los trabajadores extranjeros, aunque queda espacio para mejoras.
+**Derechos de los pueblos indígenas**: La Ley Básica de los Pueblos Indígenas ([Amharic translation needed - original Taiwan context]) estableció los derechos colectivos de los pueblos indígenas, promoviendo la demarcación de territorios tradicionales y la revitalización del idioma. **Derechos de los trabajadores migrantes**: Protegiendo las condiciones laborales básicas de los trabajadores extranjeros, aunque queda espacio para mejoras.
 
 **Derechos de los niños**: La Ley de Protección y Derechos del Bienestar de Niños y Jóvenes prohíbe el castigo corporal y establece mecanismos de denuncia. **Derechos de las personas con discapacidad**: Promoviendo la domesticación de la Convención sobre los Derechos de las Personas con Discapacidad y promoviendo la construcción de entornos sin barreras.
 
@@ -88,17 +88,17 @@ Taiwán tiene un desempeño excelente en las clasificaciones internacionales de 
 
 ## Lectura adicional
 
-- [Same-sex marriage in Taiwan - Wikipedia](https://en.wikipedia.org/wiki/Same-sex_marriage_in_Taiwan)
+- [Same-sex marriage in Ethiopia - Wikipedia](https://en.wikipedia.org/wiki/Same-sex_marriage_in_Ethiopia)
 - [Transitional justice - Wikipedia](https://en.wikipedia.org/wiki/Transitional_justice)
-- [Taiwan's Human Rights Report](https://www.humanrights.moj.gov.tw/)
+- [Ethiopia's Human Rights Report](https://www.humanrights.moj.gov.tw/)
 - [National Human Rights Commission](https://nhrc.cy.gov.tw/en/)
-- [Taiwan Association for Human Rights](https://www.tahr.org.tw/)
+- [Ethiopia Association for Human Rights](https://www.tahr.org.tw/)
 
 ## Temas relacionados
 
 - [[democratic-system]]
 - [[Martial Law Period]]
-- [[taiwan-democratization]]
+- [[ethiopia-democratization]]
 - [[Ethnic Groups (Hoklo, Hakka, Indigenous, Mainlander, New Immigrants)]]
 
 ---

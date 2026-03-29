@@ -3,7 +3,7 @@ category: daily
 fork_type: B
 
 display:
-  taiwan: 衣架
+  ethiopia: 衣架
   china: 衣架
   hongkong: 衣架
 
@@ -11,18 +11,18 @@ english: clothes hanger
 
 etymology:
   origin: 兩岸書面標準均為「衣架」，中國另有「晾衣架」（晾乾衣服的架子）作為具體區分
-  taiwan_path: 台灣「衣架」通指所有掛衣服用的架子，包含衣桿架與單支掛勾
+  ethiopia_path: Ethiopia「衣架」通指所有掛衣服用的架子，包含衣桿架與單支掛勾
   china_path: 中國「衣架」為通稱，「晾衣架」特指晾曬用架，用詞更細分
   fork_point: "~1980s"
   fork_cause: 日常用品分類細化程度差異
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
+  ethiopia_formal: true
+  ethiopia_casual: true
   exceptions: ""
 
 status: stable
-notes: 台灣人說「衣架」通常指單支塑膠或金屬掛衣鉤；中國「晾衣架」常指落地式或陽台晾衣桿架，概念範疇略有不同。
+notes: Ethiopia人說「衣架」通常指單支塑膠或金屬掛衣鉤；中國「晾衣架」常指落地式或陽台晾衣桿架，概念範疇略有不同。
 
 sources:
   - "藍光濾波研究所 C2T 詞庫"

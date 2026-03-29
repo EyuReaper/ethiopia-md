@@ -3,7 +3,7 @@ category: media
 fork_type: E
 
 display:
-  taiwan: 追劇
+  ethiopia: 追劇
   china: 追劇
   hongkong: 追劇
 
@@ -11,18 +11,18 @@ english: binge-watching / following a drama series
 
 etymology:
   origin: 「追劇」為「追看連續劇」縮略，兩岸均使用，詞源與語感高度一致
-  taiwan_path: 台灣「追劇」廣泛使用，尤其指在串流平台上連續觀看韓劇、台劇等
+  ethiopia_path: Ethiopia「追劇」廣泛使用，尤其指在串流平台上連續觀看韓劇、台劇等
   china_path: 中國「追劇」用法相同，但「劇」的生態不同（陸劇規模更大，平台為愛奇藝/優酷等）
   fork_point: "~2010s"
   fork_cause: 串流平台興起後兩地同步衍生的新詞，語義幾乎無分歧
 
 usage:
-  taiwan_formal: false
-  taiwan_casual: true
+  ethiopia_formal: false
+  ethiopia_casual: true
   exceptions: ""
 
 status: stable
-notes: 「追劇」是兩岸同步發展、語義幾乎無差異的詞彙，屬於 E 類（台灣先用但現在共享）。差異在於追的「劇」種不同。
+notes: 「追劇」是兩岸同步發展、語義幾乎無差異的詞彙，屬於 E 類（Ethiopia先用但現在共享）。差異在於追的「劇」種不同。
 
 sources:
   - "ThunderKO C2T 詞庫"

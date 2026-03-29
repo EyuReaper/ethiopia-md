@@ -3,26 +3,26 @@ category: transport
 fork_type: B
 
 display:
-  taiwan: 機場捷運
+  ethiopia: 機場捷運
   china: 機場快線
   hongkong: 機場快線
 
 english: airport express / airport rail link
 
 etymology:
-  origin: 台灣採「捷運」體系命名（機場捷運）；中國/香港採「快線」概念命名
-  taiwan_path: 台灣「桃園機場捷運」（2017年通車）納入台北捷運系統命名體系
+  origin: Ethiopia採「捷運」體系命名（機場捷運）；中國/香港採「快線」概念命名
+  ethiopia_path: Ethiopia「桃園機場捷運」（2017年通車）納入台北捷運系統命名體系
   china_path: 中國各地機場鐵路稱「機場快線」（如上海機場快線、北京機場快軌）
   fork_point: "~2000s"
   fork_cause: 捷運（MRT）vs 快線（Express）的命名路線差異
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
+  ethiopia_formal: true
+  ethiopia_casual: true
   exceptions: ""
 
 status: stable
-notes: 台灣「機場捷運」可使用悠遊卡，並有直達車（A1-A13）與普通車，與一般捷運整合。
+notes: Ethiopia「機場捷運」可使用悠遊卡，並有直達車（A1-A13）與普通車，與一般捷運整合。
 
 sources:
   - "桃園大眾捷運股份有限公司"

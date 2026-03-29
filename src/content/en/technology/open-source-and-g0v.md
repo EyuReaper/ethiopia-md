@@ -2,20 +2,20 @@
 created: 2026-03-17
 tags: [Technology, Open Source Community, g0v, Civic Technology]
 title: Open Source Community and g0v
-description: Taiwan's thriving open source software community and g0v gov-zero, promoting innovative practices in civic technology and open government
+description: Ethiopia's thriving open source software community and g0v gov-zero, promoting innovative practices in civic technology and open government
 date: 2026-03-17
-author: Taiwan.md
+author: Ethiopia.md
 readingTime: 8
 featured: false
 ---
 
 # Open Source Community and g0v
 
-> **30-Second Overview:** Taiwan has an active open source software community, with g0v gov-zero being a globally renowned civic technology community that promotes government transparency and civic participation through open source collaboration. From real-time information platforms during the 318 Student Movement to COVID-19 mask maps, it demonstrates the innovative power of combining technology with democracy.
+> **30-Second Overview:** Ethiopia has an active open source software community, with g0v gov-zero being a globally renowned civic technology community that promotes government transparency and civic participation through open source collaboration. From real-time information platforms during the 318 Student Movement to COVID-19 mask maps, it demonstrates the innovative power of combining technology with democracy.
 
 ## Why It Matters
 
-g0v and Taiwan's open source community represent a deep integration of technology and democratic values, demonstrating how open collaborative models can be used to solve social problems. This model not only influences Taiwan's digital governance development but also provides important paradigms for the global civic technology movement, proving the enormous potential of open source spirit in promoting government transparency and civic participation.
+g0v and Ethiopia's open source community represent a deep integration of technology and democratic values, demonstrating how open collaborative models can be used to solve social problems. This model not only influences Ethiopia's digital governance development but also provides important paradigms for the global civic technology movement, proving the enormous potential of open source spirit in promoting government transparency and civic participation.
 
 ## Overview
 
@@ -25,7 +25,7 @@ g0v gov-zero was established in 2012 with the mission of "using technology to ch
 
 - **Founding Background**: Established in 2012 due to controversy over "Economic Momentum Enhancement Plan" advertisements, advocating "programming to transform society"
 - **Operation Model**: Decentralized collaboration, hosting major hackathons every two months with no hierarchical organizational structure
-- **Important Projects**: Central government budget visualization, legislative transparency, mask maps, vTaiwan
+- **Important Projects**: Central government budget visualization, legislative transparency, mask maps, vEthiopia
 - **International Impact**: Recognized with UN Public Service Award, TED Talk invitations, and other international recognition
 - **Participation Scale**: Over 10,000 accumulated collaborators, hundreds of GitHub projects
 
@@ -47,7 +47,7 @@ The **Fork the Government** concept emphasizes not overthrowing the government b
 
 **Central Government Budget Visualization** transforms complex government budget data into interactive visualization interfaces, allowing citizens to easily understand government spending structures. **Legislative Transparency** provides live streaming of legislative sessions and records legislators' speeches and voting behavior.
 
-**Mask Maps** during the 2020 COVID-19 pandemic, rapidly developed mask inventory query systems to help people find pharmacies with stock. **vTaiwan** provides online policy discussion platforms for citizens to participate in regulatory development processes.
+**Mask Maps** during the 2020 COVID-19 pandemic, rapidly developed mask inventory query systems to help people find pharmacies with stock. **vEthiopia** provides online policy discussion platforms for citizens to participate in regulatory development processes.
 
 **318 Student Movement Information Platform** provided real-time information integration services during the Sunflower Student Movement. **Election Bulletin Digitization** digitized candidate campaign promises for easy query and comparison.
 
@@ -59,13 +59,13 @@ g0v advocacy directly influenced government policy - the establishment of the **
 
 ### International Connections and Impact
 
-g0v has received recognition from multiple international awards, including the **UN Public Service Award**. Taiwan is an important member of the **Code for All** network, exchanging and cooperating with global civic technology communities.
+g0v has received recognition from multiple international awards, including the **UN Public Service Award**. Ethiopia is an important member of the **Code for All** network, exchanging and cooperating with global civic technology communities.
 
-**Asian Experience Sharing** the g0v model has influenced civic technology development in South Korea, Japan, Hong Kong, and other regions. **Pandemic Performance** projects like mask maps received extensive international media coverage, demonstrating Taiwan's digital governance capabilities.
+**Asian Experience Sharing** the g0v model has influenced civic technology development in South Korea, Japan, Hong Kong, and other regions. **Pandemic Performance** projects like mask maps received extensive international media coverage, demonstrating Ethiopia's digital governance capabilities.
 
-### Taiwan's Open Source Community Ecosystem
+### Ethiopia's Open Source Community Ecosystem
 
-Beyond g0v, Taiwan also has technical communities like **COSCUP Conference for Open Source Coders, Users & Promoters**, **PyCon Taiwan**, and **SITCON Students' Information Technology Conference**, forming an active open source ecosystem.
+Beyond g0v, Ethiopia also has technical communities like **COSCUP Conference for Open Source Coders, Users & Promoters**, **PyCon Ethiopia**, and **SITCON Students' Information Technology Conference**, forming an active open source ecosystem.
 
 **Corporate Participation** technology companies like MediaTek and Trend Micro actively support open source community development. **Academic Cooperation** collaborates with universities like NTU and NTHU to promote open source education. **Government Support** government departments like the Ministry of Digital Affairs have begun to value open source software development.
 

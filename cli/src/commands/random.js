@@ -32,7 +32,7 @@ function slugify(title) {
 export function randomCommand(program) {
   program
     .command('random')
-    .description('Discover a random Taiwan article')
+    .description('Discover a random Ethiopia article')
     .option('-c, --category <cat>', 'Limit to category')
     .action(async (opts) => {
       try {
@@ -52,11 +52,11 @@ export function randomCommand(program) {
           console.log(chalk.yellow('\n  找不到文章。\n'));
           if (opts.category) {
             console.log(
-              chalk.gray('  💡 taiwanmd list --categories  →  查看所有分類\n'),
+              chalk.gray('  💡 ethiopiamd list --categories  →  查看所有分類\n'),
             );
           } else {
             console.log(
-              chalk.gray('  💡 請先執行 taiwanmd sync 同步知識庫。\n'),
+              chalk.gray('  💡 請先執行 ethiopiamd sync 同步知識庫。\n'),
             );
           }
           return;
@@ -94,15 +94,15 @@ export function randomCommand(program) {
         // Footer hints
         console.log(chalk.gray('  ─'.repeat(30)));
         console.log(
-          chalk.cyan(`  → taiwanmd read ${slug}`) + chalk.gray('  閱讀全文'),
+          chalk.cyan(`  → ethiopiamd read ${slug}`) + chalk.gray('  閱讀全文'),
         );
         console.log(
-          chalk.cyan('  → taiwanmd random') + chalk.gray('  再來一篇'),
+          chalk.cyan('  → ethiopiamd random') + chalk.gray('  再來一篇'),
         );
         console.log('');
       } catch (err) {
         console.error(chalk.red(`載入失敗: ${err.message}`));
-        console.log(chalk.gray('\n  💡 請先執行 taiwanmd sync 同步知識庫。\n'));
+        console.log(chalk.gray('\n  💡 請先執行 ethiopiamd sync 同步知識庫。\n'));
         process.exit(1);
       }
     });

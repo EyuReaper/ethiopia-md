@@ -1,36 +1,36 @@
-# Stats Pipeline — 每日數據更新流程
+# Stats Pipeline — [Amharic translation needed - original Taiwan context]
 
-> 每天 00:00 (Asia/Taipei) 由 Cron 自動執行
+> [Amharic translation needed - original Taiwan context] 00:00 (Asia/Taipei) [Amharic translation needed - original Taiwan context] Cron [Amharic translation needed - original Taiwan context]
 
 ---
 
-## 流程
+## [Amharic translation needed - original Taiwan context]
 
 ```
-git pull → update-stats.sh → git add (指定檔案) → commit → push
+git pull → update-stats.sh → git add ([Amharic translation needed - original Taiwan context]) → commit → push
 ```
 
-## 執行步驟
+## [Amharic translation needed - original Taiwan context]
 
-### 1. 拉最新
+### 1. [Amharic translation needed - original Taiwan context]
 
 ```bash
-cd ~/taiwan-md && git pull
+cd ~/ethiopia-md && git pull
 ```
 
-### 2. 跑腳本
+### 2. [Amharic translation needed - original Taiwan context]
 
 ```bash
 bash scripts/tools/update-stats.sh
 ```
 
-腳本做的事：
+[Amharic translation needed - original Taiwan context]：
 
-1. 從 GitHub API 抓 stars / forks / contributors 數字
-2. 更新 `README.md` 的統計表格
-3. 更新 `src/i18n/about.ts` 的 About 頁面數字（四捨五入到百位）
-4. **Merge** GitHub 數據到 `public/api/stats.json`（保留既有欄位）
-5. 跑 `generate-content-stats.js` 更新內容統計
+1. [Amharic translation needed - original Taiwan context] GitHub API [Amharic translation needed - original Taiwan context] stars / forks / contributors [Amharic translation needed - original Taiwan context]
+2. [Amharic translation needed - original Taiwan context] `README.md` [Amharic translation needed - original Taiwan context]
+3. [Amharic translation needed - original Taiwan context] `src/i18n/about.ts` [Amharic translation needed - original Taiwan context] About [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
+4. **Merge** GitHub [Amharic translation needed - original Taiwan context] `public/api/stats.json`（[Amharic translation needed - original Taiwan context]）
+5. [Amharic translation needed - original Taiwan context] `generate-content-stats.js` [Amharic translation needed - original Taiwan context]
 
 ### 3. Commit + Push
 
@@ -41,48 +41,48 @@ git diff --cached --quiet || (git commit -m "chore: daily stats update" && git p
 
 ---
 
-## ⚠️ 鐵律
+## ⚠️ [Amharic translation needed - original Taiwan context]
 
-### 絕對不要 `git add -A`
+### [Amharic translation needed - original Taiwan context] `git add -A`
 
-只 add 上面 4 個檔案。`git add -A` 會把其他人正在改的東西一起 commit。
+[Amharic translation needed - original Taiwan context] add [Amharic translation needed - original Taiwan context] 4 [Amharic translation needed - original Taiwan context]。`git add -A` [Amharic translation needed - original Taiwan context] commit。
 
-### 絕對不要動 `about.template.astro`
+### [Amharic translation needed - original Taiwan context] `about.template.astro`
 
-Contributors grid 由另一個 Cron（Taiwan.md Contributors Update）管理。Stats cron 動到 about.template.astro = 破壞 Sponsors + Contact section。**已經發生過 3 次。**
+Contributors grid [Amharic translation needed - original Taiwan context] Cron（Ethiopia.md Contributors Update）[Amharic translation needed - original Taiwan context]。Stats cron [Amharic translation needed - original Taiwan context] about.template.astro = [Amharic translation needed - original Taiwan context] Sponsors + Contact section。**[Amharic translation needed - original Taiwan context] 3 [Amharic translation needed - original Taiwan context]。**
 
-### `stats.json` 是 merge 不是 overwrite
+### `stats.json` [Amharic translation needed - original Taiwan context] merge [Amharic translation needed - original Taiwan context] overwrite
 
-`public/api/stats.json` 由兩個來源共同維護：
+`public/api/stats.json` [Amharic translation needed - original Taiwan context]：
 
-- `generate-content-stats.js`：categories、tags、subcategories 等豐富內容（主要來源）
-- `update-stats.sh`：stars、forks、contributors（GitHub API 即時數據）
+- `generate-content-stats.js`：categories、tags、subcategories [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
+- `update-stats.sh`：stars、forks、contributors（GitHub API [Amharic translation needed - original Taiwan context]）
 
-腳本只更新 GitHub 欄位，**保留其他所有既有欄位**。如果整個覆寫 = Dashboard 資料全丟。
+[Amharic translation needed - original Taiwan context] GitHub [Amharic translation needed - original Taiwan context]，**[Amharic translation needed - original Taiwan context]**。[Amharic translation needed - original Taiwan context] = Dashboard [Amharic translation needed - original Taiwan context]。
 
-### `cd` 路徑
+### `cd` [Amharic translation needed - original Taiwan context]
 
-腳本在 `scripts/tools/`，用 `cd "$(dirname "$0")/../.."` 回到 repo root。不是 `..`（那只到 `scripts/`）。
+[Amharic translation needed - original Taiwan context] `scripts/tools/`，[Amharic translation needed - original Taiwan context] `cd "$(dirname "$0")/../.."` [Amharic translation needed - original Taiwan context] repo root。[Amharic translation needed - original Taiwan context] `..`（[Amharic translation needed - original Taiwan context] `scripts/`）。
 
 ---
 
-## 相關檔案
+## [Amharic translation needed - original Taiwan context]
 
-| 檔案                                      | 用途                                       |
+| [Amharic translation needed - original Taiwan context]                                      | [Amharic translation needed - original Taiwan context]                                       |
 | ----------------------------------------- | ------------------------------------------ |
-| `scripts/tools/update-stats.sh`           | 主腳本                                     |
-| `scripts/tools/generate-content-stats.js` | 內容統計（categories/tags）                |
-| `public/api/stats.json`                   | 統一 stats API（Dashboard + About 頁共用） |
-| `src/i18n/about.ts`                       | About 頁面顯示數字                         |
-| `src/data/content-stats.json`             | Build-time 內容統計                        |
+| `scripts/tools/update-stats.sh`           | [Amharic translation needed - original Taiwan context]                                     |
+| `scripts/tools/generate-content-stats.js` | [Amharic translation needed - original Taiwan context]（categories/tags）                |
+| `public/api/stats.json`                   | [Amharic translation needed - original Taiwan context] stats API（Dashboard + About [Amharic translation needed - original Taiwan context]） |
+| `src/i18n/about.ts`                       | About [Amharic translation needed - original Taiwan context]                         |
+| `src/data/content-stats.json`             | Build-time [Amharic translation needed - original Taiwan context]                        |
 
-## 相關 Cron
+## [Amharic translation needed - original Taiwan context] Cron
 
-| Cron                          | 時間  | 職責                                |
+| Cron                          | [Amharic translation needed - original Taiwan context]  | [Amharic translation needed - original Taiwan context]                                |
 | ----------------------------- | ----- | ----------------------------------- |
-| Taiwan.md Daily Stats Update  | 00:00 | 本 pipeline                         |
-| Taiwan.md Contributors Update | 03:30 | 更新 contributor 名單 + README 表格 |
+| Ethiopia.md Daily Stats Update  | 00:00 | [Amharic translation needed - original Taiwan context] pipeline                         |
+| Ethiopia.md Contributors Update | 03:30 | [Amharic translation needed - original Taiwan context] contributor [Amharic translation needed - original Taiwan context] + README [Amharic translation needed - original Taiwan context] |
 
 ---
 
-_版本：v1.0 | 2026-03-29_
+_[Amharic translation needed - original Taiwan context]：v1.0 | 2026-03-29_

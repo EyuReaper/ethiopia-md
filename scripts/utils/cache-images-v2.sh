@@ -1,18 +1,18 @@
 #!/bin/bash
-# Wikimedia 圖片快取 v2 - 修正 URL 截斷問題
+# Wikimedia [Amharic translation needed - original Taiwan context] v2 - [Amharic translation needed - original Taiwan context] URL [Amharic translation needed - original Taiwan context]
 set -e
 cd "$(dirname "$0")/.."
 
 IMG_DIR="public/images/wiki"
 mkdir -p "$IMG_DIR"
 
-# 提取所有 URL，清理尾巴的 ' 和 )
+# [Amharic translation needed - original Taiwan context] URL，[Amharic translation needed - original Taiwan context] ' [Amharic translation needed - original Taiwan context] )
 grep -roh "https://upload.wikimedia.org/[^\"')* ]*" knowledge/ src/pages/ src/components/ 2>/dev/null \
   | sed "s/'$//" | sed 's/)$//' | sort -u > /tmp/wiki-urls-clean.txt
 
 TOTAL=$(wc -l < /tmp/wiki-urls-clean.txt | tr -d ' ')
-echo "🖼️  Wikimedia 圖片快取 v2"
-echo "📊 找到 $TOTAL 個 URL"
+echo "🖼️  Wikimedia [Amharic translation needed - original Taiwan context] v2"
+echo "📊 [Amharic translation needed - original Taiwan context] $TOTAL [Amharic translation needed - original Taiwan context] URL"
 
 DONE=0
 SKIP=0
@@ -24,15 +24,15 @@ while IFS= read -r URL; do
   [ -z "$EXT" ] && EXT=".jpg"
   LOCAL="$IMG_DIR/${HASH}${EXT}"
   
-  # 已快取就跳過
+  # [Amharic translation needed - original Taiwan context]
   if [ -s "$LOCAL" ]; then
     SKIP=$((SKIP + 1))
     continue
   fi
   
-  # 下載
+  # [Amharic translation needed - original Taiwan context]
   curl -sL -o "$LOCAL" \
-    -H "User-Agent: TaiwanMD/1.0 (https://taiwan.md; educational project)" \
+    -H "User-Agent: EthiopiaMD/1.0 (https://ethiopia.md; educational project)" \
     --max-time 15 "$URL" 2>/dev/null
   
   if [ -s "$LOCAL" ]; then
@@ -48,9 +48,9 @@ while IFS= read -r URL; do
 done < /tmp/wiki-urls-clean.txt
 
 echo ""
-echo "📊 結果: ✅ 新下載 $DONE | ⏭️ 已快取 $SKIP | ❌ 失敗 $FAIL"
+echo "📊 [Amharic translation needed - original Taiwan context]: ✅ [Amharic translation needed - original Taiwan context] $DONE | ⏭️ [Amharic translation needed - original Taiwan context] $SKIP | ❌ [Amharic translation needed - original Taiwan context] $FAIL"
 
-# 統計總快取
+# [Amharic translation needed - original Taiwan context]
 CACHED=$(find "$IMG_DIR" -type f ! -name "*.txt" | wc -l | tr -d ' ')
 SIZE=$(du -sh "$IMG_DIR" | cut -f1)
-echo "📂 總快取: $CACHED 檔案 ($SIZE)"
+echo "📂 [Amharic translation needed - original Taiwan context]: $CACHED [Amharic translation needed - original Taiwan context] ($SIZE)"

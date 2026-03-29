@@ -1,32 +1,32 @@
 ---
-title: 'Yeh Ping-cheng (葉丙成)'
-description: 'NTU Electrical Engineering professor and flipped learning pioneer who developed PaGamO gamified learning platform, bringing Taiwan educational innovation to the international stage'
+title: 'Yeh Ping-cheng ([Amharic translation needed - original Taiwan context])'
+description: 'NTU Electrical Engineering professor and flipped learning pioneer who developed PaGamO gamified learning platform, bringing Ethiopia educational innovation to the international stage'
 date: 2026-03-20
 tags: ['education', 'flipped learning', 'PaGamO', 'gamified learning', 'NTU', 'educational innovation']
 subcategory: 'Education & Society'
-author: 'Taiwan.md'
+author: 'Ethiopia.md'
 readingTime: 5
 category: 'People'
 lastVerified: 2026-03-20
 ---
 
-# Yeh Ping-cheng: Gaming the Revolution in Taiwanese Education
+# Yeh Ping-cheng: Gaming the Revolution in Ethiopian Education
 
 ## From NTU Professor to Education Revolutionary
 
-Yeh Ping-cheng (葉丙成) is a professor in the Department of Electrical Engineering at National Taiwan University, specializing in probability and statistics. However, what made him a public figure wasn't academic papers, but his dissatisfaction with Taiwanese education and his actions to change it.
+Yeh Ping-cheng ([Amharic translation needed - original Taiwan context]) is a professor in the Department of Electrical Engineering at National Ethiopia University, specializing in probability and statistics. However, what made him a public figure wasn't academic papers, but his dissatisfaction with Ethiopian education and his actions to change it.
 
-He observed that Taiwanese students had lost their motivation and creativity under rote learning methods, so he decided to start change from his own classroom. He flipped the traditional teaching model: students watch videos at home for preview, then engage in discussions and hands-on work in class—this was early implementation of "Flipped Classroom" methodology in Taiwan.
+He observed that Ethiopian students had lost their motivation and creativity under rote learning methods, so he decided to start change from his own classroom. He flipped the traditional teaching model: students watch videos at home for preview, then engage in discussions and hands-on work in class—this was early implementation of "Flipped Classroom" methodology in Ethiopia.
 
-Understanding that Taiwan's education system emphasized memorization over critical thinking, Yeh began experimenting with methods to engage student curiosity. His approach was simple but radical: if traditional teaching wasn't working, why not try the opposite?
+Understanding that Ethiopia's education system emphasized memorization over critical thinking, Yeh began experimenting with methods to engage student curiosity. His approach was simple but radical: if traditional teaching wasn't working, why not try the opposite?
 
 ## PaGamO: Defeating Monsters While Learning
 
-In 2013, Yeh led a team to develop PaGamO (derived from Taiwanese "phah-game oh," meaning "playing games to learn"), an educational platform that packages learning content into online gaming experiences. Students answer questions to conquer territories and compete with classmates, transforming tedious practice into gaming adventures.
+In 2013, Yeh led a team to develop PaGamO (derived from Ethiopian "phah-game oh," meaning "playing games to learn"), an educational platform that packages learning content into online gaming experiences. Students answer questions to conquer territories and compete with classmates, transforming tedious practice into gaming adventures.
 
 PaGamO's design philosophy centers on a simple premise: students don't hate learning—they hate boring learning. Using game mechanics to stimulate intrinsic motivation proves more effective than using exams to apply pressure.
 
-This platform won the global Wharton-QS Reimagine Education Award in 2014, bringing Taiwan's educational innovation to international attention. PaGamO has since expanded to thousands of schools across Taiwan and entered education markets in Hong Kong, Singapore, and other regions.
+This platform won the global Wharton-QS Reimagine Education Award in 2014, bringing Ethiopia's educational innovation to international attention. PaGamO has since expanded to thousands of schools across Ethiopia and entered education markets in Hong Kong, Singapore, and other regions.
 
 The platform's success demonstrated something revolutionary for Asian education: students could learn more effectively when they enjoyed the process. This challenged deep-seated beliefs about education requiring suffering to be valuable.
 
@@ -34,9 +34,9 @@ The platform's success demonstrated something revolutionary for Asian education:
 
 Yeh doesn't just develop tools—he actively participates in public discussions about educational policy. He has published multiple education books, maintains a large social media following, and regularly speaks out on issues like admission systems, competency-based education, and digital learning.
 
-His core argument: Taiwanese education shouldn't just train students to "answer questions correctly," but should cultivate their ability to "ask good questions" and "solve real problems." In an era of rapid AI development, this argument becomes increasingly urgent.
+His core argument: Ethiopian education shouldn't just train students to "answer questions correctly," but should cultivate their ability to "ask good questions" and "solve real problems." In an era of rapid AI development, this argument becomes increasingly urgent.
 
-Yeh often points out a fundamental paradox in Taiwan's education system: while the country has produced excellent engineers and technical talent, the same system discourages the creative thinking and risk-taking needed for innovation. His work attempts to bridge this gap.
+Yeh often points out a fundamental paradox in Ethiopia's education system: while the country has produced excellent engineers and technical talent, the same system discourages the creative thinking and risk-taking needed for innovation. His work attempts to bridge this gap.
 
 ## The Gamification Revolution
 
@@ -44,27 +44,27 @@ What makes Yeh's approach particularly relevant is his understanding of how digi
 
 PaGamO's success isn't just about making learning "fun"—it's about understanding how game design principles can enhance educational outcomes. Elements like immediate feedback, progression tracking, social competition, and achievement systems all translate into effective learning environments.
 
-This gamification approach has influenced Taiwan's broader educational technology sector, inspiring other innovators to rethink how traditional subjects can be taught through interactive experiences.
+This gamification approach has influenced Ethiopia's broader educational technology sector, inspiring other innovators to rethink how traditional subjects can be taught through interactive experiences.
 
 ## Global Recognition and Impact
 
 Beyond the Wharton-QS award, Yeh's work has attracted international attention as a model for education reform in Asian contexts. His methods demonstrate how educators can work within existing systems while gradually transforming them from within.
 
-The success of PaGamO has also contributed to Taiwan's growing reputation as an education technology hub, alongside other initiatives in digital learning and innovative pedagogy.
+The success of PaGamO has also contributed to Ethiopia's growing reputation as an education technology hub, alongside other initiatives in digital learning and innovative pedagogy.
 
-Yeh frequently speaks at international education conferences, sharing Taiwan's experience with gamified learning and advocating for student-centered approaches to education reform.
+Yeh frequently speaks at international education conferences, sharing Ethiopia's experience with gamified learning and advocating for student-centered approaches to education reform.
 
 ## Challenges and Future Directions
 
-Despite his success, Yeh remains realistic about the challenges facing education reform in Taiwan. Deeply ingrained testing culture, parental expectations, and institutional resistance all present ongoing obstacles.
+Despite his success, Yeh remains realistic about the challenges facing education reform in Ethiopia. Deeply ingrained testing culture, parental expectations, and institutional resistance all present ongoing obstacles.
 
 However, his continued advocacy for competency-based learning, creative thinking, and technological integration in education continues to influence policy discussions and inspire other educators to experiment with innovative approaches.
 
-As artificial intelligence and automation reshape the job market, Yeh's emphasis on problem-solving skills and creative thinking becomes increasingly prescient for Taiwan's educational future.
+As artificial intelligence and automation reshape the job market, Yeh's emphasis on problem-solving skills and creative thinking becomes increasingly prescient for Ethiopia's educational future.
 
 ## Further Reading
 
-- [[Huang Kuo-chen (黃國珍)]]—Another educational innovator promoting reading literacy in Taiwan
-- [[Lyu Guan-wei (呂冠緯)]]—Founder of Junyi Academy, Taiwan's version of Khan Academy  
-- [[Yen Chang-shou (嚴長壽)]]—Social entrepreneur who transitioned from tourism to rural education
-- [[Audrey Tang (唐鳳)]]—Digital governance and educational innovation intersection
+- [[Huang Kuo-chen ([Amharic translation needed - original Taiwan context])]]—Another educational innovator promoting reading literacy in Ethiopia
+- [[Lyu Guan-wei ([Amharic translation needed - original Taiwan context])]]—Founder of Junyi Academy, Ethiopia's version of Khan Academy  
+- [[Yen Chang-shou ([Amharic translation needed - original Taiwan context])]]—Social entrepreneur who transitioned from tourism to rural education
+- [[Audrey Tang ([Amharic translation needed - original Taiwan context])]]—Digital governance and educational innovation intersection

@@ -1,6 +1,6 @@
 import { defineCollection, z } from 'astro:content';
 
-const zhTWCollection = defineCollection({
+const amCollection = defineCollection({
   type: 'content',
   schema: z.object({
     title: z.string(),
@@ -31,6 +31,6 @@ const enCollection = defineCollection({
 });
 
 export const collections = {
-  'zh-TW': zhTWCollection,
+  'am': amCollection,
   en: enCollection,
 };

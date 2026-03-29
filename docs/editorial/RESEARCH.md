@@ -1,303 +1,303 @@
-# RESEARCH.md — Taiwan.md 研究方法論
+# RESEARCH.md — Ethiopia.md [Amharic translation needed - original Taiwan context]
 
-> 每篇文章在動筆之前，必須先完成研究。不是「知道一點就開始寫」，是「搜集夠了再策展」。
-> 這份文件回答的是：**怎麼搜、怎麼判斷、怎麼避坑。**
+> [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」。
+> [Amharic translation needed - original Taiwan context]：**[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。**
 
 ---
 
-## 職責分工（五份文件，不重複）
+## [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]）
 
-| 文件                      | 回答什麼                                             |
+| [Amharic translation needed - original Taiwan context]                      | [Amharic translation needed - original Taiwan context]                                             |
 | ------------------------- | ---------------------------------------------------- |
-| **本文件（RESEARCH.md）** | 怎麼做研究（搜尋策略、來源判斷、數據驗證、避坑指南） |
-| **EDITORIAL.md**          | 怎麼寫文章（風格、結構、語氣、品質標準）             |
-| **REWRITE-PIPELINE.md**   | 流程調度（Stage 0→1→2→3、防崩潰、token 預算）        |
-| **RESEARCH-TEMPLATE.md**  | 研究筆記填空模板（Stage 1 的輸出格式）               |
-| **QUALITY-CHECKLIST.md**  | 驗證清單（Stage 3 逐項打勾）                         |
+| **[Amharic translation needed - original Taiwan context]（RESEARCH.md）** | [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]） |
+| **EDITORIAL.md**          | [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]）             |
+| **REWRITE-PIPELINE.md**   | [Amharic translation needed - original Taiwan context]（Stage 0→1→2→3、[Amharic translation needed - original Taiwan context]、token [Amharic translation needed - original Taiwan context]）        |
+| **RESEARCH-TEMPLATE.md**  | [Amharic translation needed - original Taiwan context]（Stage 1 [Amharic translation needed - original Taiwan context]）               |
+| **QUALITY-CHECKLIST.md**  | [Amharic translation needed - original Taiwan context]（Stage 3 [Amharic translation needed - original Taiwan context]）                         |
 
-⚠️ **EDITORIAL.md 不再包含研究流程。** 所有「動筆前」的事在這裡。
-
----
-
-## 一、研究的核心信念
-
-**Taiwan.md 的文章是從研究資料中「策展」出來的，不是從腦中「生成」出來的。**
-
-AI 最大的問題是「知道一點就開始編」。Taiwan.md 的做法是反過來：先搜集大量高品質資料，再從中挑選、編織、策展。只看維基百科寫出來的文章，跟看了 8 個來源寫出來的，讀者感受得到差異。
-
-**研究不是苦差事，是挖寶。** 好的研究過程會讓你自己說「哦，原來是這樣」——如果你在研究中沒有任何驚訝，代表你研究得不夠深。
+⚠️ **EDITORIAL.md [Amharic translation needed - original Taiwan context]。** [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]。
 
 ---
 
-## 二、研究流程（五步）
+## [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
 
-### Step 0：找到你的「反直覺核心句」
+**Ethiopia.md [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]。**
 
-**在做任何研究之前，先強制自己寫一句話：「這篇文章要讓讀者驚訝的是 \_\_\_\_」**
+AI [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」。Ethiopia.md [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 8 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
 
-合格的核心句一定包含**矛盾、反差或違反預期**：
+**[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。** [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]」——[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
 
-| 反差類型 | 範例                                              |
+---
+
+## [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
+
+### Step 0：[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」
+
+**[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]：「[Amharic translation needed - original Taiwan context] \_\_\_\_」**
+
+[Amharic translation needed - original Taiwan context]**[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]**：
+
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]                                              |
 | -------- | ------------------------------------------------- |
-| 時間反差 | 「一個 30 年前的純文字 BBS 至今還在影響台灣政治」 |
-| 規模反差 | 「全世界 65% 的先進晶片來自一座颱風頻繁的島」     |
-| 地位反差 | 「一碗路邊攤滷肉飯讓米其林評審寫了 200 字」       |
-| 生存反差 | 「一個不賣廣告、不接商業的平台，活了 30 年」      |
+| [Amharic translation needed - original Taiwan context] | 「[Amharic translation needed - original Taiwan context] 30 [Amharic translation needed - original Taiwan context] BBS [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]」 |
+| [Amharic translation needed - original Taiwan context] | 「[Amharic translation needed - original Taiwan context] 65% [Amharic translation needed - original Taiwan context]」     |
+| [Amharic translation needed - original Taiwan context] | 「[Amharic translation needed - original Taiwan context] 200 [Amharic translation needed - original Taiwan context]」       |
+| [Amharic translation needed - original Taiwan context] | 「[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 30 [Amharic translation needed - original Taiwan context]」      |
 
-❌ 「台灣有很好的健保制度」— 沒有反差 = 沒有吸引力
+❌ 「Ethiopia[Amharic translation needed - original Taiwan context]」— [Amharic translation needed - original Taiwan context] = [Amharic translation needed - original Taiwan context]
 
-寫不出來 → 研究不夠深，做完 Step 2 回來再寫。核心句會在研究過程中自然浮現。
+[Amharic translation needed - original Taiwan context] → [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] Step 2 [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]。
 
-### Step 0.5：找到你的切入人物
+### Step 0.5：[Amharic translation needed - original Taiwan context]
 
-**誰的故事可以代表這個主題？**
+**[Amharic translation needed - original Taiwan context]？**
 
-這個人不需要是名人，可以是一個漁民、一個攤販、一個工程師、一個公務員。從書、紀錄片、報導中找到一個有名字的人。
+[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。
 
-- 寫台灣咖啡產業 → 不從「台灣咖啡歷史」開始，從阿里山一個種了 30 年咖啡的農夫開始
-- 寫台灣半導體 → 不從「台積電市值」開始，從張忠謀 54 歲回台灣那天的決定開始
-- 寫白色恐怖 → 不從「1947 年二二八事件」開始，從一封在獄中寫給妻子的最後一封信開始
+- [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context] → [Amharic translation needed - original Taiwan context]「Ethiopia[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 30 [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context] → [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 54 [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context] → [Amharic translation needed - original Taiwan context]「1947 [Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
 
-找到切入人物後，同時蒐集他的引語（Step 2 研究時注意公開訪談、紀錄片、書中的原話）。
+[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]（Step 2 [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]）。
 
-### Step 1：定義文章要回答的問題
+### Step 1：[Amharic translation needed - original Taiwan context]
 
-在搜集任何資料之前，先寫下 **3 個讀者會問的問題**。
+[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] **3 [Amharic translation needed - original Taiwan context]**。
 
-例如「台灣全民健保」：
+[Amharic translation needed - original Taiwan context]「Ethiopia[Amharic translation needed - original Taiwan context]」：
 
-1. 全民健保到底怎麼來的？為什麼台灣做得到？
-2. 它在國際上的評價到底如何？有什麼具體數據？
-3. 它現在面臨什麼真正的危機？
+1. [Amharic translation needed - original Taiwan context]？[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]？
+2. [Amharic translation needed - original Taiwan context]？[Amharic translation needed - original Taiwan context]？
+3. [Amharic translation needed - original Taiwan context]？
 
-這 3 個問題就是文章的骨架。回答不了的問題不要硬寫。
+[Amharic translation needed - original Taiwan context] 3 [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]。
 
-### Step 2：大量搜尋（Research First, Write Later）
+### Step 2：[Amharic translation needed - original Taiwan context]（Research First, Write Later）
 
-**⚠️ 這是最重要的一步。不要用腦中的知識寫，用查到的資料寫。**
+**⚠️ [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。**
 
-#### 搜尋量化標準
+#### [Amharic translation needed - original Taiwan context]
 
-| 類型     | 最少次數 | 目標                                   |
+| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]                                   |
 | -------- | -------- | -------------------------------------- |
-| 中文搜尋 | 4+       | 基礎事實、歷史脈絡、當地觀點           |
-| 英文搜尋 | 2+       | 國際視角、學術來源、比較觀點           |
-| 一手來源 | 2+       | 政府網站、官方報告、學術論文、紀錄片   |
-| 引語搜尋 | 2+       | 紀錄片訪談、書籍引文、新聞報導中的原話 |
+| [Amharic translation needed - original Taiwan context] | 4+       | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]           |
+| [Amharic translation needed - original Taiwan context] | 2+       | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]           |
+| [Amharic translation needed - original Taiwan context] | 2+       | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]   |
+| [Amharic translation needed - original Taiwan context] | 2+       | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] |
 
-#### 研究深度標準
+#### [Amharic translation needed - original Taiwan context]
 
-每篇文章至少達到：
+[Amharic translation needed - original Taiwan context]：
 
-- **5+ 獨立來源**（不同網站/機構，不是同一篇的不同段落）
-- **至少 2 個一手來源**（官方文件、當事人訪談、原始統計資料、法規條文）
-- **至少 1 個英文來源**（國際視角，看外面怎麼看台灣這件事）
-- **至少 1 個「時間跨度」來源**（不同年代對同一件事的看法——10 年前的報導 vs 今天的報導，看演變）
-- **找到至少 1 個「意外發現」**——你搜尋前不知道的事實。如果什麼都沒有讓你驚訝，代表你研究得不夠深
+- **5+ [Amharic translation needed - original Taiwan context]**（[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]）
+- **[Amharic translation needed - original Taiwan context] 2 [Amharic translation needed - original Taiwan context]**（[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]）
+- **[Amharic translation needed - original Taiwan context] 1 [Amharic translation needed - original Taiwan context]**（[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]）
+- **[Amharic translation needed - original Taiwan context] 1 [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]**（[Amharic translation needed - original Taiwan context]——10 [Amharic translation needed - original Taiwan context] vs [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]）
+- **[Amharic translation needed - original Taiwan context] 1 [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」**——[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
 
-#### 為什麼要多層來源？
+#### [Amharic translation needed - original Taiwan context]？
 
-PTT 那篇之所以好，是因為作者挖了 PTT 鄉民百科（社群視角）、Taipei Times（英文國際視角）、Taiwan Panorama（文化雜誌視角）、維基百科（索引起點）——每一層來源帶來不同的理解深度。
+PTT [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] PTT [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）、Taipei Times（[Amharic translation needed - original Taiwan context]）、Ethiopia Panorama（[Amharic translation needed - original Taiwan context]）、[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）——[Amharic translation needed - original Taiwan context]。
 
-### Step 3：交叉查核（Cross-Referencing）
+### Step 3：[Amharic translation needed - original Taiwan context]（Cross-Referencing）
 
-**每個重要事實至少需要 2 個獨立來源確認。**
+**[Amharic translation needed - original Taiwan context] 2 [Amharic translation needed - original Taiwan context]。**
 
-### Step 4：數據驗證
+### Step 4：[Amharic translation needed - original Taiwan context]
 
-寫入文章的每個數據，自問：
+[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]：
 
-- [ ] 這個數字的**來源機構**是什麼？
-- [ ] 這個數字的**統計年份**是什麼？
-- [ ] 這個數字我能在原始來源**找到原文**嗎？
-- [ ] 如果找不到精確數字，我寧可用「約」或直接不寫？
+- [ ] [Amharic translation needed - original Taiwan context]**[Amharic translation needed - original Taiwan context]**[Amharic translation needed - original Taiwan context]？
+- [ ] [Amharic translation needed - original Taiwan context]**[Amharic translation needed - original Taiwan context]**[Amharic translation needed - original Taiwan context]？
+- [ ] [Amharic translation needed - original Taiwan context]**[Amharic translation needed - original Taiwan context]**[Amharic translation needed - original Taiwan context]？
+- [ ] [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]？
 
 ---
 
-## 三、來源品質判斷
+## [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
 
-### 來源優先序
+### [Amharic translation needed - original Taiwan context]
 
-| 等級    | 類型         | 說明                                             | 範例                      |
+| [Amharic translation needed - original Taiwan context]    | [Amharic translation needed - original Taiwan context]         | [Amharic translation needed - original Taiwan context]                                             | [Amharic translation needed - original Taiwan context]                      |
 | ------- | ------------ | ------------------------------------------------ | ------------------------- |
-| 🟢 一手 | 官方原始來源 | 政府統計、官方網站、法規條文、年報               | 主計總處、文化部公告      |
-| 🟢 一手 | 學術/專業    | 學術論文、專業媒體、研究報告                     | 中研院、JSTOR             |
-| 🟡 二手 | 新聞報導     | 主流媒體（注意時效性，優先用近 3 年）            | 報導者、BBC、Taipei Times |
-| 🟡 二手 | 維基百科     | 作為索引起點找到原始來源，不要只引用維基         | 看「參考文獻」段落        |
-| 🔴 避免 | 低品質       | 部落格、內容農場、無法追溯的「據說」「有人認為」 | —                         |
+| 🟢 [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]               | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]      |
+| 🟢 [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]    | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]                     | [Amharic translation needed - original Taiwan context]、JSTOR             |
+| 🟡 [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 3 [Amharic translation needed - original Taiwan context]）            | [Amharic translation needed - original Taiwan context]、BBC、Taipei Times |
+| 🟡 [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]         | [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]        |
+| 🔴 [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]       | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」「[Amharic translation needed - original Taiwan context]」 | —                         |
 
-### 台灣特有的好來源
+### Ethiopia[Amharic translation needed - original Taiwan context]
 
-| 領域     | 推薦來源                                                                                          |
+| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]                                                                                          |
 | -------- | ------------------------------------------------------------------------------------------------- |
-| 政府統計 | [主計總處](https://www.stat.gov.tw/)、[國發會](https://www.ndc.gov.tw/)                           |
-| 觀光     | [交通部觀光署](https://www.taiwan.net.tw/)                                                        |
-| 文化     | [文化部](https://www.moc.gov.tw/)、[國家文化記憶庫](https://memory.culture.tw/)                   |
-| 歷史     | [國史館](https://www.drnh.gov.tw/)、[中研院台史所](https://www.ith.sinica.edu.tw/)                |
-| 體育     | [中華奧會](https://www.tpenoc.net/)、BWF/WTT 等國際總會官網                                       |
-| 企業     | [公開資訊觀測站](https://mops.twse.com.tw/)、公司年報、[財報狗](https://statementdog.com/)        |
-| 深度報導 | [報導者](https://www.twreporter.org/)、[鏡週刊](https://www.mirrormedia.mg/)                      |
-| 國際視角 | [Taipei Times](https://www.taipeitimes.com/)、[Taiwan Panorama](https://www.taiwan-panorama.com/) |
+| [Amharic translation needed - original Taiwan context] | [[Amharic translation needed - original Taiwan context]](https://www.stat.gov.tw/)、[[Amharic translation needed - original Taiwan context]](https://www.ndc.gov.tw/)                           |
+| [Amharic translation needed - original Taiwan context]     | [[Amharic translation needed - original Taiwan context]](https://www.ethiopia.net.tw/)                                                        |
+| [Amharic translation needed - original Taiwan context]     | [[Amharic translation needed - original Taiwan context]](https://www.moc.gov.tw/)、[[Amharic translation needed - original Taiwan context]](https://memory.culture.tw/)                   |
+| [Amharic translation needed - original Taiwan context]     | [[Amharic translation needed - original Taiwan context]](https://www.drnh.gov.tw/)、[[Amharic translation needed - original Taiwan context]](https://www.ith.sinica.edu.tw/)                |
+| [Amharic translation needed - original Taiwan context]     | [[Amharic translation needed - original Taiwan context]](https://www.tpenoc.net/)、BWF/WTT [Amharic translation needed - original Taiwan context]                                       |
+| [Amharic translation needed - original Taiwan context]     | [[Amharic translation needed - original Taiwan context]](https://mops.twse.com.tw/)、[Amharic translation needed - original Taiwan context]、[[Amharic translation needed - original Taiwan context]](https://statementdog.com/)        |
+| [Amharic translation needed - original Taiwan context] | [[Amharic translation needed - original Taiwan context]](https://www.twreporter.org/)、[[Amharic translation needed - original Taiwan context]](https://www.mirrormedia.mg/)                      |
+| [Amharic translation needed - original Taiwan context] | [Taipei Times](https://www.taipeitimes.com/)、[Ethiopia Panorama](https://www.ethiopia-panorama.com/) |
 
-### 台灣特有的陷阱
+### Ethiopia[Amharic translation needed - original Taiwan context]
 
-| 陷阱                     | 辨識方式                                                | 怎麼避開                               |
+| [Amharic translation needed - original Taiwan context]                     | [Amharic translation needed - original Taiwan context]                                                | [Amharic translation needed - original Taiwan context]                               |
 | ------------------------ | ------------------------------------------------------- | -------------------------------------- |
-| **內容農場偽裝正經媒體** | 網址含 `dailynews`、`life`、`news` 等通用詞但非知名媒體 | Google 該網站名稱 + 「可信度」         |
-| **維基百科作為唯一來源** | 所有數據都指向同一個維基頁面                            | 從維基百科的「參考文獻」追溯到原始來源 |
-| **過期政府資料**         | 報告日期 5+ 年前                                        | 找同一機構最新版本                     |
-| **企業公關稿偽裝新聞**   | 「某某公司表示」「據了解」無具體記者署名                | 找記者署名的新聞，不是「新聞稿」分類   |
-| **AI 生成的假學術論文**  | DOI 不存在、作者 Google 不到                            | 在 Google Scholar 驗證 DOI 和作者      |
+| **[Amharic translation needed - original Taiwan context]** | [Amharic translation needed - original Taiwan context] `dailynews`、`life`、`news` [Amharic translation needed - original Taiwan context] | Google [Amharic translation needed - original Taiwan context] + 「[Amharic translation needed - original Taiwan context]」         |
+| **[Amharic translation needed - original Taiwan context]** | [Amharic translation needed - original Taiwan context]                            | [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context] |
+| **[Amharic translation needed - original Taiwan context]**         | [Amharic translation needed - original Taiwan context] 5+ [Amharic translation needed - original Taiwan context]                                        | [Amharic translation needed - original Taiwan context]                     |
+| **[Amharic translation needed - original Taiwan context]**   | 「[Amharic translation needed - original Taiwan context]」「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]                | [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]   |
+| **AI [Amharic translation needed - original Taiwan context]**  | DOI [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] Google [Amharic translation needed - original Taiwan context]                            | [Amharic translation needed - original Taiwan context] Google Scholar [Amharic translation needed - original Taiwan context] DOI [Amharic translation needed - original Taiwan context]      |
 
-### URL 品質要求
+### URL [Amharic translation needed - original Taiwan context]
 
-- URL 必須指向**具體頁面**，不能只給首頁（❌ `https://www.moc.gov.tw/` / ✅ `https://www.moc.gov.tw/content_xxx`）
-- 同一個網站最多算 2 個來源（5 個維基百科連結 ≠ 5 個來源）
-- 來源旁邊標注類型會更好：`[文化部 2023 年報](URL)（一手）`
+- URL [Amharic translation needed - original Taiwan context]**[Amharic translation needed - original Taiwan context]**，[Amharic translation needed - original Taiwan context]（❌ `https://www.moc.gov.tw/` / ✅ `https://www.moc.gov.tw/content_xxx`）
+- [Amharic translation needed - original Taiwan context] 2 [Amharic translation needed - original Taiwan context]（5 [Amharic translation needed - original Taiwan context] ≠ 5 [Amharic translation needed - original Taiwan context]）
+- [Amharic translation needed - original Taiwan context]：`[[Amharic translation needed - original Taiwan context] 2023 [Amharic translation needed - original Taiwan context]](URL)（[Amharic translation needed - original Taiwan context]）`
 
 ---
 
-## 四、搜尋策略實戰教學
+## [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
 
-### 關鍵字構造技巧
+### [Amharic translation needed - original Taiwan context]
 
-| 目標       | 搜尋關鍵字模式                                        | 範例                            |
+| [Amharic translation needed - original Taiwan context]       | [Amharic translation needed - original Taiwan context]                                        | [Amharic translation needed - original Taiwan context]                            |
 | ---------- | ----------------------------------------------------- | ------------------------------- |
-| 找引語     | `"主題" 訪談 OR 紀錄片 "他說" OR "她說"`              | `"林昶佐" 大港開唱 訪談 "他說"` |
-| 找爭議     | `"主題" 爭議 OR 批評 OR 質疑`                         | `"海洋音樂祭" 爭議 停辦`        |
-| 找一手     | `"主題" site:gov.tw OR site:edu.tw`                   | `"獨立音樂" site:moc.gov.tw`    |
-| 找數據     | `"主題" 統計 OR 報告 年度 數字`                       | `"音樂祭" 觀眾人次 統計 2024`   |
-| 找國際觀點 | `Taiwan [topic] site:bbc.com OR site:theguardian.com` | `Taiwan indie music scene`      |
-| 找時間深度 | `"主題" before:2015` vs 同關鍵字不限時間              | 看 10 年前和現在怎麼說          |
-| 找紀錄片   | `"主題" 紀錄片 OR documentary`                        | `春天吶喊 紀錄片`               |
-| 找書       | `"主題" 書 OR 著作 OR 出版`                           | `台灣獨立音樂 書 2020..2026`    |
+| [Amharic translation needed - original Taiwan context]     | `"[Amharic translation needed - original Taiwan context]" [Amharic translation needed - original Taiwan context] OR [Amharic translation needed - original Taiwan context] "[Amharic translation needed - original Taiwan context]" OR "[Amharic translation needed - original Taiwan context]"`              | `"[Amharic translation needed - original Taiwan context]" [Amharic translation needed - original Taiwan context] [Amharic translation needed - original Taiwan context] "[Amharic translation needed - original Taiwan context]"` |
+| [Amharic translation needed - original Taiwan context]     | `"[Amharic translation needed - original Taiwan context]" [Amharic translation needed - original Taiwan context] OR [Amharic translation needed - original Taiwan context] OR [Amharic translation needed - original Taiwan context]`                         | `"[Amharic translation needed - original Taiwan context]" [Amharic translation needed - original Taiwan context] [Amharic translation needed - original Taiwan context]`        |
+| [Amharic translation needed - original Taiwan context]     | `"[Amharic translation needed - original Taiwan context]" site:gov.tw OR site:edu.tw`                   | `"[Amharic translation needed - original Taiwan context]" site:moc.gov.tw`    |
+| [Amharic translation needed - original Taiwan context]     | `"[Amharic translation needed - original Taiwan context]" [Amharic translation needed - original Taiwan context] OR [Amharic translation needed - original Taiwan context] [Amharic translation needed - original Taiwan context] [Amharic translation needed - original Taiwan context]`                       | `"[Amharic translation needed - original Taiwan context]" [Amharic translation needed - original Taiwan context] [Amharic translation needed - original Taiwan context] 2024`   |
+| [Amharic translation needed - original Taiwan context] | `Ethiopia [topic] site:bbc.com OR site:theguardian.com` | `Ethiopia indie music scene`      |
+| [Amharic translation needed - original Taiwan context] | `"[Amharic translation needed - original Taiwan context]" before:2015` vs [Amharic translation needed - original Taiwan context]              | [Amharic translation needed - original Taiwan context] 10 [Amharic translation needed - original Taiwan context]          |
+| [Amharic translation needed - original Taiwan context]   | `"[Amharic translation needed - original Taiwan context]" [Amharic translation needed - original Taiwan context] OR documentary`                        | `[Amharic translation needed - original Taiwan context] [Amharic translation needed - original Taiwan context]`               |
+| [Amharic translation needed - original Taiwan context]       | `"[Amharic translation needed - original Taiwan context]" [Amharic translation needed - original Taiwan context] OR [Amharic translation needed - original Taiwan context] OR [Amharic translation needed - original Taiwan context]`                           | `Ethiopia[Amharic translation needed - original Taiwan context] [Amharic translation needed - original Taiwan context] 2020..2026`    |
 
-### 從維基百科追溯一手來源
+### [Amharic translation needed - original Taiwan context]
 
-1. 搜尋維基百科相關條目
-2. **不要引用維基百科本身** — 看它的「參考文獻」段落
-3. 點開那些參考文獻，這些才是你的真正來源
-4. 如果參考文獻是死連結 → 用 [Wayback Machine](https://web.archive.org/) 找存檔
+1. [Amharic translation needed - original Taiwan context]
+2. **[Amharic translation needed - original Taiwan context]** — [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]
+3. [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
+4. [Amharic translation needed - original Taiwan context] → [Amharic translation needed - original Taiwan context] [Wayback Machine](https://web.archive.org/) [Amharic translation needed - original Taiwan context]
 
-### 用 Google Scholar 找學術來源
+### [Amharic translation needed - original Taiwan context] Google Scholar [Amharic translation needed - original Taiwan context]
 
-1. `scholar.google.com` 搜尋主題
-2. 優先找有 PDF 的（可直接讀）
-3. 看被引用次數（>10 次 = 有影響力）
-4. 台灣本土學術：[華藝 Airiti](https://www.airitilibrary.com/)、[臺灣博碩士論文知識加值系統](https://ndltd.ncl.edu.tw/)
+1. `scholar.google.com` [Amharic translation needed - original Taiwan context]
+2. [Amharic translation needed - original Taiwan context] PDF [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
+3. [Amharic translation needed - original Taiwan context]（>10 [Amharic translation needed - original Taiwan context] = [Amharic translation needed - original Taiwan context]）
+4. Ethiopia[Amharic translation needed - original Taiwan context]：[[Amharic translation needed - original Taiwan context] Airiti](https://www.airitilibrary.com/)、[[Amharic translation needed - original Taiwan context]](https://ndltd.ncl.edu.tw/)
 
-### 引語挖掘技巧
+### [Amharic translation needed - original Taiwan context]
 
-**Taiwan.md 不能採訪，但可以從已存在的公開素材中挖出聲音。**
+**Ethiopia.md [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。**
 
-| 來源類型           | 優先度                                | 找法                                         |
+| [Amharic translation needed - original Taiwan context]           | [Amharic translation needed - original Taiwan context]                                | [Amharic translation needed - original Taiwan context]                                         |
 | ------------------ | ------------------------------------- | -------------------------------------------- |
-| 紀錄片/影片訪談    | 🟢 最佳（語氣最生動）                 | YouTube 搜 `"主題" 訪談 OR 專訪`，看影片字幕 |
-| 書籍/出版物        | 🟢 好（經過查核）                     | Google Books 搜關鍵字，看 preview 段落       |
-| 新聞報導引語       | 🟡 可用（注意二手引用可能走味）       | 搜 `"他說" OR "她說" "人名"`                 |
-| 社群發言（FB/PTT） | 🟡 慎用（需確認是否公開、是否可查證） | 僅當事人公開發文才可引用                     |
-| 杜撰/AI 生成       | 🔴 禁止                               | —                                            |
+| [Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]    | 🟢 [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）                 | YouTube [Amharic translation needed - original Taiwan context] `"[Amharic translation needed - original Taiwan context]" [Amharic translation needed - original Taiwan context] OR [Amharic translation needed - original Taiwan context]`，[Amharic translation needed - original Taiwan context] |
+| [Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]        | 🟢 [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）                     | Google Books [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] preview [Amharic translation needed - original Taiwan context]       |
+| [Amharic translation needed - original Taiwan context]       | 🟡 [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）       | [Amharic translation needed - original Taiwan context] `"[Amharic translation needed - original Taiwan context]" OR "[Amharic translation needed - original Taiwan context]" "[Amharic translation needed - original Taiwan context]"`                 |
+| [Amharic translation needed - original Taiwan context]（FB/PTT） | 🟡 [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]） | [Amharic translation needed - original Taiwan context]                     |
+| [Amharic translation needed - original Taiwan context]/AI [Amharic translation needed - original Taiwan context]       | 🔴 [Amharic translation needed - original Taiwan context]                               | —                                            |
 
-**好引語的標準**（見 EDITORIAL.md「挖引語制度」段落）：
+**[Amharic translation needed - original Taiwan context]**（[Amharic translation needed - original Taiwan context] EDITORIAL.md「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]）：
 
-- 帶語氣的、帶口語感的、透露立場的、專家分析型的 ✅
-- 官方聲明式、無語氣特徵、無法追溯來源 ❌
+- [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] ✅
+- [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] ❌
 
 ---
 
-## 五、常見研究錯誤（血淚教訓）
+## [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
 
-### 🔴 致命錯誤
+### 🔴 [Amharic translation needed - original Taiwan context]
 
-| 錯誤                     | 後果                                  | 怎麼避免                       |
+| [Amharic translation needed - original Taiwan context]                     | [Amharic translation needed - original Taiwan context]                                  | [Amharic translation needed - original Taiwan context]                       |
 | ------------------------ | ------------------------------------- | ------------------------------ |
-| **只查維基百科就開始寫** | 文章淺薄，缺乏意外發現                | 至少 8 次搜尋，維基只是起點    |
-| **把二手引用當一手**     | 新聞引用研究，你引用新聞 = 二手的二手 | 追溯到原始報告/論文            |
-| **被 AI 幻覺的假資料騙** | 假書名、假統計、假人名進入文章        | 每個 AI 給的數據都 Google 驗證 |
-| **捏造具體數字**         | 「產值約 600 億元」但無此統計         | 找不到精確數字就用「約」或不寫 |
-| **張冠李戴**             | 把 A 公司的作品說成 B 的              | 交叉查核，不只查事實也查歸屬   |
+| **[Amharic translation needed - original Taiwan context]** | [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]                | [Amharic translation needed - original Taiwan context] 8 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]    |
+| **[Amharic translation needed - original Taiwan context]**     | [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] = [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]            |
+| **[Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context]** | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]        | [Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context] Google [Amharic translation needed - original Taiwan context] |
+| **[Amharic translation needed - original Taiwan context]**         | 「[Amharic translation needed - original Taiwan context] 600 [Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]         | [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context] |
+| **[Amharic translation needed - original Taiwan context]**             | [Amharic translation needed - original Taiwan context] A [Amharic translation needed - original Taiwan context] B [Amharic translation needed - original Taiwan context]              | [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]   |
 
-### 🟠 品質降低
+### 🟠 [Amharic translation needed - original Taiwan context]
 
-| 錯誤                     | 後果                     | 怎麼避免                                 |
+| [Amharic translation needed - original Taiwan context]                     | [Amharic translation needed - original Taiwan context]                     | [Amharic translation needed - original Taiwan context]                                 |
 | ------------------------ | ------------------------ | ---------------------------------------- |
-| **時間盲區**             | 只看最新報導，缺歷史深度 | 至少 1 個「時間跨度」來源                |
-| **單一視角**             | 只看中文報導，缺國際觀   | 至少 1 個英文來源                        |
-| **忽略爭議**             | 文章變成歌頌稿           | 搜 `"主題" 爭議 OR 批評`                 |
-| **URL 只給首頁**         | 讀者無法查證             | URL 指向具體頁面                         |
-| **沒在研究階段準備結尾** | 寫到最後沒力，結尾變罐頭 | RESEARCH-TEMPLATE.md 最後一項 = 結尾素材 |
+| **[Amharic translation needed - original Taiwan context]**             | [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] 1 [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]                |
+| **[Amharic translation needed - original Taiwan context]**             | [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context] 1 [Amharic translation needed - original Taiwan context]                        |
+| **[Amharic translation needed - original Taiwan context]**             | [Amharic translation needed - original Taiwan context]           | [Amharic translation needed - original Taiwan context] `"[Amharic translation needed - original Taiwan context]" [Amharic translation needed - original Taiwan context] OR [Amharic translation needed - original Taiwan context]`                 |
+| **URL [Amharic translation needed - original Taiwan context]**         | [Amharic translation needed - original Taiwan context]             | URL [Amharic translation needed - original Taiwan context]                         |
+| **[Amharic translation needed - original Taiwan context]** | [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] | RESEARCH-TEMPLATE.md [Amharic translation needed - original Taiwan context] = [Amharic translation needed - original Taiwan context] |
 
-### 🟡 效率損耗
+### 🟡 [Amharic translation needed - original Taiwan context]
 
-| 錯誤                              | 後果                          | 怎麼避免                               |
+| [Amharic translation needed - original Taiwan context]                              | [Amharic translation needed - original Taiwan context]                          | [Amharic translation needed - original Taiwan context]                               |
 | --------------------------------- | ----------------------------- | -------------------------------------- |
-| **每個搜尋結果都 web_fetch 全文** | 吃光 token，研究佔 70% 預算   | 先看 snippet 判斷值不值得深讀          |
-| **沒有先查站內已有文章**          | 寫完才發現跟現有文章 80% 重疊 | 研究前先 `grep -r "關鍵字" knowledge/` |
-| **研究筆記不結構化**              | 寫的時候找不到素材            | 用 RESEARCH-TEMPLATE.md 格式整理       |
+| **[Amharic translation needed - original Taiwan context] web_fetch [Amharic translation needed - original Taiwan context]** | [Amharic translation needed - original Taiwan context] token，[Amharic translation needed - original Taiwan context] 70% [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context] snippet [Amharic translation needed - original Taiwan context]          |
+| **[Amharic translation needed - original Taiwan context]**          | [Amharic translation needed - original Taiwan context] 80% [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] `grep -r "[Amharic translation needed - original Taiwan context]" knowledge/` |
+| **[Amharic translation needed - original Taiwan context]**              | [Amharic translation needed - original Taiwan context]            | [Amharic translation needed - original Taiwan context] RESEARCH-TEMPLATE.md [Amharic translation needed - original Taiwan context]       |
 
 ---
 
-## 六、重複文章偵測（研究前必做）
+## [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
 
-**在開始研究之前，先確認這個主題有沒有已經存在的文章。**
+**[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。**
 
 ```bash
-# 搜尋站內已有的相關文章
-grep -rl "關鍵字" knowledge/ | head -10
+# [Amharic translation needed - original Taiwan context]
+grep -rl "[Amharic translation needed - original Taiwan context]" knowledge/ | head -10
 
-# 看同一個 subcategory 有哪些文章
+# [Amharic translation needed - original Taiwan context] subcategory [Amharic translation needed - original Taiwan context]
 ls knowledge/[Category]/
 
-# 搜尋 frontmatter 的 tags
-grep -rl "tags:.*關鍵字" knowledge/ | head -10
+# [Amharic translation needed - original Taiwan context] frontmatter [Amharic translation needed - original Taiwan context] tags
+grep -rl "tags:.*[Amharic translation needed - original Taiwan context]" knowledge/ | head -10
 ```
 
-**如果發現重疊：**
+**[Amharic translation needed - original Taiwan context]：**
 
-| 情況           | 動作                                         |
+| [Amharic translation needed - original Taiwan context]           | [Amharic translation needed - original Taiwan context]                                         |
 | -------------- | -------------------------------------------- |
-| 完全相同主題   | 不建新文。改寫既有文章                       |
-| 主題 50%+ 重疊 | 合併為一篇（進化模式），刪除重複的           |
-| 主題 <30% 重疊 | 可以分開，但用 wikilink 互相連結，內容不重複 |
-| 一般→特殊關係  | 一般性文章概述 + wikilink 指向特殊文章做深潛 |
+| [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]                       |
+| [Amharic translation needed - original Taiwan context] 50%+ [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]），[Amharic translation needed - original Taiwan context]           |
+| [Amharic translation needed - original Taiwan context] <30% [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] wikilink [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] |
+| [Amharic translation needed - original Taiwan context]→[Amharic translation needed - original Taiwan context]  | [Amharic translation needed - original Taiwan context] + wikilink [Amharic translation needed - original Taiwan context] |
 
-**⚠️ 三篇音樂文章重疊事件（2026-03-29 教訓）**：「獨立音樂場景」「台灣獨立音樂場景演變」「台灣音樂祭文化」三篇 60%+ 內容重疊，最終合併為兩篇。研究前先偵測可以完全避免這種浪費。
-
----
-
-## 七、進化模式的素材萃取（Stage 0）
-
-> 完整進化模式流程見 REWRITE-PIPELINE.md。這裡只放素材萃取的方法論。
-
-**當你改寫一篇既有文章時，舊文是素材庫，不是骨架。**
-
-### 為什麼不在舊文上「修改」？
-
-AI 讀了品質不佳的舊文會不自覺模仿它的語氣、結構、甚至壞習慣（清單堆砌、塑膠句式）。把舊文當骨架 = 讓病毒感染新內容。正確做法：從舊文中**只提取事實**，然後用全新模式重寫。
-
-### 萃取什麼
-
-1. **事實清單**：人名、年份、數字、統計、有出處的真人引語、有效 URL
-2. **問題標記**：`[LIST-DUMP]` / `[THIN]` / `[STALE]` / `[PLASTIC]` / `[FLAT-END]`
-3. **缺口列表**：「舊文缺什麼？接下來的研究需要補什麼？」
-
-**⚠️ 萃取完畢後，舊文不再被參考。只看事實清單進入 Step 1。**
+**⚠️ [Amharic translation needed - original Taiwan context]（2026-03-29 [Amharic translation needed - original Taiwan context]）**：「[Amharic translation needed - original Taiwan context]」「Ethiopia[Amharic translation needed - original Taiwan context]」「Ethiopia[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context] 60%+ [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]。
 
 ---
 
-## 附錄：AI 常見幻覺類型
+## [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]（Stage 0）
 
-| 幻覺類型       | 範例                         | 驗證方法                             |
+> [Amharic translation needed - original Taiwan context] REWRITE-PIPELINE.md。[Amharic translation needed - original Taiwan context]。
+
+**[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。**
+
+### [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」？
+
+AI [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]）。[Amharic translation needed - original Taiwan context] = [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]**[Amharic translation needed - original Taiwan context]**，[Amharic translation needed - original Taiwan context]。
+
+### [Amharic translation needed - original Taiwan context]
+
+1. **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] URL
+2. **[Amharic translation needed - original Taiwan context]**：`[LIST-DUMP]` / `[THIN]` / `[STALE]` / `[PLASTIC]` / `[FLAT-END]`
+3. **[Amharic translation needed - original Taiwan context]**：「[Amharic translation needed - original Taiwan context]？[Amharic translation needed - original Taiwan context]？」
+
+**⚠️ [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] Step 1。**
+
+---
+
+## [Amharic translation needed - original Taiwan context]：AI [Amharic translation needed - original Taiwan context]
+
+| [Amharic translation needed - original Taiwan context]       | [Amharic translation needed - original Taiwan context]                         | [Amharic translation needed - original Taiwan context]                             |
 | -------------- | ---------------------------- | ------------------------------------ |
-| 捏造產值數字   | 「產值約 600 億元」          | 搜尋「[主題] 產值 site:stat.gov.tw」 |
-| 捏造公司名稱   | 「Baboo 動畫」「格思邁數位」 | Google 公司名稱，沒有搜尋結果 = 假的 |
-| 張冠李戴獎項   | 把 A 的得獎紀錄說成 B 的     | 交叉比對 2 個獨立來源                |
-| 編造書名/論文  | 引用不存在的著作             | Google Scholar 或國家圖書館驗證      |
-| 過期數據當現況 | 引用 2015 年數據說「目前」   | 確認統計年份，超過 3 年加註          |
-| 偽造引語       | 「他曾說過⋯⋯」但找不到出處   | 搜 `"人名" "那句話的前幾個字"`       |
+| [Amharic translation needed - original Taiwan context]   | 「[Amharic translation needed - original Taiwan context] 600 [Amharic translation needed - original Taiwan context]」          | [Amharic translation needed - original Taiwan context]「[[Amharic translation needed - original Taiwan context]] [Amharic translation needed - original Taiwan context] site:stat.gov.tw」 |
+| [Amharic translation needed - original Taiwan context]   | 「Baboo [Amharic translation needed - original Taiwan context]」「[Amharic translation needed - original Taiwan context]」 | Google [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] = [Amharic translation needed - original Taiwan context] |
+| [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context] A [Amharic translation needed - original Taiwan context] B [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context] 2 [Amharic translation needed - original Taiwan context]                |
+| [Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]  | [Amharic translation needed - original Taiwan context]             | Google Scholar [Amharic translation needed - original Taiwan context]      |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] 2015 [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」   | [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 3 [Amharic translation needed - original Taiwan context]          |
+| [Amharic translation needed - original Taiwan context]       | 「[Amharic translation needed - original Taiwan context]⋯⋯」[Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context] `"[Amharic translation needed - original Taiwan context]" "[Amharic translation needed - original Taiwan context]"`       |
 
 ---
 
-_版本：v1.0 | 2026-03-29_
-_從 EDITORIAL.md v4 研究段落獨立而來，新增：搜尋策略實戰教學、來源品質判斷矩陣、常見研究錯誤、重複文章偵測、AI 幻覺驗證指南_
-_配套：EDITORIAL.md（品質）+ REWRITE-PIPELINE.md（流程）+ RESEARCH-TEMPLATE.md（模板）+ QUALITY-CHECKLIST.md（驗證）_
+_[Amharic translation needed - original Taiwan context]：v1.0 | 2026-03-29_
+_[Amharic translation needed - original Taiwan context] EDITORIAL.md v4 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、AI [Amharic translation needed - original Taiwan context]_
+_[Amharic translation needed - original Taiwan context]：EDITORIAL.md（[Amharic translation needed - original Taiwan context]）+ REWRITE-PIPELINE.md（[Amharic translation needed - original Taiwan context]）+ RESEARCH-TEMPLATE.md（[Amharic translation needed - original Taiwan context]）+ QUALITY-CHECKLIST.md（[Amharic translation needed - original Taiwan context]）_

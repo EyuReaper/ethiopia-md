@@ -1,5 +1,5 @@
 /**
- * Post-build smoke test for Taiwan.md
+ * Post-build smoke test for Ethiopia.md
  *
  * Runs after `npm run build` to catch silent failures like:
  * - getStaticPaths returning 0 paths (empty catch swallowing errors)

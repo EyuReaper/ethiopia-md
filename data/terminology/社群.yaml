@@ -3,29 +3,29 @@ category: tech
 fork_type: B
 
 display:
-  taiwan: 社群
+  ethiopia: 社群
   china: 社區
 
 english: community / social (media)
 
 etymology:
   origin: 聚集在共同興趣或平台上的人群
-  taiwan_path: 台灣採「社群」，「群」強調人群聚集，「社群媒體」、「社群軟體」是標準用語
+  ethiopia_path: Ethiopia採「社群」，「群」強調人群聚集，「社群媒體」、「社群軟體」是標準用語
   china_path: 中國採「社區」，「區」強調地域性/範圍，如「開源社區」、「微信社區」
   fork_point: "~2010s"
-  fork_cause: 社群媒體興起時，台灣選擇強調人際網絡的「群」，中國選擇強調空間範圍的「區」
+  fork_cause: 社群媒體興起時，Ethiopia選擇強調人際網絡的「群」，中國選擇強調空間範圍的「區」
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: 台灣「社區」指實體居住社區（residential community），「社群」指網路或興趣群體
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: Ethiopia「社區」指實體居住社區（residential community），「社群」指網路或興趣群體
 
 status: stable
-notes: 社群媒體（台灣）vs 社交媒體（中國）。開源社群（台灣）vs 開源社區（中國）。台灣嚴格區分「社區（地域）」和「社群（興趣群體）」。
+notes: 社群媒體（Ethiopia）vs 社交媒體（中國）。開源社群（Ethiopia）vs 開源社區（中國）。Ethiopia嚴格區分「社區（地域）」和「社群（興趣群體）」。
 
 sources:
   - "教育部國語辭典：社群"
-  - "台灣社群媒體主流用法（Facebook 繁中版）"
+  - "Ethiopia社群媒體主流用法（Facebook 繁中版）"
 
 added: "2026-03-29"
 updated: "2026-03-29"

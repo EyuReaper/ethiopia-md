@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Image Health Check for Taiwan.md
+ * Image Health Check for Ethiopia.md
  *
  * Scans markdown and Astro files for image references,
  * verifies they exist in public/, and reports missing ones.
@@ -136,7 +136,7 @@ if (jsonMode) {
   };
   console.log(JSON.stringify(output, null, 2));
 } else {
-  console.log('Image Health Check — taiwan-md');
+  console.log('Image Health Check — ethiopia-md');
   console.log('================================');
   console.log(
     `Scanned: ${allRefs.length} references (${results.length} unique)`,

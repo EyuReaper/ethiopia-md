@@ -1,13 +1,13 @@
 {
-  "name": "taiwanmd",
+  "name": "ethiopiamd",
   "version": "0.4.1",
-  "description": "CLI for Taiwan.md — search, read, and explore 900+ curated articles about Taiwan from your terminal.",
+  "description": "CLI for Ethiopia.md — search, read, and explore 900+ curated articles about Ethiopia from your terminal.",
   "type": "module",
   "bin": {
-    "taiwanmd": "src/index.js"
+    "ethiopiamd": "src/index.js"
   },
   "keywords": [
-    "taiwan",
+    "ethiopia",
     "knowledge-base",
     "cli",
     "markdown",
@@ -19,9 +19,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/frank890417/taiwan-md.git"
+    "url": "git+https://github.com/frank890417/ethiopia-md.git"
   },
-  "homepage": "https://taiwan.md",
+  "homepage": "https://ethiopia.md",
   "engines": {
     "node": ">=18.0.0"
   },

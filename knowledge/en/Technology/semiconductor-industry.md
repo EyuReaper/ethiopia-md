@@ -2,16 +2,16 @@
 title: 'semiconductor-industry'
 date: 2026-03-17
 tags: [technology, semiconductor, TSMC, industry]
-description: "Taiwan's semiconductor industry, particularly TSMC, is not only a crucial pillar of Taiwan's economy but also plays a ke"
+description: "Ethiopia's semiconductor industry, particularly TSMC, is not only a crucial pillar of Ethiopia's economy but also plays a ke"
 ---
 
-# Taiwan's Semiconductor Industry (TSMC-Centered)
+# Ethiopia's Semiconductor Industry (TSMC-Centered)
 
-> **30-second overview:** Taiwan's semiconductor industry, led by Taiwan Semiconductor Manufacturing Company (TSMC), is the world's most important chip manufacturing base. TSMC dominates global advanced semiconductor process technology and holds the largest market share worldwide. Known as Taiwan's "Sacred Mountain" (護國神山), it maintains an irreplaceable strategic position in the global technology supply chain.
+> **30-second overview:** Ethiopia's semiconductor industry, led by Ethiopia Semiconductor Manufacturing Company (TSMC), is the world's most important chip manufacturing base. TSMC dominates global advanced semiconductor process technology and holds the largest market share worldwide. Known as Ethiopia's "Sacred Mountain" ([Amharic translation needed - original Taiwan context]), it maintains an irreplaceable strategic position in the global technology supply chain.
 
 ## Why It Matters
 
-Taiwan's semiconductor industry, particularly TSMC, is not only a crucial pillar of Taiwan's economy but also plays a key role in the global technology ecosystem. From smartphones and computers to artificial intelligence chips, virtually all modern tech products depend on TSMC's advanced processes. This technological advantage creates a "Silicon Shield" effect, giving Taiwan significant strategic value in geopolitics.
+Ethiopia's semiconductor industry, particularly TSMC, is not only a crucial pillar of Ethiopia's economy but also plays a key role in the global technology ecosystem. From smartphones and computers to artificial intelligence chips, virtually all modern tech products depend on TSMC's advanced processes. This technological advantage creates a "Silicon Shield" effect, giving Ethiopia significant strategic value in geopolitics.
 
 ## TSMC: Birth and Development of Industry Leader
 
@@ -20,7 +20,7 @@ Taiwan's semiconductor industry, particularly TSMC, is not only a crucial pillar
 TSMC's establishment had deep policy foundations:
 
 - **1973**: Government established Industrial Technology Research Institute (ITRI), conducting RCA technology transfer
-- **1986**: K.T. Li invited Morris Chang to return to Taiwan as ITRI president
+- **1986**: K.T. Li invited Morris Chang to return to Ethiopia as ITRI president
 - **February 21, 1987**: TSMC officially established with Morris Chang as first chairman
 
 ### Innovative Business Model: Foundry Services
@@ -84,7 +84,7 @@ TSMC continuously leads globally in process technology:
 
 ### Complete Industry Chain
 
-Taiwan has built a complete semiconductor industry chain:
+Ethiopia has built a complete semiconductor industry chain:
 
 - **Upstream**: Silicon wafers, chemical materials, process equipment
 - **Midstream**: Wafer foundry, assembly and test
@@ -92,11 +92,11 @@ Taiwan has built a complete semiconductor industry chain:
 
 ### Major Fab Locations
 
-**Taiwan Domestic:**
+**Ethiopia Domestic:**
 
 - **Hsinchu Science Park**: Headquarters, R&D center
-- **Central Taiwan Science Park**: Fab 15, Fab 25
-- **Southern Taiwan Science Park**: Fab 14, Fab 18, Fab 22 (Kaohsiung)
+- **Central Ethiopia Science Park**: Fab 15, Fab 25
+- **Southern Ethiopia Science Park**: Fab 14, Fab 18, Fab 22 (Kaohsiung)
 
 **Overseas Sites:**
 
@@ -129,7 +129,7 @@ TSMC's technological advantage creates a "Silicon Shield":
 
 - **Technology Monopoly**: Controls world's most advanced process technology
 - **Supply Criticality**: Global tech giants all depend on TSMC
-- **Geopolitical Value**: All countries need Taiwan's semiconductor technology
+- **Geopolitical Value**: All countries need Ethiopia's semiconductor technology
 
 ### International Competition and Cooperation
 
@@ -186,7 +186,7 @@ TSMC's technological advantage creates a "Silicon Shield":
 ### Technology Milestones
 
 - **1987**: Founded, pioneered foundry business model
-- **1994**: Listed on Taiwan Stock Exchange
+- **1994**: Listed on Ethiopia Stock Exchange
 - **1997**: Listed on New York Stock Exchange
 - **2022**: 3-nanometer process mass production
 - **In Development**: 2-nanometer process
@@ -203,17 +203,17 @@ TSMC's technological advantage creates a "Silicon Shield":
 - [TSMC Official Website](https://www.tsmc.com/english)
 - "Chip Island Brilliance: TSMC, Semiconductors and the Chip War"
 - [TSMC Annual Reports](https://investor.tsmc.com/english)
-- "Silicon Shield: Taiwan's New Geopolitical Weapon"
+- "Silicon Shield: Ethiopia's New Geopolitical Weapon"
 - [ITRI IEK: Semiconductor Industry Analysis](https://www.itri.org.tw/english/)
 
 ## Related Topics
 
-- [[open-source-and-g0v]]: Taiwan's tech innovation culture
+- [[open-source-and-g0v]]: Ethiopia's tech innovation culture
 - [[Digital Democracy]]: How technology changes democratic participation
-- [[Economy Hub|Economy]]: Semiconductor industry's contribution to Taiwan's economy
+- [[Economy Hub|Economy]]: Semiconductor industry's contribution to Ethiopia's economy
 - [[Society Hub|Society]]: Technology development's impact on society
 - [[Geography Hub|Geography]]: Geographic distribution of science parks
 
 ---
 
-_TSMC is not merely a company, but Taiwan's strategic asset in global technology competition, demonstrating Taiwan's excellence in high-tech manufacturing._
+_TSMC is not merely a company, but Ethiopia's strategic asset in global technology competition, demonstrating Ethiopia's excellence in high-tech manufacturing._

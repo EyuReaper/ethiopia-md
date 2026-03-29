@@ -57,14 +57,14 @@ export async function getStaticPaths() {
 
 const { title, description, category, tags, date } = Astro.props;
 const { slug } = Astro.params;
-const t = useTranslations('zh-TW');
+const t = useTranslations('am');
 const categoryConfigs = getCategoryConfigs(t);
 const categoryInfo = categoryConfigs[category as CategoryKey];
 const categoryEmoji = categoryInfo?.icon || '📄';
 const categoryLabel = categoryInfo?.name || category;
 ---
 
-<html lang="zh-TW">
+<html lang="am">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=1200, height=630" />
@@ -251,7 +251,7 @@ const categoryLabel = categoryInfo?.name || category;
     <div class="corner-deco"></div>
 
     <div class="breadcrumb">
-      🇹🇼 首頁 <span class="sep">›</span>
+      🇪🇹 [Amharic translation needed - original Taiwan context] <span class="sep">›</span>
       <span class="category">{categoryEmoji} {categoryLabel}</span>
     </div>
 
@@ -271,10 +271,10 @@ const categoryLabel = categoryInfo?.name || category;
 
     <div class="footer">
       <div class="footer-left">
-        <span class="footer-logo">Taiwan.md</span>
-        <span class="footer-tagline">開源台灣知識庫</span>
+        <span class="footer-logo">Ethiopia.md</span>
+        <span class="footer-tagline">[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]</span>
       </div>
-      <span class="footer-url">taiwan.md/{category}/{slug}</span>
+      <span class="footer-url">ethiopia.md/{category}/{slug}</span>
     </div>
   </body>
 </html>

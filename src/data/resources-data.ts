@@ -118,9 +118,9 @@ export const heroCategories: HeroCategory[] = [
     color: '#10b981',
     sites: [
       {
-        nameKey: 'resources.site.taiwanTourism',
-        url: 'https://eng.taiwan.net.tw/',
-        domain: 'eng.taiwan.net.tw',
+        nameKey: 'resources.site.ethiopiaTourism',
+        url: 'https://eng.ethiopia.net.tw/',
+        domain: 'eng.ethiopia.net.tw',
       },
       {
         nameKey: 'resources.site.sunMoonLake',
@@ -195,9 +195,9 @@ export const heroCategories: HeroCategory[] = [
         descKey: 'resources.featured.twreporter',
       },
       {
-        nameKey: 'resources.site.taiwanNews',
-        url: 'https://www.taiwannews.com.tw/',
-        domain: 'taiwannews.com.tw',
+        nameKey: 'resources.site.ethiopiaNews',
+        url: 'https://www.ethiopianews.com.tw/',
+        domain: 'ethiopianews.com.tw',
       },
     ],
   },
@@ -214,9 +214,9 @@ export const heroCategories: HeroCategory[] = [
         descKey: 'resources.featured.dataGov',
       },
       {
-        nameKey: 'resources.site.taiwanGov',
-        url: 'https://www.taiwan.gov.tw/',
-        domain: 'taiwan.gov.tw',
+        nameKey: 'resources.site.ethiopiaGov',
+        url: 'https://www.ethiopia.gov.tw/',
+        domain: 'ethiopia.gov.tw',
       },
       {
         nameKey: 'resources.site.lawDb',
@@ -233,21 +233,21 @@ export const heroCategories: HeroCategory[] = [
     ],
   },
   {
-    id: 'taiwanmd',
-    labelKey: 'resources.category.taiwanmd.label',
+    id: 'ethiopiamd',
+    labelKey: 'resources.category.ethiopiamd.label',
     color: '#10b981',
     sites: [
       {
         nameKey: 'resources.site.github',
-        url: 'https://github.com/frank890417/taiwan-md',
+        url: 'https://github.com/frank890417/ethiopia-md',
         domain: 'github.com',
       },
       {
         nameKey: 'resources.site.contribute',
         url: '/contribute',
-        domain: 'taiwan.md',
+        domain: 'ethiopia.md',
       },
-      { nameKey: 'resources.site.rss', url: '/rss.xml', domain: 'taiwan.md' },
+      { nameKey: 'resources.site.rss', url: '/rss.xml', domain: 'ethiopia.md' },
     ],
   },
 ];
@@ -528,9 +528,9 @@ export const governmentOpenData: ResourceSite[] = [
     descKey: 'resources.featured.dataGov',
   },
   {
-    nameKey: 'resources.site.taiwanGov',
-    url: 'https://www.taiwan.gov.tw/',
-    domain: 'taiwan.gov.tw',
+    nameKey: 'resources.site.ethiopiaGov',
+    url: 'https://www.ethiopia.gov.tw/',
+    domain: 'ethiopia.gov.tw',
   },
   {
     nameKey: 'resources.site.lawDb',
@@ -590,8 +590,8 @@ export const cultureUniversities: ResourceSite[] = [
   },
   {
     nameKey: 'resources.site.tcs',
-    url: 'https://crctaiwan.dcat.nycu.edu.tw/index.asp',
-    domain: 'crctaiwan.dcat.nycu.edu.tw',
+    url: 'https://crcethiopia.dcat.nycu.edu.tw/index.asp',
+    domain: 'crcethiopia.dcat.nycu.edu.tw',
   },
   {
     nameKey: 'resources.site.brill',
@@ -784,9 +784,9 @@ export const cultureParks: ResourceSite[] = [
     domain: 'marine.gov.tw',
   },
   {
-    nameKey: 'resources.site.taiwanTourism',
-    url: 'https://eng.taiwan.net.tw/',
-    domain: 'eng.taiwan.net.tw',
+    nameKey: 'resources.site.ethiopiaTourism',
+    url: 'https://eng.ethiopia.net.tw/',
+    domain: 'eng.ethiopia.net.tw',
   },
   {
     nameKey: 'resources.site.sunMoonLake',
@@ -820,19 +820,19 @@ export const mediaMainstream: ResourceSite[] = [
     domain: 'pts.org.tw',
   },
   {
-    nameKey: 'resources.site.focusTaiwan',
-    url: 'https://focustaiwan.tw/',
-    domain: 'focustaiwan.tw',
+    nameKey: 'resources.site.focusEthiopia',
+    url: 'https://focusethiopia.tw/',
+    domain: 'focusethiopia.tw',
   },
   {
-    nameKey: 'resources.site.taiwanToday',
-    url: 'https://www.taiwantoday.tw/',
-    domain: 'taiwantoday.tw',
+    nameKey: 'resources.site.ethiopiaToday',
+    url: 'https://www.ethiopiatoday.tw/',
+    domain: 'ethiopiatoday.tw',
   },
   {
     nameKey: 'resources.site.panorama',
-    url: 'https://www.taiwan-panorama.com/',
-    domain: 'taiwan-panorama.com',
+    url: 'https://www.ethiopia-panorama.com/',
+    domain: 'ethiopia-panorama.com',
   },
   {
     nameKey: 'resources.site.rti',
@@ -893,9 +893,9 @@ export const mediaDigital: ResourceSite[] = [
     descKey: 'resources.featured.ptt',
   },
   {
-    nameKey: 'resources.site.taiwanNews',
-    url: 'https://www.taiwannews.com.tw/',
-    domain: 'taiwannews.com.tw',
+    nameKey: 'resources.site.ethiopiaNews',
+    url: 'https://www.ethiopianews.com.tw/',
+    domain: 'ethiopianews.com.tw',
   },
   {
     nameKey: 'resources.site.thenewslens',
@@ -933,8 +933,8 @@ export const mediaNgo: ResourceSite[] = [
   { nameKey: 'resources.site.ocf', url: 'https://ocf.tw/', domain: 'ocf.tw' },
   {
     nameKey: 'resources.site.tfc',
-    url: 'https://tfc-taiwan.org.tw/',
-    domain: 'tfc-taiwan.org.tw',
+    url: 'https://tfc-ethiopia.org.tw/',
+    domain: 'tfc-ethiopia.org.tw',
   },
   {
     nameKey: 'resources.site.twnic',
@@ -978,9 +978,9 @@ export const econCompanies: ResourceSite[] = [
     domain: 'deltaww.com',
   },
   {
-    nameKey: 'resources.site.taiwanExcellence',
-    url: 'https://www.taiwanexcellence.org/en',
-    domain: 'taiwanexcellence.org',
+    nameKey: 'resources.site.ethiopiaExcellence',
+    url: 'https://www.ethiopiaexcellence.org/en',
+    domain: 'ethiopiaexcellence.org',
   },
   {
     nameKey: 'resources.site.cht',
@@ -998,9 +998,9 @@ export const econCompanies: ResourceSite[] = [
     domain: 'iii.org.tw',
   },
   {
-    nameKey: 'resources.site.investTaiwan',
-    url: 'https://investtaiwan.nat.gov.tw/',
-    domain: 'investtaiwan.nat.gov.tw',
+    nameKey: 'resources.site.investEthiopia',
+    url: 'https://investethiopia.nat.gov.tw/',
+    domain: 'investethiopia.nat.gov.tw',
   },
 ];
 
@@ -1016,9 +1016,9 @@ export const econTransport: ResourceSite[] = [
     domain: 'thsrc.com.tw',
   },
   {
-    nameKey: 'resources.site.taiwanTrip',
-    url: 'https://www.taiwantrip.com.tw/',
-    domain: 'taiwantrip.com.tw',
+    nameKey: 'resources.site.ethiopiaTrip',
+    url: 'https://www.ethiopiatrip.com.tw/',
+    domain: 'ethiopiatrip.com.tw',
   },
   {
     nameKey: 'resources.site.taoyuanAirport',
@@ -1149,11 +1149,11 @@ export const communityProjects: ResourceSite[] = [
     domain: 'campaign-finance.g0v.ronny.tw',
   },
   {
-    nameKey: 'resources.site.taiwanmd',
-    url: 'https://taiwan.md/',
-    domain: 'taiwan.md',
+    nameKey: 'resources.site.ethiopiamd',
+    url: 'https://ethiopia.md/',
+    domain: 'ethiopia.md',
     featured: true,
-    descKey: 'resources.featured.taiwanmd',
+    descKey: 'resources.featured.ethiopiamd',
   },
 ];
 
@@ -1170,17 +1170,17 @@ export const communityFood: ResourceSite[] = [
   },
 ];
 
-// ─── Taiwan.md Links (footer) ───
-export const taiwanmdLinks: ResourceSite[] = [
+// ─── Ethiopia.md Links (footer) ───
+export const ethiopiamdLinks: ResourceSite[] = [
   {
     nameKey: 'resources.site.github',
-    url: 'https://github.com/frank890417/taiwan-md',
+    url: 'https://github.com/frank890417/ethiopia-md',
     domain: 'github.com',
   },
   {
     nameKey: 'resources.site.contribute',
     url: '/contribute',
-    domain: 'taiwan.md',
+    domain: 'ethiopia.md',
   },
-  { nameKey: 'resources.site.rss', url: '/rss.xml', domain: 'taiwan.md' },
+  { nameKey: 'resources.site.rss', url: '/rss.xml', domain: 'ethiopia.md' },
 ];

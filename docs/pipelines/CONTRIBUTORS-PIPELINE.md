@@ -1,41 +1,41 @@
-# Contributors Pipeline — 貢獻者自動更新流程
+# Contributors Pipeline — [Amharic translation needed - original Taiwan context]
 
-> 每天 03:30 (Asia/Taipei) 由 Cron 自動執行
+> [Amharic translation needed - original Taiwan context] 03:30 (Asia/Taipei) [Amharic translation needed - original Taiwan context] Cron [Amharic translation needed - original Taiwan context]
 
 ---
 
-## 流程
+## [Amharic translation needed - original Taiwan context]
 
 ```
-git pull → 掃描 merged PR authors → 比對現有名單 → 新增 → 更新 README 表格 → push
+git pull → [Amharic translation needed - original Taiwan context] merged PR authors → [Amharic translation needed - original Taiwan context] → [Amharic translation needed - original Taiwan context] → [Amharic translation needed - original Taiwan context] README [Amharic translation needed - original Taiwan context] → push
 ```
 
-### Step 1：拉最新
+### Step 1：[Amharic translation needed - original Taiwan context]
 
 ```bash
-cd ~/taiwan-md && git pull
+cd ~/ethiopia-md && git pull
 ```
 
-### Step 2：掃描新 contributor
+### Step 2：[Amharic translation needed - original Taiwan context] contributor
 
 ```bash
-gh pr list --repo frank890417/taiwan-md --state merged --limit 200 --json author --jq '.[].author.login' | sort -u > /tmp/pr-authors.txt
+gh pr list --repo frank890417/ethiopia-md --state merged --limit 200 --json author --jq '.[].author.login' | sort -u > /tmp/pr-authors.txt
 cat .all-contributorsrc | python3 -c "import sys,json; [print(c['login']) for c in json.load(sys.stdin)['contributors']]" | sort -u > /tmp/existing-contributors.txt
 comm -23 /tmp/pr-authors.txt /tmp/existing-contributors.txt > /tmp/new-contributors.txt
 ```
 
-### Step 3：新增 contributor
+### Step 3：[Amharic translation needed - original Taiwan context] contributor
 
-對每個新人：
+[Amharic translation needed - original Taiwan context]：
 
-1. `gh api users/{login}` 查 profile
-2. `gh pr list --author {login} --state merged --json title,labels` 分析貢獻類型
-3. 決定 emoji：🖋️ content / 🌍 translation / 🐛 bug / 💻 code / 🤔 ideas / 📖 doc
-4. 加入 `.all-contributorsrc`
+1. `gh api users/{login}` [Amharic translation needed - original Taiwan context] profile
+2. `gh pr list --author {login} --state merged --json title,labels` [Amharic translation needed - original Taiwan context]
+3. [Amharic translation needed - original Taiwan context] emoji：🖋️ content / 🌍 translation / 🐛 bug / 💻 code / 🤔 ideas / 📖 doc
+4. [Amharic translation needed - original Taiwan context] `.all-contributorsrc`
 
-### Step 4：更新 README 表格
+### Step 4：[Amharic translation needed - original Taiwan context] README [Amharic translation needed - original Taiwan context]
 
-重新生成 `<!-- ALL-CONTRIBUTORS-LIST:START -->` 到 `<!-- ALL-CONTRIBUTORS-LIST:END -->` 之間的表格。每行 7 人。
+[Amharic translation needed - original Taiwan context] `<!-- ALL-CONTRIBUTORS-LIST:START -->` [Amharic translation needed - original Taiwan context] `<!-- ALL-CONTRIBUTORS-LIST:END -->` [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] 7 [Amharic translation needed - original Taiwan context]。
 
 ### Step 5：Push
 
@@ -46,30 +46,30 @@ git diff --cached --quiet || (git commit -m "chore: auto-update contributors" &&
 
 ---
 
-## ⚠️ 鐵律
+## ⚠️ [Amharic translation needed - original Taiwan context]
 
-### 絕對不要動 `about.template.astro`
+### [Amharic translation needed - original Taiwan context] `about.template.astro`
 
-Sponsors + Contact sections 已被刪掉 **3 次**。Contributors grid 不在 template 裡管理。
+Sponsors + Contact sections [Amharic translation needed - original Taiwan context] **3 [Amharic translation needed - original Taiwan context]**。Contributors grid [Amharic translation needed - original Taiwan context] template [Amharic translation needed - original Taiwan context]。
 
-### 只 `git add` 兩個檔案
+### [Amharic translation needed - original Taiwan context] `git add` [Amharic translation needed - original Taiwan context]
 
-`.all-contributorsrc` 和 `README.md`。不要 `git add -A`。
+`.all-contributorsrc` [Amharic translation needed - original Taiwan context] `README.md`。[Amharic translation needed - original Taiwan context] `git add -A`。
 
-### 沒新人 = 靜默結束
+### [Amharic translation needed - original Taiwan context] = [Amharic translation needed - original Taiwan context]
 
-不需要回報「今天沒有新 contributor」。
+[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context] contributor」。
 
 ---
 
-## 相關檔案
+## [Amharic translation needed - original Taiwan context]
 
-| 檔案                                 | 用途                |
+| [Amharic translation needed - original Taiwan context]                                 | [Amharic translation needed - original Taiwan context]                |
 | ------------------------------------ | ------------------- |
-| `.all-contributorsrc`                | 貢獻者清單（JSON）  |
-| `README.md`                          | 含 contributor 表格 |
-| `src/templates/about.template.astro` | ⚠️ 不要碰           |
+| `.all-contributorsrc`                | [Amharic translation needed - original Taiwan context]（JSON）  |
+| `README.md`                          | [Amharic translation needed - original Taiwan context] contributor [Amharic translation needed - original Taiwan context] |
+| `src/templates/about.template.astro` | ⚠️ [Amharic translation needed - original Taiwan context]           |
 
 ---
 
-_版本：v1.0 | 2026-03-29_
+_[Amharic translation needed - original Taiwan context]：v1.0 | 2026-03-29_

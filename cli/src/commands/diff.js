@@ -1,5 +1,5 @@
 /**
- * taiwanmd diff — 顯示近 7 天知識庫變更
+ * ethiopiamd diff — 顯示近 7 天知識庫變更
  *
  * Parses git log of the knowledge base.
  * Falls back to file mtime if git is unavailable.
@@ -162,7 +162,7 @@ export function diffCommand(program) {
 
         if (!existsSync(knowledgeDir)) {
           console.log(
-            chalk.yellow('\n  找不到知識庫目錄，請先執行 taiwanmd sync\n'),
+            chalk.yellow('\n  找不到知識庫目錄，請先執行 ethiopiamd sync\n'),
           );
           return;
         }
@@ -170,21 +170,21 @@ export function diffCommand(program) {
         console.log(chalk.bold('\n  📋 知識庫近期變更\n'));
 
         // Determine the repo root to run git against
-        // knowledge dir might be ~/.taiwanmd/knowledge (standalone)
+        // knowledge dir might be ~/.ethiopiamd/knowledge (standalone)
         // or <repo>/knowledge (in-repo)
         const standaloneKnowledge = join(
           os.homedir(),
-          '.taiwanmd',
+          '.ethiopiamd',
           'knowledge',
         );
         let gitRoot;
 
         if (
           knowledgeDir === standaloneKnowledge ||
-          knowledgeDir.startsWith(join(os.homedir(), '.taiwanmd'))
+          knowledgeDir.startsWith(join(os.homedir(), '.ethiopiamd'))
         ) {
           // Standalone: git repo is one level up from knowledge
-          gitRoot = join(os.homedir(), '.taiwanmd');
+          gitRoot = join(os.homedir(), '.ethiopiamd');
         } else {
           // In-repo: git root is parent of knowledge/
           gitRoot = join(knowledgeDir, '..');
@@ -196,7 +196,7 @@ export function diffCommand(program) {
           // Git failed — show fallback
           const mtime = getLastMtime(knowledgeDir);
           const dateStr =
-            mtime > new Date(0) ? mtime.toLocaleString('zh-TW') : '無法判斷';
+            mtime > new Date(0) ? mtime.toLocaleString('am') : '無法判斷';
           console.log(chalk.gray(`  上次同步: ${dateStr}\n`));
           console.log(chalk.dim('  (無法讀取 git 紀錄，顯示最後修改時間)'));
           console.log('');

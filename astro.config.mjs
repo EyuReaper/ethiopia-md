@@ -5,7 +5,7 @@ import rehypeExternalLinks from 'rehype-external-links';
 import remarkWikilinks from './plugins/remark-wikilinks.mjs';
 
 export default defineConfig({
-  site: 'https://taiwan.md',
+  site: 'https://ethiopia.md',
   integrations: [
     sitemap({
       changefreq: 'weekly',
@@ -13,21 +13,21 @@ export default defineConfig({
       lastmod: new Date(),
       // Customize priority and changefreq for different pages
       customPages: [
-        'https://taiwan.md/?changefreq=daily&priority=1.0',
-        'https://taiwan.md/en?changefreq=daily&priority=1.0',
+        'https://ethiopia.md/?changefreq=daily&priority=1.0',
+        'https://ethiopia.md/en?changefreq=daily&priority=1.0',
       ],
       i18n: {
-        defaultLocale: 'zh-TW',
+        defaultLocale: 'am',
         locales: {
-          'zh-TW': 'zh-TW',
+          'am': 'am',
           en: 'en',
         },
       },
     }),
   ],
   i18n: {
-    defaultLocale: 'zh-TW',
-    locales: ['zh-TW', 'en'],
+    defaultLocale: 'am',
+    locales: ['am', 'en'],
     routing: {
       prefixDefaultLocale: false,
     },

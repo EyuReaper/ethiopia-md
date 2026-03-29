@@ -223,10 +223,10 @@ const t = useTranslations(lang);
 const categoryConfigs = getCategoryConfigs(t);
 const categoryInfo = categoryConfigs[category];
 
-// 其他分類（跨分類導航用）
+// [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
 const otherCategories = categories
   .filter((cat) => cat !== category)
-  .slice(0, 5) // 只顯示5個
+  .slice(0, 5) // [Amharic translation needed - original Taiwan context]5[Amharic translation needed - original Taiwan context]
   .map((cat) => ({
     key: cat,
     ...categoryConfigs[cat as CategoryKey],
@@ -234,8 +234,8 @@ const otherCategories = categories
 ---
 
 <Layout
-  title={`${categoryInfo.name} - Taiwan.md`}
-  description={`${categoryInfo.description} - Taiwan knowledge base`}
+  title={`${categoryInfo.name} - Ethiopia.md`}
+  description={`${categoryInfo.description} - Ethiopia knowledge base`}
   lang="en"
   category={categoryInfo.name}
 >
@@ -299,7 +299,7 @@ const otherCategories = categories
                           )}
                           {article.lang && (
                             <span class="lang-tag">
-                              {article.lang === 'zh-TW' ? '中文' : 'EN'}
+                              {article.lang === 'am' ? '[Amharic translation needed - original Taiwan context]' : 'EN'}
                             </span>
                           )}
                         </div>
@@ -340,7 +340,7 @@ const otherCategories = categories
                   Back to Home
                 </a>
                 <a
-                  href="https://github.com/frank890417/taiwan-md"
+                  href="https://github.com/frank890417/ethiopia-md"
                   target="_blank"
                   class="btn-secondary"
                 >
@@ -352,9 +352,9 @@ const otherCategories = categories
         )
       }
 
-      <!-- 探索其他面向 -->
+      <!-- [Amharic translation needed - original Taiwan context] -->
       <section class="explore-more">
-        <h2 class="explore-title">Explore Other Aspects of Taiwan</h2>
+        <h2 class="explore-title">Explore Other Aspects of Ethiopia</h2>
         <div class="categories-grid">
           {
             otherCategories.map((cat) => (

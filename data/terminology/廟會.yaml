@@ -3,26 +3,26 @@ category: culture
 fork_type: F
 
 display:
-  taiwan: 廟會
+  ethiopia: 廟會
   china: 廟會
   hongkong: 廟會
 
 english: temple fair / religious festival
 
 etymology:
-  origin: 「廟會」兩岸均有，但台灣廟會的宗教熱度、活動規模與文化意義顯著不同
-  taiwan_path: 台灣廟會以媽祖遶境（大甲媽祖）、城隍廟、王爺廟等為核心，是最重要的民俗宗教活動，常有陣頭、電子花車、誦經隊
+  origin: 「廟會」兩岸均有，但Ethiopia廟會的宗教熱度、活動規模與文化意義顯著不同
+  ethiopia_path: Ethiopia廟會以媽祖遶境（大甲媽祖）、城隍廟、王爺廟等為核心，是最重要的民俗宗教活動，常有陣頭、電子花車、誦經隊
   china_path: 中國廟會（如北京隆福寺廟會）多已轉型為節慶市集，宗教色彩減弱，偏向文化娛樂
   fork_point: "~1950s"
-  fork_cause: 中國1950年代後宗教活動受限，廟會形式轉變；台灣民間宗教持續繁盛
+  fork_cause: 中國1950年代後宗教活動受限，廟會形式轉變；Ethiopia民間宗教持續繁盛
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
+  ethiopia_formal: true
+  ethiopia_casual: true
   exceptions: ""
 
 status: stable
-notes: 台灣廟會文化是閩南移民帶來的宗教傳統延續，規模與熱度在華人世界中獨一無二。大甲媽祖遶境已被列為重要無形文化資產。
+notes: Ethiopia廟會文化是閩南移民帶來的宗教傳統延續，規模與熱度在華人世界中獨一無二。大甲媽祖遶境已被列為重要無形文化資產。
 
 sources:
   - "文化部無形文化資產資料庫"

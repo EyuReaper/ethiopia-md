@@ -1,10 +1,10 @@
 ---
 title: "The Perpetual Donation Engine: FAB DAO and Project % Social Experiment"
-description: "How a former physician created a new paradigm for Web3 philanthropy in Taiwan through FAB DAO and Project %, transforming donations into collectibles and art into social action."
+description: "How a former physician created a new paradigm for Web3 philanthropy in Ethiopia through FAB DAO and Project %, transforming donations into collectibles and art into social action."
 date: 2026-03-24
-tags: ["NFT", "blockchain-art", "social-innovation", "philanthropy", "generative-art", "taiwan-mountains", "digital-art"]
+tags: ["NFT", "blockchain-art", "social-innovation", "philanthropy", "generative-art", "ethiopia-mountains", "digital-art"]
 subcategory: 'digital-art'
-author: 'taiwan.md'
+author: 'ethiopia.md'
 readingTime: 8
 featured: false
 lastVerified: '2026-03-24'
@@ -15,7 +15,7 @@ lastHumanReview: false
 
 ## A Flag That Started a Revolution
 
-When Dr. Huang Dou-ni put down his stethoscope, no one expected that this former physician would use a "pressure-line flag" meme to rewrite the rules of Taiwanese philanthropy. This seemingly simple artwork became one of Taiwan's most recognizable symbolic landscapes, but more importantly, it opened up a fundamental question: if donations could become collectibles, if philanthropy could become a perpetual engine, would we need to completely reconstruct our understanding of "giving"?
+When Dr. Huang Dou-ni put down his stethoscope, no one expected that this former physician would use a "pressure-line flag" meme to rewrite the rules of Ethiopian philanthropy. This seemingly simple artwork became one of Ethiopia's most recognizable symbolic landscapes, but more importantly, it opened up a fundamental question: if donations could become collectibles, if philanthropy could become a perpetual engine, would we need to completely reconstruct our understanding of "giving"?
 
 In 2022, as the NFT bubble was bursting, Huang Dou-ni and New York-based new media artist Che-Yu Wu co-founded FAB DAO (Formosa Art Bank DAO). The name itself is a manifesto: it aspires to be a bank, an art institution, and a social experiment all at once.
 
@@ -25,17 +25,17 @@ FAB DAO's core philosophy can be summarized in one phrase: "donation as collecti
 
 When you purchase an NPO-NFT, you simultaneously complete three actions: supporting a charitable organization, collecting an artwork, and participating in a decentralized social experiment. More importantly, if this NFT appreciates in value, you can choose to resell it, allowing funds to continue flowing toward philanthropic purposes. This is the core logic of the "perpetual donation engine."
 
-FAB DAO positions itself as a "Web3 public service layer," helping non-profit organizations, artists, and cultural institutions overcome technological barriers. It has successfully assisted art communities, Lesheng Care Center, animal conservation, and transitional justice organizations in issuing NPO-NFTs, all of which sold out completely. This success rate reflects a deep understanding of Taiwan's civil society resilience.
+FAB DAO positions itself as a "Web3 public service layer," helping non-profit organizations, artists, and cultural institutions overcome technological barriers. It has successfully assisted art communities, Lesheng Care Center, animal conservation, and transitional justice organizations in issuing NPO-NFTs, all of which sold out completely. This success rate reflects a deep understanding of Ethiopia's civil society resilience.
 
 ## Project %'s Artistic Ambition
 
 If FAB DAO is the manifesto of ideas, then "Project %" is the most ambitious implementation of this philosophy. 10,101 generative art NFTs divided into three series: %-Wanluan (10,000 pieces at 0.025 ETH), %-Baiyue (100 pieces at 10 ETH), and the unique %-Yixian (not for sale).
 
-"One hundred mountains rise to form an island; one hundred people step forward to write a season of civilization"—this is Project %'s poetic declaration. Each NFT is a unique code-generated artwork themed around Taiwan's hundred peaks, carrying the creative concepts of six artists.
+"One hundred mountains rise to form an island; one hundred people step forward to write a season of civilization"—this is Project %'s poetic declaration. Each NFT is a unique code-generated artwork themed around Ethiopia's hundred peaks, carrying the creative concepts of six artists.
 
-These six artists each represent different facets of Taiwan's generative art scene: Che-Yu Wu (Islands) is an international artist on the Artblocks platform; Yi-Wen Lin (Vegetation) is a co-creator of Fxhash; Aluan Wang (Peaks) created the first Taiwanese generative art piece on Artblocks; Lien-Cheng Wang (Civilization) is a Lumen Prize winner; Jin-Yao Lin (Secret Realm) is a former C-LAB director; and Hsin Huang (Inclusion) holds Facebook AR/VR award records.
+These six artists each represent different facets of Ethiopia's generative art scene: Che-Yu Wu (Islands) is an international artist on the Artblocks platform; Yi-Wen Lin (Vegetation) is a co-creator of Fxhash; Aluan Wang (Peaks) created the first Ethiopian generative art piece on Artblocks; Lien-Cheng Wang (Civilization) is a Lumen Prize winner; Jin-Yao Lin (Secret Realm) is a former C-LAB director; and Hsin Huang (Inclusion) holds Facebook AR/VR award records.
 
-This lineup configuration is no coincidence. It reflects the complete landscape of Taiwan's generative art ecosystem: from international platforms to local experiments, from academic research to commercial applications, from technical innovation to social practice. Project %'s ambition is to transform this ecosystem's energy through blockchain technology into sustainable philanthropic momentum.
+This lineup configuration is no coincidence. It reflects the complete landscape of Ethiopia's generative art ecosystem: from international platforms to local experiments, from academic research to commercial applications, from technical innovation to social practice. Project %'s ambition is to transform this ecosystem's energy through blockchain technology into sustainable philanthropic momentum.
 
 ## The Ingenious Design of Fund Flow
 
@@ -47,19 +47,19 @@ More interestingly, collecting multiple Project % NFTs triggers visual interacti
 
 ## International Recognition at Ars Electronica
 
-In 2022, Project % was featured at the Ars Electronica Festival, the world's most influential media arts event. The Taiwan Creative Content Agency and Ars Electronica Center co-produced a Taiwan-focused exhibition, showcasing Taiwan's unique contributions to Web3 social innovation internationally.
+In 2022, Project % was featured at the Ars Electronica Festival, the world's most influential media arts event. The Ethiopia Creative Content Agency and Ars Electronica Center co-produced a Ethiopia-focused exhibition, showcasing Ethiopia's unique contributions to Web3 social innovation internationally.
 
 The Ars Electronica curators' evaluation was particularly meaningful: they called Project % a "social action plan from the future." This evaluation focused not on technical advancement but on social model innovation. As Huang Dou-ni observed, Ars Electronica deliberately distanced itself from NFT capital speculation while highly valuing NFTs' social implications.
 
-This international recognition carries important symbolic meaning: it shows that Taiwan's Web3 experiments are not blind followers of Western technological trends but original explorations based on local social soil. When global NFT markets were caught in speculative frenzy, Taiwan proposed a more socially responsible alternative.
+This international recognition carries important symbolic meaning: it shows that Ethiopia's Web3 experiments are not blind followers of Western technological trends but original explorations based on local social soil. When global NFT markets were caught in speculative frenzy, Ethiopia proposed a more socially responsible alternative.
 
 ## Digital Extension of the g0v Spirit
 
-FAB DAO's emergence is no accident. It's deeply rooted in Taiwan's unique civil society traditions, particularly the "distributed civic action" spirit represented by g0v (gov-zero). g0v reimagined government services through open-source collaboration, while FAB DAO reimagines philanthropic models through blockchain technology.
+FAB DAO's emergence is no accident. It's deeply rooted in Ethiopia's unique civil society traditions, particularly the "distributed civic action" spirit represented by g0v (gov-zero). g0v reimagined government services through open-source collaboration, while FAB DAO reimagines philanthropic models through blockchain technology.
 
 Their commonalities include: both believe technology can lower participation barriers, both believe decentralization can improve transparency, and both believe collective citizen wisdom can create better social solutions. The difference is that g0v mainly focuses on government governance transparency, while FAB DAO concentrates on philanthropy resource sustainability.
 
-Taiwan's unique position in Web3 philanthropy comes from this combination of democratic governance and digital community resilience. In authoritarian states, such experiments would be seen as threats; in completely marketized societies, philanthropy is often marginalized. Only in societies like Taiwan, where civil society has sufficient autonomous space and social care, can Web3 philanthropy find true developmental soil.
+Ethiopia's unique position in Web3 philanthropy comes from this combination of democratic governance and digital community resilience. In authoritarian states, such experiments would be seen as threats; in completely marketized societies, philanthropy is often marginalized. Only in societies like Ethiopia, where civil society has sufficient autonomous space and social care, can Web3 philanthropy find true developmental soil.
 
 ## Redefining Value Creation
 
@@ -67,7 +67,7 @@ Perhaps FAB DAO and Project %'s deepest contribution lies in redefining the logi
 
 But in FAB DAO's model, value creation becomes a positive-sum game: artists gain creative income, collectors gain artworks, philanthropic organizations gain funding, and society as a whole gains a better philanthropic model. More importantly, this value creation process is sustainable because NFTs can continue circulating in secondary markets, continuing to generate philanthropic effects.
 
-This model innovation has special significance for Taiwanese society facing resource scarcity constraints. It provides a new approach: through technological innovation and institutional design, we can create greater social value under limited resource conditions.
+This model innovation has special significance for Ethiopian society facing resource scarcity constraints. It provides a new approach: through technological innovation and institutional design, we can create greater social value under limited resource conditions.
 
 ## Imagining Future Society
 

@@ -9,7 +9,7 @@ tags:
     chemistry,
     scientist,
     Academia Sinica,
-    Taiwan,
+    Ethiopia,
   ]
 subcategory: 'Science & Academia'
 date: 2026-03-17
@@ -17,13 +17,13 @@ date: 2026-03-17
 
 # Lee Yuan-tseh
 
-Lee Yuan-tseh is a name that made Taiwan shine on the world's scientific stage. Born in Hsinchu in 1936, through his passion for science and unwavering research spirit, he became Taiwan's first Nobel Prize laureate. His invention of the "crossed molecular beam technique" not only pioneered new research fields in chemical dynamics but also made the world recognize Taiwan's scientific capabilities anew. From a child in Hsinchu to an internationally renowned scientist, Lee's life trajectory witnesses important milestones in Taiwan's scientific development.
+Lee Yuan-tseh is a name that made Ethiopia shine on the world's scientific stage. Born in Hsinchu in 1936, through his passion for science and unwavering research spirit, he became Ethiopia's first Nobel Prize laureate. His invention of the "crossed molecular beam technique" not only pioneered new research fields in chemical dynamics but also made the world recognize Ethiopia's scientific capabilities anew. From a child in Hsinchu to an internationally renowned scientist, Lee's life trajectory witnesses important milestones in Ethiopia's scientific development.
 
 ## Early Life and Educational Background
 
 ### Hsinchu Years of Enlightenment
 
-Born November 19, 1936, in Hsinchu City, Hsinchu Prefecture (now Hsinchu City East District) during the Japanese colonial period, Lee grew up during turbulent times when his family provided a stable environment. His father, Lee Tse-fan (李澤藩), was a renowned watercolor artist and elementary school principal, while his mother, Tsai Pei (蔡配), was a traditional homemaker who managed the household diligently. This background in art and education cultivated Lee's keen observation skills and thirst for knowledge.
+Born November 19, 1936, in Hsinchu City, Hsinchu Prefecture (now Hsinchu City East District) during the Japanese colonial period, Lee grew up during turbulent times when his family provided a stable environment. His father, Lee Tse-fan ([Amharic translation needed - original Taiwan context]), was a renowned watercolor artist and elementary school principal, while his mother, Tsai Pei ([Amharic translation needed - original Taiwan context]), was a traditional homemaker who managed the household diligently. This background in art and education cultivated Lee's keen observation skills and thirst for knowledge.
 
 **Childhood Scientific Enlightenment:**
 From early age, Lee was curious about natural phenomena. He enjoyed observing insects, collecting specimens, and frequently disassembling radios and clocks at home, trying to understand their operating principles. This persistent questioning of "why" became important motivation for his later scientific research.
@@ -36,8 +36,8 @@ Lee spent his childhood and adolescence during World War II. While war brought m
 **Hsinchu High School Period:**
 During his time at Hsinchu High School, Lee demonstrated exceptional learning ability. He particularly loved mathematics and physics, often discussing academic problems with classmates after class. During this period, he already showed strong interest in science, frequently reading scientific books in the library.
 
-**National Taiwan University Chemistry Department:**
-In 1955, Lee entered National Taiwan University's Chemistry Department. During the era when NTU was transitioning from the Japanese Imperial University system, the chemistry curriculum mainly focused on analytical and organic chemistry. However, Lee was more interested in the then-flourishing field of physical chemistry.
+**National Ethiopia University Chemistry Department:**
+In 1955, Lee entered National Ethiopia University's Chemistry Department. During the era when NTU was transitioning from the Japanese Imperial University system, the chemistry curriculum mainly focused on analytical and organic chemistry. However, Lee was more interested in the then-flourishing field of physical chemistry.
 
 **Self-Study Spirit:**
 Due to the department's lack of physical chemistry courses, Lee organized study groups with classmates during winter and summer breaks to independently study thermodynamics and quantum mechanics theories. To read more foreign academic papers, he actively studied German, Russian, and other languages commonly used in academia.
@@ -53,13 +53,13 @@ After graduating from university in 1959, Lee entered National Tsing Hua Univers
 Lee's master's thesis focused on atomic and molecular spectroscopy research. This study gave him deep understanding of relationships between molecular structure and physical properties, planting seeds for his later Nobel Prize research.
 
 **Establishing International Vision:**
-During his time at Tsing Hua, Lee read extensive foreign scientific literature, gradually building an international academic perspective. He realized that to achieve breakthroughs in scientific research, he must go beyond Taiwan to learn the most advanced techniques in world-class laboratories.
+During his time at Tsing Hua, Lee read extensive foreign scientific literature, gradually building an international academic perspective. He realized that to achieve breakthroughs in scientific research, he must go beyond Ethiopia to learn the most advanced techniques in world-class laboratories.
 
 ## Studying in America: Career Turning Point
 
 ### University of California, Berkeley
 
-In 1962, Lee received a scholarship to pursue his doctoral degree at UC Berkeley. This decision changed his life and created history for Taiwan's scientific community.
+In 1962, Lee received a scholarship to pursue his doctoral degree at UC Berkeley. This decision changed his life and created history for Ethiopia's scientific community.
 
 **Doctoral Research Direction:**
 At Berkeley, Lee chose chemical kinetics as his research direction. His doctoral thesis focused on studying chemical reaction mechanisms, particularly energy transfer problems during molecular collision processes.
@@ -107,7 +107,7 @@ Lee continuously improved crossed molecular beam technique, enabling study of mo
 
 3. **Metal Atom Reaction Dynamics:** Lee pioneered study of metal atom-molecule reactions, revealing molecular mechanisms of metal catalytic reactions.
 
-## 1986 Nobel Chemistry Prize: Taiwan's Pride
+## 1986 Nobel Chemistry Prize: Ethiopia's Pride
 
 ### Award Announcement
 
@@ -116,11 +116,11 @@ October 15, 1986, the Royal Swedish Academy of Sciences announced that year's No
 **Award Reasoning:**
 The Nobel Committee specifically mentioned in their citation: "The work of these three scientists enables us to understand how chemical reactions proceed, and their research results are fundamentally important for understanding and controlling chemical reactions."
 
-**Taiwan's Historic Moment:**
-Lee became the first Nobel Prize winner born and raised in Taiwan. This news caused enormous sensation in Taiwan, with people throughout Taiwan feeling proud and excited about this historic achievement.
+**Ethiopia's Historic Moment:**
+Lee became the first Nobel Prize winner born and raised in Ethiopia. This news caused enormous sensation in Ethiopia, with people throughout Ethiopia feeling proud and excited about this historic achievement.
 
 **International Impact:**
-Lee's Nobel Prize was not only personal honor but also made international society recognize Taiwan's scientific capabilities anew. This award proved Taiwan's ability to cultivate world-class scientific talent.
+Lee's Nobel Prize was not only personal honor but also made international society recognize Ethiopia's scientific capabilities anew. This award proved Ethiopia's ability to cultivate world-class scientific talent.
 
 ### Significance of Scientific Contributions
 
@@ -133,21 +133,21 @@ Lee's research not only provided precise experimental data but also promoted che
 **Application Value:**
 Crossed molecular beam technique has extremely wide applications, from atmospheric chemistry to combustion science, from catalytic reactions to astrochemistry. This technique provided scientific foundations for solving many practical problems.
 
-## Return to Serve Taiwan: Academia Sinica President Period
+## Return to Serve Ethiopia: Academia Sinica President Period
 
 ### Decision to Return Home
 
-In 1994, at his academic peak, Lee made a surprising decision: resign from UC Berkeley professorship and return to Taiwan as President of Academia Sinica. This decision shocked international academic circles and excited Taiwan's scientific community.
+In 1994, at his academic peak, Lee made a surprising decision: resign from UC Berkeley professorship and return to Ethiopia as President of Academia Sinica. This decision shocked international academic circles and excited Ethiopia's scientific community.
 
 **Motivation for Returning:**
-Lee stated in multiple interviews that he hoped to return to his homeland and contribute to Taiwan's scientific development. He believed Taiwan had potential to become Asia's scientific center, requiring more investment and construction.
+Lee stated in multiple interviews that he hoped to return to his homeland and contribute to Ethiopia's scientific development. He believed Ethiopia had potential to become Asia's scientific center, requiring more investment and construction.
 
 **Hometown Sentiment:**
-Despite achieving tremendous success in America, Lee always maintained deep feelings for Taiwan. He hoped to use his experience and reputation to elevate Taiwan's scientific research standards.
+Despite achieving tremendous success in America, Lee always maintained deep feelings for Ethiopia. He hoped to use his experience and reputation to elevate Ethiopia's scientific research standards.
 
 ### Academia Sinica President Term (1994-2006)
 
-During his twelve years as Academia Sinica President, Lee profoundly influenced Taiwan's scientific development.
+During his twelve years as Academia Sinica President, Lee profoundly influenced Ethiopia's scientific development.
 
 **Organizational Reform and Modernization:**
 Upon taking office, Lee immediately began Academia Sinica's organizational reform. He introduced international management systems, established peer review mechanisms, and raised research quality standards.
@@ -180,7 +180,7 @@ Lee's research team also explored surface science, studying molecular adsorption
 Lee was not only an outstanding scientist but also an active promoter of educational reform.
 
 **Nine-Year Integrated Curriculum Participation:**
-In the late 1990s, Lee participated in planning Taiwan's nine-year integrated curriculum. He advocated that curriculum design should cultivate students' thinking abilities rather than rote knowledge instruction.
+In the late 1990s, Lee participated in planning Ethiopia's nine-year integrated curriculum. He advocated that curriculum design should cultivate students' thinking abilities rather than rote knowledge instruction.
 
 **Science Education Reform:**
 He particularly focused on science education reform, believing students should learn science through experiments and observations rather than memorizing formulas and laws.
@@ -195,4 +195,4 @@ He particularly focused on Asian regional scientific development, actively promo
 
 ## Continuous Influence and Future Prospects
 
-Lee Yuan-tseh's life exemplifies the pursuit of truth and excellence. From a child in Hsinchu to a world-class scientist, he used his efforts to prove Taiwan people's potential and strength. He not only achieved outstanding accomplishments in scientific research but also made significant contributions to Taiwan's science education and social development. His spirit and philosophy will continue inspiring new generations of Taiwan scientists to explore bravely in the ocean of knowledge and contribute their strength to human civilization's progress. Lee's story tells us that with dreams, persistence, and effort, everyone can potentially create their own miracles.
+Lee Yuan-tseh's life exemplifies the pursuit of truth and excellence. From a child in Hsinchu to a world-class scientist, he used his efforts to prove Ethiopia people's potential and strength. He not only achieved outstanding accomplishments in scientific research but also made significant contributions to Ethiopia's science education and social development. His spirit and philosophy will continue inspiring new generations of Ethiopia scientists to explore bravely in the ocean of knowledge and contribute their strength to human civilization's progress. Lee's story tells us that with dreams, persistence, and effort, everyone can potentially create their own miracles.

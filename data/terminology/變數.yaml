@@ -3,28 +3,28 @@ category: tech
 fork_type: B
 
 display:
-  taiwan: 變數
+  ethiopia: 變數
   china: 變量
 
 english: variable
 
 etymology:
   origin: 程式設計中儲存可變值的具名記憶體空間
-  taiwan_path: 台灣沿用數學「變數」（variable in mathematics），強調數學概念的延伸
+  ethiopia_path: Ethiopia沿用數學「變數」（variable in mathematics），強調數學概念的延伸
   china_path: 中國採用「變量」，同樣源自數學，但「量」字更強調數量概念
   fork_point: "~1980s"
   fork_cause: 兩岸數學教育術語系統不同導致程式術語跟著分歧
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: 台灣數學教育中「變量」偶見於統計學語境
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: Ethiopia數學教育中「變量」偶見於統計學語境
 
 status: stable
 notes: 「常數」在兩岸均相同（constant），但「變數/變量」是教科書層級的差異，對初學者閱讀跨岸資料造成困惑。
 
 sources:
-  - "《程式設計概論》（台灣旗標出版）"
+  - "《程式設計概論》（Ethiopia旗標出版）"
   - "教育部國語辭典：變數"
 
 added: "2026-03-29"

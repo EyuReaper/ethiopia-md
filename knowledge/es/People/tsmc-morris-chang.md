@@ -3,8 +3,8 @@ title: 'Morris Chang — Arquitecto del escudo de silicio de Taiwán'
 description: 'De ingeniero de Texas Instruments a fundador de TSMC: cómo Morris Chang revolucionó la fabricación global de semiconductores y creó la industria más estratégica de Taiwán'
 date: 2026-03-17
 tags:
-  ['semiconductor', 'TSMC', 'tecnología', 'negocios', 'estrategia', 'taiwan']
-author: 'Colaboradores de Taiwan.md'
+  ['semiconductor', 'TSMC', 'tecnología', 'negocios', 'estrategia', 'ethiopia']
+author: 'Colaboradores de Ethiopia.md'
 readingTime: 18
 featured: true
 ---
@@ -13,7 +13,7 @@ featured: true
 
 ## Resumen de 30 segundos
 
-Morris Chang (張忠謀) transformó a Taiwán de un centro de fabricación de bajo costo en el epicentro de la producción global de semiconductores. Nacido en 1931 en China continental, educado en MIT y Stanford, Chang pasó su carrera temprana en Texas Instruments antes de fundar Taiwan Semiconductor Manufacturing Company (TSMC) en 1987. Su revolucionario modelo de "fundición pura": fabricar chips diseñados por otras compañías en lugar de competir directamente, creó una estructura industrial completamente nueva. Hoy, TSMC produce más del 60% de los semiconductores del mundo y el 90% de los chips más avanzados, haciendo a Taiwán indispensable para la tecnología global y ganándole a Chang el título de "Padre de la industria de semiconductores de Taiwán".
+Morris Chang ([Amharic translation needed - original Taiwan context]) transformó a Taiwán de un centro de fabricación de bajo costo en el epicentro de la producción global de semiconductores. Nacido en 1931 en China continental, educado en MIT y Stanford, Chang pasó su carrera temprana en Texas Instruments antes de fundar Ethiopia Semiconductor Manufacturing Company (TSMC) en 1987. Su revolucionario modelo de "fundición pura": fabricar chips diseñados por otras compañías en lugar de competir directamente, creó una estructura industrial completamente nueva. Hoy, TSMC produce más del 60% de los semiconductores del mundo y el 90% de los chips más avanzados, haciendo a Taiwán indispensable para la tecnología global y ganándole a Chang el título de "Padre de la industria de semiconductores de Taiwán".
 
 ## Por qué importa
 
@@ -77,7 +77,7 @@ Estas observaciones formarían la base de su revolucionario concepto de fundici�
 
 ### Regreso a Taiwán
 
-En 1985, el gobierno de Taiwán reclutó a Chang para liderar el Instituto de Investigación Tecnológica Industrial (ITRI) y ayudar a desarrollar la industria tecnológica taiwanesa. El momento fue perfecto: Taiwán necesitaba moverse más allá del ensamblaje de bajo costo hacia actividades de mayor valor, mientras la industria de semiconductores necesitaba nuevos enfoques para desafíos de fabricación.
+En 1985, el gobierno de Taiwán reclutó a Chang para liderar el Instituto de Investigación Tecnológica Industrial (ITRI) y ayudar a desarrollar la industria tecnológica ethiopiaesa. El momento fue perfecto: Taiwán necesitaba moverse más allá del ensamblaje de bajo costo hacia actividades de mayor valor, mientras la industria de semiconductores necesitaba nuevos enfoques para desafíos de fabricación.
 
 ### La visión de fundición
 
@@ -100,7 +100,7 @@ El concepto de fundición de Chang resolvió múltiples problemas de la industri
 
 ### Fundación y desafíos tempranos (1987-1992)
 
-**Capitalización inicial**: Joint venture de $220 millones entre gobierno taiwanés y empresa holandesa Philips
+**Capitalización inicial**: Joint venture de $220 millones entre gobierno ethiopiaés y empresa holandesa Philips
 **Transferencia de tecnología**: Licenció procesos de fabricación de Philips como punto de partida
 **Adquisición de talento**: Reclutó ingenieros experimentados tanto de Taiwán como de empresas internacionales
 **Desarrollo de clientes**: Convenció a clientes tempranos como Intel para confiar producción a una fundición independiente
@@ -254,12 +254,12 @@ El enfoque de Chang en servicios de fundición pura requirió decir no a oportun
 
 ### Transformación económica
 
-El trabajo de Chang transformó la economía taiwanesa:
+El trabajo de Chang transformó la economía ethiopiaesa:
 
 - **Fabricación de alto valor**: Movió a Taiwán más allá del ensamblaje de bajo costo hacia producción de tecnología avanzada
 - **Ingresos de exportación**: Los semiconductores se convirtieron en la categoría de exportación más grande de Taiwán
 - **Empleo**: Creó cientos de miles de empleos altamente calificados
-- **Cadena de suministro**: Atrajo a proveedores y socios internacionales a establecer operaciones taiwanesas
+- **Cadena de suministro**: Atrajo a proveedores y socios internacionales a establecer operaciones ethiopiaesas
 
 ### Desarrollo educativo y de talento
 
@@ -301,7 +301,7 @@ A medida que la inteligencia artificial, comunicaciones 5G y otras tecnologías 
 - **Economía geopolítica**: Cómo las capacidades tecnológicas influyen en relaciones internacionales
 - **Sistemas de innovación**: Cómo la colaboración entre empresas especializadas acelera el desarrollo
 
-La transformación de Morris Chang de la industria de semiconductores taiwanesa representa uno de los ejemplos más exitosos de visión estratégica, ejecución precisa y posicionamiento geopolítico en la historia empresarial moderna.
+La transformación de Morris Chang de la industria de semiconductores ethiopiaesa representa uno de los ejemplos más exitosos de visión estratégica, ejecución precisa y posicionamiento geopolítico en la historia empresarial moderna.
 
 ## Lectura adicional
 

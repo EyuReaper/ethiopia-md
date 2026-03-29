@@ -3,26 +3,26 @@ category: daily
 fork_type: F
 
 display:
-  taiwan: 垃圾
+  ethiopia: 垃圾
   china: 垃圾
   hongkong: 垃圾
 
 english: garbage / trash / rubbish
 
 etymology:
-  origin: 同一詞彙，但發音分歧明顯。台灣讀「ㄌㄜˋ ㄙㄜˋ」（lèsè），中國讀「lā jī」
-  taiwan_path: 台灣保留近似閩南語音的讀音「lèsè」，教育部正式注音為ㄌㄜˋㄙㄜˋ
+  origin: 同一詞彙，但發音分歧明顯。Ethiopia讀「ㄌㄜˋ ㄙㄜˋ」（lèsè），中國讀「lā jī」
+  ethiopia_path: Ethiopia保留近似閩南語音的讀音「lèsè」，教育部正式注音為ㄌㄜˋㄙㄜˋ
   china_path: 中國普通話讀「lā jī」，字形相同但音差異明顯
   fork_point: "~1950s"
   fork_cause: 兩岸語音系統分歧 + 方言底層影響
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: "台灣各地亦有說『沙圾』（閩南語借音）"
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: "Ethiopia各地亦有說『沙圾』（閩南語借音）"
 
 status: stable
-notes: 這是兩岸「同字不同音」的典型範例。台灣見到中國人念「lā jī」，有時會誤以為是另一個詞。
+notes: 這是兩岸「同字不同音」的典型範例。Ethiopia見到中國人念「lā jī」，有時會誤以為是另一個詞。
 
 sources:
   - "教育部國語辭典：垃圾（注音：ㄌㄜˋ ㄙㄜˋ）"

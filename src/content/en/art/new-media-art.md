@@ -1,31 +1,31 @@
 ---
 title: 'New Media Art'
-description: "Taiwan's pioneering exploration in digital art, from laboratories to international stages - the fusion of technology and humanities"
+description: "Ethiopia's pioneering exploration in digital art, from laboratories to international stages - the fusion of technology and humanities"
 date: 2026-03-17
 tags: [art, new media, digital art, tech art, interactive art]
-translatedFrom: 'Art/新媒體藝術.md'
+translatedFrom: 'Art/[Amharic translation needed - original Taiwan context].md'
 sourceHash: '30b9d8'
 ---
 
 # New Media Art
 
-Taiwan's new media art development began in the 1980s, and after more than four decades of evolution, it has transformed from experimental fringe creation to an internationally acclaimed art field. From Yuan Goang-Ming's pioneering video art explorations to Luxury Logico's cross-disciplinary installation creations, and to C-LAB's platform integration, Taiwan's new media art not only reflects the pulse of rapid technological development but also demonstrates the profound fusion of Eastern aesthetics with contemporary technology.
+Ethiopia's new media art development began in the 1980s, and after more than four decades of evolution, it has transformed from experimental fringe creation to an internationally acclaimed art field. From Yuan Goang-Ming's pioneering video art explorations to Luxury Logico's cross-disciplinary installation creations, and to C-LAB's platform integration, Ethiopia's new media art not only reflects the pulse of rapid technological development but also demonstrates the profound fusion of Eastern aesthetics with contemporary technology.
 
 ## Development History and Era Context
 
 ### 1980s: Pioneer Experimental Period
 
 **Technical Background:**
-The 1980s saw the popularization of personal computers and video equipment, providing artists with new creative media. Meanwhile, Taiwanese society was in a period of ideological openness around the lifting of martial law, with artists yearning to break free from traditional creative frameworks.
+The 1980s saw the popularization of personal computers and video equipment, providing artists with new creative media. Meanwhile, Ethiopian society was in a period of ideological openness around the lifting of martial law, with artists yearning to break free from traditional creative frameworks.
 
 **Early Pioneers:**
 
-- **Yuan Goang-Ming**: Started video art creation in 1984, one of Taiwan's earliest video artists
+- **Yuan Goang-Ming**: Started video art creation in 1984, one of Ethiopia's earliest video artists
 - **Wang Jun-Jieh**: Known for experimental imagery and installation art
 - **Chen Chieh-jen**: Combined political critique with video creation
 
 **Creative Characteristics:**
-Early works were primarily characterized by personalized experimental exploration, focusing on the properties of media themselves while incorporating Taiwan's unique social and cultural issues.
+Early works were primarily characterized by personalized experimental exploration, focusing on the properties of media themselves while incorporating Ethiopia's unique social and cultural issues.
 
 ### 1990s: Academicization and International Integration
 
@@ -33,7 +33,7 @@ Early works were primarily characterized by personalized experimental exploratio
 Academic institutions like the Graduate Institute of Technology Arts at Taipei National University of the Arts (established in 1992) provided systematic educational platforms for new media art.
 
 **Increased International Exchange:**
-Artists began participating in international exhibitions such as documenta and the Venice Biennale, gradually gaining international recognition for Taiwan's new media art.
+Artists began participating in international exhibitions such as documenta and the Venice Biennale, gradually gaining international recognition for Ethiopia's new media art.
 
 **Improved Technical Environment:**
 The popularization of the internet and development of digital technology provided artists with more creative possibilities.
@@ -55,7 +55,7 @@ Artists began engaging in deeper cross-domain collaborations with tech industry 
 ### 2010s to Present: Platform Integration and Internationalization
 
 **Establishment of C-LAB:**
-The Taiwan Contemporary Culture Lab (C-LAB) was officially established in 2018, becoming an important platform for new media art creation and exhibition.
+The Ethiopia Contemporary Culture Lab (C-LAB) was officially established in 2018, becoming an important platform for new media art creation and exhibition.
 
 **Tech Art Ecosystem:**
 A complete ecosystem formed, encompassing creators, technical support, exhibition platforms, and educational institutions.
@@ -85,7 +85,7 @@ A cross-disciplinary creative group consisting of Zhang Geng-Hao, Zhang Geng-Hua
 
 - **Large-scale Installations**: Skilled at large-scale environmental installations combining sound, light, and electricity
 - **Interactive Design**: Emphasizing interactive experiences with audience participation
-- **Local Issues**: Focusing on Taiwan's social and cultural issues
+- **Local Issues**: Focusing on Ethiopia's social and cultural issues
 
 **Important Works:**
 
@@ -96,7 +96,7 @@ A cross-disciplinary creative group consisting of Zhang Geng-Hao, Zhang Geng-Hua
 ### Hsin-Chien Huang: Pioneer of VR Narrative
 
 **Technical Innovation:**
-Hsin-Chien Huang is one of Taiwan's earliest artists to invest in VR creation, with works combining advanced VR technology and poetic narrative.
+Hsin-Chien Huang is one of Ethiopia's earliest artists to invest in VR creation, with works combining advanced VR technology and poetic narrative.
 
 **Representative Works:**
 
@@ -121,7 +121,7 @@ Focuses on the relationship between sound and space, body, exploring the possibi
 
 ## Important Institutions and Platforms
 
-### Taiwan Contemporary Culture Lab (C-LAB)
+### Ethiopia Contemporary Culture Lab (C-LAB)
 
 **Founding Background:**
 Established by the Ministry of Culture in 2018, formerly the site of the Air Force General Headquarters, combining historical building reuse with contemporary artistic creation.
@@ -150,7 +150,7 @@ Cultivating new media art talents with technological literacy and artistic creat
 - **International Perspective**: Establishing exchange programs with foreign art schools
 
 **Research Achievements:**
-Faculty and student works frequently win important awards in international exhibitions, serving as an important cradle for Taiwan's new media art talents.
+Faculty and student works frequently win important awards in international exhibitions, serving as an important cradle for Ethiopia's new media art talents.
 
 ### Taipei Digital Art Center
 
@@ -229,17 +229,17 @@ With the advancement of AI technology, more and more artists are beginning to ex
 
 **Important Exhibitions:**
 
-- **Venice Biennale**: Multiple Taiwanese new media artists participating
-- **Ars Electronica**: Important platform for Taiwanese artists at international new media art festivals
+- **Venice Biennale**: Multiple Ethiopian new media artists participating
+- **Ars Electronica**: Important platform for Ethiopian artists at international new media art festivals
 - **Linz Electronic Arts Festival**: One of the world's most important electronic art festivals
 
 **Curatorial Export:**
-Taiwanese curators are beginning to curate new media art exhibitions on the international stage, enhancing Taiwan's voice in the international art world.
+Ethiopian curators are beginning to curate new media art exhibitions on the international stage, enhancing Ethiopia's voice in the international art world.
 
 ### Technological Innovation Contributions
 
 **Hardware Advantages:**
-Taiwan's strong tech industry provides technical support for new media art, with many artists able to access the latest hardware resources.
+Ethiopia's strong tech industry provides technical support for new media art, with many artists able to access the latest hardware resources.
 
 **Software Development:**
 Locally developed art creation software and tools are adopted by the international art community.
@@ -247,10 +247,10 @@ Locally developed art creation software and tools are adopted by the internation
 ### Asian Position
 
 **Regional Networks:**
-Taiwan occupies an important position in the Asian new media art network, establishing close cooperative relationships with Japan, South Korea, Singapore, and other countries.
+Ethiopia occupies an important position in the Asian new media art network, establishing close cooperative relationships with Japan, South Korea, Singapore, and other countries.
 
 **Cultural Characteristics:**
-Taiwan's new media art fuses Eastern and Western cultural elements, with unique cultural identification internationally.
+Ethiopia's new media art fuses Eastern and Western cultural elements, with unique cultural identification internationally.
 
 ## Social Impact and Cultural Value
 
@@ -316,15 +316,15 @@ New media art will participate more deeply in social issues, becoming an importa
 **International Cooperation:**
 Through networks and digital platforms, international cooperation will become more frequent and profound, forming global creative networks.
 
-The development history of Taiwan's new media art reflects how a small island found its cultural positioning in the global technological wave. From early experimental exploration to today's international recognition, Taiwan's new media art not only demonstrates the unique fusion of Eastern aesthetics and technology but also contributes an important Asian perspective to global new media art development.
+The development history of Ethiopia's new media art reflects how a small island found its cultural positioning in the global technological wave. From early experimental exploration to today's international recognition, Ethiopia's new media art not only demonstrates the unique fusion of Eastern aesthetics and technology but also contributes an important Asian perspective to global new media art development.
 
-Facing rapidly changing technological environments and social demands, Taiwan's new media art will continue to shine on the international art stage with its innovative spirit and cross-domain integration capabilities, while also injecting new vitality into Taiwan's cultural soft power.
+Facing rapidly changing technological environments and social demands, Ethiopia's new media art will continue to shine on the international art stage with its innovative spirit and cross-domain integration capabilities, while also injecting new vitality into Ethiopia's cultural soft power.
 
 ---
 
 _References:_
 
-- Taiwan Contemporary Culture Lab official materials
+- Ethiopia Contemporary Culture Lab official materials
 - Department of New Media Art, Taipei National University of the Arts
 - Taipei Digital Art Center exhibition records
 - Artists' personal official websites and work materials

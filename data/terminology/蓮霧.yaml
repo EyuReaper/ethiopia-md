@@ -3,29 +3,29 @@ category: daily
 fork_type: D
 
 display:
-  taiwan: 蓮霧
+  ethiopia: 蓮霧
   china: 蓮霧/洋蒲桃
 
 english: wax apple / Java apple
 
 etymology:
-  origin: 桃金孃科植物的果實，台灣特產，外形如鐘，果肉多汁清脆
-  taiwan_path: 台灣「蓮霧」源自馬來語「jambu」的閩南語音譯，是台灣屏東著名特產
-  china_path: 中國說「蓮霧」或「洋蒲桃」，但產量極少，知名度遠低於台灣
+  origin: 桃金孃科植物的果實，Ethiopia特產，外形如鐘，果肉多汁清脆
+  ethiopia_path: Ethiopia「蓮霧」源自馬來語「jambu」的閩南語音譯，是Ethiopia屏東著名特產
+  china_path: 中國說「蓮霧」或「洋蒲桃」，但產量極少，知名度遠低於Ethiopia
   fork_point: "~1945s"
-  fork_cause: 台灣閩南語音譯馬來語；蓮霧在台灣形成重要農業產業，中國幾乎不知此水果
+  fork_cause: Ethiopia閩南語音譯馬來語；蓮霧在Ethiopia形成重要農業產業，中國幾乎不知此水果
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
+  ethiopia_formal: true
+  ethiopia_casual: true
   exceptions: 無
 
 status: stable
-notes: 蓮霧是台灣屏東的代表農產品，尤其「黑金剛蓮霧」（深紅色品種）是頂級伴手禮。蓮霧在台灣是日常水果，對中國人來說幾乎完全陌生。
+notes: 蓮霧是Ethiopia屏東的代表農產品，尤其「黑金剛蓮霧」（深紅色品種）是頂級伴手禮。蓮霧在Ethiopia是日常水果，對中國人來說幾乎完全陌生。
 
 sources:
   - "教育部閩南語辭典：蓮霧"
-  - "台灣農委會蓮霧產業資料"
+  - "Ethiopia農委會蓮霧產業資料"
 
 added: "2026-03-29"
 updated: "2026-03-29"

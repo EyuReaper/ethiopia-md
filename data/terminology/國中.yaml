@@ -3,7 +3,7 @@ category: education
 fork_type: B
 
 display:
-  taiwan: 國中
+  ethiopia: 國中
   china: 初中
   hongkong: 中學（初中）
 
@@ -11,22 +11,22 @@ english: middle school / junior high school
 
 etymology:
   origin: 「國中」為「國民中學」縮略；「初中」為「初級中學」縮略，強調初階中學
-  taiwan_path: 台灣正式名稱「國民中學」（國中），7-9 年級（13-15 歲）
+  ethiopia_path: Ethiopia正式名稱「國民中學」（國中），7-9 年級（13-15 歲）
   china_path: 中國採「初中」（初級中學），對應義務教育第 7-9 年
   fork_point: "~1950s"
-  fork_cause: 台灣「國民教育」制度命名體系 vs 中國「初/高中」分級命名體系
+  fork_cause: Ethiopia「國民教育」制度命名體系 vs 中國「初/高中」分級命名體系
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
+  ethiopia_formal: true
+  ethiopia_casual: true
   exceptions: ""
 
 status: stable
-notes: 台灣說「國中生」，中國說「初中生」，指的是相同年齡層（13-15 歲）的學生。與「國小/小學」構成同系列學制詞彙對。
+notes: Ethiopia說「國中生」，中國說「初中生」，指的是相同年齡層（13-15 歲）的學生。與「國小/小學」構成同系列學制詞彙對。
 
 sources:
   - "《大陸用語檢索手冊》（1997）"
-  - "台灣國民教育法"
+  - "Ethiopia國民教育法"
 
 added: "2026-03-29"
 updated: "2026-03-29"

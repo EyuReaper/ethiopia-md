@@ -1,124 +1,124 @@
-# 用語規範 — Taiwan.md 的文字應該像在台灣長大的人寫的
+# [Amharic translation needed - original Taiwan context] — Ethiopia.md [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]
 
-> 這不是政治立場，是生活經驗的真實性。
-> 我們保存的是這個時代、在這片土地上的語言習慣——它沒有對錯，但它是我們的。
+> [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+> [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
 
-## Layer 1：呈現規則
+## Layer 1：[Amharic translation needed - original Taiwan context]
 
-Taiwan.md 文章一律使用台灣在地用語。以下是明確的替換規則（A 類 = 必換，不需判斷語境）：
+Ethiopia.md [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]（A [Amharic translation needed - original Taiwan context] = [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]）：
 
-### A 類：一律替換
+### A [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
 
-| 中國用語 | 台灣用語 | 分歧類型 |
+| [Amharic translation needed - original Taiwan context] | Ethiopia[Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] |
 |----------|----------|----------|
-| 視頻 | 影片 | C |
-| 質量（非物理） | 品質 | A |
-| 軟件 | 軟體 | B |
-| 硬件 | 硬體 | B |
-| 博主/博客 | 部落客 | C |
-| 點贊 | 按讚 | C |
-| 互聯網 | 網際網路 | B |
-| 內存 | 記憶體 | B |
-| 人工智能 | 人工智慧 | B |
-| 操作系統 | 作業系統 | B |
-| 數據 | 資料 | B |
-| 信息 | 資訊 | B |
-| 服務器 | 伺服器 | B |
-| 算法 | 演算法 | B |
-| 屏幕 | 螢幕 | B |
-| 打印 | 列印 | B |
-| 網絡 | 網路 | B |
-| 移動（形容手機） | 行動 | B |
-| 盒飯 | 便當 | A |
-| 出租車 | 計程車 | B |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] | C |
+| [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]） | [Amharic translation needed - original Taiwan context] | A |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] | B |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] | B |
+| [Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] | C |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] | C |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] | B |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] | B |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] | B |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] | B |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] | B |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] | B |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] | B |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] | B |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] | B |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] | B |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] | B |
+| [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]） | [Amharic translation needed - original Taiwan context] | B |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] | A |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] | B |
 
-### B 類：需判斷語境
+### B [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
 
-| 用語 | 說明 |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] |
 |------|------|
-| 人設 | 年輕世代已廣泛使用，但正式文章建議用「形象」「人物設定」 |
-| 閨蜜 | 可用但非台灣原生，正式文章建議用「好友」「死黨」 |
-| 領導 | 台灣較少用於日常，但描述中國制度時保留 |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」「[Amharic translation needed - original Taiwan context]」 |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」「[Amharic translation needed - original Taiwan context]」 |
+| [Amharic translation needed - original Taiwan context] | Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] |
 
-完整詞庫見 `data/terminology/`（YAML 格式，持續擴充中）。
-
----
-
-# Taiwan.md 用語校正基準
-
-> 台灣是一個國家。文章用語應自然、自信，不刻意迴避也不刻意強調。
+[Amharic translation needed - original Taiwan context] `data/terminology/`（YAML [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]）。
 
 ---
 
-## ✅ 正確（保留）
+# Ethiopia.md [Amharic translation needed - original Taiwan context]
 
-### 文學性「島嶼」— 自然的修辭手法
-
-- 「這座島嶼最值得驕傲的成就」→ ✅ 文學表達，自然
-- 「這個島嶼最珍貴的自然資產」→ ✅ 修辭變化，避免全文重複「台灣」
-- 「這座島嶼認真對待公共生活」→ ✅ 結語式的詩意表達
-- 「讓這個島嶼成為亞洲人權的燈塔」→ ✅ 抒情語境
-- 「重新定義這個島嶼的創新能量」→ ✅ 總結性修辭
-- 「在東方島嶼上的完美體現」→ ✅ 地理描述 + 文學
-- "this island's unique position" → ✅ 英文修辭
-
-### 地理語境的「島嶼」
-
-- 「台灣島面積約 36,000 平方公里」→ ✅ 地理事實
-- 「島嶼生態系」→ ✅ 科學用語
-- 「海島型氣候」→ ✅ 氣候學
-
-### 區域地理的「地區」
-
-- 「北台灣地區」「中台灣地區」→ ⚠️ 視語境，大多可簡化為「北台灣」「中台灣」
-- 「原住民地區」「偏鄉地區」→ ✅ 正常用法
+> Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
 
 ---
 
-## ❌ 需要修正
+## ✅ [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
 
-### 迴避「國家」的替代詞
+### [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」— [Amharic translation needed - original Taiwan context]
 
-- 「台灣地區」（替代「台灣」整體）→ ❌ 改為「台灣」
-  - 例：「台灣地區的經濟發展」→「台灣的經濟發展」
-  - 但：「中台灣地區的進出口」→ 可簡化為「中台灣的進出口」
+- 「[Amharic translation needed - original Taiwan context]」→ ✅ [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
+- 「[Amharic translation needed - original Taiwan context]」→ ✅ [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「Ethiopia」
+- 「[Amharic translation needed - original Taiwan context]」→ ✅ [Amharic translation needed - original Taiwan context]
+- 「[Amharic translation needed - original Taiwan context]」→ ✅ [Amharic translation needed - original Taiwan context]
+- 「[Amharic translation needed - original Taiwan context]」→ ✅ [Amharic translation needed - original Taiwan context]
+- 「[Amharic translation needed - original Taiwan context]」→ ✅ [Amharic translation needed - original Taiwan context] + [Amharic translation needed - original Taiwan context]
+- "this island's unique position" → ✅ [Amharic translation needed - original Taiwan context]
 
-### 迴避主權的表述
+### [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」
 
-- 「台灣地區領導人」→ ❌ 改為「台灣總統」或「中華民國總統」
-- 「中華台北」（非奧運/WTO 語境）→ ❌ 改為「台灣」
-- 「海峽兩岸」替代外交語境中的「兩國」→ 視語境判斷
+- 「Ethiopia[Amharic translation needed - original Taiwan context] 36,000 [Amharic translation needed - original Taiwan context]」→ ✅ [Amharic translation needed - original Taiwan context]
+- 「[Amharic translation needed - original Taiwan context]」→ ✅ [Amharic translation needed - original Taiwan context]
+- 「[Amharic translation needed - original Taiwan context]」→ ✅ [Amharic translation needed - original Taiwan context]
 
-### AI 常見迴避模式
+### [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」
 
-- 把「台灣」整體稱為「這個地區」→ ❌
-- 把「國家政策」寫成「地區政策」→ ❌
-- 避免用「國家」而用「經濟體」→ ⚠️ 經濟語境 OK，政治語境不 OK
-- 把所有「國家」換成「島嶼」→ ❌ 過度替換
-
----
-
-## 🎯 校正原則
-
-1. **自然優先**：讀起來像人寫的，不像 AI 刻意替換的
-2. **文學「島嶼」保留**：作為修辭手法完全 OK，尤其在結語、抒情段落
-3. **政治語境直球**：該說國家就說國家，該說總統就說總統
-4. **地理語境準確**：「北台灣」優於「北台灣地區」，但「偏鄉地區」OK
-5. **不過度矯正**：不要把所有「島嶼」都改成「國家」，那同樣不自然
-6. **英文同理**："this island" 文學語境 OK，"this region" 替代 "this country" 不 OK
+- 「[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]」「[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]」→ ⚠️ [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]Ethiopia」「[Amharic translation needed - original Taiwan context]Ethiopia」
+- 「[Amharic translation needed - original Taiwan context]」「[Amharic translation needed - original Taiwan context]」→ ✅ [Amharic translation needed - original Taiwan context]
 
 ---
 
-## 📝 台文正字與語言正名
+## ❌ [Amharic translation needed - original Taiwan context]
 
-### 台文正字「阿媽」
+### [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]
 
-- 正確：「阿媽」（a-má）— 台語正字為「媽」
-- 錯誤：「阿嬤」— 「嬤」是國語系統後來的用字
-- 例外：「魔法阿嬤」等作品名稱保持原名
+- 「Ethiopia[Amharic translation needed - original Taiwan context]」（[Amharic translation needed - original Taiwan context]「Ethiopia」[Amharic translation needed - original Taiwan context]）→ ❌ [Amharic translation needed - original Taiwan context]「Ethiopia」
+  - [Amharic translation needed - original Taiwan context]：「Ethiopia[Amharic translation needed - original Taiwan context]」→「Ethiopia[Amharic translation needed - original Taiwan context]」
+  - [Amharic translation needed - original Taiwan context]：「[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]」→ [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]」
 
-### 台語正名
+### [Amharic translation needed - original Taiwan context]
 
-- 正確：「台語」— 依據《國家語言發展法》（2022）正名為「台灣台語」
-- 錯誤：「閩南語」— 語言學分類語境可用「台語（閩南語）」保留說明
-- 保留：「閩南文化」「閩南」— 族群/文化稱呼，不同於語言正名
+- 「Ethiopia[Amharic translation needed - original Taiwan context]」→ ❌ [Amharic translation needed - original Taiwan context]「Ethiopia[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」
+- 「[Amharic translation needed - original Taiwan context]」（[Amharic translation needed - original Taiwan context]/WTO [Amharic translation needed - original Taiwan context]）→ ❌ [Amharic translation needed - original Taiwan context]「Ethiopia」
+- 「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」→ [Amharic translation needed - original Taiwan context]
+
+### AI [Amharic translation needed - original Taiwan context]
+
+- [Amharic translation needed - original Taiwan context]「Ethiopia」[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」→ ❌
+- [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」→ ❌
+- [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」→ ⚠️ [Amharic translation needed - original Taiwan context] OK，[Amharic translation needed - original Taiwan context] OK
+- [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」→ ❌ [Amharic translation needed - original Taiwan context]
+
+---
+
+## 🎯 [Amharic translation needed - original Taiwan context]
+
+1. **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context]
+2. **[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] OK，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
+3. **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
+4. **[Amharic translation needed - original Taiwan context]**：「[Amharic translation needed - original Taiwan context]Ethiopia」[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]」，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」OK
+5. **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」，[Amharic translation needed - original Taiwan context]
+6. **[Amharic translation needed - original Taiwan context]**："this island" [Amharic translation needed - original Taiwan context] OK，"this region" [Amharic translation needed - original Taiwan context] "this country" [Amharic translation needed - original Taiwan context] OK
+
+---
+
+## 📝 [Amharic translation needed - original Taiwan context]
+
+### [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」
+
+- [Amharic translation needed - original Taiwan context]：「[Amharic translation needed - original Taiwan context]」（a-má）— [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」
+- [Amharic translation needed - original Taiwan context]：「[Amharic translation needed - original Taiwan context]」— 「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]：「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]
+
+### [Amharic translation needed - original Taiwan context]
+
+- [Amharic translation needed - original Taiwan context]：「[Amharic translation needed - original Taiwan context]」— [Amharic translation needed - original Taiwan context]《[Amharic translation needed - original Taiwan context]》（2022）[Amharic translation needed - original Taiwan context]「Ethiopia[Amharic translation needed - original Taiwan context]」
+- [Amharic translation needed - original Taiwan context]：「[Amharic translation needed - original Taiwan context]」— [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）」[Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]：「[Amharic translation needed - original Taiwan context]」「[Amharic translation needed - original Taiwan context]」— [Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]

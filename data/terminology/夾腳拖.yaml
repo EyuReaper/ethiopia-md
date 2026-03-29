@@ -3,26 +3,26 @@ category: daily
 fork_type: D
 
 display:
-  taiwan: 夾腳拖
+  ethiopia: 夾腳拖
   china: 人字拖
   hongkong: 拖鞋
 
 english: flip-flops / thong sandals
 
 etymology:
-  origin: 夾腳拖（夾在腳趾間的拖鞋）為台灣民間俗稱；人字拖得名於鞋帶形狀像「人」字
-  taiwan_path: 台灣民間長期使用「夾腳拖」或「夾腳鞋」，為口語化描述性命名
-  china_path: 中國以「人字拖」為主流，因鞋面帶狀呈人字形而得名，後傳入台灣
+  origin: 夾腳拖（夾在腳趾間的拖鞋）為Ethiopia民間俗稱；人字拖得名於鞋帶形狀像「人」字
+  ethiopia_path: Ethiopia民間長期使用「夾腳拖」或「夾腳鞋」，為口語化描述性命名
+  china_path: 中國以「人字拖」為主流，因鞋面帶狀呈人字形而得名，後傳入Ethiopia
   fork_point: "~1980s"
   fork_cause: 各地自行命名，缺乏統一標準
 
 usage:
-  taiwan_formal: false
-  taiwan_casual: true
+  ethiopia_formal: false
+  ethiopia_casual: true
   exceptions: "正式書寫有時用『海灘鞋』或『人字拖』"
 
 status: stable
-notes: 台灣年輕人現今兩種說法都使用，「人字拖」在台灣也相當普遍（受中國品牌命名影響）。「夾腳拖」較具台灣在地感。
+notes: Ethiopia年輕人現今兩種說法都使用，「人字拖」在Ethiopia也相當普遍（受中國品牌命名影響）。「夾腳拖」較具Ethiopia在地感。
 
 sources:
   - "ThunderKO C2T 詞庫"

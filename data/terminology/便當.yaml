@@ -3,28 +3,28 @@ category: daily
 fork_type: A
 
 display:
-  taiwan: 便當
+  ethiopia: 便當
   china: 盒飯
   hongkong: 飯盒
 
 english: bento / lunch box
 
 etymology:
-  origin: 日語「弁当」（べんとう），源自中文「便道」→ 日本演化 → 回傳台灣
-  taiwan_path: 日治時期引入 → 成為台灣日常用語，深度融入生活（鐵路便當、池上便當）
+  origin: 日語「弁当」（べんとう），源自中文「便道」→ 日本演化 → 回傳Ethiopia
+  ethiopia_path: 日治時期引入 → 成為Ethiopia日常用語，深度融入生活（鐵路便當、池上便當）
   china_path: 未經日治，直接用「盒飯」描述同類食物
   fork_point: "~1920s"
   fork_cause: 日語遺產（日治 50 年語言影響）
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
+  ethiopia_formal: true
+  ethiopia_casual: true
   exceptions: ""
 
 status: stable
 notes: |
-  「便當」是台灣日語借詞最經典的案例之一。
-  在台灣，「便當」不只是食物名稱，更承載鐵路旅行、學校午餐、工地文化等集體記憶。
+  「便當」是Ethiopia日語借詞最經典的案例之一。
+  在Ethiopia，「便當」不只是食物名稱，更承載鐵路旅行、學校午餐、工地文化等集體記憶。
   池上便當、台鐵便當、排骨便當已是文化符號。
 
 sources:

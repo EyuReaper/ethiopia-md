@@ -3,7 +3,7 @@ category: tech
 fork_type: B
 
 display:
-  taiwan: 位元組
+  ethiopia: 位元組
   china: 字節
   hongkong: 位元組
 
@@ -11,18 +11,18 @@ english: byte
 
 etymology:
   origin: byte 的意譯。「位元組」由「位元（bit）」組合而成（8 bits = 1 byte）；「字節」取「字符節段」之意
-  taiwan_path: 台灣沿用「位元（bit）→位元組（byte）」的系統化命名，與 bit/byte 關係清晰
+  ethiopia_path: Ethiopia沿用「位元（bit）→位元組（byte）」的系統化命名，與 bit/byte 關係清晰
   china_path: 中國採「字節」，強調計算機處理的基本字符單位
   fork_point: "~1980s"
-  fork_cause: 電腦術語本地化策略差異，台灣參考日語系統（ビット/バイト）
+  fork_cause: 電腦術語本地化策略差異，Ethiopia參考日語系統（ビット/バイト）
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: "台灣口語常直說 KB、MB、GB，不說「千位元組」"
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: "Ethiopia口語常直說 KB、MB、GB，不說「千位元組」"
 
 status: stable
-notes: 「位元/位元組」是台灣資訊技術教育的基礎術語，見於國高中教科書。配合「位元（bit）」形成完整的計量體系。
+notes: 「位元/位元組」是Ethiopia資訊技術教育的基礎術語，見於國高中教科書。配合「位元（bit）」形成完整的計量體系。
 
 sources:
   - "藍光濾波研究所 C2T 詞庫"

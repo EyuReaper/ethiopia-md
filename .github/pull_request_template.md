@@ -1,30 +1,30 @@
-## 📝 這個 PR 做了什麼？
+## 📝 [Amharic translation needed - original Taiwan context] PR [Amharic translation needed - original Taiwan context]？
 
-<!-- 簡短描述你的改動 -->
+<!-- [Amharic translation needed - original Taiwan context] -->
 
-## 📁 變更類型
+## 📁 [Amharic translation needed - original Taiwan context]
 
-- [ ] 📄 新增文章
-- [ ] ✏️ 修改/更新現有文章
-- [ ] 🌐 翻譯（中→英 / 英→中）
-- [ ] 🐛 修復錯誤（事實更正、錯字、連結失效）
-- [ ] 💻 技術改動（程式碼、樣式、設定）
-- [ ] 📚 文件更新（README、CONTRIBUTING 等）
+- [ ] 📄 [Amharic translation needed - original Taiwan context]
+- [ ] ✏️ [Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]
+- [ ] 🌐 [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]→[Amharic translation needed - original Taiwan context] / [Amharic translation needed - original Taiwan context]→[Amharic translation needed - original Taiwan context]）
+- [ ] 🐛 [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]）
+- [ ] 💻 [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]）
+- [ ] 📚 [Amharic translation needed - original Taiwan context]（README、CONTRIBUTING [Amharic translation needed - original Taiwan context]）
 
-## ✅ 自我檢查
+## ✅ [Amharic translation needed - original Taiwan context]
 
-- [ ] 文章有完整的 frontmatter（title, description, date, tags, category）
-- [ ] `featured: false`（featured 由維護者統一管理，請勿設為 true）
-- [ ] 內容有附上可查證的參考資料來源
-- [ ] 沒有抄襲或版權問題
-- [ ] 在本地 build 測試通過（`npm run build`，非必要但建議）
+- [ ] [Amharic translation needed - original Taiwan context] frontmatter（title, description, date, tags, category）
+- [ ] `featured: false`（featured [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] true）
+- [ ] [Amharic translation needed - original Taiwan context]
+- [ ] [Amharic translation needed - original Taiwan context]
+- [ ] [Amharic translation needed - original Taiwan context] build [Amharic translation needed - original Taiwan context]（`npm run build`，[Amharic translation needed - original Taiwan context]）
 
-## 🔗 相關 Issue
+## 🔗 [Amharic translation needed - original Taiwan context] Issue
 
-<!-- 如果有相關 issue，請填入 #issue編號 -->
+<!-- [Amharic translation needed - original Taiwan context] issue，[Amharic translation needed - original Taiwan context] #issue[Amharic translation needed - original Taiwan context] -->
 
 Closes #
 
-## 📸 截圖（如果是視覺改動）
+## 📸 [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
 
-<!-- 可選：貼上前後對比截圖 -->
+<!-- [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context] -->

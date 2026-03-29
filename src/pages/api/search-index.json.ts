@@ -43,7 +43,7 @@ export const GET: APIRoute = async () => {
             d: data.description || '',
             u: `/${slug}/${name}`,
             tags: data.tags || [],
-            lang: 'zh-TW',
+            lang: 'am',
           });
         } catch {
           // YAML parse error, skip this file

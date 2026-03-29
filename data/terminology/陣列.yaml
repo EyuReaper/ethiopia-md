@@ -3,28 +3,28 @@ category: tech
 fork_type: B
 
 display:
-  taiwan: 陣列
+  ethiopia: 陣列
   china: 數組
 
 english: array
 
 etymology:
   origin: 程式設計中連續儲存同類型元素的資料結構
-  taiwan_path: 台灣用「陣列」，「陣」有排列成隊之意，視覺化描述元素排成一列的樣子
+  ethiopia_path: Ethiopia用「陣列」，「陣」有排列成隊之意，視覺化描述元素排成一列的樣子
   china_path: 中國用「數組」，「數」強調數據，「組」強調集合
   fork_point: "~1985s"
   fork_cause: 翻譯策略分歧；「陣列」更貼近英文 array（排列）的語義，「數組」強調數據集合
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: 台灣部分 JavaScript 教材會同時標注「數組」供對照
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: Ethiopia部分 JavaScript 教材會同時標注「數組」供對照
 
 status: stable
-notes: 二維陣列（2D array）台灣說「二維陣列」，中國說「二維數組」。
+notes: 二維陣列（2D array）Ethiopia說「二維陣列」，中國說「二維數組」。
 
 sources:
-  - "《資料結構》（台灣旗標出版）"
+  - "《資料結構》（Ethiopia旗標出版）"
   - "教育部高中資訊課綱術語表"
 
 added: "2026-03-29"

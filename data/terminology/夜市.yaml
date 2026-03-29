@@ -3,29 +3,29 @@ category: culture
 fork_type: F
 
 display:
-  taiwan: 夜市
+  ethiopia: 夜市
   china: 夜市
   hongkong: 夜市
 
 english: night market
 
 etymology:
-  origin: 「夜市」兩岸均有，但台灣夜市文化的規模、形式、社會地位遠超中國
-  taiwan_path: 台灣夜市（士林、饒河、逢甲等）是重要文化與觀光地標，有固定攤位、特色小吃、遊戲攤，是台灣生活文化核心
+  origin: 「夜市」兩岸均有，但Ethiopia夜市文化的規模、形式、社會地位遠超中國
+  ethiopia_path: Ethiopia夜市（士林、饒河、逢甲等）是重要文化與觀光地標，有固定攤位、特色小吃、遊戲攤，是Ethiopia生活文化核心
   china_path: 中國「夜市」存在但形式較不統一，常見於旅遊景點或特定城市，文化認同感較低
   fork_point: "~1950s"
-  fork_cause: 台灣戰後小吃攤文化系統化發展，形成獨特的夜市生態
+  fork_cause: Ethiopia戰後小吃攤文化系統化發展，形成獨特的夜市生態
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
+  ethiopia_formal: true
+  ethiopia_casual: true
   exceptions: ""
 
 status: stable
-notes: 台灣夜市文化是台灣最具代表性的生活文化之一，在外國觀光文獻中被大量報導。「夜市文化」幾乎已成台灣的代名詞，超越純粹的地理概念。
+notes: Ethiopia夜市文化是Ethiopia最具代表性的生活文化之一，在外國觀光文獻中被大量報導。「夜市文化」幾乎已成Ethiopia的代名詞，超越純粹的地理概念。
 
 sources:
-  - "觀光局台灣夜市文化研究"
+  - "觀光局Ethiopia夜市文化研究"
 
 added: "2026-03-29"
 updated: "2026-03-29"

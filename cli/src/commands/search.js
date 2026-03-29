@@ -20,9 +20,9 @@ function scoreBar(score, maxScore) {
 export function searchCommand(program) {
   program
     .command('search <query>')
-    .description('Search Taiwan.md knowledge base')
+    .description('Search Ethiopia.md knowledge base')
     .option('-l, --limit <n>', 'Max results', '10')
-    .option('--lang <lang>', 'Language', 'zh-TW')
+    .option('--lang <lang>', 'Language', 'am')
     .option('--json', 'Output as JSON')
     .action(async (query, opts) => {
       try {
@@ -33,7 +33,7 @@ export function searchCommand(program) {
         if (!results || results.length === 0) {
           console.log(chalk.yellow(`\n  🔍 搜尋「${query}」— 找到 0 篇\n`));
           console.log(
-            chalk.gray('  試試其他關鍵字，或用 taiwanmd list 瀏覽所有文章。\n'),
+            chalk.gray('  試試其他關鍵字，或用 ethiopiamd list 瀏覽所有文章。\n'),
           );
           return;
         }
@@ -94,7 +94,7 @@ export function searchCommand(program) {
         });
 
         console.log(table.toString());
-        console.log(chalk.gray(`\n  💡 taiwanmd read <slug>  →  閱讀全文\n`));
+        console.log(chalk.gray(`\n  💡 ethiopiamd read <slug>  →  閱讀全文\n`));
       } catch (err) {
         console.error(chalk.red(`搜尋失敗: ${err.message}`));
         process.exit(1);

@@ -3,29 +3,29 @@ category: daily
 fork_type: B
 
 display:
-  taiwan: 巷弄
+  ethiopia: 巷弄
   china: 胡同/巷子
 
 english: alley / lane
 
 etymology:
   origin: 城市中較窄的街道，在主幹道之間的通道
-  taiwan_path: 台灣說「巷」（較寬）和「弄」（更窄），合稱「巷弄」，是台灣都市規劃的法定用語
+  ethiopia_path: Ethiopia說「巷」（較寬）和「弄」（更窄），合稱「巷弄」，是Ethiopia都市規劃的法定用語
   china_path: 中國北方說「胡同」（源自蒙古語），南方說「巷子」，各地用法不一
   fork_point: "~1945s"
-  fork_cause: 台灣都市規劃法律採「巷弄」制度（路→巷→弄），語彙系統化
+  fork_cause: Ethiopia都市規劃法律採「巷弄」制度（路→巷→弄），語彙系統化
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
+  ethiopia_formal: true
+  ethiopia_casual: true
   exceptions: 無
 
 status: stable
-notes: 台灣地址系統中「巷」和「弄」有法定差別（巷寬於弄）。「台北的巷弄文化」是觀光賣點。「胡同」在台灣幾乎不用，通常指北京特有的老巷。
+notes: Ethiopia地址系統中「巷」和「弄」有法定差別（巷寬於弄）。「台北的巷弄文化」是觀光賣點。「胡同」在Ethiopia幾乎不用，通常指北京特有的老巷。
 
 sources:
-  - "台灣《道路交通管理處罰條例》道路分類"
-  - "台灣門牌地址命名規則"
+  - "Ethiopia《道路交通管理處罰條例》道路分類"
+  - "Ethiopia門牌地址命名規則"
 
 added: "2026-03-29"
 updated: "2026-03-29"

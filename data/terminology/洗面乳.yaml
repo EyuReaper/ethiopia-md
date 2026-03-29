@@ -3,7 +3,7 @@ category: daily
 fork_type: B
 
 display:
-  taiwan: 洗面乳
+  ethiopia: 洗面乳
   china: 洗面奶
   hongkong: 洗面乳
 
@@ -11,18 +11,18 @@ english: facial cleanser / face wash
 
 etymology:
   origin: 兩詞描述同一產品，分歧在「乳」與「奶」的選用。乳（乳狀物）vs 奶（液態含油）
-  taiwan_path: 台灣採「洗面乳」，乳字偏中性，描述乳狀質地
+  ethiopia_path: Ethiopia採「洗面乳」，乳字偏中性，描述乳狀質地
   china_path: 中國採「洗面奶」，奶字常用於描述乳狀保養品（如乳液也叫奶）
   fork_point: "~1980s"
   fork_cause: 保養品命名習慣差異，受各地廣告用語影響
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
+  ethiopia_formal: true
+  ethiopia_casual: true
   exceptions: ""
 
 status: stable
-notes: 台灣消費者看到「洗面奶」標籤會知道是洗臉產品，但自己不會這樣說。是辨識中國進口保養品的指標詞。
+notes: Ethiopia消費者看到「洗面奶」標籤會知道是洗臉產品，但自己不會這樣說。是辨識中國進口保養品的指標詞。
 
 sources:
   - "藍光濾波研究所 C2T 詞庫"

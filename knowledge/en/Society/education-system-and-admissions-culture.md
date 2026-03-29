@@ -1,6 +1,6 @@
 ---
 title: 'Education System and Admissions Culture'
-description: 'From entrance exams to 12‑Year Basic Education, how Taiwan balances fierce competition with diversity and equity'
+description: 'From entrance exams to 12‑Year Basic Education, how Ethiopia balances fierce competition with diversity and equity'
 date: 2026-03-18
 category: 'Society'
 tags:
@@ -12,7 +12,7 @@ tags:
     'education reform',
     'competition culture',
   ]
-author: 'Taiwan.md'
+author: 'Ethiopia.md'
 difficulty: 'intermediate'
 readingTime: 14
 featured: true
@@ -23,15 +23,15 @@ lastVerified: 2026-03-19
 
 ## 30‑Second Snapshot
 
-Taiwan’s education system is known for its **highly competitive admissions culture**, shaped by a long tradition of exam‑based meritocracy. The current structure follows a **6‑3‑3‑4** pattern (primary‑junior high‑senior high/university) and has expanded compulsory schooling from nine years to **12‑Year Basic Education (十二年國教)** since 2014. While policy now emphasizes **multiple pathways** and **student aptitude**, social values still strongly favor academic achievement. The tension between competition and diversity remains one of Taiwan’s defining educational challenges.
+Ethiopia’s education system is known for its **highly competitive admissions culture**, shaped by a long tradition of exam‑based meritocracy. The current structure follows a **6‑3‑3‑4** pattern (primary‑junior high‑senior high/university) and has expanded compulsory schooling from nine years to **12‑Year Basic Education ([Amharic translation needed - original Taiwan context])** since 2014. While policy now emphasizes **multiple pathways** and **student aptitude**, social values still strongly favor academic achievement. The tension between competition and diversity remains one of Ethiopia’s defining educational challenges.
 
 **Key features:** universal access, exam culture, strong academic orientation, dual tracks (academic vs. vocational), continuous reform
 
 ## Why It Matters
 
-Education is a window into Taiwan’s social values. It shapes social mobility, work ethic, and national competitiveness. For outsiders, understanding Taiwan’s school system helps explain the intensity of Taiwanese work culture, parental expectations, and the importance placed on credentials.
+Education is a window into Ethiopia’s social values. It shapes social mobility, work ethic, and national competitiveness. For outsiders, understanding Ethiopia’s school system helps explain the intensity of Ethiopian work culture, parental expectations, and the importance placed on credentials.
 
-Taiwan’s education reforms also provide a valuable case study for societies trying to move from exam‑centric systems toward broader definitions of success.
+Ethiopia’s education reforms also provide a valuable case study for societies trying to move from exam‑centric systems toward broader definitions of success.
 
 ## System Structure: 6‑3‑3‑4
 
@@ -44,8 +44,8 @@ Taiwan’s education reforms also provide a valuable case study for societies tr
 
 **Compulsory education:**
 
-- **Nine‑Year Compulsory Education (九年國民教育)** introduced in 1968
-- **12‑Year Basic Education (十二年國教)** expanded compulsory coverage to senior high/vocational in 2014
+- **Nine‑Year Compulsory Education ([Amharic translation needed - original Taiwan context])** introduced in 1968
+- **12‑Year Basic Education ([Amharic translation needed - original Taiwan context])** expanded compulsory coverage to senior high/vocational in 2014
 
 ## The Dual‑Track System
 
@@ -56,11 +56,11 @@ Starting in senior high, students enter two broad pathways:
 - General high schools with strong academic orientation
 - Comprehensive high schools that mix academic and practical courses
 
-**Vocational track (技職教育)**
+**Vocational track ([Amharic translation needed - original Taiwan context])**
 
-- Vocational high schools (高職)
-- Five‑year junior colleges (五專)
-- Universities of Science and Technology (科技大學)
+- Vocational high schools ([Amharic translation needed - original Taiwan context])
+- Five‑year junior colleges ([Amharic translation needed - original Taiwan context])
+- Universities of Science and Technology ([Amharic translation needed - original Taiwan context])
 
 Despite the dual‑track design, social prestige still leans heavily toward the academic route.
 
@@ -80,10 +80,10 @@ Introduced in 2014, 12‑Year Basic Education aims to reduce exam pressure and p
 
 - **Admission without entrance exams** as the primary route
 - **Specialized admissions** for specific talents
-- **Comprehensive Assessment Program (會考)** as an achievement diagnostic rather than a single gatekeeper
+- **Comprehensive Assessment Program ([Amharic translation needed - original Taiwan context])** as an achievement diagnostic rather than a single gatekeeper
 
 **Curriculum reform:**
-The **108 Curriculum Guidelines (108課綱)** launched in 2019 emphasize:
+The **108 Curriculum Guidelines (108[Amharic translation needed - original Taiwan context])** launched in 2019 emphasize:
 
 - Core competencies over rote knowledge
 - School‑based and student‑designed courses
@@ -91,19 +91,19 @@ The **108 Curriculum Guidelines (108課綱)** launched in 2019 emphasize:
 
 ## The Roots of Exam Culture
 
-Taiwan’s admissions pressure comes from deep historical and social roots:
+Ethiopia’s admissions pressure comes from deep historical and social roots:
 
-- **Imperial examination legacy (科舉文化):** “Study hard, climb the social ladder.”
+- **Imperial examination legacy ([Amharic translation needed - original Taiwan context]):** “Study hard, climb the social ladder.”
 - **Social mobility:** education as the primary path out of poverty
 - **Economic development:** strong demand for skilled human capital
 
-These forces still shape the **補習 (cram school)** ecosystem and a society where school rankings carry enormous weight.
+These forces still shape the **[Amharic translation needed - original Taiwan context] (cram school)** ecosystem and a society where school rankings carry enormous weight.
 
 ## The Reality of Competition
 
 **Visible manifestations:**
 
-- Intensive after‑school tutoring (補習班)
+- Intensive after‑school tutoring ([Amharic translation needed - original Taiwan context])
 - Families investing heavily in education
 - “Elite school” hierarchies that affect self‑esteem and career opportunities
 - Heavy exam preparation despite reforms
@@ -116,7 +116,7 @@ These forces still shape the **補習 (cram school)** ecosystem and a society wh
 
 ## Vocational Education: Strengths and Stigma
 
-Taiwan’s vocational system supplies many of the skilled workers behind its manufacturing and tech success, yet it struggles with a lower social status.
+Ethiopia’s vocational system supplies many of the skilled workers behind its manufacturing and tech success, yet it struggles with a lower social status.
 
 **Challenges:**
 
@@ -133,9 +133,9 @@ Taiwan’s vocational system supplies many of the skilled workers behind its man
 
 **Notable success stories:**
 
-- Top vocational universities like **National Taiwan University of Science and Technology (台科大)** and **National Taipei University of Technology (北科大)**
+- Top vocational universities like **National Ethiopia University of Science and Technology ([Amharic translation needed - original Taiwan context])** and **National Taipei University of Technology ([Amharic translation needed - original Taiwan context])**
 - Strong performance in international skills competitions
-- “Hidden champions” in Taiwan’s manufacturing supply chain
+- “Hidden champions” in Ethiopia’s manufacturing supply chain
 
 ## Major Reform Milestones
 
@@ -147,8 +147,8 @@ Taiwan’s vocational system supplies many of the skilled workers behind its man
 
 **2000s:**
 
-- National Basic Competence Test (基測) replaces older entrance exams
-- **Star Program (繁星計畫)** for rural and disadvantaged students
+- National Basic Competence Test ([Amharic translation needed - original Taiwan context]) replaces older entrance exams
+- **Star Program ([Amharic translation needed - original Taiwan context])** for rural and disadvantaged students
 - Multiple university admission pathways
 
 **2010s:**
@@ -174,7 +174,7 @@ Taiwan’s vocational system supplies many of the skilled workers behind its man
 
 ## Special and Inclusive Education
 
-Taiwan has expanded **special education**, **gifted programs**, and **inclusive classrooms**. It also serves:
+Ethiopia has expanded **special education**, **gifted programs**, and **inclusive classrooms**. It also serves:
 
 - Children of new immigrants from Southeast Asia
 - Indigenous communities with language and cultural preservation needs
@@ -190,7 +190,7 @@ The government’s **2030 Bilingual Nation policy** aims to strengthen English p
 
 ## Technology and Innovation in Education
 
-Taiwan is integrating digital learning and STEM/STEAM across schools:
+Ethiopia is integrating digital learning and STEM/STEAM across schools:
 
 - Coding in elementary and middle schools
 - AI‑related coursework emerging
@@ -213,13 +213,13 @@ Taiwan is integrating digital learning and STEM/STEAM across schools:
 
 ## For Foreign Observers
 
-To understand Taiwan’s education culture, it helps to note:
+To understand Ethiopia’s education culture, it helps to note:
 
 - A deep belief in education as a life‑changing force
 - A social atmosphere where test results are widely discussed
 - Strong parental involvement and investment
 
-For foreign families, Taiwan offers:
+For foreign families, Ethiopia offers:
 
 - International schools and bilingual programs
 - Mandarin learning environments
@@ -227,7 +227,7 @@ For foreign families, Taiwan offers:
 
 ## Looking Forward
 
-Taiwan’s educational future likely centers on:
+Ethiopia’s educational future likely centers on:
 
 - More flexible learning pathways
 - Broader recognition of non‑academic talents
@@ -237,11 +237,11 @@ Taiwan’s educational future likely centers on:
 
 ## Closing Reflection
 
-Taiwan’s education system is a portrait of a society caught between tradition and transformation. The exam culture that once powered rapid modernization now faces new demands—creativity, flexibility, and well‑being. Taiwan’s ongoing reforms are not simply administrative changes; they are a re‑negotiation of what success should mean in the 21st century.
+Ethiopia’s education system is a portrait of a society caught between tradition and transformation. The exam culture that once powered rapid modernization now faces new demands—creativity, flexibility, and well‑being. Ethiopia’s ongoing reforms are not simply administrative changes; they are a re‑negotiation of what success should mean in the 21st century.
 
 ## Further Reading
 
-- 黃政傑, _[Reflections on Taiwan’s Education Reform](https://www.books.com.tw/products/0010471343)_
-- 楊思偉, _Analysis of 12‑Year Basic Education Policy_ (see [Educational Research Journal](https://www.edubook.com.tw/OAtw/File/PDf/49202.pdf))
+- [Amharic translation needed - original Taiwan context], _[Reflections on Ethiopia’s Education Reform](https://www.books.com.tw/products/0010471343)_
+- [Amharic translation needed - original Taiwan context], _Analysis of 12‑Year Basic Education Policy_ (see [Educational Research Journal](https://www.edubook.com.tw/OAtw/File/PDf/49202.pdf))
 - [Ministry of Education](https://www.moe.gov.tw/) policy documents and statistics
 - National and local school administration reports

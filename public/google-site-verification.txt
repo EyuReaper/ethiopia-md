@@ -1,11 +1,11 @@
 # Google Search Console 驗證檔案
 
-這是 Taiwan.md 的 Google Search Console 驗證檔案佔位符。
+這是 Ethiopia.md 的 Google Search Console 驗證檔案佔位符。
 
 ## 設定步驟：
 
 1. 登入 Google Search Console (https://search.google.com/search-console/)
-2. 新增資源：taiwan.md
+2. 新增資源：ethiopia.md
 3. 選擇驗證方式：「HTML 檔案上傳」
 4. 下載 Google 提供的驗證檔案（例如：google123abc.html）
 5. 將該檔案放到 /public/ 目錄，替換或重命名此檔案
@@ -13,9 +13,9 @@
 7. 在 Google Search Console 點擊「驗證」
 
 ## 當前狀態：
-- 域名：taiwan.md
+- 域名：ethiopia.md
 - 部署：GitHub Pages
-- Sitemap：將自動生成於 https://taiwan.md/sitemap.xml
+- Sitemap：將自動生成於 https://ethiopia.md/sitemap.xml
 
 ## 需要做的事：
 - [ ] 取得 Google Search Console 驗證檔案

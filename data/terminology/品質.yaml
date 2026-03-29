@@ -3,7 +3,7 @@ category: daily
 fork_type: A
 
 display:
-  taiwan: 品質
+  ethiopia: 品質
   china: 質量
   hongkong: 質素
 
@@ -11,18 +11,18 @@ english: quality
 
 etymology:
   origin: 日語「品質」（ひんしつ），明治時期從英語 quality 翻譯
-  taiwan_path: 日治時期引入 → 戰後沿用至今（教科書、法規、日常）
+  ethiopia_path: 日治時期引入 → 戰後沿用至今（教科書、法規、日常）
   china_path: 1949 後改用「質量」，quality 與 mass（物理）共用同一詞
   fork_point: "~1950s"
   fork_cause: 日語遺產 + 兩岸語言政策分歧
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: "物理學 mass → 台灣也用「質量」"
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: "物理學 mass → Ethiopia也用「質量」"
 
 status: stable
-notes: 台灣的「品質」保留了日語漢字直譯傳統。中國「質量」一詞雙義常見混淆。
+notes: Ethiopia的「品質」保留了日語漢字直譯傳統。中國「質量」一詞雙義常見混淆。
 
 sources:
   - "教育部國語辭典：品質"

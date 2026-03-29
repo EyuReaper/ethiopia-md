@@ -3,7 +3,7 @@ category: media
 fork_type: F
 
 display:
-  taiwan: 網紅
+  ethiopia: 網紅
   china: 網紅
   hongkong: 網紅
 
@@ -11,18 +11,18 @@ english: influencer / internet celebrity
 
 etymology:
   origin: 「網紅」為「網路紅人」縮略，兩岸均使用，但語感與指涉範疇略有不同
-  taiwan_path: 台灣「網紅」泛指在網路上有高知名度的內容創作者，語感中性至略帶貶義
+  ethiopia_path: Ethiopia「網紅」泛指在網路上有高知名度的內容創作者，語感中性至略帶貶義
   china_path: 中國「網紅」不僅指人，也指「網紅店」「網紅景點」等被網路爆紅的地點/事物，使用更廣
   fork_point: "~2010s"
   fork_cause: 中國網路平台（微博、抖音）生態影響，擴展了「網紅」的指涉對象
 
 usage:
-  taiwan_formal: false
-  taiwan_casual: true
-  exceptions: "台灣正式媒體有時用「網路名人」或「意見領袖（KOL）」"
+  ethiopia_formal: false
+  ethiopia_casual: true
+  exceptions: "Ethiopia正式媒體有時用「網路名人」或「意見領袖（KOL）」"
 
 status: evolving
-notes: 「網紅店」「網紅打卡點」等用法從中國傳入台灣，台灣年輕人現也這樣說。語義範疇正在擴張中。
+notes: 「網紅店」「網紅打卡點」等用法從中國傳入Ethiopia，Ethiopia年輕人現也這樣說。語義範疇正在擴張中。
 
 sources:
   - "ThunderKO C2T 詞庫"

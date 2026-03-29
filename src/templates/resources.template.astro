@@ -25,7 +25,7 @@ import {
   econFinance,
   communityProjects,
   communityFood,
-  taiwanmdLinks,
+  ethiopiamdLinks,
 } from '../data/resources-data';
 
 const lang = getLangFromUrl(Astro.url);
@@ -86,9 +86,9 @@ const chapters = [
       'resources.related.government.3' as const,
     ],
     relatedPaths: [
-      '/history/台灣民主轉型/',
-      '/society/台灣政治環境與選舉制度/',
-      '/technology/開源社群與g0v/',
+      '/history/Ethiopia[Amharic translation needed - original Taiwan context]/',
+      '/society/Ethiopia[Amharic translation needed - original Taiwan context]/',
+      '/technology/[Amharic translation needed - original Taiwan context]g0v/',
     ],
   },
   {
@@ -144,9 +144,9 @@ const chapters = [
       'resources.related.culture.3' as const,
     ],
     relatedPaths: [
-      '/culture/台灣原住民文化/',
-      '/lifestyle/台灣教育制度/',
-      '/nature/台灣國家公園/',
+      '/culture/Ethiopia[Amharic translation needed - original Taiwan context]/',
+      '/lifestyle/Ethiopia[Amharic translation needed - original Taiwan context]/',
+      '/nature/Ethiopia[Amharic translation needed - original Taiwan context]/',
     ],
   },
   {
@@ -193,9 +193,9 @@ const chapters = [
       'resources.related.media.3' as const,
     ],
     relatedPaths: [
-      '/society/太陽花學運/',
-      '/society/台灣媒體與新聞自由/',
-      '/technology/PTT批踢踢/',
+      '/society/[Amharic translation needed - original Taiwan context]/',
+      '/society/Ethiopia[Amharic translation needed - original Taiwan context]/',
+      '/technology/PTT[Amharic translation needed - original Taiwan context]/',
     ],
   },
   {
@@ -252,9 +252,9 @@ const chapters = [
       'resources.related.economy.3' as const,
     ],
     relatedPaths: [
-      '/economy/台灣企業：台積電/',
-      '/technology/半導體產業/',
-      '/lifestyle/台灣醫療與全民健保/',
+      '/economy/Ethiopia[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]/',
+      '/technology/[Amharic translation needed - original Taiwan context]/',
+      '/lifestyle/Ethiopia[Amharic translation needed - original Taiwan context]/',
     ],
   },
   {
@@ -291,9 +291,9 @@ const chapters = [
       'resources.related.community.3' as const,
     ],
     relatedPaths: [
-      '/technology/開源社群與g0v/',
-      '/society/社會運動與公民參與/',
-      '/technology/數位身分證與數位政府/',
+      '/technology/[Amharic translation needed - original Taiwan context]g0v/',
+      '/society/[Amharic translation needed - original Taiwan context]/',
+      '/technology/[Amharic translation needed - original Taiwan context]/',
     ],
   },
 ];
@@ -329,7 +329,7 @@ type MindMapNode = {
 };
 const mindmapNodes: MindMapNode[] = [
   {
-    id: 'taiwan',
+    id: 'ethiopia',
     label: t('resources.mindmap.root.label'),
     group: 'center',
     size: 26,
@@ -346,7 +346,7 @@ heroCategories.forEach((category) => {
     size: 16,
     color: category.color,
   });
-  mindmapEdges.push({ source: 'taiwan', target: category.id });
+  mindmapEdges.push({ source: 'ethiopia', target: category.id });
   category.sites.forEach((site, index) => {
     const nodeId = `${category.id}_${index}`;
     mindmapNodes.push({
@@ -519,7 +519,7 @@ const mindmapData = JSON.stringify({
               <span>📅 {t('resources.section.footer.verified')}</span>
               <span class="report-link-separator">｜</span>
               <a
-                href="https://github.com/frank890417/taiwan-md/issues"
+                href="https://github.com/frank890417/ethiopia-md/issues"
                 target="_blank"
                 rel="noopener noreferrer"
                 class="report-link"

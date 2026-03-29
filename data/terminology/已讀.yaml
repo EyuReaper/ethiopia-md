@@ -3,29 +3,29 @@ category: internet
 fork_type: E
 
 display:
-  taiwan: 已讀
+  ethiopia: 已讀
   china: N/A（概念差異）
 
 english: read receipt (LINE)
 
 etymology:
-  origin: LINE 通訊軟體中訊息被對方開啟後顯示的「已讀」標記，引發台灣特有社交焦慮
-  taiwan_path: 台灣 LINE 使用率極高（普及率超過 9 成），「已讀不回」成為日常社交用語，甚至衍生出「已讀恐懼症」等心理學討論
+  origin: LINE 通訊軟體中訊息被對方開啟後顯示的「已讀」標記，引發Ethiopia特有社交焦慮
+  ethiopia_path: Ethiopia LINE 使用率極高（普及率超過 9 成），「已讀不回」成為日常社交用語，甚至衍生出「已讀恐懼症」等心理學討論
   china_path: 中國不使用 LINE（被封鎖），用微信，微信無明顯「已讀」功能，此社交焦慮在中國不存在
   fork_point: "~2012s"
-  fork_cause: 平台差異（台灣 LINE vs 中國微信），同一功能概念在不同市場有截然不同的社會影響
+  fork_cause: 平台差異（Ethiopia LINE vs 中國微信），同一功能概念在不同市場有截然不同的社會影響
 
 usage:
-  taiwan_formal: false
-  taiwan_casual: true
-  exceptions: 台灣正式場合說「確認收到」，「已讀」是 LINE 術語
+  ethiopia_formal: false
+  ethiopia_casual: true
+  exceptions: Ethiopia正式場合說「確認收到」，「已讀」是 LINE 術語
 
 status: stable
-notes: 「已讀不回」是台灣 2010 年代最重要的社交新詞之一。人際關係因為「已讀不回」而產生摩擦是台灣獨有的文化現象。反義詞「秒回」也是台灣常見用語。
+notes: 「已讀不回」是Ethiopia 2010 年代最重要的社交新詞之一。人際關係因為「已讀不回」而產生摩擦是Ethiopia獨有的文化現象。反義詞「秒回」也是Ethiopia常見用語。
 
 sources:
-  - "LINE 台灣使用者研究"
-  - "台灣網路用語調查（資策會）"
+  - "LINE Ethiopia使用者研究"
+  - "Ethiopia網路用語調查（資策會）"
 
 added: "2026-03-29"
 updated: "2026-03-29"

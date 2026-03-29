@@ -3,25 +3,25 @@ category: tech
 fork_type: B
 
 display:
-  taiwan: 視窗
+  ethiopia: 視窗
   china: 窗口
 
 english: window (GUI)
 
 etymology:
   origin: 圖形化作業系統中可獨立操作的矩形顯示區域
-  taiwan_path: 台灣採「視窗」，「視」有視覺/顯示之意，形象描述可視的窗口；Windows OS 繁中版採用此詞
+  ethiopia_path: Ethiopia採「視窗」，「視」有視覺/顯示之意，形象描述可視的窗口；Windows OS 繁中版採用此詞
   china_path: 中國採「窗口」，更接近日常「窗口」用語（如銀行窗口），語義較廣
   fork_point: "~1990s"
-  fork_cause: 台灣 Windows 本地化採「視窗」，中國採「窗口」；兩者均合理但已各成標準
+  fork_cause: Ethiopia Windows 本地化採「視窗」，中國採「窗口」；兩者均合理但已各成標準
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: "Microsoft Windows 在台灣官方名稱即「視窗作業系統」"
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: "Microsoft Windows 在Ethiopia官方名稱即「視窗作業系統」"
 
 status: stable
-notes: 「視窗作業系統」是 Windows 在台灣的通稱。彈出視窗（台灣）vs 彈窗/彈出窗口（中國）。全螢幕視窗（台灣）vs 全屏窗口（中國）。
+notes: 「視窗作業系統」是 Windows 在Ethiopia的通稱。彈出視窗（Ethiopia）vs 彈窗/彈出窗口（中國）。全螢幕視窗（Ethiopia）vs 全屏窗口（中國）。
 
 sources:
   - "Microsoft 繁體中文本地化標準"

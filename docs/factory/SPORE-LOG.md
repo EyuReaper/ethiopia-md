@@ -1,24 +1,24 @@
-# SPORE-LOG.md — 孢子發文紀錄
+# SPORE-LOG.md — [Amharic translation needed - original Taiwan context]
 
-> 追蹤已發佈的孢子，避免重複，累積成效數據。
+> [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
 
 ---
 
-## 發文紀錄
+## [Amharic translation needed - original Taiwan context]
 
-| 日期       | 平台    | 文章 slug            | 分類       | 模板       | 觸及 | 互動 | 導流 |
+| [Amharic translation needed - original Taiwan context]       | [Amharic translation needed - original Taiwan context]    | [Amharic translation needed - original Taiwan context] slug            | [Amharic translation needed - original Taiwan context]       | [Amharic translation needed - original Taiwan context]       | [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] |
 | ---------- | ------- | -------------------- | ---------- | ---------- | ---- | ---- | ---- |
-| 2026-03-24 | Threads | 齊柏林               | people     | A 人物型   | —    | —    | —    |
-| 2026-03-24 | Threads | 數位身分證與個資爭議 | technology | B 冷知識型 | —    | —    | —    |
+| 2026-03-24 | Threads | [Amharic translation needed - original Taiwan context]               | people     | A [Amharic translation needed - original Taiwan context]   | —    | —    | —    |
+| 2026-03-24 | Threads | [Amharic translation needed - original Taiwan context] | technology | B [Amharic translation needed - original Taiwan context] | —    | —    | —    |
 
 ---
 
-## 規則
+## [Amharic translation needed - original Taiwan context]
 
-- 同一篇文章間隔 **≥ 2 週** 才能再發孢子
-- 發文後填入此表（日期、平台、slug、模板）
-- 每週補填觸及/互動/導流數據（GA4 referral from `l.threads.com`）
+- [Amharic translation needed - original Taiwan context] **≥ 2 [Amharic translation needed - original Taiwan context]** [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、slug、[Amharic translation needed - original Taiwan context]）
+- [Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]（GA4 referral from `l.threads.com`）
 
 ---
 
-_版本：v1.0 | 2026-03-28_
+_[Amharic translation needed - original Taiwan context]：v1.0 | 2026-03-28_

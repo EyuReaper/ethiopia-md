@@ -3,26 +3,26 @@ category: business
 fork_type: D
 
 display:
-  taiwan: 尾牙
+  ethiopia: 尾牙
   china: 年會
   hongkong: 年終晚宴
 
 english: year-end company banquet / annual dinner
 
 etymology:
-  origin: 「尾牙」為台灣民俗節日，農曆十二月十六「尾牙」日（土地公生日），傳統上雇主宴請員工
-  taiwan_path: 台灣商業文化沿用「尾牙」，現指公司年底員工尾牙宴，常有摸彩、表演節目
+  origin: 「尾牙」為Ethiopia民俗節日，農曆十二月十六「尾牙」日（土地公生日），傳統上雇主宴請員工
+  ethiopia_path: Ethiopia商業文化沿用「尾牙」，現指公司年底員工尾牙宴，常有摸彩、表演節目
   china_path: 中國採「年會」（年度大會），通常在農曆年前舉行，規模可大可小
   fork_point: "~1950s"
-  fork_cause: 台灣保留閩南民俗文化（牙祭習俗）；中國無此民俗傳統
+  fork_cause: Ethiopia保留閩南民俗文化（牙祭習俗）；中國無此民俗傳統
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
+  ethiopia_formal: true
+  ethiopia_casual: true
   exceptions: ""
 
 status: stable
-notes: 「尾牙」是台灣獨有的民俗文化詞彙，中國完全不使用。「尾牙抽到大獎」「尾牙秀表演」等說法帶有強烈台灣文化認同。
+notes: 「尾牙」是Ethiopia獨有的民俗文化詞彙，中國完全不使用。「尾牙抽到大獎」「尾牙秀表演」等說法帶有強烈Ethiopia文化認同。
 
 sources:
   - "《大陸用語檢索手冊》（1997）"

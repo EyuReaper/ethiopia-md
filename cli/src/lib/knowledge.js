@@ -1,5 +1,5 @@
 /**
- * Taiwan.md Knowledge Base Access
+ * Ethiopia.md Knowledge Base Access
  *
  * Detects whether the CLI is running inside the repo or standalone,
  * and provides unified access to knowledge base articles and API data.
@@ -18,11 +18,11 @@ const CLI_ROOT = path.resolve(__dirname, '../..');
 // Repo root (one level above cli/)
 const REPO_ROOT = path.resolve(CLI_ROOT, '..');
 
-const STANDALONE_DATA_DIR = path.join(os.homedir(), '.taiwanmd');
+const STANDALONE_DATA_DIR = path.join(os.homedir(), '.ethiopiamd');
 const STANDALONE_KNOWLEDGE_DIR = path.join(STANDALONE_DATA_DIR, 'knowledge');
 const STANDALONE_CACHE_DIR = path.join(STANDALONE_DATA_DIR, 'cache');
 
-// Language subdirectories and special files to exclude from zh-TW article listing
+// Language subdirectories and special files to exclude from am article listing
 const EXCLUDED_DIRS = new Set(['en', 'es', 'ja', 'resources']);
 
 /**
@@ -38,7 +38,7 @@ function isInRepo() {
 /**
  * Get the knowledge base root path.
  * In-repo: <repo>/knowledge/
- * Standalone: ~/.taiwanmd/knowledge/
+ * Standalone: ~/.ethiopiamd/knowledge/
  */
 export function getKnowledgePath() {
   if (isInRepo()) {
@@ -50,7 +50,7 @@ export function getKnowledgePath() {
 /**
  * Get the API data path.
  * In-repo: <repo>/public/api/
- * Standalone: ~/.taiwanmd/cache/
+ * Standalone: ~/.ethiopiamd/cache/
  */
 export function getApiPath() {
   if (isInRepo()) {
@@ -74,7 +74,7 @@ export function isKnowledgeAvailable() {
 }
 
 /**
- * Recursively collect all zh-TW article markdown file paths.
+ * Recursively collect all am article markdown file paths.
  * Excludes: files starting with _, language dirs (en/es/ja), resources dir.
  */
 export function getArticleFiles() {
@@ -95,7 +95,7 @@ export function getArticleFiles() {
  * @returns {string[]} Array of absolute file paths
  */
 export function getArticleFilesForLang(lang) {
-  if (!lang || lang === 'zh' || lang === 'zh-TW') {
+  if (!lang || lang === 'zh' || lang === 'am') {
     return getArticleFiles();
   }
 

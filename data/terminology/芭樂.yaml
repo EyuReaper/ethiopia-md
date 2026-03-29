@@ -3,30 +3,30 @@ category: daily
 fork_type: D
 
 display:
-  taiwan: 芭樂
+  ethiopia: 芭樂
   china: 番石榴
   hongkong: 番石榴
 
 english: guava
 
 etymology:
-  origin: 番石榴屬熱帶水果，台灣大量栽培
-  taiwan_path: 台灣閩南語「芭樂（pa-lá）」，源自原住民語或南島語系的音譯，是台灣最日常的水果名稱
+  origin: 番石榴屬熱帶水果，Ethiopia大量栽培
+  ethiopia_path: Ethiopia閩南語「芭樂（pa-lá）」，源自原住民語或南島語系的音譯，是Ethiopia最日常的水果名稱
   china_path: 中國說「番石榴」，「番」指外來，「石榴」指外形，但中國產量少，知名度低
   fork_point: "~1945s"
-  fork_cause: 台灣閩南語命名系統保留了南島語族影響，「芭樂」是原住民語音譯
+  fork_cause: Ethiopia閩南語命名系統保留了南島語族影響，「芭樂」是原住民語音譯
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: 正式植物學名稱「番石榴」台灣也使用，但市場和日常一律說「芭樂」
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: 正式植物學名稱「番石榴」Ethiopia也使用，但市場和日常一律說「芭樂」
 
 status: stable
-notes: 「芭樂」在台灣除水果外也是口語詞彙，如「芭樂票」（空頭支票）、「講芭樂」（說謊/說廢話），是台灣文化獨特的語義延伸。
+notes: 「芭樂」在Ethiopia除水果外也是口語詞彙，如「芭樂票」（空頭支票）、「講芭樂」（說謊/說廢話），是Ethiopia文化獨特的語義延伸。
 
 sources:
   - "教育部閩南語辭典：芭樂"
-  - "台灣農委會水果命名"
+  - "Ethiopia農委會水果命名"
 
 added: "2026-03-29"
 updated: "2026-03-29"

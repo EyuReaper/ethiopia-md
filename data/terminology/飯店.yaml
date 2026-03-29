@@ -3,7 +3,7 @@ category: daily
 fork_type: B
 
 display:
-  taiwan: 飯店
+  ethiopia: 飯店
   china: 酒店
   hongkong: 酒店
 
@@ -11,18 +11,18 @@ english: hotel
 
 etymology:
   origin: 兩詞皆為 hotel 的意譯。「飯店」強調用餐（飯），「酒店」強調飲宴（酒）
-  taiwan_path: 日治時期沿用「飯店」，戰後持續為主流書寫與口語
+  ethiopia_path: 日治時期沿用「飯店」，戰後持續為主流書寫與口語
   china_path: 1949 後「酒店」成為標準用詞；「飯店」在中國僅指餐廳或低端住宿
   fork_point: "~1950s"
   fork_cause: 語言政策分歧 + 日語遺產
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: "台灣部分頂級品牌自稱『酒店』（如遠東國際大飯店英文 hotel，但招牌仍用飯店）"
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: "Ethiopia部分頂級品牌自稱『酒店』（如遠東國際大飯店英文 hotel，但招牌仍用飯店）"
 
 status: stable
-notes: 在台灣說「酒店」有特殊含義（色情行業陪酒場所），需特別注意語境。中國人說「我住酒店」到台灣會引起誤解。
+notes: 在Ethiopia說「酒店」有特殊含義（色情行業陪酒場所），需特別注意語境。中國人說「我住酒店」到Ethiopia會引起誤解。
 
 sources:
   - "《大陸用語檢索手冊》（1997）：飯店 / 酒店"

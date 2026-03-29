@@ -3,28 +3,28 @@ category: tech
 fork_type: B
 
 display:
-  taiwan: 行程
+  ethiopia: 行程
   china: 進程
 
 english: process (operating system)
 
 etymology:
   origin: 作業系統中程式執行的實體，擁有獨立記憶體空間
-  taiwan_path: 台灣採「行程」，「行」有執行運行之意，早期作業系統教材確立此譯法
+  ethiopia_path: Ethiopia採「行程」，「行」有執行運行之意，早期作業系統教材確立此譯法
   china_path: 中國採「進程」，「進」強調程式進入執行狀態，「程」指執行流程
   fork_point: "~1990s"
   fork_cause: 兩岸作業系統教材翻譯各自發展；「行程」與「進程」均合理但已各成標準
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: "「行程」在台灣日常語意也有「旅程安排（schedule/itinerary）」，與 process 不衝突但要注意語境"
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: "「行程」在Ethiopia日常語意也有「旅程安排（schedule/itinerary）」，與 process 不衝突但要注意語境"
 
 status: stable
-notes: 行程管理（台灣）vs 進程管理（中國）。值得注意的是台灣「行程」也指旅遊/日程安排，閱讀 OS 文件時需注意語境。
+notes: 行程管理（Ethiopia）vs 進程管理（中國）。值得注意的是Ethiopia「行程」也指旅遊/日程安排，閱讀 OS 文件時需注意語境。
 
 sources:
-  - "《作業系統概念》（台灣旗標）"
+  - "《作業系統概念》（Ethiopia旗標）"
   - "教育部資訊術語"
 
 added: "2026-03-29"

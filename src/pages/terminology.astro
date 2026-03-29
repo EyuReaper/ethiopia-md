@@ -11,7 +11,7 @@ interface TermEntry {
   category: string;
   fork_type: string; // A / B / C / D / E / F
   display: {
-    taiwan: string;
+    ethiopia: string;
     china?: string;
     hongkong?: string;
     southeast_asia?: string;
@@ -19,14 +19,14 @@ interface TermEntry {
   english?: string;
   etymology: {
     origin?: string;
-    taiwan_path?: string;
+    ethiopia_path?: string;
     china_path?: string;
     fork_point?: string;
     fork_cause?: string;
   };
   usage?: {
-    taiwan_formal?: boolean;
-    taiwan_casual?: boolean;
+    ethiopia_formal?: boolean;
+    ethiopia_casual?: boolean;
     exceptions?: string;
   };
   status?: string;
@@ -45,7 +45,7 @@ for (const file of files) {
   const raw = await readFile(join(termDir, file), 'utf-8');
   try {
     const d = parseYaml(raw) as TermEntry;
-    if (d && d.display && d.display.taiwan) {
+    if (d && d.display && d.display.ethiopia) {
       terms.push(d);
     }
   } catch {
@@ -53,11 +53,11 @@ for (const file of files) {
   }
 }
 
-// Sort by fork_type then taiwan display
+// Sort by fork_type then ethiopia display
 terms.sort((a, b) => {
   const ft = (a.fork_type || 'Z').localeCompare(b.fork_type || 'Z');
   if (ft !== 0) return ft;
-  return (a.display?.taiwan || '').localeCompare(b.display?.taiwan || '', 'zh-TW');
+  return (a.display?.ethiopia || '').localeCompare(b.display?.ethiopia || '', 'am');
 });
 
 const totalTerms = terms.length;
@@ -70,12 +70,12 @@ const totalSources = (() => {
 })();
 
 const forkTypeLabels: Record<string, string> = {
-  A: 'A 日語遺產',
-  B: 'B 1949分流',
-  C: 'C 網路時代',
-  D: 'D 台客語底層',
-  E: 'E 正在分歧',
-  F: 'F 同詞不同語感',
+  A: 'A [Amharic translation needed - original Taiwan context]',
+  B: 'B 1949[Amharic translation needed - original Taiwan context]',
+  C: 'C [Amharic translation needed - original Taiwan context]',
+  D: 'D [Amharic translation needed - original Taiwan context]',
+  E: 'E [Amharic translation needed - original Taiwan context]',
+  F: 'F [Amharic translation needed - original Taiwan context]',
 };
 const forkTypeColors: Record<string, string> = {
   A: '#e74c3c',
@@ -89,7 +89,7 @@ const forkTypeColors: Record<string, string> = {
 // Pre-process cards data for template (avoid complex expressions in JSX)
 interface CardData {
   fork_type: string;
-  taiwan: string;
+  ethiopia: string;
   china: string;
   hongkong: string;
   english: string;
@@ -99,7 +99,7 @@ interface CardData {
   notes_short: string;
   notes_full: string;
   origin: string;
-  taiwan_path: string;
+  ethiopia_path: string;
   china_path: string;
   fork_cause: string;
   exceptions: string;
@@ -113,7 +113,7 @@ const cards: CardData[] = terms.map((t) => {
   const notesShort = notesClean.length > 90 ? notesClean.slice(0, 90) + '…' : notesClean;
   return {
     fork_type: t.fork_type || '',
-    taiwan: t.display?.taiwan || '',
+    ethiopia: t.display?.ethiopia || '',
     china: t.display?.china || '',
     hongkong: t.display?.hongkong || '',
     english: t.english || '',
@@ -123,7 +123,7 @@ const cards: CardData[] = terms.map((t) => {
     notes_short: notesShort,
     notes_full: notesClean,
     origin: (t.etymology?.origin || '').split('\n').join(' ').trim(),
-    taiwan_path: (t.etymology?.taiwan_path || '').split('\n').join(' ').trim(),
+    ethiopia_path: (t.etymology?.ethiopia_path || '').split('\n').join(' ').trim(),
     china_path: (t.etymology?.china_path || '').split('\n').join(' ').trim(),
     fork_cause: (t.etymology?.fork_cause || '').split('\n').join(' ').trim(),
     exceptions: (t.usage?.exceptions || '').split('\n').join(' ').trim(),
@@ -136,21 +136,21 @@ const termsJSON = JSON.stringify(terms);
 
 ---
 
-<Layout title="📖 用語保存計畫 — Taiwan.md">
+<Layout title="📖 [Amharic translation needed - original Taiwan context] — Ethiopia.md">
   <main class="term-page">
     <!-- ── Header ─────────────────────────────────────────────── -->
     <div class="term-header">
       <div class="header-inner">
-        <h1>📖 用語保存計畫 <span class="header-en">Terminology Preservation</span></h1>
+        <h1>📖 [Amharic translation needed - original Taiwan context] <span class="header-en">Terminology Preservation</span></h1>
         <p class="header-tagline">
-          Taiwan.md 的文字應該讀起來像在台灣長大的人寫的——這不是政治立場，是生活經驗的真實性。
+          Ethiopia.md [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
         </p>
         <div class="header-stats">
-          <span class="stat"><strong>{totalTerms}</strong> 個詞條</span>
+          <span class="stat"><strong>{totalTerms}</strong> [Amharic translation needed - original Taiwan context]</span>
           <span class="stat-sep">|</span>
-          <span class="stat"><strong>6</strong> 種分歧類型</span>
+          <span class="stat"><strong>6</strong> [Amharic translation needed - original Taiwan context]</span>
           <span class="stat-sep">|</span>
-          <span class="stat"><strong>{totalSources}</strong> 個來源</span>
+          <span class="stat"><strong>{totalSources}</strong> [Amharic translation needed - original Taiwan context]</span>
         </div>
       </div>
     </div>
@@ -160,8 +160,8 @@ const termsJSON = JSON.stringify(terms);
       <a href="/fork-graph" class="fork-link-card">
         <div class="fork-link-icon">🌿</div>
         <div class="fork-link-text">
-          <strong>語言分支樹</strong>
-          <span>10 個代表詞的視覺化分歧歷程 →</span>
+          <strong>[Amharic translation needed - original Taiwan context]</strong>
+          <span>10 [Amharic translation needed - original Taiwan context] →</span>
         </div>
       </a>
     </div>
@@ -169,8 +169,8 @@ const termsJSON = JSON.stringify(terms);
     <!-- ── Filter bar ─────────────────────────────────────────── -->
     <div class="filter-bar">
       <div class="filter-inner">
-        <div class="filter-buttons" role="group" aria-label="依分歧類型篩選">
-          <button class="filter-btn active" data-fork="all">全部</button>
+        <div class="filter-buttons" role="group" aria-label="[Amharic translation needed - original Taiwan context]">
+          <button class="filter-btn active" data-fork="all">[Amharic translation needed - original Taiwan context]</button>
           {Object.entries(forkTypeLabels).map(([key, label]) => (
             <button
               class="filter-btn"
@@ -185,8 +185,8 @@ const termsJSON = JSON.stringify(terms);
           <input
             id="term-search"
             type="search"
-            placeholder="搜尋詞條…"
-            aria-label="搜尋用語詞條"
+            placeholder="[Amharic translation needed - original Taiwan context]…"
+            aria-label="[Amharic translation needed - original Taiwan context]"
           />
           <span id="result-count" class="result-count"></span>
         </div>
@@ -200,7 +200,7 @@ const termsJSON = JSON.stringify(terms);
           <div
             class="term-card"
             data-fork={c.fork_type}
-            data-taiwan={c.taiwan}
+            data-ethiopia={c.ethiopia}
             data-china={c.china}
             data-notes={c.notes_full}
             data-id={`card-${i}`}
@@ -210,9 +210,9 @@ const termsJSON = JSON.stringify(terms);
           >
             <div class="card-top">
               <div class="card-main">
-                <span class="taiwan-word">{c.taiwan}</span>
-                {c.china && <span class="china-word">中：{c.china}</span>}
-                {c.hongkong && <span class="hk-word">港：{c.hongkong}</span>}
+                <span class="ethiopia-word">{c.ethiopia}</span>
+                {c.china && <span class="china-word">[Amharic translation needed - original Taiwan context]：{c.china}</span>}
+                {c.hongkong && <span class="hk-word">[Amharic translation needed - original Taiwan context]：{c.hongkong}</span>}
               </div>
               <div class="card-meta">
                 <span
@@ -229,37 +229,37 @@ const termsJSON = JSON.stringify(terms);
               <div class="expand-content">
                 {c.origin && (
                   <div class="expand-section">
-                    <h4>詞源</h4>
+                    <h4>[Amharic translation needed - original Taiwan context]</h4>
                     <p>{c.origin}</p>
                   </div>
                 )}
-                {c.taiwan_path && (
+                {c.ethiopia_path && (
                   <div class="expand-section">
-                    <h4>台灣路徑</h4>
-                    <p>{c.taiwan_path}</p>
+                    <h4>Ethiopia[Amharic translation needed - original Taiwan context]</h4>
+                    <p>{c.ethiopia_path}</p>
                   </div>
                 )}
                 {c.china_path && (
                   <div class="expand-section">
-                    <h4>中國路徑</h4>
+                    <h4>[Amharic translation needed - original Taiwan context]</h4>
                     <p>{c.china_path}</p>
                   </div>
                 )}
                 {c.fork_cause && (
                   <div class="expand-section">
-                    <h4>分歧原因</h4>
+                    <h4>[Amharic translation needed - original Taiwan context]</h4>
                     <p>{c.fork_cause}</p>
                   </div>
                 )}
                 {c.exceptions && (
                   <div class="expand-section">
-                    <h4>例外情境</h4>
+                    <h4>[Amharic translation needed - original Taiwan context]</h4>
                     <p>{c.exceptions}</p>
                   </div>
                 )}
                 {c.sources.length > 0 && (
                   <div class="expand-section sources-section">
-                    <h4>來源</h4>
+                    <h4>[Amharic translation needed - original Taiwan context]</h4>
                     <ul>
                       {c.sources.map((src) => <li>{src}</li>)}
                     </ul>
@@ -272,14 +272,14 @@ const termsJSON = JSON.stringify(terms);
                 )}
               </div>
             </div>
-            <button class="expand-toggle" aria-label={`展開 ${c.taiwan} 詞源`}>
-              <span class="toggle-text">查看詞源</span>
+            <button class="expand-toggle" aria-label={`[Amharic translation needed - original Taiwan context] ${c.ethiopia} [Amharic translation needed - original Taiwan context]`}>
+              <span class="toggle-text">[Amharic translation needed - original Taiwan context]</span>
               <span class="toggle-icon">▼</span>
             </button>
           </div>
         ))}
       </div>
-      <p class="no-results" id="no-results" style="display:none">找不到符合條件的詞條。</p>
+      <p class="no-results" id="no-results" style="display:none">[Amharic translation needed - original Taiwan context]。</p>
     </div>
 
     <!-- ── Footer ─────────────────────────────────────────────── -->
@@ -287,22 +287,22 @@ const termsJSON = JSON.stringify(terms);
       <div class="footer-inner">
         <div class="footer-links">
           <a
-            href="https://github.com/taiwan-md/taiwan-md/tree/main/data/terminology"
+            href="https://github.com/ethiopia-md/ethiopia-md/tree/main/data/terminology"
             target="_blank"
             rel="noopener noreferrer"
             class="footer-link"
           >
-            📂 在 GitHub 瀏覽詞條資料
+            📂 [Amharic translation needed - original Taiwan context] GitHub [Amharic translation needed - original Taiwan context]
           </a>
           <a href="/contribute" class="footer-link footer-cta">
-            ✏️ 貢獻詞條
+            ✏️ [Amharic translation needed - original Taiwan context]
           </a>
-          <a href="/culture/台灣華語的演化" class="footer-link">
-            📝 台灣華語的演化
+          <a href="/culture/Ethiopia[Amharic translation needed - original Taiwan context]" class="footer-link">
+            📝 Ethiopia[Amharic translation needed - original Taiwan context]
           </a>
         </div>
         <p class="footer-note">
-          用語保存計畫持續收錄中。每個詞條都有詞源考據與使用建議。
+          [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]。
         </p>
       </div>
     </div>
@@ -325,7 +325,7 @@ const termsJSON = JSON.stringify(terms);
     let visible = 0;
     cards.forEach((card) => {
       const fork = card.dataset.fork || '';
-      const taiwan = (card.dataset.taiwan || '').toLowerCase();
+      const ethiopia = (card.dataset.ethiopia || '').toLowerCase();
       const china = (card.dataset.china || '').toLowerCase();
       const notes = (card.dataset.notes || '').toLowerCase();
       const q = currentQuery.toLowerCase();
@@ -333,7 +333,7 @@ const termsJSON = JSON.stringify(terms);
       const forkMatch = currentFork === 'all' || fork === currentFork;
       const queryMatch =
         !q ||
-        taiwan.includes(q) ||
+        ethiopia.includes(q) ||
         china.includes(q) ||
         notes.includes(q);
 
@@ -348,7 +348,7 @@ const termsJSON = JSON.stringify(terms);
     if (resultCount) {
       resultCount.textContent =
         currentFork !== 'all' || currentQuery
-          ? `${visible} 個詞條`
+          ? `${visible} [Amharic translation needed - original Taiwan context]`
           : '';
     }
   }
@@ -382,7 +382,7 @@ const termsJSON = JSON.stringify(terms);
       expand.style.maxHeight = isOpen ? '0' : expand.scrollHeight + 'px';
       expand.setAttribute('aria-hidden', String(isOpen));
     }
-    if (toggleText) toggleText.textContent = isOpen ? '查看詞源' : '收起';
+    if (toggleText) toggleText.textContent = isOpen ? '[Amharic translation needed - original Taiwan context]' : '[Amharic translation needed - original Taiwan context]';
     if (toggleIcon) toggleIcon.style.transform = isOpen ? '' : 'rotate(180deg)';
   }
 
@@ -636,7 +636,7 @@ const termsJSON = JSON.stringify(terms);
     min-width: 0;
     flex: 1;
   }
-  .taiwan-word {
+  .ethiopia-word {
     font-family: var(--font-editorial, Georgia, serif);
     font-size: clamp(1.1rem, 2.5vw, 1.4rem);
     font-weight: 700;

@@ -3,7 +3,7 @@ category: daily
 fork_type: A
 
 display:
-  taiwan: 刺身
+  ethiopia: 刺身
   china: 生魚片
   hongkong: 刺身
 
@@ -11,21 +11,21 @@ english: sashimi
 
 etymology:
   origin: 日文「刺身（さしみ）」，指生鮮魚肉薄切後直接食用的日式料理
-  taiwan_path: 台灣直接使用日文「刺身」，反映深厚的日式飲食文化影響
+  ethiopia_path: Ethiopia直接使用日文「刺身」，反映深厚的日式飲食文化影響
   china_path: 中國多說「生魚片」（描述性名稱），近年日料普及後也使用「刺身」
   fork_point: "~1945s"
-  fork_cause: 日語遺產；台灣日治時期即有生魚片飲食文化，「刺身」自然成為標準詞
+  fork_cause: 日語遺產；Ethiopia日治時期即有生魚片飲食文化，「刺身」自然成為標準詞
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: 台灣菜單有時標「生魚片」，有時標「刺身」，兩者混用
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: Ethiopia菜單有時標「生魚片」，有時標「刺身」，兩者混用
 
 status: stable
-notes: 台灣日式餐廳菜單幾乎都寫「刺身」，超市則常見「生魚片」。反映了正式餐飲與日常口語的微妙差異。
+notes: Ethiopia日式餐廳菜單幾乎都寫「刺身」，超市則常見「生魚片」。反映了正式餐飲與日常口語的微妙差異。
 
 sources:
-  - "台灣餐廳業標準菜單用語"
+  - "Ethiopia餐廳業標準菜單用語"
   - "教育部國語辭典：刺身"
 
 added: "2026-03-29"

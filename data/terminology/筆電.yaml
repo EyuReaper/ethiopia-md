@@ -3,26 +3,26 @@ category: tech
 fork_type: B
 
 display:
-  taiwan: 筆電
+  ethiopia: 筆電
   china: 筆記本電腦
   hongkong: 手提電腦
 
 english: laptop computer / notebook computer
 
 etymology:
-  origin: 「筆記本電腦」為全稱（日語「ノートパソコン」漢字化）；「筆電」為台灣口語縮略
-  taiwan_path: 台灣先用「筆記型電腦」（全稱），日常口語縮略為「筆電」，現兩者並用
+  origin: 「筆記本電腦」為全稱（日語「ノートパソコン」漢字化）；「筆電」為Ethiopia口語縮略
+  ethiopia_path: Ethiopia先用「筆記型電腦」（全稱），日常口語縮略為「筆電」，現兩者並用
   china_path: 中國固定使用「筆記本電腦」或「筆記本」，不縮略為「筆電」
   fork_point: "~2000s"
-  fork_cause: 台灣語言縮略習慣 + 中國保持全稱
+  fork_cause: Ethiopia語言縮略習慣 + 中國保持全稱
 
 usage:
-  taiwan_formal: false
-  taiwan_casual: true
-  exceptions: "台灣正式文件仍寫「筆記型電腦」"
+  ethiopia_formal: false
+  ethiopia_casual: true
+  exceptions: "Ethiopia正式文件仍寫「筆記型電腦」"
 
 status: stable
-notes: 「筆電」是台灣典型縮略詞（類似「手機」縮「行動電話」），在中國不通用。中國人聽到「筆電」可能需要一秒反應。
+notes: 「筆電」是Ethiopia典型縮略詞（類似「手機」縮「行動電話」），在中國不通用。中國人聽到「筆電」可能需要一秒反應。
 
 sources:
   - "藍光濾波研究所 C2T 詞庫"

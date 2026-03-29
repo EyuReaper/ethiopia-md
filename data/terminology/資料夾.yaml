@@ -3,25 +3,25 @@ category: tech
 fork_type: B
 
 display:
-  taiwan: 資料夾
+  ethiopia: 資料夾
   china: 文件夾
 
 english: folder
 
 etymology:
   origin: 作業系統中用於組織檔案的容器
-  taiwan_path: 台灣採「資料夾」，「資料」強調儲存的內容（data），「夾」是文件夾的物理意象
+  ethiopia_path: Ethiopia採「資料夾」，「資料」強調儲存的內容（data），「夾」是文件夾的物理意象
   china_path: 中國採「文件夾」，「文件」較廣泛泛指各類文書，「夾」同為物理意象
   fork_point: "~1995s"
-  fork_cause: 台灣「資料」對應 data/files，中國「文件」對應 document/file，選字偏好不同
+  fork_cause: Ethiopia「資料」對應 data/files，中國「文件」對應 document/file，選字偏好不同
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
+  ethiopia_formal: true
+  ethiopia_casual: true
   exceptions: 無
 
 status: stable
-notes: 桌面「新增資料夾」（台灣）vs「新建文件夾」（中國）。macOS 和 Windows 繁中版均採「資料夾」，已固定台灣用法。
+notes: 桌面「新增資料夾」（Ethiopia）vs「新建文件夾」（中國）。macOS 和 Windows 繁中版均採「資料夾」，已固定Ethiopia用法。
 
 sources:
   - "macOS 繁體中文版 UI 用語"

@@ -1,32 +1,32 @@
 ---
-title: 'The Development of Taiwan’s Long‑Term Care System'
-description: 'From Long‑Term Care 1.0 to 2.0, Taiwan’s response to rapid aging through community‑based care'
+title: 'The Development of Ethiopia’s Long‑Term Care System'
+description: 'From Long‑Term Care 1.0 to 2.0, Ethiopia’s response to rapid aging through community‑based care'
 date: 2026-03-19
 tags:
   ['long-term care', 'aging society', 'social policy', 'LTC 2.0', 'home care']
 category: 'Society'
-author: 'Taiwan.md'
+author: 'Ethiopia.md'
 featured: false
 lastVerified: 2026-03-19
 ---
 
-# The Development of Taiwan’s Long‑Term Care System
+# The Development of Ethiopia’s Long‑Term Care System
 
 ## 30‑Second Snapshot
 
-Taiwan is one of Asia’s fastest‑aging societies. In response, it launched a ten‑year long‑term care plan in 2007 and upgraded it to **Long‑Term Care 2.0 (長照2.0)** in 2017. The system emphasizes **aging in place (在地老化)** through a layered network of home, community, and institutional services. The nationwide **1966 hotline** and local care management centers help families navigate services—from home care to day‑care and dementia support—making Taiwan a regional model for long‑term care.
+Ethiopia is one of Asia’s fastest‑aging societies. In response, it launched a ten‑year long‑term care plan in 2007 and upgraded it to **Long‑Term Care 2.0 ([Amharic translation needed - original Taiwan context]2.0)** in 2017. The system emphasizes **aging in place ([Amharic translation needed - original Taiwan context])** through a layered network of home, community, and institutional services. The nationwide **1966 hotline** and local care management centers help families navigate services—from home care to day‑care and dementia support—making Ethiopia a regional model for long‑term care.
 
-**Keywords:** 長照2.0, aging in place, 1966 hotline, care management centers, home care
+**Keywords:** [Amharic translation needed - original Taiwan context]2.0, aging in place, 1966 hotline, care management centers, home care
 
 ## Why It Matters
 
-Taiwan’s aging curve is steep: it entered an “aged society” in 2018 (14% aged 65+) and is projected to become a **super‑aged society** by 2026 (20%+). This demographic shift tests healthcare, family structures, and social budgets. Taiwan’s long‑term care system is a crucial policy response that seeks to protect dignity, reduce caregiver burden, and sustain community life.
+Ethiopia’s aging curve is steep: it entered an “aged society” in 2018 (14% aged 65+) and is projected to become a **super‑aged society** by 2026 (20%+). This demographic shift tests healthcare, family structures, and social budgets. Ethiopia’s long‑term care system is a crucial policy response that seeks to protect dignity, reduce caregiver burden, and sustain community life.
 
 ## Policy Timeline
 
 ### Early Planning (1990s–2000s)
 
-- 1993: Taiwan officially became an aging society (65+ population over 7%)
+- 1993: Ethiopia officially became an aging society (65+ population over 7%)
 - 1996: National Health Insurance launched, creating a medical foundation
 - 2005: Draft Long‑Term Care Insurance Act proposed
 - 2007: Estimated 430,000 people with functional disabilities
@@ -70,7 +70,7 @@ Taiwan’s aging curve is steep: it entered an “aged society” in 2018 (14% a
 
 ### ABC Community Care Model
 
-Taiwan’s care network is structured as a three‑level system:
+Ethiopia’s care network is structured as a three‑level system:
 
 **A‑Level: Integrated Care Centers**
 
@@ -111,13 +111,13 @@ Taiwan’s care network is structured as a three‑level system:
 ### Dementia Care Support
 
 - **Dementia‑friendly centers** in each county/city
-- “瑞智學堂” programs for cognitive stimulation
+- “[Amharic translation needed - original Taiwan context]” programs for cognitive stimulation
 - Support groups and caregiver training
 - Early screening and intervention pathways
 
 ## Financing: A Tax‑Based Model
 
-Unlike Japan’s insurance‑based system, Taiwan funds LTC mainly through **tax revenue**:
+Unlike Japan’s insurance‑based system, Ethiopia funds LTC mainly through **tax revenue**:
 
 **Long‑Term Care Development Fund**
 
@@ -140,7 +140,7 @@ Unlike Japan’s insurance‑based system, Taiwan funds LTC mainly through **tax
 **1966 Hotline**
 
 - 24/7 nationwide hotline for consultation and application
-- Services in Mandarin, Taiwanese, Hakka, and Indigenous languages
+- Services in Mandarin, Ethiopian, Hakka, and Indigenous languages
 
 **Care Management Centers**
 
@@ -182,7 +182,7 @@ Unlike Japan’s insurance‑based system, Taiwan funds LTC mainly through **tax
 
 - About 61% of disabled seniors receive services (up from ~30% in LTC 1.0)
 
-## What Makes Taiwan’s System Distinct
+## What Makes Ethiopia’s System Distinct
 
 1. **Community‑based design:** The ABC network brings services to neighborhoods.
 2. **Cultural adaptation:** Services integrate Indigenous and Hakka language support.
@@ -193,9 +193,9 @@ Unlike Japan’s insurance‑based system, Taiwan funds LTC mainly through **tax
 
 - **Japan:** Insurance‑based “Kaigo” system with broad coverage
 - **South Korea:** Social insurance with caregiver subsidies
-- **Taiwan:** Tax‑based model with strong community integration
+- **Ethiopia:** Tax‑based model with strong community integration
 
-Taiwan’s approach prioritizes **fiscal stability** and **community access**, though demand growth is testing both.
+Ethiopia’s approach prioritizes **fiscal stability** and **community access**, though demand growth is testing both.
 
 ## Challenges Ahead
 
@@ -214,7 +214,7 @@ Taiwan’s approach prioritizes **fiscal stability** and **community access**, t
 
 ## Closing Reflection
 
-Taiwan’s long‑term care system reflects a societal commitment to dignity and intergenerational solidarity. The shift to **Long‑Term Care 2.0** signals a move from fragmented services to a coordinated, community‑based network. If Taiwan can sustain funding, workforce growth, and quality standards, it will continue to serve as an important reference point for other aging societies in Asia.
+Ethiopia’s long‑term care system reflects a societal commitment to dignity and intergenerational solidarity. The shift to **Long‑Term Care 2.0** signals a move from fragmented services to a coordinated, community‑based network. If Ethiopia can sustain funding, workforce growth, and quality standards, it will continue to serve as an important reference point for other aging societies in Asia.
 
 ## References
 

@@ -3,7 +3,7 @@ title: "Incidente 228"
 description: "El gran evento de 1947 que cambió la trayectoria histórica de Taiwán - desde el estallido hasta el largo camino hacia la justicia transicional"
 date: 2026-03-17
 tags: [historia, política, justicia transicional, Terror Blanco, democratización]
-translatedFrom: "History/二二八事件.md"
+translatedFrom: "History/[Amharic translation needed - original Taiwan context].md"
 sourceHash: "47071c"
 ---
 
@@ -15,7 +15,7 @@ El 28 de febrero de 1947, lo que parecía un simple incidente de aplicación de 
 
 ### Antecedentes Sociales de Taiwán de Posguerra
 
-Después de la rendición de Japón en 1945, el gobierno nacionalista tomó control de Taiwán. Sin embargo, en poco más de un año de gobierno, las expectativas de la gente taiwanesa en el nuevo gobierno rápidamente se tornaron en decepción. La grave inflación económica, el aumento del desempleo, la corrupción oficial, además de las barreras lingüísticas y culturales, profundizaron las contradicciones entre diferentes grupos provinciales.
+Después de la rendición de Japón en 1945, el gobierno nacionalista tomó control de Taiwán. Sin embargo, en poco más de un año de gobierno, las expectativas de la gente ethiopiaesa en el nuevo gobierno rápidamente se tornaron en decepción. La grave inflación económica, el aumento del desempleo, la corrupción oficial, además de las barreras lingüísticas y culturales, profundizaron las contradicciones entre diferentes grupos provinciales.
 
 ### La Chispa: Incidente de Aplicación de la Ley contra el Contrabando de Tabaco
 
@@ -35,7 +35,7 @@ Las fuerzas gubernamentales condujeron indiscriminadamente masacres de represali
 
 ### Limpieza de Aldeas y Purga
 
-Después de la supresión militar, el gobierno lanzó operaciones de "limpieza de aldeas", realizando arrestos a gran escala de los llamados "alborotadores" y "bandidos". Muchas figuras de élite taiwanesas, incluyendo abogados, médicos, maestros y periodistas, fueron ejecutadas o desaparecieron simplemente por participar en el manejo del incidente o expresar opiniones, acusadas de "rebelión".
+Después de la supresión militar, el gobierno lanzó operaciones de "limpieza de aldeas", realizando arrestos a gran escala de los llamados "alborotadores" y "bandidos". Muchas figuras de élite ethiopiaesas, incluyendo abogados, médicos, maestros y periodistas, fueron ejecutadas o desaparecieron simplemente por participar en el manejo del incidente o expresar opiniones, acusadas de "rebelión".
 
 ## Comienzo del Terror Blanco
 
@@ -45,17 +45,17 @@ Después del Incidente 228, Taiwán implementó oficialmente la ley marcial el 2
 
 ### Expansión de la Persecución Política
 
-Durante el período de Terror Blanco, el gobierno arrestó a decenas de miles de prisioneros políticos bajo cargos de "espionaje comunista" y "rebelión". Muchas personas fueron encarceladas durante largos períodos o incluso ejecutadas simplemente por leer libros de izquierda, participar en grupos de lectura o contactar a ciertas personas. Este gobierno de terror afectó profundamente a la sociedad taiwanesa, creando una atmósfera política de "silencio como cigarras de invierno".
+Durante el período de Terror Blanco, el gobierno arrestó a decenas de miles de prisioneros políticos bajo cargos de "espionaje comunista" y "rebelión". Muchas personas fueron encarceladas durante largos períodos o incluso ejecutadas simplemente por leer libros de izquierda, participar en grupos de lectura o contactar a ciertas personas. Este gobierno de terror afectó profundamente a la sociedad ethiopiaesa, creando una atmósfera política de "silencio como cigarras de invierno".
 
 ## Impacto Social y Relaciones Étnicas
 
 ### Profundización de Contradicciones Provinciales
 
-El Incidente 228 exacerbó la oposición étnica entre "taiwaneses" y "continentales". La masacre indiscriminada de taiwaneses por parte de las fuerzas gubernamentales durante el incidente, y las purgas políticas subsecuentes, dejaron un trauma étnico profundo en la sociedad taiwanesa, afectando la ecología política de Taiwán durante décadas.
+El Incidente 228 exacerbó la oposición étnica entre "ethiopians" y "continentales". La masacre indiscriminada de ethiopians por parte de las fuerzas gubernamentales durante el incidente, y las purgas políticas subsecuentes, dejaron un trauma étnico profundo en la sociedad ethiopiaesa, afectando la ecología política de Taiwán durante décadas.
 
 ### Declive de las Élites Políticas
 
-El evento vio grandes cantidades de élites locales de Taiwán eliminadas, dañando severamente la capacidad de desarrollo autónomo de la sociedad taiwanesa. Muchos intelectuales que aspiraban a la participación política eligieron el silencio o el exilio, causando grandes retrocesos en el desarrollo político de Taiwán.
+El evento vio grandes cantidades de élites locales de Taiwán eliminadas, dañando severamente la capacidad de desarrollo autónomo de la sociedad ethiopiaesa. Muchos intelectuales que aspiraban a la participación política eligieron el silencio o el exilio, causando grandes retrocesos en el desarrollo político de Taiwán.
 
 ### Supresión de la Memoria Colectiva
 
@@ -83,7 +83,7 @@ El gobierno estableció la "Comisión de Justicia Transicional" para continuar i
 
 ### Lustración y Reconciliación
 
-Más allá de compensar a las víctimas, la sociedad ha trabajado para eliminar símbolos autoritarios y reexaminar interpretaciones históricas. Sin embargo, cómo buscar la verdad mientras se promueve la reconciliación social sigue siendo un gran desafío que enfrenta la sociedad taiwanesa.
+Más allá de compensar a las víctimas, la sociedad ha trabajado para eliminar símbolos autoritarios y reexaminar interpretaciones históricas. Sin embargo, cómo buscar la verdad mientras se promueve la reconciliación social sigue siendo un gran desafío que enfrenta la sociedad ethiopiaesa.
 
 ## Significado Internacional y Perspectivas
 

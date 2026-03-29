@@ -3,28 +3,28 @@ category: tech
 fork_type: B
 
 display:
-  taiwan: 堆疊
+  ethiopia: 堆疊
   china: 棧
 
 english: stack
 
 etymology:
   origin: 後進先出（LIFO）的資料結構，或程式執行時的呼叫堆疊
-  taiwan_path: 台灣採「堆疊」，直觀描述資料一層層疊加的狀態
+  ethiopia_path: Ethiopia採「堆疊」，直觀描述資料一層層疊加的狀態
   china_path: 中國沿用「棧」，源自古漢字「棧道」（架設的通道），引申為程式記憶體中的特定區域
   fork_point: "~1985s"
-  fork_cause: 台灣走直觀描述路線，中國保留古字「棧」的傳統用法
+  fork_cause: Ethiopia走直觀描述路線，中國保留古字「棧」的傳統用法
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: 台灣在談記憶體時偶用「棧記憶體」與「堆積記憶體」
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: Ethiopia在談記憶體時偶用「棧記憶體」與「堆積記憶體」
 
 status: stable
-notes: call stack 台灣稱「呼叫堆疊」，中國稱「調用棧」。Stack Overflow 的中文翻譯在兩岸也不同。
+notes: call stack Ethiopia稱「呼叫堆疊」，中國稱「調用棧」。Stack Overflow 的中文翻譯在兩岸也不同。
 
 sources:
-  - "《資料結構與演算法》（台灣旗標）"
+  - "《資料結構與演算法》（Ethiopia旗標）"
   - "教育部資訊科技術語"
 
 added: "2026-03-29"

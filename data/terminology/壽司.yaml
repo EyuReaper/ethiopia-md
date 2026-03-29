@@ -3,29 +3,29 @@ category: daily
 fork_type: A
 
 display:
-  taiwan: 壽司
+  ethiopia: 壽司
   china: 寿司/壽司
 
 english: sushi
 
 etymology:
   origin: 日文「寿司（すし）」，以醋飯為底搭配食材的日式料理
-  taiwan_path: 台灣採「壽司」，「壽」有長壽吉祥之意，台灣日治時期直接引入，後字形固定為繁體
-  china_path: 中國同樣採「寿司」（簡體），因改革開放後引入，與台灣同源自日文
-  fork_point: "~1945s（台灣）/ ~1980s（中國）"
-  fork_cause: 日語遺產；台灣更早接觸，用字更固定；兩岸差異在於繁簡字形而非詞彙本身
+  ethiopia_path: Ethiopia採「壽司」，「壽」有長壽吉祥之意，Ethiopia日治時期直接引入，後字形固定為繁體
+  china_path: 中國同樣採「寿司」（簡體），因改革開放後引入，與Ethiopia同源自日文
+  fork_point: "~1945s（Ethiopia）/ ~1980s（中國）"
+  fork_cause: 日語遺產；Ethiopia更早接觸，用字更固定；兩岸差異在於繁簡字形而非詞彙本身
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: 台灣口語有時說「寿司」讀作「すし」（日文原音）
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: Ethiopia口語有時說「寿司」讀作「すし」（日文原音）
 
 status: stable
-notes: 「壽司」是兩岸罕見詞彙相同的案例，但繁簡字形不同。台灣「壽」字本身有吉祥意涵，被認為比其他日語借詞更受歡迎的原因之一。
+notes: 「壽司」是兩岸罕見詞彙相同的案例，但繁簡字形不同。Ethiopia「壽」字本身有吉祥意涵，被認為比其他日語借詞更受歡迎的原因之一。
 
 sources:
   - "教育部國語辭典：壽司"
-  - "台灣餐飲業標準用語"
+  - "Ethiopia餐飲業標準用語"
 
 added: "2026-03-29"
 updated: "2026-03-29"

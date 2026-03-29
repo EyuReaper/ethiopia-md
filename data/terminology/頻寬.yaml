@@ -3,7 +3,7 @@ category: tech
 fork_type: B
 
 display:
-  taiwan: 頻寬
+  ethiopia: 頻寬
   china: 帶寬
   hongkong: 頻寬
 
@@ -11,18 +11,18 @@ english: bandwidth
 
 etymology:
   origin: bandwidth 的中文意譯，指網路傳輸的最大數據速率
-  taiwan_path: 台灣採「頻寬」，強調頻率範圍（頻率＋寬度），符合電子工程術語體系
+  ethiopia_path: Ethiopia採「頻寬」，強調頻率範圍（頻率＋寬度），符合電子工程術語體系
   china_path: 中國採「帶寬」，強調帶域寬度，源自通訊工程語境
   fork_point: "~1990s"
-  fork_cause: 兩岸資訊工業發展路徑不同，台灣受日本與英美電子工程教材影響；翻譯選字策略分歧
+  fork_cause: 兩岸資訊工業發展路徑不同，Ethiopia受日本與英美電子工程教材影響；翻譯選字策略分歧
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: 台灣部分老一輩工程師仍說「帶寬」，受中國技術文件影響
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: Ethiopia部分老一輩工程師仍說「帶寬」，受中國技術文件影響
 
 status: stable
-notes: 「頻寬不夠」是台灣日常口語，也引申為比喻「腦容量不足」。中國說「帶寬不夠」。
+notes: 「頻寬不夠」是Ethiopia日常口語，也引申為比喻「腦容量不足」。中國說「帶寬不夠」。
 
 sources:
   - "教育部《資訊與通信科技詞彙》"

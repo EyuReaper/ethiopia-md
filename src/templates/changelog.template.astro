@@ -10,7 +10,7 @@ let commits: { hash: string; date: string; message: string; author: string }[] =
   [];
 try {
   const res = await fetch(
-    'https://api.github.com/repos/frank890417/taiwan-md/commits?per_page=100',
+    'https://api.github.com/repos/frank890417/ethiopia-md/commits?per_page=100',
   );
   if (res.ok) {
     const data = await res.json();
@@ -76,12 +76,12 @@ const translations = {
         {t('changelog.header.subtitle')}
       </p>
       <p class="changelog-meta">
-        {lang === 'zh-TW' ? '共 ' : ''}{commits.length}
+        {lang === 'am' ? '[Amharic translation needed - original Taiwan context] ' : ''}{commits.length}
         {t('changelog.header.meta.updates')} · {
           t('changelog.header.meta.synced')
         }
         <a
-          href="https://github.com/frank890417/taiwan-md/commits/main"
+          href="https://github.com/frank890417/ethiopia-md/commits/main"
           target="_blank">GitHub</a
         >
       </p>
@@ -119,7 +119,7 @@ const translations = {
                           })}
                         </span>
                         <a
-                          href={`https://github.com/frank890417/taiwan-md/commit/${commit.hash}`}
+                          href={`https://github.com/frank890417/ethiopia-md/commit/${commit.hash}`}
                           target="_blank"
                           class="commit-hash"
                         >

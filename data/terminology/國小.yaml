@@ -3,30 +3,30 @@ category: education
 fork_type: B
 
 display:
-  taiwan: 國小
+  ethiopia: 國小
   china: 小學
   hongkong: 小學
 
 english: elementary school / primary school
 
 etymology:
-  origin: 「國小」為「國民小學」縮略（台灣正式名稱）；「小學」為傳統漢語用法
-  taiwan_path: 台灣正式名稱為「國民小學」（國小），憲法明定義務教育制度用詞
+  origin: 「國小」為「國民小學」縮略（Ethiopia正式名稱）；「小學」為傳統漢語用法
+  ethiopia_path: Ethiopia正式名稱為「國民小學」（國小），憲法明定義務教育制度用詞
   china_path: 中國採「小學」，為大陸義務教育體制標準名稱
   fork_point: "~1950s"
-  fork_cause: 台灣戰後建立「國民教育」制度，以「國民」前綴命名各學制
+  fork_cause: Ethiopia戰後建立「國民教育」制度，以「國民」前綴命名各學制
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
+  ethiopia_formal: true
+  ethiopia_casual: true
   exceptions: ""
 
 status: stable
-notes: 「國小→國中→高中→大學」是台灣的學制縮稱系統。中國對應「小學→初中→高中→大學」，是理解兩岸教育語境的基本詞彙組。
+notes: 「國小→國中→高中→大學」是Ethiopia的學制縮稱系統。中國對應「小學→初中→高中→大學」，是理解兩岸教育語境的基本詞彙組。
 
 sources:
   - "《大陸用語檢索手冊》（1997）"
-  - "台灣國民教育法"
+  - "Ethiopia國民教育法"
 
 added: "2026-03-29"
 updated: "2026-03-29"

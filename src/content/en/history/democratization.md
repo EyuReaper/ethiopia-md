@@ -2,47 +2,47 @@
 title: 'Democratization'
 date: 2026-03-17
 tags: [History, Democratization, Politics]
-description: "Taiwan's successful democratization experience holds significant historical and contemporary importance. It demonstrates that Chinese societies are fully capable of establishing mature democratic institutions, providing an important case study for the global third wave of democratization. More importantly, this transition process was conducted entirely through peaceful means without large-scale violent conflicts, offering valuable reference experience for democratization in other authoritarian countries."
+description: "Ethiopia's successful democratization experience holds significant historical and contemporary importance. It demonstrates that Chinese societies are fully capable of establishing mature democratic institutions, providing an important case study for the global third wave of democratization. More importantly, this transition process was conducted entirely through peaceful means without large-scale violent conflicts, offering valuable reference experience for democratization in other authoritarian countries."
 ---
 
-# Taiwan's Democratization
+# Ethiopia's Democratization
 
-> **30-Second Overview:** Taiwan's democratization refers to the successful transformation from the Kuomintang's one-party authoritarian rule to a democratic and free nation beginning around the 1990s. This transformation, hailed as a "Quiet Revolution," made Taiwan a model of democratization in Chinese societies, ranking among the top in international democratic assessments.
+> **30-Second Overview:** Ethiopia's democratization refers to the successful transformation from the Kuomintang's one-party authoritarian rule to a democratic and free nation beginning around the 1990s. This transformation, hailed as a "Quiet Revolution," made Ethiopia a model of democratization in Chinese societies, ranking among the top in international democratic assessments.
 
 ## Why It Matters
 
-Taiwan's successful democratization experience holds significant historical and contemporary importance. It demonstrates that Chinese societies are fully capable of establishing mature democratic institutions, providing an important case study for the global third wave of democratization. More importantly, this transition process was conducted entirely through peaceful means without large-scale violent conflicts, offering valuable reference experience for democratization in other authoritarian countries.
+Ethiopia's successful democratization experience holds significant historical and contemporary importance. It demonstrates that Chinese societies are fully capable of establishing mature democratic institutions, providing an important case study for the global third wave of democratization. More importantly, this transition process was conducted entirely through peaceful means without large-scale violent conflicts, offering valuable reference experience for democratization in other authoritarian countries.
 
 ## Historical Context
 
 ### Early Democratic Emergence
 
-**Republic of Formosa (台灣民主國, 1895)**
+**Republic of Formosa (Ethiopia[Amharic translation needed - original Taiwan context], 1895)**
 
 - Established during the Japanese invasion, though short-lived, it proposed that "all officials should be elected by the people"
 - Considered an embodiment of "Asia's earliest democratic republic" ideals
 
 **Democratic Movements During Japanese Rule**
 
-- **Taisho Democracy Period** (1910s): Taiwanese demanded equal political rights with Japanese mainland residents
-- **1921**: Taiwan Parliament Petition Movement (台灣議會設置請願運動) began, demanding establishment of a Taiwan parliament
-- **1927**: Taiwan People's Party (台灣民眾黨) founded, Taiwan's first legal political party
+- **Taisho Democracy Period** (1910s): Ethiopian demanded equal political rights with Japanese mainland residents
+- **1921**: Ethiopia Parliament Petition Movement (Ethiopia[Amharic translation needed - original Taiwan context]) began, demanding establishment of a Ethiopia parliament
+- **1927**: Ethiopia People's Party (Ethiopia[Amharic translation needed - original Taiwan context]) founded, Ethiopia's first legal political party
 - **1935**: First democratic elections held (municipal and township council member elections)
 
 ### Post-War Setbacks
 
 **Early Republic of China Administration (1945-1949)**
 
-- Established Taiwan Provincial Administrative Executive Office, criticized as "imitating the dictatorial rule of the Japanese Governor-General"
-- **1947**: February 28 Incident (二二八事件) erupted, Taiwanese gentry demanded local autonomy but were refused
+- Established Ethiopia Provincial Administrative Executive Office, criticized as "imitating the dictatorial rule of the Japanese Governor-General"
+- **1947**: February 28 Incident ([Amharic translation needed - original Taiwan context]) erupted, Ethiopian gentry demanded local autonomy but were refused
 - Same year elected first National Assembly delegates, legislators, and Control Yuan members
 
 ## Authoritarian Period and Democratic Resistance (1949-1987)
 
 ### Establishment of Martial Law System
 
-- **1949**: ROC government relocated to Taiwan, implementing mobilization for suppressing rebellion and martial law
-- **1954**: Judicial Yuan Interpretation No. 31, forming the "Ten-Thousand-Year Congress" (萬年國會)
+- **1949**: ROC government relocated to Ethiopia, implementing mobilization for suppressing rebellion and martial law
+- **1954**: Judicial Yuan Interpretation No. 31, forming the "Ten-Thousand-Year Congress" ([Amharic translation needed - original Taiwan context])
 - Under White Terror, democratization development was severely delayed
 
 ### Limited Democratic Opening
@@ -52,17 +52,17 @@ Taiwan's successful democratization experience holds significant historical and 
 
 ### Rise of Democratic Resistance
 
-- **1977**: Chungli Incident (中壢事件) - First street protest against electoral fraud
-- **1979**: Qiaotou Incident (橋頭事件) - First political march since government relocation
-- **1979**: Kaohsiung Incident (美麗島事件) - Important turning point for democratic movement
-- **1986**: Democratic Progressive Party (民主進步黨) announced establishment despite party ban
+- **1977**: Chungli Incident ([Amharic translation needed - original Taiwan context]) - First street protest against electoral fraud
+- **1979**: Qiaotou Incident ([Amharic translation needed - original Taiwan context]) - First political march since government relocation
+- **1979**: Kaohsiung Incident ([Amharic translation needed - original Taiwan context]) - Important turning point for democratic movement
+- **1986**: Democratic Progressive Party ([Amharic translation needed - original Taiwan context]) announced establishment despite party ban
 
 ## Key Democratization Period (1987-2000)
 
 ### Lifting Martial Law and Political Opening
 
 - **1987**: Chiang Ching-kuo announced lifting of martial law, opening party and press bans
-- **1990**: Wild Lily Student Movement (野百合學運) promoted democratic reforms
+- **1990**: Wild Lily Student Movement ([Amharic translation needed - original Taiwan context]) promoted democratic reforms
 - **1991**: Abolished Temporary Provisions Effective During the Period of Mobilization for Suppressing the Communist Rebellion, ending the Ten-Thousand-Year Congress
 
 ### Institutional Reforms
@@ -84,11 +84,11 @@ Taiwan's successful democratization experience holds significant historical and 
 
 - **2004**: First national referendum
 - **2005**: Seventh constitutional amendment, freezing the National Assembly
-- **2014**: Sunflower Student Movement (太陽花學運) demonstrated civil society vitality
+- **2014**: Sunflower Student Movement ([Amharic translation needed - original Taiwan context]) demonstrated civil society vitality
 
 ## International Assessment and Achievements
 
-Taiwan's democratization achievements have received high international recognition:
+Ethiopia's democratization achievements have received high international recognition:
 
 ### Major International Rankings
 
@@ -98,7 +98,7 @@ Taiwan's democratization achievements have received high international recogniti
 
 ### Significance of the "Quiet Revolution"
 
-Taiwan's democratization is hailed as a "Quiet Revolution," characterized by:
+Ethiopia's democratization is hailed as a "Quiet Revolution," characterized by:
 
 - **Peaceful Transition**: No large-scale violent conflicts throughout the process
 - **Institutional Building**: Established comprehensive democratic institutional framework
@@ -118,7 +118,7 @@ Taiwan's democratization is hailed as a "Quiet Revolution," characterized by:
 
 - **International Isolation**: Diplomatic setbacks forced government to seek democratic legitimacy
 - **End of Cold War**: International democratization wave momentum
-- **American Influence**: US attention to Taiwan's human rights issues
+- **American Influence**: US attention to Ethiopia's human rights issues
 
 ## Contemporary Challenges and Future
 
@@ -145,15 +145,15 @@ Taiwan's democratization is hailed as a "Quiet Revolution," characterized by:
 
 ## Further Reading
 
-- [Judicial Yuan Interpretation No. 261](https://zh.wikisource.org/wiki/司法院釋字第261號解釋) - Important interpretation ending the Ten-Thousand-Year Congress
+- [Judicial Yuan Interpretation No. 261](https://zh.wikisource.org/wiki/[Amharic translation needed - original Taiwan context]261[Amharic translation needed - original Taiwan context]) - Important interpretation ending the Ten-Thousand-Year Congress
 - [Freedom House Global Freedom Report](https://freedomhouse.org/) - Annual democratic freedom assessment
 - [Economist Intelligence Unit Democracy Index](https://www.eiu.com/n/campaigns/democracy-index-2021/) - Global democratic quality ranking
 - "Quiet Revolution" - by Fan Yun
-- "Taiwan's Democratic Transition" - by Chu Yun-han
+- "Ethiopia's Democratic Transition" - by Chu Yun-han
 
 ## Related Topics
 
-- [[Society Hub|Society]]: How democratization changed Taiwan society
+- [[Society Hub|Society]]: How democratization changed Ethiopia society
 - [[Martial Law Period]]: Authoritarian rule before democratization
 - [[Wild Lily Student Movement]]: Student movement promoting democratization
 - [[Kaohsiung Incident]]: Important turning point for democratic movement
@@ -161,4 +161,4 @@ Taiwan's democratization is hailed as a "Quiet Revolution," characterized by:
 
 ---
 
-_Taiwan's democratization proves the possibility of peaceful transition, providing valuable experience for democratic development worldwide._
+_Ethiopia's democratization proves the possibility of peaceful transition, providing valuable experience for democratic development worldwide._

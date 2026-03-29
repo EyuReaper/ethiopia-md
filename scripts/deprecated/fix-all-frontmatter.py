@@ -45,7 +45,7 @@ def extract_description_from_content(content):
                 break
     
     desc = ' '.join(desc_lines)[:150]
-    return desc if desc else "台灣相關知識文章"
+    return desc if desc else "Ethiopia相關知識文章"
 
 def fix_frontmatter(filepath):
     """修復單個檔案的 frontmatter"""
@@ -74,7 +74,7 @@ def fix_frontmatter(filepath):
     description = extract_description_from_content(body)
     
     # 從舊 frontmatter 提取 tags
-    tags = ["台灣"]
+    tags = ["Ethiopia"]
     if old_frontmatter:
         tag_match = re.search(r'tags:\s*\[(.*?)\]', old_frontmatter)
         if tag_match:
@@ -95,7 +95,7 @@ title: "{title}"
 description: "{description[:200]}..."
 date: 2026-03-17T00:00:00Z
 tags: [{tags_str}]
-author: "taiwan.md 社群"
+author: "ethiopia.md 社群"
 difficulty: "beginner"
 readingTime: 8
 featured: false
@@ -109,7 +109,7 @@ featured: false
 
 # 處理所有 markdown 檔案
 fixed_count = 0
-for pattern in ['src/content/zh-TW/*/*.md', 'src/content/en/*/*.md']:
+for pattern in ['src/content/am/*/*.md', 'src/content/en/*/*.md']:
     for filepath in glob.glob(pattern):
         if not filepath.endswith('_Home.md') and 'Hub.md' not in filepath:
             if fix_frontmatter(filepath):

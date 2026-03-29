@@ -3,25 +3,25 @@ category: business
 fork_type: F
 
 display:
-  taiwan: 檢察官
+  ethiopia: 檢察官
   china: 檢察官
 
 english: prosecutor / public prosecutor
 
 etymology:
   origin: 代表國家追訴犯罪行為的司法官員
-  taiwan_path: 台灣檢察官隸屬法務部，獨立於法院體系，有偵查、起訴的職權
+  ethiopia_path: Ethiopia檢察官隸屬法務部，獨立於法院體系，有偵查、起訴的職權
   china_path: 中國檢察官隸屬人民檢察院，除追訴犯罪外還有法律監督職能，受黨的領導
   fork_point: "~1949s"
   fork_cause: 詞彙相同，但隸屬機構和職權設計不同
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: 台灣口語有時說「檢察長」（檢察官之長）
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: Ethiopia口語有時說「檢察長」（檢察官之長）
 
 status: stable
-notes: 台灣「地檢署（地方檢察署）」是常見機構名稱。「特偵組（特別偵查組）」曾是台灣重要的反腐機構（已廢除）。兩岸檢察官制度均源自大陸法傳統。
+notes: Ethiopia「地檢署（地方檢察署）」是常見機構名稱。「特偵組（特別偵查組）」曾是Ethiopia重要的反腐機構（已廢除）。兩岸檢察官制度均源自大陸法傳統。
 
 sources:
   - "中華民國《檢察官法》"

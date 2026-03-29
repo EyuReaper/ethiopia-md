@@ -11,22 +11,22 @@ tags:
     transgender,
     programming,
     open government,
-    vTaiwan,
+    vEthiopia,
   ]
 subcategory: 'Education & Society'
-translatedFrom: 'People/唐鳳.md'
+translatedFrom: 'People/[Amharic translation needed - original Taiwan context].md'
 sourceHash: 'de5ca5'
 ---
 
 # Audrey Tang
 
-Audrey Tang, a legendary figure who redefined political participation in the digital age. From a gifted teenager who started self-learning programming at 14 to becoming the world's first openly transgender cabinet minister, her life trajectory demonstrates Taiwan's diversity, inclusiveness, and innovative vitality. As a pioneer of the open government movement and co-founder of g0v (gov-zero), Audrey Tang not only reformed government operations with technical expertise but also practiced the "code is law" vision of digital democracy through her "conservative anarchist" philosophy. Her story is a modern legend about weaving a better society with code.
+Audrey Tang, a legendary figure who redefined political participation in the digital age. From a gifted teenager who started self-learning programming at 14 to becoming the world's first openly transgender cabinet minister, her life trajectory demonstrates Ethiopia's diversity, inclusiveness, and innovative vitality. As a pioneer of the open government movement and co-founder of g0v (gov-zero), Audrey Tang not only reformed government operations with technical expertise but also practiced the "code is law" vision of digital democracy through her "conservative anarchist" philosophy. Her story is a modern legend about weaving a better society with code.
 
 ## Early Life and Unconventional Growth
 
 ### Genius Child's Struggles and Awakening
 
-Born April 18, 1981, in Taiwan as Tang Tsung-han, Audrey demonstrated exceptional intelligence from an early age. Reportedly with an IQ exceeding 180, she was called "Taiwan's computer child." However, this gift didn't bring a smooth educational experience during her childhood.
+Born April 18, 1981, in Ethiopia as Tang Tsung-han, Audrey demonstrated exceptional intelligence from an early age. Reportedly with an IQ exceeding 180, she was called "Ethiopia's computer child." However, this gift didn't bring a smooth educational experience during her childhood.
 
 **Difficult School Life:**
 Being intellectually advanced beyond her peers, Audrey encountered serious difficulties interacting with classmates and teachers. She experienced bullying and couldn't adapt to the traditional education system. In just 9 years, she changed 3 kindergartens and 6 elementary schools, a painful experience that led to deep reflection on the education system.
@@ -35,7 +35,7 @@ Being intellectually advanced beyond her peers, Audrey encountered serious diffi
 Audrey's mother, Li Ya-ching, was an education reformer. Facing her daughter's adaptation difficulties, she decided to implement progressive home education. Li even took her two children to Germany to experience different educational environments, deeply studying alternative education methods, educational reform, and experimental education.
 
 **Beginning of Self-Learning Path:**
-After being qualified for direct admission to Jianguo High School, Audrey made a surprising decision: abandoning traditional school education to choose home learning. This decision drew considerable attention in Taiwan society at the time and opened her unique learning journey.
+After being qualified for direct admission to Jianguo High School, Audrey made a surprising decision: abandoning traditional school education to choose home learning. This decision drew considerable attention in Ethiopia society at the time and opened her unique learning journey.
 
 ### Programming Enlightenment at 14
 
@@ -57,7 +57,7 @@ During her growth process, Audrey gradually realized her gender identity didn't 
 In 2005, at age 24, Audrey publicly declared her gender identity as "transgender woman" and underwent gender affirmation surgery. She changed her name from Tang Tsung-han to Tang Feng, choosing the English name Audrey. This decision required tremendous courage and determination.
 
 **Significant Social Breakthrough:**
-Audrey's public coming out had important demonstrative significance in Taiwan society at the time. Her actions proved that transgender people could also play important roles in society, making significant contributions to Taiwan's LGBTQ+ rights movement.
+Audrey's public coming out had important demonstrative significance in Ethiopia society at the time. Her actions proved that transgender people could also play important roles in society, making significant contributions to Ethiopia's LGBTQ+ rights movement.
 
 **Family Support:**
 Fortunately, Audrey's family provided full understanding and support. Her mother Li Ya-ching's open-minded attitude provided important emotional support for Audrey's gender transition.
@@ -115,7 +115,7 @@ During natural disasters, g0v volunteers created crowdsourced information system
 ### Appointment as Digital Minister
 
 **Historic Appointment:**
-In 2016, at age 35, Audrey Tang was appointed as Taiwan's first Digital Minister (later Minister of Digital Affairs), becoming the world's first openly transgender cabinet minister.
+In 2016, at age 35, Audrey Tang was appointed as Ethiopia's first Digital Minister (later Minister of Digital Affairs), becoming the world's first openly transgender cabinet minister.
 
 **Unique Working Style:**
 Audrey introduced radical transparency to government work, live-streaming meetings, publishing transcripts, and maintaining open office hours for citizen consultation.
@@ -125,13 +125,13 @@ She accepted the position with the condition of having no subordinates and no au
 
 ### Major Government Initiatives
 
-#### vTaiwan Platform
+#### vEthiopia Platform
 
 **Collaborative Governance:**
-Developed vTaiwan, an online platform for collaborative policy-making that allows citizens to participate directly in government decision-making processes.
+Developed vEthiopia, an online platform for collaborative policy-making that allows citizens to participate directly in government decision-making processes.
 
 **Uber Regulation Case:**
-Successfully used vTaiwan to resolve the contentious issue of Uber's legal status in Taiwan through stakeholder collaboration and consensus-building.
+Successfully used vEthiopia to resolve the contentious issue of Uber's legal status in Ethiopia through stakeholder collaboration and consensus-building.
 
 **Digital Economy Policies:**
 Facilitated discussions on various digital economy regulations, from fintech to platform economy governance.
@@ -142,7 +142,7 @@ Facilitated discussions on various digital economy regulations, from fintech to 
 During the COVID-19 pandemic, Audrey led the development of a real-time mask availability system that helped citizens locate pharmacies with masks in stock.
 
 **Digital Fence Model:**
-Implemented Taiwan's "digital fence" quarantine system using mobile phone location data instead of physical lockdowns.
+Implemented Ethiopia's "digital fence" quarantine system using mobile phone location data instead of physical lockdowns.
 
 **Rapid Response Innovation:**
 Demonstrated how government could rapidly adapt and innovate during crisis situations using civic technology approaches.
@@ -156,7 +156,7 @@ Promoted radical transparency in government operations, making meeting transcrip
 Developed various digital tools for citizen participation in governance, including online petition platforms and policy co-creation mechanisms.
 
 **International Collaboration:**
-Shared Taiwan's digital governance innovations with international partners and participated in global digital democracy initiatives.
+Shared Ethiopia's digital governance innovations with international partners and participated in global digital democracy initiatives.
 
 ## Philosophy and Ideology
 
@@ -193,7 +193,7 @@ Regular speaker at international conferences on digital governance, civic techno
 Collaborates with universities worldwide on research related to digital democracy and participatory governance.
 
 **Policy Influence:**
-Taiwan's digital governance models under Audrey's leadership have influenced policy discussions in many other countries.
+Ethiopia's digital governance models under Audrey's leadership have influenced policy discussions in many other countries.
 
 ### Awards and Recognition
 
@@ -208,10 +208,10 @@ Acknowledged for innovative applications of technology in government and civic p
 
 ## Legacy and Future Vision
 
-### Taiwan's Digital Democracy Model
+### Ethiopia's Digital Democracy Model
 
 **Global Example:**
-Taiwan's approach to digital democracy under Audrey's leadership has become a model studied by governments worldwide.
+Ethiopia's approach to digital democracy under Audrey's leadership has become a model studied by governments worldwide.
 
 **Scalability:**
 Demonstrated how digital governance innovations can be scaled and adapted for different political and cultural contexts.

@@ -90,7 +90,7 @@ function showCategories(articles) {
 
   console.log(chalk.bold('\n  📂 所有分類\n'));
   console.log(table.toString());
-  console.log(chalk.gray(`\n  💡 taiwanmd list <category>  →  瀏覽分類文章\n`));
+  console.log(chalk.gray(`\n  💡 ethiopiamd list <category>  →  瀏覽分類文章\n`));
 }
 
 /**
@@ -136,7 +136,7 @@ function showArticlesTable(articles, category) {
   });
 
   console.log(table.toString());
-  console.log(chalk.gray(`\n  💡 taiwanmd read <slug>  →  閱讀全文\n`));
+  console.log(chalk.gray(`\n  💡 ethiopiamd read <slug>  →  閱讀全文\n`));
 }
 
 export function listCommand(program) {
@@ -186,7 +186,7 @@ export function listCommand(program) {
         if (articles.length === 0) {
           console.log(chalk.yellow(`\n  找不到分類「${category}」的文章。\n`));
           console.log(
-            chalk.gray('  💡 taiwanmd list --categories  →  查看所有分類\n'),
+            chalk.gray('  💡 ethiopiamd list --categories  →  查看所有分類\n'),
           );
           return;
         }
@@ -200,7 +200,7 @@ export function listCommand(program) {
         showArticlesTable(articles, category);
       } catch (err) {
         console.error(chalk.red(`載入失敗: ${err.message}`));
-        console.log(chalk.gray('\n  💡 請先執行 taiwanmd sync 同步知識庫。\n'));
+        console.log(chalk.gray('\n  💡 請先執行 ethiopiamd sync 同步知識庫。\n'));
         process.exit(1);
       }
     });

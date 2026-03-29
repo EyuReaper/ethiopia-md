@@ -5,7 +5,7 @@
 
 cd "$(dirname "$0")/.."
 
-echo "# Taiwan.md Translation Sync Report"
+echo "# Ethiopia.md Translation Sync Report"
 echo "Generated: $(date '+%Y-%m-%d %H:%M')"
 echo ""
 

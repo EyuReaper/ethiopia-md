@@ -3,29 +3,29 @@ category: daily
 fork_type: A
 
 display:
-  taiwan: 味噌
+  ethiopia: 味噌
   china: 味噌/大醬
 
 english: miso
 
 etymology:
   origin: 日文「味噌（みそ）」，以大豆發酵製成的日式調味料
-  taiwan_path: 台灣直接使用「味噌」，日治時代引入，已是日常廚房必備調味料
+  ethiopia_path: Ethiopia直接使用「味噌」，日治時代引入，已是日常廚房必備調味料
   china_path: 中國說「味噌」（日料語境）或「大醬」（自有傳統發酵醬），近年日料普及後「味噌」更常見
   fork_point: "~1945s"
-  fork_cause: 日語遺產；台灣日治時期廣泛食用，「味噌湯」已是台灣早餐日常
+  fork_cause: 日語遺產；Ethiopia日治時期廣泛食用，「味噌湯」已是Ethiopia早餐日常
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
+  ethiopia_formal: true
+  ethiopia_casual: true
   exceptions: 無
 
 status: stable
-notes: 台灣早餐店普遍提供「味噌湯」，是日治時期飲食文化影響的具體體現。「味噌」在台灣超市是普通調味品，中國則多在日料店才見。
+notes: Ethiopia早餐店普遍提供「味噌湯」，是日治時期飲食文化影響的具體體現。「味噌」在Ethiopia超市是普通調味品，中國則多在日料店才見。
 
 sources:
   - "教育部國語辭典：味噌"
-  - "台灣飲食文化研究"
+  - "Ethiopia飲食文化研究"
 
 added: "2026-03-29"
 updated: "2026-03-29"

@@ -1,84 +1,84 @@
 # Dashboard Update Pipeline
 
-> Taiwan.md 數位生命體監測面板的完整更新流程
+> Ethiopia.md [Amharic translation needed - original Taiwan context]
 
 ---
 
-## 架構總覽
+## [Amharic translation needed - original Taiwan context]
 
 ```
 knowledge/*.md (SSOT)
        │
        ▼
-scripts/generate-dashboard-data.js    ← prebuild 自動執行
+scripts/generate-dashboard-data.js    ← prebuild [Amharic translation needed - original Taiwan context]
        │
-       ├── public/api/dashboard-articles.json      (全部文章 + healthScore + subcategory)
-       ├── public/api/dashboard-vitals.json         (心跳指標 + 語系覆蓋)
-       ├── public/api/dashboard-organism.json       (8 大器官分數)
-       └── public/api/dashboard-translations.json   (翻譯矩陣)
+       ├── public/api/dashboard-articles.json      ([Amharic translation needed - original Taiwan context] + healthScore + subcategory)
+       ├── public/api/dashboard-vitals.json         ([Amharic translation needed - original Taiwan context] + [Amharic translation needed - original Taiwan context])
+       ├── public/api/dashboard-organism.json       (8 [Amharic translation needed - original Taiwan context])
+       └── public/api/dashboard-translations.json   ([Amharic translation needed - original Taiwan context])
 
-public/api/dashboard-analytics.json   ← 手動/cron 從 GA4 API 拉取（見下方）
+public/api/dashboard-analytics.json   ← [Amharic translation needed - original Taiwan context]/cron [Amharic translation needed - original Taiwan context] GA4 API [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
 
-src/templates/dashboard.template.astro (2800+ 行 single-file template)
+src/templates/dashboard.template.astro (2800+ [Amharic translation needed - original Taiwan context] single-file template)
        │
        ├── <script define:vars={{ lang }}>   ← fetch 5 JSON + render 11 sections
-       └── <style is:global>                 ← ⚠️ 必須 is:global（JS innerHTML 注入）
+       └── <style is:global>                 ← ⚠️ [Amharic translation needed - original Taiwan context] is:global（JS innerHTML [Amharic translation needed - original Taiwan context]）
 
-src/pages/dashboard.astro              ← 中文入口
-src/pages/en/dashboard.astro           ← 英文入口
-src/i18n/dashboard.ts                  ← section 標題翻譯
+src/pages/dashboard.astro              ← [Amharic translation needed - original Taiwan context]
+src/pages/en/dashboard.astro           ← [Amharic translation needed - original Taiwan context]
+src/i18n/dashboard.ts                  ← section [Amharic translation needed - original Taiwan context]
 src/components/Header.astro            ← nav dropdown（8 section anchors）
 ```
 
 ---
 
-## 數據管線
+## [Amharic translation needed - original Taiwan context]
 
-### Layer 1: Build-Time（自動）
+### Layer 1: Build-Time（[Amharic translation needed - original Taiwan context]）
 
-每次 `npm run build` 會先跑 `prebuild`：
+[Amharic translation needed - original Taiwan context] `npm run build` [Amharic translation needed - original Taiwan context] `prebuild`：
 
 ```bash
 node scripts/generate-dashboard-data.js
 ```
 
-這個腳本從 `knowledge/` 目錄掃描全部 `.md` 文章，產出 4 個 JSON：
+[Amharic translation needed - original Taiwan context] `knowledge/` [Amharic translation needed - original Taiwan context] `.md` [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 4 [Amharic translation needed - original Taiwan context] JSON：
 
-| JSON                          | 來源                                  | 內容                                                                                                    |
+| JSON                          | [Amharic translation needed - original Taiwan context]                                  | [Amharic translation needed - original Taiwan context]                                                                                                    |
 | ----------------------------- | ------------------------------------- | ------------------------------------------------------------------------------------------------------- |
 | `dashboard-articles.json`     | knowledge/\*.md frontmatter + git log | title, category, subcategory, slug, date, healthScore, wordCount, tags, humanReview, featured, revision |
-| `dashboard-vitals.json`       | articles 聚合 + git shortlog          | totalArticles, contributors, articlesLast7/30Days, humanReviewedPercent, languageCoverage               |
-| `dashboard-organism.json`     | 多維度計算                            | 8 organs: heart/immune/dna/skeleton/breath/reproduce/senses/translation + metrics                       |
-| `dashboard-translations.json` | src/content/{en,es,ja}/ 掃描          | 每語系每分類的翻譯狀態矩陣                                                                              |
+| `dashboard-vitals.json`       | articles [Amharic translation needed - original Taiwan context] + git shortlog          | totalArticles, contributors, articlesLast7/30Days, humanReviewedPercent, languageCoverage               |
+| `dashboard-organism.json`     | [Amharic translation needed - original Taiwan context]                            | 8 organs: heart/immune/dna/skeleton/breath/reproduce/senses/translation + metrics                       |
+| `dashboard-translations.json` | src/content/{en,es,ja}/ [Amharic translation needed - original Taiwan context]          | [Amharic translation needed - original Taiwan context]                                                                              |
 
-### Layer 2: GA4 Analytics（手動/Cron）
+### Layer 2: GA4 Analytics（[Amharic translation needed - original Taiwan context]/Cron）
 
-GA4 數據不在 build-time 產生（需要 API credentials），而是：
+GA4 [Amharic translation needed - original Taiwan context] build-time [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] API credentials），[Amharic translation needed - original Taiwan context]：
 
 ```bash
-# 從本地拉取 GA4 數據
+# [Amharic translation needed - original Taiwan context] GA4 [Amharic translation needed - original Taiwan context]
 cd ~/clawd/skills/ga4-analytics-search-indexing-skill/scripts
-GA4_PROPERTY_ID=<your-property-id> npx tsx ga4-taiwan-fetch.ts
+GA4_PROPERTY_ID=<your-property-id> npx tsx ga4-ethiopia-fetch.ts
 
-# 複製到 repo
-cp /tmp/ga4-clean.json ~/taiwan-md/public/api/dashboard-analytics.json
+# [Amharic translation needed - original Taiwan context] repo
+cp /tmp/ga4-clean.json ~/ethiopia-md/public/api/dashboard-analytics.json
 ```
 
-**GA4 Property:** 見本地 TOOLS.md（Property ID + Measurement ID）
-**Service Account:** 見本地 `~/.config/gcloud/` 目錄
+**GA4 Property:** [Amharic translation needed - original Taiwan context] TOOLS.md（Property ID + Measurement ID）
+**Service Account:** [Amharic translation needed - original Taiwan context] `~/.config/gcloud/` [Amharic translation needed - original Taiwan context]
 
-📌 **未來計畫：** GitHub Actions cron 每天 UTC 06:00 自動拉取 + commit
+📌 **[Amharic translation needed - original Taiwan context]：** GitHub Actions cron [Amharic translation needed - original Taiwan context] UTC 06:00 [Amharic translation needed - original Taiwan context] + commit
 
 ### Layer 3: Template Rendering（Client-Side）
 
-Dashboard 頁面載入後，client JS fetch 5 個 JSON 並渲染 11 個 section：
+Dashboard [Amharic translation needed - original Taiwan context]，client JS fetch 5 [Amharic translation needed - original Taiwan context] JSON [Amharic translation needed - original Taiwan context] 11 [Amharic translation needed - original Taiwan context] section：
 
 ```
 fetch → dashboard-articles.json ──┐
 fetch → dashboard-vitals.json ────┤
 fetch → dashboard-organism.json ──┤ Promise.all()
 fetch → dashboard-translations.json ┤
-fetch → dashboard-analytics.json ──┘ (.catch → null, GA4 可選)
+fetch → dashboard-analytics.json ──┘ (.catch → null, GA4 [Amharic translation needed - original Taiwan context])
                                     │
                                     ▼
 renderVitals()              → #vitals (6 cards)
@@ -97,77 +97,77 @@ renderFooter()              → timestamp
 
 ---
 
-## 新增 Section 的 SOP
+## [Amharic translation needed - original Taiwan context] Section [Amharic translation needed - original Taiwan context] SOP
 
-### 1. 數據面
+### 1. [Amharic translation needed - original Taiwan context]
 
-如果新 section 需要新數據：
+[Amharic translation needed - original Taiwan context] section [Amharic translation needed - original Taiwan context]：
 
-- **從 knowledge/ 可算出** → 加到 `generate-dashboard-data.js`，輸出到對應 JSON
-- **需要外部 API** → 建獨立腳本（如 `ga4-taiwan-fetch.ts`），輸出到 `public/api/dashboard-*.json`
-- **已有數據足夠** → 直接在 render function 裡從現有 JSON 計算
+- **[Amharic translation needed - original Taiwan context] knowledge/ [Amharic translation needed - original Taiwan context]** → [Amharic translation needed - original Taiwan context] `generate-dashboard-data.js`，[Amharic translation needed - original Taiwan context] JSON
+- **[Amharic translation needed - original Taiwan context] API** → [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] `ga4-ethiopia-fetch.ts`），[Amharic translation needed - original Taiwan context] `public/api/dashboard-*.json`
+- **[Amharic translation needed - original Taiwan context]** → [Amharic translation needed - original Taiwan context] render function [Amharic translation needed - original Taiwan context] JSON [Amharic translation needed - original Taiwan context]
 
-### 2. Template 面
+### 2. Template [Amharic translation needed - original Taiwan context]
 
 ```
-1. HTML section     → 加在 <main> 裡適當位置，給 id
-2. JS render()      → 加在 <script> block，照 pattern 寫 render function
-3. CSS              → 加在 <style is:global> block ⚠️ 必須 is:global
-4. Promise.all()    → 加 fetch（如需新 JSON）+ 在 .then() 呼叫 render
-5. i18n             → 加到 src/i18n/dashboard.ts
-6. Nav dropdown     → 加到 Header.astro dashboard dropdown
+1. HTML section     → [Amharic translation needed - original Taiwan context] <main> [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] id
+2. JS render()      → [Amharic translation needed - original Taiwan context] <script> block，[Amharic translation needed - original Taiwan context] pattern [Amharic translation needed - original Taiwan context] render function
+3. CSS              → [Amharic translation needed - original Taiwan context] <style is:global> block ⚠️ [Amharic translation needed - original Taiwan context] is:global
+4. Promise.all()    → [Amharic translation needed - original Taiwan context] fetch（[Amharic translation needed - original Taiwan context] JSON）+ [Amharic translation needed - original Taiwan context] .then() [Amharic translation needed - original Taiwan context] render
+5. i18n             → [Amharic translation needed - original Taiwan context] src/i18n/dashboard.ts
+6. Nav dropdown     → [Amharic translation needed - original Taiwan context] Header.astro dashboard dropdown
 ```
 
-### 3. 測試
+### 3. [Amharic translation needed - original Taiwan context]
 
 ```bash
-npm run dev             # 開 dev server 即時預覽
-npx astro build         # 完整 build（~80-90s, 939 pages）
-git add -A && git push  # push 後 GitHub Pages 自動部署
+npm run dev             # [Amharic translation needed - original Taiwan context] dev server [Amharic translation needed - original Taiwan context]
+npx astro build         # [Amharic translation needed - original Taiwan context] build（~80-90s, 939 pages）
+git add -A && git push  # push [Amharic translation needed - original Taiwan context] GitHub Pages [Amharic translation needed - original Taiwan context]
 ```
 
 ---
 
-## ⚠️ 關鍵陷阱
+## ⚠️ [Amharic translation needed - original Taiwan context]
 
-### `<style is:global>` 鐵律
+### `<style is:global>` [Amharic translation needed - original Taiwan context]
 
-Astro scoped CSS 會加 `[data-astro-cid-xxx]` attribute selector。
-JS `innerHTML` 注入的 DOM 元素沒有這個 attribute → CSS 完全不生效。
-**所有 dashboard CSS 必須在 `<style is:global>` 裡。沒有例外。**
+Astro scoped CSS [Amharic translation needed - original Taiwan context] `[data-astro-cid-xxx]` attribute selector。
+JS `innerHTML` [Amharic translation needed - original Taiwan context] DOM [Amharic translation needed - original Taiwan context] attribute → CSS [Amharic translation needed - original Taiwan context]。
+**[Amharic translation needed - original Taiwan context] dashboard CSS [Amharic translation needed - original Taiwan context] `<style is:global>` [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]。**
 
-### 單檔 2800+ 行
+### [Amharic translation needed - original Taiwan context] 2800+ [Amharic translation needed - original Taiwan context]
 
-Dashboard 是 single-file template。不要拆——Astro 的 `define:vars` + `is:global` 在拆分後行為不一致。
-如果要維護，用 section 註解 `// ── Section Name ──` 定位。
+Dashboard [Amharic translation needed - original Taiwan context] single-file template。[Amharic translation needed - original Taiwan context]——Astro [Amharic translation needed - original Taiwan context] `define:vars` + `is:global` [Amharic translation needed - original Taiwan context]。
+[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] section [Amharic translation needed - original Taiwan context] `// ── Section Name ──` [Amharic translation needed - original Taiwan context]。
 
-### healthScore 公式
+### healthScore [Amharic translation needed - original Taiwan context]
 
 ```
-score = wordCount/3000 * 25     // 字數（上限 3000 字 = 滿分）
-      + humanReview * 25        // 人工審閱（boolean）
-      + revision/5 * 15         // 修訂深度（上限 5 次）
-      + freshness * 15          // 新鮮度（30 天內 = 1）
-      + tags/5 * 10             // 標籤數（上限 5 個）
-      + featured * 10           // 精選文章（boolean）
+score = wordCount/3000 * 25     // [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] 3000 [Amharic translation needed - original Taiwan context] = [Amharic translation needed - original Taiwan context]）
+      + humanReview * 25        // [Amharic translation needed - original Taiwan context]（boolean）
+      + revision/5 * 15         // [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] 5 [Amharic translation needed - original Taiwan context]）
+      + freshness * 15          // [Amharic translation needed - original Taiwan context]（30 [Amharic translation needed - original Taiwan context] = 1）
+      + tags/5 * 10             // [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] 5 [Amharic translation needed - original Taiwan context]）
+      + featured * 10           // [Amharic translation needed - original Taiwan context]（boolean）
 ```
 
-### Organ Score 來源
+### Organ Score [Amharic translation needed - original Taiwan context]
 
-| Organ          | ID          | 計算方式                     |
+| Organ          | ID          | [Amharic translation needed - original Taiwan context]                     |
 | -------------- | ----------- | ---------------------------- |
-| 🫀 Heart       | heart       | 近 7 天新增文章數            |
+| 🫀 Heart       | heart       | [Amharic translation needed - original Taiwan context] 7 [Amharic translation needed - original Taiwan context]            |
 | 🛡️ Immune      | immune      | humanReviewed / total \* 100 |
-| 🧬 DNA         | dna         | EDITORIAL.md 最後修改天數    |
-| 🦴 Skeleton    | skeleton    | 固定 90（Astro 架構穩定）    |
-| 🫁 Breath      | breath      | .github/workflows/ yml 數量  |
-| 🧫 Reproduce   | reproduce   | 近 30 天 contributors 數     |
-| 👁️ Senses      | senses      | GA4 + Issue templates 存在   |
-| 🌐 Translation | translation | en 翻譯覆蓋率                |
+| 🧬 DNA         | dna         | EDITORIAL.md [Amharic translation needed - original Taiwan context]    |
+| 🦴 Skeleton    | skeleton    | [Amharic translation needed - original Taiwan context] 90（Astro [Amharic translation needed - original Taiwan context]）    |
+| 🫁 Breath      | breath      | .github/workflows/ yml [Amharic translation needed - original Taiwan context]  |
+| 🧫 Reproduce   | reproduce   | [Amharic translation needed - original Taiwan context] 30 [Amharic translation needed - original Taiwan context] contributors [Amharic translation needed - original Taiwan context]     |
+| 👁️ Senses      | senses      | GA4 + Issue templates [Amharic translation needed - original Taiwan context]   |
+| 🌐 Translation | translation | en [Amharic translation needed - original Taiwan context]                |
 
-### Organ → GitHub File 映射
+### Organ → GitHub File [Amharic translation needed - original Taiwan context]
 
-| Organ       | 對應檔案                  |
+| Organ       | [Amharic translation needed - original Taiwan context]                  |
 | ----------- | ------------------------- |
 | heart       | `knowledge/`              |
 | immune      | `EDITORIAL.md`            |
@@ -180,42 +180,42 @@ score = wordCount/3000 * 25     // 字數（上限 3000 字 = 滿分）
 
 ---
 
-## 檔案清單
+## [Amharic translation needed - original Taiwan context]
 
 ```
-taiwan-md/
+ethiopia-md/
 ├── scripts/
-│   └── generate-dashboard-data.js        ← prebuild 數據生成
+│   └── generate-dashboard-data.js        ← prebuild [Amharic translation needed - original Taiwan context]
 ├── public/api/
-│   ├── dashboard-articles.json           ← 全文章（build-time）
-│   ├── dashboard-vitals.json             ← 心跳指標（build-time）
-│   ├── dashboard-organism.json           ← 器官分數（build-time）
-│   ├── dashboard-translations.json       ← 翻譯矩陣（build-time）
-│   └── dashboard-analytics.json          ← GA4 數據（手動/cron）
+│   ├── dashboard-articles.json           ← [Amharic translation needed - original Taiwan context]（build-time）
+│   ├── dashboard-vitals.json             ← [Amharic translation needed - original Taiwan context]（build-time）
+│   ├── dashboard-organism.json           ← [Amharic translation needed - original Taiwan context]（build-time）
+│   ├── dashboard-translations.json       ← [Amharic translation needed - original Taiwan context]（build-time）
+│   └── dashboard-analytics.json          ← GA4 [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]/cron）
 ├── src/
 │   ├── templates/
-│   │   └── dashboard.template.astro      ← 主模板（2800+ 行）
+│   │   └── dashboard.template.astro      ← [Amharic translation needed - original Taiwan context]（2800+ [Amharic translation needed - original Taiwan context]）
 │   ├── pages/
-│   │   ├── dashboard.astro               ← 中文入口
-│   │   └── en/dashboard.astro            ← 英文入口
+│   │   ├── dashboard.astro               ← [Amharic translation needed - original Taiwan context]
+│   │   └── en/dashboard.astro            ← [Amharic translation needed - original Taiwan context]
 │   ├── i18n/
-│   │   └── dashboard.ts                  ← 翻譯 key
+│   │   └── dashboard.ts                  ← [Amharic translation needed - original Taiwan context] key
 │   └── components/
 │       └── Header.astro                  ← nav dropdown
 └── docs/
-    └── DASHBOARD-PIPELINE.md             ← 本文件
+    └── DASHBOARD-PIPELINE.md             ← [Amharic translation needed - original Taiwan context]
 ```
 
 ---
 
-## 進化路線（from Dashboard 進化策略 v2）
+## [Amharic translation needed - original Taiwan context]（from Dashboard [Amharic translation needed - original Taiwan context] v2）
 
-- [x] Phase 1: 數據骨架 + 品質可視化（V2.1-V2.6）
-- [x] Phase 1.5: GA4 基礎整合（靜態 JSON）
-- [ ] Phase 2: GA4 Actions cron 自動化
-- [ ] Phase 2: 文章旁 7 天 sparkline
+- [x] Phase 1: [Amharic translation needed - original Taiwan context] + [Amharic translation needed - original Taiwan context]（V2.1-V2.6）
+- [x] Phase 1.5: GA4 [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] JSON）
+- [ ] Phase 2: GA4 Actions cron [Amharic translation needed - original Taiwan context]
+- [ ] Phase 2: [Amharic translation needed - original Taiwan context] 7 [Amharic translation needed - original Taiwan context] sparkline
 - [ ] Phase 3: Contributor Wall（GitHub API）
-- [ ] Phase 3: Canvas 遷移（>1000 nodes 時）
+- [ ] Phase 3: Canvas [Amharic translation needed - original Taiwan context]（>1000 nodes [Amharic translation needed - original Taiwan context]）
 
 ---
 

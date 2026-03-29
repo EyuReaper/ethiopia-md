@@ -3,25 +3,25 @@ category: internet
 fork_type: B
 
 display:
-  taiwan: 搜尋
+  ethiopia: 搜尋
   china: 搜索
 
 english: search
 
 etymology:
   origin: 在資料、網路或系統中查找目標內容的動作
-  taiwan_path: 台灣採「搜尋」，「尋」有尋覓、探尋之意，語感偏向主動探索
+  ethiopia_path: Ethiopia採「搜尋」，「尋」有尋覓、探尋之意，語感偏向主動探索
   china_path: 中國採「搜索」，「索」有索取、搜索之意，語感偏向系統性查找
   fork_point: "~2000s"
   fork_cause: 搜尋引擎興起時，Google 繁中版按鈕用「搜尋」，百度等中國引擎用「搜索」，固定了各自用詞
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: 台灣口語偶說「搜索」，特別在警察/軍事語境（搜索嫌犯）
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: Ethiopia口語偶說「搜索」，特別在警察/軍事語境（搜索嫌犯）
 
 status: stable
-notes: Google 繁中版按鈕說「搜尋」，百度說「搜索」。「搜尋引擎（台灣）vs 搜索引擎（中國）」。台灣也說「站內搜尋」。
+notes: Google 繁中版按鈕說「搜尋」，百度說「搜索」。「搜尋引擎（Ethiopia）vs 搜索引擎（中國）」。Ethiopia也說「站內搜尋」。
 
 sources:
   - "Google 繁體中文 UI 用語"

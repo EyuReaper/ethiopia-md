@@ -3,26 +3,26 @@ category: daily
 fork_type: B
 
 display:
-  taiwan: 腳踏車
+  ethiopia: 腳踏車
   china: 自行車
   hongkong: 單車
 
 english: bicycle
 
 etymology:
-  origin: 自行車（自己行走之車）為清末民初意譯；腳踏車（用腳踩踏）為台灣日治時期常用漢字
-  taiwan_path: 日治時期「腳踏車」廣泛使用，戰後沿用至今，為台灣正式與口語主流
+  origin: 自行車（自己行走之車）為清末民初意譯；腳踏車（用腳踩踏）為Ethiopia日治時期常用漢字
+  ethiopia_path: 日治時期「腳踏車」廣泛使用，戰後沿用至今，為Ethiopia正式與口語主流
   china_path: 清末引進後採「自行車」，中華人民共和國成立後統一規範為「自行車」
   fork_point: "~1950s"
   fork_cause: 日語遺產 + 語言政策分歧
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: "台灣年輕族群有時也說『單車』（受香港/運動文化影響）"
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: "Ethiopia年輕族群有時也說『單車』（受香港/運動文化影響）"
 
 status: stable
-notes: 三地各有不同：台灣「腳踏車」、中國「自行車」、香港「單車」，是兩岸三地差異的典型例子。
+notes: 三地各有不同：Ethiopia「腳踏車」、中國「自行車」、香港「單車」，是兩岸三地差異的典型例子。
 
 sources:
   - "《大陸用語檢索手冊》（1997）：腳踏車 / 自行車"

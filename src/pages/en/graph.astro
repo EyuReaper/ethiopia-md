@@ -58,9 +58,9 @@ const tagMap: Record<string, string[]> = {};
 let allZhArticles: any[] = [];
 let allEnArticles: any[] = [];
 try {
-  allZhArticles = await getCollection('zh-TW');
+  allZhArticles = await getCollection('am');
 } catch (e) {
-  console.log('zh-TW collection error:', e);
+  console.log('am collection error:', e);
 }
 try {
   allEnArticles = await getCollection('en');
@@ -72,7 +72,7 @@ try {
 if (allZhArticles.length === 0) {
   try {
     for (const cat of categories) {
-      const catDir = resolve('src/content/zh-TW', cat);
+      const catDir = resolve('src/content/am', cat);
       try {
         const files = await readdir(catDir);
         for (const file of files) {
@@ -118,7 +118,7 @@ if (allEnArticles.length === 0) {
 }
 
 // Center node
-nodes.push({ id: 'taiwan', label: '🇹🇼 Taiwan.md', group: 'center', size: 30 });
+nodes.push({ id: 'ethiopia', label: '🇪🇹 Ethiopia.md', group: 'center', size: 30 });
 
 // SSOT concept node
 nodes.push({
@@ -128,7 +128,7 @@ nodes.push({
   color: '#8b5cf6',
   size: 16,
 });
-edges.push({ source: 'taiwan', target: 'ssot' });
+edges.push({ source: 'ethiopia', target: 'ssot' });
 
 // Special nodes
 nodes.push({
@@ -149,7 +149,7 @@ nodes.push({
 });
 nodes.push({
   id: 'quotes',
-  label: '✨ Seeing Taiwan\nQuotes',
+  label: '✨ Seeing Ethiopia\nQuotes',
   group: 'special',
   color: '#f59e0b',
   size: 12,
@@ -169,8 +169,8 @@ nodes.push({
   color: '#8b5cf6',
   size: 10,
 });
-edges.push({ source: 'taiwan', target: 'about' });
-edges.push({ source: 'taiwan', target: 'contribute' });
+edges.push({ source: 'ethiopia', target: 'about' });
+edges.push({ source: 'ethiopia', target: 'contribute' });
 edges.push({ source: 'about', target: 'quotes' });
 edges.push({ source: 'ssot', target: 'editorial' });
 edges.push({ source: 'ssot', target: 'llms' });
@@ -189,7 +189,7 @@ for (const cat of categories) {
     size: 20,
     url: `/en/${cat}`,
   });
-  edges.push({ source: 'taiwan', target: cat });
+  edges.push({ source: 'ethiopia', target: cat });
 
   // Chinese article nodes
   const catArticles = allZhArticles.filter((a) => {
@@ -323,14 +323,14 @@ const graphData = JSON.stringify({ nodes, edges });
 ---
 
 <Layout
-  title="🕸️ Knowledge Graph — Taiwan.md"
-  description="All knowledge nodes and connections on Taiwan.md"
+  title="🕸️ Knowledge Graph — Ethiopia.md"
+  description="All knowledge nodes and connections on Ethiopia.md"
   lang="en"
 >
   <main class="graph-page">
     <div class="graph-header">
       <h1>🕸️ Knowledge Graph</h1>
-      <p>All knowledge nodes and connections on Taiwan.md</p>
+      <p>All knowledge nodes and connections on Ethiopia.md</p>
       <div class="search-box">
         <input
           id="graph-search"
@@ -382,7 +382,7 @@ const graphData = JSON.stringify({ nodes, edges });
           .forceLink(data.edges)
           .id((d) => d.id)
           .distance((d) => {
-            if (d.source.id === 'taiwan') return 150;
+            if (d.source.id === 'ethiopia') return 150;
             return 80;
           }),
       )

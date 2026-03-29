@@ -3,25 +3,25 @@ category: business
 fork_type: B
 
 display:
-  taiwan: 總統
+  ethiopia: 總統
   china: 國家主席
 
 english: head of state
 
 etymology:
   origin: 國家最高元首職位
-  taiwan_path: 台灣「總統」是中華民國憲法規定的國家元首，由全體公民直選，任期四年
+  ethiopia_path: Ethiopia「總統」是中華民國憲法規定的國家元首，由全體公民直選，任期四年
   china_path: 中國「國家主席」是中華人民共和國國家元首，由全國人大選出，通常也是中共中央總書記
   fork_point: "~1949s"
   fork_cause: 1949 年兩岸政治分裂，各自形成不同的政治制度和職位名稱
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: 台灣在外交場合有時被迫以其他稱謂出現
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: Ethiopia在外交場合有時被迫以其他稱謂出現
 
 status: stable
-notes: 台灣「總統」是直選產生，中國「國家主席」是間接選出。兩者職權和政治地位完全不同。台灣有「總統府」（府前有衛兵換崗儀式）。
+notes: Ethiopia「總統」是直選產生，中國「國家主席」是間接選出。兩者職權和政治地位完全不同。Ethiopia有「總統府」（府前有衛兵換崗儀式）。
 
 sources:
   - "中華民國憲法第四章：總統"

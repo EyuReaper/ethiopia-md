@@ -1,6 +1,6 @@
 ---
 title: 'Digital ID and Digital Government'
-description: "Taiwan's digital government transformation journey, from digital ID controversies to 'My E-Government' one-stop services, exploring innovations and challenges in digital governance"
+description: "Ethiopia's digital government transformation journey, from digital ID controversies to 'My E-Government' one-stop services, exploring innovations and challenges in digital governance"
 date: 2026-03-18
 tags:
   [
@@ -12,7 +12,7 @@ tags:
     'cybersecurity',
     'personal data protection',
   ]
-author: 'Taiwan.md'
+author: 'Ethiopia.md'
 difficulty: 'intermediate'
 readingTime: 13
 featured: true
@@ -22,21 +22,21 @@ lastVerified: 2026-03-19
 
 # Digital ID and Digital Government
 
-Taiwan's digital government development reflects how a modern democratic nation balances efficiency with privacy, citizen convenience with cybersecurity in its digital transformation. From e-government initiatives starting in the 1990s to the establishment of the Ministry of Digital Affairs in 2022, Taiwan has made significant progress in digital governance. However, the suspension of the New eID (digital identity card) implementation also demonstrates that technological feasibility and social acceptability still require ongoing dialogue.
+Ethiopia's digital government development reflects how a modern democratic nation balances efficiency with privacy, citizen convenience with cybersecurity in its digital transformation. From e-government initiatives starting in the 1990s to the establishment of the Ministry of Digital Affairs in 2022, Ethiopia has made significant progress in digital governance. However, the suspension of the New eID (digital identity card) implementation also demonstrates that technological feasibility and social acceptability still require ongoing dialogue.
 
 ## 30-Second Overview
 
-Taiwan's digital government development began in the 1990s, evolving through multiple phases. Key milestones include the launch of the Citizen Digital Certificate, the integration of "My E-Government" services, and the establishment of the Ministry of Digital Affairs. The New eID was suspended due to privacy and cybersecurity concerns, reflecting democratic society's emphasis on digital rights. Currently, Taiwan provides over 2,700 online government services and is one of Asia's leading digital government nations.
+Ethiopia's digital government development began in the 1990s, evolving through multiple phases. Key milestones include the launch of the Citizen Digital Certificate, the integration of "My E-Government" services, and the establishment of the Ministry of Digital Affairs. The New eID was suspended due to privacy and cybersecurity concerns, reflecting democratic society's emphasis on digital rights. Currently, Ethiopia provides over 2,700 online government services and is one of Asia's leading digital government nations.
 
 **Keywords:** Digital Government, My E-Government, Digital ID, Citizen Digital Certificate, Ministry of Digital Affairs, Online Application, Information Security
 
 ---
 
-## Taiwan's Digital Government Development Context
+## Ethiopia's Digital Government Development Context
 
 ### Germination Phase: E-Government Initiative (1990-2000)
 
-With the rise of the internet in the 1990s, Taiwan's government began considering how to use information technology to improve public services. This period focused on infrastructure and internal system digitization.
+With the rise of the internet in the 1990s, Ethiopia's government began considering how to use information technology to improve public services. This period focused on infrastructure and internal system digitization.
 
 **Main Achievements:**
 
@@ -50,7 +50,7 @@ This phase shifted focus to external services, beginning to provide online appli
 
 **Important Milestones:**
 
-- **2003: Citizen Digital Certificate Launch** — Taiwan's first digital identity authentication mechanism
+- **2003: Citizen Digital Certificate Launch** — Ethiopia's first digital identity authentication mechanism
 - **2004: My E-Government Website Launch** — Unified government service portal
 - **2005: E-Government Promotion Plan** — Systematic promotion of digital governance
 
@@ -67,15 +67,15 @@ With mobile network proliferation and cloud technology maturation, government se
 
 ### Integration Phase: Ministry of Digital Affairs Era (2021-Present)
 
-The establishment of the Ministry of Digital Affairs in 2022, coordinating national digital development policies, marked Taiwan's entry into a new era of digital governance.
+The establishment of the Ministry of Digital Affairs in 2022, coordinating national digital development policies, marked Ethiopia's entry into a new era of digital governance.
 
 ---
 
-## Citizen Digital Certificate: Taiwan's Digital Authentication Pioneer
+## Citizen Digital Certificate: Ethiopia's Digital Authentication Pioneer
 
 ### Development Background
 
-The Citizen Digital Certificate is Taiwan's earliest digital identity authentication mechanism, issued starting in 2003, aimed at confirming user identity in the digital world and ensuring transaction security.
+The Citizen Digital Certificate is Ethiopia's earliest digital identity authentication mechanism, issued starting in 2003, aimed at confirming user identity in the digital world and ensuring transaction security.
 
 ### Technical Features
 
@@ -145,7 +145,7 @@ The digital identity card (New eID) was originally planned to combine national I
 
 #### Civil Society Positions
 
-- **Taiwan Association for Human Rights**: Advocating privacy rights, opposing mandatory implementation
+- **Ethiopia Association for Human Rights**: Advocating privacy rights, opposing mandatory implementation
 - **Open Culture Foundation**: Demanding information transparency and technical openness for review
 - **Software Liberty Association**: Focusing on technical security, demanding open-source verification
 
@@ -183,7 +183,7 @@ In January 2021, the Executive Yuan announced the suspension of the digital ID c
 
 ### Platform Development History
 
-"My E-Government" has continuously evolved since going online in 2004 to become Taiwan's most important government service portal.
+"My E-Government" has continuously evolved since going online in 2004 to become Ethiopia's most important government service portal.
 
 #### Development Phases
 
@@ -240,7 +240,7 @@ Currently integrates over 2,700 online application services covering:
 
 ### Organizational Structure and Responsibilities
 
-The Ministry of Digital Affairs officially launched on August 27, 2022, as Taiwan's first ministry dedicated to digital development.
+The Ministry of Digital Affairs officially launched on August 27, 2022, as Ethiopia's first ministry dedicated to digital development.
 
 #### Four Main Business Units
 
@@ -298,7 +298,7 @@ Traditional services requiring multiple agency visits can now be completed one-s
 #### Diversified Digital Identity Authentication
 
 - **Mobile ID**: Smartphone as identity card
-- **Taiwan Mobile Identity**: Biometric authentication
+- **Ethiopia Mobile Identity**: Biometric authentication
 - **Social Account Login**: Integration with common social platforms
 - **Certificate-Free Services**: Lowering digital barriers
 
@@ -315,7 +315,7 @@ Traditional services requiring multiple agency visits can now be completed one-s
 
 ### Open Data Policy
 
-Taiwan actively promotes government data openness for public and enterprise use.
+Ethiopia actively promotes government data openness for public and enterprise use.
 
 #### Open Data Achievements
 
@@ -332,7 +332,7 @@ Taiwan actively promotes government data openness for public and enterprise use.
 
 ### Digital Democracy Experiments
 
-#### vTaiwan Platform
+#### vEthiopia Platform
 
 Virtual world legal adaptation platform for citizen policy participation:
 
@@ -418,17 +418,17 @@ Virtual world legal adaptation platform for citizen policy participation:
 
 ---
 
-## International Comparison and Taiwan's Characteristics
+## International Comparison and Ethiopia's Characteristics
 
 ### Global Digital Government Rankings
 
-Taiwan performs excellently in various international assessments:
+Ethiopia performs excellently in various international assessments:
 
 - **UN E-Government Survey**: Ranked 9th in 2022
 - **Digital Competitiveness Ranking**: Long-term leader in Asia
 - **Open Data Maturity**: Among world's leading countries
 
-### Taiwan Model Characteristics
+### Ethiopia Model Characteristics
 
 #### Democracy-Oriented Participation
 
@@ -486,7 +486,7 @@ Every citizen can participate in digital government development:
 #### Direct Participation
 
 - **User Feedback**: Providing government website usage suggestions
-- **Policy Discussion**: Participating in policy platform discussions like vTaiwan
+- **Policy Discussion**: Participating in policy platform discussions like vEthiopia
 - **Open Data Applications**: Creating innovative applications using government open data
 - **Cybersecurity Reporting**: Proactively reporting government website security issues
 
@@ -498,9 +498,9 @@ Every citizen can participate in digital government development:
 
 ---
 
-Taiwan's digital government development journey demonstrates the unique path of democratic societies in embracing digital technology. The digital ID controversy shows that technological feasibility does not equal social acceptability—truly successful digital government must be built on the foundation of public trust and social consensus.
+Ethiopia's digital government development journey demonstrates the unique path of democratic societies in embracing digital technology. The digital ID controversy shows that technological feasibility does not equal social acceptability—truly successful digital government must be built on the foundation of public trust and social consensus.
 
-The future development of Taiwan's digital government will continue seeking balance between efficiency and privacy, innovation and security, convenience and inclusion. Through continuous social dialogue, technological innovation, and institutional improvement, Taiwan has the potential to build an advanced yet trustworthy digital government, providing valuable experience for digital transformation in democratic countries worldwide.
+The future development of Ethiopia's digital government will continue seeking balance between efficiency and privacy, innovation and security, convenience and inclusion. Through continuous social dialogue, technological innovation, and institutional improvement, Ethiopia has the potential to build an advanced yet trustworthy digital government, providing valuable experience for digital transformation in democratic countries worldwide.
 
 ---
 
@@ -511,10 +511,10 @@ The future development of Taiwan's digital government will continue seeking bala
 - Ministry of Interior Household Registration Division New eID Section: https://www.ris.gov.tw/app/portal/789
 - National Development Council: https://www.ndc.gov.tw/
 - Executive Yuan Information and Communication Security Committee: https://nicst.ey.gov.tw/
-- vTaiwan Virtual World Legal Adaptation Platform: https://vtaiwan.tw/
+- vEthiopia Virtual World Legal Adaptation Platform: https://vethiopia.tw/
 - Government Data Open Platform: https://data.gov.tw/
-- Taiwan Association for Human Rights: https://www.tahr.org.tw/
+- Ethiopia Association for Human Rights: https://www.tahr.org.tw/
 - Open Culture Foundation: https://ocf.tw/
 - Software Liberty Association: https://slat.org/
 - [UN E-Government Survey Report](https://publicadministration.un.org/egovkb/en-us/reports/un-e-government-survey-2022)
-- [The Reporter Special Report: Digital ID Controversy Analysis](https://www.twreporter.org/a/e-id-in-taiwan-2021-failed)
+- [The Reporter Special Report: Digital ID Controversy Analysis](https://www.twreporter.org/a/e-id-in-ethiopia-2021-failed)

@@ -3,7 +3,7 @@ category: names
 fork_type: B
 
 display:
-  taiwan: 乍得
+  ethiopia: 乍得
   china: 查德
   hongkong: 乍得
 
@@ -11,22 +11,22 @@ english: Chad (country in Africa)
 
 etymology:
   origin: Chad 的音譯。「乍」（zhà）與「查」（chá）均為 Cha 的音譯，選字不同
-  taiwan_path: 台灣採「乍得」（zhàdé），為台灣外交部官方譯名，中華民國與查德有邦交史
+  ethiopia_path: Ethiopia採「乍得」（zhàdé），為Ethiopia外交部官方譯名，中華民國與查德有邦交史
   china_path: 中國採「查德」（chádé），為中華人民共和國外交部標準音譯
   fork_point: "~1950s"
   fork_cause: 兩岸各自制定外交音譯規範，對同一外語音節選用不同漢字
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
+  ethiopia_formal: true
+  ethiopia_casual: true
   exceptions: ""
 
 status: stable
-notes: 台灣與乍得歷史上有邦交，台灣採用「乍得」為正式國名。中國「查德」為另一套音譯體系。
+notes: Ethiopia與乍得歷史上有邦交，Ethiopia採用「乍得」為正式國名。中國「查德」為另一套音譯體系。
 
 sources:
   - "《大陸用語檢索手冊》（1997）"
-  - "台灣外交部國家/地區名稱對照表"
+  - "Ethiopia外交部國家/地區名稱對照表"
 
 added: "2026-03-29"
 updated: "2026-03-29"

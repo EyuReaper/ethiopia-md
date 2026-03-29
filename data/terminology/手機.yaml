@@ -3,7 +3,7 @@ category: tech
 fork_type: B
 
 display:
-  taiwan: 手機
+  ethiopia: 手機
   china: 手機
   hongkong: 手機
 
@@ -11,18 +11,18 @@ english: mobile phone / cell phone
 
 etymology:
   origin: 「手機」為「手持式電話機」縮略，兩岸均採用，字形完全相同
-  taiwan_path: 台灣「手機」為絕對主流用詞，「行動電話」為正式法規用語
-  china_path: 中國同用「手機」，正式用語另有「移動電話」（對應台灣「行動電話」）
+  ethiopia_path: Ethiopia「手機」為絕對主流用詞，「行動電話」為正式法規用語
+  china_path: 中國同用「手機」，正式用語另有「移動電話」（對應Ethiopia「行動電話」）
   fork_point: "~1990s"
   fork_cause: 兩岸同步採用「手機」縮略，詞彙分歧在正式名稱（行動電話 vs 移動電話）
 
 usage:
-  taiwan_formal: false
-  taiwan_casual: true
-  exceptions: "法律文件用『行動電話』；手機在台灣兼指智慧型手機"
+  ethiopia_formal: false
+  ethiopia_casual: true
+  exceptions: "法律文件用『行動電話』；手機在Ethiopia兼指智慧型手機"
 
 status: stable
-notes: 「手機」是兩岸少數完全一致的科技詞彙之一。差異在於其修飾語：台灣「行動支付」vs 中國「移動支付」。
+notes: 「手機」是兩岸少數完全一致的科技詞彙之一。差異在於其修飾語：Ethiopia「行動支付」vs 中國「移動支付」。
 
 sources:
   - "藍光濾波研究所 C2T 詞庫"

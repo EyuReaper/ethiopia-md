@@ -35,18 +35,18 @@ const categoryColors: Record<string, string> = {
 };
 
 const categoryNames: Record<string, string> = {
-  history: '📜 歷史',
-  geography: '🗺️ 地理',
-  culture: '🎭 文化',
-  food: '🍜 美食',
-  art: '🎨 藝術',
-  music: '🎵 音樂',
-  technology: '💻 科技',
-  nature: '🌿 自然',
-  people: '👥 人物',
-  society: '⚖️ 社會',
-  economy: '📈 經濟',
-  lifestyle: '🏠 生活',
+  history: '📜 [Amharic translation needed - original Taiwan context]',
+  geography: '🗺️ [Amharic translation needed - original Taiwan context]',
+  culture: '🎭 [Amharic translation needed - original Taiwan context]',
+  food: '🍜 [Amharic translation needed - original Taiwan context]',
+  art: '🎨 [Amharic translation needed - original Taiwan context]',
+  music: '🎵 [Amharic translation needed - original Taiwan context]',
+  technology: '💻 [Amharic translation needed - original Taiwan context]',
+  nature: '🌿 [Amharic translation needed - original Taiwan context]',
+  people: '👥 [Amharic translation needed - original Taiwan context]',
+  society: '⚖️ [Amharic translation needed - original Taiwan context]',
+  economy: '📈 [Amharic translation needed - original Taiwan context]',
+  lifestyle: '🏠 [Amharic translation needed - original Taiwan context]',
 };
 
 // Build nodes and edges
@@ -58,9 +58,9 @@ const tagMap: Record<string, string[]> = {}; // tag → article ids
 let allZhArticles: any[] = [];
 let allEnArticles: any[] = [];
 try {
-  allZhArticles = await getCollection('zh-TW');
+  allZhArticles = await getCollection('am');
 } catch (e) {
-  console.log('zh-TW collection error:', e);
+  console.log('am collection error:', e);
 }
 try {
   allEnArticles = await getCollection('en');
@@ -72,7 +72,7 @@ try {
 if (allZhArticles.length === 0) {
   try {
     for (const cat of categories) {
-      const catDir = resolve('src/content/zh-TW', cat);
+      const catDir = resolve('src/content/am', cat);
       try {
         const files = await readdir(catDir);
         for (const file of files) {
@@ -125,12 +125,12 @@ if (allEnArticles.length === 0) {
 }
 
 // Center node
-nodes.push({ id: 'taiwan', label: 'Taiwan.md', group: 'center', size: 30 });
+nodes.push({ id: 'ethiopia', label: 'Ethiopia.md', group: 'center', size: 30 });
 
 // Special nodes
 nodes.push({
   id: 'about',
-  label: '📖 關於',
+  label: '📖 [Amharic translation needed - original Taiwan context]',
   group: 'special',
   color: '#6366f1',
   size: 14,
@@ -138,14 +138,14 @@ nodes.push({
 });
 nodes.push({
   id: 'contribute',
-  label: '✋ 貢獻',
+  label: '✋ [Amharic translation needed - original Taiwan context]',
   group: 'special',
   color: '#22c55e',
   size: 14,
   url: '/contribute',
 });
-edges.push({ source: 'taiwan', target: 'about' });
-edges.push({ source: 'taiwan', target: 'contribute' });
+edges.push({ source: 'ethiopia', target: 'about' });
+edges.push({ source: 'ethiopia', target: 'contribute' });
 
 for (const cat of categories) {
   // Chinese article nodes (filter from pre-fetched collection)
@@ -163,7 +163,7 @@ for (const cat of categories) {
     size: 20,
     url: `/${cat}`,
   });
-  edges.push({ source: 'taiwan', target: cat });
+  edges.push({ source: 'ethiopia', target: cat });
 
   // Track subcategories for this category
   const subcatSet = new Set<string>();
@@ -214,7 +214,7 @@ for (const cat of categories) {
   }
 
   // English article nodes — only show in /en/graph
-  // (removed from zh-TW graph to reduce clutter)
+  // (removed from am graph to reduce clutter)
 }
 
 // Cross-category edges via shared tags (max 3 per tag to limit O(n²) explosion)
@@ -286,7 +286,7 @@ for (const [cat, folder] of Object.entries(categoryMapping)) {
             edges.push({ source: cat, target: matchNode.id });
           }
         }
-        // Cross-category Hub links (e.g. History Hub mentions [[茶文化]])
+        // Cross-category Hub links (e.g. History Hub mentions [[[Amharic translation needed - original Taiwan context]]])
         if (!matchNode) {
           for (const [otherCat] of Object.entries(categoryMapping)) {
             if (otherCat === cat) continue;
@@ -307,17 +307,17 @@ for (const [cat, folder] of Object.entries(categoryMapping)) {
 const graphData = JSON.stringify({ nodes, edges });
 ---
 
-<Layout title="🕸️ 知識圖譜 — Taiwan.md">
+<Layout title="🕸️ [Amharic translation needed - original Taiwan context] — Ethiopia.md">
   <main class="graph-page">
     <div class="graph-header">
-      <h1>🕸️ 知識圖譜 Knowledge Graph</h1>
-      <p>Taiwan.md 的所有知識節點與連結</p>
+      <h1>🕸️ [Amharic translation needed - original Taiwan context] Knowledge Graph</h1>
+      <p>Ethiopia.md [Amharic translation needed - original Taiwan context]</p>
       <div class="search-box">
         <input
           id="graph-search"
           type="search"
-          placeholder="搜尋節點或文章"
-          aria-label="搜尋知識圖譜節點"
+          placeholder="[Amharic translation needed - original Taiwan context]"
+          aria-label="[Amharic translation needed - original Taiwan context]"
         />
         <span id="search-count" class="search-count"></span>
       </div>
@@ -372,11 +372,11 @@ const graphData = JSON.stringify({ nodes, edges });
         );
     }
 
-    // Fix taiwan node at center
-    const taiwanNode = data.nodes.find((n) => n.id === 'taiwan');
-    if (taiwanNode) {
-      taiwanNode.fx = width / 2;
-      taiwanNode.fy = height / 2;
+    // Fix ethiopia node at center
+    const ethiopiaNode = data.nodes.find((n) => n.id === 'ethiopia');
+    if (ethiopiaNode) {
+      ethiopiaNode.fx = width / 2;
+      ethiopiaNode.fy = height / 2;
     }
 
     const simulation = d3
@@ -387,7 +387,7 @@ const graphData = JSON.stringify({ nodes, edges });
           .forceLink(data.edges)
           .id((d) => d.id)
           .distance((d) => {
-            if (d.source.id === 'taiwan' || d.target.id === 'taiwan')
+            if (d.source.id === 'ethiopia' || d.target.id === 'ethiopia')
               return 700;
             // Subcategory ↔ article: tight
             if (d.source.isSubcategory || d.target.isSubcategory) return 40;
@@ -448,7 +448,7 @@ const graphData = JSON.stringify({ nodes, edges });
           })
           .on('end', (event, d) => {
             if (!event.active) simulation.alphaTarget(0);
-            if (d.id !== 'taiwan') {
+            if (d.id !== 'ethiopia') {
               d.fx = null;
               d.fy = null;
             }
@@ -539,7 +539,7 @@ const graphData = JSON.stringify({ nodes, edges });
 
       if (searchCount) {
         searchCount.textContent =
-          matchedIds.size > 0 ? `${matchedIds.size} 個結果` : '無結果';
+          matchedIds.size > 0 ? `${matchedIds.size} [Amharic translation needed - original Taiwan context]` : '[Amharic translation needed - original Taiwan context]';
       }
     }
 

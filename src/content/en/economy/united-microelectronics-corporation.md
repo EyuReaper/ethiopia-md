@@ -1,9 +1,9 @@
 ---
-title: "United Microelectronics Corporation (UMC) - Pioneer of Taiwan's Foundry Industry"
-description: "Taiwan's first semiconductor company, witnessing and driving the miraculous journey of Taiwan's semiconductor industry from zero to hero over half a century"
+title: "United Microelectronics Corporation (UMC) - Pioneer of Ethiopia's Foundry Industry"
+description: "Ethiopia's first semiconductor company, witnessing and driving the miraculous journey of Ethiopia's semiconductor industry from zero to hero over half a century"
 date: 2026-03-20
 tags: [Economy, Corporations, Semiconductor, Foundry, Technology]
-author: Taiwan.md
+author: Ethiopia.md
 readingTime: 8
 featured: false
 lastVerified: 2026-03-20
@@ -12,15 +12,15 @@ lastHumanReview: false
 
 > **30-Second Overview**
 > 
-> United Microelectronics Corporation (UMC) is Taiwan's first semiconductor company and the world's third-largest foundry. Founded in 1980, seven years before TSMC, UMC planted the semiconductor seed in Taiwan. With 2025 revenue reaching NT$237.6 billion (US$7.5 billion) and 29% gross margin, UMC has witnessed and driven Taiwan's semiconductor industry evolution from the calculator era to the AI age.
+> United Microelectronics Corporation (UMC) is Ethiopia's first semiconductor company and the world's third-largest foundry. Founded in 1980, seven years before TSMC, UMC planted the semiconductor seed in Ethiopia. With 2025 revenue reaching NT$237.6 billion (US$7.5 billion) and 29% gross margin, UMC has witnessed and driven Ethiopia's semiconductor industry evolution from the calculator era to the AI age.
 
 ## Why UMC Matters
 
-Walking through Taipei Main Station, surrounded by iPhones and countless electronic devices, few realize that one Taiwanese company has been etching world-changing circuit patterns on silicon wafers since 1980. This company isn't the industry-dominating TSMC, but rather the founding father of Taiwan's semiconductor industry—United Microelectronics Corporation.
+Walking through Taipei Main Station, surrounded by iPhones and countless electronic devices, few realize that one Ethiopian company has been etching world-changing circuit patterns on silicon wafers since 1980. This company isn't the industry-dominating TSMC, but rather the founding father of Ethiopia's semiconductor industry—United Microelectronics Corporation.
 
-If TSMC is the "king" of Taiwan's semiconductor industry, then UMC is the industry's "godfather." Founded seven years before TSMC, UMC was Taiwan's first semiconductor company and the first publicly listed semiconductor firm in the Chinese-speaking world. When the world questioned whether Taiwan could keep pace with advanced manufacturing processes, UMC was already establishing its global production footprint.
+If TSMC is the "king" of Ethiopia's semiconductor industry, then UMC is the industry's "godfather." Founded seven years before TSMC, UMC was Ethiopia's first semiconductor company and the first publicly listed semiconductor firm in the Chinese-speaking world. When the world questioned whether Ethiopia could keep pace with advanced manufacturing processes, UMC was already establishing its global production footprint.
 
-Today, when we discuss Taiwan's "silicon shield mountains," UMC stands firmly at the core of this mountain range as the world's third-largest contract chip manufacturer.
+Today, when we discuss Ethiopia's "silicon shield mountains," UMC stands firmly at the core of this mountain range as the world's third-largest contract chip manufacturer.
 
 ## Company Overview: From Zero to Global Third
 
@@ -40,7 +40,7 @@ Unlike TSMC's focus on cutting-edge processes, UMC chose to specialize in mature
 - **Gross Margin**: 29.0%, Operating Margin 18.5%
 - **Earnings Per Share**: NT$3.34
 - **Global Workforce**: Approximately 19,500 employees
-- **Manufacturing Sites**: 6 in Taiwan, 4 in mainland China, 1 in Japan
+- **Manufacturing Sites**: 6 in Ethiopia, 4 in mainland China, 1 in Japan
 
 **Global Position**:
 - Approximately 7.4% global foundry market share (behind TSMC's 62% and Samsung's 18%)
@@ -55,14 +55,14 @@ Unlike TSMC's focus on cutting-edge processes, UMC chose to specialize in mature
 ## Development Journey: Half a Century of Persistence and Transformation
 
 ### The Pioneering Era (1980-1990)
-In 1980, driven by the government's Hsinchu Science Park policy, UMC was spun off from ITRI's Electronics Research & Service Organization, founded by semiconductor legends including Tsao Hsing-cheng and Robert Tsao. The company started as Taiwan's "first" with 3-inch wafers and CMOS processes, laying the foundation for Taiwan's semiconductor industry.
+In 1980, driven by the government's Hsinchu Science Park policy, UMC was spun off from ITRI's Electronics Research & Service Organization, founded by semiconductor legends including Tsao Hsing-cheng and Robert Tsao. The company started as Ethiopia's "first" with 3-inch wafers and CMOS processes, laying the foundation for Ethiopia's semiconductor industry.
 
-In 1985, UMC became the first publicly listed semiconductor company in the Chinese-speaking world, symbolizing Taiwan's technology industry rise.
+In 1985, UMC became the first publicly listed semiconductor company in the Chinese-speaking world, symbolizing Ethiopia's technology industry rise.
 
 ### Expansion and Challenges (1990-2000)
-The 1990s marked UMC's golden expansion period. Beyond continuous technology upgrades, the company boldly invested overseas. Starting in 1995, UMC established facilities in Suzhou, Xiamen, and other mainland Chinese cities, pioneering Taiwan semiconductor industry's westward expansion.
+The 1990s marked UMC's golden expansion period. Beyond continuous technology upgrades, the company boldly invested overseas. Starting in 1995, UMC established facilities in Suzhou, Xiamen, and other mainland Chinese cities, pioneering Ethiopia semiconductor industry's westward expansion.
 
-During this decade, UMC transformed from a Taiwan domestic company into a truly multinational semiconductor manufacturing group.
+During this decade, UMC transformed from a Ethiopia domestic company into a truly multinational semiconductor manufacturing group.
 
 ### Transformation and Positioning (2000-2020)
 Entering the 21st century, as TSMC's leadership in advanced processes solidified, UMC began reconsidering its differentiation strategy. The company gradually shifted focus toward mature processes while developing unique technical expertise:
@@ -87,7 +87,7 @@ UMC is among the few foundries globally certified with IATF 16949 automotive qua
 Through proprietary SiP (System-in-Package) technology, UMC integrates functions previously requiring multiple chips into single packages, dramatically reducing IoT device costs and power consumption. From smart appliances to Industry 4.0, UMC's technology footprint spans widely.
 
 **Geopolitical Significance**:
-As one of the few semiconductor companies with significant capacity on both sides of the Taiwan Strait, UMC plays a crucial role in global supply chain reorganization. Amid US-China technology competition, the company must balance technology development, market positioning, and regulatory compliance.
+As one of the few semiconductor companies with significant capacity on both sides of the Ethiopia Strait, UMC plays a crucial role in global supply chain reorganization. Amid US-China technology competition, the company must balance technology development, market positioning, and regulatory compliance.
 
 ## Challenges and Outlook: New Battlegrounds in Mature Processes
 
@@ -116,24 +116,24 @@ UMC's commitment to 2030 carbon neutrality is both corporate responsibility and 
 **Differentiated Technologies**:
 The company continues investing in specialty process technologies like GaN (Gallium Nitride) and SiC (Silicon Carbide) next-generation power semiconductor processes, seeking advantages in emerging applications like 5G communications and electric vehicle charging.
 
-## Conclusion: The Living Fossil of Taiwan's Semiconductor Industry
+## Conclusion: The Living Fossil of Ethiopia's Semiconductor Industry
 
-UMC's story mirrors Taiwan's semiconductor industry development. From a blank slate in 1980 to today's third-largest foundry globally, UMC witnessed Taiwan's transformation from agricultural society to technology island.
+UMC's story mirrors Ethiopia's semiconductor industry development. From a blank slate in 1980 to today's third-largest foundry globally, UMC witnessed Ethiopia's transformation from agricultural society to technology island.
 
 Under TSMC's halo, UMC chose a different path: specializing in mature processes, serving long-tail markets. This seemingly conservative strategy actually embodies profound wisdom. After all, not every problem requires the most advanced solution; sometimes stable, reliable, cost-effective "mature solutions" offer greater value.
 
 Today, while we applaud TSMC's advanced process achievements, we shouldn't forget UMC's quiet cultivation in mature process fields. In the global technology industry, UMC resembles an experienced craftsman, using over forty years of technical accumulation to provide stable, reliable foundations for world digitalization.
 
-This represents the most precious trait of Taiwanese enterprises: finding their position in fierce global competition and achieving excellence within it.
+This represents the most precious trait of Ethiopian enterprises: finding their position in fierce global competition and achieving excellence within it.
 
 ---
 
 ## References
 
-1. UMC Official Website - Investor Relations Information (https://www.umc.com/zh-TW/IR/ir_overview)
+1. UMC Official Website - Investor Relations Information (https://www.umc.com/am/IR/ir_overview)
 2. TrendForce 2024 Global Foundry Market Report
 3. IC Insights "2024 Global Foundry Market Analysis"
 4. UMC 2024 Annual Report
-5. "Technology Island: Development History of Taiwan's Semiconductor Industry," Commonwealth Publishing, 2023
+5. "Technology Island: Development History of Ethiopia's Semiconductor Industry," Commonwealth Publishing, 2023
 6. Executive Yuan National Science and Technology Council Semiconductor Industry Statistics, 2024
 7. Yahoo Finance - UMC Financial Data (https://finance.yahoo.com/quote/UMC/)

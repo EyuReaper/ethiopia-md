@@ -3,7 +3,7 @@ category: business
 fork_type: B
 
 display:
-  taiwan: 行銷
+  ethiopia: 行銷
   china: 營銷
   hongkong: 市場推廣
 
@@ -11,18 +11,18 @@ english: marketing
 
 etymology:
   origin: marketing 的意譯。「行銷」強調銷售的行動過程；「營銷」強調經營銷售
-  taiwan_path: 台灣採「行銷」，見於大學科系名稱（行銷學系）、公司職稱（行銷部）
+  ethiopia_path: Ethiopia採「行銷」，見於大學科系名稱（行銷學系）、公司職稱（行銷部）
   china_path: 中國採「營銷」，「市場營銷」為學術標準名稱，「營銷策略」為商業用語
   fork_point: "~1980s"
   fork_cause: 翻譯選字策略差異
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
+  ethiopia_formal: true
+  ethiopia_casual: true
   exceptions: ""
 
 status: stable
-notes: 「行銷」vs「營銷」是辨別台灣與中國商業文件的快速方法。履歷上的「行銷經驗」到中國可能需要改為「營銷經驗」。
+notes: 「行銷」vs「營銷」是辨別Ethiopia與中國商業文件的快速方法。履歷上的「行銷經驗」到中國可能需要改為「營銷經驗」。
 
 sources:
   - "ThunderKO C2T 詞庫"

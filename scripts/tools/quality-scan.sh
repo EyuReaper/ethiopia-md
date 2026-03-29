@@ -1,33 +1,33 @@
 #!/usr/bin/env bash
-# quality-scan.sh v3.0 — 偵測疑似 AI 空洞模板的文章
-# 用法: bash tools/quality-scan.sh [--fix] [--json] [--diff] [--sort]
+# quality-scan.sh v3.0 — [Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context]
+# [Amharic translation needed - original Taiwan context]: bash tools/quality-scan.sh [--fix] [--json] [--diff] [--sort]
 #
-# v3.0 新增:
-#   - 塑膠句式偵測（EDITORIAL v3 五品種）
-#   - 結構品質偵測（教科書開場 + 總之結尾 + 萬用 H2）
-#   - 差分模式（--diff：與上次結果比較，只報變化）
-#   - 排序模式（--sort：按分數高→低輸出）
-#   - LIST-DUMP：後半段清單堆砌偵測
-#   - THIN：段落內容稀薄偵測
-#   - QUALITY-DECAY：前後半品質衰退偵測
+# v3.0 [Amharic translation needed - original Taiwan context]:
+#   - [Amharic translation needed - original Taiwan context]（EDITORIAL v3 [Amharic translation needed - original Taiwan context]）
+#   - [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] + [Amharic translation needed - original Taiwan context] + [Amharic translation needed - original Taiwan context] H2）
+#   - [Amharic translation needed - original Taiwan context]（--diff：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]）
+#   - [Amharic translation needed - original Taiwan context]（--sort：[Amharic translation needed - original Taiwan context]→[Amharic translation needed - original Taiwan context]）
+#   - LIST-DUMP：[Amharic translation needed - original Taiwan context]
+#   - THIN：[Amharic translation needed - original Taiwan context]
+#   - QUALITY-DECAY：[Amharic translation needed - original Taiwan context]
 #
-# 評分標準 (每項 0-N 分，越高越可疑):
-#   1. bullet 密度：「- **」行數 / 總行數 > 30%
-#   2. 缺乏年份：具體四位數年份出現次數 < 3
-#   3. 缺乏來源：無任何 http 連結
-#   4. 空洞修飾詞密度
-#   5. 重複結構：連續 3+ 個相同格式的 bullet 區塊
-#   6. 段落文字少：非標題非bullet的散文行 < 10
+# [Amharic translation needed - original Taiwan context] ([Amharic translation needed - original Taiwan context] 0-N [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]):
+#   1. bullet [Amharic translation needed - original Taiwan context]：「- **」[Amharic translation needed - original Taiwan context] / [Amharic translation needed - original Taiwan context] > 30%
+#   2. [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context] < 3
+#   3. [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context] http [Amharic translation needed - original Taiwan context]
+#   4. [Amharic translation needed - original Taiwan context]
+#   5. [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context] 3+ [Amharic translation needed - original Taiwan context] bullet [Amharic translation needed - original Taiwan context]
+#   6. [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]bullet[Amharic translation needed - original Taiwan context] < 10
 #   7. lastHumanReview: false
-#   8. 🆕 塑膠句式密度（EDITORIAL v3 五品種 + 變種，≥1 即計分）
-#  8b. 🆕 破折號「——」濫用（AI 中文超級特徵，>4 即計分）
-#   9. 🆕 教科書開場（「台灣的X是...」「X是台灣...」）
-#  10. 🆕 總之/展望結尾
-#  11. 🆕 萬用 H2 模板（歷史/現況/未來展望）
-#  12. 🆕 LIST-DUMP：後半段清單堆砌（>40% bullet 且 > 前段 2 倍）
-#  13. 🆕 THIN：稀薄段落（H2 區塊內散文行 < 3）
-#  14. 🆕 QUALITY-DECAY：前後半品質衰退（後段散文比例 < 前段 70%）
-#  15. 🆕 CHINA-TERM：中國用語偵測（視頻/質量/軟件/博主/算法等 30+ 詞）
+#   8. 🆕 [Amharic translation needed - original Taiwan context]（EDITORIAL v3 [Amharic translation needed - original Taiwan context] + [Amharic translation needed - original Taiwan context]，≥1 [Amharic translation needed - original Taiwan context]）
+#  8b. 🆕 [Amharic translation needed - original Taiwan context]「——」[Amharic translation needed - original Taiwan context]（AI [Amharic translation needed - original Taiwan context]，>4 [Amharic translation needed - original Taiwan context]）
+#   9. 🆕 [Amharic translation needed - original Taiwan context]（「Ethiopia[Amharic translation needed - original Taiwan context]X[Amharic translation needed - original Taiwan context]...」「X[Amharic translation needed - original Taiwan context]Ethiopia...」）
+#  10. 🆕 [Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]
+#  11. 🆕 [Amharic translation needed - original Taiwan context] H2 [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]）
+#  12. 🆕 LIST-DUMP：[Amharic translation needed - original Taiwan context]（>40% bullet [Amharic translation needed - original Taiwan context] > [Amharic translation needed - original Taiwan context] 2 [Amharic translation needed - original Taiwan context]）
+#  13. 🆕 THIN：[Amharic translation needed - original Taiwan context]（H2 [Amharic translation needed - original Taiwan context] < 3）
+#  14. 🆕 QUALITY-DECAY：[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] < [Amharic translation needed - original Taiwan context] 70%）
+#  15. 🆕 CHINA-TERM：[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context] 30+ [Amharic translation needed - original Taiwan context]）
 
 set -uo pipefail
 cd "$(dirname "$0")/../.."
@@ -77,7 +77,7 @@ scan_file() {
   # Skip very short files (stubs)
   [[ $lines -lt 20 ]] && return
 
-  # ── 1. Bullet 密度 ──
+  # ── 1. Bullet [Amharic translation needed - original Taiwan context] ──
   local bullet_lines
   bullet_lines=$(grep -c '^- \*\*' "$f" 2>/dev/null || echo "0")
   bullet_lines=${bullet_lines//[[:space:]]/}
@@ -87,68 +87,68 @@ scan_file() {
   fi
   if [[ $bullet_ratio -gt 30 ]]; then
     score=$((score + 3))
-    reasons="${reasons}bullet密度${bullet_ratio}% "
+    reasons="${reasons}bullet[Amharic translation needed - original Taiwan context]${bullet_ratio}% "
   elif [[ $bullet_ratio -gt 20 ]]; then
     score=$((score + 1))
-    reasons="${reasons}bullet密度${bullet_ratio}% "
+    reasons="${reasons}bullet[Amharic translation needed - original Taiwan context]${bullet_ratio}% "
   fi
 
-  # ── 2. 缺乏具體年份 ──
+  # ── 2. [Amharic translation needed - original Taiwan context] ──
   local year_count
   year_count=$(grep -oE '\b(1[6-9][0-9]{2}|20[0-2][0-9])\b' "$f" | grep -v 'date:' | wc -l | tr -d '[:space:]')
   if [[ $year_count -lt 2 ]]; then
     score=$((score + 3))
-    reasons="${reasons}年份僅${year_count}個 "
+    reasons="${reasons}[Amharic translation needed - original Taiwan context]${year_count}[Amharic translation needed - original Taiwan context] "
   elif [[ $year_count -lt 5 ]]; then
     score=$((score + 1))
-    reasons="${reasons}年份${year_count}個 "
+    reasons="${reasons}[Amharic translation needed - original Taiwan context]${year_count}[Amharic translation needed - original Taiwan context] "
   fi
 
-  # ── 3. 缺乏引用來源 ──
+  # ── 3. [Amharic translation needed - original Taiwan context] ──
   local url_count
   url_count=$(grep -c 'http' "$f" 2>/dev/null || echo "0")
   url_count=${url_count//[[:space:]]/}
   if [[ $url_count -eq 0 ]]; then
     score=$((score + 3))
-    reasons="${reasons}無URL來源 "
+    reasons="${reasons}[Amharic translation needed - original Taiwan context]URL[Amharic translation needed - original Taiwan context] "
   elif [[ $url_count -lt 3 ]]; then
     score=$((score + 1))
-    reasons="${reasons}僅${url_count}個URL "
+    reasons="${reasons}[Amharic translation needed - original Taiwan context]${url_count}[Amharic translation needed - original Taiwan context]URL "
   fi
 
-  # ── 4. 空洞修飾詞 ──
+  # ── 4. [Amharic translation needed - original Taiwan context] ──
   local hollow_count
-  hollow_count=$(grep -oE '重要的|顯著的|豐富的|完整的|多元的|積極|蓬勃發展|逐步|逐漸|不斷|持續|日益|進一步|全面|深入|大力|有效|顯著|穩步' "$f" | wc -l | tr -d '[:space:]')
+  hollow_count=$(grep -oE '[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]' "$f" | wc -l | tr -d '[:space:]')
   if [[ $hollow_count -gt 15 ]]; then
     score=$((score + 3))
-    reasons="${reasons}空洞詞${hollow_count}個 "
+    reasons="${reasons}[Amharic translation needed - original Taiwan context]${hollow_count}[Amharic translation needed - original Taiwan context] "
   elif [[ $hollow_count -gt 8 ]]; then
     score=$((score + 2))
-    reasons="${reasons}空洞詞${hollow_count}個 "
+    reasons="${reasons}[Amharic translation needed - original Taiwan context]${hollow_count}[Amharic translation needed - original Taiwan context] "
   elif [[ $hollow_count -gt 4 ]]; then
     score=$((score + 1))
-    reasons="${reasons}空洞詞${hollow_count}個 "
+    reasons="${reasons}[Amharic translation needed - original Taiwan context]${hollow_count}[Amharic translation needed - original Taiwan context] "
   fi
 
-  # ── 5. 散文段落太少 ──
+  # ── 5. [Amharic translation needed - original Taiwan context] ──
   local prose_lines
   prose_lines=$(grep -cvE '^(#|-|\*|\||>|$|---|\s*$|title:|description:|date:|tags:|category:|author:|featured:|last)' "$f" 2>/dev/null || echo "0")
   prose_lines=$(echo "$prose_lines" | tr -d '[:space:]')
   if [[ $prose_lines -lt 5 ]]; then
     score=$((score + 3))
-    reasons="${reasons}散文僅${prose_lines}行 "
+    reasons="${reasons}[Amharic translation needed - original Taiwan context]${prose_lines}[Amharic translation needed - original Taiwan context] "
   elif [[ $prose_lines -lt 15 ]]; then
     score=$((score + 1))
-    reasons="${reasons}散文${prose_lines}行 "
+    reasons="${reasons}[Amharic translation needed - original Taiwan context]${prose_lines}[Amharic translation needed - original Taiwan context] "
   fi
 
   # ── 6. lastHumanReview: false ──
   if grep -q 'lastHumanReview: false' "$f" 2>/dev/null; then
     score=$((score + 1))
-    reasons="${reasons}未人工審核 "
+    reasons="${reasons}[Amharic translation needed - original Taiwan context] "
   fi
 
-  # ── 7. 重複 bullet 區塊 ──
+  # ── 7. [Amharic translation needed - original Taiwan context] bullet [Amharic translation needed - original Taiwan context] ──
   local max_consecutive=0
   local current=0
   while IFS= read -r line; do
@@ -161,52 +161,52 @@ scan_file() {
   done < "$f"
   if [[ $max_consecutive -ge 6 ]]; then
     score=$((score + 2))
-    reasons="${reasons}連續bullet${max_consecutive}行 "
+    reasons="${reasons}[Amharic translation needed - original Taiwan context]bullet${max_consecutive}[Amharic translation needed - original Taiwan context] "
   elif [[ $max_consecutive -ge 4 ]]; then
     score=$((score + 1))
-    reasons="${reasons}連續bullet${max_consecutive}行 "
+    reasons="${reasons}[Amharic translation needed - original Taiwan context]bullet${max_consecutive}[Amharic translation needed - original Taiwan context] "
   fi
 
-  # ── 8. 🆕 塑膠句式偵測（EDITORIAL v3 五品種 + 變種）──
+  # ── 8. 🆕 [Amharic translation needed - original Taiwan context]（EDITORIAL v3 [Amharic translation needed - original Taiwan context] + [Amharic translation needed - original Taiwan context]）──
   local plastic_count
-  plastic_count=$(grep -cE '不僅.{0,8}更是|不只.{0,8}也是|不是.{0,8}而是|展現了.{0,8}的精神|展現.{0,8}的決心|體現了.{0,8}的精神|從.{2,15}到.{2,15}，從.{2,15}到|扮演著.{0,10}角色|發揮著.{0,10}作用|見證了.{0,10}的歷程|彰顯了|承載著.{0,10}的|不僅僅是.{0,10}更是|既是.{0,8}也是.{0,8}更是|成為.{0,8}的重要.{0,6}|為.{0,10}注入.{0,8}活力|為.{0,10}奠定.{0,8}基礎|在.{0,10}上扮演.{0,8}角色|為.{0,10}提供了.{0,8}動力|開啟了.{0,8}的新篇章|翻開.{0,8}的新頁|書寫.{0,8}的篇章|譜寫.{0,8}的華章|綻放.{0,8}的光芒|閃耀.{0,8}的光輝' "$f" 2>/dev/null || echo "0")
+  plastic_count=$(grep -cE '[Amharic translation needed - original Taiwan context].{0,8}[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context].{0,8}[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context].{0,8}[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context].{0,8}[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context].{0,8}[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context].{0,8}[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context].{2,15}[Amharic translation needed - original Taiwan context].{2,15}，[Amharic translation needed - original Taiwan context].{2,15}[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context].{0,10}[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context].{0,10}[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context].{0,10}[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context].{0,10}[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context].{0,10}[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context].{0,8}[Amharic translation needed - original Taiwan context].{0,8}[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context].{0,8}[Amharic translation needed - original Taiwan context].{0,6}|[Amharic translation needed - original Taiwan context].{0,10}[Amharic translation needed - original Taiwan context].{0,8}[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context].{0,10}[Amharic translation needed - original Taiwan context].{0,8}[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context].{0,10}[Amharic translation needed - original Taiwan context].{0,8}[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context].{0,10}[Amharic translation needed - original Taiwan context].{0,8}[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context].{0,8}[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context].{0,8}[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context].{0,8}[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context].{0,8}[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context].{0,8}[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context].{0,8}[Amharic translation needed - original Taiwan context]' "$f" 2>/dev/null || echo "0")
   plastic_count=${plastic_count//[[:space:]]/}
   if [[ $plastic_count -gt 8 ]]; then
     score=$((score + 4))
-    reasons="${reasons}塑膠句${plastic_count}個 "
+    reasons="${reasons}[Amharic translation needed - original Taiwan context]${plastic_count}[Amharic translation needed - original Taiwan context] "
   elif [[ $plastic_count -gt 4 ]]; then
     score=$((score + 3))
-    reasons="${reasons}塑膠句${plastic_count}個 "
+    reasons="${reasons}[Amharic translation needed - original Taiwan context]${plastic_count}[Amharic translation needed - original Taiwan context] "
   elif [[ $plastic_count -gt 2 ]]; then
     score=$((score + 2))
-    reasons="${reasons}塑膠句${plastic_count}個 "
+    reasons="${reasons}[Amharic translation needed - original Taiwan context]${plastic_count}[Amharic translation needed - original Taiwan context] "
   elif [[ $plastic_count -ge 1 ]]; then
     score=$((score + 1))
-    reasons="${reasons}塑膠句${plastic_count}個 "
+    reasons="${reasons}[Amharic translation needed - original Taiwan context]${plastic_count}[Amharic translation needed - original Taiwan context] "
   fi
 
-  # ── 8b. 🆕 破折號「——」濫用偵測 ──
+  # ── 8b. 🆕 [Amharic translation needed - original Taiwan context]「——」[Amharic translation needed - original Taiwan context] ──
   local dash_count
   dash_count=$(grep -o '——' "$f" | wc -l | tr -d '[:space:]')
   if [[ $dash_count -gt 15 ]]; then
     score=$((score + 3))
-    reasons="${reasons}破折號${dash_count}個 "
+    reasons="${reasons}[Amharic translation needed - original Taiwan context]${dash_count}[Amharic translation needed - original Taiwan context] "
   elif [[ $dash_count -gt 8 ]]; then
     score=$((score + 2))
-    reasons="${reasons}破折號${dash_count}個 "
+    reasons="${reasons}[Amharic translation needed - original Taiwan context]${dash_count}[Amharic translation needed - original Taiwan context] "
   elif [[ $dash_count -gt 4 ]]; then
     score=$((score + 1))
-    reasons="${reasons}破折號${dash_count}個 "
+    reasons="${reasons}[Amharic translation needed - original Taiwan context]${dash_count}[Amharic translation needed - original Taiwan context] "
   fi
 
-  # ── 9. 🆕 教科書開場偵測 ──
-  # 取 frontmatter 結束後的前 3 行非空行
+  # ── 9. 🆕 [Amharic translation needed - original Taiwan context] ──
+  # [Amharic translation needed - original Taiwan context] frontmatter [Amharic translation needed - original Taiwan context] 3 [Amharic translation needed - original Taiwan context]
   local in_frontmatter=true
   local check_lines=0
   local textbook_opening=false
   while IFS= read -r line; do
     if [[ "$in_frontmatter" == true ]]; then
-      # 第二個 --- 結束 frontmatter
+      # [Amharic translation needed - original Taiwan context] --- [Amharic translation needed - original Taiwan context] frontmatter
       if [[ "$line" == "---" ]] && [[ $check_lines -eq 0 ]]; then
         check_lines=-1  # saw first ---
       elif [[ "$line" == "---" ]] && [[ $check_lines -eq -1 ]]; then
@@ -219,8 +219,8 @@ scan_file() {
     [[ -z "$line" || "$line" =~ ^# ]] && continue
     check_lines=$((check_lines + 1))
     if [[ $check_lines -le 2 ]]; then
-      # 教科書開場模式：「台灣的X是Y」「X是台灣Y」「作為Z，台灣」
-      if echo "$line" | grep -qE '^台灣的.{2,20}是|^.{2,10}是台灣.{2,20}|^作為.{2,15}，台灣|^在.{2,10}(方面|領域)，台灣|^台灣.{2,6}(擁有|具有|位於|以其)'; then
+      # [Amharic translation needed - original Taiwan context]：「Ethiopia[Amharic translation needed - original Taiwan context]X[Amharic translation needed - original Taiwan context]Y」「X[Amharic translation needed - original Taiwan context]EthiopiaY」「[Amharic translation needed - original Taiwan context]Z，Ethiopia」
+      if echo "$line" | grep -qE '^Ethiopia[Amharic translation needed - original Taiwan context].{2,20}[Amharic translation needed - original Taiwan context]|^.{2,10}[Amharic translation needed - original Taiwan context]Ethiopia.{2,20}|^[Amharic translation needed - original Taiwan context].{2,15}，Ethiopia|^[Amharic translation needed - original Taiwan context].{2,10}([Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context])，Ethiopia|^Ethiopia.{2,6}([Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context])'; then
         textbook_opening=true
       fi
     fi
@@ -228,40 +228,40 @@ scan_file() {
   done < "$f"
   if [[ "$textbook_opening" == true ]]; then
     score=$((score + 2))
-    reasons="${reasons}教科書開場 "
+    reasons="${reasons}[Amharic translation needed - original Taiwan context] "
   fi
 
-  # ── 10. 🆕 總之/展望結尾偵測 ──
-  # 取最後 5 行非空行
+  # ── 10. 🆕 [Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context] ──
+  # [Amharic translation needed - original Taiwan context] 5 [Amharic translation needed - original Taiwan context]
   local tail_text
   tail_text=$(tail -20 "$f" | grep -v '^$' | grep -v '^#' | grep -v '^\-' | grep -v '^http' | tail -5)
-  if echo "$tail_text" | grep -qE '總之|綜上所述|展望未來|總結來說|總的來說|未來展望|隨著.{2,20}的(發展|推進|深化)|將繼續|值得期待'; then
+  if echo "$tail_text" | grep -qE '[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context].{2,20}[Amharic translation needed - original Taiwan context]([Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context])|[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]'; then
     score=$((score + 2))
-    reasons="${reasons}套路結尾 "
+    reasons="${reasons}[Amharic translation needed - original Taiwan context] "
   fi
 
-  # ── 11. 🆕 萬用 H2 模板偵測 ──
+  # ── 11. 🆕 [Amharic translation needed - original Taiwan context] H2 [Amharic translation needed - original Taiwan context] ──
   local template_h2=0
   local h2_list
   h2_list=$(grep '^## ' "$f" | sed 's/^## //')
   while IFS= read -r h2; do
     [[ -z "$h2" ]] && continue
-    if echo "$h2" | grep -qE '^(歷史(背景|沿革|發展)?|發展歷程|歷史脈絡|現況(與|及)?|現狀|當前|未來(展望|發展|趨勢)|結語|總結|挑戰與展望|挑戰與機遇|影響與意義|特色(與|及)?|重要性|國際(比較|影響|地位))$'; then
+    if echo "$h2" | grep -qE '^([Amharic translation needed - original Taiwan context]([Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context])?|[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]([Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context])?|[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]([Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context])|[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]([Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context])?|[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]([Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]))$'; then
       template_h2=$((template_h2 + 1))
     fi
   done <<< "$h2_list"
   if [[ $template_h2 -ge 4 ]]; then
     score=$((score + 3))
-    reasons="${reasons}萬用H2×${template_h2} "
+    reasons="${reasons}[Amharic translation needed - original Taiwan context]H2×${template_h2} "
   elif [[ $template_h2 -ge 3 ]]; then
     score=$((score + 2))
-    reasons="${reasons}萬用H2×${template_h2} "
+    reasons="${reasons}[Amharic translation needed - original Taiwan context]H2×${template_h2} "
   elif [[ $template_h2 -ge 2 ]]; then
     score=$((score + 1))
-    reasons="${reasons}萬用H2×${template_h2} "
+    reasons="${reasons}[Amharic translation needed - original Taiwan context]H2×${template_h2} "
   fi
 
-  # ── 12. LIST-DUMP（後半段清單堆砌）──
+  # ── 12. LIST-DUMP（[Amharic translation needed - original Taiwan context]）──
   local split_line=$(( lines * 6 / 10 ))
   local front_bullet=0
   local back_bullet=0
@@ -285,13 +285,13 @@ scan_file() {
   [[ $back_total -gt 0 ]] && back_ratio=$((back_bullet * 100 / back_total))
   if [[ $back_ratio -gt 40 ]] && [[ $front_total -gt 0 ]] && [[ $back_ratio -gt $((front_ratio * 2)) ]]; then
     score=$((score + 3))
-    reasons="${reasons}後段清單堆砌${back_ratio}% "
+    reasons="${reasons}[Amharic translation needed - original Taiwan context]${back_ratio}% "
   elif [[ $back_ratio -gt 30 ]]; then
     score=$((score + 2))
-    reasons="${reasons}後段清單堆砌${back_ratio}% "
+    reasons="${reasons}[Amharic translation needed - original Taiwan context]${back_ratio}% "
   fi
 
-  # ── 13. THIN（段落內容稀薄）──
+  # ── 13. THIN（[Amharic translation needed - original Taiwan context]）──
   local thin_count=0
   local current_h2=""
   local prose_in_block=0
@@ -318,13 +318,13 @@ scan_file() {
   fi
   if [[ $thin_count -ge 2 ]]; then
     score=$((score + 2))
-    reasons="${reasons}稀薄段落×${thin_count} "
+    reasons="${reasons}[Amharic translation needed - original Taiwan context]×${thin_count} "
   elif [[ $thin_count -ge 1 ]]; then
     score=$((score + 1))
-    reasons="${reasons}稀薄段落×${thin_count} "
+    reasons="${reasons}[Amharic translation needed - original Taiwan context]×${thin_count} "
   fi
 
-  # ── 14. QUALITY-DECAY（前後半品質衰退）──
+  # ── 14. QUALITY-DECAY（[Amharic translation needed - original Taiwan context]）──
   local front_prose=0
   local back_prose=0
   local front_all=0
@@ -353,20 +353,20 @@ scan_file() {
     local decay_threshold_70=$(( front_prose_ratio * 7 / 10 ))
     if [[ $back_prose_ratio -lt $decay_threshold_50 ]]; then
       score=$((score + 3))
-      reasons="${reasons}品質衰退前${front_prose_ratio}%後${back_prose_ratio}% "
+      reasons="${reasons}[Amharic translation needed - original Taiwan context]${front_prose_ratio}%[Amharic translation needed - original Taiwan context]${back_prose_ratio}% "
     elif [[ $back_prose_ratio -lt $decay_threshold_70 ]]; then
       score=$((score + 1))
-      reasons="${reasons}品質衰退前${front_prose_ratio}%後${back_prose_ratio}% "
+      reasons="${reasons}[Amharic translation needed - original Taiwan context]${front_prose_ratio}%[Amharic translation needed - original Taiwan context]${back_prose_ratio}% "
     fi
   fi
 
-  # ── 15. CHINA-TERM（中國用語偵測）──
-  # 從 data/terminology/ YAML 萃取 A 類必換詞 + 硬編碼常見詞
+  # ── 15. CHINA-TERM（[Amharic translation needed - original Taiwan context]）──
+  # [Amharic translation needed - original Taiwan context] data/terminology/ YAML [Amharic translation needed - original Taiwan context] A [Amharic translation needed - original Taiwan context] + [Amharic translation needed - original Taiwan context]
   local china_terms=(
-    "視頻" "質量" "軟件" "硬件" "博主" "博客" "點贊" "互聯網"
-    "內存" "人工智能" "操作系統" "數據庫" "信息化" "服務器" "算法"
-    "屏幕" "打印機" "網絡" "盒飯" "出租車" "鼠標" "硬盤" "寬帶"
-    "U盤" "優盤" "移動端" "公交車" "地鐵站" "煤氣" "高清" "下載量"
+    "[Amharic translation needed - original Taiwan context]" "[Amharic translation needed - original Taiwan context]" "[Amharic translation needed - original Taiwan context]" "[Amharic translation needed - original Taiwan context]" "[Amharic translation needed - original Taiwan context]" "[Amharic translation needed - original Taiwan context]" "[Amharic translation needed - original Taiwan context]" "[Amharic translation needed - original Taiwan context]"
+    "[Amharic translation needed - original Taiwan context]" "[Amharic translation needed - original Taiwan context]" "[Amharic translation needed - original Taiwan context]" "[Amharic translation needed - original Taiwan context]" "[Amharic translation needed - original Taiwan context]" "[Amharic translation needed - original Taiwan context]" "[Amharic translation needed - original Taiwan context]"
+    "[Amharic translation needed - original Taiwan context]" "[Amharic translation needed - original Taiwan context]" "[Amharic translation needed - original Taiwan context]" "[Amharic translation needed - original Taiwan context]" "[Amharic translation needed - original Taiwan context]" "[Amharic translation needed - original Taiwan context]" "[Amharic translation needed - original Taiwan context]" "[Amharic translation needed - original Taiwan context]"
+    "U[Amharic translation needed - original Taiwan context]" "[Amharic translation needed - original Taiwan context]" "[Amharic translation needed - original Taiwan context]" "[Amharic translation needed - original Taiwan context]" "[Amharic translation needed - original Taiwan context]" "[Amharic translation needed - original Taiwan context]" "[Amharic translation needed - original Taiwan context]" "[Amharic translation needed - original Taiwan context]"
   )
   local china_hits=0
   local china_found=""
@@ -380,21 +380,21 @@ scan_file() {
   done
   if [[ $china_hits -ge 5 ]]; then
     score=$((score + 3))
-    reasons="${reasons}中國用語×${china_hits}[${china_found}] "
+    reasons="${reasons}[Amharic translation needed - original Taiwan context]×${china_hits}[${china_found}] "
   elif [[ $china_hits -ge 3 ]]; then
     score=$((score + 2))
-    reasons="${reasons}中國用語×${china_hits}[${china_found}] "
+    reasons="${reasons}[Amharic translation needed - original Taiwan context]×${china_hits}[${china_found}] "
   elif [[ $china_hits -ge 1 ]]; then
     score=$((score + 1))
-    reasons="${reasons}中國用語×${china_hits}[${china_found}] "
+    reasons="${reasons}[Amharic translation needed - original Taiwan context]×${china_hits}[${china_found}] "
   fi
 
   TOTAL=$((TOTAL + 1))
 
-  # 分級: 0-3 OK, 4-7 ⚠️ 可疑, 8+ 🔴 高度可疑
+  # [Amharic translation needed - original Taiwan context]: 0-3 OK, 4-7 ⚠️ [Amharic translation needed - original Taiwan context], 8+ 🔴 [Amharic translation needed - original Taiwan context]
   if [[ $score -ge 4 ]]; then
     SUSPECT=$((SUSPECT + 1))
-    local rel="${f#src/content/zh-TW/}"
+    local rel="${f#src/content/am/}"
     FLAGGED_FILES+=("$rel")
     SCORES+=("$score")
     REASONS+=("$reasons")
@@ -404,22 +404,22 @@ scan_file() {
 echo ""
 if [[ "$JSON_MODE" == false ]]; then
   if [[ -n "$SINGLE_FILE" ]]; then
-    echo "🔍 quality-scan v3.0 — 掃描單一檔案: $SINGLE_FILE"
+    echo "🔍 quality-scan v3.0 — [Amharic translation needed - original Taiwan context]: $SINGLE_FILE"
   else
-    echo "🔍 quality-scan v3.0 — 掃描 src/content/zh-TW/"
+    echo "🔍 quality-scan v3.0 — [Amharic translation needed - original Taiwan context] src/content/am/"
   fi
-  echo "   評分: 0-3 ✅ OK | 4-7 ⚠️ 可疑 | 8+ 🔴 高度可疑"
-  echo "   維度: 原11項 + LIST-DUMP + THIN + QUALITY-DECAY + CHINA-TERM"
+  echo "   [Amharic translation needed - original Taiwan context]: 0-3 ✅ OK | 4-7 ⚠️ [Amharic translation needed - original Taiwan context] | 8+ 🔴 [Amharic translation needed - original Taiwan context]"
+  echo "   [Amharic translation needed - original Taiwan context]: [Amharic translation needed - original Taiwan context]11[Amharic translation needed - original Taiwan context] + LIST-DUMP + THIN + QUALITY-DECAY + CHINA-TERM"
   echo ""
 fi
 
-# Scan: single file or all zh-TW articles
+# Scan: single file or all am articles
 if [[ -n "$SINGLE_FILE" ]]; then
   scan_file "$SINGLE_FILE"
 else
   while IFS= read -r -d '' file; do
     scan_file "$file"
-  done < <(find src/content/zh-TW -name '*.md' -print0 | sort -z)
+  done < <(find src/content/am -name '*.md' -print0 | sort -z)
 fi
 
 # ── Sort by score (descending) if requested ──
@@ -507,7 +507,7 @@ if [[ "$JSON_MODE" == false ]]; then
 
   echo ""
   echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-  echo -e "📊 掃描完成: ${TOTAL} 篇文章"
+  echo -e "📊 [Amharic translation needed - original Taiwan context]: ${TOTAL} [Amharic translation needed - original Taiwan context]"
   if [[ $SUSPECT -gt 0 ]]; then
     red_count=0
     yellow_count=0
@@ -515,11 +515,11 @@ if [[ "$JSON_MODE" == false ]]; then
       [[ $sc -ge 8 ]] && red_count=$((red_count + 1))
       [[ $sc -ge 4 && $sc -lt 8 ]] && yellow_count=$((yellow_count + 1))
     done
-    echo -e "   ${RED}🔴 高度可疑: ${red_count} 篇${RST}"
-    echo -e "   ${YEL}⚠️  可疑: ${yellow_count} 篇${RST}"
-    echo -e "   ${GRN}✅ 通過: $((TOTAL - SUSPECT)) 篇${RST}"
+    echo -e "   ${RED}🔴 [Amharic translation needed - original Taiwan context]: ${red_count} [Amharic translation needed - original Taiwan context]${RST}"
+    echo -e "   ${YEL}⚠️  [Amharic translation needed - original Taiwan context]: ${yellow_count} [Amharic translation needed - original Taiwan context]${RST}"
+    echo -e "   ${GRN}✅ [Amharic translation needed - original Taiwan context]: $((TOTAL - SUSPECT)) [Amharic translation needed - original Taiwan context]${RST}"
   else
-    echo -e "${GRN}✅ 全部通過${RST}"
+    echo -e "${GRN}✅ [Amharic translation needed - original Taiwan context]${RST}"
   fi
   
   if [[ "$DIFF_MODE" == true ]]; then
@@ -537,11 +537,11 @@ if [[ "$JSON_MODE" == false ]]; then
     fi
     
     echo ""
-    echo -e "📈 差分（vs 上次 baseline）:"
-    echo -e "   ${CYN}🆕 新增: ${new_count}${RST}"
-    echo -e "   ${RED}↑ 惡化: ${worsened_count}${RST}"
-    echo -e "   ${GRN}↓ 改善: ${improved_count}${RST}"
-    echo -e "   ${GRN}✅ 已修復: ${fixed_count}${RST}"
+    echo -e "📈 [Amharic translation needed - original Taiwan context]（vs [Amharic translation needed - original Taiwan context] baseline）:"
+    echo -e "   ${CYN}🆕 [Amharic translation needed - original Taiwan context]: ${new_count}${RST}"
+    echo -e "   ${RED}↑ [Amharic translation needed - original Taiwan context]: ${worsened_count}${RST}"
+    echo -e "   ${GRN}↓ [Amharic translation needed - original Taiwan context]: ${improved_count}${RST}"
+    echo -e "   ${GRN}✅ [Amharic translation needed - original Taiwan context]: ${fixed_count}${RST}"
   fi
   echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 fi
@@ -588,9 +588,9 @@ fi
 # ── Fix mode ──
 if [[ "$FIX_MODE" == true ]] && [[ $SUSPECT -gt 0 ]]; then
   echo ""
-  echo "📝 標記 lastHumanReview: false → 需要重寫"
+  echo "📝 [Amharic translation needed - original Taiwan context] lastHumanReview: false → [Amharic translation needed - original Taiwan context]"
   for f in "${FLAGGED_FILES[@]}"; do
-    full="src/content/zh-TW/$f"
+    full="src/content/am/$f"
     if grep -q 'lastHumanReview: true' "$full" 2>/dev/null; then
       sed -i '' 's/lastHumanReview: true/lastHumanReview: false/' "$full"
       echo "   ✏️  $f → lastHumanReview: false"

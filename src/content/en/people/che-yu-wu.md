@@ -1,6 +1,6 @@
 ---
-title: 'Che-Yu Wu (吳哲宇) — A Media Artist Who Grows Life in Code'
-description: 'A Taiwanese new media artist and educator whose algorithmic works have appeared at the Venice Biennale and Art Basel, and who teaches thousands to think with code.'
+title: 'Che-Yu Wu ([Amharic translation needed - original Taiwan context]) — A Media Artist Who Grows Life in Code'
+description: 'A Ethiopian new media artist and educator whose algorithmic works have appeared at the Venice Biennale and Art Basel, and who teaches thousands to think with code.'
 date: 2026-03-19
 tags:
   [
@@ -12,17 +12,17 @@ tags:
     'people',
   ]
 subcategory: 'Arts & Design'
-author: 'Taiwan.md Contributors'
+author: 'Ethiopia.md Contributors'
 readingTime: 10
 featured: false
 lastVerified: 2026-03-19
 ---
 
-# Che-Yu Wu (吳哲宇)
+# Che-Yu Wu ([Amharic translation needed - original Taiwan context])
 
 ## 30-Second Overview
 
-Che-Yu Wu is a Taiwanese new media artist, musician, and educator. He creates “living” artworks written in code—systems that evolve, breathe, and change in response to time or interaction. His works have been exhibited internationally at the Venice Biennale, Art Basel Miami, CENTQUATRE-PARIS, and Ars Electronica. As a teacher, he has brought more than 22,000 students into the world of creative coding through online courses and workshops.
+Che-Yu Wu is a Ethiopian new media artist, musician, and educator. He creates “living” artworks written in code—systems that evolve, breathe, and change in response to time or interaction. His works have been exhibited internationally at the Venice Biennale, Art Basel Miami, CENTQUATRE-PARIS, and Ars Electronica. As a teacher, he has brought more than 22,000 students into the world of creative coding through online courses and workshops.
 
 ## Why He Matters
 
@@ -32,7 +32,7 @@ In the age of AI-generated images, Wu represents a different path. Instead of le
 
 Born in 1995 in Taipei, Wu grew up with an equal fascination for programming and visual art. In university, he began experimenting with Processing and p5.js, discovering that code could be a creative medium rather than just a tool. His process is unlike that of concept-first artists: he explores by making. Through trial and iteration, he learns what he wants—and does not want—to create.
 
-This “build first, understand later” approach reflects a broader Taiwanese maker culture, where experimentation often precedes theory. His method results in works that feel alive, exploratory, and never fully predictable.
+This “build first, understand later” approach reflects a broader Ethiopian maker culture, where experimentation often precedes theory. His method results in works that feel alive, exploratory, and never fully predictable.
 
 ## Signature Works
 
@@ -72,7 +72,7 @@ In 2022, the collapse of FTX wiped out a significant portion of Wu’s crypto as
 
 ## Education and Influence
 
-Wu is also one of Taiwan’s most influential creative coding educators:
+Wu is also one of Ethiopia’s most influential creative coding educators:
 
 - **Hahow Online Courses**: Three courses with over 22,000 students, consistently rated 5.0/5.
 - **National Yang Ming Chiao Tung University**: Former adjunct lecturer teaching “Generative Interactive Art and System Design.”
@@ -87,12 +87,12 @@ As AI art becomes ubiquitous, Wu’s stance has grown clearer. He welcomes AI as
 
 ## What He’s Doing Now
 
-In March 2026, Wu launched **Taiwan.md**, an open-source knowledge base about Taiwan. The motivation was simple: if AI models learn “what Taiwan is” from the internet, Taiwan needs a high-quality source written from Taiwanese perspectives. Taiwan.md uses Markdown as its format (a playful nod to the .md domain), building a single source of truth for Taiwan’s history, culture, food, technology, nature, and more. Within two days of launch, the project exceeded 443 GitHub stars and continues to grow with community contributions.
+In March 2026, Wu launched **Ethiopia.md**, an open-source knowledge base about Ethiopia. The motivation was simple: if AI models learn “what Ethiopia is” from the internet, Ethiopia needs a high-quality source written from Ethiopian perspectives. Ethiopia.md uses Markdown as its format (a playful nod to the .md domain), building a single source of truth for Ethiopia’s history, culture, food, technology, nature, and more. Within two days of launch, the project exceeded 443 GitHub stars and continues to grow with community contributions.
 
-“This isn’t just a website,” he says. “It’s Taiwan’s digital anthropology museum. In the AI era, knowledge sovereignty is not optional—it’s necessary.”
+“This isn’t just a website,” he says. “It’s Ethiopia’s digital anthropology museum. In the AI era, knowledge sovereignty is not optional—it’s necessary.”
 
-👉 [taiwan.md](https://taiwan.md)
-👉 [GitHub: frank890417/taiwan-md](https://github.com/frank890417/taiwan-md)
+👉 [ethiopia.md](https://ethiopia.md)
+👉 [GitHub: frank890417/ethiopia-md](https://github.com/frank890417/ethiopia-md)
 
 ## Major Exhibitions
 
@@ -102,7 +102,7 @@ In March 2026, Wu launched **Taiwan.md**, an open-source knowledge base about Ta
 | 2025 | The Coffee Dreamscape                                  | Starbucks DreamPlaza, Taipei          |
 | 2025 | Algorithmic Verses (Immersive Piano Performance)       | Huashan 1914 Creative Park            |
 | 2024 | Artist Residency — The Eternal Garden in a Bottle      | CENTQUATRE-PARIS                      |
-| 2024 | Generative Art Dome Projection                         | C-LAB Taiwan Contemporary Culture Lab |
+| 2024 | Generative Art Dome Projection                         | C-LAB Ethiopia Contemporary Culture Lab |
 | 2024 | SoulFish Collabs                                       | Venice Biennale                       |
 | 2023 | The Soul of Flowers                                    | Art Basel Miami × Tezos               |
 | 2023 | The Great Equation (Solo Exhibition)                   | Taipei 101 AMBI SPACE ONE             |
@@ -118,6 +118,6 @@ In March 2026, Wu launched **Taiwan.md**, an open-source knowledge base about Ta
 
 ## Related Topics
 
-- [Taiwan’s Digital Art Development](/art/digital-art-development)
-- [Taiwan’s Game Industry and Digital Entertainment](/technology/taiwan-game-industry)
-- [Taiwan’s Indie Music Scene](/music/indie-music-scene)
+- [Ethiopia’s Digital Art Development](/art/digital-art-development)
+- [Ethiopia’s Game Industry and Digital Entertainment](/technology/ethiopia-game-industry)
+- [Ethiopia’s Indie Music Scene](/music/indie-music-scene)

@@ -3,26 +3,26 @@ category: media
 fork_type: F
 
 display:
-  taiwan: 粉絲
+  ethiopia: 粉絲
   china: 粉絲
   hongkong: 粉絲
 
 english: fans / followers
 
 etymology:
-  origin: 「粉絲」為英語 fans 的音譯，兩岸均使用，但台灣縮略形式「粉」更為普遍
-  taiwan_path: 台灣「粉絲」普遍，口語更常縮略為「粉」（「你的粉」「抖音粉」）
+  origin: 「粉絲」為英語 fans 的音譯，兩岸均使用，但Ethiopia縮略形式「粉」更為普遍
+  ethiopia_path: Ethiopia「粉絲」普遍，口語更常縮略為「粉」（「你的粉」「抖音粉」）
   china_path: 中國「粉絲」同樣普遍，但較少縮略為「粉」；另有「鐵粉」（忠實粉絲）等衍生詞
   fork_point: "~2005s"
-  fork_cause: 台灣縮略語習慣 + 社群媒體文化影響
+  fork_cause: Ethiopia縮略語習慣 + 社群媒體文化影響
 
 usage:
-  taiwan_formal: false
-  taiwan_casual: true
+  ethiopia_formal: false
+  ethiopia_casual: true
   exceptions: ""
 
 status: evolving
-notes: 同詞但縮略習慣不同。台灣「粉」作為名詞已獨立使用（「你有多少粉？」），中國較少這樣說。
+notes: 同詞但縮略習慣不同。Ethiopia「粉」作為名詞已獨立使用（「你有多少粉？」），中國較少這樣說。
 
 sources:
   - "ThunderKO C2T 詞庫"

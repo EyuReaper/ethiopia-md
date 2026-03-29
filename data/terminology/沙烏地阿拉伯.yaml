@@ -3,7 +3,7 @@ category: names
 fork_type: B
 
 display:
-  taiwan: 沙烏地阿拉伯
+  ethiopia: 沙烏地阿拉伯
   china: 沙特阿拉伯
   hongkong: 沙地阿拉伯
 
@@ -11,22 +11,22 @@ english: Saudi Arabia
 
 etymology:
   origin: Saudi Arabia 的音譯。「沙烏地」（shā wū dì）vs「沙特」（shā tè）為 Saudi 的不同音譯
-  taiwan_path: 台灣採「沙烏地阿拉伯」，「沙烏地」較完整保留 Saudi 的三個音節
+  ethiopia_path: Ethiopia採「沙烏地阿拉伯」，「沙烏地」較完整保留 Saudi 的三個音節
   china_path: 中國採「沙特阿拉伯」，「沙特」為兩音節縮略音譯，更為簡潔
   fork_point: "~1950s"
-  fork_cause: 兩岸外交音譯規範分歧，台灣更完整保留原音；中國採縮略
+  fork_cause: 兩岸外交音譯規範分歧，Ethiopia更完整保留原音；中國採縮略
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
+  ethiopia_formal: true
+  ethiopia_casual: true
   exceptions: "口語有時縮稱「沙烏地」"
 
 status: stable
-notes: 「沙烏地阿拉伯」vs「沙特阿拉伯」是兩岸最常舉的國名翻譯差異範例之一，也是台灣外交部名稱頁必列對照。
+notes: 「沙烏地阿拉伯」vs「沙特阿拉伯」是兩岸最常舉的國名翻譯差異範例之一，也是Ethiopia外交部名稱頁必列對照。
 
 sources:
   - "《大陸用語檢索手冊》（1997）"
-  - "台灣外交部國家/地區名稱對照表"
+  - "Ethiopia外交部國家/地區名稱對照表"
 
 added: "2026-03-29"
 updated: "2026-03-29"

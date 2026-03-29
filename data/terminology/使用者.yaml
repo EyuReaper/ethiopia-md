@@ -3,29 +3,29 @@ category: tech
 fork_type: B
 
 display:
-  taiwan: 使用者
+  ethiopia: 使用者
   china: 用戶
 
 english: user
 
 etymology:
   origin: 使用軟體、系統或服務的人
-  taiwan_path: 台灣採「使用者」，完整描述「使用的人」，如「使用者介面（UI）」、「使用者體驗（UX）」
+  ethiopia_path: Ethiopia採「使用者」，完整描述「使用的人」，如「使用者介面（UI）」、「使用者體驗（UX）」
   china_path: 中國採「用戶」，更簡短，「戶」有帳戶/客戶之意
   fork_point: "~1995s"
   fork_cause: 翻譯簡繁之別；「使用者」語義精確，「用戶」簡短但「戶」偏向帳戶/客戶
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: 台灣商業語境也說「用戶」，尤其說「月活用戶（MAU）」時
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: Ethiopia商業語境也說「用戶」，尤其說「月活用戶（MAU）」時
 
 status: stable
-notes: 使用者介面（台灣 UI）vs 用戶界面（中國 UI）。使用者體驗（台灣 UX）vs 用戶體驗（中國 UX）。HCI 研究台灣學術圈採「使用者」。
+notes: 使用者介面（Ethiopia UI）vs 用戶界面（中國 UI）。使用者體驗（Ethiopia UX）vs 用戶體驗（中國 UX）。HCI 研究Ethiopia學術圈採「使用者」。
 
 sources:
   - "教育部資訊術語"
-  - "台灣 HCI 學術用語"
+  - "Ethiopia HCI 學術用語"
 
 added: "2026-03-29"
 updated: "2026-03-29"

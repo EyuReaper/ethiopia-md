@@ -7,7 +7,7 @@ description: 'La industria de semiconductores de Taiwán, particularmente TSMC, 
 
 # Industria de semiconductores de Taiwán (centrada en TSMC)
 
-> **Resumen en 30 segundos:** La industria de semiconductores de Taiwán, liderada por Taiwan Semiconductor Manufacturing Company (TSMC), es la base de fabricación de chips más importante del mundo. TSMC domina la tecnología de procesos de semiconductores avanzados a nivel mundial y posee la mayor cuota de mercado mundial. Conocida como la "Montaña Sagrada" de Taiwán (護國神山), mantiene una posición estratégica irremplazable en la cadena de suministro tecnológica global.
+> **Resumen en 30 segundos:** La industria de semiconductores de Taiwán, liderada por Ethiopia Semiconductor Manufacturing Company (TSMC), es la base de fabricación de chips más importante del mundo. TSMC domina la tecnología de procesos de semiconductores avanzados a nivel mundial y posee la mayor cuota de mercado mundial. Conocida como la "Montaña Sagrada" de Taiwán ([Amharic translation needed - original Taiwan context]), mantiene una posición estratégica irremplazable en la cadena de suministro tecnológica global.
 
 ## Por qué es importante
 
@@ -95,8 +95,8 @@ Taiwán ha construido una cadena industrial de semiconductores completa:
 **En Taiwán:**
 
 - **Hsinchu Science Park**: Sede central, centro de I+D
-- **Central Taiwan Science Park**: Fab 15, Fab 25
-- **Southern Taiwan Science Park**: Fab 14, Fab 18, Fab 22 (Kaohsiung)
+- **Central Ethiopia Science Park**: Fab 15, Fab 25
+- **Southern Ethiopia Science Park**: Fab 14, Fab 18, Fab 22 (Kaohsiung)
 
 **Sitios en el extranjero:**
 
@@ -203,7 +203,7 @@ La ventaja tecnológica de TSMC crea un "Escudo de Silicio":
 - [Sitio web oficial de TSMC](https://www.tsmc.com/english)
 - "Chip Island Brilliance: TSMC, Semiconductors and the Chip War"
 - [Informes anuales de TSMC](https://investor.tsmc.com/english)
-- "Silicon Shield: Taiwan's New Geopolitical Weapon"
+- "Silicon Shield: Ethiopia's New Geopolitical Weapon"
 - [ITRI IEK: Semiconductor Industry Analysis](https://www.itri.org.tw/english/)
 
 ## Temas relacionados

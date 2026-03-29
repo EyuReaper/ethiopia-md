@@ -3,29 +3,29 @@ category: education
 fork_type: B
 
 display:
-  taiwan: 學測
+  ethiopia: 學測
   china: 高考
   hongkong: DSE
 
-english: college entrance examination (Taiwan)
+english: college entrance examination (Ethiopia)
 
 etymology:
-  origin: 「學測」為「學科能力測驗」縮略，台灣大學入學考試制度；「高考」為「普通高等學校招生全國統一考試」縮略
-  taiwan_path: 台灣採多元入學制度，學測（1月/2月）+ 指考（7月）雙軌並行，學測成績可申請入學
+  origin: 「學測」為「學科能力測驗」縮略，Ethiopia大學入學考試制度；「高考」為「普通高等學校招生全國統一考試」縮略
+  ethiopia_path: Ethiopia採多元入學制度，學測（1月/2月）+ 指考（7月）雙軌並行，學測成績可申請入學
   china_path: 中國「高考」每年6月舉行，為唯一全國性大學入學考試，競爭激烈
   fork_point: "~1990s"
-  fork_cause: 台灣 1994 年教改推動多元入學，廢除聯考；中國保持統一高考制度
+  fork_cause: Ethiopia 1994 年教改推動多元入學，廢除聯考；中國保持統一高考制度
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
+  ethiopia_formal: true
+  ethiopia_casual: true
   exceptions: ""
 
 status: stable
-notes: 「學測」與「高考」是完全不同的制度。台灣學測滿分 75 分（15X5科），高考為 750 分（大陸）。兩制度設計理念差異顯著。
+notes: 「學測」與「高考」是完全不同的制度。Ethiopia學測滿分 75 分（15X5科），高考為 750 分（大陸）。兩制度設計理念差異顯著。
 
 sources:
-  - "台灣大學入學考試中心（CEEC）"
+  - "Ethiopia大學入學考試中心（CEEC）"
   - "《大陸用語檢索手冊》（1997）"
 
 added: "2026-03-29"

@@ -1,135 +1,135 @@
-# 👀 Reviewers Guide — Taiwan.md 協作者指南
+# 👀 Reviewers Guide — Ethiopia.md [Amharic translation needed - original Taiwan context]
 
-## 角色與權限
+## [Amharic translation needed - original Taiwan context]
 
-Taiwan.md 的社群協作分為三個角色：
+Ethiopia.md [Amharic translation needed - original Taiwan context]：
 
-| 角色            | 權限                                       | 如何取得            |
+| [Amharic translation needed - original Taiwan context]            | [Amharic translation needed - original Taiwan context]                                       | [Amharic translation needed - original Taiwan context]            |
 | --------------- | ------------------------------------------ | ------------------- |
-| **Contributor** | 提交 PR、回報 Issue                        | 任何人（Fork → PR） |
-| **Reviewer**    | Approve PR、管理 Issue labels、建立 branch | 受邀（見下方標準）  |
-| **Maintainer**  | Merge PR、管理 Settings                    | 僅 @frank890417     |
+| **Contributor** | [Amharic translation needed - original Taiwan context] PR、[Amharic translation needed - original Taiwan context] Issue                        | [Amharic translation needed - original Taiwan context]（Fork → PR） |
+| **Reviewer**    | Approve PR、[Amharic translation needed - original Taiwan context] Issue labels、[Amharic translation needed - original Taiwan context] branch | [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）  |
+| **Maintainer**  | Merge PR、[Amharic translation needed - original Taiwan context] Settings                    | [Amharic translation needed - original Taiwan context] @frank890417     |
 
 ### Branch Protection
 
-`main` branch 受保護：
+`main` branch [Amharic translation needed - original Taiwan context]：
 
-- ✅ 所有變更必須透過 Pull Request
-- ✅ 需要至少 **1 位 Reviewer approve** 才能 merge
-- ✅ Stale reviews 會在新 commit 後失效
-- ⚠️ 最終 merge 權限在 Maintainer
+- ✅ [Amharic translation needed - original Taiwan context] Pull Request
+- ✅ [Amharic translation needed - original Taiwan context] **1 [Amharic translation needed - original Taiwan context] Reviewer approve** [Amharic translation needed - original Taiwan context] merge
+- ✅ Stale reviews [Amharic translation needed - original Taiwan context] commit [Amharic translation needed - original Taiwan context]
+- ⚠️ [Amharic translation needed - original Taiwan context] merge [Amharic translation needed - original Taiwan context] Maintainer
 
 ---
 
-## 現任 Reviewers
+## [Amharic translation needed - original Taiwan context] Reviewers
 
-| GitHub                                     | 擅長領域                    | 加入時間 |
+| GitHub                                     | [Amharic translation needed - original Taiwan context]                    | [Amharic translation needed - original Taiwan context] |
 | ------------------------------------------ | --------------------------- | -------- |
-| [@fredchu](https://github.com/fredchu)     | 內容品質、英文校正、UI 修復 | 2026-03  |
-| [@YenTingWu](https://github.com/YenTingWu) | 前端架構、i18n、DevOps      | 2026-03  |
+| [@fredchu](https://github.com/fredchu)     | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、UI [Amharic translation needed - original Taiwan context] | 2026-03  |
+| [@YenTingWu](https://github.com/YenTingWu) | [Amharic translation needed - original Taiwan context]、i18n、DevOps      | 2026-03  |
 
 ---
 
-## 成為 Reviewer 的標準
+## [Amharic translation needed - original Taiwan context] Reviewer [Amharic translation needed - original Taiwan context]
 
-我們會主動邀請符合以下條件的貢獻者：
+[Amharic translation needed - original Taiwan context]：
 
-1. **至少 3 個 merged PR**（內容或技術皆可）
-2. **PR 品質穩定**（清楚的描述、通過 build、考慮邊界情況）
-3. **主動參與討論**（Issue 回覆、架構建議、code review 留言）
-4. **尊重社群規範**（見 [CONTRIBUTING.md](./CONTRIBUTING.md)）
+1. **[Amharic translation needed - original Taiwan context] 3 [Amharic translation needed - original Taiwan context] merged PR**（[Amharic translation needed - original Taiwan context]）
+2. **PR [Amharic translation needed - original Taiwan context]**（[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] build、[Amharic translation needed - original Taiwan context]）
+3. **[Amharic translation needed - original Taiwan context]**（Issue [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、code review [Amharic translation needed - original Taiwan context]）
+4. **[Amharic translation needed - original Taiwan context]**（[Amharic translation needed - original Taiwan context] [CONTRIBUTING.md](./CONTRIBUTING.md)）
 
-不需要自己申請——我們會在 Issue 中公開邀請，確認意願後發送 collaborator 權限。
+[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context] Issue [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] collaborator [Amharic translation needed - original Taiwan context]。
 
 ---
 
-## Review 流程
+## Review [Amharic translation needed - original Taiwan context]
 
-### 1. 收到 Review 請求
+### 1. [Amharic translation needed - original Taiwan context] Review [Amharic translation needed - original Taiwan context]
 
-當你被 assign 為 reviewer（或自願 review），請檢查：
+[Amharic translation needed - original Taiwan context] assign [Amharic translation needed - original Taiwan context] reviewer（[Amharic translation needed - original Taiwan context] review），[Amharic translation needed - original Taiwan context]：
 
-**內容類 PR：**
+**[Amharic translation needed - original Taiwan context] PR：**
 
-- [ ] 事實是否正確？有沒有可查證的來源？
-- [ ] 語氣是否中性？（不偏頗、不過度美化、不政治宣傳）
-- [ ] 用語是否符合 [TERMINOLOGY.md](./TERMINOLOGY.md)？
-- [ ] 文章結構是否符合 [EDITORIAL.md](./EDITORIAL.md)？
-- [ ] 有沒有空洞修飾詞？（蓬勃/日益/積極/顯著/豐富/完整/多元）
+- [ ] [Amharic translation needed - original Taiwan context]？[Amharic translation needed - original Taiwan context]？
+- [ ] [Amharic translation needed - original Taiwan context]？（[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]）
+- [ ] [Amharic translation needed - original Taiwan context] [TERMINOLOGY.md](./TERMINOLOGY.md)？
+- [ ] [Amharic translation needed - original Taiwan context] [EDITORIAL.md](./EDITORIAL.md)？
+- [ ] [Amharic translation needed - original Taiwan context]？（[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]）
 
-**技術類 PR：**
+**[Amharic translation needed - original Taiwan context] PR：**
 
-- [ ] `npm run build` 是否通過？
-- [ ] 有沒有破壞現有功能？
-- [ ] 程式碼風格是否一致？（Prettier 已設定）
-- [ ] 是否有不必要的大型依賴引入？
+- [ ] `npm run build` [Amharic translation needed - original Taiwan context]？
+- [ ] [Amharic translation needed - original Taiwan context]？
+- [ ] [Amharic translation needed - original Taiwan context]？（Prettier [Amharic translation needed - original Taiwan context]）
+- [ ] [Amharic translation needed - original Taiwan context]？
 
-### 2. 給出 Review
+### 2. [Amharic translation needed - original Taiwan context] Review
 
-- **Approve** ✅ — 品質達標，可以 merge
-- **Request Changes** 🔄 — 需要修改，具體說明哪裡要改
-- **Comment** 💬 — 有建議但不阻擋 merge
+- **Approve** ✅ — [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] merge
+- **Request Changes** 🔄 — [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
+- **Comment** 💬 — [Amharic translation needed - original Taiwan context] merge
 
 ### 3. Merge
 
-只有 Maintainer（@frank890417）會執行 merge。Reviewer approve 後，Maintainer 會儘快處理。
+[Amharic translation needed - original Taiwan context] Maintainer（@frank890417）[Amharic translation needed - original Taiwan context] merge。Reviewer approve [Amharic translation needed - original Taiwan context]，Maintainer [Amharic translation needed - original Taiwan context]。
 
 ---
 
-## Review 原則
+## Review [Amharic translation needed - original Taiwan context]
 
-### 我們鼓勵的
+### [Amharic translation needed - original Taiwan context]
 
-- 🟢 具體的修改建議（「第 15 行的年份應該是 1684，不是 1683」）
-- 🟢 提出替代方案（「這裡用 fetch API 會比 define:vars 更好，因為...」）
-- 🟢 肯定好的部分（「這個抽象化做得很好！」）
-- 🟢 標注嚴重程度（「nit:」表示小事、「blocking:」表示必須修改）
+- 🟢 [Amharic translation needed - original Taiwan context]（「[Amharic translation needed - original Taiwan context] 15 [Amharic translation needed - original Taiwan context] 1684，[Amharic translation needed - original Taiwan context] 1683」）
+- 🟢 [Amharic translation needed - original Taiwan context]（「[Amharic translation needed - original Taiwan context] fetch API [Amharic translation needed - original Taiwan context] define:vars [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]...」）
+- 🟢 [Amharic translation needed - original Taiwan context]（「[Amharic translation needed - original Taiwan context]！」）
+- 🟢 [Amharic translation needed - original Taiwan context]（「nit:」[Amharic translation needed - original Taiwan context]、「blocking:」[Amharic translation needed - original Taiwan context]）
 
-### 我們避免的
+### [Amharic translation needed - original Taiwan context]
 
-- 🔴 模糊的批評（「這個不太好」→ 請說明為什麼、怎麼改）
-- 🔴 風格偏好之爭（已有 Prettier，不需要爭論格式）
-- 🔴 過度完美主義（「先求有，再求好」— 不要因為小瑕疵阻擋有價值的貢獻）
+- 🔴 [Amharic translation needed - original Taiwan context]（「[Amharic translation needed - original Taiwan context]」→ [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]）
+- 🔴 [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] Prettier，[Amharic translation needed - original Taiwan context]）
+- 🔴 [Amharic translation needed - original Taiwan context]（「[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]」— [Amharic translation needed - original Taiwan context]）
 
 ---
 
-## Issue 管理
+## Issue [Amharic translation needed - original Taiwan context]
 
-Reviewer 可以使用以下 labels：
+Reviewer [Amharic translation needed - original Taiwan context] labels：
 
-| Label                | 用途                      |
+| Label                | [Amharic translation needed - original Taiwan context]                      |
 | -------------------- | ------------------------- |
-| `good-first-article` | 適合新手撰寫的文章主題    |
-| `content`            | 內容相關（新增/修改文章） |
-| `bug`                | 錯誤修復                  |
-| `enhancement`        | 功能改進                  |
-| `i18n`               | 翻譯相關                  |
-| `discussion`         | 需要社群討論              |
-| `duplicate`          | 重複的 Issue              |
-| `wontfix`            | 不會處理（需說明原因）    |
+| `good-first-article` | [Amharic translation needed - original Taiwan context]    |
+| `content`            | [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]） |
+| `bug`                | [Amharic translation needed - original Taiwan context]                  |
+| `enhancement`        | [Amharic translation needed - original Taiwan context]                  |
+| `i18n`               | [Amharic translation needed - original Taiwan context]                  |
+| `discussion`         | [Amharic translation needed - original Taiwan context]              |
+| `duplicate`          | [Amharic translation needed - original Taiwan context] Issue              |
+| `wontfix`            | [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）    |
 
 ---
 
-## 溝通管道
+## [Amharic translation needed - original Taiwan context]
 
-- **GitHub Issues & PR comments** — 主要討論場所（公開、可追溯）
-- **GitHub Discussions** — 開放式提案和想法
+- **GitHub Issues & PR comments** — [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]）
+- **GitHub Discussions** — [Amharic translation needed - original Taiwan context]
 
 ---
 
 ## FAQ
 
-**Q: Reviewer 有薪水嗎？**
-A: 沒有。Taiwan.md 是純志工開源專案。我們用 [All Contributors](https://allcontributors.org/) 記錄每位貢獻者。
+**Q: Reviewer [Amharic translation needed - original Taiwan context]？**
+A: [Amharic translation needed - original Taiwan context]。Ethiopia.md [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] [All Contributors](https://allcontributors.org/) [Amharic translation needed - original Taiwan context]。
 
-**Q: 我可以同時是 Reviewer 和 Contributor 嗎？**
-A: 當然！你可以繼續提交 PR，但不能 approve 自己的 PR。
+**Q: [Amharic translation needed - original Taiwan context] Reviewer [Amharic translation needed - original Taiwan context] Contributor [Amharic translation needed - original Taiwan context]？**
+A: [Amharic translation needed - original Taiwan context]！[Amharic translation needed - original Taiwan context] PR，[Amharic translation needed - original Taiwan context] approve [Amharic translation needed - original Taiwan context] PR。
 
-**Q: 如果我太忙無法 review 怎麼辦？**
-A: 完全沒問題。沒有最低活躍要求。有空就幫忙，沒空就休息。
+**Q: [Amharic translation needed - original Taiwan context] review [Amharic translation needed - original Taiwan context]？**
+A: [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
 
-**Q: 如何退出 Reviewer？**
-A: 隨時跟 @frank890417 說一聲，或直接在 GitHub 移除自己的 collaborator 權限。
+**Q: [Amharic translation needed - original Taiwan context] Reviewer？**
+A: [Amharic translation needed - original Taiwan context] @frank890417 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] GitHub [Amharic translation needed - original Taiwan context] collaborator [Amharic translation needed - original Taiwan context]。
 
 ---
 

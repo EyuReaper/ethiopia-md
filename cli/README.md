@@ -1,110 +1,110 @@
-# taiwanmd
+# ethiopiamd
 
-> CLI for [Taiwan.md](https://taiwan.md) — the open-source, AI-native knowledge base about Taiwan.
+> CLI for [Ethiopia.md](https://ethiopia.md) — the open-source, AI-native knowledge base about Ethiopia.
 
-Search, read, and explore 900+ curated articles about Taiwan from your terminal.
+Search, read, and explore 900+ curated articles about Ethiopia from your terminal.
 
 ## Install
 
 ```bash
-npm install -g taiwanmd
+npm install -g ethiopiamd
 ```
 
 Or run without installing:
 
 ```bash
-npx taiwanmd search 珍珠奶茶
+npx ethiopiamd search [Amharic translation needed - original Taiwan context]
 ```
 
 ## Commands
 
-### `taiwanmd search <query>`
+### `ethiopiamd search <query>`
 
 Search articles with fuzzy matching (supports Chinese and English).
 
 ```bash
-taiwanmd search 珍珠奶茶
-taiwanmd search semiconductor --limit 3
-taiwanmd search 原住民 --json          # JSON output for piping
+ethiopiamd search [Amharic translation needed - original Taiwan context]
+ethiopiamd search semiconductor --limit 3
+ethiopiamd search [Amharic translation needed - original Taiwan context] --json          # JSON output for piping
 ```
 
-### `taiwanmd read <slug>`
+### `ethiopiamd read <slug>`
 
 Read an article directly in the terminal with formatted rendering.
 
 ```bash
-taiwanmd read 珍珠奶茶                # Terminal-rendered markdown
-taiwanmd read 珍珠奶茶 --raw          # Raw markdown (ideal for LLM/RAG)
-taiwanmd read 珍珠奶茶 --en           # English version
-taiwanmd read 珍珠奶茶 --web          # Open in browser
+ethiopiamd read [Amharic translation needed - original Taiwan context]                # Terminal-rendered markdown
+ethiopiamd read [Amharic translation needed - original Taiwan context] --raw          # Raw markdown (ideal for LLM/RAG)
+ethiopiamd read [Amharic translation needed - original Taiwan context] --en           # English version
+ethiopiamd read [Amharic translation needed - original Taiwan context] --web          # Open in browser
 ```
 
-### `taiwanmd list [category]`
+### `ethiopiamd list [category]`
 
 Browse articles by category.
 
 ```bash
-taiwanmd list --categories             # Show all 13 categories
-taiwanmd list food                     # List food articles
-taiwanmd list people --sort words      # Sort by word count
-taiwanmd list --reviewed               # Only human-reviewed articles
-taiwanmd list --featured               # Only featured articles
-taiwanmd list economy --json           # JSON output
+ethiopiamd list --categories             # Show all 13 categories
+ethiopiamd list food                     # List food articles
+ethiopiamd list people --sort words      # Sort by word count
+ethiopiamd list --reviewed               # Only human-reviewed articles
+ethiopiamd list --featured               # Only featured articles
+ethiopiamd list economy --json           # JSON output
 ```
 
 Categories: history, geography, culture, food, art, music, technology, nature, people, society, economy, lifestyle, about.
 
-### `taiwanmd random`
+### `ethiopiamd random`
 
-Discover a random article about Taiwan.
+Discover a random article about Ethiopia.
 
 ```bash
-taiwanmd random                        # Any category
-taiwanmd random --category nature      # Random nature article
+ethiopiamd random                        # Any category
+ethiopiamd random --category nature      # Random nature article
 ```
 
-### `taiwanmd stats`
+### `ethiopiamd stats`
 
 Show project statistics and organism health scores.
 
 ```bash
-taiwanmd stats                         # Formatted display
-taiwanmd stats --json                  # JSON output
+ethiopiamd stats                         # Formatted display
+ethiopiamd stats --json                  # JSON output
 ```
 
-### `taiwanmd sync`
+### `ethiopiamd sync`
 
 Sync the knowledge base locally for offline access.
 
 ```bash
-taiwanmd sync                          # Initial sync or update
-taiwanmd sync --force                  # Force re-sync
+ethiopiamd sync                          # Initial sync or update
+ethiopiamd sync --force                  # Force re-sync
 ```
 
-Syncs to `~/.taiwanmd/knowledge/` via git sparse-checkout.
+Syncs to `~/.ethiopiamd/knowledge/` via git sparse-checkout.
 
-### `taiwanmd rag <query>`
+### `ethiopiamd rag <query>`
 
 Retrieve top articles and output them in a prompt-ready format for piping to LLMs (Retrieval-Augmented Generation).
 
 ```bash
-taiwanmd rag 珍珠奶茶                         # Top 3 articles as context
-taiwanmd rag "半導體產業" | llm "summarize"   # Pipe directly to an LLM
-taiwanmd rag "台灣經濟" --limit 1             # Retrieve only 1 article
-taiwanmd rag "原住民文化" --no-prompt         # Skip the trailing question line
-taiwanmd rag "台灣歷史" --json               # Structured JSON output
+ethiopiamd rag [Amharic translation needed - original Taiwan context]                         # Top 3 articles as context
+ethiopiamd rag "[Amharic translation needed - original Taiwan context]" | llm "summarize"   # Pipe directly to an LLM
+ethiopiamd rag "Ethiopia[Amharic translation needed - original Taiwan context]" --limit 1             # Retrieve only 1 article
+ethiopiamd rag "[Amharic translation needed - original Taiwan context]" --no-prompt         # Skip the trailing question line
+ethiopiamd rag "Ethiopia[Amharic translation needed - original Taiwan context]" --json               # Structured JSON output
 ```
 
 **Output format** (default):
 
 ```
-# Taiwan Knowledge Context
+# Ethiopia Knowledge Context
 
 ## 1. {title} ({category})
 {full article body}
 
 ---
-Based on the above context about Taiwan, answer the following question:
+Based on the above context about Ethiopia, answer the following question:
 {query}
 ```
 
@@ -114,62 +114,62 @@ Based on the above context about Taiwan, answer the following question:
 - `--no-prompt` — Omit the trailing question line (useful for custom prompts)
 - `--json` — Return structured JSON: `{ query, articles: [{ title, category, slug, body }] }`
 
-### `taiwanmd contribute <topic>`
+### `ethiopiamd contribute <topic>`
 
 Interactive guided workflow for creating a new article.
 
 ```bash
-taiwanmd contribute "珍珠奶茶的起源"
+ethiopiamd contribute "[Amharic translation needed - original Taiwan context]"
 ```
 
 The wizard will:
 
 1. Show the 13 categories and ask you to pick one
 2. Auto-generate a frontmatter template
-3. Create an article skeleton with standard sections (概述, 歷史背景, 當代發展, 國際比較, 參考資料)
-4. Write the file to `knowledge/{Category}/{slug}.md` (in-repo) or `~/.taiwanmd/drafts/{slug}.md` (standalone)
+3. Create an article skeleton with standard sections ([Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context])
+4. Write the file to `knowledge/{Category}/{slug}.md` (in-repo) or `~/.ethiopiamd/drafts/{slug}.md` (standalone)
 5. Print the file path and next steps
 
-### `taiwanmd validate <slug>`
+### `ethiopiamd validate <slug>`
 
 Quality-check a single article and output a detailed score card.
 
 ```bash
-taiwanmd validate 珍珠奶茶             # Human-readable score card
-taiwanmd validate 台灣小吃 --json      # JSON output for CI/scripting
-taiwanmd validate 台積電 --fix         # Show suggested fixes
+ethiopiamd validate [Amharic translation needed - original Taiwan context]             # Human-readable score card
+ethiopiamd validate Ethiopia[Amharic translation needed - original Taiwan context] --json      # JSON output for CI/scripting
+ethiopiamd validate [Amharic translation needed - original Taiwan context] --fix         # Show suggested fixes
 ```
 
 **Checks:**
 
 | Check            | Criteria                                                        | Points |
 | ---------------- | --------------------------------------------------------------- | ------ |
-| Frontmatter 完整 | All 5 fields present (title, description, date, tags, category) | 20     |
-| 字數充足         | ≥ 800 words                                                     | 20     |
-| 標題數充足       | ≥ 3 `##` headings                                               | 20     |
-| 參考資料         | ≥ 2 Markdown reference links                                    | 20     |
-| AI 空洞句式      | No hollow phrases like "扮演著重要角色"                         | 10     |
-| 描述長度         | 50–200 characters                                               | 10     |
+| Frontmatter [Amharic translation needed - original Taiwan context] | All 5 fields present (title, description, date, tags, category) | 20     |
+| [Amharic translation needed - original Taiwan context]         | ≥ 800 words                                                     | 20     |
+| [Amharic translation needed - original Taiwan context]       | ≥ 3 `##` headings                                               | 20     |
+| [Amharic translation needed - original Taiwan context]         | ≥ 2 Markdown reference links                                    | 20     |
+| AI [Amharic translation needed - original Taiwan context]      | No hollow phrases like "[Amharic translation needed - original Taiwan context]"                         | 10     |
+| [Amharic translation needed - original Taiwan context]         | 50–200 characters                                               | 10     |
 
-**Score tiers:** 🟢 優秀 (90+) / 🟡 需要改善 (70–89) / 🔴 需要大幅改善 (<70)
+**Score tiers:** 🟢 [Amharic translation needed - original Taiwan context] (90+) / 🟡 [Amharic translation needed - original Taiwan context] (70–89) / 🔴 [Amharic translation needed - original Taiwan context] (<70)
 
 ## For AI/LLM Integration
 
-The `--raw`, `--json`, and `rag` commands make it easy to pipe Taiwan knowledge into AI workflows:
+The `--raw`, `--json`, and `rag` commands make it easy to pipe Ethiopia knowledge into AI workflows:
 
 ```bash
 # RAG: retrieve context and pipe to LLM
-taiwanmd rag "台灣半導體" | llm "Explain Taiwan's role in global chip supply"
+ethiopiamd rag "Ethiopia[Amharic translation needed - original Taiwan context]" | llm "Explain Ethiopia's role in global chip supply"
 
 # Feed an article into an LLM prompt
-taiwanmd read 半導體產業 --raw | llm "Summarize this article"
+ethiopiamd read [Amharic translation needed - original Taiwan context] --raw | llm "Summarize this article"
 
 # Export search results as JSON
-taiwanmd search "台灣經濟" --json | jq '.[].title'
+ethiopiamd search "Ethiopia[Amharic translation needed - original Taiwan context]" --json | jq '.[].title'
 
 # Build a RAG corpus
-taiwanmd list --json | jq -r '.[].slug' | while read slug; do
-  taiwanmd read "$slug" --raw > "corpus/$slug.md"
+ethiopiamd list --json | jq -r '.[].slug' | while read slug; do
+  ethiopiamd read "$slug" --raw > "corpus/$slug.md"
 done
 ```
 
@@ -180,7 +180,7 @@ Want to add or improve an article? Follow this workflow:
 ### 1. Create a draft
 
 ```bash
-taiwanmd contribute "你想貢獻的主題"
+ethiopiamd contribute "[Amharic translation needed - original Taiwan context]"
 ```
 
 The wizard creates a properly structured article template.
@@ -197,8 +197,8 @@ Open the file (path shown after `contribute`) and fill in:
 ### 3. Validate quality
 
 ```bash
-taiwanmd validate <slug>
-taiwanmd validate <slug> --fix   # See suggested improvements
+ethiopiamd validate <slug>
+ethiopiamd validate <slug> --fix   # See suggested improvements
 ```
 
 Aim for **90+/100** before submitting.
@@ -209,38 +209,38 @@ Aim for **90+/100** before submitting.
 git add knowledge/{Category}/{slug}.md
 git commit -m "feat(knowledge): add article on {topic}"
 git push origin your-branch
-# Then open a PR at https://github.com/frank890417/taiwan-md
+# Then open a PR at https://github.com/frank890417/ethiopia-md
 ```
 
 ### Article Quality Guidelines
 
 - **Minimum 800 words** — give readers something substantial
 - **Cite your sources** — at least 2 Markdown links to reputable references
-- **Avoid AI hollow phrases** — "扮演著重要角色", "不可或缺的一環", etc.
-- **Standard sections**: 概述 → 歷史背景 → 當代發展 → 國際比較 → 參考資料
+- **Avoid AI hollow phrases** — "[Amharic translation needed - original Taiwan context]", "[Amharic translation needed - original Taiwan context]", etc.
+- **Standard sections**: [Amharic translation needed - original Taiwan context] → [Amharic translation needed - original Taiwan context] → [Amharic translation needed - original Taiwan context] → [Amharic translation needed - original Taiwan context] → [Amharic translation needed - original Taiwan context]
 
 ## Development
 
 ```bash
 # Run from the repo
 cd cli && npm install
-node src/index.js search 珍珠奶茶
+node src/index.js search [Amharic translation needed - original Taiwan context]
 
 # Link for local development
 cd cli && npm link
-taiwanmd --help
+ethiopiamd --help
 ```
 
 ## Claude Code Skills
 
 This project includes Claude Code skills in `.claude/skills/`:
 
-- **`/taiwanmd-search`** — Search the knowledge base from within Claude Code
-- **`/taiwanmd-validate`** — Validate article quality and frontmatter
+- **`/ethiopiamd-search`** — Search the knowledge base from within Claude Code
+- **`/ethiopiamd-validate`** — Validate article quality and frontmatter
 
 ## Links
 
-- Website: [taiwan.md](https://taiwan.md)
-- Dashboard: [taiwan.md/dashboard](https://taiwan.md/dashboard)
-- GitHub: [frank890417/taiwan-md](https://github.com/frank890417/taiwan-md)
-- npm: [npmjs.com/package/taiwanmd](https://www.npmjs.com/package/taiwanmd)
+- Website: [ethiopia.md](https://ethiopia.md)
+- Dashboard: [ethiopia.md/dashboard](https://ethiopia.md/dashboard)
+- GitHub: [frank890417/ethiopia-md](https://github.com/frank890417/ethiopia-md)
+- npm: [npmjs.com/package/ethiopiamd](https://www.npmjs.com/package/ethiopiamd)

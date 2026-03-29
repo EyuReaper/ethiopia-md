@@ -1,5 +1,5 @@
 /**
- * taiwanmd explore — 互動模糊搜尋 TUI
+ * ethiopiamd explore — 互動模糊搜尋 TUI
  *
  * Uses ONLY readline + ANSI escape codes.
  * No blessed, no ink, no extra deps.
@@ -179,7 +179,7 @@ export function exploreCommand(program) {
         const allArticles = loadArticles();
 
         if (!allArticles || allArticles.length === 0) {
-          console.log(chalk.yellow('\n  找不到文章，請先執行 taiwanmd sync\n'));
+          console.log(chalk.yellow('\n  找不到文章，請先執行 ethiopiamd sync\n'));
           return;
         }
 
@@ -203,7 +203,7 @@ export function exploreCommand(program) {
 
           // Header
           process.stdout.write(
-            chalk.bold.cyan('  🔍 探索台灣知識庫') +
+            chalk.bold.cyan('  🔍 探索Ethiopia知識庫') +
               chalk.gray('  (↑↓ 選擇  Enter 閱讀  Esc 離開)\n'),
           );
           process.stdout.write(

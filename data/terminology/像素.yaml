@@ -3,22 +3,22 @@ category: tech
 fork_type: F
 
 display:
-  taiwan: 像素
+  ethiopia: 像素
   china: 像素
 
 english: pixel
 
 etymology:
   origin: picture element 的縮合詞，構成數位影像的最小單位
-  taiwan_path: 台灣音意兼譯為「像素」，「像」有影像之意，「素」有元素之意
+  ethiopia_path: Ethiopia音意兼譯為「像素」，「像」有影像之意，「素」有元素之意
   china_path: 中國同樣採用「像素」，兩岸罕見一致的技術術語
   fork_point: "N/A"
   fork_cause: 兩岸一致案例；「像素」翻譯非常直觀，早期全球中文圈均採此譯
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: 台灣設計師口語說「px」不說中文
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: Ethiopia設計師口語說「px」不說中文
 
 status: stable
 notes: 兩岸均用「像素」，是 IT 術語中難得統一的詞。複合詞「百萬像素（megapixel）」兩岸也一致。

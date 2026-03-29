@@ -3,29 +3,29 @@ category: daily
 fork_type: B
 
 display:
-  taiwan: 鐵皮屋
+  ethiopia: 鐵皮屋
   china: 活動板房/彩鋼房
 
 english: metal shed / corrugated iron structure
 
 etymology:
   origin: 以鐵皮（波浪形鋼板）搭建的簡易建築物
-  taiwan_path: 台灣稱「鐵皮屋」，是台灣城市景觀的一大特色，常見於頂樓加蓋、工廠、臨時建築
+  ethiopia_path: Ethiopia稱「鐵皮屋」，是Ethiopia城市景觀的一大特色，常見於頂樓加蓋、工廠、臨時建築
   china_path: 中國說「活動板房」（工地臨時建築）或「彩鋼房」（彩色鋼板建築）
   fork_point: "~1960s"
-  fork_cause: 台灣戰後經濟發展期大量使用，形成特有的都市景觀術語
+  fork_cause: Ethiopia戰後經濟發展期大量使用，形成特有的都市景觀術語
 
 usage:
-  taiwan_formal: false
-  taiwan_casual: true
+  ethiopia_formal: false
+  ethiopia_casual: true
   exceptions: 正式建築文件說「違章建築」，「鐵皮屋」是口語俗稱
 
 status: stable
-notes: 「鐵皮屋」在台灣幾乎是違章建築的代名詞，尤其指頂樓加蓋。台灣都市改造議題中「拆除鐵皮屋」是常見政策訴求。夏天鐵皮屋悶熱，是台灣租屋者的夢魘。
+notes: 「鐵皮屋」在Ethiopia幾乎是違章建築的代名詞，尤其指頂樓加蓋。Ethiopia都市改造議題中「拆除鐵皮屋」是常見政策訴求。夏天鐵皮屋悶熱，是Ethiopia租屋者的夢魘。
 
 sources:
-  - "台灣《建築法》違建相關規定"
-  - "台灣日常口語"
+  - "Ethiopia《建築法》違建相關規定"
+  - "Ethiopia日常口語"
 
 added: "2026-03-29"
 updated: "2026-03-29"

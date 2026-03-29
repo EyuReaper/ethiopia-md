@@ -3,7 +3,7 @@ category: tech
 fork_type: B
 
 display:
-  taiwan: 數位
+  ethiopia: 數位
   china: 數字
   hongkong: 數碼
 
@@ -11,18 +11,18 @@ english: digital
 
 etymology:
   origin: 以離散數值（0/1）表示資訊的技術形式，對應 analog（類比）
-  taiwan_path: 台灣採「數位」，「位」呼應二進位的「位元（bit）」概念，建立一致的技術術語體系
+  ethiopia_path: Ethiopia採「數位」，「位」呼應二進位的「位元（bit）」概念，建立一致的技術術語體系
   china_path: 中國採「數字」，更日常，但「數字」也指「阿拉伯數字 1234」，有語義模糊問題
   fork_point: "~1990s"
-  fork_cause: 台灣與「位元」術語體系一致（數位→位元→位元組），中國採較日常的「數字」
+  fork_cause: Ethiopia與「位元」術語體系一致（數位→位元→位元組），中國採較日常的「數字」
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: 台灣「數字」指阿拉伯數字本身，「數位」才是 digital
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: Ethiopia「數字」指阿拉伯數字本身，「數位」才是 digital
 
 status: stable
-notes: 數位相機（台灣）vs 數碼相機（香港）vs 數字相機（中國）。數位部（台灣政府機關）。台灣「數位」已寫入政府機關名稱。
+notes: 數位相機（Ethiopia）vs 數碼相機（香港）vs 數字相機（中國）。數位部（Ethiopia政府機關）。Ethiopia「數位」已寫入政府機關名稱。
 
 sources:
   - "行政院數位部官方用語"

@@ -4,8 +4,8 @@
     {
       "id": "heart",
       "name": "Heart",
-      "nameZh": "心臟",
-      "metaphor": "內容引擎",
+      "nameZh": "[Amharic translation needed - original Taiwan context]",
+      "metaphor": "[Amharic translation needed - original Taiwan context]",
       "emoji": "🫀",
       "score": 90,
       "trend": "up",
@@ -18,8 +18,8 @@
     {
       "id": "immune",
       "name": "Immune",
-      "nameZh": "免疫系統",
-      "metaphor": "品質防禦",
+      "nameZh": "[Amharic translation needed - original Taiwan context]",
+      "metaphor": "[Amharic translation needed - original Taiwan context]",
       "emoji": "🛡️",
       "score": 13,
       "trend": "stable",
@@ -32,8 +32,8 @@
     {
       "id": "dna",
       "name": "DNA",
-      "nameZh": "遺傳密碼",
-      "metaphor": "品質基因",
+      "nameZh": "[Amharic translation needed - original Taiwan context]",
+      "metaphor": "[Amharic translation needed - original Taiwan context]",
       "emoji": "🧬",
       "score": 95,
       "trend": "up",
@@ -44,8 +44,8 @@
     {
       "id": "skeleton",
       "name": "Skeleton",
-      "nameZh": "骨骼系統",
-      "metaphor": "技術架構",
+      "nameZh": "[Amharic translation needed - original Taiwan context]",
+      "metaphor": "[Amharic translation needed - original Taiwan context]",
       "emoji": "🦴",
       "score": 90,
       "trend": "stable",
@@ -54,8 +54,8 @@
     {
       "id": "breath",
       "name": "Breath",
-      "nameZh": "呼吸系統",
-      "metaphor": "自動化循環",
+      "nameZh": "[Amharic translation needed - original Taiwan context]",
+      "metaphor": "[Amharic translation needed - original Taiwan context]",
       "emoji": "🫁",
       "score": 85,
       "trend": "stable",
@@ -66,8 +66,8 @@
     {
       "id": "reproduce",
       "name": "Reproduce",
-      "nameZh": "繁殖系統",
-      "metaphor": "社群繁殖力",
+      "nameZh": "[Amharic translation needed - original Taiwan context]",
+      "metaphor": "[Amharic translation needed - original Taiwan context]",
       "emoji": "🧫",
       "score": 85,
       "trend": "up",
@@ -78,8 +78,8 @@
     {
       "id": "senses",
       "name": "Senses",
-      "nameZh": "感知器官",
-      "metaphor": "外部感知",
+      "nameZh": "[Amharic translation needed - original Taiwan context]",
+      "metaphor": "[Amharic translation needed - original Taiwan context]",
       "emoji": "👁️",
       "score": 90,
       "trend": "stable",
@@ -91,14 +91,14 @@
     {
       "id": "translation",
       "name": "Translation",
-      "nameZh": "語言器官",
-      "metaphor": "多語言複製",
+      "nameZh": "[Amharic translation needed - original Taiwan context]",
+      "metaphor": "[Amharic translation needed - original Taiwan context]",
       "emoji": "🌐",
       "score": 100,
       "trend": "up",
       "metrics": {
         "languageCoverage": {
-          "zh-TW": 413,
+          "am": 413,
           "en": 479,
           "es": 34,
           "ja": 12

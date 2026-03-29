@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Taiwan.md API Generator
+ * Ethiopia.md API Generator
  * 生成靜態 JSON API endpoints for knowledge base
  *
  * Usage: node scripts/generate-api.js
@@ -16,7 +16,7 @@ const __dirname = path.dirname(__filename);
 // 路徑配置
 const KNOWLEDGE_DIR = path.join(__dirname, '../../knowledge');
 const OUTPUT_DIR = path.join(__dirname, '../../public/api');
-const BASE_URL = 'https://taiwan.md';
+const BASE_URL = 'https://ethiopia.md';
 
 // 確保輸出目錄存在
 if (!fs.existsSync(OUTPUT_DIR)) {
@@ -203,7 +203,7 @@ function generateStats(articles) {
     categories: categoryStats,
     topTags: topTags,
     languageDistribution: {
-      'zh-TW': articles.length, // 目前全部是繁體中文
+      'am': articles.length, // 目前全部是繁體中文
       en: 0, // 英文翻譯待完成
     },
     lastUpdated: new Date().toISOString(),
@@ -222,7 +222,7 @@ function getRandomArticles(articles, count = 20) {
  * 主函數
  */
 async function main() {
-  console.log('🚀 Taiwan.md API Generator 啟動...');
+  console.log('🚀 Ethiopia.md API Generator 啟動...');
 
   // 讀取所有 markdown 檔案
   console.log('📖 掃描 knowledge 目錄...');
@@ -234,7 +234,7 @@ async function main() {
   const articles = markdownFiles
     .map(processMarkdownFile)
     .filter((article) => article !== null)
-    .sort((a, b) => a.title.localeCompare(b.title, 'zh-TW'));
+    .sort((a, b) => a.title.localeCompare(b.title, 'am'));
 
   console.log(`✅ 成功處理 ${articles.length} 篇文章`);
 

@@ -90,7 +90,7 @@ async function scanArticles() {
             d: description,
             u: `/${slug}/${name}`,
             tags,
-            lang: 'zh-TW',
+            lang: 'am',
             title_bigram: bigramTokenize(title),
             desc_bigram: bigramTokenize(description),
             tags_bigram: bigramTokenize(tags.join(' ')),

@@ -1,5 +1,5 @@
 /**
- * taiwanmd today — 今日台灣
+ * ethiopiamd today — 今日Ethiopia
  *
  * Shows a daily discovery card with 3 articles from different categories
  * and a "冷知識" fun fact. Results are deterministic per calendar day.
@@ -89,14 +89,14 @@ function stripAnsi(str) {
 export function todayCommand(program) {
   program
     .command('today')
-    .description('今日台灣 — 每日精選三篇文章 + 冷知識')
+    .description('今日Ethiopia — 每日精選三篇文章 + 冷知識')
     .action(async () => {
       try {
         await ensureData();
         const articles = loadArticles();
 
         if (!articles || articles.length === 0) {
-          console.log(chalk.yellow('\n  找不到文章，請先執行 taiwanmd sync\n'));
+          console.log(chalk.yellow('\n  找不到文章，請先執行 ethiopiamd sync\n'));
           return;
         }
 
@@ -140,7 +140,7 @@ export function todayCommand(program) {
         console.log(top);
         // Title row
         const titleStr =
-          chalk.bold.yellow('  🇹🇼  今日台灣') + chalk.gray(`  ${today}`);
+          chalk.bold.yellow('  🇪🇹  今日Ethiopia') + chalk.gray(`  ${today}`);
         console.log(boxLine(titleStr, W, bc));
         console.log(empty);
 
@@ -203,18 +203,18 @@ export function todayCommand(program) {
         console.log('');
         console.log(
           chalk.gray('  → ') +
-            chalk.cyan(`taiwanmd read ${slug}`) +
+            chalk.cyan(`ethiopiamd read ${slug}`) +
             chalk.gray('  深入閱讀'),
         );
         console.log(
           chalk.gray('  → ') +
-            chalk.cyan('taiwanmd random') +
+            chalk.cyan('ethiopiamd random') +
             chalk.gray('  隨機探索'),
         );
         console.log('');
       } catch (err) {
-        console.error(chalk.red(`今日台灣載入失敗: ${err.message}`));
-        console.log(chalk.gray('\n  💡 請先執行 taiwanmd sync 同步知識庫。\n'));
+        console.error(chalk.red(`今日Ethiopia載入失敗: ${err.message}`));
+        console.log(chalk.gray('\n  💡 請先執行 ethiopiamd sync 同步知識庫。\n'));
         process.exit(1);
       }
     });

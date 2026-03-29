@@ -4,7 +4,7 @@ interface Props {
   description?: string;
   image?: string;
   url?: string;
-  lang?: 'zh-TW' | 'en';
+  lang?: 'am' | 'en';
   type?: 'website' | 'article';
   datePublished?: string;
   dateModified?: string;
@@ -13,13 +13,13 @@ interface Props {
   category?: string;
 }
 
-const { lang = 'zh-TW' } = Astro.props;
+const { lang = 'am' } = Astro.props;
 const {
   title,
   description = lang === 'en'
-    ? 'The open-source, AI-friendly knowledge base about Taiwan. 660+ pages covering history, culture, food, music, technology and more — written by the community, for the world.'
-    : '開源、AI-friendly 的台灣完整知識庫。660+ 頁深度內容涵蓋歷史、文化、美食、音樂、科技等 12 大主題，由社群共同編撰，讓全世界認識真正的台灣。',
-  image = '/images/taiwan-social.jpg',
+    ? 'The open-source, AI-friendly knowledge base about Ethiopia. 660+ pages covering history, culture, food, music, technology and more — written by the community, for the world.'
+    : '[Amharic translation needed - original Taiwan context]、AI-friendly [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。660+ [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] 12 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia。',
+  image = '/images/ethiopia-social.jpg',
   url = Astro.url.href,
   type = 'website',
   datePublished,
@@ -29,8 +29,8 @@ const {
   category,
 } = Astro.props;
 
-const fullTitle = `${title} | Taiwan.md`;
-const siteUrl = 'https://taiwan.md';
+const fullTitle = `${title} | Ethiopia.md`;
+const siteUrl = 'https://ethiopia.md';
 const fullImageUrl = new URL(image, siteUrl).href;
 
 // Generate AI-friendly summary from description or content
@@ -71,16 +71,16 @@ const generateJSONLD = () => {
       description: description,
       author: {
         '@type': 'Organization',
-        name: 'Taiwan.md',
+        name: 'Ethiopia.md',
         url: siteUrl,
       },
       publisher: {
         '@type': 'Organization',
-        name: 'Taiwan.md',
+        name: 'Ethiopia.md',
         url: siteUrl,
         logo: {
           '@type': 'ImageObject',
-          url: `${siteUrl}/images/taiwan-social.jpg`,
+          url: `${siteUrl}/images/ethiopia-social.jpg`,
           width: 1200,
           height: 630,
         },
@@ -109,20 +109,20 @@ const generateJSONLD = () => {
     '@context': 'https://schema.org',
     '@type': 'WebSite',
     name:
-      lang === 'en' ? 'Taiwan.md — Knowledge Base' : 'Taiwan.md - 台灣知識庫',
+      lang === 'en' ? 'Ethiopia.md — Knowledge Base' : 'Ethiopia.md - Ethiopia[Amharic translation needed - original Taiwan context]',
     description:
       lang === 'en'
-        ? 'Open-source, AI-friendly knowledge base about Taiwan — politics, economy, culture, history, geography, and more.'
-        : '讓全世界完整認識台灣 - 開源台灣知識庫，蒐集關於台灣的政治、經濟、文化、歷史、地理等各方面知識。',
+        ? 'Open-source, AI-friendly knowledge base about Ethiopia — politics, economy, culture, history, geography, and more.'
+        : '[Amharic translation needed - original Taiwan context]Ethiopia - [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。',
     url: siteUrl,
     inLanguage: lang,
     publisher: {
       '@type': 'Organization',
-      name: 'Taiwan.md',
+      name: 'Ethiopia.md',
       url: siteUrl,
       logo: {
         '@type': 'ImageObject',
-        url: `${siteUrl}/images/taiwan-social.jpg`,
+        url: `${siteUrl}/images/ethiopia-social.jpg`,
         width: 1200,
         height: 630,
       },
@@ -136,9 +136,9 @@ const generateJSONLD = () => {
       'query-input': 'required name=search_term_string',
     },
     sameAs: [
-      'https://github.com/frank890417/taiwan-md',
-      'https://x.com/taiwandotmd',
-      'https://www.instagram.com/taiwandotmd',
+      'https://github.com/frank890417/ethiopia-md',
+      'https://x.com/ethiopiadotmd',
+      'https://www.instagram.com/ethiopiadotmd',
     ],
   };
 };
@@ -149,19 +149,19 @@ const jsonLD = generateJSONLD();
 const organizationLD = {
   '@context': 'https://schema.org',
   '@type': 'Organization',
-  name: 'Taiwan.md',
+  name: 'Ethiopia.md',
   url: siteUrl,
-  logo: `${siteUrl}/images/taiwan-social.jpg`,
+  logo: `${siteUrl}/images/ethiopia-social.jpg`,
   description:
     lang === 'en'
-      ? 'Open-source, AI-friendly knowledge base about Taiwan'
-      : '開源、AI-friendly 的台灣知識庫',
+      ? 'Open-source, AI-friendly knowledge base about Ethiopia'
+      : '[Amharic translation needed - original Taiwan context]、AI-friendly [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]',
   foundingDate: '2024',
   sameAs: [
-    'https://github.com/frank890417/taiwan-md',
-    'https://x.com/taiwandotmd',
-    'https://www.instagram.com/taiwandotmd',
-    'https://www.threads.com/@taiwandotmd',
+    'https://github.com/frank890417/ethiopia-md',
+    'https://x.com/ethiopiadotmd',
+    'https://www.instagram.com/ethiopiadotmd',
+    'https://www.threads.com/@ethiopiadotmd',
   ],
   contactPoint: {
     '@type': 'ContactPoint',
@@ -173,13 +173,13 @@ const organizationLD = {
 // Dynamic keywords
 const baseKeywords =
   lang === 'en'
-    ? 'Taiwan, knowledge base, Taiwan history, Taiwan culture, Taiwan politics, Taiwan economy'
-    : '台灣, Taiwan, 台灣知識庫, 台灣歷史, 台灣文化, 台灣政治, 台灣經濟';
+    ? 'Ethiopia, knowledge base, Ethiopia history, Ethiopia culture, Ethiopia politics, Ethiopia economy'
+    : 'Ethiopia, Ethiopia, Ethiopia[Amharic translation needed - original Taiwan context], Ethiopia[Amharic translation needed - original Taiwan context], Ethiopia[Amharic translation needed - original Taiwan context], Ethiopia[Amharic translation needed - original Taiwan context], Ethiopia[Amharic translation needed - original Taiwan context]';
 
 const categoryKeywords = category
   ? lang === 'en'
-    ? [`Taiwan ${category}`, `${category} Taiwan`]
-    : [`台灣${category}`, `${category}台灣`]
+    ? [`Ethiopia ${category}`, `${category} Ethiopia`]
+    : [`Ethiopia${category}`, `${category}Ethiopia`]
   : [];
 
 const dynamicKeywords = [
@@ -202,7 +202,7 @@ const generateBreadcrumbLD = () => {
     {
       '@type': 'ListItem',
       position: 1,
-      name: 'Taiwan.md',
+      name: 'Ethiopia.md',
       item: isEn ? `${siteUrl}/en` : siteUrl,
     },
   ];
@@ -276,7 +276,7 @@ const breadcrumbLD = generateBreadcrumbLD();
 <!-- Basic Meta Tags -->
 <meta name="description" content={description} />
 <meta name="keywords" content={dynamicKeywords} />
-<meta name="author" content="Taiwan.md" />
+<meta name="author" content="Ethiopia.md" />
 <meta name="generator" content="Astro" />
 <meta name="theme-color" content="#004d40" />
 <meta name="format-detection" content="telephone=no" />
@@ -297,8 +297,8 @@ const breadcrumbLD = generateBreadcrumbLD();
   rel="alternate"
   type="application/rss+xml"
   title={lang === 'en'
-    ? 'Taiwan.md RSS Feed (English)'
-    : 'Taiwan.md RSS 動態消息'}
+    ? 'Ethiopia.md RSS Feed (English)'
+    : 'Ethiopia.md RSS [Amharic translation needed - original Taiwan context]'}
   href={`${siteUrl}/feed.xml`}
 />
 
@@ -337,7 +337,7 @@ const breadcrumbLD = generateBreadcrumbLD();
 
     return (
       <>
-        <link rel="alternate" hreflang="zh-TW" href={zhHref} />
+        <link rel="alternate" hreflang="am" href={zhHref} />
         <link rel="alternate" hreflang="en" href={enHref} />
         <link rel="alternate" hreflang="x-default" href={zhHref} />
       </>
@@ -354,9 +354,9 @@ const breadcrumbLD = generateBreadcrumbLD();
 <meta property="og:image:width" content="1200" />
 <meta property="og:image:height" content="630" />
 <meta property="og:image:type" content="image/jpeg" />
-<meta property="og:image:alt" content={`${title} - Taiwan.md 台灣知識庫`} />
-<meta property="og:site_name" content="Taiwan.md — 台灣知識庫" />
-<meta property="og:locale" content={lang === 'zh-TW' ? 'zh_TW' : 'en_US'} />
+<meta property="og:image:alt" content={`${title} - Ethiopia.md Ethiopia[Amharic translation needed - original Taiwan context]`} />
+<meta property="og:site_name" content="Ethiopia.md — Ethiopia[Amharic translation needed - original Taiwan context]" />
+<meta property="og:locale" content={lang === 'am' ? 'zh_TW' : 'en_US'} />
 {
   datePublished && (
     <meta property="article:published_time" content={datePublished} />
@@ -380,7 +380,7 @@ const breadcrumbLD = generateBreadcrumbLD();
 <meta name="twitter:title" content={fullTitle} />
 <meta name="twitter:description" content={description} />
 <meta name="twitter:image" content={fullImageUrl} />
-<meta name="twitter:image:alt" content={`${title} - Taiwan.md 台灣知識庫`} />
+<meta name="twitter:image:alt" content={`${title} - Ethiopia.md Ethiopia[Amharic translation needed - original Taiwan context]`} />
 
 <!-- Additional SEO -->
 <meta name="robots" content="index, follow" />

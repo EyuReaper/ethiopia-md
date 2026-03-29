@@ -1,5 +1,5 @@
 /**
- * Frontmatter YAML validation for Taiwan.md
+ * Frontmatter YAML validation for Ethiopia.md
  *
  * Scans all .md files in knowledge/ and validates:
  * - YAML parses without error (gray-matter)
@@ -33,7 +33,7 @@ const CATEGORIES = [
   'Economy',
   'Lifestyle',
 ];
-const LANGS = ['', 'en', 'es', 'ja']; // '' = zh-TW root
+const LANGS = ['', 'en', 'es', 'ja']; // '' = am root
 
 const STRICT = process.argv.includes('--strict');
 const CI_MODE = process.argv.includes('--ci');

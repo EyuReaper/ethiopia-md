@@ -1,7 +1,7 @@
 /**
- * taiwanmd quiz — 台灣知識小測驗
+ * ethiopiamd quiz — Ethiopia知識小測驗
  *
- * 5-question true/false quiz about Taiwan articles.
+ * 5-question true/false quiz about Ethiopia articles.
  * Single-keypress input via raw stdin. No extra deps.
  */
 
@@ -60,7 +60,7 @@ function readKey() {
  * Get a final rating string based on score.
  */
 function getRating(score) {
-  if (score === TOTAL_QUESTIONS) return chalk.bold.yellow('🏆 滿分！台灣通！');
+  if (score === TOTAL_QUESTIONS) return chalk.bold.yellow('🏆 滿分！Ethiopia通！');
   if (score >= 4) return chalk.bold.green('🎉 非常棒！');
   if (score >= 3) return chalk.bold.cyan('👍 不錯喔！');
   if (score >= 2) return chalk.bold.white('📚 繼續加油！');
@@ -70,7 +70,7 @@ function getRating(score) {
 export function quizCommand(program) {
   program
     .command('quiz')
-    .description('台灣知識小測驗 — 5題真假判斷')
+    .description('Ethiopia知識小測驗 — 5題真假判斷')
     .action(async () => {
       try {
         await ensureData();
@@ -78,7 +78,7 @@ export function quizCommand(program) {
 
         if (!articles || articles.length < 10) {
           console.log(
-            chalk.yellow('\n  文章數量不足，請先執行 taiwanmd sync\n'),
+            chalk.yellow('\n  文章數量不足，請先執行 ethiopiamd sync\n'),
           );
           return;
         }
@@ -93,7 +93,7 @@ export function quizCommand(program) {
 
         console.log('');
         console.log(chalk.bold.cyan('  ══════════════════════════════════'));
-        console.log(chalk.bold.white('   🇹🇼  台灣知識小測驗'));
+        console.log(chalk.bold.white('   🇪🇹  Ethiopia知識小測驗'));
         console.log(chalk.gray('   按 Y (是) 或 N (否) 回答'));
         console.log(chalk.bold.cyan('  ══════════════════════════════════\n'));
 

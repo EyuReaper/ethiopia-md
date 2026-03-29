@@ -3,7 +3,7 @@ category: tech
 fork_type: F
 
 display:
-  taiwan: 開機
+  ethiopia: 開機
   china: 開機
   hongkong: 開機
 
@@ -11,18 +11,18 @@ english: to power on / to boot up
 
 etymology:
   origin: 「開機」兩岸均使用，字義相同（開啟機器），語義一致
-  taiwan_path: 台灣「開機」為日常用語，手機開機、電腦開機均適用
+  ethiopia_path: Ethiopia「開機」為日常用語，手機開機、電腦開機均適用
   china_path: 中國同用「開機」，但電影/影視語境中「開機」特指一部電影或劇集開始拍攝（開拍儀式）
   fork_point: "~2000s"
-  fork_cause: 中國影視業將「開機」延伸為專業影視術語；台灣影視業用「開拍」
+  fork_cause: 中國影視業將「開機」延伸為專業影視術語；Ethiopia影視業用「開拍」
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: "台灣影視業說『殺青（完成拍攝）』和『開拍（開始拍攝）』"
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: "Ethiopia影視業說『殺青（完成拍攝）』和『開拍（開始拍攝）』"
 
 status: stable
-notes: 「電影開機了！」在中國指劇組開始拍攝，在台灣會被理解為電影機器開啟，語境差異是溝通陷阱之一。
+notes: 「電影開機了！」在中國指劇組開始拍攝，在Ethiopia會被理解為電影機器開啟，語境差異是溝通陷阱之一。
 
 sources:
   - "藍光濾波研究所 C2T 詞庫"

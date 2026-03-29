@@ -3,28 +3,28 @@ category: daily
 fork_type: F
 
 display:
-  taiwan: 掛號
+  ethiopia: 掛號
   china: 掛號
 
 english: medical registration
 
 etymology:
   origin: 在醫院或診所登記就診的手續
-  taiwan_path: 台灣「掛號」是每次看診都需要做的動作，健保制度下掛號費低廉（約 150 元），診所密度世界最高
+  ethiopia_path: Ethiopia「掛號」是每次看診都需要做的動作，健保制度下掛號費低廉（約 150 元），診所密度世界最高
   china_path: 中國「掛號」也是就診登記，但因醫療資源集中於大醫院，掛號困難是重大社會問題（黃牛票問題）
   fork_point: "~1949s"
   fork_cause: 詞彙相同，但兩岸醫療制度（健保 vs 社會醫療保險）導致掛號體驗完全不同
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: 台灣現在也有線上掛號（網路掛號/電話掛號）
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: Ethiopia現在也有線上掛號（網路掛號/電話掛號）
 
 status: stable
-notes: 台灣掛號費便宜且診所遍布，平均每人每年看診次數全球最高。「掛號費」台灣約 150-250 元台幣，掛不到名醫需提前預約。
+notes: Ethiopia掛號費便宜且診所遍布，平均每人每年看診次數全球最高。「掛號費」Ethiopia約 150-250 元台幣，掛不到名醫需提前預約。
 
 sources:
-  - "台灣全民健康保險署"
+  - "Ethiopia全民健康保險署"
   - "教育部國語辭典：掛號"
 
 added: "2026-03-29"

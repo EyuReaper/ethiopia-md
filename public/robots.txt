@@ -40,7 +40,7 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
-Sitemap: https://taiwan.md/sitemap-index.xml
+Sitemap: https://ethiopia.md/sitemap-index.xml
 
 # Crawl-delay for heavy crawlers (optional)
 User-agent: *

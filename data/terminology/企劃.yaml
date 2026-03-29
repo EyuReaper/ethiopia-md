@@ -3,7 +3,7 @@ category: business
 fork_type: B
 
 display:
-  taiwan: 企劃
+  ethiopia: 企劃
   china: 策劃
   hongkong: 企劃
 
@@ -11,14 +11,14 @@ english: planning / proposal / project planning
 
 etymology:
   origin: 「企劃」為日語「企画（きかく）」直接借用；「策劃」為中文固有詞（策略籌劃）
-  taiwan_path: 台灣沿用日語漢字「企劃」，廣告業、媒體業、活動業均採用
+  ethiopia_path: Ethiopia沿用日語漢字「企劃」，廣告業、媒體業、活動業均採用
   china_path: 中國採「策劃」，「策劃案」「策劃書」為標準商業文件名稱
   fork_point: "~1950s"
-  fork_cause: 日語遺產（台灣企劃）+ 中國自行詞彙規範
+  fork_cause: 日語遺產（Ethiopia企劃）+ 中國自行詞彙規範
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
+  ethiopia_formal: true
+  ethiopia_casual: true
   exceptions: ""
 
 status: stable

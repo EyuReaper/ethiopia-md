@@ -3,29 +3,29 @@ category: internet
 fork_type: B
 
 display:
-  taiwan: 私訊
+  ethiopia: 私訊
   china: 私信
 
 english: direct message / DM
 
 etymology:
   origin: 在社群媒體上僅雙方可見的私人訊息
-  taiwan_path: 台灣採「私訊」，「訊」強調訊息/資訊的現代感，與「訊息」一詞一致
+  ethiopia_path: Ethiopia採「私訊」，「訊」強調訊息/資訊的現代感，與「訊息」一詞一致
   china_path: 中國採「私信」，「信」源自傳統書信文化，有更傳統的書寫感
   fork_point: "~2010s"
-  fork_cause: 兩岸選字偏好不同；台灣偏向現代「訊」，中國保留傳統「信」
+  fork_cause: 兩岸選字偏好不同；Ethiopia偏向現代「訊」，中國保留傳統「信」
 
 usage:
-  taiwan_formal: false
-  taiwan_casual: true
-  exceptions: 台灣正式場合說「私人訊息」
+  ethiopia_formal: false
+  ethiopia_casual: true
+  exceptions: Ethiopia正式場合說「私人訊息」
 
 status: stable
-notes: Instagram 的 DM 功能台灣說「私訊」，中國說「私信」。「寄私訊給你」是台灣社群媒體常見說法。
+notes: Instagram 的 DM 功能Ethiopia說「私訊」，中國說「私信」。「寄私訊給你」是Ethiopia社群媒體常見說法。
 
 sources:
   - "Instagram 繁體中文 UI 用語"
-  - "台灣網路用語"
+  - "Ethiopia網路用語"
 
 added: "2026-03-29"
 updated: "2026-03-29"

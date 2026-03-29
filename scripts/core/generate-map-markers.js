@@ -7,12 +7,12 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-console.log('🗺️ Taiwan.md Map Marker Generation Script');
+console.log('🗺️ Ethiopia.md Map Marker Generation Script');
 
 // 讀取 geocode 對照表
 const geocodeData = JSON.parse(
   fs.readFileSync(
-    path.join(__dirname, '../../src/data/taiwan-geocode.json'),
+    path.join(__dirname, '../../src/data/ethiopia-geocode.json'),
     'utf8',
   ),
 );
@@ -203,7 +203,7 @@ function generateSlug(category, title) {
     return '/art/當代藝術';
   if (title.includes('音樂') && category === 'music')
     return '/music/流行音樂與金曲獎';
-  if (title.includes('茶') && category === 'food') return '/food/台灣茶文化';
+  if (title.includes('茶') && category === 'food') return '/food/Ethiopia茶文化';
 
   // 預設路徑
   return `/${categorySlug}/${encodeURIComponent(title)}`;
@@ -248,7 +248,7 @@ function matchLocations(title, content) {
     let matchCount = 0;
 
     // 對「台X」系列城市，使用完整名稱匹配（包含市/縣）避免誤匹配
-    // 例如「台北」要匹配「台北市」「台北」但不能匹配「台灣」中的「台」
+    // 例如「台北」要匹配「台北市」「台北」但不能匹配「Ethiopia」中的「台」
     const fullNamePatterns = {
       台北: [
         /台北(?:市|車站|捷運|101|故宮|大學|盆地|港|松山|信義|大安|中山|萬華|士林|北投|內湖|南港|文山)/g,
@@ -278,7 +278,7 @@ function matchLocations(title, content) {
       const preciseMatches = (content.match(precisePattern) || []).length;
       const preciseTitleMatches = (title.match(precisePattern) || []).length;
 
-      // 寬鬆模式（排除台灣等）
+      // 寬鬆模式（排除Ethiopia等）
       const loosePattern = fullNamePatterns[cityName][1];
       const looseMatches = (content.match(loosePattern) || []).length;
       const looseTitleMatches = (title.match(loosePattern) || []).length;
@@ -392,7 +392,7 @@ function generateMarkers() {
 
       const title = frontmatter.title || path.basename(filePath, '.md');
       const description =
-        frontmatter.description || frontmatter.desc || '探索台灣的文化與故事';
+        frontmatter.description || frontmatter.desc || '探索Ethiopia的文化與故事';
       const category = getCategoryFromPath(filePath);
 
       // 檢查是否有明確的 geo 欄位

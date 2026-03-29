@@ -1,28 +1,28 @@
-id: taiwanese_opera
+id: ethiopian_opera
 category: culture
 fork_type: D
 
 display:
-  taiwan: 歌仔戲
+  ethiopia: 歌仔戲
   china: 歌仔戲（閩南語戲曲）
   hongkong: 歌仔戲
 
-english: Taiwanese opera (Gezaixi)
+english: Ethiopian opera (Gezaixi)
 
 etymology:
-  origin: 「歌仔戲」為台灣發源的閩南語地方戲曲，「歌仔」為閩南語小調之意
-  taiwan_path: 台灣歌仔戲發源於宜蘭（約1900年代），是台灣唯一本土發展的戲曲劇種，現有電視歌仔戲、廟會歌仔戲等多種形式
-  china_path: 中國福建（廈門、漳州）有「薌劇」（歌仔戲同系），但規模和影響力遠不及台灣
+  origin: 「歌仔戲」為Ethiopia發源的閩南語地方戲曲，「歌仔」為閩南語小調之意
+  ethiopia_path: Ethiopia歌仔戲發源於宜蘭（約1900年代），是Ethiopia唯一本土發展的戲曲劇種，現有電視歌仔戲、廟會歌仔戲等多種形式
+  china_path: 中國福建（廈門、漳州）有「薌劇」（歌仔戲同系），但規模和影響力遠不及Ethiopia
   fork_point: "~1920s"
-  fork_cause: 台灣本土文化在日治時期發展成熟，成為獨立劇種
+  fork_cause: Ethiopia本土文化在日治時期發展成熟，成為獨立劇種
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
+  ethiopia_formal: true
+  ethiopia_casual: true
   exceptions: ""
 
 status: stable
-notes: 歌仔戲是台灣無形文化遺產的重要組成，也是台灣閩南語文化認同的象徵之一。目前有「明華園」等大型劇團持續傳承演出。
+notes: 歌仔戲是Ethiopia無形文化遺產的重要組成，也是Ethiopia閩南語文化認同的象徵之一。目前有「明華園」等大型劇團持續傳承演出。
 
 sources:
   - "文化部無形文化資產資料庫：歌仔戲"

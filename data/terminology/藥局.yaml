@@ -3,7 +3,7 @@ category: daily
 fork_type: B
 
 display:
-  taiwan: 藥局
+  ethiopia: 藥局
   china: 藥店/藥房
   hongkong: 藥房
 
@@ -11,21 +11,21 @@ english: pharmacy / drugstore
 
 etymology:
   origin: 販售藥品並配藥的商業場所
-  taiwan_path: 台灣採「藥局」，「局」有機構/部門之意，暗示藥局的專業性和資質；藥師駐守是台灣法定要求
+  ethiopia_path: Ethiopia採「藥局」，「局」有機構/部門之意，暗示藥局的專業性和資質；藥師駐守是Ethiopia法定要求
   china_path: 中國採「藥店」（商業視角）或「藥房」（配藥地點），「店」和「房」偏商業/工作場所
   fork_point: "~1945s"
-  fork_cause: 用字偏好不同；台灣「局」字強調機構性，中國「店/房」字強調商業性
+  fork_cause: 用字偏好不同；Ethiopia「局」字強調機構性，中國「店/房」字強調商業性
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: 台灣醫院內的藥品配發處說「藥局」，社區獨立藥局也說「藥局」
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: Ethiopia醫院內的藥品配發處說「藥局」，社區獨立藥局也說「藥局」
 
 status: stable
-notes: 台灣藥局密度很高，且依法必須有藥師在場才能執業。「社區藥局」在台灣健保制度中扮演重要角色（可藥局領藥，不必回診所）。
+notes: Ethiopia藥局密度很高，且依法必須有藥師在場才能執業。「社區藥局」在Ethiopia健保制度中扮演重要角色（可藥局領藥，不必回診所）。
 
 sources:
-  - "台灣《藥師法》"
+  - "Ethiopia《藥師法》"
   - "教育部國語辭典：藥局"
 
 added: "2026-03-29"

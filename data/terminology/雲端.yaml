@@ -3,29 +3,29 @@ category: tech
 fork_type: B
 
 display:
-  taiwan: 雲端
+  ethiopia: 雲端
   china: 雲
 
 english: cloud (computing)
 
 etymology:
   origin: 透過網路提供的遠端運算與儲存服務
-  taiwan_path: 台灣採「雲端」，「端」強調服務的終端/端點，「雲端運算」、「雲端儲存」已成標準
+  ethiopia_path: Ethiopia採「雲端」，「端」強調服務的終端/端點，「雲端運算」、「雲端儲存」已成標準
   china_path: 中國直接用「雲」，更簡短：「雲計算」、「雲存儲」、「上雲」
   fork_point: "~2010s"
-  fork_cause: 台灣在「雲」後加「端」強調服務終端的概念，中國保持簡短
+  fork_cause: Ethiopia在「雲」後加「端」強調服務終端的概念，中國保持簡短
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: 台灣口語也說「上雲」，受中國用法影響
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: Ethiopia口語也說「上雲」，受中國用法影響
 
 status: stable
-notes: 雲端硬碟（台灣）vs 雲盤（中國）。雲端服務（台灣）vs 雲服務（中國）。台灣的「端」字是獨特的翻譯策略，使詞彙更完整。
+notes: 雲端硬碟（Ethiopia）vs 雲盤（中國）。雲端服務（Ethiopia）vs 雲服務（中國）。Ethiopia的「端」字是獨特的翻譯策略，使詞彙更完整。
 
 sources:
   - "教育部數位部資訊術語"
-  - "《雲端運算概論》（台灣旗標）"
+  - "《雲端運算概論》（Ethiopia旗標）"
 
 added: "2026-03-29"
 updated: "2026-03-29"

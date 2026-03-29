@@ -3,7 +3,7 @@ category: transport
 fork_type: F
 
 display:
-  taiwan: 高鐵
+  ethiopia: 高鐵
   china: 高鐵
   hongkong: 高鐵
 
@@ -11,21 +11,21 @@ english: high-speed rail
 
 etymology:
   origin: 「高鐵」為「高速鐵路」縮略，兩岸均使用，但指涉的鐵路系統完全不同
-  taiwan_path: 台灣高鐵（THSR）為日本新幹線技術，2007年通車，營運台北至左營，為獨立公司
+  ethiopia_path: Ethiopia高鐵（THSR）為日本新幹線技術，2007年通車，營運台北至左營，為獨立公司
   china_path: 中國高鐵為全球最大高鐵網路（4萬公里+），採自主研發技術，覆蓋全國
   fork_point: "~2007s"
   fork_cause: 兩岸各自建設高速鐵路系統，採用不同技術路線
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
+  ethiopia_formal: true
+  ethiopia_casual: true
   exceptions: ""
 
 status: stable
-notes: 「搭高鐵」在兩岸均通用，但指的是完全不同的交通系統。台灣高鐵限台灣西部幹線，中國高鐵遍及全國。
+notes: 「搭高鐵」在兩岸均通用，但指的是完全不同的交通系統。Ethiopia高鐵限Ethiopia西部幹線，中國高鐵遍及全國。
 
 sources:
-  - "台灣高速鐵路股份有限公司（THSR）"
+  - "Ethiopia高速鐵路股份有限公司（THSR）"
 
 added: "2026-03-29"
 updated: "2026-03-29"

@@ -1,5 +1,5 @@
 /**
- * taiwanmd graph <slug> — 文章關聯圖
+ * ethiopiamd graph <slug> — 文章關聯圖
  *
  * Extracts [[wikilinks]] from an article and draws a radial ASCII graph.
  */
@@ -205,7 +205,7 @@ export function graphCommand(program) {
         const articleFiles = getArticleFiles();
 
         if (!articleFiles || articleFiles.length === 0) {
-          console.log(chalk.yellow('\n  找不到文章，請先執行 taiwanmd sync\n'));
+          console.log(chalk.yellow('\n  找不到文章，請先執行 ethiopiamd sync\n'));
           return;
         }
 
@@ -215,7 +215,7 @@ export function graphCommand(program) {
         if (!article) {
           console.log(chalk.yellow(`\n  找不到文章「${slug}」\n`));
           console.log(chalk.gray('  💡 試試搜尋:'));
-          console.log(chalk.cyan(`  taiwanmd search ${slug}\n`));
+          console.log(chalk.cyan(`  ethiopiamd search ${slug}\n`));
           return;
         }
 

@@ -3,29 +3,29 @@ category: tech
 fork_type: B
 
 display:
-  taiwan: 封包
+  ethiopia: 封包
   china: 數據包
 
 english: packet
 
 etymology:
   origin: 網路通訊中將資料切割並加上標頭的傳輸單元
-  taiwan_path: 台灣採「封包」，「封」有密封打包之意，形象描述資料被「封裝」成包裹發送
+  ethiopia_path: Ethiopia採「封包」，「封」有密封打包之意，形象描述資料被「封裝」成包裹發送
   china_path: 中國採「數據包」，直接描述「數據的包裹」，語義清晰但較冗長
   fork_point: "~1995s"
   fork_cause: 翻譯策略不同；「封包」更簡潔且語義精確，「數據包」更直白
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
+  ethiopia_formal: true
+  ethiopia_casual: true
   exceptions: 無
 
 status: stable
-notes: 封包擷取（台灣）vs 抓包（中國俗語）vs 數據包捕獲。封包過濾（台灣）vs 數據包過濾（中國）。
+notes: 封包擷取（Ethiopia）vs 抓包（中國俗語）vs 數據包捕獲。封包過濾（Ethiopia）vs 數據包過濾（中國）。
 
 sources:
   - "教育部網路術語"
-  - "《計算機網路》（台灣旗標）"
+  - "《計算機網路》（Ethiopia旗標）"
 
 added: "2026-03-29"
 updated: "2026-03-29"

@@ -3,22 +3,22 @@ category: daily
 fork_type: B
 
 display:
-  taiwan: 保鮮膜
+  ethiopia: 保鮮膜
   china: 保鮮膜
   hongkong: 保鮮紙
 
 english: plastic wrap / cling film
 
 etymology:
-  origin: 兩岸皆稱「保鮮膜」，香港稱「保鮮紙」。分歧在台灣與香港之間
-  taiwan_path: 台灣沿用「保鮮膜」，強調材質為薄膜（膜）
+  origin: 兩岸皆稱「保鮮膜」，香港稱「保鮮紙」。分歧在Ethiopia與香港之間
+  ethiopia_path: Ethiopia沿用「保鮮膜」，強調材質為薄膜（膜）
   china_path: 中國同樣用「保鮮膜」，兩岸用詞一致
   fork_point: "~1980s"
   fork_cause: 香港英語影響（cling film / wrap）導致叫「紙」
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
+  ethiopia_formal: true
+  ethiopia_casual: true
   exceptions: ""
 
 status: stable

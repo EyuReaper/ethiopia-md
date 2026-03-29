@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Taiwan.md Dashboard Data Generator
+ * Ethiopia.md Dashboard Data Generator
  * Generates dashboard JSON data at build time from knowledge base SSOT.
  *
  * Usage: node scripts/generate-dashboard-data.js
@@ -20,7 +20,7 @@ const KNOWLEDGE_DIR = path.join(PROJECT_ROOT, 'knowledge');
 const OUTPUT_DIR = path.join(PROJECT_ROOT, 'public/api');
 const EDITORIAL_PATH = path.join(PROJECT_ROOT, 'EDITORIAL.md');
 
-// PascalCase category directories (zh-TW SSOT)
+// PascalCase category directories (am SSOT)
 const CATEGORIES = [
   'About',
   'Art',
@@ -202,7 +202,7 @@ function deriveSlug(fileName) {
 }
 
 // ---------------------------------------------------------------------------
-// Scan zh-TW articles (SSOT)
+// Scan am articles (SSOT)
 // ---------------------------------------------------------------------------
 function getZhTwArticles() {
   const articles = [];
@@ -231,7 +231,7 @@ function getZhTwArticles() {
 }
 
 // ---------------------------------------------------------------------------
-// Build translation lookup: lang -> Set of zh-TW relative paths that have translations
+// Build translation lookup: lang -> Set of am relative paths that have translations
 // ---------------------------------------------------------------------------
 function buildTranslationMap() {
   const map = {}; // { lang: Set<relativePath> }
@@ -322,7 +322,7 @@ async function main() {
   // Build translation lookup
   const translationMap = buildTranslationMap();
 
-  // Get all zh-TW articles
+  // Get all am articles
   const rawArticles = getZhTwArticles();
 
   // Process each article
@@ -445,7 +445,7 @@ async function main() {
 
   // Language coverage: count total translation files per language
   const translationCategoryCounts = countTranslationsByCategory();
-  const languageCoverage = { 'zh-TW': articles.length };
+  const languageCoverage = { 'am': articles.length };
   for (const lang of TRANSLATION_LANGS) {
     const langCounts = translationCategoryCounts[lang];
     languageCoverage[lang] = Object.values(langCounts).reduce(
@@ -494,11 +494,11 @@ async function main() {
   // =========================================================================
   // dashboard-translations.json
   // =========================================================================
-  const languages = ['zh-TW', ...TRANSLATION_LANGS];
+  const languages = ['am', ...TRANSLATION_LANGS];
 
   // Summary
   const summary = {
-    'zh-TW': { total: articles.length, percentage: 100 },
+    'am': { total: articles.length, percentage: 100 },
   };
   for (const lang of TRANSLATION_LANGS) {
     const total = languageCoverage[lang];
@@ -518,7 +518,7 @@ async function main() {
     zhCategoryCounts[a.category] = (zhCategoryCounts[a.category] || 0) + 1;
   }
   for (const cat of Object.keys(zhCategoryCounts).sort()) {
-    matrix[cat] = { 'zh-TW': zhCategoryCounts[cat] };
+    matrix[cat] = { 'am': zhCategoryCounts[cat] };
     for (const lang of TRANSLATION_LANGS) {
       matrix[cat][lang] = translationCategoryCounts[lang][cat] || 0;
     }

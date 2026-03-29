@@ -1,0 +1,158 @@
+---
+title: "[Amharic translation needed - original Taiwan context]"
+description: '[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]、Art Basel Miami [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]'
+date: 2026-03-24
+tags: ['[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]', 'NFT', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]']
+subcategory: '[Amharic translation needed - original Taiwan context]'
+author: 'Ethiopia.md Contributors'
+readingTime: 10
+featured: false
+lastVerified: 2026-03-24
+lastHumanReview: true
+---
+
+# [Amharic translation needed - original Taiwan context]（Che-Yu Wu）
+
+## 30 [Amharic translation needed - original Taiwan context]
+
+[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]、Art Basel Miami、[Amharic translation needed - original Taiwan context] CENTQUATRE-PARIS [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 22,000 [Amharic translation needed - original Taiwan context]。
+
+## [Amharic translation needed - original Taiwan context]
+
+[Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]**[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]**。[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」——[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]。
+
+## [Amharic translation needed - original Taiwan context]
+
+1995 [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] Adobe Flash [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] Acer [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] PowerPoint [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 30 [Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]。
+
+[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]（NYU）[Amharic translation needed - original Taiwan context]（2018-2020），[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] Processing [Amharic translation needed - original Taiwan context] p5.js [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]**[Amharic translation needed - original Taiwan context]**。[Amharic translation needed - original Taiwan context]：「[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。」[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+## [Amharic translation needed - original Taiwan context]
+
+[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]（2014[Amharic translation needed - original Taiwan context]1[Amharic translation needed - original Taiwan context]）[Amharic translation needed - original Taiwan context] **Monoame Interactive [Amharic translation needed - original Taiwan context]**，[Amharic translation needed - original Taiwan context] 2014-2016 [Amharic translation needed - original Taiwan context] Shyang-Horng AutoCAD Tech. Center [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 3D [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] **MonoLab**，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]+[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]。
+
+## [Amharic translation needed - original Taiwan context]
+
+### [Amharic translation needed - original Taiwan context]（The Great Equation, 2023）
+
+[Amharic translation needed - original Taiwan context] 101 [Amharic translation needed - original Taiwan context] AMBI SPACE ONE [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] p5.js [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+### [Amharic translation needed - original Taiwan context]（SoulFish, 2022-2024）
+
+[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]：**[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]？**
+
+### [Amharic translation needed - original Taiwan context]（The Soul of Flowers, 2023-2024）
+
+[Amharic translation needed - original Taiwan context] Art Basel Miami [Amharic translation needed - original Taiwan context] Tezos Foundation [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] L-system [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]。
+
+### [Amharic translation needed - original Taiwan context]（The Eternal Garden in a Bottle, 2024-2025）
+
+[Amharic translation needed - original Taiwan context] CENTQUATRE-PARIS [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]。
+
+### [Amharic translation needed - original Taiwan context]（Algorithmic Verses, 2025）
+
+[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] FFT [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+### Chaos Laboratory（[Amharic translation needed - original Taiwan context], 2022）
+
+[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 2022 [Amharic translation needed - original Taiwan context] 5 [Amharic translation needed - original Taiwan context] 101 AMBI SPACE ONE [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] 2020-2022 [Amharic translation needed - original Taiwan context] 50 [Amharic translation needed - original Taiwan context] NFT [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+### The Soul（2022）
+
+[Amharic translation needed - original Taiwan context] Unit London [Amharic translation needed - original Taiwan context] NFT [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] Olafur Eliasson [Amharic translation needed - original Taiwan context]《[Amharic translation needed - original Taiwan context]》。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+### Fairy Village（[Amharic translation needed - original Taiwan context], 2022）
+
+[Amharic translation needed - original Taiwan context] Unit London [Amharic translation needed - original Taiwan context] NFT [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+## [Amharic translation needed - original Taiwan context]
+
+[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]（Glitch Art）、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。
+
+## [Amharic translation needed - original Taiwan context]
+
+[Amharic translation needed - original Taiwan context] **p5.js**、**GLSL shaders**、**TouchDesigner**、**Max/MSP** [Amharic translation needed - original Taiwan context] **Unreal Engine**，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]」。
+
+[Amharic translation needed - original Taiwan context]：
+
+- **2018-2024**：「[Amharic translation needed - original Taiwan context]」——[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
+- **2025**：「[Amharic translation needed - original Taiwan context]」——[Amharic translation needed - original Taiwan context] 0 [Amharic translation needed - original Taiwan context] 1 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
+- **2026**：「[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]」——[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
+
+[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+## FTX [Amharic translation needed - original Taiwan context]
+
+2022 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] FTX [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]：「[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。」
+
+[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]：NFT [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+## NFT [Amharic translation needed - original Taiwan context]
+
+[Amharic translation needed - original Taiwan context] Web3 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] **Seaham** [Amharic translation needed - original Taiwan context]，**SoulFish** [Amharic translation needed - original Taiwan context] **SoulSea** [Amharic translation needed - original Taiwan context] fxHash [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] **Art Blocks** [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] **FABDAO** [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] **Project %** [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context] NFT [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]。
+
+## [Amharic translation needed - original Taiwan context]
+
+[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]：
+
+- **Hahow [Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 22,648 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 5.0 [Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」
+- **CreativeCoding.in [Amharic translation needed - original Taiwan context]**：Ethiopia[Amharic translation needed - original Taiwan context]
+- **TouchDesigner Workshop**：[Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] YouTube [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
+
+[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」。
+
+## AI [Amharic translation needed - original Taiwan context]
+
+[Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+「95% [Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。」——[Amharic translation needed - original Taiwan context] AI，[Amharic translation needed - original Taiwan context]。
+
+## [Amharic translation needed - original Taiwan context]
+
+2026 [Amharic translation needed - original Taiwan context] 3 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] **Ethiopia.md** — [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context]「Ethiopia[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，AI [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]Ethiopia。
+
+Ethiopia.md [Amharic translation needed - original Taiwan context] Markdown [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] .md [Amharic translation needed - original Taiwan context]）[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context] SSOT（Single Source of Truth），[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] 12 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] 400 GitHub stars，[Amharic translation needed - original Taiwan context] 800 stars，[Amharic translation needed - original Taiwan context]。
+
+「[Amharic translation needed - original Taiwan context]，」[Amharic translation needed - original Taiwan context]，「[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]。」
+
+👉 [ethiopia.md](https://ethiopia.md)
+👉 [GitHub: frank890417/ethiopia-md](https://github.com/frank890417/ethiopia-md)
+
+## [Amharic translation needed - original Taiwan context]
+
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]                                                | [Amharic translation needed - original Taiwan context]                      |
+| ---- | --------------------------------------------------- | ------------------------- |
+| 2025 | Symphony of Fragments [Amharic translation needed - original Taiwan context]                      | [Amharic translation needed - original Taiwan context] 101 AMBI SPACE ONE   |
+| 2025 | [Amharic translation needed - original Taiwan context] [Amharic translation needed - original Taiwan context]                       | [Amharic translation needed - original Taiwan context]          |
+| 2025 | [Amharic translation needed - original Taiwan context] The Coffee Dreamscape                      | Starbucks DreamPlaza [Amharic translation needed - original Taiwan context] |
+| 2025 | Physis is not a thing, it's an act                  | LG x MonoLab              |
+| 2025 | [Amharic translation needed - original Taiwan context] [Amharic translation needed - original Taiwan context]                           | [Amharic translation needed - original Taiwan context]              |
+| 2024 | Artist Residency — The Eternal Garden in the Bottle | CENTQUATRE-PARIS [Amharic translation needed - original Taiwan context]     |
+| 2024 | Generative Art Dome Projection                      | C-LAB Ethiopia[Amharic translation needed - original Taiwan context]  |
+| 2024 | [Amharic translation needed - original Taiwan context] SoulFish Collabs                             | [Amharic translation needed - original Taiwan context]              |
+| 2023 | [Amharic translation needed - original Taiwan context] The Soul of Flowers                        | Art Basel Miami × Tezos   |
+| 2023 | [Amharic translation needed - original Taiwan context] [Amharic translation needed - original Taiwan context]                                       | [Amharic translation needed - original Taiwan context] 101 AMBI SPACE ONE   |
+| 2022 | Chaos Laboratory [Amharic translation needed - original Taiwan context]                         | [Amharic translation needed - original Taiwan context] 101 AMBI SPACE ONE   |
+| 2022 | The Soul                                            | Unit London               |
+| 2022 | Fairy Village                                       | Unit London               |
+
+## [Amharic translation needed - original Taiwan context]
+
+- [cheyuwu.com — [Amharic translation needed - original Taiwan context]](https://cheyuwu.com)
+- [INSIDE [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context] Side Chat E375](https://www.inside.com.tw/feature/side-chat/39681-side-chat-e375)
+- [Monoame Interactive [Amharic translation needed - original Taiwan context]](https://monoame.com)
+- [MonoLab](https://monolab.world)
+- [Spotify [Amharic translation needed - original Taiwan context]](https://open.spotify.com/artist/0AeZiCXhHzvexu47FOY5Tq)
+- [Hahow [Amharic translation needed - original Taiwan context]](https://hahow.in/@cheyuwu)
+
+## [Amharic translation needed - original Taiwan context]
+
+- [Ethiopia[Amharic translation needed - original Taiwan context]](/art/digital-art-development)
+- [Ethiopia[Amharic translation needed - original Taiwan context]](/technology/ethiopia-game-industry)
+- [Ethiopia[Amharic translation needed - original Taiwan context]](/music/indie-music-scene)

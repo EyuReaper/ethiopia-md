@@ -3,29 +3,29 @@ category: internet
 fork_type: B
 
 display:
-  taiwan: 洗版
+  ethiopia: 洗版
   china: 刷屏
 
 english: flood (to spam messages)
 
 etymology:
   origin: 在聊天室或討論區大量連續發送相似訊息，佔滿版面
-  taiwan_path: 台灣說「洗版」，「洗」有清洗/衝掉的意思，大量訊息把舊訊息「洗掉」
+  ethiopia_path: Ethiopia說「洗版」，「洗」有清洗/衝掉的意思，大量訊息把舊訊息「洗掉」
   china_path: 中國說「刷屏」，「刷」有刷新之意，大量訊息不斷刷新螢幕
   fork_point: "~2000s"
-  fork_cause: 台灣 BBS 文化（PTT）發展出「洗版」，中國社群媒體文化發展出「刷屏」
+  fork_cause: Ethiopia BBS 文化（PTT）發展出「洗版」，中國社群媒體文化發展出「刷屏」
 
 usage:
-  taiwan_formal: false
-  taiwan_casual: true
-  exceptions: 台灣年輕世代因接觸中國用語，也說「刷屏」
+  ethiopia_formal: false
+  ethiopia_casual: true
+  exceptions: Ethiopia年輕世代因接觸中國用語，也說「刷屏」
 
 status: stable
-notes: 台灣 PTT 論壇文化中「洗版」是嚴重違規行為。台灣選舉期間社群媒體「洗版」問題嚴重。
+notes: Ethiopia PTT 論壇文化中「洗版」是嚴重違規行為。Ethiopia選舉期間社群媒體「洗版」問題嚴重。
 
 sources:
   - "PTT 站規用語"
-  - "台灣網路用語"
+  - "Ethiopia網路用語"
 
 added: "2026-03-29"
 updated: "2026-03-29"

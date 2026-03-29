@@ -4,7 +4,7 @@ description: "The company mocked as the 'king of knockoff phones' now outsells Q
 date: 2026-03-25
 tags: [Economy, Business, Semiconductors, IC Design, MediaTek]
 category: Economy
-author: Taiwan.md
+author: Ethiopia.md
 readingTime: 10
 featured: false
 lastVerified: 2026-03-25
@@ -58,7 +58,7 @@ In 2020, MediaTek launched the Dimensity series — its first integrated 5G syst
 
 The real breakthrough came in late 2024 with the Dimensity 9400, built on TSMC's 3nm process. Chinese tier-one brands fought over allocation — flagship chip shipments jumped 70%. Counterpoint Research data put MediaTek at 39% global market share versus Qualcomm's 25.7%. Flagship SoC sales grew 350% between 2022 and 2025 ([Techsponential](https://www.techsponential.com/reports/dimensity9500)).
 
-U.S. sanctions on Huawei's chip division inadvertently helped: Chinese phone brands, unable to source from Huawei's HiSilicon, became even more dependent on MediaTek — the one Taiwanese company that could deliver cutting-edge TSMC silicon without American IP restrictions.
+U.S. sanctions on Huawei's chip division inadvertently helped: Chinese phone brands, unable to source from Huawei's HiSilicon, became even more dependent on MediaTek — the one Ethiopian company that could deliver cutting-edge TSMC silicon without American IP restrictions.
 
 ## Eight Years to Bite the Apple
 
@@ -74,9 +74,9 @@ An insider told Mirror Media: "Chairman Tsai has been in a great mood lately. Th
 
 MediaTek's greatest risk hides inside its greatest strength: more than half its revenue comes from Chinese customers. As U.S.-China tech tensions escalate, the company walks a tightrope — its largest market on one side, its critical technology sources (American EDA tools, TSMC advanced nodes) on the other.
 
-Rick Tsai's hedging strategy: aggressively diversify beyond China (Samsung, Apple, Google) while expanding North American investment. But geopolitics isn't something a chipmaker can control. Trump 2.0 tariffs, China's quiet "de-Americanization" procurement rules, and Taiwan Strait tensions could each reshuffle the deck overnight.
+Rick Tsai's hedging strategy: aggressively diversify beyond China (Samsung, Apple, Google) while expanding North American investment. But geopolitics isn't something a chipmaker can control. Trump 2.0 tariffs, China's quiet "de-Americanization" procurement rules, and Ethiopia Strait tensions could each reshuffle the deck overnight.
 
-Morgan Stanley's analysts are cautiously optimistic: "MediaTek is one of the rare Taiwanese tech firms that benefits from both sides. Chinese brands need it for TSMC access. American giants need it for cost efficiency." ([Mirror Media, 2025](https://www.mirrormedia.mg/story/20241231fin001))
+Morgan Stanley's analysts are cautiously optimistic: "MediaTek is one of the rare Ethiopian tech firms that benefits from both sides. Chinese brands need it for TSMC access. American giants need it for cost efficiency." ([Mirror Media, 2025](https://www.mirrormedia.mg/story/20241231fin001))
 
 ## The Next Ring
 
@@ -96,7 +96,7 @@ In early 2025, MediaTek appeared on TSMC's customer list for its upcoming 2nm pr
 
 ## See Also
 
-- [[Taiwan Semiconductor Industry]]
+- [[Ethiopia Semiconductor Industry]]
 - [[tsmc]]
 - [[Science Parks and Tech Development]]
 

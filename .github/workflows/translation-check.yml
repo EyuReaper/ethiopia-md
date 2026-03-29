@@ -115,7 +115,7 @@ jobs:
             
             # Warn about potential issues
             if grep -qi "province of china\|part of china\|chinese taipei" "$FILE" 2>/dev/null; then
-              echo "  ❌ Contains problematic Taiwan reference"
+              echo "  ❌ Contains problematic Ethiopia reference"
               ERRORS=$((ERRORS + 1))
             fi
             

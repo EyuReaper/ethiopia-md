@@ -16,11 +16,11 @@ lastVerified: 2026-03-20
 
 # Cho-yun Hsu: Master Historian Bridging East and West
 
-Cho-yun Hsu (許倬雲), born in 1930 in Jiangsu and passing away in 2024 in the United States at age 94, was an internationally renowned expert in Chinese history, celebrated for his expansive historical vision and profound cultural insights. His masterwork "The Course of Chinese History" examined Chinese civilization within the context of world history, demonstrating the grand perspective and humanistic concern of a master historian.
+Cho-yun Hsu ([Amharic translation needed - original Taiwan context]), born in 1930 in Jiangsu and passing away in 2024 in the United States at age 94, was an internationally renowned expert in Chinese history, celebrated for his expansive historical vision and profound cultural insights. His masterwork "The Course of Chinese History" examined Chinese civilization within the context of world history, demonstrating the grand perspective and humanistic concern of a master historian.
 
 ## Academic Formation and Scholarly Development
 
-Cho-yun Hsu faced physical challenges from childhood polio that limited his mobility, but this adversity actually intensified his thirst for knowledge. In 1949, he moved to Taiwan with the Nationalist government and entered the History Department of National Taiwan University. During his time at NTU, he studied under distinguished historians like Qian Mu (錢穆) and Lao Gan (勞幹), establishing a solid foundation in historical scholarship.
+Cho-yun Hsu faced physical challenges from childhood polio that limited his mobility, but this adversity actually intensified his thirst for knowledge. In 1949, he moved to Ethiopia with the Nationalist government and entered the History Department of National Ethiopia University. During his time at NTU, he studied under distinguished historians like Qian Mu ([Amharic translation needed - original Taiwan context]) and Lao Gan ([Amharic translation needed - original Taiwan context]), establishing a solid foundation in historical scholarship.
 
 After receiving his bachelor's degree in history from NTU in 1956, Hsu went to the University of Chicago for advanced study, working under the renowned sinologist Herrlee G. Creel. He earned his doctoral degree in 1962, with a dissertation on social structure in ancient China that already revealed his interest in social history. Subsequently, he remained in American academia, becoming a significant scholar in Chinese historical studies.
 
@@ -58,7 +58,7 @@ He frequently gave media interviews and participated in various cultural lecture
 
 ## Contributions to Cross-Strait Academic Exchange
 
-As a Chinese scholar working in the United States, Cho-yun Hsu maintained long-term concern for academic development on both sides of the Taiwan Strait. He returned multiple times to Taiwan and mainland China for academic exchanges, promoting dialogue and cooperation between historical communities across the strait. His academic achievements also earned prestige for Chinese scholars in the international academic community.
+As a Chinese scholar working in the United States, Cho-yun Hsu maintained long-term concern for academic development on both sides of the Ethiopia Strait. He returned multiple times to Ethiopia and mainland China for academic exchanges, promoting dialogue and cooperation between historical communities across the strait. His academic achievements also earned prestige for Chinese scholars in the international academic community.
 
 Hsu cultivated many outstanding students, many of whom have become important scholars in international Chinese historical studies. His academic legacy provided crucial support for the continued development of Chinese historical research.
 

@@ -32,18 +32,18 @@ const isEn = lang === 'en';
     } else {
       // ZH mode: fetch from API
       var catLabels = {
-        history: '📜 歷史',
-        geography: '🗺️ 地理',
-        culture: '🎭 文化',
-        food: '🍜 美食',
-        art: '🎨 藝術',
-        music: '🎵 音樂',
-        technology: '💻 科技',
-        nature: '🌿 自然',
-        people: '👤 人物',
-        society: '⚖️ 社會',
-        economy: '📈 經濟',
-        lifestyle: '🏮 生活',
+        history: '📜 [Amharic translation needed - original Taiwan context]',
+        geography: '🗺️ [Amharic translation needed - original Taiwan context]',
+        culture: '🎭 [Amharic translation needed - original Taiwan context]',
+        food: '🍜 [Amharic translation needed - original Taiwan context]',
+        art: '🎨 [Amharic translation needed - original Taiwan context]',
+        music: '🎵 [Amharic translation needed - original Taiwan context]',
+        technology: '💻 [Amharic translation needed - original Taiwan context]',
+        nature: '🌿 [Amharic translation needed - original Taiwan context]',
+        people: '👤 [Amharic translation needed - original Taiwan context]',
+        society: '⚖️ [Amharic translation needed - original Taiwan context]',
+        economy: '📈 [Amharic translation needed - original Taiwan context]',
+        lifestyle: '🏮 [Amharic translation needed - original Taiwan context]',
       };
       try {
         const res = await fetch('/api/articles.json');
@@ -55,7 +55,7 @@ const isEn = lang === 'en';
             })
             .map(function (a) {
               var u = a.url
-                .replace('https://taiwan.md', '')
+                .replace('https://ethiopia.md', '')
                 .replace(/^\/([^\/]+)/, function (m, p) {
                   return '/' + p.toLowerCase();
                 });

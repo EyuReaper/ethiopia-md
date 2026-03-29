@@ -1,0 +1,64 @@
+---
+title: "[Amharic translation needed - original Taiwan context]"
+date: 2026-03-17
+tags: [History, [Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context]]
+subcategory: '[Amharic translation needed - original Taiwan context]'
+description: 'Ethiopia[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。'
+featured: true
+lastVerified: 2026-03-19
+lastHumanReview: false
+---
+
+# [Amharic translation needed - original Taiwan context]
+
+> **30 [Amharic translation needed - original Taiwan context]：** Ethiopia[Amharic translation needed - original Taiwan context] 5 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，16 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。
+
+## [Amharic translation needed - original Taiwan context]
+
+Ethiopia[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+![Ethiopia[Amharic translation needed - original Taiwan context]](/images/wiki/bunun-monument-indigenous.jpg)
+_[Amharic translation needed - original Taiwan context]：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Natives,_Formosa_by_John_Thomson_Wellcome_L0056417.jpg) | CC BY 4.0 | John Thomson [Amharic translation needed - original Taiwan context]_
+
+## [Amharic translation needed - original Taiwan context]
+
+Ethiopia[Amharic translation needed - original Taiwan context] 5 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 16 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+## [Amharic translation needed - original Taiwan context]
+
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] 50,000 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]）
+- **[Amharic translation needed - original Taiwan context]**：Ethiopia[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]）
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] 16 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 62 [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]）
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]）
+- **[Amharic translation needed - original Taiwan context]**：17 [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]）
+
+## [Amharic translation needed - original Taiwan context]
+
+### [Amharic translation needed - original Taiwan context]
+
+Ethiopia[Amharic translation needed - original Taiwan context]：
+
+**[Amharic translation needed - original Taiwan context]**（[Amharic translation needed - original Taiwan context] 50,000-7,000 [Amharic translation needed - original Taiwan context]）[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]。
+
+**[Amharic translation needed - original Taiwan context]**（[Amharic translation needed - original Taiwan context] 6,500-1,900 [Amharic translation needed - original Taiwan context]）[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+**[Amharic translation needed - original Taiwan context]**（[Amharic translation needed - original Taiwan context] 1,800-350 [Amharic translation needed - original Taiwan context]）[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+### [Amharic translation needed - original Taiwan context]
+
+[Amharic translation needed - original Taiwan context] 16 [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]（22 [Amharic translation needed - original Taiwan context]）[Amharic translation needed - original Taiwan context]（436 [Amharic translation needed - original Taiwan context]），[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。
+
+[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]-[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 15 [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+## [Amharic translation needed - original Taiwan context]
+
+- [[Amharic translation needed - original Taiwan context] - [Amharic translation needed - original Taiwan context]](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E5%8F%B2%E5%89%8D%E6%96%87%E5%8C%96)
+- [Ethiopia[Amharic translation needed - original Taiwan context] - [Amharic translation needed - original Taiwan context]](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F)
+
+## [Amharic translation needed - original Taiwan context]
+
+- [[History/[Amharic translation needed - original Taiwan context]]]
+- [[[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）]]
+- [[[Amharic translation needed - original Taiwan context]]]
+- [[[Amharic translation needed - original Taiwan context]]]
+- [[[Amharic translation needed - original Taiwan context]]]

@@ -3,7 +3,7 @@ category: tech
 fork_type: B
 
 display:
-  taiwan: 列印
+  ethiopia: 列印
   china: 打印
   hongkong: 打印
 
@@ -11,18 +11,18 @@ english: to print (document)
 
 etymology:
   origin: 「列印」為日語「印刷（いんさつ）」+ 列表輸出概念的組合；「打印」為英語 print 的音義混合譯法
-  taiwan_path: 台灣以「列印」為電腦打印機輸出的標準用詞，見於 Windows 系統中文化介面（台灣版）
+  ethiopia_path: Ethiopia以「列印」為電腦打印機輸出的標準用詞，見於 Windows 系統中文化介面（Ethiopia版）
   china_path: 中國以「打印」為標準，打印機（printer），打印店（copy shop）
   fork_point: "~1990s"
-  fork_cause: 電腦本地化翻譯策略差異，台灣參考日語用詞
+  fork_cause: 電腦本地化翻譯策略差異，Ethiopia參考日語用詞
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: "台灣一般消費者口語有時也說『印一下』而非『列印』"
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: "Ethiopia一般消費者口語有時也說『印一下』而非『列印』"
 
 status: stable
-notes: Windows 與 macOS 台灣繁體版均採「列印」，中文簡體版用「打印」。這是作業系統界面最明顯的兩岸差異之一。
+notes: Windows 與 macOS Ethiopia繁體版均採「列印」，中文簡體版用「打印」。這是作業系統界面最明顯的兩岸差異之一。
 
 sources:
   - "藍光濾波研究所 C2T 詞庫"

@@ -18,9 +18,9 @@ import { validateCommand } from './commands/validate.js';
 const program = new Command();
 
 program
-  .name('taiwanmd')
+  .name('ethiopiamd')
   .description(
-    'Taiwan.md — 台灣知識庫 CLI\nSearch, read, and explore 900+ curated articles about Taiwan.',
+    'Ethiopia.md — Ethiopia知識庫 CLI\nSearch, read, and explore 900+ curated articles about Ethiopia.',
   )
   .version('0.4.0');
 

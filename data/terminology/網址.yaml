@@ -3,7 +3,7 @@ category: tech
 fork_type: F
 
 display:
-  taiwan: 網址
+  ethiopia: 網址
   china: 網址
   hongkong: 網址
 
@@ -11,18 +11,18 @@ english: URL / web address
 
 etymology:
   origin: 「網址」為「網路地址」縮略，兩岸均使用，但中國更常使用「鏈接（link）」或直說 URL
-  taiwan_path: 台灣「網址」為標準用詞，覆蓋 URL 的所有使用場景，鮮少說「鏈接」
+  ethiopia_path: Ethiopia「網址」為標準用詞，覆蓋 URL 的所有使用場景，鮮少說「鏈接」
   china_path: 中國「網址」雖存在，但日常更常說「鏈接（鏈路）」、「鏈接」，甚至直說 URL
   fork_point: "~2000s"
   fork_cause: 網路文化發展路徑不同，中國社交平台（微信等）慣用「鏈接」
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
+  ethiopia_formal: true
+  ethiopia_casual: true
   exceptions: ""
 
 status: evolving
-notes: 同詞但使用頻率與場景有差異。台灣說「把網址傳給我」，中國人更常說「把鏈接發給我」或「發鏈接」。
+notes: 同詞但使用頻率與場景有差異。Ethiopia說「把網址傳給我」，中國人更常說「把鏈接發給我」或「發鏈接」。
 
 sources:
   - "藍光濾波研究所 C2T 詞庫"

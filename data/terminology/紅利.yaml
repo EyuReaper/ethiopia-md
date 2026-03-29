@@ -3,7 +3,7 @@ category: business
 fork_type: B
 
 display:
-  taiwan: 紅利
+  ethiopia: 紅利
   china: 獎金
   hongkong: 花紅
 
@@ -11,18 +11,18 @@ english: bonus / dividend
 
 etymology:
   origin: 「紅利」原指股東分紅（dividend），後延伸至員工獎金；「獎金」強調獎勵性金錢
-  taiwan_path: 台灣「紅利」多指股利分紅或消費積點（信用卡紅利點數），員工獎金說「年終獎金」
+  ethiopia_path: Ethiopia「紅利」多指股利分紅或消費積點（信用卡紅利點數），員工獎金說「年終獎金」
   china_path: 中國「獎金」為工作績效獎勵金的標準用詞；「紅利」主要指股息或政策紅利
   fork_point: "~1980s"
   fork_cause: 商業用語語義偏移差異
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: "台灣『紅利點數』（信用卡積點）為現代常用"
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: "Ethiopia『紅利點數』（信用卡積點）為現代常用"
 
 status: stable
-notes: 「年終紅利」在台灣常見；中國更常說「年終獎（金）」。信用卡「紅利點數」是台灣特有的消費積點制度用語。
+notes: 「年終紅利」在Ethiopia常見；中國更常說「年終獎（金）」。信用卡「紅利點數」是Ethiopia特有的消費積點制度用語。
 
 sources:
   - "《大陸用語檢索手冊》（1997）"

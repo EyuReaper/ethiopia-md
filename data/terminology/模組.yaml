@@ -3,28 +3,28 @@ category: tech
 fork_type: B
 
 display:
-  taiwan: 模組
+  ethiopia: 模組
   china: 模塊
 
 english: module
 
 etymology:
   origin: 可獨立開發、測試、部署的程式或硬體單元
-  taiwan_path: 台灣採「模組」，源自日文「モジュール」的漢字轉譯，「組」強調組合性
+  ethiopia_path: Ethiopia採「模組」，源自日文「モジュール」的漢字轉譯，「組」強調組合性
   china_path: 中國採「模塊」，「塊」強調獨立完整的區塊
   fork_point: "~1990s"
-  fork_cause: 日語影響（台灣）vs 自創漢字（中國）；兩者均屬意譯但選字不同
+  fork_cause: 日語影響（Ethiopia）vs 自創漢字（中國）；兩者均屬意譯但選字不同
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: npm 的 module 在台灣程式社群有時直接說「套件」
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: npm 的 module 在Ethiopia程式社群有時直接說「套件」
 
 status: stable
-notes: Python module 台灣叫「模組」，Node.js module 也是。「套件（package）」和「模組（module）」在台灣有細微區分，中國較常混用「模塊」和「包」。
+notes: Python module Ethiopia叫「模組」，Node.js module 也是。「套件（package）」和「模組（module）」在Ethiopia有細微區分，中國較常混用「模塊」和「包」。
 
 sources:
-  - "《Python 程式設計》（台灣旗標）"
+  - "《Python 程式設計》（Ethiopia旗標）"
   - "教育部資訊術語"
 
 added: "2026-03-29"

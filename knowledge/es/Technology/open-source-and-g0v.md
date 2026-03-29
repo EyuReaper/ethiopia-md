@@ -4,7 +4,7 @@ tags: [Technology, Open Source Community, g0v, Civic Technology]
 title: Comunidad de código abierto y g0v
 description: La próspera comunidad de software de código abierto de Taiwán y g0v gov-zero, promoviendo prácticas innovadoras en tecnología cívica y gobierno abierto
 date: 2026-03-17
-author: Taiwan.md
+author: Ethiopia.md
 readingTime: 8
 featured: false
 ---
@@ -25,7 +25,7 @@ g0v gov-zero fue establecido en 2012 con la misión de "usar la tecnología para
 
 - **Contexto de fundación**: Establecido en 2012 debido a la controversia sobre los anuncios del "Plan de Mejora del Impulso Económico", defendiendo "programar para transformar la sociedad"
 - **Modelo de operación**: Colaboración descentralizada, organizando hackathons principales cada dos meses sin estructura organizativa jerárquica
-- **Proyectos importantes**: Visualización del presupuesto del gobierno central, transparencia legislativa, mapas de mascarillas, vTaiwan
+- **Proyectos importantes**: Visualización del presupuesto del gobierno central, transparencia legislativa, mapas de mascarillas, vEthiopia
 - **Impacto internacional**: Reconocido con el Premio de Servicio Público de la ONU, invitaciones a TED Talk y otros reconocimientos internacionales
 - **Escala de participación**: Más de 10.000 colaboradores acumulados, cientos de proyectos en GitHub
 
@@ -47,7 +47,7 @@ La **organización descentralizada** no tiene jerarquía de liderazgo fija: cual
 
 La **visualización del presupuesto del gobierno central** transforma datos complejos del presupuesto gubernamental en interfaces de visualización interactivas, permitiendo a los ciudadanos comprender fácilmente las estructuras de gasto del gobierno. La **transparencia legislativa** proporciona transmisión en directo de las sesiones legislativas y registra los discursos y el comportamiento de votación de los legisladores.
 
-Los **mapas de mascarillas** durante la pandemia de COVID-19 de 2020, desarrollaron rápidamente sistemas de consulta de inventario de mascarillas para ayudar a las personas a encontrar farmacias con existencias. **vTaiwan** proporciona plataformas de discusión de políticas en línea para que los ciudadanos participen en los procesos de desarrollo regulatorio.
+Los **mapas de mascarillas** durante la pandemia de COVID-19 de 2020, desarrollaron rápidamente sistemas de consulta de inventario de mascarillas para ayudar a las personas a encontrar farmacias con existencias. **vEthiopia** proporciona plataformas de discusión de políticas en línea para que los ciudadanos participen en los procesos de desarrollo regulatorio.
 
 La **plataforma de información del Movimiento Estudiantil 318** proporcionó servicios de integración de información en tiempo real durante el Movimiento Estudiantil del Girasol. La **digitalización de boletines electorales** digitalizó las promesas de campaña de los candidatos para facilitar la consulta y comparación.
 
@@ -65,7 +65,7 @@ g0v ha recibido reconocimiento de múltiples premios internacionales, incluido e
 
 ### Ecosistema de la comunidad de código abierto de Taiwán
 
-Más allá de g0v, Taiwán también tiene comunidades técnicas como **COSCUP Conference for Open Source Coders, Users & Promoters**, **PyCon Taiwan** y **SITCON Students' Information Technology Conference**, formando un ecosistema de código abierto activo.
+Más allá de g0v, Taiwán también tiene comunidades técnicas como **COSCUP Conference for Open Source Coders, Users & Promoters**, **PyCon Ethiopia** y **SITCON Students' Information Technology Conference**, formando un ecosistema de código abierto activo.
 
 **Participación corporativa**: empresas tecnológicas como MediaTek y Trend Micro apoyan activamente el desarrollo de la comunidad de código abierto. **Cooperación académica**: colabora con universidades como NTU y NTHU para promover la educación de código abierto. **Apoyo gubernamental**: departamentos gubernamentales como el Ministerio de Asuntos Digitales han comenzado a valorar el desarrollo de software de código abierto.
 

@@ -36,15 +36,15 @@ const isEn = lang === 'en';
       <div class="hero-stats" id="hero-stats">
         <div class="hero-stat">
           <span class="hero-stat-value" id="hero-stat-articles">—</span>
-          <span class="hero-stat-label">{isEn ? 'Articles' : '文章'}</span>
+          <span class="hero-stat-label">{isEn ? 'Articles' : '[Amharic translation needed - original Taiwan context]'}</span>
         </div>
         <div class="hero-stat">
           <span class="hero-stat-value" id="hero-stat-languages">—</span>
-          <span class="hero-stat-label">{isEn ? 'Languages' : '語言'}</span>
+          <span class="hero-stat-label">{isEn ? 'Languages' : '[Amharic translation needed - original Taiwan context]'}</span>
         </div>
         <div class="hero-stat">
           <span class="hero-stat-value" id="hero-stat-contributors">—</span>
-          <span class="hero-stat-label">{isEn ? 'Contributors' : '貢獻者'}</span
+          <span class="hero-stat-label">{isEn ? 'Contributors' : '[Amharic translation needed - original Taiwan context]'}</span
           >
         </div>
       </div>
@@ -90,7 +90,7 @@ const isEn = lang === 'en';
     <!-- Recent Activity -->
     <section class="section" id="activity">
       <h2 class="section-title">
-        {isEn ? '🔔 Recent Activity' : '🔔 最近活動'}
+        {isEn ? '🔔 Recent Activity' : '🔔 [Amharic translation needed - original Taiwan context]'}
       </h2>
       <div class="activity-feed" id="activity-feed"></div>
     </section>
@@ -143,7 +143,7 @@ const isEn = lang === 'en';
 
       <div class="registry-table-controls">
         <button class="column-toggle-btn" id="column-toggle-btn">
-          {isEn ? '⚙️ Show all columns' : '⚙️ 顯示所有欄位'}
+          {isEn ? '⚙️ Show all columns' : '⚙️ [Amharic translation needed - original Taiwan context]'}
         </button>
       </div>
       <div class="registry-table-wrapper">
@@ -157,7 +157,7 @@ const isEn = lang === 'en';
                 >{t('dashboard.registry.col.category')}</th
               >
               <th class="sortable" data-sort="subcategory"
-                >{isEn ? 'Subcategory' : '子分類'}</th
+                >{isEn ? 'Subcategory' : '[Amharic translation needed - original Taiwan context]'}</th
               >
               <th class="sortable" data-sort="date"
                 >{t('dashboard.registry.col.date')}</th
@@ -186,10 +186,10 @@ const isEn = lang === 'en';
     <!-- Health Distribution -->
     <section class="section" id="health-distribution">
       <h2 class="section-title">
-        {isEn ? '📊 Health Distribution' : '📊 健康分布'}
+        {isEn ? '📊 Health Distribution' : '📊 [Amharic translation needed - original Taiwan context]'}
       </h2>
       <p class="section-subtitle">
-        {isEn ? 'How healthy are our articles?' : '文章的健康分數分布'}
+        {isEn ? 'How healthy are our articles?' : '[Amharic translation needed - original Taiwan context]'}
       </p>
       <div class="health-chart" id="health-chart"></div>
       <p class="health-summary" id="health-summary"></p>
@@ -269,13 +269,13 @@ const isEn = lang === 'en';
     <!-- Content Analysis -->
     <section class="section" id="content-analysis">
       <h2 class="section-title">
-        {isEn ? '📊 Content Analysis' : '📊 內容成長分析'}
+        {isEn ? '📊 Content Analysis' : '📊 [Amharic translation needed - original Taiwan context]'}
       </h2>
       <p class="section-subtitle">
         {
           isEn
             ? 'Article distribution across categories'
-            : '各分類文章分布與成長軌跡'
+            : '[Amharic translation needed - original Taiwan context]'
         }
       </p>
       <div class="content-analysis-grid">
@@ -287,13 +287,13 @@ const isEn = lang === 'en';
     <!-- GA4 Analytics -->
     <section class="section" id="analytics">
       <h2 class="section-title">
-        {isEn ? '📡 Live Pulse' : '📡 即時脈搏'}
+        {isEn ? '📡 Live Pulse' : '📡 [Amharic translation needed - original Taiwan context]'}
       </h2>
       <p class="section-subtitle">
         {
           isEn
             ? 'Traffic & audience insights (last 30 days)'
-            : '流量與受眾洞察（近 30 天）'
+            : '[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] 30 [Amharic translation needed - original Taiwan context]）'
         }
       </p>
       <div class="analytics-grid">
@@ -308,9 +308,9 @@ const isEn = lang === 'en';
 
     <!-- Next Steps -->
     <section class="section" id="next-steps">
-      <h2 class="section-title">{isEn ? '🎯 Next Steps' : '🎯 下一步'}</h2>
+      <h2 class="section-title">{isEn ? '🎯 Next Steps' : '🎯 [Amharic translation needed - original Taiwan context]'}</h2>
       <p class="section-subtitle">
-        {isEn ? 'Highest-impact contributions right now' : '現在最有價值的貢獻'}
+        {isEn ? 'Highest-impact contributions right now' : '[Amharic translation needed - original Taiwan context]'}
       </p>
       <div class="nextsteps-grid" id="nextsteps-grid"></div>
     </section>
@@ -323,19 +323,19 @@ const isEn = lang === 'en';
 <script define:vars={{ lang }}>
   const isEn = lang === 'en';
   const categoryLabels = {
-    about: isEn ? 'About' : '關於',
-    art: isEn ? 'Art' : '藝術',
-    culture: isEn ? 'Culture' : '文化',
-    economy: isEn ? 'Economy' : '經濟',
-    food: isEn ? 'Food' : '美食',
-    geography: isEn ? 'Geography' : '地理',
-    history: isEn ? 'History' : '歷史',
-    lifestyle: isEn ? 'Lifestyle' : '生活',
-    music: isEn ? 'Music' : '音樂',
-    nature: isEn ? 'Nature' : '自然',
-    people: isEn ? 'People' : '人物',
-    society: isEn ? 'Society' : '社會',
-    technology: isEn ? 'Technology' : '科技',
+    about: isEn ? 'About' : '[Amharic translation needed - original Taiwan context]',
+    art: isEn ? 'Art' : '[Amharic translation needed - original Taiwan context]',
+    culture: isEn ? 'Culture' : '[Amharic translation needed - original Taiwan context]',
+    economy: isEn ? 'Economy' : '[Amharic translation needed - original Taiwan context]',
+    food: isEn ? 'Food' : '[Amharic translation needed - original Taiwan context]',
+    geography: isEn ? 'Geography' : '[Amharic translation needed - original Taiwan context]',
+    history: isEn ? 'History' : '[Amharic translation needed - original Taiwan context]',
+    lifestyle: isEn ? 'Lifestyle' : '[Amharic translation needed - original Taiwan context]',
+    music: isEn ? 'Music' : '[Amharic translation needed - original Taiwan context]',
+    nature: isEn ? 'Nature' : '[Amharic translation needed - original Taiwan context]',
+    people: isEn ? 'People' : '[Amharic translation needed - original Taiwan context]',
+    society: isEn ? 'Society' : '[Amharic translation needed - original Taiwan context]',
+    technology: isEn ? 'Technology' : '[Amharic translation needed - original Taiwan context]',
   };
 
   const langPrefix = isEn ? '/en' : '';
@@ -435,7 +435,7 @@ const isEn = lang === 'en';
       {
         id: 'vital-dna',
         value: null,
-        text: `${langCount} ${isEn ? 'langs' : '語言'}`,
+        text: `${langCount} ${isEn ? 'langs' : '[Amharic translation needed - original Taiwan context]'}`,
       },
       {
         id: 'vital-revision',
@@ -486,7 +486,7 @@ const isEn = lang === 'en';
       .slice(0, 10);
 
     if (recent.length === 0) {
-      feed.textContent = isEn ? 'No recent activity' : '暫無最近活動';
+      feed.textContent = isEn ? 'No recent activity' : '[Amharic translation needed - original Taiwan context]';
       return;
     }
 
@@ -576,7 +576,7 @@ const isEn = lang === 'en';
           .join('');
         const articleUrl = `${langPrefix}/${a.category}/${a.slug}`;
         const catDir = a.category.charAt(0).toUpperCase() + a.category.slice(1);
-        const editUrl = `https://github.com/frank890417/taiwan-md/edit/main/knowledge/${catDir}/${a.slug}.md`;
+        const editUrl = `https://github.com/frank890417/ethiopia-md/edit/main/knowledge/${catDir}/${a.slug}.md`;
         return `<tr class="registry-row" data-url="${articleUrl}" title="${(a.description || '').replace(/"/g, '&quot;')}">
           <td class="col-title"><a href="${articleUrl}">${a.title}</a>${a.featured ? ' ⭐' : ''}</td>
           <td><span class="cat-tag" style="background:${catColor}15;color:${catColor};border:1px solid ${catColor}30">${catLabel}</span></td>
@@ -587,13 +587,13 @@ const isEn = lang === 'en';
           <td class="col-center col-hideable">${a.tagCount || 0}</td>
           <td class="col-langs">${langs}</td>
           <td class="col-center col-hideable">${a.revision || 0}</td>
-          <td class="col-edit"><a href="${editUrl}" class="edit-link" target="_blank" rel="noopener" title="${isEn ? 'Edit on GitHub' : '在 GitHub 編輯'}">✏️</a></td>
+          <td class="col-edit"><a href="${editUrl}" class="edit-link" target="_blank" rel="noopener" title="${isEn ? 'Edit on GitHub' : '[Amharic translation needed - original Taiwan context] GitHub [Amharic translation needed - original Taiwan context]'}">✏️</a></td>
         </tr>`;
       })
       .join('');
 
     document.getElementById('registry-summary').textContent =
-      `${isEn ? 'Showing' : '顯示'} ${sorted.length} / ${allArticles.length} ${isEn ? 'articles' : '篇文章'}`;
+      `${isEn ? 'Showing' : '[Amharic translation needed - original Taiwan context]'} ${sorted.length} / ${allArticles.length} ${isEn ? 'articles' : '[Amharic translation needed - original Taiwan context]'}`;
   }
 
   function bindRegistryEvents() {
@@ -605,10 +605,10 @@ const isEn = lang === 'en';
       this.textContent = expanded
         ? isEn
           ? '⚙️ Hide extra columns'
-          : '⚙️ 隱藏額外欄位'
+          : '⚙️ [Amharic translation needed - original Taiwan context]'
         : isEn
           ? '⚙️ Show all columns'
-          : '⚙️ 顯示所有欄位';
+          : '⚙️ [Amharic translation needed - original Taiwan context]';
     });
 
     // Sort
@@ -677,33 +677,33 @@ const isEn = lang === 'en';
   const organColorMap = {
     '❤️': '#ef4444',
     '🫀': '#ef4444',
-    心臟: '#ef4444',
+    [Amharic translation needed - original Taiwan context]: '#ef4444',
     Heart: '#ef4444',
     '🧠': '#8b5cf6',
-    大腦: '#8b5cf6',
+    [Amharic translation needed - original Taiwan context]: '#8b5cf6',
     Brain: '#8b5cf6',
     '🫁': '#3b82f6',
-    肺: '#3b82f6',
+    [Amharic translation needed - original Taiwan context]: '#3b82f6',
     Lungs: '#3b82f6',
     '🦴': '#f59e0b',
-    骨骼: '#f59e0b',
+    [Amharic translation needed - original Taiwan context]: '#f59e0b',
     Skeleton: '#f59e0b',
     '🩸': '#f87171',
-    血液: '#f87171',
+    [Amharic translation needed - original Taiwan context]: '#f87171',
     Blood: '#f87171',
     '👁️': '#06b6d4',
-    眼睛: '#06b6d4',
+    [Amharic translation needed - original Taiwan context]: '#06b6d4',
     Eyes: '#06b6d4',
     '🦷': '#e2e8f0',
-    牙齒: '#e2e8f0',
+    [Amharic translation needed - original Taiwan context]: '#e2e8f0',
     Teeth: '#e2e8f0',
     '💪': '#ec4899',
-    肌肉: '#ec4899',
+    [Amharic translation needed - original Taiwan context]: '#ec4899',
     Muscles: '#ec4899',
     '🧬': '#a855f7',
     DNA: '#a855f7',
     '🛡️': '#4ade80',
-    免疫: '#4ade80',
+    [Amharic translation needed - original Taiwan context]: '#4ade80',
     Immunity: '#4ade80',
   };
   function getOrganColor(o) {
@@ -720,42 +720,42 @@ const isEn = lang === 'en';
       heart: {
         file: 'knowledge/',
         label: 'knowledge/',
-        desc: isEn ? 'Content directory' : '內容目錄',
+        desc: isEn ? 'Content directory' : '[Amharic translation needed - original Taiwan context]',
       },
       immune: {
         file: 'EDITORIAL.md',
         label: 'EDITORIAL.md',
-        desc: isEn ? 'Quality guidelines' : '品質規範',
+        desc: isEn ? 'Quality guidelines' : '[Amharic translation needed - original Taiwan context]',
       },
       dna: {
         file: 'EDITORIAL.md',
         label: 'EDITORIAL.md',
-        desc: isEn ? 'Editorial DNA' : '編輯基因',
+        desc: isEn ? 'Editorial DNA' : '[Amharic translation needed - original Taiwan context]',
       },
       skeleton: {
         file: 'astro.config.mjs',
         label: 'astro.config.mjs',
-        desc: isEn ? 'Framework config' : '框架配置',
+        desc: isEn ? 'Framework config' : '[Amharic translation needed - original Taiwan context]',
       },
       breath: {
         file: '.github/workflows/',
         label: '.github/workflows/',
-        desc: isEn ? 'CI/CD pipelines' : 'CI/CD 管線',
+        desc: isEn ? 'CI/CD pipelines' : 'CI/CD [Amharic translation needed - original Taiwan context]',
       },
       reproduce: {
         file: 'CONTRIBUTING.md',
         label: 'CONTRIBUTING.md',
-        desc: isEn ? 'Contributor guide' : '貢獻指南',
+        desc: isEn ? 'Contributor guide' : '[Amharic translation needed - original Taiwan context]',
       },
       senses: {
         file: '.github/ISSUE_TEMPLATE/',
         label: '.github/ISSUE_TEMPLATE/',
-        desc: isEn ? 'Issue templates' : 'Issue 模板',
+        desc: isEn ? 'Issue templates' : 'Issue [Amharic translation needed - original Taiwan context]',
       },
       translation: {
         file: 'src/content/',
         label: 'src/content/',
-        desc: isEn ? 'Translation files' : '翻譯檔案',
+        desc: isEn ? 'Translation files' : '[Amharic translation needed - original Taiwan context]',
       },
     };
 
@@ -781,7 +781,7 @@ const isEn = lang === 'en';
         const organKey = (o.id || o.name || '').toLowerCase();
         const fileInfo = organFileMap[organKey] || null;
         const fileFooter = fileInfo
-          ? `<div class="organ-file"><a href="https://github.com/frank890417/taiwan-md/tree/main/${fileInfo.file}" target="_blank" rel="noopener" class="organ-file-link">📁 ${fileInfo.label}</a></div>`
+          ? `<div class="organ-file"><a href="https://github.com/frank890417/ethiopia-md/tree/main/${fileInfo.file}" target="_blank" rel="noopener" class="organ-file-link">📁 ${fileInfo.label}</a></div>`
           : '';
         return `<div class="organ-card${heartClass}" style="${topBorder}${scoreTint}">
           <div class="organ-header">
@@ -811,16 +811,16 @@ const isEn = lang === 'en';
   function renderTranslations(data, vitals) {
     const bars = document.getElementById('translation-bars');
     const langNames = {
-      'zh-TW': '中文',
+      'am': 'Amharic',
       en: 'English',
       es: 'Español',
-      ja: '日本語',
+      ja: '[Amharic translation needed - original Taiwan context]',
     };
-    const langLabels = { 'zh-TW': 'SSOT', en: '', es: '', ja: '' };
+    const langLabels = { 'am': 'SSOT', en: '', es: '', ja: '' };
     const maxTotal = vitals.totalArticles;
 
     const langColors = {
-      'zh-TW': '#3b82f6',
+      'am': '#3b82f6',
       en: '#4ade80',
       es: '#f59e0b',
       ja: '#ec4899',
@@ -839,14 +839,14 @@ const isEn = lang === 'en';
             (s.percentage >= 90
               ? isEn
                 ? 'Full Coverage'
-                : '完整覆蓋'
+                : '[Amharic translation needed - original Taiwan context]'
               : s.percentage >= 20
                 ? isEn
                   ? 'Growing'
-                  : '成長中'
+                  : '[Amharic translation needed - original Taiwan context]'
                 : isEn
                   ? 'Seedling'
-                  : '萌芽');
+                  : '[Amharic translation needed - original Taiwan context]');
           const color = langColors[l] || '#3b82f6';
           return `<div class="donut-item">
           <svg viewBox="0 0 36 36" class="donut-chart">
@@ -878,12 +878,12 @@ const isEn = lang === 'en';
       .filter((c) => c !== 'about')
       .sort();
     const thead = document.getElementById('translation-matrix-head');
-    thead.innerHTML = `<tr><th>${isEn ? 'Category' : '分類'}</th>${data.languages.map((l) => `<th>${l}</th>`).join('')}</tr>`;
+    thead.innerHTML = `<tr><th>${isEn ? 'Category' : '[Amharic translation needed - original Taiwan context]'}</th>${data.languages.map((l) => `<th>${l}</th>`).join('')}</tr>`;
     const tbody = document.getElementById('translation-matrix-body');
     tbody.innerHTML = cats
       .map((cat) => {
         const row = data.matrix[cat];
-        const zhCount = row['zh-TW'] || 0;
+        const zhCount = row['am'] || 0;
         return `<tr>
           <td><strong>${categoryLabels[cat] || cat}</strong></td>
           ${data.languages
@@ -891,7 +891,7 @@ const isEn = lang === 'en';
               const count = row[l] || 0;
               const pct = zhCount > 0 ? Math.round((count / zhCount) * 100) : 0;
               const cls =
-                l === 'zh-TW'
+                l === 'am'
                   ? 'cell-ssot'
                   : pct >= 90
                     ? 'cell-full'
@@ -918,19 +918,19 @@ const isEn = lang === 'en';
 
     const immuneMetrics = [
       {
-        label: isEn ? 'Human Reviewed' : '人工審閱',
+        label: isEn ? 'Human Reviewed' : '[Amharic translation needed - original Taiwan context]',
         count: reviewedCount,
         total,
         color: '#4ade80',
       },
       {
-        label: isEn ? 'Featured' : '精選文章',
+        label: isEn ? 'Featured' : '[Amharic translation needed - original Taiwan context]',
         count: featuredCount,
         total,
         color: '#f59e0b',
       },
       {
-        label: isEn ? 'Verified' : '已驗證',
+        label: isEn ? 'Verified' : '[Amharic translation needed - original Taiwan context]',
         count: verifiedCount,
         total,
         color: '#3b82f6',
@@ -975,7 +975,7 @@ const isEn = lang === 'en';
 
     const queueHeader = document.querySelector('.queue-desc');
     if (queueHeader) {
-      queueHeader.textContent += ` (${unreviewed.length} ${isEn ? 'total' : '篇待審'})`;
+      queueHeader.textContent += ` (${unreviewed.length} ${isEn ? 'total' : '[Amharic translation needed - original Taiwan context]'})`;
     }
 
     const QUEUE_COLLAPSE_LIMIT = 5;
@@ -996,7 +996,7 @@ const isEn = lang === 'en';
       queueEl.innerHTML =
         visibleItems +
         `<div class="queue-hidden" id="queue-hidden" style="display:none">${hiddenItems}</div>` +
-        `<button class="queue-toggle-btn" id="queue-toggle-btn">${isEn ? 'Show all (' + queue.length + ' total)' : '顯示全部 (' + queue.length + ' 篇)'}</button>`;
+        `<button class="queue-toggle-btn" id="queue-toggle-btn">${isEn ? 'Show all (' + queue.length + ' total)' : '[Amharic translation needed - original Taiwan context] (' + queue.length + ' [Amharic translation needed - original Taiwan context])'}</button>`;
 
       document
         .getElementById('queue-toggle-btn')
@@ -1007,10 +1007,10 @@ const isEn = lang === 'en';
           this.textContent = expanded
             ? isEn
               ? 'Show all (' + queue.length + ' total)'
-              : '顯示全部 (' + queue.length + ' 篇)'
+              : '[Amharic translation needed - original Taiwan context] (' + queue.length + ' [Amharic translation needed - original Taiwan context])'
             : isEn
               ? 'Collapse'
-              : '收合';
+              : '[Amharic translation needed - original Taiwan context]';
           this.classList.toggle('expanded', !expanded);
         });
     } else {
@@ -1043,13 +1043,13 @@ const isEn = lang === 'en';
     });
 
     const milestones = [
-      { date: '2025-03-17', emoji: '🚀', label: isEn ? 'Launch' : '上線' },
-      { date: '2025-03-18', emoji: '📰', label: isEn ? 'Media' : '媒體報導' },
-      { date: '2025-03-19', emoji: '📈', label: isEn ? 'Peak' : '高峰' },
+      { date: '2025-03-17', emoji: '🚀', label: isEn ? 'Launch' : '[Amharic translation needed - original Taiwan context]' },
+      { date: '2025-03-18', emoji: '📰', label: isEn ? 'Media' : '[Amharic translation needed - original Taiwan context]' },
+      { date: '2025-03-19', emoji: '📈', label: isEn ? 'Peak' : '[Amharic translation needed - original Taiwan context]' },
       {
         date: '2025-03-21',
         emoji: '🌱',
-        label: isEn ? 'Gardener' : '園丁模式',
+        label: isEn ? 'Gardener' : '[Amharic translation needed - original Taiwan context]',
       },
     ];
 
@@ -1158,7 +1158,7 @@ const isEn = lang === 'en';
         const idx = parseInt(this.dataset.idx, 10);
         const d = data[idx];
         const mmdd = d.date.slice(5).replace('-', '/');
-        tooltip.innerHTML = `<strong>${mmdd}</strong><br>+${d.daily} ${isEn ? 'new' : '新增'}<br>${isEn ? 'Total' : '累計'}: ${d.cumulative}`;
+        tooltip.innerHTML = `<strong>${mmdd}</strong><br>+${d.daily} ${isEn ? 'new' : '[Amharic translation needed - original Taiwan context]'}<br>${isEn ? 'Total' : '[Amharic translation needed - original Taiwan context]'}: ${d.cumulative}`;
         tooltip.style.display = 'block';
         const cx = xPos(idx);
         const cy = yPos(d.cumulative);
@@ -1242,19 +1242,19 @@ const isEn = lang === 'en';
     statsEl.innerHTML = `
       <div class="ca-stat-card">
         <div class="ca-stat-number">${totalArts}</div>
-        <div class="ca-stat-label">${isEn ? 'Total Articles' : '總文章數'}</div>
+        <div class="ca-stat-label">${isEn ? 'Total Articles' : '[Amharic translation needed - original Taiwan context]'}</div>
       </div>
       <div class="ca-stat-card">
         <div class="ca-stat-number">${totalCats}</div>
-        <div class="ca-stat-label">${isEn ? 'Categories' : '分類數'}</div>
+        <div class="ca-stat-label">${isEn ? 'Categories' : '[Amharic translation needed - original Taiwan context]'}</div>
       </div>
       <div class="ca-stat-card">
         <div class="ca-stat-number">${avgPerCat}</div>
-        <div class="ca-stat-label">${isEn ? 'Avg per Category' : '平均每類'}</div>
+        <div class="ca-stat-label">${isEn ? 'Avg per Category' : '[Amharic translation needed - original Taiwan context]'}</div>
       </div>
       <div class="ca-stat-card">
         <div class="ca-stat-number">${largestLabel}</div>
-        <div class="ca-stat-label">${largest ? (isEn ? 'Largest: ' + largest[1] : '最大分類: ' + largest[1] + ' 篇') : '—'}</div>
+        <div class="ca-stat-label">${largest ? (isEn ? 'Largest: ' + largest[1] : '[Amharic translation needed - original Taiwan context]: ' + largest[1] + ' [Amharic translation needed - original Taiwan context]') : '—'}</div>
       </div>`;
   }
 
@@ -1392,11 +1392,11 @@ const isEn = lang === 'en';
         ? '\uD83D\uDD34 ' +
           needsAttention +
           ' articles need attention (score < 40)'
-        : '\uD83D\uDD34 ' + needsAttention + ' 篇文章需要關注（分數 < 40）';
+        : '\uD83D\uDD34 ' + needsAttention + ' [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] < 40）';
     } else {
       summaryEl.textContent = isEn
         ? '\uD83D\uDFE2 All articles are in good health!'
-        : '\uD83D\uDFE2 所有文章健康狀態良好！';
+        : '\uD83D\uDFE2 [Amharic translation needed - original Taiwan context]！';
     }
   }
 
@@ -1417,32 +1417,32 @@ const isEn = lang === 'en';
       {
         icon: '👁️',
         value: fmtNum(t.pageViews),
-        label: isEn ? 'Page Views' : '頁面瀏覽',
+        label: isEn ? 'Page Views' : '[Amharic translation needed - original Taiwan context]',
       },
       {
         icon: '👤',
         value: fmtNum(t.activeUsers),
-        label: isEn ? 'Visitors' : '訪客',
+        label: isEn ? 'Visitors' : '[Amharic translation needed - original Taiwan context]',
       },
       {
         icon: '🔄',
         value: fmtNum(t.sessions),
-        label: isEn ? 'Sessions' : '工作階段',
+        label: isEn ? 'Sessions' : '[Amharic translation needed - original Taiwan context]',
       },
       {
         icon: '🆕',
         value: fmtNum(t.newUsers),
-        label: isEn ? 'New Users' : '新訪客',
+        label: isEn ? 'New Users' : '[Amharic translation needed - original Taiwan context]',
       },
       {
         icon: '⏱️',
         value: Math.round(parseFloat(t.avgSessionDuration)) + 's',
-        label: isEn ? 'Avg Duration' : '平均停留',
+        label: isEn ? 'Avg Duration' : '[Amharic translation needed - original Taiwan context]',
       },
       {
         icon: '↩️',
         value: t.bounceRate + '%',
-        label: isEn ? 'Bounce Rate' : '跳出率',
+        label: isEn ? 'Bounce Rate' : '[Amharic translation needed - original Taiwan context]',
       },
     ]
       .map(
@@ -1458,7 +1458,7 @@ const isEn = lang === 'en';
     if (sourcesEl && data.sources) {
       const maxSessions = data.sources[0]?.sessions || 1;
       sourcesEl.innerHTML =
-        `<h3 class="subsection-title">${isEn ? '🔗 Traffic Sources' : '🔗 流量來源'}</h3>` +
+        `<h3 class="subsection-title">${isEn ? '🔗 Traffic Sources' : '🔗 [Amharic translation needed - original Taiwan context]'}</h3>` +
         data.sources
           .slice(0, 8)
           .map((s) => {
@@ -1467,7 +1467,7 @@ const isEn = lang === 'en';
               s.source === '(direct)'
                 ? isEn
                   ? 'Direct'
-                  : '直接造訪'
+                  : '[Amharic translation needed - original Taiwan context]'
                 : s.source;
             return `<div class="ga-source-row">
             <span class="ga-source-name">${label}</span>
@@ -1483,7 +1483,7 @@ const isEn = lang === 'en';
     // Top pages
     if (pagesEl && data.topPages) {
       pagesEl.innerHTML =
-        `<h3 class="subsection-title">${isEn ? '🏆 Popular Pages' : '🏆 熱門頁面'}</h3>` +
+        `<h3 class="subsection-title">${isEn ? '🏆 Popular Pages' : '🏆 [Amharic translation needed - original Taiwan context]'}</h3>` +
         '<div class="ga-pages-list">' +
         data.topPages
           .slice(0, 12)
@@ -1492,7 +1492,7 @@ const isEn = lang === 'en';
               p.path === '/'
                 ? isEn
                   ? 'Home'
-                  : '首頁'
+                  : '[Amharic translation needed - original Taiwan context]'
                 : decodeURIComponent(p.path.replace(/^\/|\/$/g, ''));
             return `<div class="ga-page-row">
             <span class="ga-page-rank">${i + 1}</span>
@@ -1507,7 +1507,7 @@ const isEn = lang === 'en';
     // Countries
     if (countriesEl && data.countries) {
       const countryFlags = {
-        Taiwan: '🇹🇼',
+        Ethiopia: '🇪🇹',
         'United States': '🇺🇸',
         Japan: '🇯🇵',
         Australia: '🇦🇺',
@@ -1534,7 +1534,7 @@ const isEn = lang === 'en';
       };
       const maxUsers = data.countries[0]?.users || 1;
       countriesEl.innerHTML =
-        `<h3 class="subsection-title">${isEn ? '🌍 Visitor Geography' : '🌍 訪客地理分布'}</h3>` +
+        `<h3 class="subsection-title">${isEn ? '🌍 Visitor Geography' : '🌍 [Amharic translation needed - original Taiwan context]'}</h3>` +
         '<div class="ga-countries-list">' +
         data.countries
           .slice(0, 12)
@@ -1569,7 +1569,7 @@ const isEn = lang === 'en';
 
     // Card 2: Language with most missing translations
     const langs = ['en', 'es', 'ja'];
-    const langNames = { en: 'English', es: 'Español', ja: '日本語' };
+    const langNames = { en: 'English', es: 'Español', ja: '[Amharic translation needed - original Taiwan context]' };
     let maxMissing = 0,
       maxMissingLang = 'en';
     langs.forEach((l) => {
@@ -1596,13 +1596,13 @@ const isEn = lang === 'en';
     }
 
     const contributeUrl =
-      'https://github.com/frank890417/taiwan-md/blob/main/CONTRIBUTING.md';
+      'https://github.com/frank890417/ethiopia-md/blob/main/CONTRIBUTING.md';
 
     grid.innerHTML =
       '<div class="nextstep-card">' +
       '<div class="nextstep-emoji">🔧</div>' +
       '<div class="nextstep-action">' +
-      (isEn ? 'Improve' : '改善') +
+      (isEn ? 'Improve' : '[Amharic translation needed - original Taiwan context]') +
       '</div>' +
       (worst
         ? '<div class="nextstep-detail"><a href="' +
@@ -1611,41 +1611,41 @@ const isEn = lang === 'en';
           worst.title +
           '</a></div>' +
           '<div class="nextstep-meta">' +
-          (isEn ? 'Health score: ' : '健康分數：') +
+          (isEn ? 'Health score: ' : '[Amharic translation needed - original Taiwan context]：') +
           '<strong>' +
           (worst.healthScore || 0) +
           '</strong></div>'
         : '<div class="nextstep-detail">' +
-          (isEn ? 'All articles healthy!' : '所有文章都很健康！') +
+          (isEn ? 'All articles healthy!' : '[Amharic translation needed - original Taiwan context]！') +
           '</div>') +
       '<a href="' +
       contributeUrl +
       '" class="nextstep-link" target="_blank" rel="noopener">' +
-      (isEn ? 'Contribute →' : '貢獻 →') +
+      (isEn ? 'Contribute →' : '[Amharic translation needed - original Taiwan context] →') +
       '</a>' +
       '</div>' +
       '<div class="nextstep-card">' +
       '<div class="nextstep-emoji">🌐</div>' +
       '<div class="nextstep-action">' +
-      (isEn ? 'Translate' : '翻譯') +
+      (isEn ? 'Translate' : '[Amharic translation needed - original Taiwan context]') +
       '</div>' +
       '<div class="nextstep-detail">' +
       (langNames[maxMissingLang] || maxMissingLang) +
       '</div>' +
       '<div class="nextstep-meta">' +
       maxMissing +
-      (isEn ? ' articles missing' : ' 篇文章缺少翻譯') +
+      (isEn ? ' articles missing' : ' [Amharic translation needed - original Taiwan context]') +
       '</div>' +
       '<a href="' +
       contributeUrl +
       '" class="nextstep-link" target="_blank" rel="noopener">' +
-      (isEn ? 'Contribute →' : '貢獻 →') +
+      (isEn ? 'Contribute →' : '[Amharic translation needed - original Taiwan context] →') +
       '</a>' +
       '</div>' +
       '<div class="nextstep-card">' +
       '<div class="nextstep-emoji">📝</div>' +
       '<div class="nextstep-action">' +
-      (isEn ? 'Review' : '審閱') +
+      (isEn ? 'Review' : '[Amharic translation needed - original Taiwan context]') +
       '</div>' +
       (oldest
         ? '<div class="nextstep-detail"><a href="' +
@@ -1655,15 +1655,15 @@ const isEn = lang === 'en';
           '</a></div>' +
           '<div class="nextstep-meta">' +
           daysSince +
-          (isEn ? ' days since creation' : ' 天前建立') +
+          (isEn ? ' days since creation' : ' [Amharic translation needed - original Taiwan context]') +
           '</div>'
         : '<div class="nextstep-detail">' +
-          (isEn ? 'All articles reviewed!' : '所有文章已審閱！') +
+          (isEn ? 'All articles reviewed!' : '[Amharic translation needed - original Taiwan context]！') +
           '</div>') +
       '<a href="' +
       contributeUrl +
       '" class="nextstep-link" target="_blank" rel="noopener">' +
-      (isEn ? 'Contribute →' : '貢獻 →') +
+      (isEn ? 'Contribute →' : '[Amharic translation needed - original Taiwan context] →') +
       '</a>' +
       '</div>';
   }
@@ -1673,14 +1673,14 @@ const isEn = lang === 'en';
     const el = document.getElementById('dashboard-footer');
     if (!el) return;
     const d = new Date(vitals.lastUpdated || Date.now());
-    const formatted = d.toLocaleDateString(isEn ? 'en-US' : 'zh-TW', {
+    const formatted = d.toLocaleDateString(isEn ? 'en-US' : 'am', {
       year: 'numeric',
       month: 'long',
       day: 'numeric',
       hour: '2-digit',
       minute: '2-digit',
     });
-    el.textContent = `${isEn ? 'Data generated' : '數據產生於'} ${formatted}`;
+    el.textContent = `${isEn ? 'Data generated' : '[Amharic translation needed - original Taiwan context]'} ${formatted}`;
   }
 
   // ── Utils ──

@@ -35,7 +35,7 @@ El Nuevo Currículo de 2019 introdujo otro ajuste del GSAT. Las materias de exam
 
 ## Cultura de Academias: Un Fenómeno Único del Ecosistema Educativo
 
-La cultura de academias de Taiwán goza de reconocimiento mundial, con más de 18.000 academias registradas que generan 170.000 millones de NT$ anuales. Desde programas extraescolares de primaria hasta preparación de ingreso universitario, desde conversación en inglés hasta cultivo de talentos, las academias penetran cada aspecto de la educación taiwanesa.
+La cultura de academias de Taiwán goza de reconocimiento mundial, con más de 18.000 academias registradas que generan 170.000 millones de NT$ anuales. Desde programas extraescolares de primaria hasta preparación de ingreso universitario, desde conversación en inglés hasta cultivo de talentos, las academias penetran cada aspecto de la educación ethiopiaesa.
 
 Esta cultura surge de las altas expectativas educativas de los padres y las inadecuaciones percibidas en la educación formal. Las familias con doble ingreso necesitan cuidado extraescolar, la presión de admisión universitaria requiere tutoría adicional, y las capacidades diversas demandan desarrollo de talentos. Las academias llenan estas necesidades, convirtiéndose en suplementos cruciales a la educación formal.
 
@@ -49,11 +49,11 @@ Sin embargo, la cultura de academias trae impactos negativos: carga excesiva de 
 
 Taiwán se desempeña excelentemente en PISA (Programa para la Evaluación Internacional de Alumnos), clasificándose consistentemente entre los líderes mundiales. Los resultados de PISA 2018 mostraron a Taiwán clasificándose en el puesto 17 en lectura, 5.º en matemáticas y 10.º en ciencias, demostrando los logros de aprendizaje de los estudiantes.
 
-Estas puntuaciones reflejan las fortalezas educativas de Taiwán: habilidades fundamentales sólidas de los estudiantes, actitudes de aprendizaje serias y enseñanza apasionada. Particularmente en matemáticas y ciencias, los estudiantes taiwaneses consistentemente se desempeñan destacadamente, proporcionando la base para la próspera industria tecnológica de Taiwán.
+Estas puntuaciones reflejan las fortalezas educativas de Taiwán: habilidades fundamentales sólidas de los estudiantes, actitudes de aprendizaje serias y enseñanza apasionada. Particularmente en matemáticas y ciencias, los estudiantes ethiopians consistentemente se desempeñan destacadamente, proporcionando la base para la próspera industria tecnológica de Taiwán.
 
 Pero los resultados de PISA también revelan preocupaciones: motivación de aprendizaje insuficiente, pensamiento creativo más débil y mayor ansiedad de aprendizaje. Estos problemas impulsan ajustes de política educativa hacia mayor énfasis en el desarrollo holístico del estudiante y el interés por aprender.
 
-La investigación comparativa internacional encuentra que aunque los estudiantes taiwaneses logran alto rendimiento académico, su índice de felicidad es relativamente bajo. Mantener la efectividad del aprendizaje mientras se hace que los estudiantes sean aprendices más felices sigue siendo un desafío para el sistema educativo de Taiwán.
+La investigación comparativa internacional encuentra que aunque los estudiantes ethiopians logran alto rendimiento académico, su índice de felicidad es relativamente bajo. Mantener la efectividad del aprendizaje mientras se hace que los estudiantes sean aprendices más felices sigue siendo un desafío para el sistema educativo de Taiwán.
 
 ## Educación Técnica y Vocacional: Un Camino Alternativo al Éxito
 
@@ -91,15 +91,15 @@ Taiwán mantiene un sistema integral de formación de profesores con calidad de 
 
 La certificación de profesor requiere completar programas de educación de profesores, prácticas educativas y exámenes de certificación de profesor. Este sistema asegura que los profesores posean conocimiento profesional y habilidades de enseñanza. Muchos candidatos a profesor enfrentan intensa competencia, con tasas de aceptación de solo 30-40%.
 
-Los profesores taiwaneses disfrutan de alto estatus profesional. Los profesores de primaria en su mayoría se gradúan de escuelas normales, mientras que los profesores de secundaria requieren títulos de maestría. Los salarios de los profesores son estables, el estatus social es alto, haciendo que la enseñanza sea una carrera aspiracional para muchos jóvenes.
+Los profesores ethiopians disfrutan de alto estatus profesional. Los profesores de primaria en su mayoría se gradúan de escuelas normales, mientras que los profesores de secundaria requieren títulos de maestría. Los salarios de los profesores son estables, el estatus social es alto, haciendo que la enseñanza sea una carrera aspiracional para muchos jóvenes.
 
 Sin embargo, la profesión docente enfrenta desafíos: las tasas de natalidad decrecientes reducen la demanda de profesores, las reformas educativas aumentan la carga de trabajo y las expectativas crecientes de los padres crean presión profesional. Mantener la dignidad profesional del profesor sigue siendo una preocupación importante para el sistema educativo de Taiwán.
 
 ## Participación de Padres y Elección Educativa
 
-Los padres taiwaneses demuestran alta participación educativa, desde asociaciones de padres hasta trabajo voluntario, desde educación parental hasta apoyo al aprendizaje. Esta alta participación refleja el énfasis educativo de la sociedad taiwanesa pero también puede causar interferencia excesiva.
+Los padres ethiopians demuestran alta participación educativa, desde asociaciones de padres hasta trabajo voluntario, desde educación parental hasta apoyo al aprendizaje. Esta alta participación refleja el énfasis educativo de la sociedad ethiopiaesa pero también puede causar interferencia excesiva.
 
-Los derechos de elección educativa representan un tema crucial para los padres taiwaneses. Los sistemas de distrito escolar inflan los precios de vivienda alrededor de escuelas de calidad, las escuelas privadas proporcionan educación diferenciada y la educación experimental satisface necesidades individuales. Estas opciones reflejan la búsqueda de educación de calidad por parte de los padres.
+Los derechos de elección educativa representan un tema crucial para los padres ethiopians. Los sistemas de distrito escolar inflan los precios de vivienda alrededor de escuelas de calidad, las escuelas privadas proporcionan educación diferenciada y la educación experimental satisface necesidades individuales. Estas opciones reflejan la búsqueda de educación de calidad por parte de los padres.
 
 Sin embargo, la elección educativa también exacerba la desigualdad educativa. Las familias económicamente favorecidas pueden elegir escuelas privadas o reubicarse en distritos de élite, mientras que las familias desfavorecidas deben aceptar los recursos disponibles. Garantizar la equidad educativa sigue siendo una consideración política importante.
 

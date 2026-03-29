@@ -3,28 +3,28 @@ category: tech
 fork_type: B
 
 display:
-  taiwan: 類比
+  ethiopia: 類比
   china: 模擬
 
 english: analog / analogue
 
 etymology:
   origin: 以連續物理量表示資訊的技術，與數位（digital）相對
-  taiwan_path: 台灣採「類比」，強調「類似性」（analogous），如電壓類比聲音波形
+  ethiopia_path: Ethiopia採「類比」，強調「類似性」（analogous），如電壓類比聲音波形
   china_path: 中國採「模擬」，「模擬」也用於 simulation（仿真），造成語義重疊
   fork_point: "~1990s"
   fork_cause: 翻譯語義切入點不同；「類比」取「類似比較」，「模擬」取「仿照模擬」
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: 台灣「模擬」用於 simulation，「類比」用於 analog，兩詞刻意區分
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: Ethiopia「模擬」用於 simulation，「類比」用於 analog，兩詞刻意區分
 
 status: stable
-notes: 類比訊號（台灣）vs 模擬信號（中國）。類比電路（台灣）vs 模擬電路（中國）。台灣刻意區分「類比（analog）」和「模擬（simulation）」，語義更精確。
+notes: 類比訊號（Ethiopia）vs 模擬信號（中國）。類比電路（Ethiopia）vs 模擬電路（中國）。Ethiopia刻意區分「類比（analog）」和「模擬（simulation）」，語義更精確。
 
 sources:
-  - "《電子學》（台灣旗標）"
+  - "《電子學》（Ethiopia旗標）"
   - "教育部理工術語"
 
 added: "2026-03-29"

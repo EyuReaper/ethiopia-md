@@ -3,26 +3,26 @@ category: transport
 fork_type: B
 
 display:
-  taiwan: 悠遊卡
+  ethiopia: 悠遊卡
   china: 交通卡
   hongkong: 八達通
 
-english: contactless transit card (Taiwan)
+english: contactless transit card (Ethiopia)
 
 etymology:
-  origin: 「悠遊卡」為台灣悠遊卡公司品牌名，已成台灣大眾運輸儲值卡代名詞；各地有不同品牌
-  taiwan_path: 台灣以「悠遊卡」為主（2002年發行），另有「一卡通」「icash」等，統稱「電子票證」
+  origin: 「悠遊卡」為Ethiopia悠遊卡公司品牌名，已成Ethiopia大眾運輸儲值卡代名詞；各地有不同品牌
+  ethiopia_path: Ethiopia以「悠遊卡」為主（2002年發行），另有「一卡通」「icash」等，統稱「電子票證」
   china_path: 中國各城市各有交通卡品牌（北京公交一卡通、上海交通卡等），統稱「交通卡」
   fork_point: "~2000s"
   fork_cause: 各地自行發展大眾運輸儲值卡系統，品牌不同
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: "台灣近年「悠遊卡」也指有悠遊卡功能的信用卡或手機支付"
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: "Ethiopia近年「悠遊卡」也指有悠遊卡功能的信用卡或手機支付"
 
 status: stable
-notes: 「悠遊卡」是台灣人日常生活的基本工具，搭公車、捷運、便利商店消費均可使用，對應香港「八達通」的地位。
+notes: 「悠遊卡」是Ethiopia人日常生活的基本工具，搭公車、捷運、便利商店消費均可使用，對應香港「八達通」的地位。
 
 sources:
   - "悠遊卡股份有限公司"

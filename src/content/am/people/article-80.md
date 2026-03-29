@@ -1,0 +1,116 @@
+---
+title: "[Amharic translation needed - original Taiwan context]"
+description: '[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」，[Amharic translation needed - original Taiwan context]'
+date: 2026-03-24
+tags: [[Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context], LGBTQ+[Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context]]
+subcategory: '[Amharic translation needed - original Taiwan context]'
+category: people
+lastVerified: 2026-03-24
+lastHumanReview: false
+---
+
+> **30 [Amharic translation needed - original Taiwan context]：** 1998 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」。[Amharic translation needed - original Taiwan context]，
+> [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]
+> [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+> [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] 40 [Amharic translation needed - original Taiwan context]、
+> [Amharic translation needed - original Taiwan context]《[Amharic translation needed - original Taiwan context]》[Amharic translation needed - original Taiwan context]。
+
+2000 [Amharic translation needed - original Taiwan context] 4 [Amharic translation needed - original Taiwan context] 20 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+## [Amharic translation needed - original Taiwan context]
+
+1998 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] MTV [Amharic translation needed - original Taiwan context]《[Amharic translation needed - original Taiwan context]》[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」，[Amharic translation needed - original Taiwan context]《1019》。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]。
+
+[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]：「[Amharic translation needed - original Taiwan context]。」
+
+[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]。
+
+> **📝 [Amharic translation needed - original Taiwan context]**
+> [Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]。
+> [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+> [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+## [Amharic translation needed - original Taiwan context]
+
+2003 [Amharic translation needed - original Taiwan context]《[Amharic translation needed - original Taiwan context] 72 [Amharic translation needed - original Taiwan context]》[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context] 30 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+[Amharic translation needed - original Taiwan context]（2006 [Amharic translation needed - original Taiwan context]《[Amharic translation needed - original Taiwan context]》）。[Amharic translation needed - original Taiwan context]（2007 [Amharic translation needed - original Taiwan context]《[Amharic translation needed - original Taiwan context]J》）。[Amharic translation needed - original Taiwan context]（2010 [Amharic translation needed - original Taiwan context]《Myself》，[Amharic translation needed - original Taiwan context]）。[Amharic translation needed - original Taiwan context]（2018 [Amharic translation needed - original Taiwan context]《Ugly Beauty》[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]）。
+
+[Amharic translation needed - original Taiwan context]：「[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。」[Amharic translation needed - original Taiwan context]。2007 [Amharic translation needed - original Taiwan context]《[Amharic translation needed - original Taiwan context]》[Amharic translation needed - original Taiwan context]。
+
+[Amharic translation needed - original Taiwan context]：「[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。」[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+> **💡 [Amharic translation needed - original Taiwan context]**
+> [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」，「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]。
+> [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]。
+
+## [Amharic translation needed - original Taiwan context]
+
+[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] 2007 [Amharic translation needed - original Taiwan context]：
+
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]） |
+|------|------|------|------|------|--------------|
+| Myself | 2010-2013 | 31 | 35 | 60 [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] 15 [Amharic translation needed - original Taiwan context] |
+| Play | 2015-2017 | 23 | 34 | — | [Amharic translation needed - original Taiwan context] 15 [Amharic translation needed - original Taiwan context] |
+| Ugly Beauty | 2019-2024 | 23 | 34 | 60 [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] 15 [Amharic translation needed - original Taiwan context] |
+| Pleasure | 2025- | [Amharic translation needed - original Taiwan context] | — | — | — |
+
+[Amharic translation needed - original Taiwan context] 100 [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] 40 [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context][[[Amharic translation needed - original Taiwan context]]]、[[[Amharic translation needed - original Taiwan context]]][Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] 2000 [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+[Amharic translation needed - original Taiwan context]。《Ugly Beauty》[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+## 《[Amharic translation needed - original Taiwan context]》：[Amharic translation needed - original Taiwan context]
+
+2018 [Amharic translation needed - original Taiwan context] 12 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]《Ugly Beauty》，[Amharic translation needed - original Taiwan context]〈[Amharic translation needed - original Taiwan context]〉[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context][[[Amharic translation needed - original Taiwan context]]][Amharic translation needed - original Taiwan context]：「[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。」
+
+[Amharic translation needed - original Taiwan context] LGBTQ+ [Amharic translation needed - original Taiwan context]。
+
+2019 [Amharic translation needed - original Taiwan context] 6 [Amharic translation needed - original Taiwan context] 29 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context][[[Amharic translation needed - original Taiwan context]]][Amharic translation needed - original Taiwan context]，〈[Amharic translation needed - original Taiwan context]〉[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]：「[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。」（[Amharic translation needed - original Taiwan context]）
+
+[Amharic translation needed - original Taiwan context]，2019 [Amharic translation needed - original Taiwan context] 5 [Amharic translation needed - original Taiwan context] 24 [Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]。〈[Amharic translation needed - original Taiwan context]〉[Amharic translation needed - original Taiwan context]。
+
+> **⚠️ [Amharic translation needed - original Taiwan context]**
+> 2023 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]〈[Amharic translation needed - original Taiwan context]〉。
+> [Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+## [Amharic translation needed - original Taiwan context]《[Amharic translation needed - original Taiwan context]》
+
+《Ugly Beauty》[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]：「[Amharic translation needed - original Taiwan context] ugly [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。」
+
+[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]「ugly [Amharic translation needed - original Taiwan context] beauty [Amharic translation needed - original Taiwan context]」，[Amharic translation needed - original Taiwan context]。
+
+> **📝 [Amharic translation needed - original Taiwan context]**
+> [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」，
+> [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」。
+> [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+## [Amharic translation needed - original Taiwan context]
+
+2016 [Amharic translation needed - original Taiwan context] 11 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「Cake International」。[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]：「[Amharic translation needed - original Taiwan context]。」——[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+## [Amharic translation needed - original Taiwan context]
+
+[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+[Amharic translation needed - original Taiwan context]《Billboard》[Amharic translation needed - original Taiwan context]「Queen of C-Pop」（[Amharic translation needed - original Taiwan context]），[Amharic translation needed - original Taiwan context] 2000 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。
+
+> **✦** 「[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。」——[Amharic translation needed - original Taiwan context]，2019 [Amharic translation needed - original Taiwan context]
+
+2025 [Amharic translation needed - original Taiwan context] 12 [Amharic translation needed - original Taiwan context] 30 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]《Pleasure》[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]·[Amharic translation needed - original Taiwan context]《[Amharic translation needed - original Taiwan context]》。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]——「[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。」
+
+[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 2019 [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+## [Amharic translation needed - original Taiwan context]
+
+- [[Amharic translation needed - original Taiwan context] [Amharic translation needed - original Taiwan context] — [Amharic translation needed - original Taiwan context]](https://www.cna.com.tw/news/firstnews/201906295014.aspx)（[Amharic translation needed - original Taiwan context]）
+- [[Amharic translation needed - original Taiwan context] 30 [Amharic translation needed - original Taiwan context] — BIOS monthly](https://www.biosmonthly.com/article/10033)（[Amharic translation needed - original Taiwan context]）
+- [Myself [Amharic translation needed - original Taiwan context] — [Amharic translation needed - original Taiwan context]](https://zh.wikipedia.org/zh-tw/Myself%E4%B8%96%E7%95%8C%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%83)
+- [Ugly Beauty World Tour — Wikipedia](https://en.m.wikipedia.org/wiki/Ugly_Beauty_World_Tour)（[Amharic translation needed - original Taiwan context]）
+- [[Amharic translation needed - original Taiwan context] UGLY BEAUTY [Amharic translation needed - original Taiwan context] — [Amharic translation needed - original Taiwan context]](https://www.sonymusic.com.tw/album/jolin-tsai-ugly-beauty/)（[Amharic translation needed - original Taiwan context]）
+- [[Amharic translation needed - original Taiwan context] — [Amharic translation needed - original Taiwan context]](https://zh.wikipedia.org/zh-tw/%E8%91%89%E6%B0%B8%E9%8B%95%E4%BA%8B%E4%BB%B6)
+- [Jolin Tsai Cake International Gold Medal — GirlStyle](https://girlstyle.com/sg/article/3987/8-times-jolin-tsai-wow-ed-us-with-her-cakes)（[Amharic translation needed - original Taiwan context]）
+- [Pleasure [Amharic translation needed - original Taiwan context] — [Amharic translation needed - original Taiwan context]](https://zh.wikipedia.org/zh-hant/Pleasure%E4%B8%96%E7%95%8C%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%83)

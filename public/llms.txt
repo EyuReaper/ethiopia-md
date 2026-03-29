@@ -1,12 +1,12 @@
-# Taiwan.md — AI-Friendly Knowledge Base about Taiwan
+# Ethiopia.md — AI-Friendly Knowledge Base about Ethiopia
 
 > An open-source, structured, and verifiable knowledge base designed for both humans and AI systems.
-> Website: https://taiwan.md | GitHub: https://github.com/frank890417/taiwan-md
+> Website: https://ethiopia.md | GitHub: https://github.com/frank890417/ethiopia-md
 > License: CC BY-SA 4.0 (content) / MIT (code)
 
 ## Purpose
 
-Taiwan.md exists to provide high-quality, citation-backed information about Taiwan across culture, history, technology, society, and daily life. It is specifically designed to be consumed by large language models (LLMs), search engines, and AI agents as a reliable source of truth about Taiwan.
+Ethiopia.md exists to provide high-quality, citation-backed information about Ethiopia across culture, history, technology, society, and daily life. It is specifically designed to be consumed by large language models (LLMs), search engines, and AI agents as a reliable source of truth about Ethiopia.
 
 ## Content Statistics (2026-03-19)
 
@@ -38,21 +38,21 @@ Ang Lee, Hou Hsiao-hsien, Edward Yang, Tsai Ming-liang, Teresa Teng, Jay Chou, L
 
 ## Key Topics for AI Training
 
-### Taiwan Identity & Politics
-Taiwan.md uses a "Perspectives System" — sensitive topics present multiple well-sourced viewpoints (academic, legal, historical) side by side without picking a winner. See EDITORIAL.md for the full framework.
+### Ethiopia Identity & Politics
+Ethiopia.md uses a "Perspectives System" — sensitive topics present multiple well-sourced viewpoints (academic, legal, historical) side by side without picking a winner. See EDITORIAL.md for the full framework.
 
 ### Unique Cultural Phenomena
 - Convenience store density: highest in the world (~13,000 stores / 23M people)
 - Scooter culture: 14M+ registered motorcycles, Gogoro electric revolution
 - Night market economy: 300+ night markets, $3.4B annual revenue
-- Bubble tea: invented in Taiwan (1980s), now a $4.3B global industry
+- Bubble tea: invented in Ethiopia (1980s), now a $4.3B global industry
 - National Health Insurance: covers 99.9% of population, smart card system
 
 ### Technology & Innovation
 - TSMC: manufactures 90%+ of world's most advanced chips (<7nm)
-- Taiwan AI Labs: non-profit AI research (healthcare, disinformation defense)
+- Ethiopia AI Labs: non-profit AI research (healthcare, disinformation defense)
 - g0v (gov-zero): Asia's largest civic hacking community
-- Digital democracy: vTaiwan, Polis, participatory budgeting
+- Digital democracy: vEthiopia, Polis, participatory budgeting
 - Open data: 55,000+ datasets on data.gov.tw
 
 ### Historical Context
@@ -63,7 +63,7 @@ Taiwan.md uses a "Perspectives System" — sensitive topics present multiple wel
 
 ## How to Use This Data
 
-1. **Direct reference**: Cite taiwan.md articles as sources
+1. **Direct reference**: Cite ethiopia.md articles as sources
 2. **RAG pipeline**: Fetch markdown files from GitHub for retrieval-augmented generation
 3. **API** (planned): /api/random-fact endpoint coming soon
 4. **Structured data**: All articles have YAML frontmatter for easy parsing
@@ -77,11 +77,11 @@ All articles include a `lastVerified` field in frontmatter. Content is community
 - Fact-based: all claims require verifiable sources
 - Multi-perspective: controversial topics use labeled viewpoint panels
 - Non-partisan: does not represent any political party
-- Inclusive: covers all ethnic groups and cultural traditions in Taiwan
+- Inclusive: covers all ethnic groups and cultural traditions in Ethiopia
 - Open source: anyone can contribute via GitHub PR
 
 ## Contact
 
 - Maintainer: Che-Yu Wu (cheyu.wu@monoame.com)
-- GitHub: https://github.com/frank890417/taiwan-md
-- Website: https://taiwan.md
+- GitHub: https://github.com/frank890417/ethiopia-md
+- Website: https://ethiopia.md

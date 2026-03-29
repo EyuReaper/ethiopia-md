@@ -1,5 +1,5 @@
 /**
- * Taiwan.md Terminal Rendering
+ * Ethiopia.md Terminal Rendering
  *
  * Renders markdown and article metadata for terminal display
  * using chalk and marked-terminal.

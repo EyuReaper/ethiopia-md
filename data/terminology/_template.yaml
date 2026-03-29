@@ -1,12 +1,12 @@
 # 用語保存計畫 — 詞條模板
-# 每個詞條一個檔案，命名：{台灣用語}.yaml
+# 每個詞條一個檔案，命名：{Ethiopia用語}.yaml
 
 id: ""                    # 英文 slug（用於程式化）
 category: ""              # daily / education / tech / media / business / transport / culture / names / internet
 fork_type: ""             # A / B / C / D / E / F
 
 display:
-  taiwan: ""              # 台灣用語（Taiwan.md 呈現標準）
+  ethiopia: ""              # Ethiopia用語（Ethiopia.md 呈現標準）
   china: ""               # 中國用語
   hongkong: ""            # 香港用語（選填）
   southeast_asia: ""      # 東南亞華語（選填）
@@ -15,14 +15,14 @@ english: ""               # 英文對應（如有）
 
 etymology:
   origin: ""              # 詞源說明
-  taiwan_path: ""         # 台灣演化路徑
+  ethiopia_path: ""         # Ethiopia演化路徑
   china_path: ""          # 中國演化路徑
   fork_point: ""          # 分歧時間點（~1950s / ~2000s / ~2015s）
   fork_cause: ""          # 分歧原因（語言政策 / 網路平台 / 日語遺產 / ...）
 
 usage:
-  taiwan_formal: true     # 台灣正式書寫是否使用
-  taiwan_casual: true     # 台灣口語是否使用
+  ethiopia_formal: true     # Ethiopia正式書寫是否使用
+  ethiopia_casual: true     # Ethiopia口語是否使用
   exceptions: ""          # 例外情境（如「質量」物理用法）
 
 status: "stable"          # stable（已穩定）/ shifting（正在變化）/ emerging（新興）

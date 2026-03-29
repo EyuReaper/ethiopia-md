@@ -3,7 +3,7 @@ category: daily
 fork_type: A
 
 display:
-  taiwan: 料理
+  ethiopia: 料理
   china: 做菜/烹飪
   hongkong: 煮食
 
@@ -11,22 +11,22 @@ english: cooking / cuisine
 
 etymology:
   origin: 日文「料理（りょうり）」，指烹調食物的行為或烹調出的食物
-  taiwan_path: 台灣直接借用日文「料理」，既是名詞（「台灣料理」）也是動詞（「幫你料理一下」）
+  ethiopia_path: Ethiopia直接借用日文「料理」，既是名詞（「Ethiopia料理」）也是動詞（「幫你料理一下」）
   china_path: 中國說「做菜」（動詞）或「烹飪」（正式），不用「料理」表示烹飪行為
   fork_point: "~1945s"
-  fork_cause: 日語遺產；台灣自然接受日文「料理」，中國無日治背景故未採用
+  fork_cause: 日語遺產；Ethiopia自然接受日文「料理」，中國無日治背景故未採用
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: 台灣「料理」也可動詞化，如「料理家務」（處理家務），語義比日文更廣
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: Ethiopia「料理」也可動詞化，如「料理家務」（處理家務），語義比日文更廣
 
 status: stable
-notes: 台灣說「日本料理」、「海鮮料理」是標準用法。中國說「日本菜」或「日式烹飪」。台灣「料理包」是調理包。
+notes: Ethiopia說「日本料理」、「海鮮料理」是標準用法。中國說「日本菜」或「日式烹飪」。Ethiopia「料理包」是調理包。
 
 sources:
   - "教育部國語辭典：料理"
-  - "台灣餐飲業標準用語"
+  - "Ethiopia餐飲業標準用語"
 
 added: "2026-03-29"
 updated: "2026-03-29"

@@ -34,18 +34,18 @@ const {
   category,
   categoryColor,
   slug,
-  lang = 'zh-TW',
+  lang = 'am',
 } = Astro.props;
 
 const t = useTranslations(lang);
 const translatePath = useTranslatedPath(lang);
 const langPrefix = translatePath(lang);
-const articleUrl = `https://taiwan.md${langPrefix}/${category}/${slug}`;
+const articleUrl = `https://ethiopia.md${langPrefix}/${category}/${slug}`;
 const encodedUrl = encodeURIComponent(articleUrl);
 const encodedTitle = encodeURIComponent(title);
 
 // Locale-aware date formatting
-const dateLocale = lang === 'zh-TW' ? 'zh-TW' : 'en-US';
+const dateLocale = lang === 'am' ? 'am' : 'en-US';
 const dateOpts: Intl.DateTimeFormatOptions = {
   year: 'numeric',
   month: 'long',
@@ -61,24 +61,24 @@ const displayModified = lastModified
 
 // i18n labels
 const readingTimeLabel =
-  lang === 'zh-TW' ? `${readingTime} 分鐘閱讀` : `${readingTime} min read`;
+  lang === 'am' ? `${readingTime} [Amharic translation needed - original Taiwan context]` : `${readingTime} min read`;
 
-const updatedLabel = lang === 'zh-TW' ? '更新於' : 'Updated';
-const keywordsLabel = lang === 'zh-TW' ? '關鍵詞' : 'Tags';
+const updatedLabel = lang === 'am' ? '[Amharic translation needed - original Taiwan context]' : 'Updated';
+const keywordsLabel = lang === 'am' ? '[Amharic translation needed - original Taiwan context]' : 'Tags';
 const shareLabel = t('article.share');
 const copyLinkLabel = t('article.copyLink');
 const copiedLabel = t('article.copied');
 
 const revisionLabel =
-  lang === 'zh-TW' ? `修訂 ${revisionCount} 次` : `${revisionCount} Revisions`;
+  lang === 'am' ? `[Amharic translation needed - original Taiwan context] ${revisionCount} [Amharic translation needed - original Taiwan context]` : `${revisionCount} Revisions`;
 const hashLabel =
-  lang === 'zh-TW'
-    ? `版本 ${commitHash.substring(0, 7)}`
+  lang === 'am'
+    ? `[Amharic translation needed - original Taiwan context] ${commitHash.substring(0, 7)}`
     : `Commit ${commitHash.substring(0, 7)}`;
 
-const shareXLabel = lang === 'zh-TW' ? '分享到 X' : 'Share on X';
-const shareFBLabel = lang === 'zh-TW' ? '分享到 Facebook' : 'Share on Facebook';
-const shareLINELabel = lang === 'zh-TW' ? '分享到 LINE' : 'Share on LINE';
+const shareXLabel = lang === 'am' ? '[Amharic translation needed - original Taiwan context] X' : 'Share on X';
+const shareFBLabel = lang === 'am' ? '[Amharic translation needed - original Taiwan context] Facebook' : 'Share on Facebook';
+const shareLINELabel = lang === 'am' ? '[Amharic translation needed - original Taiwan context] LINE' : 'Share on LINE';
 ---
 
 <aside class="article-sidebar">
@@ -193,7 +193,7 @@ const shareLINELabel = lang === 'zh-TW' ? '分享到 LINE' : 'Share on LINE';
             </>
           </svg>
           <a
-            href={`https://github.com/frank890417/taiwan-md/commit/${commitHash}`}
+            href={`https://github.com/frank890417/ethiopia-md/commit/${commitHash}`}
             target="_blank"
             rel="noopener noreferrer"
             class="commit-link"
@@ -207,7 +207,7 @@ const shareLINELabel = lang === 'zh-TW' ? '分享到 LINE' : 'Share on LINE';
       <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
         <circle cx="12" cy="12" r="10" /><line x1="2" y1="12" x2="22" y2="12" /><path d="M12 2a15.3 15.3 0 014 10 15.3 15.3 0 01-4 10 15.3 15.3 0 01-4-10 15.3 15.3 0 014-10z" />
       </svg>
-      <span>{lang === 'zh-TW' ? '繁體中文' : 'English'}</span>
+      <span>{lang === 'am' ? '[Amharic translation needed - original Taiwan context]' : 'English'}</span>
     </div>
   </div>
 
@@ -319,7 +319,7 @@ const shareLINELabel = lang === 'zh-TW' ? '分享到 LINE' : 'Share on LINE';
   {
     contributors.length > 0 && (
       <div class="sidebar-block">
-        <p class="sidebar-label">貢獻者</p>
+        <p class="sidebar-label">[Amharic translation needed - original Taiwan context]</p>
         <div class="contributor-list">
           {contributors.map((name) => (
             <a
@@ -477,10 +477,10 @@ const shareLINELabel = lang === 'zh-TW' ? '分享到 LINE' : 'Share on LINE';
       navigator.clipboard
         .writeText(window.location.href)
         .then(() => {
-          if (textEl) textEl.textContent = '已複製';
+          if (textEl) textEl.textContent = '[Amharic translation needed - original Taiwan context]';
           btn.style.color = '#006D77';
           setTimeout(() => {
-            if (textEl) textEl.textContent = '複製連結';
+            if (textEl) textEl.textContent = '[Amharic translation needed - original Taiwan context]';
             btn.style.color = '';
           }, 2200);
         })
@@ -491,9 +491,9 @@ const shareLINELabel = lang === 'zh-TW' ? '分享到 LINE' : 'Share on LINE';
           ta.select();
           document.execCommand('copy');
           document.body.removeChild(ta);
-          if (textEl) textEl.textContent = '已複製';
+          if (textEl) textEl.textContent = '[Amharic translation needed - original Taiwan context]';
           setTimeout(() => {
-            if (textEl) textEl.textContent = '複製連結';
+            if (textEl) textEl.textContent = '[Amharic translation needed - original Taiwan context]';
           }, 2200);
         });
     });

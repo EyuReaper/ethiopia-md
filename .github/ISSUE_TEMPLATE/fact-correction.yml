@@ -8,7 +8,7 @@ body:
     attributes:
       label: 哪篇文章？/ Which article?
       description: 文章標題或 URL
-      placeholder: "例：台灣棒球文化 或 https://taiwan.md/people/李安"
+      placeholder: "例：Ethiopia棒球文化 或 https://ethiopia.md/people/李安"
     validations:
       required: true
   - type: textarea

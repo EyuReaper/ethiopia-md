@@ -1,149 +1,149 @@
-# QUALITY-CHECKLIST.md — 文章品質驗證清單
+# QUALITY-CHECKLIST.md — [Amharic translation needed - original Taiwan context]
 
-> 這是 REWRITE-PIPELINE Stage 3 的執行手冊。
-> 每篇文章在 commit 前，必須逐項通過這份清單。
-> **不合格 = 不 commit。修正後重新驗證。**
+> [Amharic translation needed - original Taiwan context] REWRITE-PIPELINE Stage 3 [Amharic translation needed - original Taiwan context]。
+> [Amharic translation needed - original Taiwan context] commit [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+> **[Amharic translation needed - original Taiwan context] = [Amharic translation needed - original Taiwan context] commit。[Amharic translation needed - original Taiwan context]。**
 
 ---
 
-## 一、五指檢測（手動，60 秒）
+## [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]，60 [Amharic translation needed - original Taiwan context]）
 
-逐項回答，不能跳過：
+[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]：
 
-| #   | 檢測           | 問自己                                   | 合格標準                               |
+| #   | [Amharic translation needed - original Taiwan context]           | [Amharic translation needed - original Taiwan context]                                   | [Amharic translation needed - original Taiwan context]                               |
 | --- | -------------- | ---------------------------------------- | -------------------------------------- |
-| 🫵  | **驚訝點**     | 讀者會在哪一句說「哦？」                 | 能指出具體的一句話                     |
-| ✌️  | **兩個轉折**   | 故事有幾個真轉折？                       | ≥ 2 個（不是「然而」「但是」式假轉折） |
-| 🤟  | **策展句**     | 有沒有一句不傳遞資訊、只製造理解的句子？ | ≥ 1 個（📝 callout 或呼吸段）          |
-| 🖐️  | **念結尾**     | 把結尾大聲念出來，有餘韻嗎？             | 念完想停頓 3 秒 = 合格                 |
-| ✊  | **一句話轉述** | 能跟朋友一句話說完嗎？                   | 能自然說出「欸你知道嗎，[一句話]」     |
+| 🫵  | **[Amharic translation needed - original Taiwan context]**     | [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]？」                 | [Amharic translation needed - original Taiwan context]                     |
+| ✌️  | **[Amharic translation needed - original Taiwan context]**   | [Amharic translation needed - original Taiwan context]？                       | ≥ 2 [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]） |
+| 🤟  | **[Amharic translation needed - original Taiwan context]**     | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]？ | ≥ 1 [Amharic translation needed - original Taiwan context]（📝 callout [Amharic translation needed - original Taiwan context]）          |
+| 🖐️  | **[Amharic translation needed - original Taiwan context]**     | [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]？             | [Amharic translation needed - original Taiwan context] 3 [Amharic translation needed - original Taiwan context] = [Amharic translation needed - original Taiwan context]                 |
+| ✊  | **[Amharic translation needed - original Taiwan context]** | [Amharic translation needed - original Taiwan context]？                   | [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]，[[Amharic translation needed - original Taiwan context]]」     |
 
 ---
 
-## 二、結構驗證（逐項打勾）
+## [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
 
-### 人物與引語（EDITORIAL v4）
+### [Amharic translation needed - original Taiwan context]（EDITORIAL v4）
 
-- [ ] 文章第一個出現的名字是**具體的人**（不是機構、不是概念）
-- [ ] 至少 **2 句真人引語**，每句標注出處
-- [ ] 引語有語氣特徵（不是官方聲明式）
+- [ ] [Amharic translation needed - original Taiwan context]**[Amharic translation needed - original Taiwan context]**（[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]）
+- [ ] [Amharic translation needed - original Taiwan context] **2 [Amharic translation needed - original Taiwan context]**，[Amharic translation needed - original Taiwan context]
+- [ ] [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
 
-### 開場（前 3 句）
+### [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] 3 [Amharic translation needed - original Taiwan context]）
 
-- [ ] 前三句有**具體事實**（年份/數字/人名，至少 2 種）
-- [ ] 不是「台灣是⋯⋯的國家」「隨著⋯⋯的發展」式教科書開場
-- [ ] 開場模式屬於五種之一：場景進入 / 數字衝擊 / 反差 / 問題勾引 / 矛盾數字
+- [ ] [Amharic translation needed - original Taiwan context]**[Amharic translation needed - original Taiwan context]**（[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 2 [Amharic translation needed - original Taiwan context]）
+- [ ] [Amharic translation needed - original Taiwan context]「Ethiopia[Amharic translation needed - original Taiwan context]⋯⋯[Amharic translation needed - original Taiwan context]」「[Amharic translation needed - original Taiwan context]⋯⋯[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]
+- [ ] [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context] / [Amharic translation needed - original Taiwan context] / [Amharic translation needed - original Taiwan context] / [Amharic translation needed - original Taiwan context] / [Amharic translation needed - original Taiwan context]
 
-### 正文
+### [Amharic translation needed - original Taiwan context]
 
-- [ ] 每個轉折有**因果鏈**（誰→因為什麼→導致什麼）
-- [ ] 挑戰/爭議是**編織在故事裡**（不是最後補一段「然而也面臨挑戰」）
-- [ ] **不是百科排列**（不是 A→B→C→D 線性堆砌）
-- [ ] 有敘事弧線（讀者能感受到故事在「前進」）
+- [ ] [Amharic translation needed - original Taiwan context]**[Amharic translation needed - original Taiwan context]**（[Amharic translation needed - original Taiwan context]→[Amharic translation needed - original Taiwan context]→[Amharic translation needed - original Taiwan context]）
+- [ ] [Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]**[Amharic translation needed - original Taiwan context]**（[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」）
+- [ ] **[Amharic translation needed - original Taiwan context]**（[Amharic translation needed - original Taiwan context] A→B→C→D [Amharic translation needed - original Taiwan context]）
+- [ ] [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」）
 
-### 結尾（最後 3-5 行）
+### [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] 3-5 [Amharic translation needed - original Taiwan context]）
 
-- [ ] 不含罐頭詞：「繼續發光」「值得期待」「也是台灣的故事」「永不停歇的對話」「持續書寫」
-- [ ] 結尾模式屬於五種之一：餘韻 / 翻轉 / 時間跳躍 / 問題 / 灰色地帶
-- [ ] 單獨讀結尾，沒讀全文的人也覺得有意思
+- [ ] [Amharic translation needed - original Taiwan context]：「[Amharic translation needed - original Taiwan context]」「[Amharic translation needed - original Taiwan context]」「[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]」「[Amharic translation needed - original Taiwan context]」「[Amharic translation needed - original Taiwan context]」
+- [ ] [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context] / [Amharic translation needed - original Taiwan context] / [Amharic translation needed - original Taiwan context] / [Amharic translation needed - original Taiwan context] / [Amharic translation needed - original Taiwan context]
+- [ ] [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
 
-### 富文本
+### [Amharic translation needed - original Taiwan context]
 
-- [ ] 至少 **2 個 📝 callout**（策展觀點）
-- [ ] 至少 **1 個 stat block 或 pull quote**
-- [ ] 至少 **2-3 個 wikilink**（站內連結 `[[]]`）
+- [ ] [Amharic translation needed - original Taiwan context] **2 [Amharic translation needed - original Taiwan context] 📝 callout**（[Amharic translation needed - original Taiwan context]）
+- [ ] [Amharic translation needed - original Taiwan context] **1 [Amharic translation needed - original Taiwan context] stat block [Amharic translation needed - original Taiwan context] pull quote**
+- [ ] [Amharic translation needed - original Taiwan context] **2-3 [Amharic translation needed - original Taiwan context] wikilink**（[Amharic translation needed - original Taiwan context] `[[]]`）
 
-### Frontmatter 完整性
+### Frontmatter [Amharic translation needed - original Taiwan context]
 
-- [ ] `subcategory` 已填寫，且對應 `docs/taxonomy/SUBCATEGORY.md` 該 category 的子分類表
-- [ ] 跨主題文章有統一 tag（如原住民相關 → `原住民族`）
-- [ ] `featured: true/false` 已設定
+- [ ] `subcategory` [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] `docs/taxonomy/SUBCATEGORY.md` [Amharic translation needed - original Taiwan context] category [Amharic translation needed - original Taiwan context]
+- [ ] [Amharic translation needed - original Taiwan context] tag（[Amharic translation needed - original Taiwan context] → `[Amharic translation needed - original Taiwan context]`）
+- [ ] `featured: true/false` [Amharic translation needed - original Taiwan context]
 
-### 來源
+### [Amharic translation needed - original Taiwan context]
 
-- [ ] **5+ 可點擊 URL** 在參考資料區
-- [ ] 含至少 **2 個一手來源**（政府/學術/官方報告）
-- [ ] 含至少 **1 個英文來源**
-- [ ] 正文中的每個數據都有來源標註
+- [ ] **5+ [Amharic translation needed - original Taiwan context] URL** [Amharic translation needed - original Taiwan context]
+- [ ] [Amharic translation needed - original Taiwan context] **2 [Amharic translation needed - original Taiwan context]**（[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]）
+- [ ] [Amharic translation needed - original Taiwan context] **1 [Amharic translation needed - original Taiwan context]**
+- [ ] [Amharic translation needed - original Taiwan context]
 
-### 篇幅
+### [Amharic translation needed - original Taiwan context]
 
-- [ ] A 級文章：120-200 行
-- [ ] B 級文章：80-120 行
-- [ ] C 級文章：40-80 行
+- [ ] A [Amharic translation needed - original Taiwan context]：120-200 [Amharic translation needed - original Taiwan context]
+- [ ] B [Amharic translation needed - original Taiwan context]：80-120 [Amharic translation needed - original Taiwan context]
+- [ ] C [Amharic translation needed - original Taiwan context]：40-80 [Amharic translation needed - original Taiwan context]
 
-### 用語規範（TERMINOLOGY.md）
+### [Amharic translation needed - original Taiwan context]（TERMINOLOGY.md）
 
-- [ ] A 類用語一律使用台灣在地詞彙（視頻→影片、質量→品質、軟件→軟體...）
-- [ ] B 類用語已判斷語境（描述中國制度時可保留中國用語）
-- [ ] 完整規範見 [TERMINOLOGY.md](./TERMINOLOGY.md)
-
----
-
-## 三、塑膠掃描（手動，90 秒）
-
-1. **只讀後半段**（從全文 60% 位置開始）
-2. 逐句問：「拿掉這句，文章會少什麼資訊？」
-3. 答案是「不會少」→ 這是塑膠句 → **替換成事實或刪除**
-4. 特別注意五品種塑膠（見 EDITORIAL.md）：
-   - 🔴 空洞修飾詞（「深遠影響」「重要角色」「不可或缺」）
-   - 🔴 不僅更是句式（「不僅⋯⋯更是⋯⋯」「從X到Y，從A到B」）
-   - 🔴 萬用結尾（「繼續發光」「值得期待」）
-   - 🔴 因果跳躍（「後來事業蒸蒸日上」「逐漸壯大」）
-   - 🔴 官方聲明式引語（「我們將持續推動⋯⋯」）
+- [ ] A [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]→[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]→[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]→[Amharic translation needed - original Taiwan context]...）
+- [ ] B [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
+- [ ] [Amharic translation needed - original Taiwan context] [TERMINOLOGY.md](./TERMINOLOGY.md)
 
 ---
 
-## 四、自動驗證（必跑）
+## [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]，90 [Amharic translation needed - original Taiwan context]）
+
+1. **[Amharic translation needed - original Taiwan context]**（[Amharic translation needed - original Taiwan context] 60% [Amharic translation needed - original Taiwan context]）
+2. [Amharic translation needed - original Taiwan context]：「[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]？」
+3. [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」→ [Amharic translation needed - original Taiwan context] → **[Amharic translation needed - original Taiwan context]**
+4. [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] EDITORIAL.md）：
+   - 🔴 [Amharic translation needed - original Taiwan context]（「[Amharic translation needed - original Taiwan context]」「[Amharic translation needed - original Taiwan context]」「[Amharic translation needed - original Taiwan context]」）
+   - 🔴 [Amharic translation needed - original Taiwan context]（「[Amharic translation needed - original Taiwan context]⋯⋯[Amharic translation needed - original Taiwan context]⋯⋯」「[Amharic translation needed - original Taiwan context]X[Amharic translation needed - original Taiwan context]Y，[Amharic translation needed - original Taiwan context]A[Amharic translation needed - original Taiwan context]B」）
+   - 🔴 [Amharic translation needed - original Taiwan context]（「[Amharic translation needed - original Taiwan context]」「[Amharic translation needed - original Taiwan context]」）
+   - 🔴 [Amharic translation needed - original Taiwan context]（「[Amharic translation needed - original Taiwan context]」「[Amharic translation needed - original Taiwan context]」）
+   - 🔴 [Amharic translation needed - original Taiwan context]（「[Amharic translation needed - original Taiwan context]⋯⋯」）
+
+---
+
+## [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
 
 ```bash
-# 0. SSOT 同步（⚠️ 必做！只改 knowledge/，sync 到 src/content/）
+# 0. SSOT [Amharic translation needed - original Taiwan context]（⚠️ [Amharic translation needed - original Taiwan context]！[Amharic translation needed - original Taiwan context] knowledge/，sync [Amharic translation needed - original Taiwan context] src/content/）
 bash scripts/sync.sh
 
-# 1. 空洞分數檢測（必須 ≤ 3）
+# 1. [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] ≤ 3）
 bash tools/quality-scan.sh --json 2>&1 | \
   python3 -c "import json,sys; d=json.load(sys.stdin); \
-  matches=[f for f in d['files'] if '[文章名關鍵字]' in f['file']]; \
+  matches=[f for f in d['files'] if '[[Amharic translation needed - original Taiwan context]]' in f['file']]; \
   print(f'Score: {matches[0][\"score\"]}') if matches else print('Score: 0 (PASS)')"
 
-# 2. Build 驗證（必須不炸）
+# 2. Build [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
 npx astro build 2>&1 | tail -3
 ```
 
-| 結果                  | 動作                         |
+| [Amharic translation needed - original Taiwan context]                  | [Amharic translation needed - original Taiwan context]                         |
 | --------------------- | ---------------------------- |
-| hollow ≤ 3 + build OK | ✅ 進入 commit               |
-| hollow > 3            | ❌ 回去修正塑膠句，重跑      |
-| build 失敗            | ❌ 修 frontmatter/語法，重跑 |
+| hollow ≤ 3 + build OK | ✅ [Amharic translation needed - original Taiwan context] commit               |
+| hollow > 3            | ❌ [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]      |
+| build [Amharic translation needed - original Taiwan context]            | ❌ [Amharic translation needed - original Taiwan context] frontmatter/[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] |
 
 ---
 
-## 五、Commit + Push
+## [Amharic translation needed - original Taiwan context]、Commit + Push
 
-只有以上全部通過才執行：
+[Amharic translation needed - original Taiwan context]：
 
 ```bash
 git add -A
-git commit -m "rewrite: [文章名] — EDITORIAL v4 + Pipeline v2 (zh + en)"
+git commit -m "rewrite: [[Amharic translation needed - original Taiwan context]] — EDITORIAL v4 + Pipeline v2 (zh + en)"
 git push
 ```
 
 ---
 
-## 快速版（給熟練者）
+## [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
 
 ```
-□ 五指檢測（驚訝/轉折/策展/結尾/一句話）
-□ 第一個名字是人？2 句引語？因果鏈？
-□ 開場有事實？結尾不是罐頭？
+□ [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]）
+□ [Amharic translation needed - original Taiwan context]？2 [Amharic translation needed - original Taiwan context]？[Amharic translation needed - original Taiwan context]？
+□ [Amharic translation needed - original Taiwan context]？[Amharic translation needed - original Taiwan context]？
 □ 2 callout + 1 stat/quote + 2 wikilink + 5 URL？
-□ 後半段塑膠掃描？
-□ subcategory 正確？跨主題 tag 有加？
+□ [Amharic translation needed - original Taiwan context]？
+□ subcategory [Amharic translation needed - original Taiwan context]？[Amharic translation needed - original Taiwan context] tag [Amharic translation needed - original Taiwan context]？
 □ hollow ≤ 3？build OK？
 → commit
 ```
 
 ---
 
-_版本：v1.1 | 2026-03-29_
-_配套：RESEARCH.md（研究方法論）+ REWRITE-PIPELINE.md（流程）+ EDITORIAL.md（品質標準）+ RESEARCH-TEMPLATE.md（研究模板）_
+_[Amharic translation needed - original Taiwan context]：v1.1 | 2026-03-29_
+_[Amharic translation needed - original Taiwan context]：RESEARCH.md（[Amharic translation needed - original Taiwan context]）+ REWRITE-PIPELINE.md（[Amharic translation needed - original Taiwan context]）+ EDITORIAL.md（[Amharic translation needed - original Taiwan context]）+ RESEARCH-TEMPLATE.md（[Amharic translation needed - original Taiwan context]）_

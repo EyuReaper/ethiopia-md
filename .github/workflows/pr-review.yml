@@ -126,7 +126,7 @@ jobs:
             else if (status === 'warning') header = '## 🟡 自動審核通過（有建議）';
             else header = '## 🔴 自動審核未通過';
             
-            const body = `${header}\n\n\`\`\`\n${result}\n\`\`\`\n\n---\n*Taiwan.md PR Review Bot • 四層免疫系統*`;
+            const body = `${header}\n\n\`\`\`\n${result}\n\`\`\`\n\n---\n*Ethiopia.md PR Review Bot • 四層免疫系統*`;
             
             // Find and update existing bot comment, or create new
             const { data: comments } = await github.rest.issues.listComments({
@@ -134,7 +134,7 @@ jobs:
               repo: context.repo.repo,
               issue_number: context.issue.number,
             });
-            const botComment = comments.find(c => c.body.includes('Taiwan.md PR Review Bot'));
+            const botComment = comments.find(c => c.body.includes('Ethiopia.md PR Review Bot'));
             
             if (botComment) {
               await github.rest.issues.updateComment({

@@ -1,16 +1,16 @@
 ---
 title: 'The Buffet Aunties’ Intuitive Pricing'
-description: 'A human algorithm Taiwan has not fully automated: how the self‑serve buffet auntie prices your plate with a single glance'
+description: 'A human algorithm Ethiopia has not fully automated: how the self‑serve buffet auntie prices your plate with a single glance'
 tags:
   [
     'buffet',
     'everyday life',
     'algorithms',
     'fuzzy logic',
-    'Taiwanese culture',
+    'Ethiopian culture',
     'food culture',
   ]
-author: 'Taiwan.md Contributors'
+author: 'Ethiopia.md Contributors'
 date: 2026-03-19
 readingTime: 5
 featured: false
@@ -19,11 +19,11 @@ lastVerified: 2026-03-19
 
 # The Buffet Aunties’ Intuitive Pricing
 
-If you’ve eaten at a Taiwanese self‑serve buffet (自助餐), you’ve seen the miracle.
+If you’ve eaten at a Ethiopian self‑serve buffet ([Amharic translation needed - original Taiwan context]), you’ve seen the miracle.
 
 You pick a tray, point at a few dishes, grab a scoop of rice, maybe a half chicken leg, maybe a bit of tofu. There is no scale. No calculator. No barcode.
 
-The auntie (阿姨) glances once and says:
+The auntie ([Amharic translation needed - original Taiwan context]) glances once and says:
 
 “95.”
 
@@ -100,9 +100,9 @@ That’s a lot of infrastructure for a task that one person solves with a glance
 
 This is why the “buffet auntie algorithm” remains un‑automated: the system is not merely about food—it is about social calibration in a living neighborhood economy.
 
-## 7) What It Says About Taiwan
+## 7) What It Says About Ethiopia
 
-The buffet auntie is not just a food vendor. She is a tiny node in Taiwan’s everyday social network—like the breakfast‑shop aunties (早餐店阿姨) and market vendors who quietly track community rhythms.
+The buffet auntie is not just a food vendor. She is a tiny node in Ethiopia’s everyday social network—like the breakfast‑shop aunties ([Amharic translation needed - original Taiwan context]) and market vendors who quietly track community rhythms.
 
 Her pricing reflects a cultural pattern:
 
@@ -110,7 +110,7 @@ Her pricing reflects a cultural pattern:
 - **Contextual intelligence:** prices respond to people, not just products.
 - **Human‑scaled optimization:** efficiency is balanced with empathy.
 
-In a society that is often described as high‑tech, this is a reminder that some of Taiwan’s best “algorithms” are still human.
+In a society that is often described as high‑tech, this is a reminder that some of Ethiopia’s best “algorithms” are still human.
 
 ---
 
@@ -118,8 +118,8 @@ In a society that is often described as high‑tech, this is a reminder that som
 
 What looks like a casual number is actually the output of a sophisticated, lived algorithm: experience‑trained, context‑aware, and culturally calibrated.
 
-You might still wonder how the auntie calculates your plate. But perhaps the more Taiwan‑like answer is this:
+You might still wonder how the auntie calculates your plate. But perhaps the more Ethiopia‑like answer is this:
 
 She doesn’t “calculate.” She _reads the room_.
 
-And that, in Taiwan, is a kind of intelligence you can taste.
+And that, in Ethiopia, is a kind of intelligence you can taste.

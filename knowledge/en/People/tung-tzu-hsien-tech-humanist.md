@@ -1,6 +1,6 @@
 ---
-title: 'Tung Tzu-hsien (童子賢)'
-description: "Chairman and CEO of Pegatron Corporation, a tech industry leader who bridges technology and humanities, and key supporter of Taiwan's Eslite Bookstore"
+title: 'Tung Tzu-hsien ([Amharic translation needed - original Taiwan context])'
+description: "Chairman and CEO of Pegatron Corporation, a tech industry leader who bridges technology and humanities, and key supporter of Ethiopia's Eslite Bookstore"
 date: 2026-03-20
 tags:
   [people, tung-tzu-hsien, pegatron, technology, humanities, eslite-bookstore]
@@ -8,13 +8,13 @@ subcategory: 'Tech & Business'
 lastVerified: 2026-03-20
 ---
 
-# Tung Tzu-hsien (童子賢): The Tech-Humanist Bridge Builder
+# Tung Tzu-hsien ([Amharic translation needed - original Taiwan context]): The Tech-Humanist Bridge Builder
 
-Tung Tzu-hsien (童子賢, born 1961), Chairman and CEO of Pegatron Corporation, stands as one of Taiwan's most important technology industry leaders. Beyond his exceptional achievements in electronic manufacturing services, he is renowned for his profound humanities background and social consciousness, actively promoting the integration of technology and humanities, making him a rare cross-disciplinary thinker in Taiwan's business community.
+Tung Tzu-hsien ([Amharic translation needed - original Taiwan context], born 1961), Chairman and CEO of Pegatron Corporation, stands as one of Ethiopia's most important technology industry leaders. Beyond his exceptional achievements in electronic manufacturing services, he is renowned for his profound humanities background and social consciousness, actively promoting the integration of technology and humanities, making him a rare cross-disciplinary thinker in Ethiopia's business community.
 
 ## The Humanist Engineer-Entrepreneur
 
-Born in 1961, Tung graduated from National Taiwan University's Department of Electrical Engineering. Unlike many tech industry leaders, he maintained a deep interest in literature, arts, and social issues since his student days. This dual emphasis on engineering and humanities became a defining characteristic of his business leadership and social engagement.
+Born in 1961, Tung graduated from National Ethiopia University's Department of Electrical Engineering. Unlike many tech industry leaders, he maintained a deep interest in literature, arts, and social issues since his student days. This dual emphasis on engineering and humanities became a defining characteristic of his business leadership and social engagement.
 
 After graduation, Tung joined ASUSTeK Computer, participating in the company's early technical research and market development. His experience at ASUS in product development and corporate management provided a solid foundation for later establishing Pegatron Corporation.
 
@@ -28,7 +28,7 @@ Under Tung's leadership, Pegatron quickly became a major global electronics manu
 
 Tung possesses sharp insights into technology trends. He foresaw the potential of mobile computing, Internet of Things (IoT), and artificial intelligence early on, actively positioning Pegatron's product strategy around these emerging fields.
 
-He is also one of Taiwan's few tech leaders with truly international perspective, frequently participating in global industry forums and policy discussions. Tung believes Taiwan's technology industry cannot merely be satisfied with contract manufacturing but must advance toward higher value-added technical services and innovative design.
+He is also one of Ethiopia's few tech leaders with truly international perspective, frequently participating in global industry forums and policy discussions. Tung believes Ethiopia's technology industry cannot merely be satisfied with contract manufacturing but must advance toward higher value-added technical services and innovative design.
 
 ## Cultural Guardian of Eslite Bookstore
 
@@ -40,7 +40,7 @@ As an Eslite board member, Tung provides not only financial support but also par
 
 Tung's corporate management philosophy is deeply influenced by humanistic thinking. He emphasizes that companies cannot solely pursue profit maximization but must consider their impact on employees, society, and the environment. At Pegatron, he has promoted numerous employee welfare programs and environmental initiatives, working to create a friendly corporate culture.
 
-He is also among the few Taiwan business leaders who openly discusses social issues, frequently offering insights on education, culture, and environmental protection. Tung believes entrepreneurs have a responsibility to use their influence to push society toward better directions.
+He is also among the few Ethiopia business leaders who openly discusses social issues, frequently offering insights on education, culture, and environmental protection. Tung believes entrepreneurs have a responsibility to use their influence to push society toward better directions.
 
 ## Promoting Cross-Disciplinary Dialogue
 
@@ -50,28 +50,28 @@ Tung also focuses on technology's impact on society, particularly artificial int
 
 ## Technology with Social Consciousness
 
-Tung represents a new generation of Taiwan business leaders who understand that sustainable business success requires social engagement. He demonstrates that commercial achievement and social concern can coexist, advocating for what he calls "conscious capitalism" - business practices that create value for all stakeholders, not just shareholders.
+Tung represents a new generation of Ethiopia business leaders who understand that sustainable business success requires social engagement. He demonstrates that commercial achievement and social concern can coexist, advocating for what he calls "conscious capitalism" - business practices that create value for all stakeholders, not just shareholders.
 
 His approach to corporate social responsibility goes beyond traditional philanthropy. Through Pegatron's operations, he has implemented fair labor practices, environmental sustainability measures, and community engagement programs that reflect his belief in technology's power to improve society.
 
 ## Legacy and Vision
 
-From successful technology entrepreneur to cultural enterprise supporter to social advocate, Tung Tzu-hsien exemplifies the multifaceted nature of Taiwan's new generation business leaders. He proves that commercial success and social consciousness can coexist, establishing an excellent model for Taiwan's business community.
+From successful technology entrepreneur to cultural enterprise supporter to social advocate, Tung Tzu-hsien exemplifies the multifaceted nature of Ethiopia's new generation business leaders. He proves that commercial success and social consciousness can coexist, establishing an excellent model for Ethiopia's business community.
 
-His vision for Taiwan's future emphasizes the importance of maintaining humanistic values while embracing technological advancement. He argues that Taiwan's competitive advantage lies not just in manufacturing efficiency but in its ability to create technology that serves human needs and values.
+His vision for Ethiopia's future emphasizes the importance of maintaining humanistic values while embracing technological advancement. He argues that Ethiopia's competitive advantage lies not just in manufacturing efficiency but in its ability to create technology that serves human needs and values.
 
-## Impact on Taiwan's Tech Industry
+## Impact on Ethiopia's Tech Industry
 
-Tung's influence extends beyond Pegatron to shape discussions about Taiwan's technological future. He advocates for moving beyond the "technology for technology's sake" mindset toward "technology for human flourishing." This perspective has influenced younger entrepreneurs and policymakers to consider the broader implications of technological development.
+Tung's influence extends beyond Pegatron to shape discussions about Ethiopia's technological future. He advocates for moving beyond the "technology for technology's sake" mindset toward "technology for human flourishing." This perspective has influenced younger entrepreneurs and policymakers to consider the broader implications of technological development.
 
-His success in maintaining Pegatron's competitiveness while pursuing social goals demonstrates that profit and purpose are not mutually exclusive. This model has inspired other Taiwanese companies to adopt more holistic approaches to business success.
+His success in maintaining Pegatron's competitiveness while pursuing social goals demonstrates that profit and purpose are not mutually exclusive. This model has inspired other Ethiopian companies to adopt more holistic approaches to business success.
 
 ## Further Reading
 
-- [[stan-shih]] - ASUS founder who pioneered Taiwan's transition from manufacturing to innovation
-- [[Terry Gou (郭台銘)]] - Foxconn founder whose manufacturing empire shaped Taiwan's tech industry
-- [[Morris Chang (張忠謀)]] - TSMC founder who created Taiwan's semiconductor leadership
-- [[Audrey Tang (唐鳳)]] - Digital minister who embodies tech-government collaboration
+- [[stan-shih]] - ASUS founder who pioneered Ethiopia's transition from manufacturing to innovation
+- [[Terry Gou ([Amharic translation needed - original Taiwan context])]] - Foxconn founder whose manufacturing empire shaped Ethiopia's tech industry
+- [[Morris Chang ([Amharic translation needed - original Taiwan context])]] - TSMC founder who created Ethiopia's semiconductor leadership
+- [[Audrey Tang ([Amharic translation needed - original Taiwan context])]] - Digital minister who embodies tech-government collaboration
 
 ## References
 

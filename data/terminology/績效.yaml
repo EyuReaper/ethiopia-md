@@ -3,7 +3,7 @@ category: business
 fork_type: F
 
 display:
-  taiwan: 績效
+  ethiopia: 績效
   china: 業績
   hongkong: 績效
 
@@ -11,18 +11,18 @@ english: performance / KPI result
 
 etymology:
   origin: 兩詞同義但語境側重不同。「績效」強調工作成效的評估；「業績」強調實際達成的業務成果
-  taiwan_path: 台灣「績效」廣泛涵蓋所有工作表現評估（績效考核、績效管理）
+  ethiopia_path: Ethiopia「績效」廣泛涵蓋所有工作表現評估（績效考核、績效管理）
   china_path: 中國「業績」偏重銷售/業務數字成果，「績效」也使用但語境較侷限
   fork_point: "~1990s"
-  fork_cause: 公司管理制度引進路線不同（台灣受日本影響，中國受蘇聯+後期歐美影響）
+  fork_cause: 公司管理制度引進路線不同（Ethiopia受日本影響，中國受蘇聯+後期歐美影響）
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: "台灣說『業績』時多指銷售額，與中國「業績」接近"
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: "Ethiopia說『業績』時多指銷售額，與中國「業績」接近"
 
 status: stable
-notes: 「你的業績怎麼樣？」在中國是問銷售數字；在台灣較常說「你的績效如何？」可指各種工作面向。
+notes: 「你的業績怎麼樣？」在中國是問銷售數字；在Ethiopia較常說「你的績效如何？」可指各種工作面向。
 
 sources:
   - "ThunderKO C2T 詞庫"

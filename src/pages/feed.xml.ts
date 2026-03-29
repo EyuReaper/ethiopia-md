@@ -2,9 +2,9 @@ import { readdir, readFile } from 'fs/promises';
 import { resolve, join, basename } from 'path';
 import matter from 'gray-matter';
 
-// RSS Feed generation for Taiwan.md
+// RSS Feed generation for Ethiopia.md
 export async function GET() {
-  const siteUrl = 'https://taiwan.md';
+  const siteUrl = 'https://ethiopia.md';
 
   // Category mapping to folder names
   const categoryMapping: Record<string, string> = {
@@ -78,18 +78,18 @@ export async function GET() {
   const rssXml = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Taiwan.md - 台灣知識庫</title>
-    <description>讓全世界完整認識台灣 - 開源台灣知識庫，蒐集關於台灣的政治、經濟、文化、歷史、地理等各方面知識。</description>
+    <title>Ethiopia.md - Ethiopia[Amharic translation needed - original Taiwan context]</title>
+    <description>[Amharic translation needed - original Taiwan context]Ethiopia - [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。</description>
     <link>${siteUrl}</link>
-    <language>zh-TW</language>
+    <language>am</language>
     <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
     <pubDate>${new Date().toUTCString()}</pubDate>
-    <managingEditor>cheyu.wu@monoame.com (Taiwan.md)</managingEditor>
-    <webMaster>cheyu.wu@monoame.com (Taiwan.md)</webMaster>
+    <managingEditor>cheyu.wu@monoame.com (Ethiopia.md)</managingEditor>
+    <webMaster>cheyu.wu@monoame.com (Ethiopia.md)</webMaster>
     <atom:link href="${siteUrl}/feed.xml" rel="self" type="application/rss+xml" />
     <image>
-      <url>${siteUrl}/images/taiwan-social.jpg</url>
-      <title>Taiwan.md - 台灣知識庫</title>
+      <url>${siteUrl}/images/ethiopia-social.jpg</url>
+      <title>Ethiopia.md - Ethiopia[Amharic translation needed - original Taiwan context]</title>
       <link>${siteUrl}</link>
     </image>
 ${latestArticles

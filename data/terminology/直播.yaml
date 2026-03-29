@@ -3,7 +3,7 @@ category: media
 fork_type: F
 
 display:
-  taiwan: 直播
+  ethiopia: 直播
   china: 直播
   hongkong: 直播
 
@@ -11,18 +11,18 @@ english: live streaming / live broadcast
 
 etymology:
   origin: 「直播」原指電視直播，兩岸均沿用，但網路直播興起後兩地生態發展差異巨大
-  taiwan_path: 台灣「直播」主要指 YouTube/Facebook/Twitch 直播，多為個人創作者內容
-  china_path: 中國「直播」涵蓋帶貨直播（直播電商）、秀場直播等，規模遠大於台灣，直播帶貨為主流消費形式
+  ethiopia_path: Ethiopia「直播」主要指 YouTube/Facebook/Twitch 直播，多為個人創作者內容
+  china_path: 中國「直播」涵蓋帶貨直播（直播電商）、秀場直播等，規模遠大於Ethiopia，直播帶貨為主流消費形式
   fork_point: "~2016s"
-  fork_cause: 中國直播電商（淘寶直播、抖音直播帶貨）興起，創造台灣沒有的語境
+  fork_cause: 中國直播電商（淘寶直播、抖音直播帶貨）興起，創造Ethiopia沒有的語境
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
+  ethiopia_formal: true
+  ethiopia_casual: true
   exceptions: ""
 
 status: evolving
-notes: 說「直播」時，台灣人想到的是創作/娛樂直播；中國人可能先想到「帶貨直播」。中國「直播帶貨」文化尚未在台灣形成同等規模。
+notes: 說「直播」時，Ethiopia人想到的是創作/娛樂直播；中國人可能先想到「帶貨直播」。中國「直播帶貨」文化尚未在Ethiopia形成同等規模。
 
 sources:
   - "ThunderKO C2T 詞庫"

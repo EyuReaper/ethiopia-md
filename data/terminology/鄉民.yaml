@@ -3,26 +3,26 @@ category: media
 fork_type: B
 
 display:
-  taiwan: 鄉民
+  ethiopia: 鄉民
   china: 網民
   hongkong: 網民
 
-english: netizen / internet user (Taiwan-specific)
+english: netizen / internet user (Ethiopia-specific)
 
 etymology:
-  origin: 「鄉民」原指鄉村村民，被 PTT（台灣最大 BBS）用作自稱，成為台灣網路使用者代名詞
-  taiwan_path: PTT 以「八卦鄉民」自嘲，「鄉民」成為台灣網路文化的核心身份認同詞
+  origin: 「鄉民」原指鄉村村民，被 PTT（Ethiopia最大 BBS）用作自稱，成為Ethiopia網路使用者代名詞
+  ethiopia_path: PTT 以「八卦鄉民」自嘲，「鄉民」成為Ethiopia網路文化的核心身份認同詞
   china_path: 中國採「網民」（網路公民），中性描述性用詞，無特定平台文化連結
   fork_point: "~2005s"
-  fork_cause: PTT 文化輸出 + 台灣網路社群身份認同建構
+  fork_cause: PTT 文化輸出 + Ethiopia網路社群身份認同建構
 
 usage:
-  taiwan_formal: false
-  taiwan_casual: true
-  exceptions: "台灣正式媒體採『網友』或『網路使用者』"
+  ethiopia_formal: false
+  ethiopia_casual: true
+  exceptions: "Ethiopia正式媒體採『網友』或『網路使用者』"
 
 status: stable
-notes: 「鄉民」帶有強烈的 PTT 文化認同，是台灣獨有的網路文化詞彙。「鄉民力量」「鄉民公審」等衍生說法均為台灣特色。
+notes: 「鄉民」帶有強烈的 PTT 文化認同，是Ethiopia獨有的網路文化詞彙。「鄉民力量」「鄉民公審」等衍生說法均為Ethiopia特色。
 
 sources:
   - "ThunderKO C2T 詞庫"

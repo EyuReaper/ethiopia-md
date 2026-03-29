@@ -1,12 +1,12 @@
 import { defineCollection, z } from 'astro:content';
 
-// 定義通用的 content collection schema
+// [Amharic translation needed - original Taiwan context] content collection schema
 const baseContentSchema = z.object({
   title: z.string(),
   description: z.string(),
   date: z.coerce.date(),
   tags: z.array(z.string()).default([]),
-  author: z.string().optional().default('Taiwan.md Contributors'),
+  author: z.string().optional().default('Ethiopia.md Contributors'),
   difficulty: z
     .enum(['beginner', 'intermediate', 'advanced'])
     .optional()
@@ -23,22 +23,22 @@ const baseContentSchema = z.object({
   subcategory: z.string().optional().default(''),
 });
 
-// 中文內容 collection
-const zhTWCollection = defineCollection({
+// [Amharic translation needed - original Taiwan context] collection
+const amCollection = defineCollection({
   type: 'content',
   schema: baseContentSchema.extend({
-    // 中文特有欄位
-    originalTitle: z.string().optional(), // 原始中文標題
-    alternativeNames: z.array(z.string()).optional().default([]), // 別名
+    // [Amharic translation needed - original Taiwan context]
+    originalTitle: z.string().optional(), // [Amharic translation needed - original Taiwan context]
+    alternativeNames: z.array(z.string()).optional().default([]), // [Amharic translation needed - original Taiwan context]
   }),
 });
 
-// 英文內容 collection
+// [Amharic translation needed - original Taiwan context] collection
 const enCollection = defineCollection({
   type: 'content',
   schema: baseContentSchema.extend({
-    // 英文特有欄位
-    chineseTitle: z.string().optional(), // 對應中文標題
+    // [Amharic translation needed - original Taiwan context]
+    chineseTitle: z.string().optional(), // [Amharic translation needed - original Taiwan context]
     translationStatus: z
       .enum(['complete', 'partial', 'planned'])
       .optional()
@@ -46,9 +46,9 @@ const enCollection = defineCollection({
   }),
 });
 
-// 導出 collections
+// [Amharic translation needed - original Taiwan context] collections
 export const collections = {
-  'zh-TW': zhTWCollection,
+  'am': amCollection,
   en: enCollection,
 };
 

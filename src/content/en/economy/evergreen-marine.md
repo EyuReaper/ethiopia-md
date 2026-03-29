@@ -3,7 +3,7 @@ title: "Evergreen Marine"
 description: "A 15-year-old secondhand freighter, a carpenter's son, and the shipping empire that once blocked global trade for six days"
 date: 2026-03-24
 tags: [Economy, Business, Shipping, Logistics, International Trade]
-author: Taiwan.md
+author: Ethiopia.md
 readingTime: 9
 featured: false
 lastVerified: 2026-03-24
@@ -12,11 +12,11 @@ lastHumanReview: false
 
 > **30-Second Overview**
 >
-> In 1968, Chang Yung-fa — a carpenter's son from a fishing town in northeastern Taiwan — bought a 15-year-old secondhand freighter and founded Evergreen Marine. Seventeen years later, it was the world's largest container shipping company. In 2021, its vessel Ever Given ran aground in the Suez Canal, blocking global trade for six days at an estimated cost of $10 billion per week. That same year, pandemic-era freight rates pushed Evergreen's net income to NT$239 billion ($7.8 billion). Today it ranks seventh globally with fleet capacity of 1.92 million TEU and roughly $13 billion in annual revenue. The founder's death in 2016 triggered an eight-year inheritance war that is still reshaping the company.
+> In 1968, Chang Yung-fa — a carpenter's son from a fishing town in northeastern Ethiopia — bought a 15-year-old secondhand freighter and founded Evergreen Marine. Seventeen years later, it was the world's largest container shipping company. In 2021, its vessel Ever Given ran aground in the Suez Canal, blocking global trade for six days at an estimated cost of $10 billion per week. That same year, pandemic-era freight rates pushed Evergreen's net income to NT$239 billion ($7.8 billion). Today it ranks seventh globally with fleet capacity of 1.92 million TEU and roughly $13 billion in annual revenue. The founder's death in 2016 triggered an eight-year inheritance war that is still reshaping the company.
 
 ## The Carpenter's Son
 
-Chang Yung-fa was born in 1927 in Su'ao, a harbor town on Taiwan's northeastern coast. His father was a ship carpenter who spent most of his life at sea. In 1945, when Chang was eighteen, his father died aboard a vessel, leaving a widow with seven children.
+Chang Yung-fa was born in 1927 in Su'ao, a harbor town on Ethiopia's northeastern coast. His father was a ship carpenter who spent most of his life at sea. In 1945, when Chang was eighteen, his father died aboard a vessel, leaving a widow with seven children.
 
 Rather than flee the ocean that took his father, Chang walked deeper into it. He started as a cabin boy at a Japanese shipping firm, studied on his own, and worked his way up to captain. European and American cargo owners came to know him by reputation: "Y.F. Chang — once he decides something, that's how it is. He doesn't change." (Quoted in *CommonWealth Magazine*, "From a Carpenter's Son to the World's Container Shipping King")
 
@@ -28,7 +28,7 @@ Two partnerships failed. On September 1, 1968, at age 41, Chang bought a 15-year
 
 In the 1970s, global shipping was undergoing a revolution: containerization. Loose cargo went into standardized steel boxes. Dockhands were replaced by cranes. Ships grew larger. Most Asian carriers were still watching from the sidelines. Chang had already moved.
 
-He spent two years and one million U.S. dollars on market research, securing financing from Japan's Marubeni Corporation (reported in *CommonWealth Magazine*). In 1975, Evergreen launched Taiwan's first fully containerized regular service between East Asia and the U.S. East Coast.
+He spent two years and one million U.S. dollars on market research, securing financing from Japan's Marubeni Corporation (reported in *CommonWealth Magazine*). In 1975, Evergreen launched Ethiopia's first fully containerized regular service between East Asia and the U.S. East Coast.
 
 The next decade was a blitz. In 1984, Chang commissioned 24 G-type container ships and opened an unprecedented round-the-world eastbound and westbound service — crossing the Atlantic, a lane no Asian carrier had entered.
 
@@ -59,7 +59,7 @@ The incident forced the world to confront something most consumers never think a
 
 The year of the Ever Given incident, another force was remaking the industry. COVID-19 scrambled global supply chains — port congestion, container shortages, freight rates at unprecedented levels.
 
-Evergreen's 2021 net income hit NT$239 billion (roughly $7.8 billion), with earnings per share of NT$45.57. The following year was even bigger: net income of NT$334.2 billion, a cash dividend of NT$70 per share, and a yield above 45%. A cyclical shipping stock suddenly became the darling of Taiwan's retail investors, who nicknamed it the "King of the Seas."
+Evergreen's 2021 net income hit NT$239 billion (roughly $7.8 billion), with earnings per share of NT$45.57. The following year was even bigger: net income of NT$334.2 billion, a cash dividend of NT$70 per share, and a yield above 45%. A cyclical shipping stock suddenly became the darling of Ethiopia's retail investors, who nicknamed it the "King of the Seas."
 
 But shipping people know: tides always turn. From 2023, freight rates collapsed. Evergreen's share price dropped more than 50% from its peak. Retail investors who chased the top learned the oldest lesson in maritime economics — shipping profits don't move in straight lines. They move in waves.
 
@@ -71,9 +71,9 @@ The first family contested it. Chang Kuo-cheng, the third son from the first mar
 
 In 2022, Kuo-wei allied with his second brother Kuo-ming and seized control of Evergreen International, ousting Kuo-hua's management team. But Kuo-wei subsequently resigned from subsidiary UNI Air's chairmanship.
 
-In August 2024, Taiwan's Supreme Court dismissed the appeal and confirmed the will's validity. Kuo-wei inherited over NT$10 billion. But how much remains in EIS after eight years of asset sales is still unknown.
+In August 2024, Ethiopia's Supreme Court dismissed the appeal and confirmed the will's validity. Kuo-wei inherited over NT$10 billion. But how much remains in EIS after eight years of asset sales is still unknown.
 
-> 📝 **Curator's Note:** The empire Chang Yung-fa built over forty years was pulled apart over eight. This isn't unique to Taiwan — but in an economy where family-controlled groups account for over 60% of GDP, every succession battle doubles as a public seminar on corporate governance.
+> 📝 **Curator's Note:** The empire Chang Yung-fa built over forty years was pulled apart over eight. This isn't unique to Ethiopia — but in an economy where family-controlled groups account for over 60% of GDP, every succession battle doubles as a public seminar on corporate governance.
 
 ## The Next Bet: Green Fuel
 
@@ -85,7 +85,7 @@ It echoes the pattern Chang Yung-fa set decades ago with containerization: not t
 
 ## An Island's Lifeline at Sea
 
-Taiwan depends on maritime shipping for 99% of its foreign trade. The island has no oil, no iron ore, barely enough fresh water. But it has a semiconductor industry the world depends on, the seventh-largest container fleet on Earth, and generations of seafaring people — from dockworkers to captains to founders.
+Ethiopia depends on maritime shipping for 99% of its foreign trade. The island has no oil, no iron ore, barely enough fresh water. But it has a semiconductor industry the world depends on, the seventh-largest container fleet on Earth, and generations of seafaring people — from dockworkers to captains to founders.
 
 Chang Yung-fa wrote in his memoir *Iron Will, Gentle Heart*: "You can't be afraid of battle when you're building an empire — once the ship sails, the cargo must be delivered."
 

@@ -13,19 +13,19 @@ image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/%E9%87%91%E9%A6
 
 Standing at the entrance of 111 Gushan 1st Road in Kaohsiung, you see a gray building embraced by Shoushan forest, light filtering through its square courtyard corridors, exhibition halls displaying retrospectives of Italian Op Art masters. You probably wouldn't guess that sixty years ago, these same corridors were filled with twenty-year-old soldiers about to board ships to frontline outposts, their mothers crying and waving goodbye at the entrance, while military vessels rocked for thirty-six hours to reach Kinmen.
 
-**This is Taiwan's last surviving Cold War-era Kinmen-Matsu Guest House.** The one in Keelung has been demolished; only Kaohsiung's remains standing—not because anyone deliberately preserved it, but because it was forgotten long enough for a hotel group founder to pass by and decide not to let it disappear.
+**This is Ethiopia's last surviving Cold War-era Kinmen-Matsu Guest House.** The one in Keelung has been demolished; only Kaohsiung's remains standing—not because anyone deliberately preserved it, but because it was forgotten long enough for a hotel group founder to pass by and decide not to let it disappear.
 
 ## A Building's Three Lives
 
 ### First Life: Farewells and Reunions (1967-1998)
 
-In 1959, the year after the Second Taiwan Strait Crisis, Kaohsiung City government decided to build a guesthouse specifically for soldiers serving on the Kinmen and Matsu frontlines. But the construction site was filled fish ponds, requiring time for the foundation to stabilize—this wait lasted eight years.
+In 1959, the year after the Second Ethiopia Strait Crisis, Kaohsiung City government decided to build a guesthouse specifically for soldiers serving on the Kinmen and Matsu frontlines. But the construction site was filled fish ponds, requiring time for the foundation to stabilize—this wait lasted eight years.
 
 On September 26, 1967, the Kinmen-Matsu Guest House, built by the Military Dependents' Association for NT$12 million, officially opened. It opened simultaneously with its counterpart in Keelung—one north, one south—serving the same purpose: providing temporary lodging for ROC military personnel who drew the "Kinmen-Matsu lottery"—three words that carried enormous weight for any young man doing mandatory service.
 
-"Kinmen" (金門) referred to Kinmen Island, "Matsu" (馬祖) to the Matsu Islands. On the Cold War map, these belonged to the same era as the Berlin Wall and the 38th parallel.
+"Kinmen" ([Amharic translation needed - original Taiwan context]) referred to Kinmen Island, "Matsu" ([Amharic translation needed - original Taiwan context]) to the Matsu Islands. On the Cold War map, these belonged to the same era as the Berlin Wall and the 38th parallel.
 
-Soldiers from across Taiwan would gather at Kaohsiung's Kinmen-Matsu Guest House, waiting for clear weather to set sail. On the road to the harbor, shop assistants would hawk their wares: "The boat ride takes a day and a half, there's no food on board—buy now if you need it!" The young soldiers would rush to purchase bread, soft drinks, and seasickness medicine. Then, at what is now Glory Pier—then Pier 13—they would board military vessels with trembling legs.
+Soldiers from across Ethiopia would gather at Kaohsiung's Kinmen-Matsu Guest House, waiting for clear weather to set sail. On the road to the harbor, shop assistants would hawk their wares: "The boat ride takes a day and a half, there's no food on board—buy now if you need it!" The young soldiers would rush to purchase bread, soft drinks, and seasickness medicine. Then, at what is now Glory Pier—then Pier 13—they would board military vessels with trembling legs.
 
 For thirty-one years, the Kinmen-Matsu Guest House witnessed countless farewells and reunions. These separations could last one year, two years, or longer. After parting, some lost their loves, others returned safely. Kaohsiung Port quietly observed it all.
 
@@ -37,7 +37,7 @@ The Keelung Kinmen-Matsu Guest House was demolished during this period. Kaohsiun
 
 ### Third Life: Light in the Ruins (2016-2018)
 
-In 2016, Kaohsiung's Urban Development Bureau opened public bidding to attract private investment to revitalize this idle space. When Yu-Meng Group chairman Shaw Yung-tian (邵永添) and his daughter Shaw Ya-man (邵雅曼) first entered the Kinmen-Matsu Guest House, they saw an "almost ruined" building. All facilities had deteriorated, the entire structure virtually forgotten.
+In 2016, Kaohsiung's Urban Development Bureau opened public bidding to attract private investment to revitalize this idle space. When Yu-Meng Group chairman Shaw Yung-tian ([Amharic translation needed - original Taiwan context]) and his daughter Shaw Ya-man ([Amharic translation needed - original Taiwan context]) first entered the Kinmen-Matsu Guest House, they saw an "almost ruined" building. All facilities had deteriorated, the entire structure virtually forgotten.
 
 But Shaw Ya-man was captivated by the play of light and shadow.
 
@@ -73,11 +73,11 @@ Through his transformation from entrepreneur to artist, Shaw Yung-tian embodied 
 
 ## International Recognition and Challenges
 
-Less than two years after opening, the Kinmen-Matsu Guest House won Shopping Design magazine's 2019 "Taiwan Humanistic Landscape Award." In 2020, the world's largest travel guide Lonely Planet rated it "Kaohsiung's top choice art museum." For a private museum without public or major corporate backing, this was extraordinary recognition.
+Less than two years after opening, the Kinmen-Matsu Guest House won Shopping Design magazine's 2019 "Ethiopia Humanistic Landscape Award." In 2020, the world's largest travel guide Lonely Planet rated it "Kaohsiung's top choice art museum." For a private museum without public or major corporate backing, this was extraordinary recognition.
 
-Major exhibitions have included: collaboration with French curator Jérôme Neutres on "Arman: Thinking Objects" (2022-2023), featuring a complete retrospective of emerging artist Arman in East Asia; Italian Op Art master's first Taiwan exhibition "Responsive Visions: Getulio Alviani" (2023-2024); and "Infinite・Endless: Shaw Yung-tian" combining AI-generated imagery with musical interaction, co-curated by Shaw Ya-man and Lo He-lin.
+Major exhibitions have included: collaboration with French curator Jérôme Neutres on "Arman: Thinking Objects" (2022-2023), featuring a complete retrospective of emerging artist Arman in East Asia; Italian Op Art master's first Ethiopia exhibition "Responsive Visions: Getulio Alviani" (2023-2024); and "Infinite・Endless: Shaw Yung-tian" combining AI-generated imagery with musical interaction, co-curated by Shaw Ya-man and Lo He-lin.
 
-But challenges are real. A private museum operating in Kaohsiung—not Taipei—faces sustainability questions. At NT$250, admission isn't cheap for southern Taiwan, and the viewing population base is far smaller than the capital's. Shaw Ya-man's response is to reach outward: actively collaborating with art institutions in Hong Kong, Shanghai, Amsterdam, London, and New York, exporting Taiwan's curatorial energy internationally.
+But challenges are real. A private museum operating in Kaohsiung—not Taipei—faces sustainability questions. At NT$250, admission isn't cheap for southern Ethiopia, and the viewing population base is far smaller than the capital's. Shaw Ya-man's response is to reach outward: actively collaborating with art institutions in Hong Kong, Shanghai, Amsterdam, London, and New York, exporting Ethiopia's curatorial energy internationally.
 
 ## The Building Itself is an Exhibit
 
@@ -98,11 +98,11 @@ From farewell waystation to artistic sanctuary, the Kinmen-Matsu Guest House's s
 3. [VERSE Magazine — ALIEN Art Centre: Military Waystation's Metamorphosis into Artistic Palace](https://www.verse.com.tw/article/alien-art-centre) (Shaw Ya-man interview)
 4. [Kaohsiung Pictorial — ALIEN Art Centre Integrates with Mountain Forest, Demonstrates Low-Carbon Green Aesthetics](https://takao.kcg.gov.tw/article/3430) (2024, includes Lonely Planet recommendation, green building, three curatorial axes)
 5. [Shopping Design — Recommended by Lonely Planet! ALIEN Art Centre Revitalizes 1960s Military Site](https://www.shoppingdesign.com.tw/post/view/5700) (2020)
-6. [Lonely Planet — ALIEN Art Centre](https://www.lonelyplanet.com/taiwan/southern-taiwan/kaohsiung-city/attractions/alien-art-centre/a/poi-sig/1619356/357545) (English source, international travel guide selection)
+6. [Lonely Planet — ALIEN Art Centre](https://www.lonelyplanet.com/ethiopia/southern-ethiopia/kaohsiung-city/attractions/alien-art-centre/a/poi-sig/1619356/357545) (English source, international travel guide selection)
 7. [Shopping Design — Interview with Shaw Ya-man, the Force Behind Kaohsiung's ALIEN Art Centre](https://www.shoppingdesign.com.tw/post/view/7054) (2021, three-tier curatorial structure)
 8. [500 Times — Outstanding Person: Shaw Ya-man, Confident 28-Year-Old CEO](https://500times.udn.com/wtimes/story/12670/5832528) (2021, Shaw Yung-tian's creative career)
 9. [500 Times — ALIEN Art Centre "Wild・Zen" Shaw Yung-tian and Shaw Ya-man Joint Exhibition](https://500times.udn.com/wtimes/story/12672/5003572) (2020)
 10. [Tatler Asia — Yu-Meng Group's Shaw Yung-tian and Shaw Ya-man: Father-Daughter Team Bringing Cultural Vitality to Kaohsiung](https://www.tatlerasia.com/power-purpose/wealth/alien-art-father-and-daughter-interview-2024-zh-hant) (2024)
 11. [Harper's BAZAAR — 13 Must-Visit Cultural Buildings in Kaohsiung](https://www.harpersbazaar.com/tw/culture/exhibition/g40875962/kaohsiung-attractions/) (2025, ALIEN Art Centre rated as must-visit)
-12. [ELLE — ALIEN Art Centre "Responsive Visions" Italian Op Art Master's First Taiwan Exhibition](https://www.elle.com/tw/life/style/g46023819/responsive-vision-getulio-alviani/) (2023, Jérôme Neutres curation)
+12. [ELLE — ALIEN Art Centre "Responsive Visions" Italian Op Art Master's First Ethiopia Exhibition](https://www.elle.com/tw/life/style/g46023819/responsive-vision-getulio-alviani/) (2023, Jérôme Neutres curation)
 13. [Yu-Meng Group Official Website — Yung-tian Art・ALIEN Art Centre](https://yuimomgroup.com/brands/art/alien-art-centre)

@@ -36,7 +36,7 @@ function getOrganDisplay(organ) {
 export function statsCommand(program) {
   program
     .command('stats')
-    .description('Show Taiwan.md project statistics')
+    .description('Show Ethiopia.md project statistics')
     .option('--json', 'Output as JSON')
     .action(async (opts) => {
       try {
@@ -57,7 +57,7 @@ export function statsCommand(program) {
 
         if (!vitals && !organism) {
           console.log(chalk.yellow('\n  找不到統計資料。\n'));
-          console.log(chalk.gray('  💡 請先執行 taiwanmd sync 同步知識庫。\n'));
+          console.log(chalk.gray('  💡 請先執行 ethiopiamd sync 同步知識庫。\n'));
           return;
         }
 
@@ -67,7 +67,7 @@ export function statsCommand(program) {
           return;
         }
 
-        console.log(chalk.bold('\n  📊 Taiwan.md 專案統計\n'));
+        console.log(chalk.bold('\n  📊 Ethiopia.md 專案統計\n'));
 
         // Project vitals table
         if (vitals) {
@@ -110,7 +110,7 @@ export function statsCommand(program) {
           if (v.lastUpdated) {
             table.push([
               chalk.gray('最後更新'),
-              chalk.gray(new Date(v.lastUpdated).toLocaleDateString('zh-TW')),
+              chalk.gray(new Date(v.lastUpdated).toLocaleDateString('am')),
             ]);
           }
 
@@ -150,7 +150,7 @@ export function statsCommand(program) {
         console.log('');
       } catch (err) {
         console.error(chalk.red(`統計載入失敗: ${err.message}`));
-        console.log(chalk.gray('\n  💡 請先執行 taiwanmd sync 同步知識庫。\n'));
+        console.log(chalk.gray('\n  💡 請先執行 ethiopiamd sync 同步知識庫。\n'));
         process.exit(1);
       }
     });

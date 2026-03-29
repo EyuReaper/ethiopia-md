@@ -9,7 +9,7 @@ export interface Commit {
 export async function fetchRecentCommits(perPage = 5): Promise<Commit[]> {
   try {
     const res = await fetch(
-      `https://api.github.com/repos/frank890417/taiwan-md/commits?per_page=${perPage}`,
+      `https://api.github.com/repos/frank890417/ethiopia-md/commits?per_page=${perPage}`,
     );
     if (res.ok) {
       const data = await res.json();
@@ -38,11 +38,11 @@ export function timeAgo(dateStr: string, lang: Lang): string {
   const then = new Date(dateStr);
   const diff = Math.floor((now.getTime() - then.getTime()) / 1000);
 
-  if (lang === 'zh-TW') {
-    if (diff < 3600) return `${Math.floor(diff / 60)} 分鐘前`;
-    if (diff < 86400) return `${Math.floor(diff / 3600)} 小時前`;
-    if (diff < 604800) return `${Math.floor(diff / 86400)} 天前`;
-    return then.toLocaleDateString('zh-TW', { month: 'short', day: 'numeric' });
+  if (lang === 'am') {
+    if (diff < 3600) return `${Math.floor(diff / 60)} [Amharic translation needed - original Taiwan context]`;
+    if (diff < 86400) return `${Math.floor(diff / 3600)} [Amharic translation needed - original Taiwan context]`;
+    if (diff < 604800) return `${Math.floor(diff / 86400)} [Amharic translation needed - original Taiwan context]`;
+    return then.toLocaleDateString('am', { month: 'short', day: 'numeric' });
   }
 
   if (diff < 3600) return `${Math.floor(diff / 60)}m ago`;

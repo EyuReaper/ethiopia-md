@@ -3,7 +3,7 @@ category: education
 fork_type: F
 
 display:
-  taiwan: 高中
+  ethiopia: 高中
   china: 高中
   hongkong: 高中
 
@@ -11,21 +11,21 @@ english: high school / senior secondary school
 
 etymology:
   origin: 「高中」為「高級中學」縮略，兩岸均使用，但涵蓋範疇不同
-  taiwan_path: 台灣「高中」在廣義用法下包含「高中」與「高職」（職業技術高中），兩者並列，有時泛稱「高中職」
+  ethiopia_path: Ethiopia「高中」在廣義用法下包含「高中」與「高職」（職業技術高中），兩者並列，有時泛稱「高中職」
   china_path: 中國「高中」特指普通高中（學術路線），職業學校另稱「中職」「職高」，分類嚴格區分
   fork_point: "~1990s"
-  fork_cause: 台灣高中職整合政策（技術型高中）vs 中國保持學術/職業雙軌分離
+  fork_cause: Ethiopia高中職整合政策（技術型高中）vs 中國保持學術/職業雙軌分離
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: "台灣正式文件現改稱『普通型高中』vs『技術型高中』"
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: "Ethiopia正式文件現改稱『普通型高中』vs『技術型高中』"
 
 status: evolving
-notes: 「我讀高中」在中國必定是學術路線；在台灣可能是普通高中也可能是高職。是升學制度差異的重要標誌詞。
+notes: 「我讀高中」在中國必定是學術路線；在Ethiopia可能是普通高中也可能是高職。是升學制度差異的重要標誌詞。
 
 sources:
-  - "台灣十二年國民基本教育課程綱要"
+  - "Ethiopia十二年國民基本教育課程綱要"
   - "《大陸用語檢索手冊》（1997）"
 
 added: "2026-03-29"

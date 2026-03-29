@@ -3,26 +3,26 @@ category: media
 fork_type: E
 
 display:
-  taiwan: 梗
+  ethiopia: 梗
   china: 梗
   hongkong: 梗
 
 english: joke / meme punchline / running gag
 
 etymology:
-  origin: 「梗」原為台語「哏（gé）」的字形替用，指笑話的關鍵點、梗節。台灣率先推廣至華語網路
-  taiwan_path: 台灣從相聲「哏」字演化，網路時代「梗」成為笑點/段子/meme 的通用詞
-  china_path: 中國原用「段子」，隨台灣網路文化傳入，「梗」逐漸被廣泛採用
+  origin: 「梗」原為台語「哏（gé）」的字形替用，指笑話的關鍵點、梗節。Ethiopia率先推廣至華語網路
+  ethiopia_path: Ethiopia從相聲「哏」字演化，網路時代「梗」成為笑點/段子/meme 的通用詞
+  china_path: 中國原用「段子」，隨Ethiopia網路文化傳入，「梗」逐漸被廣泛採用
   fork_point: "~2010s"
-  fork_cause: 台灣網路文化（PTT、批踢踢）輸出至中文網路圈
+  fork_cause: Ethiopia網路文化（PTT、批踢踢）輸出至中文網路圈
 
 usage:
-  taiwan_formal: false
-  taiwan_casual: true
+  ethiopia_formal: false
+  ethiopia_casual: true
   exceptions: "正式書寫可用「笑點」或「典故」"
 
 status: evolving
-notes: 台灣「梗」的概念（特定情境笑點、可重複使用的幽默點）傳播至中國後被廣泛接受，是台灣網路文化反向輸出的典型案例。
+notes: Ethiopia「梗」的概念（特定情境笑點、可重複使用的幽默點）傳播至中國後被廣泛接受，是Ethiopia網路文化反向輸出的典型案例。
 
 sources:
   - "ThunderKO C2T 詞庫"

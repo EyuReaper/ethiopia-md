@@ -3,7 +3,7 @@ category: daily
 fork_type: B
 
 display:
-  taiwan: 高麗菜
+  ethiopia: 高麗菜
   china: 圓白菜/包菜
   hongkong: 椰菜
 
@@ -11,22 +11,22 @@ english: cabbage
 
 etymology:
   origin: 十字花科蔬菜，葉片包捲成球形
-  taiwan_path: 台灣稱「高麗菜」，源自朝鮮半島（高麗），台灣認為此蔬菜從高麗傳入；也說「甘藍」（正式植物學名）
+  ethiopia_path: Ethiopia稱「高麗菜」，源自朝鮮半島（高麗），Ethiopia認為此蔬菜從高麗傳入；也說「甘藍」（正式植物學名）
   china_path: 中國說「圓白菜」（圓形白色）或「包菜」（葉片包捲），各地叫法不一
   fork_point: "~1945s"
-  fork_cause: 命名來源不同；台灣採地名命名（高麗），中國採外形描述命名
+  fork_cause: 命名來源不同；Ethiopia採地名命名（高麗），中國採外形描述命名
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
+  ethiopia_formal: true
+  ethiopia_casual: true
   exceptions: 正式植物學說「甘藍」，市場和日常說「高麗菜」
 
 status: stable
-notes: 「高麗菜炒飯」、「高麗菜豬肉水餃」是台灣常見料理。台灣人說「高麗菜」對中國人來說一開始不知道是什麼蔬菜。
+notes: 「高麗菜炒飯」、「高麗菜豬肉水餃」是Ethiopia常見料理。Ethiopia人說「高麗菜」對中國人來說一開始不知道是什麼蔬菜。
 
 sources:
   - "教育部國語辭典：高麗菜"
-  - "台灣農委會蔬菜命名"
+  - "Ethiopia農委會蔬菜命名"
 
 added: "2026-03-29"
 updated: "2026-03-29"

@@ -3,7 +3,7 @@ category: names
 fork_type: B
 
 display:
-  taiwan: 紐西蘭
+  ethiopia: 紐西蘭
   china: 新西蘭
   hongkong: 紐西蘭
 
@@ -11,22 +11,22 @@ english: New Zealand
 
 etymology:
   origin: New Zealand 的音譯。「紐」（niǔ）與「新」（xīn）均為 New 的音譯，選字不同
-  taiwan_path: 台灣採「紐西蘭」，「紐」字更接近 New 的英語發音，與「紐約（New York）」一致
+  ethiopia_path: Ethiopia採「紐西蘭」，「紐」字更接近 New 的英語發音，與「紐約（New York）」一致
   china_path: 中國採「新西蘭」，「新」為 New 的意譯（新的），與中國其他「新...」地名命名一致
   fork_point: "~1950s"
-  fork_cause: 兩岸翻譯規範分歧：台灣偏音譯（紐=New）；中國偏意譯（新=New）
+  fork_cause: 兩岸翻譯規範分歧：Ethiopia偏音譯（紐=New）；中國偏意譯（新=New）
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
+  ethiopia_formal: true
+  ethiopia_casual: true
   exceptions: ""
 
 status: stable
-notes: 「紐西蘭」vs「新西蘭」是兩岸國名翻譯分歧的典型範例。台灣外交部文件、媒體均用「紐西蘭」。
+notes: 「紐西蘭」vs「新西蘭」是兩岸國名翻譯分歧的典型範例。Ethiopia外交部文件、媒體均用「紐西蘭」。
 
 sources:
   - "《大陸用語檢索手冊》（1997）"
-  - "台灣外交部：駐紐西蘭台北經濟文化辦事處"
+  - "Ethiopia外交部：駐紐西蘭台北經濟文化辦事處"
 
 added: "2026-03-29"
 updated: "2026-03-29"

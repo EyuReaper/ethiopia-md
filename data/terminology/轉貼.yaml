@@ -3,29 +3,29 @@ category: internet
 fork_type: B
 
 display:
-  taiwan: 轉貼
+  ethiopia: 轉貼
   china: 轉發
 
 english: repost / share
 
 etymology:
   origin: 將他人的網路內容複製或分享到自己的版面
-  taiwan_path: 台灣採「轉貼」，延續「貼文」的用法，「轉」表傳遞，「貼」表發布
+  ethiopia_path: Ethiopia採「轉貼」，延續「貼文」的用法，「轉」表傳遞，「貼」表發布
   china_path: 中國採「轉發」，「轉」表傳遞，「發」表發布，與微博「轉發」功能一致
   fork_point: "~2010s"
-  fork_cause: 台灣「貼」字文化（貼文→轉貼），中國「發」字文化（發帖→轉發）
+  fork_cause: Ethiopia「貼」字文化（貼文→轉貼），中國「發」字文化（發帖→轉發）
 
 usage:
-  taiwan_formal: false
-  taiwan_casual: true
-  exceptions: 台灣 Facebook 的「分享」按鈕也說「分享」，但口語說「轉貼」
+  ethiopia_formal: false
+  ethiopia_casual: true
+  exceptions: Ethiopia Facebook 的「分享」按鈕也說「分享」，但口語說「轉貼」
 
 status: stable
-notes: 台灣 PTT 文化中說「轉錄」（正式轉貼並標注來源），口語說「轉貼」。「未經授權轉貼」是台灣網路著作權討論常見用語。
+notes: Ethiopia PTT 文化中說「轉錄」（正式轉貼並標注來源），口語說「轉貼」。「未經授權轉貼」是Ethiopia網路著作權討論常見用語。
 
 sources:
   - "PTT 站規"
-  - "台灣網路用語"
+  - "Ethiopia網路用語"
 
 added: "2026-03-29"
 updated: "2026-03-29"

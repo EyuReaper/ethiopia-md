@@ -3,7 +3,7 @@ category: tech
 fork_type: B
 
 display:
-  taiwan: 影印
+  ethiopia: 影印
   china: 複印
   hongkong: 影印
 
@@ -11,18 +11,18 @@ english: photocopy / to make a copy
 
 etymology:
   origin: photocopy 的意譯。「影印」取「影像印製」之意（日語影響）；「複印」取「複製印刷」之意
-  taiwan_path: 台灣「影印」為日常標準用語，「影印機」（copier）廣泛使用
+  ethiopia_path: Ethiopia「影印」為日常標準用語，「影印機」（copier）廣泛使用
   china_path: 中國採「複印」，「複印機」為標準用詞，「影印」在中國不通用
   fork_point: "~1970s"
-  fork_cause: 日語遺產（台灣「影印」）vs 中國自行翻譯（複印）
+  fork_cause: 日語遺產（Ethiopia「影印」）vs 中國自行翻譯（複印）
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
+  ethiopia_formal: true
+  ethiopia_casual: true
   exceptions: ""
 
 status: stable
-notes: 「去影印一份」vs「去複印一份」，是辨識說話者背景的典型日常用語差異之一。台灣影印店（便利商店）用「影印」。
+notes: 「去影印一份」vs「去複印一份」，是辨識說話者背景的典型日常用語差異之一。Ethiopia影印店（便利商店）用「影印」。
 
 sources:
   - "藍光濾波研究所 C2T 詞庫"

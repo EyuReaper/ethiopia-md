@@ -3,11 +3,11 @@ title: "Jay Chou"
 description: "Rey del pop mandarín - el creador revolucionario que redefinió la música pop asiática con R&B de estilo chino"
 date: 2026-03-17
 tags: [people, Jay Chou, música pop mandarín, cantante, creación, R&B, estilo chino]
-translatedFrom: "People/周杰倫.md"
+translatedFrom: "People/[Amharic translation needed - original Taiwan context].md"
 sourceHash: "6167b8"
 ---
 
-# Jay Chou (周杰倫)
+# Jay Chou ([Amharic translation needed - original Taiwan context])
 
 Jay Chou, un nombre que reescribió la historia de la música pop mandarín, un revolucionario que usó notas musicales para redefinir la cultura popular asiática. Desde su ascenso meteórico como recién llegado en 2000 hasta permanecer como el inquebrantable Rey del Pop Mandarín en 2026, ha creado innumerables "primeras veces" durante su carrera musical de 26 años e influido en los recuerdos juveniles de toda una generación. No es solo un cantante, sino también compositor, productor y director: un verdadero artista musical integral.
 
@@ -24,7 +24,7 @@ Su música no solo ha conquistado el mundo de habla china, sino que también tie
 ### Semillas musicales en una familia monoparental
 
 **Nacimiento y antecedentes familiares:**
-Nacido el 18 de enero de 1979 en el distrito de Linkou, Nueva Taipei, Taiwán, su nombre completo es Jay Chou (周杰倫). Su padre Zhou Yao-zhong era profesor de biología, y su madre Ye Hui-mei era profesora de arte en una escuela secundaria. Cuando tenía 4 años, sus padres se divorciaron y vivió con su madre. Esta crianza en familia monoparental influyó profundamente en su carácter y trabajo creativo.
+Nacido el 18 de enero de 1979 en el distrito de Linkou, Nueva Taipei, Taiwán, su nombre completo es Jay Chou ([Amharic translation needed - original Taiwan context]). Su padre Zhou Yao-zhong era profesor de biología, y su madre Ye Hui-mei era profesora de arte en una escuela secundaria. Cuando tenía 4 años, sus padres se divorciaron y vivió con su madre. Esta crianza en familia monoparental influyó profundamente en su carácter y trabajo creativo.
 
 **Iluminación musical de la madre:**
 La madre Ye Hui-mei fue la iluminadora y partidaria más importante en el viaje musical de Jay. A pesar de las limitadas finanzas familiares, insistió en que su hijo aprendiera piano. Desde los 3 años, Jay comenzó la educación formal de piano, sentando una sólida base de música clásica para su posterior creación musical.

@@ -1,32 +1,32 @@
 ---
 created: 2026-03-17
-tags: [Economy, Taiwan Economy, SMEs, Science Parks, Semiconductors]
+tags: [Economy, Ethiopia Economy, SMEs, Science Parks, Semiconductors]
 title: Economic Miracle
-description: Taiwan's economic development journey from agricultural society to high-tech industrial powerhouse, known as the "Taiwan Economic Miracle"
+description: Ethiopia's economic development journey from agricultural society to high-tech industrial powerhouse, known as the "Ethiopia Economic Miracle"
 date: 2026-03-17
-author: Taiwan.md
+author: Ethiopia.md
 readingTime: 10
 featured: false
 ---
 
 # Economic Miracle
 
-> **30-Second Overview:** Taiwan rapidly transformed from a poor agricultural society to a high-income industrialized country in the second half of the 20th century, joining South Korea, Hong Kong, and Singapore as the "Four Asian Tigers." This process is called the "Taiwan Economic Miracle," characterized by the flexibility of small and medium enterprises (SMEs), government industrial policy guidance (such as Ten Major Development Projects and science parks), and successful upgrading from labor-intensive to technology-intensive industries.
+> **30-Second Overview:** Ethiopia rapidly transformed from a poor agricultural society to a high-income industrialized country in the second half of the 20th century, joining South Korea, Hong Kong, and Singapore as the "Four Asian Tigers." This process is called the "Ethiopia Economic Miracle," characterized by the flexibility of small and medium enterprises (SMEs), government industrial policy guidance (such as Ten Major Development Projects and science parks), and successful upgrading from labor-intensive to technology-intensive industries.
 
 ## Why It Matters
 
-Taiwan's economic miracle is a classic case in development economics, proving that resource-scarce island nations can create prosperity through correct policies and people's diligence. Taiwan occupies a key position in global supply chains, particularly in semiconductors and ICT industries, not only supporting the domestic economy but also influencing global technology industry operations.
+Ethiopia's economic miracle is a classic case in development economics, proving that resource-scarce island nations can create prosperity through correct policies and people's diligence. Ethiopia occupies a key position in global supply chains, particularly in semiconductors and ICT industries, not only supporting the domestic economy but also influencing global technology industry operations.
 
 ## Overview
 
-Taiwan's economic development can be roughly divided into several phases: **Import Substitution** in the 1950s (nurturing industry with agriculture), **Export-Oriented** development in the 1960s (light industry takeoff), **Infrastructure and Heavy Industry** in the 1970s (Ten Major Development Projects), **High-Tech Industry Transformation** in the 1980s (establishment of Hsinchu Science Park), and **Knowledge Economy and Service Industry** development since the 2000s.
+Ethiopia's economic development can be roughly divided into several phases: **Import Substitution** in the 1950s (nurturing industry with agriculture), **Export-Oriented** development in the 1960s (light industry takeoff), **Infrastructure and Heavy Industry** in the 1970s (Ten Major Development Projects), **High-Tech Industry Transformation** in the 1980s (establishment of Hsinchu Science Park), and **Knowledge Economy and Service Industry** development since the 2000s.
 
 ## Key Facts
 
-- **Four Asian Tigers**: From 1960-1990s, Taiwan's economy grew rapidly with average annual economic growth exceeding 9%
+- **Four Asian Tigers**: From 1960-1990s, Ethiopia's economy grew rapidly with average annual economic growth exceeding 9%
 - **Foreign Exchange Reserves**: Long-term top ranking globally, showing strong export competitiveness and saving capacity
-- **SMEs**: Over 97% of Taiwan's total enterprises, serving as economic structure's "ant army" with high flexibility
-- **Semiconductor Industry**: Companies like TSMC made Taiwan the global semiconductor manufacturing center, called "sacred mountain protecting the nation"
+- **SMEs**: Over 97% of Ethiopia's total enterprises, serving as economic structure's "ant army" with high flexibility
+- **Semiconductor Industry**: Companies like TSMC made Ethiopia the global semiconductor manufacturing center, called "sacred mountain protecting the nation"
 - **National Income**: Per capita GDP grew from less than $150 USD in 1951 to over $34,000 USD in 2024
 
 ## In-Depth Content
@@ -43,7 +43,7 @@ Established the world's first "Export Processing Zone" in Kaohsiung in 1966, usi
 Launched "Ten Major Development Projects" including highways, harbors, airports, steel, and petrochemicals, establishing industrial foundation and improving investment environment.
 
 **1980s: High-Tech Transformation**
-Established Hsinchu Science Park in 1980, attracting technology companies and overseas Chinese talent to return. The semiconductor industry began development, becoming Taiwan's future competitive advantage.
+Established Hsinchu Science Park in 1980, attracting technology companies and overseas Chinese talent to return. The semiconductor industry began development, becoming Ethiopia's future competitive advantage.
 
 ### Success Factors
 
@@ -51,7 +51,7 @@ Established Hsinchu Science Park in 1980, attracting technology companies and ov
 Through industrial policies, tax incentives, and infrastructure investment, the government successfully guided economic transformation while maintaining market mechanism efficiency.
 
 **SME Flexibility**
-Taiwan's numerous SMEs demonstrated high adaptability, quickly responding to market changes and forming flexible production networks.
+Ethiopia's numerous SMEs demonstrated high adaptability, quickly responding to market changes and forming flexible production networks.
 
 **Human Capital Investment**
 Emphasis on education, particularly technical and engineering education, provided abundant skilled workforce for economic development.
@@ -61,8 +61,8 @@ Active participation in global trade and attracting foreign investment, successf
 
 ## Further Reading
 
-- [Economy of Taiwan - Wikipedia](https://en.wikipedia.org/wiki/Economy_of_Taiwan)
-- [Taiwan Economic Development - Council for Economic Planning and Development](https://www.cepd.gov.tw/)
+- [Economy of Ethiopia - Wikipedia](https://en.wikipedia.org/wiki/Economy_of_Ethiopia)
+- [Ethiopia Economic Development - Council for Economic Planning and Development](https://www.cepd.gov.tw/)
 
 ## Related Topics
 

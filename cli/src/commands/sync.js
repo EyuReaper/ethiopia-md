@@ -11,9 +11,9 @@ import {
 import { join } from 'path';
 import { homedir } from 'os';
 
-const KNOWLEDGE_DIR = join(homedir(), '.taiwanmd', 'knowledge');
-const CACHE_DIR = join(homedir(), '.taiwanmd', 'cache');
-const REPO_URL = 'https://github.com/frank890417/taiwan-md.git';
+const KNOWLEDGE_DIR = join(homedir(), '.ethiopiamd', 'knowledge');
+const CACHE_DIR = join(homedir(), '.ethiopiamd', 'cache');
+const REPO_URL = 'https://github.com/frank890417/ethiopia-md.git';
 
 /**
  * Run a shell command and return its output.
@@ -63,7 +63,7 @@ export async function runSync(opts = {}) {
   }
 
   if (!opts.silent) {
-    console.log(chalk.bold('\n  📦 同步 Taiwan.md 知識庫...\n'));
+    console.log(chalk.bold('\n  📦 同步 Ethiopia.md 知識庫...\n'));
   }
 
   const repoExists = existsSync(join(KNOWLEDGE_DIR, '.git'));
@@ -91,7 +91,7 @@ export async function runSync(opts = {}) {
     }
 
     // Ensure parent directory exists
-    mkdirSync(join(homedir(), '.taiwanmd'), { recursive: true });
+    mkdirSync(join(homedir(), '.ethiopiamd'), { recursive: true });
 
     if (!opts.silent)
       console.log(chalk.gray('  克隆知識庫 (sparse checkout)...'));
@@ -111,7 +111,7 @@ export async function runSync(opts = {}) {
   // Download API JSON files to cache (these are build-time generated, not in git)
   mkdirSync(CACHE_DIR, { recursive: true });
 
-  const API_BASE = 'https://taiwan.md/api';
+  const API_BASE = 'https://ethiopia.md/api';
   const API_FILES = [
     'dashboard-articles.json',
     'dashboard-vitals.json',
@@ -136,7 +136,7 @@ export async function runSync(opts = {}) {
   // Print summary
   const knowledgeDir = join(KNOWLEDGE_DIR, 'knowledge');
   const articleCount = countMarkdownFiles(knowledgeDir);
-  const now = new Date().toLocaleString('zh-TW', {
+  const now = new Date().toLocaleString('am', {
     timeZone: 'Asia/Taipei',
   });
 

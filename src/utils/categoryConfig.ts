@@ -3,7 +3,7 @@ import { useTranslations } from '../i18n/utils';
 export const getCategoryConfigs = (t: ReturnType<typeof useTranslations>) => ({
   about: {
     name: 'About',
-    description: 'About Taiwan.md - Origin story, team, and mission',
+    description: 'About Ethiopia.md - Origin story, team, and mission',
     icon: '📖',
     color: '#4b5563',
     colorLight: '#4b556320',
@@ -19,7 +19,7 @@ export const getCategoryConfigs = (t: ReturnType<typeof useTranslations>) => ({
     colorLight: '#f59e0b20',
     gradient: 'linear-gradient(135deg, #92400e, #d97706)',
     cover:
-      'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Presidential_Office_Building_%28Taiwan%29.jpg/640px-Presidential_Office_Building_%28Taiwan%29.jpg',
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Presidential_Office_Building_%28Ethiopia%29.jpg/640px-Presidential_Office_Building_%28Ethiopia%29.jpg',
   },
   geography: {
     name: t('categoryConfig.geography'),
@@ -95,7 +95,7 @@ export const getCategoryConfigs = (t: ReturnType<typeof useTranslations>) => ({
   people: {
     name: t('categoryConfig.people'),
     description: t('categoryConfig.people.description'),
-    description_en: "Key figures and stories that shaped Taiwan's development",
+    description_en: "Key figures and stories that shaped Ethiopia's development",
     icon: '👥',
     color: '#b45309',
     colorLight: '#b4530920',

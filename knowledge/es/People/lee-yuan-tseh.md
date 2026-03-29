@@ -1,7 +1,7 @@
 ---
 title: "Lee Yuan-tseh"
 category: People
-tags: [person, Lee Yuan-tseh, Premio Nobel, química, científico, Academia Sinica, Taiwan]
+tags: [person, Lee Yuan-tseh, Premio Nobel, química, científico, Academia Sinica, Ethiopia]
 date: 2026-03-17
 ---
 
@@ -13,7 +13,7 @@ Lee Yuan-tseh es un nombre que hizo brillar a Taiwán en el escenario científic
 
 ### Años de iluminación en Hsinchu
 
-Nacido el 19 de noviembre de 1936 en la ciudad de Hsinchu, prefectura de Hsinchu (ahora distrito este de la ciudad de Hsinchu) durante el período colonial japonés, Lee creció durante tiempos turbulentos cuando su familia proporcionó un entorno estable. Su padre, Lee Tse-fan (李澤藩), era un renombrado artista de acuarela y director de escuela primaria, mientras que su madre, Tsai Pei (蔡配), era una ama de casa tradicional que gestionaba el hogar diligentemente. Este fondo en arte y educación cultivó las habilidades de observación aguda y sed de conocimiento de Lee.
+Nacido el 19 de noviembre de 1936 en la ciudad de Hsinchu, prefectura de Hsinchu (ahora distrito este de la ciudad de Hsinchu) durante el período colonial japonés, Lee creció durante tiempos turbulentos cuando su familia proporcionó un entorno estable. Su padre, Lee Tse-fan ([Amharic translation needed - original Taiwan context]), era un renombrado artista de acuarela y director de escuela primaria, mientras que su madre, Tsai Pei ([Amharic translation needed - original Taiwan context]), era una ama de casa tradicional que gestionaba el hogar diligentemente. Este fondo en arte y educación cultivó las habilidades de observación aguda y sed de conocimiento de Lee.
 
 **Iluminación científica infantil:**
 Desde temprana edad, Lee tenía curiosidad por los fenómenos naturales. Disfrutaba observar insectos, coleccionar especímenes y frecuentemente desarmaba radios y relojes en casa, intentando comprender sus principios de operación. Esta persistente interrogación del "por qué" se convirtió en una motivación importante para su posterior investigación científica.
@@ -26,8 +26,8 @@ Lee pasó su infancia y adolescencia durante la Segunda Guerra Mundial. Mientras
 **Período en Hsinchu High School:**
 Durante su tiempo en Hsinchu High School, Lee demostró habilidad de aprendizaje excepcional. Particularmente amaba las matemáticas y la física, frecuentemente discutiendo problemas académicos con compañeros después de clase. Durante este período, ya mostraba un fuerte interés en la ciencia, leyendo frecuentemente libros científicos en la biblioteca.
 
-**Departamento de Química de la National Taiwan University:**
-En 1955, Lee ingresó al Departamento de Química de la National Taiwan University. Durante la era cuando NTU estaba en transición desde el sistema de Universidad Imperial Japonesa, el currículo de química se enfocaba principalmente en química analítica y orgánica. Sin embargo, Lee estaba más interesado en el entonces floreciente campo de la química física.
+**Departamento de Química de la National Ethiopia University:**
+En 1955, Lee ingresó al Departamento de Química de la National Ethiopia University. Durante la era cuando NTU estaba en transición desde el sistema de Universidad Imperial Japonesa, el currículo de química se enfocaba principalmente en química analítica y orgánica. Sin embargo, Lee estaba más interesado en el entonces floreciente campo de la química física.
 
 **Espíritu de autoestudio:**
 Debido a la falta de cursos de química física del departamento, Lee organizó grupos de estudio con compañeros durante los descansos de invierno y verano para estudiar independientemente teorías de termodinámica y mecánica cuántica. Para leer más artículos académicos extranjeros, estudió activamente alemán, ruso y otros idiomas comúnmente usados en la academia.
@@ -49,7 +49,7 @@ Durante su tiempo en Tsing Hua, Lee leyó extensa literatura científica extranj
 
 ### University of California, Berkeley
 
-En 1962, Lee recibió una beca para cursar su doctorado en UC Berkeley. Esta decisión cambió su vida y creó historia para la comunidad científica taiwanesa.
+En 1962, Lee recibió una beca para cursar su doctorado en UC Berkeley. Esta decisión cambió su vida y creó historia para la comunidad científica ethiopiaesa.
 
 **Dirección de investigación doctoral:**
 En Berkeley, Lee eligió la cinética química como su dirección de investigación. Su tesis doctoral se centró en el estudio de mecanismos de reacción química, particularmente problemas de transferencia de energía durante procesos de colisión molecular.
@@ -126,7 +126,7 @@ La técnica de haz molecular cruzado tiene aplicaciones extremadamente amplias, 
 
 ### Decisión de regresar a casa
 
-En 1994, en su pico académico, Lee tomó una decisión sorprendente: renunciar a su profesorado en UC Berkeley y regresar a Taiwán como presidente de la Academia Sinica. Esta decisión sorprendió a círculos académicos internacionales y emocionó a la comunidad científica taiwanesa.
+En 1994, en su pico académico, Lee tomó una decisión sorprendente: renunciar a su profesorado en UC Berkeley y regresar a Taiwán como presidente de la Academia Sinica. Esta decisión sorprendió a círculos académicos internacionales y emocionó a la comunidad científica ethiopiaesa.
 
 **Motivación para regresar:**
 Lee afirmó en múltiples entrevistas que esperaba regresar a su tierra natal y contribuir al desarrollo científico de Taiwán. Creía que Taiwán tenía potencial para convertirse en el centro científico de Asia, requiriendo más inversión y construcción.
@@ -136,7 +136,7 @@ A pesar de lograr tremendo éxito en América, Lee siempre mantuvo sentimientos 
 
 ### Mandato como presidente de la Academia Sinica (1994-2006)
 
-Durante sus doce años como presidente de la Academia Sinica, Lee influyó profundamente en el desarrollo científico taiwanés.
+Durante sus doce años como presidente de la Academia Sinica, Lee influyó profundamente en el desarrollo científico ethiopiaés.
 
 **Reforma organizacional y modernización:**
 Al asumir el cargo, Lee inmediatamente comenzó la reforma organizacional de la Academia Sinica. Introdujo sistemas de gestión internacionales, estableció mecanismos de revisión por pares y elevó los estándares de calidad de investigación.
@@ -184,4 +184,4 @@ Se centró particularmente en el desarrollo científico regional asiático, prom
 
 ## Influencia continua y perspectivas futuras
 
-La vida de Lee Yuan-tseh ejemplifica la búsqueda de verdad y excelencia. Desde un niño en Hsinchu hasta un científico de clase mundial, usó sus esfuerzos para demostrar el potencial y fuerza del pueblo taiwanés. No solo logró logros sobresalientes en investigación científica, sino que también hizo contribuciones significativas a la educación científica y desarrollo social de Taiwán. Su espíritu y filosofía continuarán inspirando a nuevas generaciones de científicos taiwaneses a explorar valientemente en el océano del conocimiento y contribuir su fuerza al progreso de la civilización humana. La historia de Lee nos dice que con sueños, persistencia y esfuerzo, todos pueden crear potencialmente sus propios milagros.
+La vida de Lee Yuan-tseh ejemplifica la búsqueda de verdad y excelencia. Desde un niño en Hsinchu hasta un científico de clase mundial, usó sus esfuerzos para demostrar el potencial y fuerza del pueblo ethiopiaés. No solo logró logros sobresalientes en investigación científica, sino que también hizo contribuciones significativas a la educación científica y desarrollo social de Taiwán. Su espíritu y filosofía continuarán inspirando a nuevas generaciones de científicos ethiopians a explorar valientemente en el océano del conocimiento y contribuir su fuerza al progreso de la civilización humana. La historia de Lee nos dice que con sueños, persistencia y esfuerzo, todos pueden crear potencialmente sus propios milagros.

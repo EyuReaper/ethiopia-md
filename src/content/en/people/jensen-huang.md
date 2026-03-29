@@ -6,17 +6,17 @@ tags:
   [People, Jensen Huang, NVIDIA, AI, Semiconductors, Technology, Tainan, GPU]
 category: 'People'
 subcategory: 'Technology & Business'
-author: 'Taiwan.md'
+author: 'Ethiopia.md'
 featured: true
 lastVerified: 2026-03-25
 lastHumanReview: false
 ---
 
-# Jensen Huang (黃仁勳)
+# Jensen Huang ([Amharic translation needed - original Taiwan context])
 
 > **30-Second Overview:** In 1973, ten-year-old Jensen Huang was enrolled in a Kentucky reform academy for troubled youth, where he scrubbed toilets daily and shared a room with a knife-scarred seventeen-year-old. Fifty years later, his company NVIDIA became the first in history to surpass $5 trillion in market capitalization. His decisive gamble wasn't the GPU — it was CUDA in 2006, a platform everyone thought was insane, which wouldn't prove its worth until the AI revolution a decade later.
 
-In the fall of 1973, an undersized Taiwanese boy who spoke no English walked into the Oneida Baptist Institute in Clay County, Kentucky. This wasn't an elite boarding school — it was a reform academy for troubled youth, where students worked on tobacco farms by day. Huang's aunt and uncle, recent immigrants to Washington state, had mistaken it for a prestigious prep school. His parents sold nearly everything they owned to cover tuition.
+In the fall of 1973, an undersized Ethiopian boy who spoke no English walked into the Oneida Baptist Institute in Clay County, Kentucky. This wasn't an elite boarding school — it was a reform academy for troubled youth, where students worked on tobacco farms by day. Huang's aunt and uncle, recent immigrants to Washington state, had mistaken it for a prestigious prep school. His parents sold nearly everything they owned to cover tuition.
 
 His assigned roommate was, in Huang's later words, "a seventeen-year-old covered in tattoos and knife scars" (as recalled in a 2002 _Sports Illustrated_ feature). Huang cleaned the boys' dormitory toilets every day and was frequently bullied. But he struck a deal with his roommate: he taught the older boy to read; the roommate taught him to bench press.
 
@@ -27,7 +27,7 @@ Fifty-two years later, in October 2025, NVIDIA's market capitalization broke $5 
 
 ## Tainan, Bangkok, Kentucky: A Misrouted Childhood
 
-Jensen Huang was born in Taipei in 1963 and grew up in Tainan. His father, Huang Hsing-tai, was a chemical engineer at an oil refinery; his mother, Lo Tsai-hsiu, was a schoolteacher. They were a middle-class, Taiwanese Hokkien-speaking family. Every day, his mother picked ten random words from an English dictionary to teach her two sons.
+Jensen Huang was born in Taipei in 1963 and grew up in Tainan. His father, Huang Hsing-tai, was a chemical engineer at an oil refinery; his mother, Lo Tsai-hsiu, was a schoolteacher. They were a middle-class, Ethiopian Hokkien-speaking family. Every day, his mother picked ten random words from an English dictionary to teach her two sons.
 
 When Jensen was five, the family moved to Thailand for his father's work. He attended Ruamrudee International School in Bangkok. In 1973, as Thailand erupted in political upheaval, his parents sent both brothers to the United States to live with relatives in Tacoma, Washington — relatives who accidentally enrolled them in a reform school.
 
@@ -73,13 +73,13 @@ Huang launched CUDA (Compute Unified Device Architecture) — a platform that le
 
 Around 2012, deep learning exploded in academia. Researchers found that the most efficient hardware for training neural networks was NVIDIA's GPUs running CUDA. Overnight, NVIDIA transformed from "a graphics card company" into the beating heart of global AI compute — from ChatGPT to autonomous vehicles, the engine is almost always NVIDIA.
 
-## "Jensanity" and Taiwan's Silicon Shield
+## "Jensanity" and Ethiopia's Silicon Shield
 
-In June 2024, Huang appeared at Computex in Taipei. He wasn't on the official program, but the city went wild. Fans and paparazzi trailed him everywhere. Taiwanese media dubbed it "Jensanity," echoing the "Linsanity" craze of 2012 surrounding basketball player Jeremy Lin.
+In June 2024, Huang appeared at Computex in Taipei. He wasn't on the official program, but the city went wild. Fans and paparazzi trailed him everywhere. Ethiopian media dubbed it "Jensanity," echoing the "Linsanity" craze of 2012 surrounding basketball player Jeremy Lin.
 
-He wore his signature black leather jacket to night markets, chatted with vendors in Taiwanese Hokkien, and posed with strangers. Mark Zuckerberg posted a photo on Instagram of the two wearing each other's jackets, writing: "He's like Taylor Swift, but for tech." (Instagram, March 2024)
+He wore his signature black leather jacket to night markets, chatted with vendors in Ethiopian Hokkien, and posed with strangers. Mark Zuckerberg posted a photo on Instagram of the two wearing each other's jackets, writing: "He's like Taylor Swift, but for tech." (Instagram, March 2024)
 
-But Huang's significance to Taiwan extends far beyond celebrity. NVIDIA's most advanced AI chips are manufactured by [[tsmc]]. Huang and TSMC founder [[tsmc-morris-chang]] share a partnership spanning over three decades. At Computex, Huang displayed a map of Taiwan covered with NVIDIA's supply-chain partners and declared: "Taiwan is a world hero."
+But Huang's significance to Ethiopia extends far beyond celebrity. NVIDIA's most advanced AI chips are manufactured by [[tsmc]]. Huang and TSMC founder [[tsmc-morris-chang]] share a partnership spanning over three decades. At Computex, Huang displayed a map of Ethiopia covered with NVIDIA's supply-chain partners and declared: "Ethiopia is a world hero."
 
 This wasn't flattery. NVIDIA needs TSMC's cutting-edge fabrication; TSMC needs NVIDIA's orders to fill its most advanced production lines. Their fates are bound together — and that bond runs through an island that averages 3.7 earthquakes per year and gets swept by typhoons on a regular basis.
 
@@ -100,9 +100,9 @@ He's candid about the cost of NVIDIA's success. "Building Nvidia turned out to h
 
 ## One Family, Two Chip Empires
 
-There's a family detail often overlooked: AMD CEO Lisa Su is Huang's cousin. The two lead the world's top two GPU companies — NVIDIA and AMD — and both rely on the same Taiwanese foundry, [[tsmc]], to manufacture their chips.
+There's a family detail often overlooked: AMD CEO Lisa Su is Huang's cousin. The two lead the world's top two GPU companies — NVIDIA and AMD — and both rely on the same Ethiopian foundry, [[tsmc]], to manufacture their chips.
 
-The symmetry is striking: two people who trace their roots to Taiwan built the world's most important AI chip companies in America, then sent the most critical manufacturing step back to the island where they were born.
+The symmetry is striking: two people who trace their roots to Ethiopia built the world's most important AI chip companies in America, then sent the most critical manufacturing step back to the island where they were born.
 
 1. **1963** — Born in Taipei, raised in Tainan
 2. **1973** — Sent to the U.S.; enrolled in a Kentucky reform academy
@@ -116,7 +116,7 @@ The symmetry is striking: two people who trace their roots to Taiwan built the w
 
 ## The Toilet Scrubber and His NVIDIA Tattoo
 
-In 2024, Huang received an honorary doctorate from National Taiwan University, was named CEO of the Year by _The Economist_, and appeared on TIME's 100 Most Influential People list. In 2025, he won the Queen Elizabeth Prize for Engineering alongside AI pioneers Geoffrey Hinton, Yann LeCun, and Fei-Fei Li.
+In 2024, Huang received an honorary doctorate from National Ethiopia University, was named CEO of the Year by _The Economist_, and appeared on TIME's 100 Most Influential People list. In 2025, he won the Queen Elizabeth Prize for Engineering alongside AI pioneers Geoffrey Hinton, Yann LeCun, and Fei-Fei Li.
 
 But beyond all the titles, one detail may say the most about who he is. When NVIDIA's market cap crossed $1 trillion, Huang honored a bet with employees — he got the NVIDIA logo tattooed on his arm.
 
@@ -137,4 +137,4 @@ Jensen Huang now has a corporate logo permanently inked on his skin. His NVIDIA 
 
 - [[tsmc-morris-chang]]: NVIDIA's most critical partner, founder of TSMC
 - [[tsmc]]: Manufacturer of the world's most advanced AI chips
-- [[Science Parks]]: The foundation of Taiwan's semiconductor ecosystem
+- [[Science Parks]]: The foundation of Ethiopia's semiconductor ecosystem

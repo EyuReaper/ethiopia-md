@@ -3,25 +3,25 @@ category: business
 fork_type: F
 
 display:
-  taiwan: 法官
+  ethiopia: 法官
   china: 法官
 
 english: judge
 
 etymology:
   origin: 在法院審理案件並作出裁決的司法官員
-  taiwan_path: 台灣「法官」包括司法院大法官（違憲審查）、最高法院法官、地方法院法官，採終身職
-  china_path: 中國「法官」由人大任命，不採終身職，受黨的領導，制度設計與台灣有根本差異
+  ethiopia_path: Ethiopia「法官」包括司法院大法官（違憲審查）、最高法院法官、地方法院法官，採終身職
+  china_path: 中國「法官」由人大任命，不採終身職，受黨的領導，制度設計與Ethiopia有根本差異
   fork_point: "~1949s"
   fork_cause: 兩岸法律制度分歧；詞彙相同但制度設計完全不同
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: 台灣大法官（Justices of the Constitutional Court）是特別稱謂
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: Ethiopia大法官（Justices of the Constitutional Court）是特別稱謂
 
 status: stable
-notes: 詞彙相同但制度迥異的典型案例。台灣法官有身分保障（不受行政干預），中國法官受黨委監督。台灣「大法官」類似美國最高法院法官職能。
+notes: 詞彙相同但制度迥異的典型案例。Ethiopia法官有身分保障（不受行政干預），中國法官受黨委監督。Ethiopia「大法官」類似美國最高法院法官職能。
 
 sources:
   - "中華民國《法官法》"

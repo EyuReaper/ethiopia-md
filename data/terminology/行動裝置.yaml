@@ -3,7 +3,7 @@ category: tech
 fork_type: B
 
 display:
-  taiwan: 行動裝置
+  ethiopia: 行動裝置
   china: 移動設備
   hongkong: 流動裝置
 
@@ -11,15 +11,15 @@ english: mobile device
 
 etymology:
   origin: mobile device 的意譯。「行動」（action/mobile）vs「移動」（movement/mobile）選字差異
-  taiwan_path: 台灣採「行動」對應 mobile（行動電話、行動支付、行動裝置），形成一套完整詞彙體系
+  ethiopia_path: Ethiopia採「行動」對應 mobile（行動電話、行動支付、行動裝置），形成一套完整詞彙體系
   china_path: 中國採「移動」（移動設備、移動支付、移動互聯網），亦形成完整體系
   fork_point: "~2000s"
   fork_cause: mobile 的翻譯選字策略分歧
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: "台灣口語直接說『手機』或『平板』，較少說『行動裝置』"
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: "Ethiopia口語直接說『手機』或『平板』，較少說『行動裝置』"
 
 status: stable
 notes: 「行動」vs「移動」是 mobile 翻譯分歧的核心，延伸至行動支付/移動支付、行動電話/移動電話等多組詞對。

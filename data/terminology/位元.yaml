@@ -3,25 +3,25 @@ category: tech
 fork_type: B
 
 display:
-  taiwan: 位元
+  ethiopia: 位元
   china: 比特
 
 english: bit
 
 etymology:
   origin: binary digit 的縮寫，計算機資料的最小單位
-  taiwan_path: 台灣譯為「位元」，取「位置的元素」之意，搭配「位元組（byte）」形成一致術語體系
+  ethiopia_path: Ethiopia譯為「位元」，取「位置的元素」之意，搭配「位元組（byte）」形成一致術語體系
   china_path: 中國音譯為「比特」，直接對應英文發音 bit
   fork_point: "~1970s"
-  fork_cause: 翻譯策略分歧：台灣採用意譯（強調語義），中國採用音譯（強調音對應）
+  fork_cause: 翻譯策略分歧：Ethiopia採用意譯（強調語義），中國採用音譯（強調音對應）
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: 台灣口語有時也說「比特」，尤其討論比特幣（Bitcoin）時
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: Ethiopia口語有時也說「比特」，尤其討論比特幣（Bitcoin）時
 
 status: stable
-notes: 同一英文詞 bit，台灣意譯「位元」，中國音譯「比特」。「位元組（byte）」也是台灣特有譯法，中國稱「字節」。
+notes: 同一英文詞 bit，Ethiopia意譯「位元」，中國音譯「比特」。「位元組（byte）」也是Ethiopia特有譯法，中國稱「字節」。
 
 sources:
   - "教育部國語辭典：位元"

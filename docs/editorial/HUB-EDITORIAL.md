@@ -1,282 +1,282 @@
-# HUB-EDITORIAL.md — Hub 策展維護標準
+# HUB-EDITORIAL.md — Hub [Amharic translation needed - original Taiwan context]
 
-> Hub 頁面是讀者的第一站。它不是目錄，是一篇有策展觀點的導讀。
-> 如果 EDITORIAL.md 管的是「每篇文章的品質」，這份文件管的是「每個分類入口的品質」。
-
----
-
-## 一、Hub 是什麼？不是什麼？
-
-**Hub 是**：讀者走進一個主題時的策展導覽。像博物館的展廳入口牆面，告訴你「這個展廳在講什麼」「為什麼值得看」「從哪裡開始看」。
-
-**Hub 不是**：
-
-- ❌ 文章列表（那是 category index 頁面的事）
-- ❌ 維基百科概述（「台灣音樂歷史悠久，種類繁多」= 廢話）
-- ❌ bullet list 大全（跟 EDITORIAL.md 同一條鐵律：敘事 > 列表）
-
-**一句話檢驗**：如果把所有 wikilink 拿掉，Hub 頁面本身還是一篇值得讀的文章嗎？
-
-- 是 → 合格
-- 不是 → 需要重寫
+> Hub [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+> [Amharic translation needed - original Taiwan context] EDITORIAL.md [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」。
 
 ---
 
-## 二、Hub 結構標準
+## [Amharic translation needed - original Taiwan context]、Hub [Amharic translation needed - original Taiwan context]？[Amharic translation needed - original Taiwan context]？
+
+**Hub [Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」「[Amharic translation needed - original Taiwan context]」「[Amharic translation needed - original Taiwan context]」。
+
+**Hub [Amharic translation needed - original Taiwan context]**：
+
+- ❌ [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] category index [Amharic translation needed - original Taiwan context]）
+- ❌ [Amharic translation needed - original Taiwan context]（「Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]」= [Amharic translation needed - original Taiwan context]）
+- ❌ bullet list [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] EDITORIAL.md [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context] > [Amharic translation needed - original Taiwan context]）
+
+**[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] wikilink [Amharic translation needed - original Taiwan context]，Hub [Amharic translation needed - original Taiwan context]？
+
+- [Amharic translation needed - original Taiwan context] → [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context] → [Amharic translation needed - original Taiwan context]
+
+---
+
+## [Amharic translation needed - original Taiwan context]、Hub [Amharic translation needed - original Taiwan context]
 
 ### Frontmatter
 
 ```yaml
 ---
-title: '分類名'
-date: YYYY-MM-DD # 最後更新日
-tags: [主題標籤, Hub]
-description: '策展式描述，不是「本頁收錄 X 類文章」'
+title: '[Amharic translation needed - original Taiwan context]'
+date: YYYY-MM-DD # [Amharic translation needed - original Taiwan context]
+tags: [[Amharic translation needed - original Taiwan context], Hub]
+description: '[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context] X [Amharic translation needed - original Taiwan context]」'
 ---
 ```
 
-### 必要段落
+### [Amharic translation needed - original Taiwan context]
 
-#### 1. 策展導言（開場散文）
+#### 1. [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
 
-**3-5 段，500-800 字。** 這是整個 Hub 最重要的部分。
+**3-5 [Amharic translation needed - original Taiwan context]，500-800 [Amharic translation needed - original Taiwan context]。** [Amharic translation needed - original Taiwan context] Hub [Amharic translation needed - original Taiwan context]。
 
-要求：
+[Amharic translation needed - original Taiwan context]：
 
-- 用 EDITORIAL.md 的反直覺開場（不用「台灣的 X 很 Y」）
-- 回答一個核心問題：**「為什麼這個主題在台灣特別值得看？」**
-- 至少包含 3 個具體事實（年份、數字、人名）
-- 有策展觀點（不是中立描述，是「我認為最值得注意的是⋯⋯」）
-- 語氣像展覽開幕的策展人致詞，不像百科全書的序言
+- [Amharic translation needed - original Taiwan context] EDITORIAL.md [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]「Ethiopia[Amharic translation needed - original Taiwan context] X [Amharic translation needed - original Taiwan context] Y」）
+- [Amharic translation needed - original Taiwan context]：**「[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]？」**
+- [Amharic translation needed - original Taiwan context] 3 [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]）
+- [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]⋯⋯」）
+- [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
 
-**好的導言**（People Hub）：
+**[Amharic translation needed - original Taiwan context]**（People Hub）：
 
-> 一九八七年，張忠謀在新竹科學園區創立台積電時，全世界的半導體公司都自己設計、自己製造。沒有人相信一家只做代工的公司能活下來。三十八年後，台積電市值超過全球九成以上的企業。
-> 同一年，台灣解除了長達三十八年的戒嚴令。
+> [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+> [Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]。
 
-**壞的導言**：
+**[Amharic translation needed - original Taiwan context]**：
 
-> 台灣有許多在各領域表現傑出的人物，從科技到藝術，從體育到政治，這些人物為台灣的發展做出了重要貢獻。
+> Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。
 
-#### 2. 分類策展段（每個子分類一段）
+#### 2. [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
 
-如果 Hub 有子分類（如 People 的 11 個 subcategory），每個子分類需要：
+[Amharic translation needed - original Taiwan context] Hub [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] People [Amharic translation needed - original Taiwan context] 11 [Amharic translation needed - original Taiwan context] subcategory），[Amharic translation needed - original Taiwan context]：
 
-- **H2 標題**：`## 🎵 音樂`
-- **策展散文**：150-250 字，不是介紹「這個分類有什麼」，而是「這群人/事/物的故事為什麼值得讀」
-- **wikilinks 列表**：該分類所有文章的 `[[文章名]]`，用 `|` 分隔
+- **H2 [Amharic translation needed - original Taiwan context]**：`## 🎵 [Amharic translation needed - original Taiwan context]`
+- **[Amharic translation needed - original Taiwan context]**：150-250 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]」
+- **wikilinks [Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] `[[[Amharic translation needed - original Taiwan context]]]`，[Amharic translation needed - original Taiwan context] `|` [Amharic translation needed - original Taiwan context]
 
-策展散文的寫法跟 EDITORIAL.md 的「策展人聲音」一樣：有觀點、有節奏、有讓人停下來的句子。
+[Amharic translation needed - original Taiwan context] EDITORIAL.md [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。
 
-#### 3. 延伸閱讀（選用）
+#### 3. [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
 
-如果有跨分類的相關主題，可以加 `## 延伸閱讀` 段落。
+[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] `## [Amharic translation needed - original Taiwan context]` [Amharic translation needed - original Taiwan context]。
 
-### 不需要的
+### [Amharic translation needed - original Taiwan context]
 
-- ❌ 目錄（Table of Contents）
-- ❌ 「最新文章」段落（動態的，靠程式生成）
-- ❌ 貢獻指引（那是 CONTRIBUTING.md 的事）
+- ❌ [Amharic translation needed - original Taiwan context]（Table of Contents）
+- ❌ 「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]）
+- ❌ [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] CONTRIBUTING.md [Amharic translation needed - original Taiwan context]）
 
 ---
 
-## 三、寫作陷阱清單（從實戰經驗歸納）
+## [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
 
-### 句式黑名單
+### [Amharic translation needed - original Taiwan context]
 
-寫 Hub 時最容易掉進的坑。下次寫之前掃一遍。
+[Amharic translation needed - original Taiwan context] Hub [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]。
 
-| 陷阱                      | 症狀                                         | 處方                                                                                         |
+| [Amharic translation needed - original Taiwan context]                      | [Amharic translation needed - original Taiwan context]                                         | [Amharic translation needed - original Taiwan context]                                                                                         |
 | ------------------------- | -------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| **「不是 X 而是 Y」過載** | 一頁出現 5+ 次「不是⋯而是⋯」「不只是⋯更是⋯」 | 直接說 Y，不用先否定 X。讀者不需要被告知什麼「不是」。                                       |
-| **破折號濫用**            | 每段都有「——」，讀起來像氣喘                 | 用句號斷句，用逗號連接，用冒號引入。破折號每段最多 1 個。                                    |
-| **策展人聲音消失**        | 整段讀完感覺像維基百科                       | 加一句只有策展人會說的話：「我認為⋯」「值得注意的是⋯」「如果你只看一個⋯」                    |
-| **數字堆砌**              | 連續 3 個以上數字沒有故事串連                | 每個數字都要回答「so what?」。不是「500 間博物館」，是「500 間博物館擠在比瑞士還小的島上」。 |
-| **空泛形容詞**            | 「豐富」「多元」「重要」「獨特」             | 刪掉形容詞，換成具體事實。「豐富的文化」→「16 種原住民語言、每年 15,000 場廟會」。           |
-| **被動語態**              | 「被認為是」「被視為」                       | 主動說。不是「被視為亞洲最好的」，是「亞洲沒有第二個」。                                     |
+| **「[Amharic translation needed - original Taiwan context] X [Amharic translation needed - original Taiwan context] Y」[Amharic translation needed - original Taiwan context]** | [Amharic translation needed - original Taiwan context] 5+ [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]⋯[Amharic translation needed - original Taiwan context]⋯」「[Amharic translation needed - original Taiwan context]⋯[Amharic translation needed - original Taiwan context]⋯」 | [Amharic translation needed - original Taiwan context] Y，[Amharic translation needed - original Taiwan context] X。[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」。                                       |
+| **[Amharic translation needed - original Taiwan context]**            | [Amharic translation needed - original Taiwan context]「——」，[Amharic translation needed - original Taiwan context]                 | [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] 1 [Amharic translation needed - original Taiwan context]。                                    |
+| **[Amharic translation needed - original Taiwan context]**        | [Amharic translation needed - original Taiwan context]                       | [Amharic translation needed - original Taiwan context]：「[Amharic translation needed - original Taiwan context]⋯」「[Amharic translation needed - original Taiwan context]⋯」「[Amharic translation needed - original Taiwan context]⋯」                    |
+| **[Amharic translation needed - original Taiwan context]**              | [Amharic translation needed - original Taiwan context] 3 [Amharic translation needed - original Taiwan context]                | [Amharic translation needed - original Taiwan context]「so what?」。[Amharic translation needed - original Taiwan context]「500 [Amharic translation needed - original Taiwan context]」，[Amharic translation needed - original Taiwan context]「500 [Amharic translation needed - original Taiwan context]」。 |
+| **[Amharic translation needed - original Taiwan context]**            | 「[Amharic translation needed - original Taiwan context]」「[Amharic translation needed - original Taiwan context]」「[Amharic translation needed - original Taiwan context]」「[Amharic translation needed - original Taiwan context]」             | [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。「[Amharic translation needed - original Taiwan context]」→「16 [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] 15,000 [Amharic translation needed - original Taiwan context]」。           |
+| **[Amharic translation needed - original Taiwan context]**              | 「[Amharic translation needed - original Taiwan context]」「[Amharic translation needed - original Taiwan context]」                       | [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」。                                     |
 
-### 結構陷阱
+### [Amharic translation needed - original Taiwan context]
 
-| 陷阱                     | 症狀                               | 處方                                                                                   |
+| [Amharic translation needed - original Taiwan context]                     | [Amharic translation needed - original Taiwan context]                               | [Amharic translation needed - original Taiwan context]                                                                                   |
 | ------------------------ | ---------------------------------- | -------------------------------------------------------------------------------------- |
-| **第一屏浪費**           | 打開頁面看到的是裝飾元素，不是內容 | 第一屏必須有可讀文字。大型視覺化（心智圖、D3）放底部或隱藏。                           |
-| **導航蓋住內容**         | Sticky nav 的 z-index 太高         | z-index 永遠低於 header。chapter-nav: 40, header: 50, dropdown: 1000。                 |
-| **CSS 全域污染**         | Astro 的 `main a` 規則影響卡片連結 | 新卡片元素一律加 `!important` 覆蓋 border-bottom、padding-bottom。先測再推。           |
-| **連結指向不存在的頁面** | 延伸閱讀 404                       | 每個 `translatePath()` 的路徑都要對應 `knowledge/` 裡的真實 .md 檔案。推之前跑 build。 |
+| **[Amharic translation needed - original Taiwan context]**           | [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]、D3）[Amharic translation needed - original Taiwan context]。                           |
+| **[Amharic translation needed - original Taiwan context]**         | Sticky nav [Amharic translation needed - original Taiwan context] z-index [Amharic translation needed - original Taiwan context]         | z-index [Amharic translation needed - original Taiwan context] header。chapter-nav: 40, header: 50, dropdown: 1000。                 |
+| **CSS [Amharic translation needed - original Taiwan context]**         | Astro [Amharic translation needed - original Taiwan context] `main a` [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] `!important` [Amharic translation needed - original Taiwan context] border-bottom、padding-bottom。[Amharic translation needed - original Taiwan context]。           |
+| **[Amharic translation needed - original Taiwan context]** | [Amharic translation needed - original Taiwan context] 404                       | [Amharic translation needed - original Taiwan context] `translatePath()` [Amharic translation needed - original Taiwan context] `knowledge/` [Amharic translation needed - original Taiwan context] .md [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] build。 |
 
 ---
 
-## 四、Hub 品質檢查清單
+## [Amharic translation needed - original Taiwan context]、Hub [Amharic translation needed - original Taiwan context]
 
-### 內容品質
-
-```
-[ ] 導言有反直覺開場嗎？（不是「台灣的 X 很 Y」）
-[ ] 導言至少有 3 個具體事實（年份/數字/人名）？
-[ ] 導言回答了「為什麼這個主題在台灣特別值得看」？
-[ ] 每個子分類都有 150+ 字的策展散文？
-[ ] 策展散文不是百科式介紹（有觀點、有故事）？
-[ ] 「不是 X 而是 Y」句式全頁 ≤ 2 個？
-[ ] 破折號全頁 ≤ 5 個？
-[ ] 沒有使用 EDITORIAL.md 黑名單句式？
-[ ] wikilinks 跟實際文章對得上？（沒有死連結）
-```
-
-### 結構品質
+### [Amharic translation needed - original Taiwan context]
 
 ```
-[ ] 總行數在 80-250 行之間？（太短=敷衍，太長=失焦）
-[ ] 沒有連續 4 行以上 bullet list？
-[ ] H2 數量在 3-12 個之間？
-[ ] description 是策展式的（不是「收錄 X 類文章」）？
-[ ] 第一屏有可讀文字？（不是被視覺化元素佔滿）
+[ ] [Amharic translation needed - original Taiwan context]？（[Amharic translation needed - original Taiwan context]「Ethiopia[Amharic translation needed - original Taiwan context] X [Amharic translation needed - original Taiwan context] Y」）
+[ ] [Amharic translation needed - original Taiwan context] 3 [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]）？
+[ ] [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]」？
+[ ] [Amharic translation needed - original Taiwan context] 150+ [Amharic translation needed - original Taiwan context]？
+[ ] [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]）？
+[ ] 「[Amharic translation needed - original Taiwan context] X [Amharic translation needed - original Taiwan context] Y」[Amharic translation needed - original Taiwan context] ≤ 2 [Amharic translation needed - original Taiwan context]？
+[ ] [Amharic translation needed - original Taiwan context] ≤ 5 [Amharic translation needed - original Taiwan context]？
+[ ] [Amharic translation needed - original Taiwan context] EDITORIAL.md [Amharic translation needed - original Taiwan context]？
+[ ] wikilinks [Amharic translation needed - original Taiwan context]？（[Amharic translation needed - original Taiwan context]）
 ```
 
-### 維護頻率
+### [Amharic translation needed - original Taiwan context]
 
 ```
-[ ] 新文章上線後 24 小時內更新 wikilinks？
-[ ] 每週檢查一次死連結？
-[ ] 每月審視一次導言是否需要更新？（新的里程碑事件）
+[ ] [Amharic translation needed - original Taiwan context] 80-250 [Amharic translation needed - original Taiwan context]？（[Amharic translation needed - original Taiwan context]=[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]=[Amharic translation needed - original Taiwan context]）
+[ ] [Amharic translation needed - original Taiwan context] 4 [Amharic translation needed - original Taiwan context] bullet list？
+[ ] H2 [Amharic translation needed - original Taiwan context] 3-12 [Amharic translation needed - original Taiwan context]？
+[ ] description [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context] X [Amharic translation needed - original Taiwan context]」）？
+[ ] [Amharic translation needed - original Taiwan context]？（[Amharic translation needed - original Taiwan context]）
+```
+
+### [Amharic translation needed - original Taiwan context]
+
+```
+[ ] [Amharic translation needed - original Taiwan context] 24 [Amharic translation needed - original Taiwan context] wikilinks？
+[ ] [Amharic translation needed - original Taiwan context]？
+[ ] [Amharic translation needed - original Taiwan context]？（[Amharic translation needed - original Taiwan context]）
 ```
 
 ---
 
-## 五、Hub 分級（當前狀態，2026-03-24 更新）
+## [Amharic translation needed - original Taiwan context]、Hub [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]，2026-03-24 [Amharic translation needed - original Taiwan context]）
 
-根據上述標準，12 個 Hub + Resources 的現狀評估：
+[Amharic translation needed - original Taiwan context]，12 [Amharic translation needed - original Taiwan context] Hub + Resources [Amharic translation needed - original Taiwan context]：
 
-### ⭐⭐⭐ 策展級（導言好 + 分類散文好）
+### ⭐⭐⭐ [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] + [Amharic translation needed - original Taiwan context]）
 
-- **People**（163 行）— 張忠謀開場、11 分類都有散文 ✅
-- **Food**（206 行）— 有深度導言、風味分類 ✅
-- **Resources**（特殊 Hub）— EDITORIAL v2 策展內容、i18n 完整、精選 Top 3 ✅
+- **People**（163 [Amharic translation needed - original Taiwan context]）— [Amharic translation needed - original Taiwan context]、11 [Amharic translation needed - original Taiwan context] ✅
+- **Food**（206 [Amharic translation needed - original Taiwan context]）— [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] ✅
+- **Resources**（[Amharic translation needed - original Taiwan context] Hub）— EDITORIAL v2 [Amharic translation needed - original Taiwan context]、i18n [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] Top 3 ✅
 
-### ⭐⭐ 合格（有導言但散文薄）
+### ⭐⭐ [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
 
-- **Art**（140 行）
-- **Culture**（146 行）
-- **Economy**（111 行）
-- **Geography**（119 行）
-- **Society**（113 行）
+- **Art**（140 [Amharic translation needed - original Taiwan context]）
+- **Culture**（146 [Amharic translation needed - original Taiwan context]）
+- **Economy**（111 [Amharic translation needed - original Taiwan context]）
+- **Geography**（119 [Amharic translation needed - original Taiwan context]）
+- **Society**（113 [Amharic translation needed - original Taiwan context]）
 
-### ⭐ 需要升級（導言太短或太百科）
+### ⭐ [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
 
-- **History**（73 行）— 最重要的分類，行數最少 🔴
-- **Music**（75 行）
-- **Lifestyle**（103 行）
-- **Nature**（103 行）
-- **Technology**（103 行）
+- **History**（73 [Amharic translation needed - original Taiwan context]）— [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 🔴
+- **Music**（75 [Amharic translation needed - original Taiwan context]）
+- **Lifestyle**（103 [Amharic translation needed - original Taiwan context]）
+- **Nature**（103 [Amharic translation needed - original Taiwan context]）
+- **Technology**（103 [Amharic translation needed - original Taiwan context]）
 
-### 優先升級順序
+### [Amharic translation needed - original Taiwan context]
 
-根據 GA4 流量排序（流量高 = 最多人看 = 最該好）：
+[Amharic translation needed - original Taiwan context] GA4 [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] = [Amharic translation needed - original Taiwan context] = [Amharic translation needed - original Taiwan context]）：
 
-1. 🔴 **History**（4,400 views，73 行）— 流量第一的文章分類，Hub 最薄
-2. 🟠 **Food**（3,398 views）— 已經不錯，但可以更好
-3. 🟠 **Geography**（3,187 views）— 流量第三，品質中等
+1. 🔴 **History**（4,400 views，73 [Amharic translation needed - original Taiwan context]）— [Amharic translation needed - original Taiwan context]，Hub [Amharic translation needed - original Taiwan context]
+2. 🟠 **Food**（3,398 views）— [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
+3. 🟠 **Geography**（3,187 views）— [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
 4. 🟡 **Culture**（2,082 views）
-5. 🟡 **Technology**（981 views + 半導體 1,473 views）
-6. 🟡 **Music**（1,193 views，75 行）— 行數跟 History 一樣少
+5. 🟡 **Technology**（981 views + [Amharic translation needed - original Taiwan context] 1,473 views）
+6. 🟡 **Music**（1,193 views，75 [Amharic translation needed - original Taiwan context]）— [Amharic translation needed - original Taiwan context] History [Amharic translation needed - original Taiwan context]
 
 ---
 
-## 六、Hub 更新 SOP
+## [Amharic translation needed - original Taiwan context]、Hub [Amharic translation needed - original Taiwan context] SOP
 
-### 新文章上線時
+### [Amharic translation needed - original Taiwan context]
 
-1. 新文章的分類 → 找到對應 Hub
-2. 加 wikilink 到正確的子分類段落
-3. 如果是新的子分類 → 新增 H2 + 策展散文
-4. Build 確認沒壞
+1. [Amharic translation needed - original Taiwan context] → [Amharic translation needed - original Taiwan context] Hub
+2. [Amharic translation needed - original Taiwan context] wikilink [Amharic translation needed - original Taiwan context]
+3. [Amharic translation needed - original Taiwan context] → [Amharic translation needed - original Taiwan context] H2 + [Amharic translation needed - original Taiwan context]
+4. Build [Amharic translation needed - original Taiwan context]
 
-### 月度 Hub 健康檢查
+### [Amharic translation needed - original Taiwan context] Hub [Amharic translation needed - original Taiwan context]
 
-1. 跑 `quality-scan.sh` 對所有 Hub
-2. 檢查 wikilinks 是否有死連結
-3. 檢查分類文章數量（新增的有沒有漏加）
-4. 導言是否需要更新（新事件、新里程碑）
+1. [Amharic translation needed - original Taiwan context] `quality-scan.sh` [Amharic translation needed - original Taiwan context] Hub
+2. [Amharic translation needed - original Taiwan context] wikilinks [Amharic translation needed - original Taiwan context]
+3. [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
+4. [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]）
 
-### Hub 重寫流程
+### Hub [Amharic translation needed - original Taiwan context]
 
-1. 研究：讀完該分類所有文章
-2. 找核心問題：「為什麼這個主題在台灣特別值得看？」
-3. 寫反直覺開場
-4. 每個子分類寫 150-250 字策展散文
-5. 跑品質清單（第四章）
-6. 中英雙版同步
+1. [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
+2. [Amharic translation needed - original Taiwan context]：「[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]？」
+3. [Amharic translation needed - original Taiwan context]
+4. [Amharic translation needed - original Taiwan context] 150-250 [Amharic translation needed - original Taiwan context]
+5. [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
+6. [Amharic translation needed - original Taiwan context]
 
 ---
 
-## 七、與 EDITORIAL.md 的關係
+## [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] EDITORIAL.md [Amharic translation needed - original Taiwan context]
 
-| 面向     | EDITORIAL.md                     | HUB-EDITORIAL.md                         |
+| [Amharic translation needed - original Taiwan context]     | EDITORIAL.md                     | HUB-EDITORIAL.md                         |
 | -------- | -------------------------------- | ---------------------------------------- |
-| 管什麼   | 每篇文章的品質                   | 每個分類入口的品質                       |
-| 語氣標準 | 相同（策展人聲音、禁止塑膠句式） | 相同                                     |
-| 研究深度 | 5+ 獨立來源                      | 不要求獨立來源（Hub 引用的是底下的文章） |
-| 結構要求 | 30 秒概覽 + 正文 + 參考資料      | 導言 + 分類散文 + wikilinks              |
-| 品質偵測 | quality-scan.sh                  | 同 + Hub 專屬清單                        |
-| 更新頻率 | 文章上線時                       | 文章上線時 + 月度健康檢查                |
+| [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]                   | [Amharic translation needed - original Taiwan context]                       |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]） | [Amharic translation needed - original Taiwan context]                                     |
+| [Amharic translation needed - original Taiwan context] | 5+ [Amharic translation needed - original Taiwan context]                      | [Amharic translation needed - original Taiwan context]（Hub [Amharic translation needed - original Taiwan context]） |
+| [Amharic translation needed - original Taiwan context] | 30 [Amharic translation needed - original Taiwan context] + [Amharic translation needed - original Taiwan context] + [Amharic translation needed - original Taiwan context]      | [Amharic translation needed - original Taiwan context] + [Amharic translation needed - original Taiwan context] + wikilinks              |
+| [Amharic translation needed - original Taiwan context] | quality-scan.sh                  | [Amharic translation needed - original Taiwan context] + Hub [Amharic translation needed - original Taiwan context]                        |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]                       | [Amharic translation needed - original Taiwan context] + [Amharic translation needed - original Taiwan context]                |
 
 ---
 
-## 八、Resources 頁面策展經驗（2026-03-24）
+## [Amharic translation needed - original Taiwan context]、Resources [Amharic translation needed - original Taiwan context]（2026-03-24）
 
-Resources 頁面是一種特殊的 Hub：它連結**外部網站**而非站內文章。但策展邏輯完全相同。
+Resources [Amharic translation needed - original Taiwan context] Hub：[Amharic translation needed - original Taiwan context]**[Amharic translation needed - original Taiwan context]**[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]。
 
-### 從「黃頁」到「策展」
+### [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」
 
-**問題**：150 個外部連結按分類排列 = 電話簿。讀者看到「行政院 ey.gov.tw」不會有任何感覺。
+**[Amharic translation needed - original Taiwan context]**：150 [Amharic translation needed - original Taiwan context] = [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context] ey.gov.tw」[Amharic translation needed - original Taiwan context]。
 
-**解法**：每個章節加三層策展：
+**[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]：
 
-1. **場景化開場**（story）— 用一個具體事件帶入（口罩地圖 → 開放資料生態）
-2. **子類別過渡語** — 解釋「為什麼把這些放在一起」，不只是標題
-3. **策展人筆記**（curator note）— 🔍 開頭，點出非顯而易見的洞察
+1. **[Amharic translation needed - original Taiwan context]**（story）— [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] → [Amharic translation needed - original Taiwan context]）
+2. **[Amharic translation needed - original Taiwan context]** — [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」，[Amharic translation needed - original Taiwan context]
+3. **[Amharic translation needed - original Taiwan context]**（curator note）— 🔍 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
 
-### 精選連結的策展標準
+### [Amharic translation needed - original Taiwan context]
 
-| 普通連結    | 精選連結（Top 3）            |
+| [Amharic translation needed - original Taiwan context]    | [Amharic translation needed - original Taiwan context]（Top 3）            |
 | ----------- | ---------------------------- |
-| 名稱 + 域名 | 名稱 + 域名 + **一句話描述** |
-| 白底卡片    | 淡綠底 + 左邊線（視覺區分）  |
-| 只需要存在  | 需要回答「為什麼選它」       |
+| [Amharic translation needed - original Taiwan context] + [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] + [Amharic translation needed - original Taiwan context] + **[Amharic translation needed - original Taiwan context]** |
+| [Amharic translation needed - original Taiwan context]    | [Amharic translation needed - original Taiwan context] + [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）  |
+| [Amharic translation needed - original Taiwan context]  | [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」       |
 
-**精選的三個條件**：
+**[Amharic translation needed - original Taiwan context]**：
 
-1. 它代表了這個領域台灣最獨特的面向
-2. 外國人如果只看 3 個，一定要看這 3 個
-3. 有具體數字或故事可以說（不是「很重要」就完了）
+1. [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]
+2. [Amharic translation needed - original Taiwan context] 3 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 3 [Amharic translation needed - original Taiwan context]
+3. [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]）
 
-### i18n 架構（技術層面）
+### i18n [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
 
-Resources 頁面確立的三層分離模式：
+Resources [Amharic translation needed - original Taiwan context]：
 
 ```
-src/data/resources-data.ts   ← 純資料（nameKey, url, domain, featured?）
-src/i18n/resources.ts        ← 所有翻譯（en + zh-TW）
-src/templates/*.astro        ← 零 inline 語言判斷，全用 t()
+src/data/resources-data.ts   ← [Amharic translation needed - original Taiwan context]（nameKey, url, domain, featured?）
+src/i18n/resources.ts        ← [Amharic translation needed - original Taiwan context]（en + am）
+src/templates/*.astro        ← [Amharic translation needed - original Taiwan context] inline [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] t()
 ```
 
-**鐵律**：
+**[Amharic translation needed - original Taiwan context]**：
 
-- 資料檔不含任何語言文字，只有 i18n key
-- Template 裡零 `lang === 'en'`，全用 `t()`
-- 新增連結 = 同時更新 data + i18n 兩個檔案
-- 每個 i18n key 都要有 en + zh-TW 版本
+- [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] i18n key
+- Template [Amharic translation needed - original Taiwan context] `lang === 'en'`，[Amharic translation needed - original Taiwan context] `t()`
+- [Amharic translation needed - original Taiwan context] = [Amharic translation needed - original Taiwan context] data + i18n [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context] i18n key [Amharic translation needed - original Taiwan context] en + am [Amharic translation needed - original Taiwan context]
 
-### 互動元素原則
+### [Amharic translation needed - original Taiwan context]
 
-1. **搜尋**：150+ 項目的頁面必須有搜尋
-2. **Sticky 導航**：超過 3 個章節就需要。z-index 低於 header（40 < 50）
-3. **折疊**（details/summary）：超過 10 項的子類別應折疊
-4. **大型視覺化**：如果佔第一屏太多空間，隱藏或移到底部
-5. **Favicon**：外部連結用 Google Favicon API（sz=32），加 JS error fallback 顯示 🌐
+1. **[Amharic translation needed - original Taiwan context]**：150+ [Amharic translation needed - original Taiwan context]
+2. **Sticky [Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] 3 [Amharic translation needed - original Taiwan context]。z-index [Amharic translation needed - original Taiwan context] header（40 < 50）
+3. **[Amharic translation needed - original Taiwan context]**（details/summary）：[Amharic translation needed - original Taiwan context] 10 [Amharic translation needed - original Taiwan context]
+4. **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
+5. **Favicon**：[Amharic translation needed - original Taiwan context] Google Favicon API（sz=32），[Amharic translation needed - original Taiwan context] JS error fallback [Amharic translation needed - original Taiwan context] 🌐
 
-### CSS 衝突防護
+### CSS [Amharic translation needed - original Taiwan context]
 
-Astro 的全域 `main a` 規則（border-bottom）會影響卡片和導航：
+Astro [Amharic translation needed - original Taiwan context] `main a` [Amharic translation needed - original Taiwan context]（border-bottom）[Amharic translation needed - original Taiwan context]：
 
 ```css
 .site-card {
@@ -287,51 +287,51 @@ Astro 的全域 `main a` 規則（border-bottom）會影響卡片和導航：
 }
 ```
 
-**教訓**：任何新頁面加連結卡片時，先測全域 `a` 樣式有沒有干擾。
+**[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] `a` [Amharic translation needed - original Taiwan context]。
 
 ---
 
-## 九、策展文字的「溫度校準」
+## [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」
 
-### 問題：AI 生成的策展文字容易「過熱」
+### [Amharic translation needed - original Taiwan context]：AI [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」
 
-幾天密集改版下來，最明顯的問題是 AI 寫的策展文字**同時犯兩個錯**：
+[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context]**[Amharic translation needed - original Taiwan context]**：
 
-1. 每句都在「賣」（全球第一、舉世無雙、令人驚嘆）
-2. 句式高度重複（「不是 X，是 Y」「不只 A，更是 B」）
+1. [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」（[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]）
+2. [Amharic translation needed - original Taiwan context]（「[Amharic translation needed - original Taiwan context] X，[Amharic translation needed - original Taiwan context] Y」「[Amharic translation needed - original Taiwan context] A，[Amharic translation needed - original Taiwan context] B」）
 
-讀者讀三段就疲勞。你推銷越用力，讀者越不信。
+[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
 
-### 溫度光譜
+### [Amharic translation needed - original Taiwan context]
 
 ```
-❄️ 太冷：維基百科式。「PTT 是台灣最大的 BBS。」
-🌡️ 剛好：策展人帶你看。「1995 年台大宿舍的那台伺服器，30 年後還在左右選舉。」
-🔥 太熱：推銷員式。「PTT 是台灣最具影響力的民主奇蹟，堪稱舉世無雙的公民討論殿堂！」
+❄️ [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]。「PTT [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context] BBS。」
+🌡️ [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]。「1995 [Amharic translation needed - original Taiwan context]，30 [Amharic translation needed - original Taiwan context]。」
+🔥 [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]。「PTT [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]！」
 ```
 
-**目標永遠是 🌡️。**
+**[Amharic translation needed - original Taiwan context] 🌡️。**
 
-### 校準方法
+### [Amharic translation needed - original Taiwan context]
 
-1. **大聲讀出來**。如果你覺得尷尬，讀者也會。
-2. **刪掉所有「最」「最具」「全球首創」「舉世」**，看句子還成不成立。如果不成立，事實不夠硬。
-3. **每段只允許一個「賣點」**。如果一段裡有 3 個驚嘆，砍掉最弱的 2 個。
-4. **用場景取代形容**。不說「台灣的開放資料非常先進」，說「一個工程師用一個週末做出口罩地圖」。場景自己會說話。
+1. **[Amharic translation needed - original Taiwan context]**。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+2. **[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」「[Amharic translation needed - original Taiwan context]」「[Amharic translation needed - original Taiwan context]」「[Amharic translation needed - original Taiwan context]」**，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+3. **[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」**。[Amharic translation needed - original Taiwan context] 3 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 2 [Amharic translation needed - original Taiwan context]。
+4. **[Amharic translation needed - original Taiwan context]**。[Amharic translation needed - original Taiwan context]「Ethiopia[Amharic translation needed - original Taiwan context]」，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」。[Amharic translation needed - original Taiwan context]。
 
-### 實際案例（Resources 改版中的修正）
+### [Amharic translation needed - original Taiwan context]（Resources [Amharic translation needed - original Taiwan context]）
 
-**Before（過熱）：**
+**Before（[Amharic translation needed - original Taiwan context]）：**
 
-> 🔍 台灣的五權憲法體制舉世獨特。考試院和監察院源自孫中山政治哲學，在西方找不到對應機構。請特別關注 moda.gov.tw：唐鳳部長的數位治理實驗已被 30 多個國家引用。
+> 🔍 Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] moda.gov.tw：[Amharic translation needed - original Taiwan context] 30 [Amharic translation needed - original Taiwan context]。
 
-**After（校準）：**
+**After（[Amharic translation needed - original Taiwan context]）：**
 
-> 🔍 COVID-19 期間，台灣民間開發者 72 小時內做出口罩地圖和疫苗預約系統。這種速度背後是全球排名前三的政府開放資料平台，50,000+ 筆資料集、即時 API、任何人都能取用。當其他國家的開發者還在等政府開記者會，台灣的開發者已經在寫 code 了。
+> 🔍 COVID-19 [Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context] 72 [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，50,000+ [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] API、[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context] code [Amharic translation needed - original Taiwan context]。
 
-**差異**：Before 在告訴你「這很厲害」。After 在讓你自己感覺「這很厲害」。
+**[Amharic translation needed - original Taiwan context]**：Before [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」。After [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」。
 
 ---
 
-_這份文件跟 EDITORIAL.md 一起構成 Taiwan.md 的完整品質標準。_
-_最後更新：2026-03-24_
+_[Amharic translation needed - original Taiwan context] EDITORIAL.md [Amharic translation needed - original Taiwan context] Ethiopia.md [Amharic translation needed - original Taiwan context]。_
+_[Amharic translation needed - original Taiwan context]：2026-03-24_

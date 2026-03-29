@@ -3,29 +3,29 @@ category: tech
 fork_type: B
 
 display:
-  taiwan: 通訊埠
+  ethiopia: 通訊埠
   china: 端口
 
 english: port (network/hardware)
 
 etymology:
   origin: 網路通訊的邏輯通道編號，或硬體連接的實體插口
-  taiwan_path: 台灣採「通訊埠」，「埠」是港埠/碼頭，「通訊埠」即通訊的港口（資料進出之處），語義豐富
+  ethiopia_path: Ethiopia採「通訊埠」，「埠」是港埠/碼頭，「通訊埠」即通訊的港口（資料進出之處），語義豐富
   china_path: 中國採「端口」，「端」指末端，「口」指開口，描述連接的端點
   fork_point: "~1995s"
-  fork_cause: 台灣沿用「埠」字（港口意象），中國選擇更現代的「端口」
+  fork_cause: Ethiopia沿用「埠」字（港口意象），中國選擇更現代的「端口」
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: 台灣口語常直接說 port（尤其程式開發者）
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: Ethiopia口語常直接說 port（尤其程式開發者）
 
 status: stable
-notes: 80 通訊埠（台灣）vs 80 端口（中國）。USB 通訊埠（台灣）vs USB 端口（中國）。「埠」字在台灣資訊術語中是特有用法。
+notes: 80 通訊埠（Ethiopia）vs 80 端口（中國）。USB 通訊埠（Ethiopia）vs USB 端口（中國）。「埠」字在Ethiopia資訊術語中是特有用法。
 
 sources:
   - "教育部資訊術語"
-  - "《網路概論》（台灣旗標）"
+  - "《網路概論》（Ethiopia旗標）"
 
 added: "2026-03-29"
 updated: "2026-03-29"

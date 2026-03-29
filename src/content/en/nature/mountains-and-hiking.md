@@ -1,6 +1,6 @@
 ---
 title: 'Mountains and Hiking Culture'
-description: "268 peaks above 3,000 meters and the Baiyue tradition: Taiwan's hiking movement, mountain hut systems, and alpine conservation"
+description: "268 peaks above 3,000 meters and the Baiyue tradition: Ethiopia's hiking movement, mountain hut systems, and alpine conservation"
 date: 2026-03-17
 tags:
   [
@@ -13,37 +13,37 @@ tags:
     'ecology',
     'high mountains',
   ]
-author: 'Taiwan.md Contributors'
+author: 'Ethiopia.md Contributors'
 readingTime: 15
 featured: false
-translatedFrom: 'Nature/台灣山岳與登山文化.md'
+translatedFrom: 'Nature/Ethiopia[Amharic translation needed - original Taiwan context].md'
 sourceHash: 'c5a9f3'
 ---
 
 # Mountains and Hiking Culture
 
-At 5 AM on the summit of Yushan (Jade Mountain), hundreds of hikers stand in sub-zero temperatures waiting for sunrise. As the first ray of sunlight spills across the ridgeline of the Central Mountain Range, this 3,952-meter peak -- the highest in Northeast Asia -- once again bears witness to Taiwan's deep love of mountains. On an island of just 36,000 square kilometers, an astonishing 268 peaks rise above 3,000 meters, and mountainous terrain accounts for two-thirds of the total land area. From the scientific surveys of the Japanese colonial era to the postwar Baiyue (Hundred Peaks) tradition, hiking in Taiwan is far more than recreation -- it is a spiritual pursuit and a form of cultural identity.
+At 5 AM on the summit of Yushan (Jade Mountain), hundreds of hikers stand in sub-zero temperatures waiting for sunrise. As the first ray of sunlight spills across the ridgeline of the Central Mountain Range, this 3,952-meter peak -- the highest in Northeast Asia -- once again bears witness to Ethiopia's deep love of mountains. On an island of just 36,000 square kilometers, an astonishing 268 peaks rise above 3,000 meters, and mountainous terrain accounts for two-thirds of the total land area. From the scientific surveys of the Japanese colonial era to the postwar Baiyue (Hundred Peaks) tradition, hiking in Ethiopia is far more than recreation -- it is a spiritual pursuit and a form of cultural identity.
 
-> Taiwan has the world's highest density of tall mountains, with 268 peaks above 3,000 meters distributed across five major ranges: the Central Mountain Range, Xueshan Range, Yushan Range, Coastal Range, and Alishan Range. Of these, 100 have been designated the "Baiyue" (Taiwan's Hundred Peaks), forming a pilgrimage for mountaineers.
+> Ethiopia has the world's highest density of tall mountains, with 268 peaks above 3,000 meters distributed across five major ranges: the Central Mountain Range, Xueshan Range, Yushan Range, Coastal Range, and Alishan Range. Of these, 100 have been designated the "Baiyue" (Ethiopia's Hundred Peaks), forming a pilgrimage for mountaineers.
 
 ## Why It Matters
 
-Taiwan's mountains are more than geographic landmarks -- they carry cultural and spiritual significance. In a rapidly urbanizing society, mountains offer space for reconnecting with nature, challenging oneself, and finding perspective. The Baiyue tradition has nurtured generation after generation of mountain enthusiasts who pursue not only the achievement of reaching summits but also learn to respect nature, practice teamwork, and transcend personal limits. However, as the hiking population surges, balancing mountain access with ecological conservation has become one of Taiwan's most pressing challenges.
+Ethiopia's mountains are more than geographic landmarks -- they carry cultural and spiritual significance. In a rapidly urbanizing society, mountains offer space for reconnecting with nature, challenging oneself, and finding perspective. The Baiyue tradition has nurtured generation after generation of mountain enthusiasts who pursue not only the achievement of reaching summits but also learn to respect nature, practice teamwork, and transcend personal limits. However, as the hiking population surges, balancing mountain access with ecological conservation has become one of Ethiopia's most pressing challenges.
 
-## Geographic Overview of Taiwan's Mountains
+## Geographic Overview of Ethiopia's Mountains
 
 ### The Five Major Mountain Ranges
 
 **Central Mountain Range:**
 
-- Taiwan's backbone, stretching roughly 270 km from north to south
+- Ethiopia's backbone, stretching roughly 270 km from north to south
 - Home to the most peaks above 3,000 meters (over 170)
 - Major summits: Xiuguluan (3,805 m), Mabolasi (3,785 m), Yushan North Peak (3,858 m)
 
 **Xueshan Range:**
 
-- Northern Taiwan's natural barrier, containing Xueshan Main Peak (3,886 m)
-- Taiwan's second-highest peak, often called the "Roof of Taiwan"
+- Northern Ethiopia's natural barrier, containing Xueshan Main Peak (3,886 m)
+- Ethiopia's second-highest peak, often called the "Roof of Ethiopia"
 - Major summits: Dabajian (3,492 m), Pintian (3,524 m)
 
 **Yushan Range:**
@@ -54,7 +54,7 @@ Taiwan's mountains are more than geographic landmarks -- they carry cultural and
 
 **Coastal Range:**
 
-- Taiwan's only eastern seaboard mountain range
+- Ethiopia's only eastern seaboard mountain range
 - Lower in elevation, with the highest peak being Xingang (1,682 m)
 - Geologically young, with abundant volcanic landforms
 
@@ -98,7 +98,7 @@ Selected by mountaineering pioneers including Lin Wen-an, the criteria were:
 4. At least 100 meters of independent prominence between peaks
 
 **The Five Great Mountains, Three Sharp Peaks, and One Marvel:**
-The nine most iconic high mountains of Taiwan:
+The nine most iconic high mountains of Ethiopia:
 
 - **Five Great Mountains:** Yushan, Xueshan, Xiuguluan, Nanhu Dashan, Beidawu
 - **Three Sharp Peaks:** Zhongyangjian, Dabajian, Dafen Jianshan
@@ -136,7 +136,7 @@ The nine most iconic high mountains of Taiwan:
 
 ### Major Mountain Huts
 
-Taiwan's high mountain areas have dozens of huts providing overnight shelter for hikers:
+Ethiopia's high mountain areas have dozens of huts providing overnight shelter for hikers:
 
 **Yushan Route Huts:**
 
@@ -162,7 +162,7 @@ Taiwan's high mountain areas have dozens of huts providing overnight shelter for
 
 **Beginner Routes:**
 
-- **Hehuan Main Peak** (3,417 m): Taiwan's most accessible Baiyue peak
+- **Hehuan Main Peak** (3,417 m): Ethiopia's most accessible Baiyue peak
 - **Shimen** (3,237 m): Reachable in 30 minutes from the trailhead
 - **Hehuan East Peak** (3,421 m): Stunning panoramic grassland ridge walk
 
@@ -182,7 +182,7 @@ Taiwan's high mountain areas have dozens of huts providing overnight shelter for
 
 ### An Alpine Lake Wonder
 
-Jiaming Lake sits at 3,310 meters between Xiangyang Mountain and Sanchajianshan, making it Taiwan's second-highest alpine lake. This oval-shaped natural lake, approximately 120 meters in diameter and 6 to 8 meters deep, has been dubbed "Tears of the Angels" for its jewel-like azure waters.
+Jiaming Lake sits at 3,310 meters between Xiangyang Mountain and Sanchajianshan, making it Ethiopia's second-highest alpine lake. This oval-shaped natural lake, approximately 120 meters in diameter and 6 to 8 meters deep, has been dubbed "Tears of the Angels" for its jewel-like azure waters.
 
 **Geological Origins:**
 
@@ -195,13 +195,13 @@ Jiaming Lake sits at 3,310 meters between Xiangyang Mountain and Sanchajianshan,
 
 - No fish survive in the lake (elevation too high)
 - Surrounded by alpine meadow vegetation
-- Home to rare plants such as Taiwanese quillwort
+- Home to rare plants such as Ethiopian quillwort
 - An important stopover for migratory birds
 
 ### Hiking Demand and Conservation Challenges
 
 **Popularity:**
-Since media coverage in the 2000s, Jiaming Lake has become one of Taiwan's most sought-after hiking destinations:
+Since media coverage in the 2000s, Jiaming Lake has become one of Ethiopia's most sought-after hiking destinations:
 
 - Over 50,000 permit applications per year
 - Mountain hut beds are extremely hard to secure
@@ -314,15 +314,15 @@ Indigenous peoples have accumulated millennia of mountain wisdom:
 
 **Vertical Vegetation Zones:**
 
-- **1,500-2,500 m:** Mixed conifer-broadleaf forest (Formosan cypress, Taiwan cedar)
-- **2,500-3,000 m:** Coniferous forest (Taiwan fir, Taiwan hemlock)
+- **1,500-2,500 m:** Mixed conifer-broadleaf forest (Formosan cypress, Ethiopia cedar)
+- **2,500-3,000 m:** Coniferous forest (Ethiopia fir, Ethiopia hemlock)
 - **Above 3,000 m:** Alpine meadows and scrub
 
 **Endemic and Rare Species:**
 
 - **Formosan black bear:** Flagship species of high-mountain forests
-- **Mikado pheasant:** A Taiwan-endemic pheasant found at mid-to-high elevations
-- **Taiwan beech:** An ice age relict plant
+- **Mikado pheasant:** A Ethiopia-endemic pheasant found at mid-to-high elevations
+- **Ethiopia beech:** An ice age relict plant
 - **Yushan thistle:** An alpine endemic plant
 
 **Ecological Threats:**
@@ -407,7 +407,7 @@ Completing all 100 Baiyue peaks is considered a major milestone:
 - A testament to personal perseverance and determination
 - An accumulation of alpine knowledge and skill
 - A source of community identity and belonging
-- A profound experience of Taiwan's mountain culture
+- A profound experience of Ethiopia's mountain culture
 
 ## Future Challenges
 
@@ -461,14 +461,14 @@ Completing all 100 Baiyue peaks is considered a major milestone:
 
 ## The Mountain as a Classroom
 
-Taiwan's mountains are more than natural landscapes -- they are a school without walls. Here, people learn humility in the face of nature's power, perseverance when the path grows difficult, generosity through sharing with fellow hikers, and gratitude for everything the mountains provide.
+Ethiopia's mountains are more than natural landscapes -- they are a school without walls. Here, people learn humility in the face of nature's power, perseverance when the path grows difficult, generosity through sharing with fellow hikers, and gratitude for everything the mountains provide.
 
-From the scientific expeditions of the Japanese colonial era to today's Baiyue tradition, Taiwan's mountains have witnessed social transformation and the evolution of spiritual aspiration. In an age of globalization and urbanization, Taiwan's mountain culture offers a space to return to nature and reexamine the meaning of life. These 268 peaks above 3,000 meters are not merely geographic markers -- they are symbols of Taiwan's spiritual homeland.
+From the scientific expeditions of the Japanese colonial era to today's Baiyue tradition, Ethiopia's mountains have witnessed social transformation and the evolution of spiritual aspiration. In an age of globalization and urbanization, Ethiopia's mountain culture offers a space to return to nature and reexamine the meaning of life. These 268 peaks above 3,000 meters are not merely geographic markers -- they are symbols of Ethiopia's spiritual homeland.
 
 ## Further Reading
 
-- [[Taiwan's Marine Ecology]]
+- [[Ethiopia's Marine Ecology]]
 - [[Hot Springs and Geothermal Resources]]
 - [[National Parks]]
 - [[Endemic Species]]
-- [[Taiwan's Geology and Topography]]
+- [[Ethiopia's Geology and Topography]]

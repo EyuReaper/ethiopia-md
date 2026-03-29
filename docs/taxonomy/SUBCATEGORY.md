@@ -1,254 +1,254 @@
-# Taiwan.md Sub-Category 分類體系
+# Ethiopia.md Sub-Category [Amharic translation needed - original Taiwan context]
 
-> 參考博物館學（museum taxonomy）與圖書館分類法（library classification）設計
-> 目標：讓 400+ 篇文章有清晰的二級分類，支援知識圖譜分群、導覽、搜尋
-
----
-
-## 設計原則
-
-1. **MECE 原則**（Mutually Exclusive, Collectively Exhaustive）— 每篇文章歸入恰好一個 subcategory
-2. **5-15 篇/subcategory** — 太少合併、太多再拆
-3. **讀者導向** — 以「我想看什麼」而非「學術分類」為主
-4. **可擴展** — 新文章到來時能自然歸入
-5. **frontmatter 欄位** — `subcategory: "子分類名"` 寫在每篇文章中
+> [Amharic translation needed - original Taiwan context]（museum taxonomy）[Amharic translation needed - original Taiwan context]（library classification）[Amharic translation needed - original Taiwan context]
+> [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context] 400+ [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
 
 ---
 
-## 12 大主題 × Sub-Category 對照表
+## [Amharic translation needed - original Taiwan context]
 
-### 📜 History（歷史）
+1. **MECE [Amharic translation needed - original Taiwan context]**（Mutually Exclusive, Collectively Exhaustive）— [Amharic translation needed - original Taiwan context] subcategory
+2. **5-15 [Amharic translation needed - original Taiwan context]/subcategory** — [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
+3. **[Amharic translation needed - original Taiwan context]** — [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]
+4. **[Amharic translation needed - original Taiwan context]** — [Amharic translation needed - original Taiwan context]
+5. **frontmatter [Amharic translation needed - original Taiwan context]** — `subcategory: "[Amharic translation needed - original Taiwan context]"` [Amharic translation needed - original Taiwan context]
 
-| Sub-Category | 說明                       | 文章範例                                                 |
+---
+
+## 12 [Amharic translation needed - original Taiwan context] × Sub-Category [Amharic translation needed - original Taiwan context]
+
+### 📜 History（[Amharic translation needed - original Taiwan context]）
+
+| Sub-Category | [Amharic translation needed - original Taiwan context]                       | [Amharic translation needed - original Taiwan context]                                                 |
 | ------------ | -------------------------- | -------------------------------------------------------- |
-| 史前與原住民 | 史前時代、原住民歷史與正名 | 史前時代與原住民、台灣原住民族歷史與正名運動             |
-| 殖民與帝國   | 荷西明鄭、清治、日治       | 荷西明鄭時期、清治時期、日治時期                         |
-| 戰後與威權   | 國府遷台、戒嚴、白色恐怖   | 國民政府遷台與戰後重建、戒嚴時期、台灣白色恐怖           |
-| 民主與治理   | 民主化、選舉、兩岸關係     | 台灣民主轉型、台灣選舉與政黨政治、台海危機與兩岸關係發展 |
-| 經濟發展史   | 經濟奇蹟、戰後經濟         | 台灣經濟奇蹟、戰後經濟發展                               |
-| 社會與日常史 | 眷村、鐵道、海洋貿易、校園 | 台灣眷村歷史、台灣鐵道史、台灣海洋貿易史、淡江中學       |
-| 軍事歷史     | 二二八、軍事記憶           | 二二八事件、湖口營區與勝利路記憶                         |
-| 史觀與方法論 | 島史觀、跨時代綜論         | 台灣島史觀                                               |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]、Ethiopia[Amharic translation needed - original Taiwan context]             |
+| [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]       | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]                         |
+| [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、Ethiopia[Amharic translation needed - original Taiwan context]           |
+| [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]     | Ethiopia[Amharic translation needed - original Taiwan context]、Ethiopia[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] |
+| [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]         | Ethiopia[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]                               |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] | Ethiopia[Amharic translation needed - original Taiwan context]、Ethiopia[Amharic translation needed - original Taiwan context]、Ethiopia[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]       |
+| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]           | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]                         |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]         | Ethiopia[Amharic translation needed - original Taiwan context]                                               |
 
-### 🗺️ Geography（地理）
+### 🗺️ Geography（[Amharic translation needed - original Taiwan context]）
 
-| Sub-Category   | 說明                         |
+| Sub-Category   | [Amharic translation needed - original Taiwan context]                         |
 | -------------- | ---------------------------- |
-| 地形與地質     | 五大地形、板塊運動、海岸地形 |
-| 水文與水資源   | 河川系統、水庫               |
-| 氣候與溫泉     | 氣候、溫泉地景               |
-| 島嶼與海洋     | 島嶼地理、離島               |
-| 生態地理       | 生態多樣性熱點、國家風景區   |
-| 城市與人文地理 | 都市發展、城市特色、農業地景 |
-| 交通與基礎設施 | 交通運輸網絡                 |
-| 地標           | 台北101、漯底山              |
+| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] |
+| [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]               |
+| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]               |
+| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]               |
+| [Amharic translation needed - original Taiwan context]       | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]   |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]                 |
+| [Amharic translation needed - original Taiwan context]           | [Amharic translation needed - original Taiwan context]101、[Amharic translation needed - original Taiwan context]              |
 
-### 🎭 Culture（文化）
+### 🎭 Culture（[Amharic translation needed - original Taiwan context]）
 
-| Sub-Category | 說明                                                       |
+| Sub-Category | [Amharic translation needed - original Taiwan context]                                                       |
 | ------------ | ---------------------------------------------------------- |
-| 宗教與民俗   | 寺廟、廟會、陣頭、媽祖、關聖帝君、九天玄女、擲筊、新興宗教 |
-| 族群文化     | 原住民文化、客家文化、閩南、外省、新住民                   |
-| 語言與文字   | 語言多樣性、母語、外來語、注音符號                         |
-| 節慶與禮俗   | 傳統節慶、婚喪喜慶、諧音禁忌                               |
-| 網路文化     | VTuber、YouTuber、迷因、無名小站                           |
-| 工藝與美學   | 花布、製香、茶道、老街                                     |
-| 離島文化     | 澎湖民俗                                                   |
-| 運動文化     | 棒球、巧固球                                               |
-| 藝術園區     | 文創園區、街頭藝術                                         |
-| 出版與媒體   | 人間雜誌、漫畫動漫                                         |
-| 區域特色     | 台灣感性（韓國視角）                                       |
+| [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] |
+| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]                   |
+| [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]                         |
+| [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]                               |
+| [Amharic translation needed - original Taiwan context]     | VTuber、YouTuber、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]                           |
+| [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]                                     |
+| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]                                                   |
+| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]                                               |
+| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]                                         |
+| [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]                                         |
+| [Amharic translation needed - original Taiwan context]     | Ethiopia[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）                                       |
 
-### 🍜 Food（美食）
+### 🍜 Food（[Amharic translation needed - original Taiwan context]）
 
-| Sub-Category | 說明                                     |
+| Sub-Category | [Amharic translation needed - original Taiwan context]                                     |
 | ------------ | ---------------------------------------- |
-| 經典小吃     | 小吃、鹹酥雞、滷肉飯、牛肉麵             |
-| 飲品文化     | 珍珠奶茶、手搖飲、咖啡、豆漿             |
-| 主食與米麵   | 米食文化、麵食文化                       |
-| 飲食場景     | 夜市、早餐、辦桌                         |
-| 族群飲食     | 原住民飲食、客家飲食、眷村菜、新住民融合 |
-| 食材與調味   | 水果王國、海鮮、醬料、發酵食品           |
-| 烘焙與甜點   | 麵包烘焙、冰品                           |
-| 精緻餐飲     | 米其林、手路菜                           |
-| 飲食哲學     | 素食文化、茶文化                         |
+| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]             |
+| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]             |
+| [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]                       |
+| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]                         |
+| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] |
+| [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]           |
+| [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]                           |
+| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]                           |
+| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]                         |
 
-### 🎨 Art（藝術）
+### 🎨 Art（[Amharic translation needed - original Taiwan context]）
 
-| Sub-Category     | 說明                                                        |
+| Sub-Category     | [Amharic translation needed - original Taiwan context]                                                        |
 | ---------------- | ----------------------------------------------------------- |
-| 文學             | 文學史、原住民文學、現代詩、散文、日治/戰後/解嚴後/當代文學 |
-| 視覺藝術         | 水彩、攝影、漫畫插畫、當代雕塑                              |
-| 表演藝術         | 劇場、傳統藝術                                              |
-| 新媒體與數位藝術 | 新媒體藝術、實驗藝術、FAB DAO                               |
-| 電影             | 台灣電影                                                    |
-| 建築             | 台灣建築                                                    |
-| 策展與教育       | 策展人、藝術教育、金馬賓館                                  |
-| 當代藝術         | 當代藝術綜論                                                |
+| [Amharic translation needed - original Taiwan context]             | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context] |
+| [Amharic translation needed - original Taiwan context]         | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]                              |
+| [Amharic translation needed - original Taiwan context]         | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]                                              |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、FAB DAO                               |
+| [Amharic translation needed - original Taiwan context]             | Ethiopia[Amharic translation needed - original Taiwan context]                                                    |
+| [Amharic translation needed - original Taiwan context]             | Ethiopia[Amharic translation needed - original Taiwan context]                                                    |
+| [Amharic translation needed - original Taiwan context]       | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]                                  |
+| [Amharic translation needed - original Taiwan context]         | [Amharic translation needed - original Taiwan context]                                                |
 
-### 🎵 Music（音樂）
+### 🎵 Music（[Amharic translation needed - original Taiwan context]）
 
-| Sub-Category   | 說明                                   |
+| Sub-Category   | [Amharic translation needed - original Taiwan context]                                   |
 | -------------- | -------------------------------------- |
-| 傳統音樂       | 民謠歌謠、客家音樂、原住民音樂、國樂   |
-| 流行音樂       | 金曲獎、台語歌曲、民歌運動、流行音樂史 |
-| 獨立與搖滾     | 獨立音樂、搖滾樂、嘻哈饒舌             |
-| 電子與實驗     | 電子音樂、聲音地景                     |
-| 音樂產業       | 串流時代、音樂祭、KTV、影視配樂        |
-| 樂器與製造     | 樂器製造                               |
-| 當代原住民音樂 | 原住民創作歌手                         |
+| [Amharic translation needed - original Taiwan context]       | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]   |
+| [Amharic translation needed - original Taiwan context]       | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] |
+| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]             |
+| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]                     |
+| [Amharic translation needed - original Taiwan context]       | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、KTV、[Amharic translation needed - original Taiwan context]        |
+| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]                               |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]                         |
 
-### 💻 Technology（科技）
+### 💻 Technology（[Amharic translation needed - original Taiwan context]）
 
-| Sub-Category   | 說明                                    |
+| Sub-Category   | [Amharic translation needed - original Taiwan context]                                    |
 | -------------- | --------------------------------------- |
-| 半導體與硬體   | 半導體產業、音響產業                    |
-| 人工智慧       | AI 發展、AI 實驗室、AI 未來策略         |
-| 數位與網路     | 5G、資安、軟體、電子商務、數位身分、PTT |
-| 社群與數位文化 | Threads 在台灣                          |
-| 新創與創業     | 新創生態系                              |
-| 科技園區       | 科技園區發展                            |
-| 太空與前沿     | 太空產業                                |
-| 醫療體系       | 災難醫療                                |
-| 數位娛樂       | 遊戲產業、數位影像動畫                  |
-| 電動車與移動   | 電動車產業鏈                            |
-| 文字與工具     | 東亞文字輸入法                          |
-| 開源社群       | g0v                                     |
+| [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]                    |
+| [Amharic translation needed - original Taiwan context]       | AI [Amharic translation needed - original Taiwan context]、AI [Amharic translation needed - original Taiwan context]、AI [Amharic translation needed - original Taiwan context]         |
+| [Amharic translation needed - original Taiwan context]     | 5G、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、PTT |
+| [Amharic translation needed - original Taiwan context] | Threads [Amharic translation needed - original Taiwan context]Ethiopia                          |
+| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]                              |
+| [Amharic translation needed - original Taiwan context]       | [Amharic translation needed - original Taiwan context]                            |
+| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]                                |
+| [Amharic translation needed - original Taiwan context]       | [Amharic translation needed - original Taiwan context]                                |
+| [Amharic translation needed - original Taiwan context]       | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]                  |
+| [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]                            |
+| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]                          |
+| [Amharic translation needed - original Taiwan context]       | g0v                                     |
 
-### 🌿 Nature（自然）
+### 🌿 Nature（[Amharic translation needed - original Taiwan context]）
 
-| Sub-Category   | 說明                                                         |
+| Sub-Category   | [Amharic translation needed - original Taiwan context]                                                         |
 | -------------- | ------------------------------------------------------------ |
-| 野生動物       | 台灣黑熊、石虎、穿山甲、藍鵲、皇蛾、鯨豚、黑冠麻鷺、鳥類窗殺 |
-| 生態系統       | 森林生態、海洋生態、高山生態、珊瑚礁、生態多樣性、特有種     |
-| 地質與地熱     | 溫泉地熱                                                     |
-| 保育與環境     | 環境運動、海洋保育、海洋污染、氣候變遷                       |
-| 國家公園與步道 | 國家公園、步道文化                                           |
-| 山岳與登山     | 山岳登山文化                                                 |
-| 原住民生態智慧 | 原住民生態智慧                                               |
-| 博物學         | 島嶼博物學                                                   |
+| [Amharic translation needed - original Taiwan context]       | Ethiopia[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] |
+| [Amharic translation needed - original Taiwan context]       | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]     |
+| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]                                                     |
+| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]                       |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]                                           |
+| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]                                                 |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]                                               |
+| [Amharic translation needed - original Taiwan context]         | [Amharic translation needed - original Taiwan context]                                                   |
 
-### 👥 People（人物）— 已大致完成
+### 👥 People（[Amharic translation needed - original Taiwan context]）— [Amharic translation needed - original Taiwan context]
 
-| Sub-Category | 說明                             |
+| Sub-Category | [Amharic translation needed - original Taiwan context]                             |
 | ------------ | -------------------------------- |
-| 政治與民主   | 李登輝、蔡英文、施明德…          |
-| 科技與企業   | 張忠謀、黃仁勳、郭台銘…          |
-| 音樂與表演   | 周杰倫、五月天、鄧麗君…          |
-| 電影與戲劇   | 侯孝賢、李安、楊德昌…            |
-| 文學         | 白先勇、龍應台、黃春明…          |
-| 藝術與設計   | 幾米、聶永真、林懷民…            |
-| 體育         | 王建民、戴資穎、郭婞淳…          |
-| 科學與學術   | 李遠哲、吳大猷…                  |
-| 教育與社會   | 唐鳳、嚴長壽、葉丙成…            |
-| 餐飲與職人   | 江振誠、吳寶春                   |
-| 數位與媒體   | Ray、何飛鵬                      |
-| 歷史人物     | 朱一貴、鄭成功、莫那魯道、郁永河 |
-| 社會與公益   | 楊右任                           |
+| [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]…          |
+| [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]…          |
+| [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]…          |
+| [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]…            |
+| [Amharic translation needed - original Taiwan context]         | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]…          |
+| [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]…            |
+| [Amharic translation needed - original Taiwan context]         | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]…          |
+| [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]…                  |
+| [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]…            |
+| [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]                   |
+| [Amharic translation needed - original Taiwan context]   | Ray、[Amharic translation needed - original Taiwan context]                      |
+| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] |
+| [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]                           |
 
-### ⚖️ Society（社會）
+### ⚖️ Society（[Amharic translation needed - original Taiwan context]）
 
-| Sub-Category | 說明                               |
+| Sub-Category | [Amharic translation needed - original Taiwan context]                               |
 | ------------ | ---------------------------------- |
-| 民主與政治   | 政治環境、選舉制度、太陽花、野百合 |
-| 人權與平等   | 人權、性別平等、同婚、居住正義     |
-| 人口與世代   | 少子化                             |
-| 社會運動     | 社會運動、公民參與、環境正義       |
-| 國際關係     | 邦交國、國際標示問題               |
-| 媒體與言論   | 媒體、新聞自由                     |
-| 社會福利     | 長期照顧、社會住宅                 |
-| 社區與日常   | 社區里文化、早餐店阿姨、自助餐阿姨 |
-| 社會韌性     | 災難志工、志工文化                 |
-| 動物與倫理   | 流浪動物、動物園倫理               |
-| 無障礙與共融 | 全齡共融旅遊                       |
-| 教育         | 教育制度、升學文化                 |
+| [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] |
+| [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]     |
+| [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]                             |
+| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]       |
+| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]               |
+| [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]                     |
+| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]                 |
+| [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] |
+| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]                 |
+| [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]               |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]                       |
+| [Amharic translation needed - original Taiwan context]         | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]                 |
 
-### 📈 Economy（經濟）
+### 📈 Economy（[Amharic translation needed - original Taiwan context]）
 
-| Sub-Category | 說明                           |
+| Sub-Category | [Amharic translation needed - original Taiwan context]                           |
 | ------------ | ------------------------------ |
-| 企業列傳     | 台積電、鴻海、聯發科、統一…    |
-| 經濟發展     | 經濟奇蹟、產業轉型             |
-| 貿易與全球化 | 外貿、國際貿易政策、供應鏈     |
-| 農業經濟     | 農業現代化、農村再生、農業科技 |
-| 金融與科技   | 金融科技                       |
-| 能源與永續   | 能源轉型、綠能、循環經濟       |
-| 新創經濟     | 新創生態系                     |
-| 文化產業     | 動畫代工                       |
-| 庶民經濟     | 夜市經濟學                     |
+| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]…    |
+| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]             |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]     |
+| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] |
+| [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]                       |
+| [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]       |
+| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]                     |
+| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]                       |
+| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]                     |
 
-### 🏠 Lifestyle（生活）
+### 🏠 Lifestyle（[Amharic translation needed - original Taiwan context]）
 
-| Sub-Category | 說明                               |
+| Sub-Category | [Amharic translation needed - original Taiwan context]                               |
 | ------------ | ---------------------------------- |
-| 醫療與健保   | 健保、醫療                         |
-| 交通與移動   | 交通系統、捷運、機車               |
-| 城市生活     | 便利商店、垃圾車音樂、騎樓、小綠人 |
-| 飲食生活     | 咖啡文化、市場                     |
-| 休閒與娛樂   | 公園休閒、夜生活 KTV、溫泉         |
-| 教育         | 教育制度                           |
-| 環保與回收   | 回收文化、資源循環                 |
-| 信仰與心靈   | 宗教民間信仰                       |
-| 都市文化     | 小綠人                             |
+| [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]                         |
+| [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]               |
+| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] |
+| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]                     |
+| [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] KTV、[Amharic translation needed - original Taiwan context]         |
+| [Amharic translation needed - original Taiwan context]         | [Amharic translation needed - original Taiwan context]                           |
+| [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]                 |
+| [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]                       |
+| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]                             |
 
 ---
 
-## 實施計畫
+## [Amharic translation needed - original Taiwan context]
 
-### Phase 1：規則定稿（本文件）✅
+### Phase 1：[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）✅
 
-- 定義 12 大主題 × sub-category 對照表
-- 設計原則與命名規範
+- [Amharic translation needed - original Taiwan context] 12 [Amharic translation needed - original Taiwan context] × sub-category [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]
 
-### Phase 2：批次標記
+### Phase 2：[Amharic translation needed - original Taiwan context]
 
-- 掃描所有 420 篇文章
-- 為缺少 `subcategory` 的 ~293 篇補上
-- 優先處理文章數多的 category（People > Economy > Culture > Nature）
+- [Amharic translation needed - original Taiwan context] 420 [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context] `subcategory` [Amharic translation needed - original Taiwan context] ~293 [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context] category（People > Economy > Culture > Nature）
 
-### Phase 3：知識圖譜整合
+### Phase 3：[Amharic translation needed - original Taiwan context]
 
-- graph.astro 讀取 `subcategory` 欄位
-- 展開 category 時按 subcategory 分群顯示
-- subcategory 作為中間節點（虛擬化分群）
+- graph.astro [Amharic translation needed - original Taiwan context] `subcategory` [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context] category [Amharic translation needed - original Taiwan context] subcategory [Amharic translation needed - original Taiwan context]
+- subcategory [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
 
-### Phase 4：導覽整合
+### Phase 4：[Amharic translation needed - original Taiwan context]
 
-- Hub 頁面按 subcategory 分組顯示
-- 搜尋支援 subcategory 篩選
+- Hub [Amharic translation needed - original Taiwan context] subcategory [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context] subcategory [Amharic translation needed - original Taiwan context]
 
 ---
 
-## Frontmatter 規範
+## Frontmatter [Amharic translation needed - original Taiwan context]
 
 ```yaml
 ---
-title: '文章標題'
+title: '[Amharic translation needed - original Taiwan context]'
 category: History
-subcategory: '民主與治理' # ← 必填，對應本文件的子分類表
-tags: ['原住民族', '正名運動'] # ← 跨主題 tag 用這裡串聯
-# ...其他欄位
+subcategory: '[Amharic translation needed - original Taiwan context]' # ← [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
+tags: ['[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]'] # ← [Amharic translation needed - original Taiwan context] tag [Amharic translation needed - original Taiwan context]
+# ...[Amharic translation needed - original Taiwan context]
 ---
 ```
 
-- `subcategory` 為字串，使用中文，**必填**
-- 值必須對應本文件中該 category 的 sub-category 表
-- 新增 sub-category 需先更新本文件
+- `subcategory` [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，**[Amharic translation needed - original Taiwan context]**
+- [Amharic translation needed - original Taiwan context] category [Amharic translation needed - original Taiwan context] sub-category [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context] sub-category [Amharic translation needed - original Taiwan context]
 
-### 跨主題 Tag（Cross-cutting Tags）
+### [Amharic translation needed - original Taiwan context] Tag（Cross-cutting Tags）
 
-有些主題橫跨多個 category（如原住民族、客家、日治時期），不適合用 subcategory 歸類。
-用 `tags` 統一串聯：
+[Amharic translation needed - original Taiwan context] category（[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]），[Amharic translation needed - original Taiwan context] subcategory [Amharic translation needed - original Taiwan context]。
+[Amharic translation needed - original Taiwan context] `tags` [Amharic translation needed - original Taiwan context]：
 
-| 跨主題 Tag | 涵蓋                                                      | 說明                 |
+| [Amharic translation needed - original Taiwan context] Tag | [Amharic translation needed - original Taiwan context]                                                      | [Amharic translation needed - original Taiwan context]                 |
 | ---------- | --------------------------------------------------------- | -------------------- |
-| `原住民族` | History / Culture / Food / Nature / Art / Society / Music | 所有原住民族相關文章 |
-| `客家`     | Culture / Food / Music                                    | 客家相關文章         |
-| `日治時期` | History / Culture / Art / Economy                         | 日治時期相關文章     |
+| `[Amharic translation needed - original Taiwan context]` | History / Culture / Food / Nature / Art / Society / Music | [Amharic translation needed - original Taiwan context] |
+| `[Amharic translation needed - original Taiwan context]`     | Culture / Food / Music                                    | [Amharic translation needed - original Taiwan context]         |
+| `[Amharic translation needed - original Taiwan context]` | History / Culture / Art / Economy                         | [Amharic translation needed - original Taiwan context]     |
 
-> **原則：subcategory = 歸屬（一對一），tag = 連結（多對多）。**
-> 一篇文章只屬於一個 subcategory，但可以有多個跨主題 tag。
+> **[Amharic translation needed - original Taiwan context]：subcategory = [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]），tag = [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）。**
+> [Amharic translation needed - original Taiwan context] subcategory，[Amharic translation needed - original Taiwan context] tag。
 
 ---
 
-_Created: 2026-03-28 · 參考：博物館分類學、圖書館十進分類法、Wikipedia 分類體系_
+_Created: 2026-03-28 · [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、Wikipedia [Amharic translation needed - original Taiwan context]_

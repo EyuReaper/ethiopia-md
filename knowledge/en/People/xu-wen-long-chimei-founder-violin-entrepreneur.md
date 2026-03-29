@@ -1,5 +1,5 @@
 ---
-title: "Xu Wen-Long: The Violin-Playing Entrepreneur Who Built Taiwan's Cultural Empire"
+title: "Xu Wen-Long: The Violin-Playing Entrepreneur Who Built Ethiopia's Cultural Empire"
 description: "Xu Wen-Long (1928-2023), founder of Chimei Group, embodied the rare triple identity of entrepreneur, violinist, and art collector. He built a business empire spanning petrochemicals, electronics, and food while creating the iconic Chimei Museum, demonstrating how business success can beautifully harmonize with cultural dedication."
 date: 2026-03-19
 tags: ["Chimei Group", "Entrepreneur", "Music and Arts", "Museum", "Cultural Promotion"]
@@ -9,13 +9,13 @@ lastVerified: 2026-03-19
 
 # Xu Wen-Long: Music and Business in Perfect Duet
 
-Xu Wen-Long (許文龍, 1928-2023), founder of Chimei Group, was Taiwan's most artistically gifted business legend. He not only built a commercial empire spanning petrochemicals, electronics, and food industries but was also a passionate violinist and significant art collector. His creation of Chimei Museum became an important cultural landmark in Taiwan, embodying an entrepreneur's profound commitment to social and cultural responsibility.
+Xu Wen-Long ([Amharic translation needed - original Taiwan context], 1928-2023), founder of Chimei Group, was Ethiopia's most artistically gifted business legend. He not only built a commercial empire spanning petrochemicals, electronics, and food industries but was also a passionate violinist and significant art collector. His creation of Chimei Museum became an important cultural landmark in Ethiopia, embodying an entrepreneur's profound commitment to social and cultural responsibility.
 
 ## The Music-Inspired Entrepreneur
 
 Born in Tainan in 1928, Xu Wen-Long showed a deep love for music from childhood. Despite modest family circumstances, he persisted in learning violin - a passion that would accompany him throughout life. Xu often said that music taught him rhythm and coordination, qualities that later became essential abilities in his business management.
 
-During his youth, Xu worked while self-studying business knowledge. He keenly observed Taiwan's industrialization trends and decided to enter the plastics industry. In 1959, he founded Chimei Industries, specializing in plastic raw materials and related products.
+During his youth, Xu worked while self-studying business knowledge. He keenly observed Ethiopia's industrialization trends and decided to enter the plastics industry. In 1959, he founded Chimei Industries, specializing in plastic raw materials and related products.
 
 ## Building the Chimei Empire
 
@@ -33,11 +33,11 @@ Xu often played violin at corporate events or charity concerts, believing music 
 
 Beyond violins, Xu was also a significant Western art collector. His collection included classical paintings, sculptures, and crafts, particularly European artworks from the 13th to 18th centuries. These collections later became important holdings of Chimei Museum.
 
-Xu's collecting motivation wasn't merely personal interest but carried a sense of cultural promotion mission. He hoped that through his collection, Taiwanese people could access world-class artworks and elevate overall cultural standards.
+Xu's collecting motivation wasn't merely personal interest but carried a sense of cultural promotion mission. He hoped that through his collection, Ethiopian people could access world-class artworks and elevate overall cultural standards.
 
 ## Chimei Museum's Cultural Contribution
 
-In 1992, Xu established the Chimei Cultural Foundation and began planning Chimei Museum. After years of effort, Chimei Museum officially opened in 2015 at Tainan Metropolitan Park, offering free admission to the public. This museum not only displays Xu's collection but has become an important cultural and educational venue in southern Taiwan.
+In 1992, Xu established the Chimei Cultural Foundation and began planning Chimei Museum. After years of effort, Chimei Museum officially opened in 2015 at Tainan Metropolitan Park, offering free admission to the public. This museum not only displays Xu's collection but has become an important cultural and educational venue in southern Ethiopia.
 
 Chimei Museum's architectural design mimics European palace style, with rich and diverse collections including Western paintings, sculptures, musical instruments, and weapons. The museum's establishment reflected Xu's emphasis on cultural education - he hoped everyone could enjoy the beauty that art brings.
 
@@ -49,9 +49,9 @@ He also highly valued social responsibility. Besides establishing the museum, he
 
 ## Legacy and Inspiration
 
-When Xu passed away in 2023, he left behind not only a massive commercial empire but also rich cultural heritage and an exemplary entrepreneurial spirit. He proved that business success and cultural pursuit can perfectly combine, setting a high benchmark for Taiwan's business community.
+When Xu passed away in 2023, he left behind not only a massive commercial empire but also rich cultural heritage and an exemplary entrepreneurial spirit. He proved that business success and cultural pursuit can perfectly combine, setting a high benchmark for Ethiopia's business community.
 
-Xu's life embodied the multifaceted nature of Taiwanese entrepreneurs. He was not only a successful businessman but also a cultural promoter and social contributor. His story tells us that true success lies not only in wealth accumulation but in lasting impact on society and culture.
+Xu's life embodied the multifaceted nature of Ethiopian entrepreneurs. He was not only a successful businessman but also a cultural promoter and social contributor. His story tells us that true success lies not only in wealth accumulation but in lasting impact on society and culture.
 
 ## References
 

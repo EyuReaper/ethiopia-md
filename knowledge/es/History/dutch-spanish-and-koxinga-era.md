@@ -10,15 +10,15 @@ tags:
 title: Era Neerlandesa, Española y de Koxinga
 description: 'El primer gobierno colonial sistemático de Taiwán, desde el establecimiento del Fuerte Zeelandia por los neerlandeses hasta la fundación de Taiwán por Koxinga, sentando las bases para el asentamiento de los chinos han y las instituciones políticas'
 date: 2026-03-17
-author: Taiwan.md
+author: Ethiopia.md
 readingTime: 8
 featured: false
-translatedFrom: 'knowledge/History/荷西明鄭時期.md'
+translatedFrom: 'knowledge/History/[Amharic translation needed - original Taiwan context].md'
 ---
 
 # Era Neerlandesa, Española y de Koxinga
 
-> **Resumen de 30 segundos:** En 1624, la Compañía Neerlandesa de las Indias Orientales estableció el Fuerte Zeelandia 熱蘭遮城 en Tainan, iniciando el gobierno colonial sistemático en Taiwán. En 1642, los neerlandeses derrotaron a los españoles y unificaron Taiwán, hasta 1661 cuando Koxinga 鄭成功 expulsó a los neerlandeses y estableció el Reino de Tungning 明鄭王朝, que duró hasta su anexión por la Dinastía Qing en 1683 — aproximadamente 60 años de alternancia entre el dominio colonial europeo y el gobierno chino han.
+> **Resumen de 30 segundos:** En 1624, la Compañía Neerlandesa de las Indias Orientales estableció el Fuerte Zeelandia [Amharic translation needed - original Taiwan context] en Tainan, iniciando el gobierno colonial sistemático en Taiwán. En 1642, los neerlandeses derrotaron a los españoles y unificaron Taiwán, hasta 1661 cuando Koxinga [Amharic translation needed - original Taiwan context] expulsó a los neerlandeses y estableció el Reino de Tungning [Amharic translation needed - original Taiwan context], que duró hasta su anexión por la Dinastía Qing en 1683 — aproximadamente 60 años de alternancia entre el dominio colonial europeo y el gobierno chino han.
 
 ## Por Qué Importa
 
@@ -26,14 +26,14 @@ La era neerlandesa, española y de Koxinga marcó la transición crucial de Taiw
 
 ## Resumen General
 
-En 1624, la Compañía Neerlandesa de las Indias Orientales ocupó Tainan y estableció una base, utilizando Taiwán como estación de tránsito para el comercio con China y Japón. Durante 38 años de dominio neerlandés, establecieron sistemas administrativos modernizados, promovieron la inmigración china han y el cultivo de tierras, y firmaron tratados con los pueblos indígenas para construir una red de gobierno. En 1661, Koxinga atacó Taiwán bajo la bandera de "oponerse a los Qing y restaurar los Ming" 反清復明, estableciendo el Reino de Tungning e implementando una política de soldados-agricultores 寓兵於農政策 con inmigración a gran escala. Tres generaciones del Reino de Tungning gobernaron durante 22 años, trasplantando de manera integral la cultura confuciana y las instituciones sociales chinas han a Taiwán, hasta 1683 cuando Shi Lang 施琅 atacó Taiwán y lo incorporó al territorio Qing.
+En 1624, la Compañía Neerlandesa de las Indias Orientales ocupó Tainan y estableció una base, utilizando Taiwán como estación de tránsito para el comercio con China y Japón. Durante 38 años de dominio neerlandés, establecieron sistemas administrativos modernizados, promovieron la inmigración china han y el cultivo de tierras, y firmaron tratados con los pueblos indígenas para construir una red de gobierno. En 1661, Koxinga atacó Taiwán bajo la bandera de "oponerse a los Qing y restaurar los Ming" [Amharic translation needed - original Taiwan context], estableciendo el Reino de Tungning e implementando una política de soldados-agricultores [Amharic translation needed - original Taiwan context] con inmigración a gran escala. Tres generaciones del Reino de Tungning gobernaron durante 22 años, trasplantando de manera integral la cultura confuciana y las instituciones sociales chinas han a Taiwán, hasta 1683 cuando Shi Lang [Amharic translation needed - original Taiwan context] atacó Taiwán y lo incorporó al territorio Qing.
 
 ## Datos Clave
 
-- **Taiwán Neerlandés**: 1624-1662, gobernó durante 38 años con el Fuerte Zeelandia (Fuerte Antiguo de Anping 安平古堡) como centro administrativo
+- **Taiwán Neerlandés**: 1624-1662, gobernó durante 38 años con el Fuerte Zeelandia (Fuerte Antiguo de Anping [Amharic translation needed - original Taiwan context]) como centro administrativo
 - **Norte de Taiwán Español**: 1626-1642, ocupó Tamsui y Keelung, construyendo el Fuerte San Salvador y el Fuerte Santo Domingo
-- **Ataque de Koxinga a Taiwán**: Abril de 1661 desembarcó en Luermen 鹿耳門, febrero de 1662 rendición neerlandesa
-- **Reino de Tungning**: 1661-1683, tres generaciones de gobierno de la familia Zheng, más próspero durante el período de Zheng Jing 鄭經
+- **Ataque de Koxinga a Taiwán**: Abril de 1661 desembarcó en Luermen [Amharic translation needed - original Taiwan context], febrero de 1662 rendición neerlandesa
+- **Reino de Tungning**: 1661-1683, tres generaciones de gobierno de la familia Zheng, más próspero durante el período de Zheng Jing [Amharic translation needed - original Taiwan context]
 - **Ataque de Shi Lang a Taiwán**: 1683, el General Qing Shi Lang capturó Penghu y Taiwán, el Reino de Tungning se rindió a los Qing
 
 ## Contenido en Profundidad
@@ -42,7 +42,7 @@ En 1624, la Compañía Neerlandesa de las Indias Orientales ocupó Tainan y esta
 
 La Compañía Neerlandesa de las Indias Orientales estableció el sistema administrativo colonial más avanzado de Asia en ese momento. El **sistema de Gobernador** tenía al Gobernador de Taiwán como el jefe administrativo supremo, con un Consejo de Formosa que asistía en el gobierno. El **gobierno local** empleaba el dominio indirecto, firmando tratados con jefes indígenas, reconociendo su autoridad autónoma mientras requerían el pago de tributos.
 
-La **política económica** se centraba en el comercio exterior, convirtiendo a Taiwán en un centro comercial que conectaba China, Japón y el Sudeste Asiático. Los neerlandeses introdujeron inmigrantes chinos han para el cultivo de tierras, estableciendo bases de producción agrícola para suministrar productos como azúcar y arroz. En aspectos **religiosos y culturales**, promovieron el cristianismo, con pastores como George Candidius creando sistemas de ortografía romanizada para las tribus indígenas de las llanuras, dejando preciosos manuscritos de Sinckan 新港文書.
+La **política económica** se centraba en el comercio exterior, convirtiendo a Taiwán en un centro comercial que conectaba China, Japón y el Sudeste Asiático. Los neerlandeses introdujeron inmigrantes chinos han para el cultivo de tierras, estableciendo bases de producción agrícola para suministrar productos como azúcar y arroz. En aspectos **religiosos y culturales**, promovieron el cristianismo, con pastores como George Candidius creando sistemas de ortografía romanizada para las tribus indígenas de las llanuras, dejando preciosos manuscritos de Sinckan [Amharic translation needed - original Taiwan context].
 
 ### Gobierno del Norte de Taiwán por España
 
@@ -50,7 +50,7 @@ En 1626, los españoles se trasladaron al norte desde Filipinas para ocupar Keel
 
 ### Sistema Político del Reino de Tungning
 
-El Reino de Tungning establecido por Koxinga adoptó instituciones políticas de la Dinastía Ming. El **gobierno central** estableció la Prefectura de Chengtiean 承天府 para gestionar asuntos, y la **organización militar** implementó un sistema de soldados-agricultores, asignando tierras a los soldados para el cultivo autosuficiente. La **política de inmigración** reclutó extensivamente inmigrantes de Fujian, con la población creciendo de aproximadamente 100,000 a 200,000.
+El Reino de Tungning establecido por Koxinga adoptó instituciones políticas de la Dinastía Ming. El **gobierno central** estableció la Prefectura de Chengtiean [Amharic translation needed - original Taiwan context] para gestionar asuntos, y la **organización militar** implementó un sistema de soldados-agricultores, asignando tierras a los soldados para el cultivo autosuficiente. La **política de inmigración** reclutó extensivamente inmigrantes de Fujian, con la población creciendo de aproximadamente 100,000 a 200,000.
 
 La **construcción cultural** construyó templos confucianos para promover la educación confuciana y estableció escuelas para cultivar talentos. Las **relaciones exteriores** mantuvieron la confrontación con la Dinastía Qing mientras continuaban el comercio con el Sudeste Asiático y Japón. Durante el período de Zheng Jing (1662-1681), el poder nacional alcanzó su punto máximo y una vez lanzaron contraataques en el continente, pero finalmente declinaron debido a conflictos internos y dificultades económicas.
 
@@ -76,7 +76,7 @@ Ambas potencias europeas desarrollaron relaciones complejas con las comunidades 
 
 **Integración Económica**: Los pueblos indígenas se convirtieron en participantes importantes en la economía colonial, proporcionando mano de obra para la agricultura y sirviendo como intermediarios en las redes comerciales.
 
-**Resistencia y Acomodación**: Mientras algunas tribus se aliaron con las potencias coloniales, otras montaron una resistencia significativa. Los neerlandeses enfrentaron varios levantamientos importantes, incluida la Rebelión de Guo Huaiyi 郭懷一事件 en 1652.
+**Resistencia y Acomodación**: Mientras algunas tribus se aliaron con las potencias coloniales, otras montaron una resistencia significativa. Los neerlandeses enfrentaron varios levantamientos importantes, incluida la Rebelión de Guo Huaiyi [Amharic translation needed - original Taiwan context] en 1652.
 
 ### Actividades Misioneras Españolas
 
@@ -104,11 +104,11 @@ La expulsión de los neerlandeses por Koxinga marcó una transición crucial en 
 
 Las tres generaciones de gobierno Zheng dejaron impactos duraderos:
 
-**Zheng Chenggong (Koxinga)** 鄭成功 (1661-1662): Estableció el reino y expulsó a las fuerzas neerlandesas, pero murió poco después de la conquista.
+**Zheng Chenggong (Koxinga)** [Amharic translation needed - original Taiwan context] (1661-1662): Estableció el reino y expulsó a las fuerzas neerlandesas, pero murió poco después de la conquista.
 
-**Zheng Jing** 鄭經 (1662-1681): Presidió la edad de oro del reino, expandiendo el territorio y fortaleciendo las instituciones. Intentó múltiples expediciones para retomar China.
+**Zheng Jing** [Amharic translation needed - original Taiwan context] (1662-1681): Presidió la edad de oro del reino, expandiendo el territorio y fortaleciendo las instituciones. Intentó múltiples expediciones para retomar China.
 
-**Zheng Keshuang** 鄭克塽 (1681-1683): Último gobernante, enfrentado a divisiones internas y superioridad naval Qing, finalmente se rindió a Shi Lang.
+**Zheng Keshuang** [Amharic translation needed - original Taiwan context] (1681-1683): Último gobernante, enfrentado a divisiones internas y superioridad naval Qing, finalmente se rindió a Shi Lang.
 
 ### Desarrollo Cultural y Educativo
 

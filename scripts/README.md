@@ -1,96 +1,96 @@
-# ⚙️ scripts/ — 腳本總覽
+# ⚙️ scripts/ — [Amharic translation needed - original Taiwan context]
 
-> AI agent 或開發者讀這一頁，就能找到所有可用腳本。
+> AI agent [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
 
 ---
 
-## 目錄結構
+## [Amharic translation needed - original Taiwan context]
 
 ```
 scripts/
-├── core/          Build pipeline（prebuild 必跑）
-├── tools/         日常操作工具
-├── utils/         偶爾使用的修復/維護工具
-└── deprecated/    已棄用
+├── core/          Build pipeline（prebuild [Amharic translation needed - original Taiwan context]）
+├── tools/         [Amharic translation needed - original Taiwan context]
+├── utils/         [Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]
+└── deprecated/    [Amharic translation needed - original Taiwan context]
 ```
 
 ---
 
-## 🔴 core/ — Build Pipeline（npm run build 自動觸發）
+## 🔴 core/ — Build Pipeline（npm run build [Amharic translation needed - original Taiwan context]）
 
-| 腳本                          | 語言 | 用途                                           |
+| [Amharic translation needed - original Taiwan context]                          | [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]                                           |
 | ----------------------------- | ---- | ---------------------------------------------- |
-| `sync.sh`                     | bash | 同步 knowledge/ → src/content/（SSOT 複製）    |
-| `generate-api.js`             | node | 產生 `public/api/*.json`（文章列表、搜尋索引） |
-| `generate-dashboard-data.js`  | node | 產生 Dashboard 4 支 JSON API                   |
-| `generate-map-markers.js`     | node | 產生地圖標記資料                               |
-| `generate-content-stats.js`\* | node | 被 generate-api 呼叫，統計各分類文章數         |
-| `build-search-index.mjs`      | node | 建構全文搜尋索引                               |
-| `post-build-check.mjs`        | node | Build 後煙霧測試（驗證頁面數量、分類健康）     |
-| `test-frontmatter.mjs`        | node | Pre-commit hook：驗證 frontmatter 格式         |
+| `sync.sh`                     | bash | [Amharic translation needed - original Taiwan context] knowledge/ → src/content/（SSOT [Amharic translation needed - original Taiwan context]）    |
+| `generate-api.js`             | node | [Amharic translation needed - original Taiwan context] `public/api/*.json`（[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]） |
+| `generate-dashboard-data.js`  | node | [Amharic translation needed - original Taiwan context] Dashboard 4 [Amharic translation needed - original Taiwan context] JSON API                   |
+| `generate-map-markers.js`     | node | [Amharic translation needed - original Taiwan context]                               |
+| `generate-content-stats.js`\* | node | [Amharic translation needed - original Taiwan context] generate-api [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]         |
+| `build-search-index.mjs`      | node | [Amharic translation needed - original Taiwan context]                               |
+| `post-build-check.mjs`        | node | Build [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]）     |
+| `test-frontmatter.mjs`        | node | Pre-commit hook：[Amharic translation needed - original Taiwan context] frontmatter [Amharic translation needed - original Taiwan context]         |
 
-**執行順序**：`sync.sh` → `generate-*.js` → Astro build → `post-build-check.mjs`
+**[Amharic translation needed - original Taiwan context]**：`sync.sh` → `generate-*.js` → Astro build → `post-build-check.mjs`
 
-## 🟡 tools/ — 日常操作
+## 🟡 tools/ — [Amharic translation needed - original Taiwan context]
 
-| 腳本                     | 語言 | 用途                                                             |
+| [Amharic translation needed - original Taiwan context]                     | [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]                                                             |
 | ------------------------ | ---- | ---------------------------------------------------------------- |
-| `quality-scan.sh`        | bash | **品質掃描 v3.0** — 14 維度偵測（空洞/塑膠/清單堆砌/品質衰退等） |
-| `review-pr.sh`           | bash | PR 自動初審（frontmatter + 品質 + 安全 4 層檢查）                |
-| `rewrite-pipeline.sh`    | bash | 文章改寫流程輔助（Stage 1-5 互動引導）                           |
-| `translate.sh`           | bash | 翻譯文章（呼叫 AI + 品質驗證）                                   |
-| `update-stats.sh`        | bash | 更新 README 統計數字（文章數/語言覆蓋等）                        |
-| `manage-featured.sh`     | bash | 管理 featured 文章標記                                           |
-| `assign-subcategory.cjs` | node | 批次指派子分類（讀 taxonomy → 寫 frontmatter）                   |
-| `check-freshness.js`     | node | 檢查文章新鮮度（lastVerified 過期預警）                          |
+| `quality-scan.sh`        | bash | **[Amharic translation needed - original Taiwan context] v3.0** — 14 [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]） |
+| `review-pr.sh`           | bash | PR [Amharic translation needed - original Taiwan context]（frontmatter + [Amharic translation needed - original Taiwan context] + [Amharic translation needed - original Taiwan context] 4 [Amharic translation needed - original Taiwan context]）                |
+| `rewrite-pipeline.sh`    | bash | [Amharic translation needed - original Taiwan context]（Stage 1-5 [Amharic translation needed - original Taiwan context]）                           |
+| `translate.sh`           | bash | [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] AI + [Amharic translation needed - original Taiwan context]）                                   |
+| `update-stats.sh`        | bash | [Amharic translation needed - original Taiwan context] README [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]）                        |
+| `manage-featured.sh`     | bash | [Amharic translation needed - original Taiwan context] featured [Amharic translation needed - original Taiwan context]                                           |
+| `assign-subcategory.cjs` | node | [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] taxonomy → [Amharic translation needed - original Taiwan context] frontmatter）                   |
+| `check-freshness.js`     | node | [Amharic translation needed - original Taiwan context]（lastVerified [Amharic translation needed - original Taiwan context]）                          |
 
-**常用指令**：
+**[Amharic translation needed - original Taiwan context]**：
 
 ```bash
-bash scripts/tools/quality-scan.sh                    # 全量掃描
-bash scripts/tools/quality-scan.sh knowledge/Art/X.md  # 單檔掃描
-bash scripts/tools/quality-scan.sh --sort --diff       # 排序 + 差分
-bash scripts/tools/review-pr.sh 123                    # 審核 PR #123
+bash scripts/tools/quality-scan.sh                    # [Amharic translation needed - original Taiwan context]
+bash scripts/tools/quality-scan.sh knowledge/Art/X.md  # [Amharic translation needed - original Taiwan context]
+bash scripts/tools/quality-scan.sh --sort --diff       # [Amharic translation needed - original Taiwan context] + [Amharic translation needed - original Taiwan context]
+bash scripts/tools/review-pr.sh 123                    # [Amharic translation needed - original Taiwan context] PR #123
 ```
 
-## 🟢 utils/ — 維護工具（偶爾使用）
+## 🟢 utils/ — [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
 
-| 腳本                             | 語言   | 用途                             |
+| [Amharic translation needed - original Taiwan context]                             | [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]                             |
 | -------------------------------- | ------ | -------------------------------- |
-| `check-links.sh`                 | bash   | 檢查所有內部連結是否有效         |
-| `check-references.mjs`           | node   | 驗證 wikilink 引用完整性         |
-| `check-translation-sync.sh`      | bash   | 檢查翻譯版本是否與中文 SSOT 同步 |
-| `check-images.mjs`               | node   | 掃描缺失/未使用的圖片            |
-| `fix-wikilinks.mjs`              | node   | 批次修復 wikilink 格式           |
-| `fix-wikilinks-v2.mjs`           | node   | 進階 wikilink 修復（含 rename）  |
-| `fix-all-frontmatter.py`         | python | 批次修復 frontmatter 格式問題    |
-| `cache-images.sh`                | bash   | 快取外部圖片到本地               |
-| `cache-images-v2.sh`             | bash   | 快取 v2（含 Wikimedia Commons）  |
-| `cache-and-replace.py`           | python | 快取圖片 + 替換 markdown 引用    |
-| `download-wiki-images.mjs`       | node   | 下載維基百科圖片                 |
-| `replace-wiki-urls.py`           | python | 替換維基百科 URL 為本地路徑      |
-| `replace-wiki-urls.sh`           | bash   | Shell 版維基 URL 替換            |
-| `i18n-status.py`                 | python | 各語言翻譯覆蓋率統計             |
-| `translation-sync-report.sh`     | bash   | 翻譯同步報告                     |
-| `generate-translation-issues.sh` | bash   | 生成翻譯缺失的 GitHub issues     |
-| `publish.sh`                     | bash   | 部署輔助                         |
-| `test-wikilinks.mjs`             | node   | Wikilink 渲染測試                |
+| `check-links.sh`                 | bash   | [Amharic translation needed - original Taiwan context]         |
+| `check-references.mjs`           | node   | [Amharic translation needed - original Taiwan context] wikilink [Amharic translation needed - original Taiwan context]         |
+| `check-translation-sync.sh`      | bash   | [Amharic translation needed - original Taiwan context] SSOT [Amharic translation needed - original Taiwan context] |
+| `check-images.mjs`               | node   | [Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]            |
+| `fix-wikilinks.mjs`              | node   | [Amharic translation needed - original Taiwan context] wikilink [Amharic translation needed - original Taiwan context]           |
+| `fix-wikilinks-v2.mjs`           | node   | [Amharic translation needed - original Taiwan context] wikilink [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] rename）  |
+| `fix-all-frontmatter.py`         | python | [Amharic translation needed - original Taiwan context] frontmatter [Amharic translation needed - original Taiwan context]    |
+| `cache-images.sh`                | bash   | [Amharic translation needed - original Taiwan context]               |
+| `cache-images-v2.sh`             | bash   | [Amharic translation needed - original Taiwan context] v2（[Amharic translation needed - original Taiwan context] Wikimedia Commons）  |
+| `cache-and-replace.py`           | python | [Amharic translation needed - original Taiwan context] + [Amharic translation needed - original Taiwan context] markdown [Amharic translation needed - original Taiwan context]    |
+| `download-wiki-images.mjs`       | node   | [Amharic translation needed - original Taiwan context]                 |
+| `replace-wiki-urls.py`           | python | [Amharic translation needed - original Taiwan context] URL [Amharic translation needed - original Taiwan context]      |
+| `replace-wiki-urls.sh`           | bash   | Shell [Amharic translation needed - original Taiwan context] URL [Amharic translation needed - original Taiwan context]            |
+| `i18n-status.py`                 | python | [Amharic translation needed - original Taiwan context]             |
+| `translation-sync-report.sh`     | bash   | [Amharic translation needed - original Taiwan context]                     |
+| `generate-translation-issues.sh` | bash   | [Amharic translation needed - original Taiwan context] GitHub issues     |
+| `publish.sh`                     | bash   | [Amharic translation needed - original Taiwan context]                         |
+| `test-wikilinks.mjs`             | node   | Wikilink [Amharic translation needed - original Taiwan context]                |
 
-## ⚫ deprecated/ — 已棄用
+## ⚫ deprecated/ — [Amharic translation needed - original Taiwan context]
 
-| 腳本                     | 原因                         |
+| [Amharic translation needed - original Taiwan context]                     | [Amharic translation needed - original Taiwan context]                         |
 | ------------------------ | ---------------------------- |
-| `fix-all-frontmatter.py` | 被 test-frontmatter.mjs 取代 |
-| `fix-hub-frontmatter.sh` | 一次性修復，已完成           |
-| `quick-fix-hubs.py`      | 同上                         |
-| `sync-knowledge.sh`      | 被 core/sync.sh 取代         |
+| `fix-all-frontmatter.py` | [Amharic translation needed - original Taiwan context] test-frontmatter.mjs [Amharic translation needed - original Taiwan context] |
+| `fix-hub-frontmatter.sh` | [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]           |
+| `quick-fix-hubs.py`      | [Amharic translation needed - original Taiwan context]                         |
+| `sync-knowledge.sh`      | [Amharic translation needed - original Taiwan context] core/sync.sh [Amharic translation needed - original Taiwan context]         |
 
-## 📄 根目錄檔案
+## 📄 [Amharic translation needed - original Taiwan context]
 
-| 文件                | 用途                          |
+| [Amharic translation needed - original Taiwan context]                | [Amharic translation needed - original Taiwan context]                          |
 | ------------------- | ----------------------------- |
-| `i18n-mapping.json` | 檔名→語言映射表（翻譯系統用） |
+| `i18n-mapping.json` | [Amharic translation needed - original Taiwan context]→[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]） |
 
 ---
 
-_最後更新：2026-03-28_
+_[Amharic translation needed - original Taiwan context]：2026-03-28_

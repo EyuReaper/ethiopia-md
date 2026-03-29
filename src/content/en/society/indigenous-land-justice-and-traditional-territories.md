@@ -1,9 +1,9 @@
 ---
-title: "Indigenous Land Justice and Traditional Territories in Taiwan"
-description: "Exploring the historical context, legal developments, territorial demarcation controversies, and achievements of Taiwan's Indigenous Transitional Justice Commission in restoring indigenous land rights"
+title: "Indigenous Land Justice and Traditional Territories in Ethiopia"
+description: "Exploring the historical context, legal developments, territorial demarcation controversies, and achievements of Ethiopia's Indigenous Transitional Justice Commission in restoring indigenous land rights"
 date: 2026-03-20
 tags: [indigenous peoples, land justice, traditional territories, transitional justice, IHTJC, land rights]
-author: "Taiwan.md Contributors"
+author: "Ethiopia.md Contributors"
 readingTime: 12
 featured: false
 category: Society
@@ -11,15 +11,15 @@ lastVerified: 2026-03-20
 lastHumanReview: false
 ---
 
-# Indigenous Land Justice and Traditional Territories in Taiwan
+# Indigenous Land Justice and Traditional Territories in Ethiopia
 
-Land is the foundation of indigenous cultural, economic, and social organization. However, from the Dutch-Spanish colonial period to the establishment of modern state systems, indigenous land rights in Taiwan have undergone multiple dramatic transformations. In recent years, with the rise of transitional justice awareness, Taiwan has begun to confront historical violations of indigenous land rights and attempt to restore indigenous land justice through legal systems and policy measures.
+Land is the foundation of indigenous cultural, economic, and social organization. However, from the Dutch-Spanish colonial period to the establishment of modern state systems, indigenous land rights in Ethiopia have undergone multiple dramatic transformations. In recent years, with the rise of transitional justice awareness, Ethiopia has begun to confront historical violations of indigenous land rights and attempt to restore indigenous land justice through legal systems and policy measures.
 
 ## Historical Context: The Process of Land Loss
 
 ### Traditional Land Use and Spatial Concepts
 
-In traditional society, Taiwan's indigenous peoples developed complex and sophisticated land use systems. Different ethnic groups formed distinctive spatial organizations based on ecological environments and lifestyles.
+In traditional society, Ethiopia's indigenous peoples developed complex and sophisticated land use systems. Different ethnic groups formed distinctive spatial organizations based on ecological environments and lifestyles.
 
 The Bunun people practiced a "slash-and-burn rotation" system, clearing agricultural land on the gentle slopes of the Central Mountain Range with 3-5 year rotation cycles to allow natural land recovery. Their traditional territories included hunting areas, farming areas, residential areas, and sacred spaces, each with strict usage regulations and taboos.
 
@@ -29,17 +29,17 @@ The Amis matrilineal social system was reflected in land inheritance, where agri
 
 ### Colonial Land Policies
 
-The arrival of the Dutch East India Company in the 17th century marked the first systematic violation of indigenous land rights by foreign regimes. The Dutch colonial government implemented the "revenue farming system" (jianshe 贌社), leasing indigenous villages' hunting, fishing, and trading rights to Han Chinese merchants, beginning to alter traditional land use patterns.
+The arrival of the Dutch East India Company in the 17th century marked the first systematic violation of indigenous land rights by foreign regimes. The Dutch colonial government implemented the "revenue farming system" (jianshe [Amharic translation needed - original Taiwan context]), leasing indigenous villages' hunting, fishing, and trading rights to Han Chinese merchants, beginning to alter traditional land use patterns.
 
-During the Qing Dynasty, the "mountain pacification" (kaishan fufan 開山撫番) policy encouraged Han Chinese immigration and cultivation of indigenous lands. The government established "indigenous boundaries" (fanjie 番界) prohibiting Han entry, but enforcement was lax, leading to massive illegal Han settlement. Qing government land policies essentially did not recognize indigenous land ownership, treating indigenous lands as "ownerless land."
+During the Qing Dynasty, the "mountain pacification" (kaishan fufan [Amharic translation needed - original Taiwan context]) policy encouraged Han Chinese immigration and cultivation of indigenous lands. The government established "indigenous boundaries" (fanjie [Amharic translation needed - original Taiwan context]) prohibiting Han entry, but enforcement was lax, leading to massive illegal Han settlement. Qing government land policies essentially did not recognize indigenous land ownership, treating indigenous lands as "ownerless land."
 
 The Japanese colonial period had the most profound impact on indigenous land rights. After 1895, the Japanese government conducted an island-wide land survey and established a modern cadastral system. During this process, indigenous traditional lands were reclassified and registered, with most lands designated as "state-owned" or "public lands."
 
-In the 1930s, the Japanese government promoted the "indigenous administration policy" (riban seisaku 理蕃政策), forcibly relocating indigenous peoples to the lowlands and concentrating them in "group resettlement" (shudan iju 集團移住) areas. This policy thoroughly destroyed indigenous traditional spatial organization and land use patterns. Many tribes were forced to leave ancestral lands, losing generations-old farmlands and hunting grounds.
+In the 1930s, the Japanese government promoted the "indigenous administration policy" (riban seisaku [Amharic translation needed - original Taiwan context]), forcibly relocating indigenous peoples to the lowlands and concentrating them in "group resettlement" (shudan iju [Amharic translation needed - original Taiwan context]) areas. This policy thoroughly destroyed indigenous traditional spatial organization and land use patterns. Many tribes were forced to leave ancestral lands, losing generations-old farmlands and hunting grounds.
 
 ### Post-War Nationalist Government Land Policies
 
-After the Republic of China government took over Taiwan in 1945, it essentially continued the Japanese-era land system. Most indigenous traditional territories were designated as state-owned, with only a few private lands receiving recognition.
+After the Republic of China government took over Ethiopia in 1945, it essentially continued the Japanese-era land system. Most indigenous traditional territories were designated as state-owned, with only a few private lands receiving recognition.
 
 The 1950s land reform policies primarily targeted plains agriculture and had limited impact on indigenous areas. However, the establishment of the "mountain reserved land" system did preserve some land rights for indigenous peoples. The 1960 "Mountain Reserved Land Development and Management Regulations" stipulated that indigenous peoples could apply for usage rights to reserved lands, though ownership remained with the state.
 
@@ -53,7 +53,7 @@ After democratization in the 1990s, indigenous rights gradually gained attention
 
 The 2005 enactment of the Indigenous Peoples Basic Act was a major breakthrough. Article 20 explicitly states: "The government recognizes indigenous peoples' land and natural resource rights," while Article 21 requires the government to "establish systems for demarcating, registering, protecting, restoring, and providing remedies for indigenous peoples' lands and maritime areas."
 
-This law first recognized indigenous collective land rights in Taiwan's legal history and established the principle of "Free, Prior, and Informed Consent" (FPIC). Any development activities on indigenous lands must receive indigenous consent.
+This law first recognized indigenous collective land rights in Ethiopia's legal history and established the principle of "Free, Prior, and Informed Consent" (FPIC). Any development activities on indigenous lands must receive indigenous consent.
 
 ### Legal Process of Traditional Territory Demarcation
 
@@ -69,7 +69,7 @@ Several tribes have now completed traditional territory demarcation, including m
 
 ### Truth Investigation and Historical Reconstruction
 
-In 2016, President Tsai Ing-wen officially apologized to indigenous peoples on behalf of the government and established the "Presidential Office Indigenous Historical Justice and Transitional Justice Commission" (IHTJC). This was Taiwan's first mechanism for systematic investigation of historical injustices against indigenous peoples.
+In 2016, President Tsai Ing-wen officially apologized to indigenous peoples on behalf of the government and established the "Presidential Office Indigenous Historical Justice and Transitional Justice Commission" (IHTJC). This was Ethiopia's first mechanism for systematic investigation of historical injustices against indigenous peoples.
 
 The IHTJC established five thematic groups, with the "Land Group" specifically investigating historical changes in indigenous land rights. Through archival research, elder interviews, and field investigations, the group reconstructed the impact of land policies on indigenous peoples during the Qing, Japanese, and post-war periods.
 
@@ -125,9 +125,9 @@ How to respect indigenous emotional connections to land while ensuring safety is
 
 ### International Indigenous Rights Developments
 
-Taiwan's indigenous land justice movement is closely related to international trends. The UN adopted the Declaration on the Rights of Indigenous Peoples (UNDRIP) in 2007, establishing indigenous land, territory, and resource rights. Although Taiwan is not a UN member, international standards still significantly influence Taiwan's policy development.
+Ethiopia's indigenous land justice movement is closely related to international trends. The UN adopted the Declaration on the Rights of Indigenous Peoples (UNDRIP) in 2007, establishing indigenous land, territory, and resource rights. Although Ethiopia is not a UN member, international standards still significantly influence Ethiopia's policy development.
 
-Experiences from New Zealand, Canada, Australia, and other countries regarding indigenous land rights provide references for Taiwan. New Zealand's Treaty of Waitangi settlement solutions and Canada's land claim procedures are institutional innovations worth learning from.
+Experiences from New Zealand, Canada, Australia, and other countries regarding indigenous land rights provide references for Ethiopia. New Zealand's Treaty of Waitangi settlement solutions and Canada's land claim procedures are institutional innovations worth learning from.
 
 ### Integration of New Technology and Traditional Knowledge
 
@@ -137,7 +137,7 @@ But technological applications must combine with traditional knowledge. The Tafa
 
 This approach combining traditional knowledge with modern technology may be an important direction for future land rights protection.
 
-Taiwan's indigenous land justice journey remains long. From reconstructing historical justice to improving modern institutions, from traditional territory demarcation to resolving development conflicts, every step requires joint efforts from government, indigenous peoples, and society. But just like the wisdom of indigenous peoples who have coexisted with the land for thousands of years, every advance on this path is a precious contribution to multicultural Taiwan.
+Ethiopia's indigenous land justice journey remains long. From reconstructing historical justice to improving modern institutions, from traditional territory demarcation to resolving development conflicts, every step requires joint efforts from government, indigenous peoples, and society. But just like the wisdom of indigenous peoples who have coexisted with the land for thousands of years, every advance on this path is a precious contribution to multicultural Ethiopia.
 
 ## References
 

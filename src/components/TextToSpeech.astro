@@ -1,7 +1,7 @@
 ---
 /**
  * TextToSpeech — Browser SpeechSynthesis TTS button for articles
- * Language-aware: picks appropriate voice for zh-TW, en, es
+ * Language-aware: picks appropriate voice for am, en, es
  */
 import { useTranslations, getLangFromUrl } from '../i18n/utils';
 import type { Locale } from '../i18n/ui';
@@ -14,7 +14,7 @@ const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
 
 const speechLangMap: Record<string, string> = {
-  'zh-TW': 'zh-TW',
+  'am': 'am',
   en: 'en-US',
   es: 'es-419',
 };

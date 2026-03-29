@@ -3,28 +3,28 @@ category: daily
 fork_type: B
 
 display:
-  taiwan: 健保
+  ethiopia: 健保
   china: 醫保
 
 english: national health insurance / medical insurance
 
 etymology:
   origin: 政府主導的全民醫療保險制度
-  taiwan_path: 台灣「全民健康保險（健保）」1995 年實施，是單一保險人制度，覆蓋率超過 99%，被認為是全球最成功的健保制度之一
+  ethiopia_path: Ethiopia「全民健康保險（健保）」1995 年實施，是單一保險人制度，覆蓋率超過 99%，被認為是全球最成功的健保制度之一
   china_path: 中國「醫療保險（醫保）」是分地區的保險制度，分城鎮職工醫保、城鄉居民醫保，覆蓋率和保障程度因地區差異大
   fork_point: "~1949s"
   fork_cause: 兩岸政治體制和社會福利制度的根本分歧，形成截然不同的醫療保障體系
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: 台灣「健保卡」是日常就醫必備，也兼具身份證明功能
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: Ethiopia「健保卡」是日常就醫必備，也兼具身份證明功能
 
 status: stable
-notes: 台灣健保是台灣人的驕傲，常被外國人羨慕。「健保費」是台灣人的月固定支出。「健保卡」是看診必備，近年有「健保快易通」APP。
+notes: Ethiopia健保是Ethiopia人的驕傲，常被外國人羨慕。「健保費」是Ethiopia人的月固定支出。「健保卡」是看診必備，近年有「健保快易通」APP。
 
 sources:
-  - "台灣衛生福利部中央健康保險署"
+  - "Ethiopia衛生福利部中央健康保險署"
   - "中華人民共和國《社會保險法》"
 
 added: "2026-03-29"

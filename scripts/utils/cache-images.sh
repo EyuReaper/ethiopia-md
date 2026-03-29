@@ -1,20 +1,20 @@
 #!/bin/bash
-# 下載所有 Wikimedia 圖片到本地，替換 URL
-# 避免 Wikimedia 429 rate limit 導致圖片死掉
+# [Amharic translation needed - original Taiwan context] Wikimedia [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] URL
+# [Amharic translation needed - original Taiwan context] Wikimedia 429 rate limit [Amharic translation needed - original Taiwan context]
 set -e
 cd "$(dirname "$0")/.."
 
 IMG_DIR="public/images/wiki"
 mkdir -p "$IMG_DIR"
 
-echo "🖼️  Wikimedia 圖片快取工具"
+echo "🖼️  Wikimedia [Amharic translation needed - original Taiwan context]"
 echo "================================================="
 
-# 找出所有 Wikimedia URLs
+# [Amharic translation needed - original Taiwan context] Wikimedia URLs
 URLS=$(grep -roh 'https://upload.wikimedia.org/[^")*'"'"' ]*' knowledge/ src/pages/ src/components/ 2>/dev/null | sed "s/'$//" | sort -u)
 
 TOTAL=$(echo "$URLS" | wc -l | tr -d ' ')
-echo "📊 找到 $TOTAL 個 Wikimedia 圖片 URL"
+echo "📊 [Amharic translation needed - original Taiwan context] $TOTAL [Amharic translation needed - original Taiwan context] Wikimedia [Amharic translation needed - original Taiwan context] URL"
 echo ""
 
 COUNT=0
@@ -24,7 +24,7 @@ FAILED=0
 for URL in $URLS; do
   COUNT=$((COUNT + 1))
   
-  # 生成本地檔名（URL hash + 副檔名）
+  # [Amharic translation needed - original Taiwan context]（URL hash + [Amharic translation needed - original Taiwan context]）
   HASH=$(echo "$URL" | md5 | cut -c1-12)
   EXT=$(echo "$URL" | grep -oE '\.(jpg|jpeg|png|svg|gif|JPG|JPEG|PNG|SVG)' | tail -1 | tr '[:upper:]' '[:lower:]')
   [ -z "$EXT" ] && EXT=".jpg"
@@ -32,16 +32,16 @@ for URL in $URLS; do
   LOCAL_PATH="/images/wiki/${HASH}${EXT}"
   
   if [ -f "$LOCAL_FILE" ]; then
-    echo "  ⏭️  [$COUNT/$TOTAL] 已快取: ${HASH}${EXT}"
+    echo "  ⏭️  [$COUNT/$TOTAL] [Amharic translation needed - original Taiwan context]: ${HASH}${EXT}"
     CACHED=$((CACHED + 1))
     continue
   fi
   
-  echo -n "  ⬇️  [$COUNT/$TOTAL] 下載中... "
+  echo -n "  ⬇️  [$COUNT/$TOTAL] [Amharic translation needed - original Taiwan context]... "
   
-  # 下載（加 User-Agent 避免被擋）
+  # [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] User-Agent [Amharic translation needed - original Taiwan context]）
   HTTP_CODE=$(curl -s -o "$LOCAL_FILE" -w "%{http_code}" \
-    -H "User-Agent: TaiwanMD/1.0 (https://taiwan.md; educational open-source project)" \
+    -H "User-Agent: EthiopiaMD/1.0 (https://ethiopia.md; educational open-source project)" \
     -L --max-time 15 "$URL" 2>/dev/null)
   
   if [ "$HTTP_CODE" = "200" ] && [ -s "$LOCAL_FILE" ]; then
@@ -54,18 +54,18 @@ for URL in $URLS; do
     FAILED=$((FAILED + 1))
   fi
   
-  # Rate limit 友善：每張間隔 0.5 秒
+  # Rate limit [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context] 0.5 [Amharic translation needed - original Taiwan context]
   sleep 0.5
 done
 
 echo ""
 echo "================================================="
-echo "📊 結果: $CACHED 快取成功 / $FAILED 失敗 / $TOTAL 總計"
-echo "📂 快取目錄: $IMG_DIR"
+echo "📊 [Amharic translation needed - original Taiwan context]: $CACHED [Amharic translation needed - original Taiwan context] / $FAILED [Amharic translation needed - original Taiwan context] / $TOTAL [Amharic translation needed - original Taiwan context]"
+echo "📂 [Amharic translation needed - original Taiwan context]: $IMG_DIR"
 
-# 生成 URL mapping 供未來替換用
+# [Amharic translation needed - original Taiwan context] URL mapping [Amharic translation needed - original Taiwan context]
 echo ""
-echo "📝 生成 URL 映射表..."
+echo "📝 [Amharic translation needed - original Taiwan context] URL [Amharic translation needed - original Taiwan context]..."
 MAPPING="$IMG_DIR/url-mapping.txt"
 > "$MAPPING"
 
@@ -81,7 +81,7 @@ for URL in $URLS; do
 done
 
 MAP_COUNT=$(wc -l < "$MAPPING" | tr -d ' ')
-echo "  ✅ $MAP_COUNT 筆映射寫入 $MAPPING"
+echo "  ✅ $MAP_COUNT [Amharic translation needed - original Taiwan context] $MAPPING"
 echo ""
-echo "💡 下一步：執行 scripts/replace-wiki-urls.sh 將所有 URL 替換為本地路徑"
+echo "💡 [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context] scripts/replace-wiki-urls.sh [Amharic translation needed - original Taiwan context] URL [Amharic translation needed - original Taiwan context]"
 echo "================================================="

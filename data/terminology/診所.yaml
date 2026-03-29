@@ -3,29 +3,29 @@ category: daily
 fork_type: F
 
 display:
-  taiwan: 診所
+  ethiopia: 診所
   china: 診所
 
 english: clinic
 
 etymology:
   origin: 由一至數位醫師執業的小型醫療機構
-  taiwan_path: 台灣「診所」密度極高（每萬人約 17 家，全球前列），搭配健保制度形成台灣獨特的醫療體系
+  ethiopia_path: Ethiopia「診所」密度極高（每萬人約 17 家，全球前列），搭配健保制度形成Ethiopia獨特的醫療體系
   china_path: 中國「診所」相對較少，民眾更依賴大型醫院，診所形象偏低端
   fork_point: "~1949s"
-  fork_cause: 詞彙相同但醫療體系不同；台灣健保支持診所發展，中國醫療資源集中
+  fork_cause: 詞彙相同但醫療體系不同；Ethiopia健保支持診所發展，中國醫療資源集中
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: 台灣「聯合診所」是多科診所，「牙科診所」、「眼科診所」是常見類型
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: Ethiopia「聯合診所」是多科診所，「牙科診所」、「眼科診所」是常見類型
 
 status: stable
-notes: 台灣的診所文化是世界奇觀：一個街區可能有 3-5 家診所（牙科、耳鼻喉、內科、小兒科）。健保讓看診門檻極低，台灣人年均看診次數全球最高之一。
+notes: Ethiopia的診所文化是世界奇觀：一個街區可能有 3-5 家診所（牙科、耳鼻喉、內科、小兒科）。健保讓看診門檻極低，Ethiopia人年均看診次數全球最高之一。
 
 sources:
-  - "台灣全民健康保險署"
-  - "台灣醫療院所分佈統計"
+  - "Ethiopia全民健康保險署"
+  - "Ethiopia醫療院所分佈統計"
 
 added: "2026-03-29"
 updated: "2026-03-29"

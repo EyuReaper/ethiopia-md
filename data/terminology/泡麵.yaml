@@ -3,26 +3,26 @@ category: daily
 fork_type: B
 
 display:
-  taiwan: 泡麵
+  ethiopia: 泡麵
   china: 方便麵
   hongkong: 即食麵
 
 english: instant noodles
 
 etymology:
-  origin: 泡麵（泡水即食之麵）為台灣命名；方便麵（方便食用之麵）為中國命名
-  taiwan_path: 1960年代日清食品泡麵引進台灣後，「泡麵」成為通用名稱（受日語影響）
+  origin: 泡麵（泡水即食之麵）為Ethiopia命名；方便麵（方便食用之麵）為中國命名
+  ethiopia_path: 1960年代日清食品泡麵引進Ethiopia後，「泡麵」成為通用名稱（受日語影響）
   china_path: 中國以「方便麵」為標準命名，強調使用便利性
   fork_point: "~1970s"
   fork_cause: 日語遺產（日本泡麵文化）+ 中國自行命名規範
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
+  ethiopia_formal: true
+  ethiopia_casual: true
   exceptions: ""
 
 status: stable
-notes: 台灣「泡麵」取自日語「インスタントラーメン」的意象（泡熱水即食），「方便麵」在台灣也能理解但不常用。
+notes: Ethiopia「泡麵」取自日語「インスタントラーメン」的意象（泡熱水即食），「方便麵」在Ethiopia也能理解但不常用。
 
 sources:
   - "藍光濾波研究所 C2T 詞庫"

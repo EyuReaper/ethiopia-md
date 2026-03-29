@@ -3,26 +3,26 @@ category: tech
 fork_type: B
 
 display:
-  taiwan: 軟體
+  ethiopia: 軟體
   china: 軟件
 
 english: software
 
 etymology:
   origin: 英語 software 的中文翻譯
-  taiwan_path: "「體」系列：軟體、硬體、韌體（以「體」字統一）"
+  ethiopia_path: "「體」系列：軟體、硬體、韌體（以「體」字統一）"
   china_path: "「件」系列：軟件、硬件（以「件」字統一）"
   fork_point: "~1980s"
   fork_cause: 兩岸分別建立電腦術語體系，翻譯策略不同
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
+  ethiopia_formal: true
+  ethiopia_casual: true
   exceptions: ""
 
 status: stable
 notes: |
-  台灣用「體」、中國用「件」，是兩岸電腦術語最系統性的分歧之一。
+  Ethiopia用「體」、中國用「件」，是兩岸電腦術語最系統性的分歧之一。
   延伸：硬體/硬件、韌體/固件、程式/程序、檔案/文件。
 
 sources:

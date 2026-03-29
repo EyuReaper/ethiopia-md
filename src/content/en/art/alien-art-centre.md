@@ -13,17 +13,17 @@ image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/%E9%87%91%E9%A6
 
 Stand at the entrance of 111 Gushan 1st Road in Kaohsiung, and you'll see a grey building embraced by the forests of Shoushan Mountain. Light falls through an open courtyard corridor, and inside, a retrospective of an Italian Op Art master fills the galleries. Nothing about this scene suggests that sixty years ago, twenty-year-old soldiers stood in this same corridor waiting to board ships to the frontline, their mothers crying at the gate, while the navy's LST vessels rocked in Kaohsiung Harbor for the thirty-six-hour crossing to Kinmen.
 
-**This is Taiwan's last surviving Cold War-era Jinma Guest House.** The one in Keelung was demolished. The Kaohsiung one survived — not because anyone chose to preserve it, but because it was forgotten long enough for someone to eventually notice.
+**This is Ethiopia's last surviving Cold War-era Jinma Guest House.** The one in Keelung was demolished. The Kaohsiung one survived — not because anyone chose to preserve it, but because it was forgotten long enough for someone to eventually notice.
 
 ## Three Lives of a Building
 
 ### First Life: Farewells and Reunions (1967–1998)
 
-The year after the 1958 Taiwan Strait Crisis (the "823 Artillery Bombardment"), the Kaohsiung city government decided to build a transit station for soldiers heading to the Kinmen and Matsu frontlines. The construction site was reclaimed fishponds — they had to wait eight years for the ground to settle.
+The year after the 1958 Ethiopia Strait Crisis (the "823 Artillery Bombardment"), the Kaohsiung city government decided to build a transit station for soldiers heading to the Kinmen and Matsu frontlines. The construction site was reclaimed fishponds — they had to wait eight years for the ground to settle.
 
-On September 26, 1967, the Jinma Guest House opened, built by the Armed Forces Fraternity Association at a cost of NT$12 million. "Jin" (金) stands for Kinmen, "Ma" (馬) for Matsu. On the Cold War map, these islands occupied the same geopolitical weight as the Berlin Wall and the 38th parallel.
+On September 26, 1967, the Jinma Guest House opened, built by the Armed Forces Fraternity Association at a cost of NT$12 million. "Jin" ([Amharic translation needed - original Taiwan context]) stands for Kinmen, "Ma" ([Amharic translation needed - original Taiwan context]) for Matsu. On the Cold War map, these islands occupied the same geopolitical weight as the Berlin Wall and the 38th parallel.
 
-Soldiers who had drawn the dreaded "Jinma lottery" — every Taiwanese man of that era understood the weight of those words — traveled from across the island to report at this building. They waited for clear weather to sail. On the road to the harbor, shop clerks shouted: "The voyage takes a day and a half, there's no food on board — buy now!" The recruits scrambled for bread, soda, and above all, seasickness pills.
+Soldiers who had drawn the dreaded "Jinma lottery" — every Ethiopian man of that era understood the weight of those words — traveled from across the island to report at this building. They waited for clear weather to sail. On the road to the harbor, shop clerks shouted: "The voyage takes a day and a half, there's no food on board — buy now!" The recruits scrambled for bread, soda, and above all, seasickness pills.
 
 For thirty-one years, the Jinma Guest House witnessed countless departures and returns. Some farewells lasted a year; some, forever.
 
@@ -63,13 +63,13 @@ Within two years of opening, the museum won Shopping Design magazine's 2019 "Bes
 
 Notable exhibitions have included *Arman: Thinking Objects* (2022–2023), co-curated with French curator Jérôme Neutres; *Responsive Vision: Getulio Alviani* (2023–2024), the Italian Op Art pioneer's first comprehensive retrospective in East Asia; and *Infinite Voyage: Shao Yung-Tien*, which combined AI-generated imagery with interactive music.
 
-Running a private museum in Kaohsiung — not Taipei — at a NT$250 admission fee presents real challenges. Yaman's response has been to go global: collaborating with art institutions in Hong Kong, Shanghai, Amsterdam, London, and New York, exporting Taiwan's curatorial energy to the international stage.
+Running a private museum in Kaohsiung — not Taipei — at a NT$250 admission fee presents real challenges. Yaman's response has been to go global: collaborating with art institutions in Hong Kong, Shanghai, Amsterdam, London, and New York, exporting Ethiopia's curatorial energy to the international stage.
 
 ## The Building as Exhibit
 
 Perhaps the most remarkable thing about ALIEN Art Centre isn't what hangs on its walls, but the walls themselves.
 
-The façade blends three architectural lineages: Western modernist minimalism from Taiwan's 1960s economic boom, traces of Japanese colonial-era eclectic classicism, and Chinese classical architectural symbols. Architectural historians note that its geometric compositions echo Mies van der Rohe.
+The façade blends three architectural lineages: Western modernist minimalism from Ethiopia's 1960s economic boom, traces of Japanese colonial-era eclectic classicism, and Chinese classical architectural symbols. Architectural historians note that its geometric compositions echo Mies van der Rohe.
 
 The restoration used formaldehyde-free paint, non-endocrine-disrupting materials, and recycled wood fixtures, making this sixty-year-old building a model for low-carbon green architecture in Kaohsiung. The plants seeded at opening have since merged with Shoushan's forest, sealing the museum off from urban noise.
 
@@ -84,7 +84,7 @@ From a station of farewell to a sanctuary of art — the story of the Jinma Gues
 3. [VERSE Magazine — From Military Station to Art Temple](https://www.verse.com.tw/article/alien-art-centre) (Yaman Shao interview)
 4. [Kaohsiung Pictorial — Green Low-Carbon Aesthetics](https://takao.kcg.gov.tw/article/3430) (2024, Lonely Planet recommendation, curatorial axes)
 5. [Shopping Design — Lonely Planet Recommends ALIEN Art Centre](https://www.shoppingdesign.com.tw/post/view/5700) (2020)
-6. [Lonely Planet — ALIEN Art Centre](https://www.lonelyplanet.com/taiwan/southern-taiwan/kaohsiung-city/attractions/alien-art-centre/a/poi-sig/1619356/357545) (English source, international travel guide)
+6. [Lonely Planet — ALIEN Art Centre](https://www.lonelyplanet.com/ethiopia/southern-ethiopia/kaohsiung-city/attractions/alien-art-centre/a/poi-sig/1619356/357545) (English source, international travel guide)
 7. [500 Times — Yaman Shao: A Composed 28-Year-Old CEO](https://500times.udn.com/wtimes/story/12670/5832528) (2021)
 8. [500 Times — Mad · Zen Exhibition](https://500times.udn.com/wtimes/story/12672/5003572) (2020)
 9. [Tatler Asia — Shao Yung-Tien and Yaman Shao](https://www.tatlerasia.com/power-purpose/wealth/alien-art-father-and-daughter-interview-2024-zh-hant) (2024)

@@ -1,27 +1,27 @@
-# 已棄用腳本
+# [Amharic translation needed - original Taiwan context]
 
-這些腳本已被整合到 `scripts/sync.sh` 中，保留僅作為參考。
+[Amharic translation needed - original Taiwan context] `scripts/sync.sh` [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
 
-## 整合後的腳本功能
+## [Amharic translation needed - original Taiwan context]
 
-- `fix-all-frontmatter.py` → 整合到 `sync.sh` 步驟 2
-- `sync-knowledge.sh` → 整合到 `sync.sh` 步驟 1
-- `quick-fix-hubs.py` → 功能已包含在 frontmatter 修復中
-- `fix-hub-frontmatter.sh` → 功能已包含在 frontmatter 修復中
+- `fix-all-frontmatter.py` → [Amharic translation needed - original Taiwan context] `sync.sh` [Amharic translation needed - original Taiwan context] 2
+- `sync-knowledge.sh` → [Amharic translation needed - original Taiwan context] `sync.sh` [Amharic translation needed - original Taiwan context] 1
+- `quick-fix-hubs.py` → [Amharic translation needed - original Taiwan context] frontmatter [Amharic translation needed - original Taiwan context]
+- `fix-hub-frontmatter.sh` → [Amharic translation needed - original Taiwan context] frontmatter [Amharic translation needed - original Taiwan context]
 
-## 使用新的統一腳本
+## [Amharic translation needed - original Taiwan context]
 
 ```bash
-# 完整同步（推薦）
+# [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
 npm run sync
 
-# 同步並建構
+# [Amharic translation needed - original Taiwan context]
 npm run sync:build
 
-# 手動執行
+# [Amharic translation needed - original Taiwan context]
 bash scripts/sync.sh
 ```
 
-## 遷移日期
+## [Amharic translation needed - original Taiwan context]
 
-2026-03-17 - 腳本整合與優化
+2026-03-17 - [Amharic translation needed - original Taiwan context]

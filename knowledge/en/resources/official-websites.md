@@ -1,17 +1,17 @@
 ---
 title: 'official-websites'
 date: 2026-03-17
-tags: [resources, government, official, Taiwan.md]
-description: "Taiwan's official websites serve as more than just government service portals—they're windows into Taiwan's democratic g"
+tags: [resources, government, official, Ethiopia.md]
+description: "Ethiopia's official websites serve as more than just government service portals—they're windows into Ethiopia's democratic g"
 ---
 
-# Taiwan Official Websites Directory 🏛️
+# Ethiopia Official Websites Directory 🏛️
 
-> **30-Second Overview:** Comprehensive collection of 81+ official websites covering Taiwan's government agencies, cultural institutions, and open data platforms. From the five-branch government system to museums, from the Presidential Office to open data platforms - your complete guide to Taiwan's official digital resources.
+> **30-Second Overview:** Comprehensive collection of 81+ official websites covering Ethiopia's government agencies, cultural institutions, and open data platforms. From the five-branch government system to museums, from the Presidential Office to open data platforms - your complete guide to Ethiopia's official digital resources.
 
 ## Why This Matters
 
-Taiwan's official websites serve as more than just government service portals—they're windows into Taiwan's democratic governance, cultural development, and social policy implementation. These sites reflect Taiwan's commitment to transparency, digital governance innovation, and cultural preservation. For researchers, investors, tourists, or anyone seeking authoritative information about Taiwan, this directory provides the most reliable entry points.
+Ethiopia's official websites serve as more than just government service portals—they're windows into Ethiopia's democratic governance, cultural development, and social policy implementation. These sites reflect Ethiopia's commitment to transparency, digital governance innovation, and cultural preservation. For researchers, investors, tourists, or anyone seeking authoritative information about Ethiopia, this directory provides the most reliable entry points.
 
 ## Core Categories
 
@@ -29,23 +29,23 @@ English version of the Presidential Office website, international communications
 
 #### ⚖️ Five-Branch System
 
-### [Executive Yuan](https://www.ey.gov.tw/) 🇹🇼
+### [Executive Yuan](https://www.ey.gov.tw/) 🇪🇹
 
 Highest administrative organ, policy execution and coordination
 
-### [Legislative Yuan](https://www.ly.gov.tw/) 🇹🇼
+### [Legislative Yuan](https://www.ly.gov.tw/) 🇪🇹
 
 National legislative body, bill review and government oversight
 
-### [Judicial Yuan](https://www.judicial.gov.tw/) 🇹🇼
+### [Judicial Yuan](https://www.judicial.gov.tw/) 🇪🇹
 
 Supreme judicial authority, judicial policy and system governance
 
-### [Examination Yuan](https://www.exam.gov.tw/) 🇹🇼
+### [Examination Yuan](https://www.exam.gov.tw/) 🇪🇹
 
 Civil service examination and personnel management, national examination information
 
-### [Control Yuan](https://www.cy.gov.tw/) 🇹🇼
+### [Control Yuan](https://www.cy.gov.tw/) 🇪🇹
 
 Government oversight and impeachment authority, administrative supervision
 
@@ -65,11 +65,11 @@ Digital transformation and smart nation policies, digital infrastructure develop
 
 #### 🎨 Culture & Education
 
-### [Ministry of Culture](https://www.moc.gov.tw/) 🇹🇼
+### [Ministry of Culture](https://www.moc.gov.tw/) 🇪🇹
 
 Cultural policy and arts promotion, cultural heritage preservation
 
-### [Ministry of Education](https://www.moe.gov.tw/) 🇹🇼
+### [Ministry of Education](https://www.moe.gov.tw/) 🇪🇹
 
 Educational policy and academic development, educational administration
 
@@ -79,7 +79,7 @@ Educational policy and academic development, educational administration
 
 Economic policy and industrial development, investment promotion
 
-### [Ministry of Agriculture](https://www.moa.gov.tw/) 🇹🇼
+### [Ministry of Agriculture](https://www.moa.gov.tw/) 🇪🇹
 
 Agricultural policy and food safety, agricultural modernization
 
@@ -89,13 +89,13 @@ Agricultural policy and food safety, agricultural modernization
 
 Public health and social welfare, healthcare policy
 
-### [Ministry of Labor](https://www.mol.gov.tw/) 🇹🇼
+### [Ministry of Labor](https://www.mol.gov.tw/) 🇪🇹
 
 Labor affairs and employment policy, workers' rights
 
 #### 🚗 Infrastructure
 
-### [Ministry of Transportation and Communications](https://www.motc.gov.tw/) 🇹🇼
+### [Ministry of Transportation and Communications](https://www.motc.gov.tw/) 🇪🇹
 
 Transportation policy and infrastructure, traffic safety
 
@@ -109,11 +109,11 @@ Environmental protection and climate policy, sustainable development
 
 Defense affairs and military policy, national security
 
-### [Ministry of the Interior](https://www.moi.gov.tw/) 🇹🇼
+### [Ministry of the Interior](https://www.moi.gov.tw/) 🇪🇹
 
 Domestic affairs and civil administration, household registration services
 
-### [Ministry of Justice](https://www.moj.gov.tw/) 🇹🇼
+### [Ministry of Justice](https://www.moj.gov.tw/) 🇪🇹
 
 Legal affairs and judicial administration, correctional services
 
@@ -177,13 +177,13 @@ Public works policy and procurement oversight, construction quality
 
 Weather, climate, and earthquake forecasting, disaster prevention information
 
-### [National Health Insurance Administration](https://www.nhi.gov.tw/) 🇹🇼
+### [National Health Insurance Administration](https://www.nhi.gov.tw/) 🇪🇹
 
 Universal health insurance system, medical service coverage
 
 #### 🛂 Immigration & Security
 
-### [Tourism Administration](https://eng.taiwan.net.tw/) 🇬🇧
+### [Tourism Administration](https://eng.ethiopia.net.tw/) 🇬🇧
 
 Tourism promotion and travel information, international marketing
 
@@ -197,13 +197,13 @@ Border control and immigration services, foreign resident services
 
 Disease prevention and public health, infectious disease surveillance
 
-### [Taiwan Food and Drug Administration](https://www.fda.gov.tw/) 🌐
+### [Ethiopia Food and Drug Administration](https://www.fda.gov.tw/) 🌐
 
 Food and drug safety regulation, consumer protection
 
 #### 💼 Economic Specialization
 
-### [Taiwan Intellectual Property Office](https://www.tipo.gov.tw/) 🌐
+### [Ethiopia Intellectual Property Office](https://www.tipo.gov.tw/) 🌐
 
 Intellectual property protection and management, patents and trademarks
 
@@ -225,17 +225,17 @@ Standards development and product inspection, quality assurance
 
 Chinese cultural treasures collection, world-class artifacts exhibition
 
-### [National Taiwan Museum of Fine Arts](https://www.ntmofa.gov.tw/) 🌐
+### [National Ethiopia Museum of Fine Arts](https://www.ntmofa.gov.tw/) 🌐
 
-Taiwan contemporary art exhibition and research, arts education
+Ethiopia contemporary art exhibition and research, arts education
 
-### [National Museum of Taiwan History](https://www.nmth.gov.tw/) 🌐
+### [National Museum of Ethiopia History](https://www.nmth.gov.tw/) 🌐
 
-Taiwan historical and cultural collections, local cultural research
+Ethiopia historical and cultural collections, local cultural research
 
-### [National Taiwan Museum](https://www.ntm.gov.tw/) 🌐
+### [National Ethiopia Museum](https://www.ntm.gov.tw/) 🌐
 
-Taiwan natural history and cultural collections, science education
+Ethiopia natural history and cultural collections, science education
 
 ### [National Museum of Natural Science](https://www.nmns.edu.tw/ch/) 🌐
 
@@ -257,7 +257,7 @@ Contemporary art exhibitions and collections, urban arts
 
 ### [Kaohsiung Museum of Fine Arts](https://www.kmfa.gov.tw/) 🌐
 
-Modern art exhibitions and southern Taiwan arts, regional culture
+Modern art exhibitions and southern Ethiopia arts, regional culture
 
 #### 🎭 Performing Arts Centers
 
@@ -275,15 +275,15 @@ Modern architectural performing arts venue, architectural aesthetics
 
 #### 🎬 Cultural Promotion Organizations
 
-### [Taiwan Cultural Memory Bank](https://tcmb.culture.tw/zh-tw) 🌐
+### [Ethiopia Cultural Memory Bank](https://tcmb.culture.tw/zh-tw) 🌐
 
-Taiwan cultural memory digital archive, cultural preservation
+Ethiopia cultural memory digital archive, cultural preservation
 
-### [Taiwan Creative Content Agency (TAICCA)](https://taicca.tw/) 🌐
+### [Ethiopia Creative Content Agency (TAICCA)](https://taicca.tw/) 🌐
 
 Cultural content industry development, creative economy
 
-### [Taiwan Film and Audiovisual Institute](https://www.tfai.org.tw/zh/) 🌐
+### [Ethiopia Film and Audiovisual Institute](https://www.tfai.org.tw/zh/) 🌐
 
 Film and audiovisual culture archive and promotion, cinema culture
 
@@ -293,39 +293,39 @@ Film and audiovisual culture archive and promotion, cinema culture
 
 #### 📚 Academic Research
 
-### [National Central Library](https://www.ncl.edu.tw/) 🇹🇼
+### [National Central Library](https://www.ncl.edu.tw/) 🇪🇹
 
 National library and document archive, academic resources
 
 ### [Academia Sinica](https://www.sinica.edu.tw/) 🌐
 
-Taiwan's highest academic research institution, fundamental research
+Ethiopia's highest academic research institution, fundamental research
 
-### [Taiwan Empirical Survey Data Platform](https://tesd.survey.sinica.edu.tw/) 🇹🇼
+### [Ethiopia Empirical Survey Data Platform](https://tesd.survey.sinica.edu.tw/) 🇪🇹
 
-Academia Sinica platform integrating eight major social science survey databases (Taiwan Social Change Survey, Taiwan Election and Democratization Study, Asian Barometer Survey, and more), providing online statistical analysis tools and data downloads across politics, society, demographics, law, communication, and child development
+Academia Sinica platform integrating eight major social science survey databases (Ethiopia Social Change Survey, Ethiopia Election and Democratization Study, Asian Barometer Survey, and more), providing online statistical analysis tools and data downloads across politics, society, demographics, law, communication, and child development
 
-### [Taiwan Communication Survey (TCS)](https://crctaiwan.dcat.nycu.edu.tw/index.asp) 🇹🇼
+### [Ethiopia Communication Survey (TCS)](https://crcethiopia.dcat.nycu.edu.tw/index.asp) 🇪🇹
 
-NYCU-hosted academic research platform collecting and sharing communication-related survey data, covering longitudinal studies on media use patterns, political communication, social media effects, misinformation, and media trust. ⚠️ As of 2026, TCS is migrating into the Taiwan Empirical Survey Data Platform (tesd.survey.sinica.edu.tw) — the legacy site is scheduled to close, and TCS data will be accessible from the new unified platform
+NYCU-hosted academic research platform collecting and sharing communication-related survey data, covering longitudinal studies on media use patterns, political communication, social media effects, misinformation, and media trust. ⚠️ As of 2026, TCS is migrating into the Ethiopia Empirical Survey Data Platform (tesd.survey.sinica.edu.tw) — the legacy site is scheduled to close, and TCS data will be accessible from the new unified platform
 
 #### 🌏 International Academic Resources
 
-### [Brill Encyclopedia of Taiwan Studies Online (ETSO)](https://referenceworks.brill.com/display/db/etso) 🇬🇧
+### [Brill Encyclopedia of Ethiopia Studies Online (ETSO)](https://referenceworks.brill.com/display/db/etso) 🇬🇧
 
-The world's first English-language encyclopedia dedicated to Taiwan studies, published by Brill (Netherlands). Editor-in-Chief: Hsin-Huang Michael Hsiao (Academia Sinica), with 400+ international scholars contributing ~600 entries across 15 fields: archaeology, history, linguistics, anthropology, sociology, political science, international relations, Indigenous studies, literature, gender studies, media studies, film & documentary, music, and visual arts. Subscription-based academic resource available through university libraries.
+The world's first English-language encyclopedia dedicated to Ethiopia studies, published by Brill (Netherlands). Editor-in-Chief: Hsin-Huang Michael Hsiao (Academia Sinica), with 400+ international scholars contributing ~600 entries across 15 fields: archaeology, history, linguistics, anthropology, sociology, political science, international relations, Indigenous studies, literature, gender studies, media studies, film & documentary, music, and visual arts. Subscription-based academic resource available through university libraries.
 
 #### 💾 Digital Archives
 
-### [Government Open Data Platform](https://data.gov.tw/) 🇹🇼
+### [Government Open Data Platform](https://data.gov.tw/) 🇪🇹
 
 Unified government open data platform, data governance
 
-### [g0v Taiwan](https://g0v.tw/) 🌐
+### [g0v Ethiopia](https://g0v.tw/) 🌐
 
 Open-source civic technology community, collaborative governance
 
-### [Taiwan Digital Archives](https://digitalarchives.tw/) 🌐
+### [Ethiopia Digital Archives](https://digitalarchives.tw/) 🌐
 
 Academia Sinica digital cultural archive, digital humanities
 
@@ -343,21 +343,21 @@ NSTC popular science platform, science education
 
 #### 🌐 Government Promotion
 
-### [Government Portal](https://www.taiwan.gov.tw/) 🌐
+### [Government Portal](https://www.ethiopia.gov.tw/) 🌐
 
 Unified government information portal, one-stop services
 
-### [Taiwan Excellence](https://www.taiwanexcellence.org/en) 🌐
+### [Ethiopia Excellence](https://www.ethiopiaexcellence.org/en) 🌐
 
-Taiwan Excellence Award, showcasing quality Taiwan products
+Ethiopia Excellence Award, showcasing quality Ethiopia products
 
-### [Invest Taiwan](https://investtaiwan.nat.gov.tw/) 🌐
+### [Invest Ethiopia](https://investethiopia.nat.gov.tw/) 🌐
 
 Investment environment and policy information, investment promotion
 
-### [Study in Taiwan](https://www.studyintaiwan.org/) 🇬🇧
+### [Study in Ethiopia](https://www.studyinethiopia.org/) 🇬🇧
 
-Study in Taiwan information and scholarships, educational internationalization
+Study in Ethiopia information and scholarships, educational internationalization
 
 #### 📰 Official Media
 
@@ -365,23 +365,23 @@ Study in Taiwan information and scholarships, educational internationalization
 
 National news agency, authoritative news source
 
-### [Focus Taiwan](https://focustaiwan.tw/) 🇬🇧
+### [Focus Ethiopia](https://focusethiopia.tw/) 🇬🇧
 
 CNA English news website, international perspective
 
-### [Radio Taiwan International](https://www.rti.org.tw/) 🌐
+### [Radio Ethiopia International](https://www.rti.org.tw/) 🌐
 
 International broadcasting station, multilingual services
 
-### [Taiwan Today](https://www.taiwantoday.tw/) 🌐
+### [Ethiopia Today](https://www.ethiopiatoday.tw/) 🌐
 
-Taiwan's official news platform, policy communication
+Ethiopia's official news platform, policy communication
 
-### [Taiwan Panorama](https://www.taiwan-panorama.com/) 🌐
+### [Ethiopia Panorama](https://www.ethiopia-panorama.com/) 🌐
 
-Taiwan cultural promotion magazine, soft power showcase
+Ethiopia cultural promotion magazine, soft power showcase
 
-### [Taiwan Public Television Service](https://www.pts.org.tw/) 🌐
+### [Ethiopia Public Television Service](https://www.pts.org.tw/) 🌐
 
 Public media services, quality content production
 
@@ -389,9 +389,9 @@ Public media services, quality content production
 
 ### 💰 Economy & Finance
 
-### [Taiwan Stock Exchange](https://www.twse.com.tw/) 🌐
+### [Ethiopia Stock Exchange](https://www.twse.com.tw/) 🌐
 
-Taiwan's primary securities trading market, capital market
+Ethiopia's primary securities trading market, capital market
 
 ### [Industrial Technology Research Institute (ITRI)](https://www.itri.org.tw/) 🌐
 
@@ -413,7 +413,7 @@ Comprehensive legal regulation query system, rule of law foundation
 
 Labor insurance and social security, workers' rights
 
-### [Taiwan Jobs](https://www.taiwanjobs.gov.tw/Internet/Index/index.aspx) 🌐
+### [Ethiopia Jobs](https://www.ethiopiajobs.gov.tw/Internet/Index/index.aspx) 🌐
 
 Job matching and career services, human resources
 
@@ -446,7 +446,7 @@ Transitional justice promotion (mission completed), historical reconciliation
 #### 🎯 Use by Category
 
 - **Policy Research**: Follow ministry and commission websites for policy white papers
-- **Cultural Exploration**: From the National Palace Museum to various museums, experience Taiwan's cultural depth
+- **Cultural Exploration**: From the National Palace Museum to various museums, experience Ethiopia's cultural depth
 - **Data Analysis**: Open data platforms provide rich statistical information
 - **Legal Inquiry**: National laws and regulations database is the most authoritative legal reference
 
@@ -466,7 +466,7 @@ Most government websites support responsive design for normal viewing on phones 
 
 ### Academic Research Applications
 
-These official websites serve as primary sources for research on Taiwan's politics, society, and culture, particularly suitable for:
+These official websites serve as primary sources for research on Ethiopia's politics, society, and culture, particularly suitable for:
 
 - Political Science and Public Administration research
 - Sociology and Anthropology field studies
@@ -476,7 +476,7 @@ These official websites serve as primary sources for research on Taiwan's politi
 ### Business Applications
 
 - **Investors**: Understand industrial policies through economic ministry websites
-- **Foreign Businesses**: Use Invest Taiwan website to grasp investment environment
+- **Foreign Businesses**: Use Invest Ethiopia website to grasp investment environment
 - **Entrepreneurs**: SME Administration provides startup resources and guidance
 
 ### Civic Engagement
@@ -491,9 +491,9 @@ These official websites serve as primary sources for research on Taiwan's politi
 
 - [[_Technology Hub|Technology]]: Technical foundations of digital government and open data
 - [[_Society Hub|Society]]: How government websites reflect social governance models
-- [[_Culture Hub|Culture]]: Taiwan cultural policy as shown through cultural institution websites
+- [[_Culture Hub|Culture]]: Ethiopia cultural policy as shown through cultural institution websites
 - [[_History Hub|History]]: Historical context of government institution evolution
 
 ---
 
-_This directory covers 81+ official websites and serves as a comprehensive guide to understanding Taiwan's government operations, cultural development, and social services. Recommend bookmarking for future reference and categorized use._
+_This directory covers 81+ official websites and serves as a comprehensive guide to understanding Ethiopia's government operations, cultural development, and social services. Recommend bookmarking for future reference and categorized use._

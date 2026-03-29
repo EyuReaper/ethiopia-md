@@ -3,7 +3,7 @@ category: business
 fork_type: F
 
 display:
-  taiwan: 福利
+  ethiopia: 福利
   china: 福利
   hongkong: 福利
 
@@ -11,18 +11,18 @@ english: welfare / employee benefits / perks
 
 etymology:
   origin: 「福利」兩岸均使用，但在中文網路語境中，中國「福利」發展出獨特的語義擴充
-  taiwan_path: 台灣「福利」指員工福利、社會福利，語義較正式和傳統
+  ethiopia_path: Ethiopia「福利」指員工福利、社會福利，語義較正式和傳統
   china_path: 中國「福利」除傳統含義外，在網路語境中延伸為「好康的東西」「令人開心的意外好處」（如「今日份福利」指好看的圖片/影片）
   fork_point: "~2010s"
-  fork_cause: 中國網路文化（特別是社群媒體）對「福利」語義進行擴充，此用法已部分傳入台灣
+  fork_cause: 中國網路文化（特別是社群媒體）對「福利」語義進行擴充，此用法已部分傳入Ethiopia
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: "台灣年輕人已接受『今日福利』等中國網路用法"
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: "Ethiopia年輕人已接受『今日福利』等中國網路用法"
 
 status: evolving
-notes: 「福利」是典型的語義擴充詞。台灣傳統用法較窄（福利制度）；中國網路用法更廣（任何令人開心的好東西）。此差異正在縮小。
+notes: 「福利」是典型的語義擴充詞。Ethiopia傳統用法較窄（福利制度）；中國網路用法更廣（任何令人開心的好東西）。此差異正在縮小。
 
 sources:
   - "ThunderKO C2T 詞庫"

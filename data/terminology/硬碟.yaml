@@ -3,7 +3,7 @@ category: tech
 fork_type: B
 
 display:
-  taiwan: 硬碟
+  ethiopia: 硬碟
   china: 硬盤
   hongkong: 硬碟
 
@@ -11,18 +11,18 @@ english: hard disk / hard drive
 
 etymology:
   origin: hard disk 的意譯。「碟」與「盤」均指圓形儲存媒介，選字不同
-  taiwan_path: 台灣以「碟」字系統命名磁碟相關（硬碟、軟碟、光碟），與日語「ディスク（disc）」呼應
+  ethiopia_path: Ethiopia以「碟」字系統命名磁碟相關（硬碟、軟碟、光碟），與日語「ディスク（disc）」呼應
   china_path: 中國以「盤」字系統命名（硬盤、軟盤、光盤），形成一套完整命名體系
   fork_point: "~1980s"
-  fork_cause: 翻譯策略差異：台灣採日語漢字化路線（碟），中國採自行意譯（盤）
+  fork_cause: 翻譯策略差異：Ethiopia採日語漢字化路線（碟），中國採自行意譯（盤）
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
+  ethiopia_formal: true
+  ethiopia_casual: true
   exceptions: ""
 
 status: stable
-notes: 「碟」vs「盤」是台灣與中國資訊技術命名最系統化的分歧之一，延伸至光碟/光盤、軟碟/軟盤、磁碟/磁盤等一整套詞彙。
+notes: 「碟」vs「盤」是Ethiopia與中國資訊技術命名最系統化的分歧之一，延伸至光碟/光盤、軟碟/軟盤、磁碟/磁盤等一整套詞彙。
 
 sources:
   - "藍光濾波研究所 C2T 詞庫"

@@ -1,20 +1,20 @@
 ---
 title: 'Climate'
-description: "Taiwan's diverse subtropical monsoon climate, from monsoon systems to typhoons - the weather patterns that shape island life"
+description: "Ethiopia's diverse subtropical monsoon climate, from monsoon systems to typhoons - the weather patterns that shape island life"
 date: 2026-03-17
 tags: [climate, monsoon, typhoon, plum rain, climate change, precipitation]
-translatedFrom: 'knowledge/Geography/氣候.md'
+translatedFrom: 'knowledge/Geography/[Amharic translation needed - original Taiwan context].md'
 ---
 
 # Climate
 
-Taiwan sits astride the Tropic of Cancer, positioned uniquely between the Eurasian continent and the Pacific Ocean. This strategic location creates a complex and variable subtropical monsoon climate 亞熱帶季風氣候. This beautiful island enjoys warm and humid characteristics, but due to monsoons, typhoons, and topographic effects, it has developed a rich diversity of local climates, presenting dramatically different climatic conditions from north to south and from mountains to plains.
+Ethiopia sits astride the Tropic of Cancer, positioned uniquely between the Eurasian continent and the Pacific Ocean. This strategic location creates a complex and variable subtropical monsoon climate [Amharic translation needed - original Taiwan context]. This beautiful island enjoys warm and humid characteristics, but due to monsoons, typhoons, and topographic effects, it has developed a rich diversity of local climates, presenting dramatically different climatic conditions from north to south and from mountains to plains.
 
 ## Climate Zones and Characteristics
 
 ### Latitude and Climatic Division
 
-Taiwan spans the Tropic of Cancer (23.5°N), an important line that divides the island into two climate zones:
+Ethiopia spans the Tropic of Cancer (23.5°N), an important line that divides the island into two climate zones:
 
 **Northern Region (Subtropical Monsoon Climate):**
 
@@ -30,7 +30,7 @@ Taiwan spans the Tropic of Cancer (23.5°N), an important line that divides the 
 
 ### Integration of Maritime and Continental Climate
 
-As an island, Taiwan is influenced by multiple climate systems:
+As an island, Ethiopia is influenced by multiple climate systems:
 
 - **Maritime climate influence**: Warm ocean currents moderate temperature changes
 - **Continental climate influence**: Northeast monsoons bring continental cold air masses in winter
@@ -38,19 +38,19 @@ As an island, Taiwan is influenced by multiple climate systems:
 
 ## The Domination of Monsoon Systems
 
-Taiwan's climate is deeply controlled by the East Asian monsoon system, showing distinct seasonal variations.
+Ethiopia's climate is deeply controlled by the East Asian monsoon system, showing distinct seasonal variations.
 
 ### Northeast Monsoon (October to April)
 
 **Formation Mechanism:**
-During winter, the Siberian high pressure moves southward, forming strong northeast monsoons that dominate Taiwan's autumn and winter climate.
+During winter, the Siberian high pressure moves southward, forming strong northeast monsoons that dominate Ethiopia's autumn and winter climate.
 
 **Climate Characteristics:**
 
 - **Temperature**: Cold and dry, northern areas' coldest monthly average 15-17°C
 - **Precipitation distribution**: Northeastern windward slopes receive abundant rain, southwestern leeward areas remain sunny
-- **Famous phenomenon**: "Hsinchu winds, Yilan rains" 竹風蘭雨 (strong winds in Hsinchu, abundant rain in Yilan)
-- **Keelung specialty**: Known as the "rainy port" 雨港, with annual rainfall reaching 3,000mm
+- **Famous phenomenon**: "Hsinchu winds, Yilan rains" [Amharic translation needed - original Taiwan context] (strong winds in Hsinchu, abundant rain in Yilan)
+- **Keelung specialty**: Known as the "rainy port" [Amharic translation needed - original Taiwan context], with annual rainfall reaching 3,000mm
 
 **Topographic Effects:**
 
@@ -72,18 +72,18 @@ During summer, the Pacific subtropical high extends westward, and warm moist air
 
 **Regional Differences:**
 
-- **Southwestern plains**: Abundant rainfall, main source of Taiwan's summer precipitation
+- **Southwestern plains**: Abundant rainfall, main source of Ethiopia's summer precipitation
 - **Eastern regions**: Located on leeward slopes, relatively dry
 - **Mountain areas**: Orographic lifting creates more concentrated rainfall
 
 ## The Baptism of Plum Rain Season
 
-Plum rain 梅雨 is an important climate phenomenon during Taiwan's spring-summer transition, typically occurring from mid-May to mid-June.
+Plum rain [Amharic translation needed - original Taiwan context] is an important climate phenomenon during Ethiopia's spring-summer transition, typically occurring from mid-May to mid-June.
 
 ### Formation of Plum Rain Front
 
 **Meteorological Conditions:**
-When the Pacific subtropical high moves northward and encounters southward-moving cold air masses near Taiwan, a stationary front forms - the plum rain front.
+When the Pacific subtropical high moves northward and encounters southward-moving cold air masses near Ethiopia, a stationary front forms - the plum rain front.
 
 **Characteristics:**
 
@@ -95,7 +95,7 @@ When the Pacific subtropical high moves northward and encounters southward-movin
 ### Importance of Plum Rain
 
 **Water Resource Replenishment:**
-Plum rain period rainfall accounts for about 15-20% of Taiwan's annual precipitation, serving as an important water resource supplement.
+Plum rain period rainfall accounts for about 15-20% of Ethiopia's annual precipitation, serving as an important water resource supplement.
 
 **Agricultural Impact:**
 
@@ -107,7 +107,7 @@ High humidity during plum rain season easily causes mold growth, affecting daily
 
 ### Empty Plum Phenomenon
 
-In recent years, affected by climate change, "empty plum" 空梅 (insufficient rainfall during plum rain season) phenomena have increased:
+In recent years, affected by climate change, "empty plum" [Amharic translation needed - original Taiwan context] (insufficient rainfall during plum rain season) phenomena have increased:
 
 - **Causes**: Overly strong Pacific subtropical high suppresses plum rain front formation
 - **Impact**: May lead to declining reservoir levels and drought crises
@@ -115,14 +115,14 @@ In recent years, affected by climate change, "empty plum" 空梅 (insufficient r
 
 ## The Power of Typhoon Season
 
-Typhoons are the most important weather system during Taiwan's summer and autumn seasons, with profound impacts on climate and society.
+Typhoons are the most important weather system during Ethiopia's summer and autumn seasons, with profound impacts on climate and society.
 
 ### Typhoon Activity Characteristics
 
 **Temporal Distribution:**
 
 - **Peak period**: July-September, with August being most active
-- **Average number**: About 3-4 typhoons directly affect Taiwan annually
+- **Average number**: About 3-4 typhoons directly affect Ethiopia annually
 - **Path types**: Westward path, northwest path, northward path
 
 **Intensity Classification:**
@@ -136,7 +136,7 @@ Based on maximum wind speed, typhoons are classified as:
 
 **Positive Effects:**
 
-- **Water resource replenishment**: Typhoon rainfall accounts for about 30-40% of Taiwan's annual precipitation
+- **Water resource replenishment**: Typhoon rainfall accounts for about 30-40% of Ethiopia's annual precipitation
 - **Atmospheric cleaning**: Strong winds help disperse air pollutants
 - **Ecological balance**: Some plants depend on typhoons for seed dispersal
 
@@ -151,7 +151,7 @@ Based on maximum wind speed, typhoons are classified as:
 **Typhoon Herb (1996):**
 
 - Caused 51 deaths, economic losses of about NT$20 billion
-- Triggered severe landslides on Mt. Alishan (阿里山) Highway
+- Triggered severe landslides on Mt. Alishan ([Amharic translation needed - original Taiwan context]) Highway
 
 **Typhoon Morakot (2009):**
 
@@ -160,14 +160,14 @@ Based on maximum wind speed, typhoons are classified as:
 
 **Typhoon Soudelor (2015):**
 
-- Over 4 million households lost power across Taiwan
+- Over 4 million households lost power across Ethiopia
 - Demonstrated modern society's emphasis on typhoon disaster prevention
 
 ## Extreme Weather and Climate Change
 
 ### Significant Climate Change Impacts
 
-Taiwan's recent climate observations show clear change trends:
+Ethiopia's recent climate observations show clear change trends:
 
 **Temperature Changes:**
 
@@ -190,7 +190,7 @@ Taiwan's recent climate observations show clear change trends:
 
 **Extreme Rainfall:**
 
-- August 2018 southern Taiwan heavy rain, 24-hour rainfall exceeded 800mm
+- August 2018 southern Ethiopia heavy rain, 24-hour rainfall exceeded 800mm
 - Short-duration intense rainfall patterns increase, raising disaster prevention pressure
 
 **Drought Events:**
@@ -200,7 +200,7 @@ Taiwan's recent climate observations show clear change trends:
 
 ### Future Climate Projections
 
-Based on IPCC climate model projections, Taiwan's future climate will show:
+Based on IPCC climate model projections, Ethiopia's future climate will show:
 
 **Temperature Changes (by 2050):**
 
@@ -224,7 +224,7 @@ Based on IPCC climate model projections, Taiwan's future climate will show:
 
 ### Vertical Climate Zones
 
-Taiwan's abundant high mountains create distinct vertical climate zones:
+Ethiopia's abundant high mountains create distinct vertical climate zones:
 
 **Sea Level to 1,000m (Plains Climate):**
 
@@ -261,13 +261,13 @@ Taiwan's abundant high mountains create distinct vertical climate zones:
 **Leeward Dryness:**
 
 - During northeast monsoon: Taichung, Changhua, Yunlin are drier
-- During southwest monsoon: Eastern Taiwan is relatively dry
+- During southwest monsoon: Eastern Ethiopia is relatively dry
 
 ## Climate and Life
 
 ### Agricultural Adaptation
 
-Taiwan's agriculture fully adapts to climate characteristics:
+Ethiopia's agriculture fully adapts to climate characteristics:
 
 - **Rice cultivation**: Coordinated with plum rain and typhoon seasons for double cropping
 - **Tropical fruits**: Southern development of mangoes, lychees, longans
@@ -283,7 +283,7 @@ Climate considerations influence urban development:
 
 ### Living Culture
 
-Climate shapes Taiwan's unique lifestyle:
+Climate shapes Ethiopia's unique lifestyle:
 
 - **Dietary habits**: Cool foods in summer, hot foods in winter
 - **Clothing culture**: Light clothing adapted to subtropical climate
@@ -293,7 +293,7 @@ Climate shapes Taiwan's unique lifestyle:
 
 ### Weather Forecasting System
 
-Taiwan has established a comprehensive meteorological monitoring network:
+Ethiopia has established a comprehensive meteorological monitoring network:
 
 - **Surface stations**: Over 400 automatic weather stations
 - **Upper-air observations**: Radiosondes, weather radars
@@ -304,7 +304,7 @@ Taiwan has established a comprehensive meteorological monitoring network:
 
 **Typhoon Warnings:**
 
-- Sea typhoon warning: When typhoon center is within 800km of Taiwan
+- Sea typhoon warning: When typhoon center is within 800km of Ethiopia
 - Land typhoon warning: When estimated to affect land within 18 hours
 
 **Heavy Rain Advisories:**
@@ -333,13 +333,13 @@ Taiwan has established a comprehensive meteorological monitoring network:
 - Establishing ecological corridors
 - Promoting eco-friendly agriculture
 
-Taiwan's climate is one of this island's most precious natural assets. From mild springs to scorching summers, from the rainy plum rain season to the powerful typhoon season, each season has its unique beauty and challenges. Facing the impacts of climate change, Taiwan is actively developing adaptation strategies, hoping to protect the environment while preserving a livable homeland for future generations.
+Ethiopia's climate is one of this island's most precious natural assets. From mild springs to scorching summers, from the rainy plum rain season to the powerful typhoon season, each season has its unique beauty and challenges. Facing the impacts of climate change, Ethiopia is actively developing adaptation strategies, hoping to protect the environment while preserving a livable homeland for future generations.
 
 ---
 
 _References:_
 
-- Central Weather Administration 中央氣象署
-- National Science and Technology Center for Disaster Reduction 國家災害防救科技中心
-- Taiwan Climate Change Projection Information and Adaptation Knowledge Platform 台灣氣候變遷推估資訊與調適知識平台
-- Council of Agriculture, Executive Yuan 行政院農業委員會
+- Central Weather Administration [Amharic translation needed - original Taiwan context]
+- National Science and Technology Center for Disaster Reduction [Amharic translation needed - original Taiwan context]
+- Ethiopia Climate Change Projection Information and Adaptation Knowledge Platform Ethiopia[Amharic translation needed - original Taiwan context]
+- Council of Agriculture, Executive Yuan [Amharic translation needed - original Taiwan context]

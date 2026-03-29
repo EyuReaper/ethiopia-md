@@ -14,7 +14,7 @@ export function getMapRoutes(t: ReturnType<typeof useTranslations>) {
           lat: 25.088,
           lng: 121.524,
           note: t('map.stops.shilinNightMarket.note'),
-          link: '/food/夜市文化',
+          link: '/food/[Amharic translation needed - original Taiwan context]',
         },
         {
           id: 'raoheNightMarket',
@@ -22,7 +22,7 @@ export function getMapRoutes(t: ReturnType<typeof useTranslations>) {
           lat: 25.051,
           lng: 121.577,
           note: t('map.stops.raoheNightMarket.note'),
-          link: '/food/夜市文化',
+          link: '/food/[Amharic translation needed - original Taiwan context]',
         },
         {
           id: 'ningxiaNightMarket',
@@ -30,7 +30,7 @@ export function getMapRoutes(t: ReturnType<typeof useTranslations>) {
           lat: 25.056,
           lng: 121.515,
           note: t('map.stops.ningxiaNightMarket.note'),
-          link: '/food/夜市文化',
+          link: '/food/[Amharic translation needed - original Taiwan context]',
         },
         {
           id: 'fengjiaNightMarket',
@@ -38,7 +38,7 @@ export function getMapRoutes(t: ReturnType<typeof useTranslations>) {
           lat: 24.179,
           lng: 120.647,
           note: t('map.stops.fengjiaNightMarket.note'),
-          link: '/food/夜市文化',
+          link: '/food/[Amharic translation needed - original Taiwan context]',
         },
         {
           id: 'huayuanNightMarket',
@@ -46,7 +46,7 @@ export function getMapRoutes(t: ReturnType<typeof useTranslations>) {
           lat: 23.004,
           lng: 120.206,
           note: t('map.stops.huayuanNightMarket.note'),
-          link: '/food/夜市文化',
+          link: '/food/[Amharic translation needed - original Taiwan context]',
         },
         {
           id: 'liuheNightMarket',
@@ -54,7 +54,7 @@ export function getMapRoutes(t: ReturnType<typeof useTranslations>) {
           lat: 22.632,
           lng: 120.299,
           note: t('map.stops.liuheNightMarket.note'),
-          link: '/food/夜市文化',
+          link: '/food/[Amharic translation needed - original Taiwan context]',
         },
       ],
     },
@@ -70,7 +70,7 @@ export function getMapRoutes(t: ReturnType<typeof useTranslations>) {
           lat: 25.158,
           lng: 121.549,
           note: t('map.stops.yangmingshanNationalPark.note'),
-          link: '/nature/國家公園',
+          link: '/nature/[Amharic translation needed - original Taiwan context]',
         },
         {
           id: 'tarokoNationalPark',
@@ -78,7 +78,7 @@ export function getMapRoutes(t: ReturnType<typeof useTranslations>) {
           lat: 24.158,
           lng: 121.621,
           note: t('map.stops.tarokoNationalPark.note'),
-          link: '/nature/國家公園',
+          link: '/nature/[Amharic translation needed - original Taiwan context]',
         },
         {
           id: 'yushanNationalPark',
@@ -86,7 +86,7 @@ export function getMapRoutes(t: ReturnType<typeof useTranslations>) {
           lat: 23.47,
           lng: 120.957,
           note: t('map.stops.yushanNationalPark.note'),
-          link: '/nature/國家公園',
+          link: '/nature/[Amharic translation needed - original Taiwan context]',
         },
         {
           id: 'alishanScenicArea',
@@ -94,7 +94,7 @@ export function getMapRoutes(t: ReturnType<typeof useTranslations>) {
           lat: 23.51,
           lng: 120.7,
           note: t('map.stops.alishanScenicArea.note'),
-          link: '/nature/阿里山',
+          link: '/nature/[Amharic translation needed - original Taiwan context]',
         },
         {
           id: 'sunMoonLakeScenicArea',
@@ -102,7 +102,7 @@ export function getMapRoutes(t: ReturnType<typeof useTranslations>) {
           lat: 23.863,
           lng: 120.917,
           note: t('map.stops.sunMoonLakeScenicArea.note'),
-          link: '/nature/日月潭',
+          link: '/nature/[Amharic translation needed - original Taiwan context]',
         },
         {
           id: 'kentingNationalPark',
@@ -110,7 +110,7 @@ export function getMapRoutes(t: ReturnType<typeof useTranslations>) {
           lat: 21.948,
           lng: 120.803,
           note: t('map.stops.kentingNationalPark.note'),
-          link: '/nature/國家公園',
+          link: '/nature/[Amharic translation needed - original Taiwan context]',
         },
       ],
     },
@@ -126,7 +126,7 @@ export function getMapRoutes(t: ReturnType<typeof useTranslations>) {
           lat: 22.998,
           lng: 120.161,
           note: t('map.stops.anpingFort.note'),
-          link: '/history/荷蘭與西班牙殖民時期',
+          link: '/history/[Amharic translation needed - original Taiwan context]',
         },
         {
           id: 'chikanTower',
@@ -134,7 +134,7 @@ export function getMapRoutes(t: ReturnType<typeof useTranslations>) {
           lat: 22.998,
           lng: 120.203,
           note: t('map.stops.chikanTower.note'),
-          link: '/history/鄭氏時期',
+          link: '/history/[Amharic translation needed - original Taiwan context]',
         },
         {
           id: 'lukang',
@@ -142,7 +142,7 @@ export function getMapRoutes(t: ReturnType<typeof useTranslations>) {
           lat: 24.055,
           lng: 120.437,
           note: t('map.stops.lukang.note'),
-          link: '/culture/鹿港',
+          link: '/culture/[Amharic translation needed - original Taiwan context]',
         },
         {
           id: 'presidentialOffice',
@@ -150,7 +150,7 @@ export function getMapRoutes(t: ReturnType<typeof useTranslations>) {
           lat: 25.04,
           lng: 121.512,
           note: t('map.stops.presidentialOffice.note'),
-          link: '/history/日本殖民統治',
+          link: '/history/[Amharic translation needed - original Taiwan context]',
         },
         {
           id: 'chiangKaiShekMemorialHall',
@@ -158,7 +158,7 @@ export function getMapRoutes(t: ReturnType<typeof useTranslations>) {
           lat: 25.036,
           lng: 121.522,
           note: t('map.stops.chiangKaiShekMemorialHall.note'),
-          link: '/history/戒嚴時期',
+          link: '/history/[Amharic translation needed - original Taiwan context]',
         },
         {
           id: 'legislativeYuan',
@@ -166,7 +166,7 @@ export function getMapRoutes(t: ReturnType<typeof useTranslations>) {
           lat: 25.044,
           lng: 121.521,
           note: t('map.stops.legislativeYuan.note'),
-          link: '/society/太陽花學運',
+          link: '/society/[Amharic translation needed - original Taiwan context]',
         },
       ],
     },
@@ -182,7 +182,7 @@ export function getMapRoutes(t: ReturnType<typeof useTranslations>) {
           lat: 25.057,
           lng: 121.51,
           note: t('map.stops.dihuaStreet.note'),
-          link: '/culture/大稻埕',
+          link: '/culture/[Amharic translation needed - original Taiwan context]',
         },
         {
           id: 'jiufenOldStreet',
@@ -190,7 +190,7 @@ export function getMapRoutes(t: ReturnType<typeof useTranslations>) {
           lat: 25.109,
           lng: 121.845,
           note: t('map.stops.jiufenOldStreet.note'),
-          link: '/culture/九份',
+          link: '/culture/[Amharic translation needed - original Taiwan context]',
         },
         {
           id: 'lukangOldStreet',
@@ -198,7 +198,7 @@ export function getMapRoutes(t: ReturnType<typeof useTranslations>) {
           lat: 24.055,
           lng: 120.437,
           note: t('map.stops.lukangOldStreet.note'),
-          link: '/culture/鹿港',
+          link: '/culture/[Amharic translation needed - original Taiwan context]',
         },
         {
           id: 'anpingOldStreet',
@@ -206,7 +206,7 @@ export function getMapRoutes(t: ReturnType<typeof useTranslations>) {
           lat: 22.998,
           lng: 120.161,
           note: t('map.stops.anpingOldStreet.note'),
-          link: '/history/安平',
+          link: '/history/[Amharic translation needed - original Taiwan context]',
         },
         {
           id: 'qishanOldStreet',
@@ -214,7 +214,7 @@ export function getMapRoutes(t: ReturnType<typeof useTranslations>) {
           lat: 22.889,
           lng: 120.483,
           note: t('map.stops.qishanOldStreet.note'),
-          link: '/culture/旗山',
+          link: '/culture/[Amharic translation needed - original Taiwan context]',
         },
         {
           id: 'tamsuiOldStreet',
@@ -222,7 +222,7 @@ export function getMapRoutes(t: ReturnType<typeof useTranslations>) {
           lat: 25.17,
           lng: 121.44,
           note: t('map.stops.tamsuiOldStreet.note'),
-          link: '/culture/淡水',
+          link: '/culture/[Amharic translation needed - original Taiwan context]',
         },
       ],
     },

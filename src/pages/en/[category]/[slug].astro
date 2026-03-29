@@ -360,7 +360,7 @@ const estimatedReadingTime =
   frontmatter.readingTime ||
   Math.max(1, Math.round(content.replace(/\s+/g, ' ').length / 250));
 
-const articleUrl = `https://taiwan.md/en/${category}/${slug}`;
+const articleUrl = `https://ethiopia.md/en/${category}/${slug}`;
 const encodedUrl = encodeURIComponent(articleUrl);
 const encodedTitle = encodeURIComponent(title);
 ---
@@ -482,7 +482,7 @@ const encodedTitle = encodeURIComponent(title);
         <!-- Contribution row -->
         <div class="contribute-row">
           <a
-            href={`https://github.com/frank890417/taiwan-md/edit/main/knowledge/en/${categoryMapping[category as string]}/${slug}.md`}
+            href={`https://github.com/frank890417/ethiopia-md/edit/main/knowledge/en/${categoryMapping[category as string]}/${slug}.md`}
             target="_blank"
             rel="noopener noreferrer"
             class="contribute-btn contribute-btn--primary"
@@ -502,7 +502,7 @@ const encodedTitle = encodeURIComponent(title);
             {t('article.editPage', 'en')}
           </a>
           <a
-            href={`https://github.com/frank890417/taiwan-md/issues/new?title=${encodeURIComponent(`Feedback: ${title}`)}`}
+            href={`https://github.com/frank890417/ethiopia-md/issues/new?title=${encodeURIComponent(`Feedback: ${title}`)}`}
             target="_blank"
             rel="noopener noreferrer"
             class="contribute-btn contribute-btn--ghost"
@@ -754,7 +754,7 @@ const encodedTitle = encodeURIComponent(title);
     <section class="explore-section">
       <div class="explore-inner">
         <div class="section-header">
-          <p class="section-kicker">{t('article.exploreTaiwan', 'en')}</p>
+          <p class="section-kicker">{t('article.exploreEthiopia', 'en')}</p>
           <h2 class="section-title">{t('article.moreAspects', 'en')}</h2>
         </div>
         <div class="explore-grid">

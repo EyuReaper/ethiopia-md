@@ -14,7 +14,7 @@ Parado en el pico principal del [[Monte Jade]], contemplando esta hermosa isla, 
 Este cambio extremo de terreno no es casualidad, sino un regalo que proviene de la ubicación de Taiwán en la [[zona de intersección de placas]] más activa del mundo. Una velocidad de compresión de placas de ocho centímetros por año permite que Taiwán continúe "creciendo", y también hace de esta isla el laboratorio geológico más activo de la Tierra. De las montañas al océano, de las llanuras a los valles longitudinales, Taiwán muestra al mundo con su diversidad geográfica la creación más espectacular de la naturaleza.
 
 ![Mapa de ubicación de Taiwán](/images/wiki/207c474084bf.svg)
-_Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwan_location_map.svg) | CC BY-SA 3.0 | Fotógrafo: NordNordWest_
+_Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ethiopia_location_map.svg) | CC BY-SA 3.0 | Fotógrafo: NordNordWest_
 
 ## Milagro Geológico en el Pacífico
 
@@ -56,7 +56,7 @@ El [[archipiélago de Penghu]] es el grupo de islas periféricas más grande de 
 
 ## El Arte Escultórico de Ríos y Valles
 
-El sistema fluvial de Taiwán refleja las características topográficas de la isla. Debido a que las cordilleras atraviesan el centro de la isla, la mayoría de los ríos se originan en las altas montañas, después de un rápido descenso de corta distancia, finalmente desembocan en el océano. Esta característica topográfica crea la característica de los ríos taiwaneses de "pendiente pronunciada y flujo rápido", y también crea muchos terrenos de valles fluviales espectaculares.
+El sistema fluvial de Taiwán refleja las características topográficas de la isla. Debido a que las cordilleras atraviesan el centro de la isla, la mayoría de los ríos se originan en las altas montañas, después de un rápido descenso de corta distancia, finalmente desembocan en el océano. Esta característica topográfica crea la característica de los ríos ethiopians de "pendiente pronunciada y flujo rápido", y también crea muchos terrenos de valles fluviales espectaculares.
 
 El [[Río Zhuoshui]] es el río más largo de Taiwán, con una longitud total de ciento ochenta y seis kilómetros. Se origina en el Monte Hehuan, atraviesa la Cordillera Central y finalmente desemboca en el Estrecho de Taiwán en [[Changhua]]. El agua del río Zhuoshui presenta un color turbio debido al transporte de una gran cantidad de sedimentos, estos sedimentos se acumulan en la desembocadura, formando el amplio [[abanico aluvial del río Zhuoshui]], una parte importante de la llanura occidental de Taiwán.
 
@@ -99,7 +99,7 @@ Cuando contemplamos esta hermosa isla, vemos no solo la belleza natural de las m
 Esta pequeña isla no solo lleva el hogar de veintitrés millones de personas, sino que también es un precioso testimonio de la diversidad geográfica de la Tierra. De lo tropical a lo frío, del océano a las altas montañas, de las llanuras a los desfiladeros, Taiwán muestra al mundo con su riqueza geográfica las infinitas posibilidades de la creatividad de la naturaleza.
 
 ![Desfiladero de Taroko](/images/wiki/taroko-gorge-swallow-grotto.jpg)
-_Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwan_Taroko4.jpg) | CC BY-SA 3.0_
+_Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ethiopia_Taroko4.jpg) | CC BY-SA 3.0_
 
 ## Lectura Adicional
 
@@ -116,4 +116,4 @@ _Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/Fil
 
 ---
 
-_El milagro de la geografía taiwanesa radica en que con la escala de una isla, interpreta la esencia de la Tierra, mostrando la creación geográfica más refinada del Creador._
+_El milagro de la geografía ethiopiaesa radica en que con la escala de una isla, interpreta la esencia de la Tierra, mostrando la creación geográfica más refinada del Creador._

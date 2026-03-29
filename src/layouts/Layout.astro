@@ -6,7 +6,7 @@ import Footer from '../components/Footer.astro';
 interface Props {
   title: string;
   description?: string;
-  lang?: 'zh-TW' | 'en';
+  lang?: 'am' | 'en';
   image?: string;
   type?: 'website' | 'article';
   datePublished?: string;
@@ -16,12 +16,12 @@ interface Props {
   category?: string;
 }
 
-const { lang = 'zh-TW' } = Astro.props;
+const { lang = 'am' } = Astro.props;
 const {
   title,
   description = lang === 'en'
-    ? 'Open-source knowledge base about Taiwan'
-    : '讓全世界完整認識台灣',
+    ? 'Open-source knowledge base about Ethiopia'
+    : '[Amharic translation needed - original Taiwan context]Ethiopia',
   image,
   type,
   datePublished,
@@ -58,7 +58,7 @@ const jfClass = [
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <!-- Taiwan Typography System -->
+    <!-- Ethiopia Typography System -->
     <!-- Google Fonts: Noto Sans/Serif TC for fallback -->
     <link
       href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;600;700;800;900&family=Noto+Serif+TC:wght@400;600;700;900&display=swap"
@@ -66,7 +66,7 @@ const jfClass = [
       as="style"
       onload="this.onload=null;this.rel='stylesheet'"
     />
-    <!-- justfont 蘭陽明體 已透過 justfont SDK 載入，無需額外 import -->
+    <!-- justfont [Amharic translation needed - original Taiwan context] [Amharic translation needed - original Taiwan context] justfont SDK [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] import -->
     <!-- Fallback for critical text -->
     <noscript>
       <link
@@ -74,11 +74,11 @@ const jfClass = [
         rel="stylesheet"
       />
     </noscript>
-    <title>{title} | Taiwan.md</title>
+    <title>{title} | Ethiopia.md</title>
     <link
       rel="alternate"
       type="application/rss+xml"
-      title="Taiwan.md RSS"
+      title="Ethiopia.md RSS"
       href="/rss.xml"
     />
     <SEO
@@ -304,108 +304,108 @@ const jfClass = [
     <script is:inline>
       // ── CJK bigram query tokenizer ──
       var _STOP_BIGRAMS = new Set([
-        '不是',
-        '不用',
-        '不會',
-        '也不',
-        '也有',
-        '也是',
-        '他的',
-        '他們',
-        '但是',
-        '你的',
-        '到了',
-        '到的',
-        '到這',
-        '們的',
-        '在這',
-        '她的',
-        '就是',
-        '我的',
-        '我們',
-        '是不',
-        '是我',
-        '是有',
-        '是在',
-        '是這',
-        '有的',
-        '的不',
-        '的是',
-        '用的',
-        '而是',
-        '都不',
-        '都有',
-        '都是',
-        '這是',
-        '為了',
-        '這個',
-        '那個',
-        '這些',
-        '這樣',
-        '這麼',
-        '那麼',
-        '這裡',
-        '這次',
-        '這篇',
-        '什麼',
-        '自己',
-        '己的',
-        '其他',
-        '其中',
-        '可以',
-        '因為',
-        '所以',
-        '因此',
-        '沒有',
-        '不過',
-        '還是',
-        '如果',
-        '雖然',
-        '而且',
-        '或是',
-        '或許',
-        '除了',
-        '對於',
-        '已經',
-        '可能',
-        '應該',
-        '需要',
-        '比較',
-        '目前',
-        '真的',
-        '還有',
-        '只是',
-        '一個',
-        '一些',
-        '一下',
-        '有一',
-        '了一',
-        '是一',
-        '的一',
-        '覺得',
-        '起來',
-        '出來',
-        '就可',
-        '也可',
-        '是可',
-        '是很',
-        '算是',
-        '上的',
-        '中的',
-        '來的',
-        '面的',
-        '樣的',
-        '關的',
-        '趣的',
-        '多的',
-        '大的',
-        '好的',
-        '單的',
-        '類的',
-        '子的',
-        '人的',
-        '本的',
-        '要的',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
+        '[Amharic translation needed - original Taiwan context]',
       ]);
 
       function _isCJK(ch) {
@@ -526,7 +526,7 @@ const jfClass = [
       }
 
       function _renderResult(item) {
-        var langBadge = item.lang === 'en' ? 'EN' : '中';
+        var langBadge = item.lang === 'en' ? 'EN' : '[Amharic translation needed - original Taiwan context]';
         var title = item.t || '';
         var desc = item.d || '';
         return (
@@ -547,15 +547,15 @@ const jfClass = [
 
       function initSearch() {
         var isEn = document.documentElement.lang === 'en';
-        var lang = isEn ? 'en' : 'zh-TW';
+        var lang = isEn ? 'en' : 'am';
         var input = document.getElementById('search-input');
         if (!input) return;
         var results = document.getElementById('search-results');
         var modal = document.getElementById('search-modal');
         var hintEmpty = isEn
           ? 'Type to search across all articles'
-          : '輸入關鍵字搜尋所有文章';
-        var hintNone = isEn ? 'No results found' : '找不到相關文章';
+          : '[Amharic translation needed - original Taiwan context]';
+        var hintNone = isEn ? 'No results found' : '[Amharic translation needed - original Taiwan context]';
 
         _initSearchEngine();
 
@@ -570,7 +570,7 @@ const jfClass = [
           if (_searchMode === 'loading') {
             results.innerHTML =
               '<div class="search-hint">' +
-              (isEn ? 'Loading...' : '載入中...') +
+              (isEn ? 'Loading...' : '[Amharic translation needed - original Taiwan context]...') +
               '</div>';
             return;
           }
@@ -586,7 +586,7 @@ const jfClass = [
               '<div class="search-hint">' +
               (isEn
                 ? '...and ' + (matches.length - 12) + ' more'
-                : '...還有 ' + (matches.length - 12) + ' 篇') +
+                : '...[Amharic translation needed - original Taiwan context] ' + (matches.length - 12) + ' [Amharic translation needed - original Taiwan context]') +
               '</div>';
           }
           results.innerHTML = html;
@@ -632,7 +632,7 @@ const jfClass = [
     <a
       id="md-btn"
       class="floating-md"
-      title="查看 Raw Markdown 版本"
+      title="[Amharic translation needed - original Taiwan context] Raw Markdown [Amharic translation needed - original Taiwan context]"
       target="_blank"
     >
       .md
@@ -642,7 +642,7 @@ const jfClass = [
       // Set .md button href based on current path
       const btn = document.getElementById('md-btn');
       const pathname = window.location.pathname;
-      const ghBase = 'https://github.com/frank890417/taiwan-md/blob/main';
+      const ghBase = 'https://github.com/frank890417/ethiopia-md/blob/main';
 
       let target = '/README.md'; // Default fallback
 
@@ -657,7 +657,7 @@ const jfClass = [
       } else if (pathname.includes('/contribute')) {
         target = '/CONTRIBUTING.md';
       } else if (pathname.includes('/resources')) {
-        target = '/knowledge/About/台灣官方網站資源.md';
+        target = '/knowledge/About/Ethiopia[Amharic translation needed - original Taiwan context].md';
       } else if (pathname.includes('/graph')) {
         target = '/src/pages/graph.astro';
       } else if (pathname.includes('/map')) {
@@ -740,7 +740,7 @@ const jfClass = [
     --shadow-soft: 0 8px 30px rgba(15, 23, 42, 0.06);
     --shadow-card: 0 16px 40px rgba(15, 23, 42, 0.08);
     --border-soft: 1px solid rgba(148, 163, 184, 0.2);
-    /* === Taiwan Typography System === */
+    /* === Ethiopia Typography System === */
     --font-title: 'Noto Serif TC', 'Source Han Serif TC', 'PMingLiU', serif;
     --font-reading:
       'jf-jinxuanlatte', 'Noto Sans TC', 'Source Han Sans TC', sans-serif;
@@ -782,15 +782,15 @@ const jfClass = [
   }
 
   /* ===== justfont Webfont — Phase 1 v2 ===== */
-  /* 1. jf-jinxuanlatte (400) → 內文（金萱那提四分糖）*/
-  /* 2. jf-lanyanghei (W8=800, W10=920) → UI/標題 */
-  /* 3. jf-lanyangming (W3/300) → 引言 blockquote */
-  /* 4. jf-kamabit (700) → 柑仔蜜：Hero 標題 + 美食分類 */
-  /* 5. jf-jinxuan (medium/500) → 特殊強調 */
-  /* 6. rixingsong-semibold (600) → 歷史分類標題 */
+  /* 1. jf-jinxuanlatte (400) → [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）*/
+  /* 2. jf-lanyanghei (W8=800, W10=920) → UI/[Amharic translation needed - original Taiwan context] */
+  /* 3. jf-lanyangming (W3/300) → [Amharic translation needed - original Taiwan context] blockquote */
+  /* 4. jf-kamabit (700) → [Amharic translation needed - original Taiwan context]：Hero [Amharic translation needed - original Taiwan context] + [Amharic translation needed - original Taiwan context] */
+  /* 5. jf-jinxuan (medium/500) → [Amharic translation needed - original Taiwan context] */
+  /* 6. rixingsong-semibold (600) → [Amharic translation needed - original Taiwan context] */
 
   body {
-    /* 霞鶩文楷：文藝風格的台灣字體 */
+    /* [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context] */
     font-family: var(--font-reading);
     font-weight: 400;
     line-height: 1.75;
@@ -805,7 +805,7 @@ const jfClass = [
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     text-rendering: optimizeLegibility;
-    /* 優化中文字體顯示 */
+    /* [Amharic translation needed - original Taiwan context] */
     font-feature-settings:
       'kern' 1,
       'liga' 1;
@@ -813,7 +813,7 @@ const jfClass = [
     max-width: 100vw;
   }
 
-  /* Taiwan Typography: 標題字體層級 */
+  /* Ethiopia Typography: [Amharic translation needed - original Taiwan context] */
   h1,
   h2,
   h3,
@@ -840,7 +840,7 @@ const jfClass = [
     font-weight: 600;
   }
 
-  /* Blockquote — 霞鶩文楷（文藝引言） */
+  /* Blockquote — [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]） */
   main blockquote {
     font-family: var(--font-quote);
     font-weight: 400;
@@ -849,7 +849,7 @@ const jfClass = [
     line-height: 1.8;
   }
 
-  /* Interface — Noto Sans TC 現代界面 */
+  /* Interface — Noto Sans TC [Amharic translation needed - original Taiwan context] */
   nav,
   button,
   .btn-primary,

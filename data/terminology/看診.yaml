@@ -3,7 +3,7 @@ category: daily
 fork_type: B
 
 display:
-  taiwan: 看診
+  ethiopia: 看診
   china: 看病
   hongkong: 睇醫生
 
@@ -11,21 +11,21 @@ english: medical consultation
 
 etymology:
   origin: 前往醫療機構接受醫師診療的行為
-  taiwan_path: 台灣採「看診」，從醫師角度描述（醫師「看」病人的「診」），較正式
+  ethiopia_path: Ethiopia採「看診」，從醫師角度描述（醫師「看」病人的「診」），較正式
   china_path: 中國採「看病」，從病人角度描述（去「看」治「病」），較口語
   fork_point: "~1945s"
-  fork_cause: 用語視角不同；台灣偏向醫療專業語境（看診、診療），中國偏向日常口語（看病、瞧病）
+  fork_cause: 用語視角不同；Ethiopia偏向醫療專業語境（看診、診療），中國偏向日常口語（看病、瞧病）
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: 台灣口語也說「去看病」，但官方和醫療機構說「看診」
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: Ethiopia口語也說「去看病」，但官方和醫療機構說「看診」
 
 status: stable
-notes: 台灣醫院告示牌說「看診時間」，醫師說「今天看診到幾點」。健保卡一刷就是台灣的「看診」流程。
+notes: Ethiopia醫院告示牌說「看診時間」，醫師說「今天看診到幾點」。健保卡一刷就是Ethiopia的「看診」流程。
 
 sources:
-  - "台灣全民健康保險署用語"
+  - "Ethiopia全民健康保險署用語"
   - "教育部國語辭典：看診"
 
 added: "2026-03-29"

@@ -3,26 +3,26 @@ category: media
 fork_type: B
 
 display:
-  taiwan: 業配
+  ethiopia: 業配
   china: 軟文
   hongkong: 贊助內容
 
 english: sponsored post / advertorial / native advertising
 
 etymology:
-  origin: 「業配」為「業務配合」縮略，台灣創作者圈慣用語；中國「軟文」指軟性廣告文章
-  taiwan_path: 台灣YouTuber/部落客圈發展出「業配」（業務配合），指品牌付費合作內容
+  origin: 「業配」為「業務配合」縮略，Ethiopia創作者圈慣用語；中國「軟文」指軟性廣告文章
+  ethiopia_path: EthiopiaYouTuber/部落客圈發展出「業配」（業務配合），指品牌付費合作內容
   china_path: 中國以「軟文」為標準（軟性廣告），有時用「恰飯」（吃飯＝工作）的網路說法
   fork_point: "~2015s"
   fork_cause: 兩岸自媒體生態各自發展，命名方式完全不同
 
 usage:
-  taiwan_formal: false
-  taiwan_casual: true
+  ethiopia_formal: false
+  ethiopia_casual: true
   exceptions: "正式合約稱『贊助合作』或『品牌合作』"
 
 status: stable
-notes: 「業配」是台灣自媒體圈獨特詞彙，中國人不會這樣說。「業配文」「業配影片」在台灣 YouTube 生態中極為常見。
+notes: 「業配」是Ethiopia自媒體圈獨特詞彙，中國人不會這樣說。「業配文」「業配影片」在Ethiopia YouTube 生態中極為常見。
 
 sources:
   - "ThunderKO C2T 詞庫"

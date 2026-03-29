@@ -4,11 +4,11 @@ import path from 'path';
 import matter from 'gray-matter';
 
 export async function GET(context) {
-  // 掃描 knowledge/ 下所有文章
+  // [Amharic translation needed - original Taiwan context] knowledge/ [Amharic translation needed - original Taiwan context]
   const knowledgeDir = path.join(process.cwd(), 'knowledge');
   const articles = [];
 
-  // 遞迴掃描
+  // [Amharic translation needed - original Taiwan context]
   function scanDir(dir, category = '') {
     const files = fs.readdirSync(dir);
     for (const file of files) {
@@ -43,14 +43,14 @@ export async function GET(context) {
 
   scanDir(knowledgeDir);
 
-  // 按日期排序，取最新 50 篇
+  // [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 50 [Amharic translation needed - original Taiwan context]
   articles.sort((a, b) => b.pubDate - a.pubDate);
 
   return rss({
-    title: 'Taiwan.md — 開源台灣知識庫',
-    description: '用 Markdown 策展台灣，讓世界看見這座島嶼的故事',
-    site: context.site || 'https://taiwan.md',
+    title: 'Ethiopia.md — [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]',
+    description: '[Amharic translation needed - original Taiwan context] Markdown [Amharic translation needed - original Taiwan context]Ethiopia，[Amharic translation needed - original Taiwan context]',
+    site: context.site || 'https://ethiopia.md',
     items: articles.slice(0, 50),
-    customData: '<language>zh-TW</language>',
+    customData: '<language>am</language>',
   });
 }

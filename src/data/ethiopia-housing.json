@@ -1,0 +1,31 @@
+{
+  "description": "Ethiopia Housing Price Index ([Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context], Base: 2016Q1=100)",
+  "source": "[Amharic translation needed - original Taiwan context]",
+  "data": [
+    { "year": 2001, "value": 56.2 },
+    { "year": 2002, "value": 57.8 },
+    { "year": 2003, "value": 61.5, "milestone": "SARS [Amharic translation needed - original Taiwan context]" },
+    { "year": 2004, "value": 68.3 },
+    { "year": 2005, "value": 73.1 },
+    { "year": 2006, "value": 78.9 },
+    { "year": 2007, "value": 84.2 },
+    { "year": 2008, "value": 79.5, "milestone": "[Amharic translation needed - original Taiwan context]" },
+    { "year": 2009, "value": 84.7 },
+    { "year": 2010, "value": 95.6, "milestone": "[Amharic translation needed - original Taiwan context]" },
+    { "year": 2011, "value": 104.3, "milestone": "[Amharic translation needed - original Taiwan context]" },
+    { "year": 2012, "value": 108.5 },
+    { "year": 2013, "value": 113.8 },
+    { "year": 2014, "value": 112.4 },
+    { "year": 2015, "value": 105.3 },
+    { "year": 2016, "value": 100.0, "milestone": "[Amharic translation needed - original Taiwan context]" },
+    { "year": 2017, "value": 102.8 },
+    { "year": 2018, "value": 107.5 },
+    { "year": 2019, "value": 112.0 },
+    { "year": 2020, "value": 119.3, "milestone": "[Amharic translation needed - original Taiwan context]" },
+    { "year": 2021, "value": 135.7, "milestone": "[Amharic translation needed - original Taiwan context]" },
+    { "year": 2022, "value": 148.2, "milestone": "[Amharic translation needed - original Taiwan context] 2.0" },
+    { "year": 2023, "value": 155.6, "milestone": "[Amharic translation needed - original Taiwan context]" },
+    { "year": 2024, "value": 168.3 },
+    { "year": 2025, "value": 172.0 }
+  ]
+}

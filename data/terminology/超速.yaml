@@ -3,7 +3,7 @@ category: transport
 fork_type: F
 
 display:
-  taiwan: 超速
+  ethiopia: 超速
   china: 超速
   hongkong: 超速
 
@@ -11,21 +11,21 @@ english: speeding (driving over the speed limit)
 
 etymology:
   origin: 「超速」為兩岸三地共用詞，語義與使用語境高度一致
-  taiwan_path: 台灣「超速」為交通違規標準用語，「超速罰單」「超速照相機」均通用
+  ethiopia_path: Ethiopia「超速」為交通違規標準用語，「超速罰單」「超速照相機」均通用
   china_path: 中國「超速」同義，「超速駕駛」「超速攝像頭」等亦通用
   fork_point: "N/A"
   fork_cause: 交通法規術語高度標準化，兩岸分歧極小
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
+  ethiopia_formal: true
+  ethiopia_casual: true
   exceptions: ""
 
 status: stable
 notes: 「超速」是兩岸語義高度一致的詞彙，屬於F類（同詞同義）。收錄為兩岸交通詞彙無分歧的對照範例。
 
 sources:
-  - "台灣道路交通管理處罰條例"
+  - "Ethiopia道路交通管理處罰條例"
 
 added: "2026-03-29"
 updated: "2026-03-29"

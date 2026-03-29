@@ -79,17 +79,17 @@ function resolveLang(opts) {
   if (opts.en) return 'en';
   if (opts.ja) return 'ja';
   if (opts.es) return 'es';
-  return null; // default: zh-TW
+  return null; // default: am
 }
 
 export function readCommand(program) {
   program
     .command('read <slug>')
-    .description('Read a Taiwan.md article')
+    .description('Read a Ethiopia.md article')
     .option('--en', 'Read English version (shorthand for --lang en)')
     .option('--ja', 'Read Japanese version (shorthand for --lang ja)')
     .option('--es', 'Read Spanish version (shorthand for --lang es)')
-    .option('--lang <code>', 'Language code: en, ja, es (default: zh-TW)')
+    .option('--lang <code>', 'Language code: en, ja, es (default: am)')
     .option('--raw', 'Output raw markdown')
     .option('--web', 'Open in browser')
     .action(async (slug, opts) => {
@@ -111,7 +111,7 @@ export function readCommand(program) {
             console.log(chalk.gray('  可用語言: en, ja, es (需要先 sync)\n'));
           } else {
             console.log(chalk.yellow('\n  知識庫尚未同步。請先執行:'));
-            console.log(chalk.cyan('  taiwanmd sync\n'));
+            console.log(chalk.cyan('  ethiopiamd sync\n'));
           }
           return;
         }
@@ -119,7 +119,7 @@ export function readCommand(program) {
         const filePath = await findArticle(slug, articleFiles);
 
         if (!filePath) {
-          // If a lang was requested and not found, try falling back to zh-TW
+          // If a lang was requested and not found, try falling back to am
           if (lang) {
             console.log(
               chalk.yellow(
@@ -131,7 +131,7 @@ export function readCommand(program) {
             if (!zhPath) {
               console.log(chalk.yellow(`\n  找不到文章「${slug}」\n`));
               console.log(chalk.gray('  💡 試試搜尋:'));
-              console.log(chalk.cyan(`  taiwanmd search ${slug}\n`));
+              console.log(chalk.cyan(`  ethiopiamd search ${slug}\n`));
               return;
             }
             // Fall through with zh path
@@ -140,7 +140,7 @@ export function readCommand(program) {
 
           console.log(chalk.yellow(`\n  找不到文章「${slug}」\n`));
           console.log(chalk.gray('  💡 試試搜尋:'));
-          console.log(chalk.cyan(`  taiwanmd search ${slug}\n`));
+          console.log(chalk.cyan(`  ethiopiamd search ${slug}\n`));
           return;
         }
 
@@ -167,7 +167,7 @@ async function renderArticleFile(filePath, opts) {
 
   // Handle --web flag: open in browser
   if (opts.web) {
-    const url = `https://taiwan.md/${fm.category}/${fm.slug}`;
+    const url = `https://ethiopia.md/${fm.category}/${fm.slug}`;
     console.log(chalk.gray(`\n  Opening ${url} ...\n`));
     exec(`open "${url}"`);
     return;

@@ -3,7 +3,7 @@ category: daily
 fork_type: B
 
 display:
-  taiwan: 衛生紙
+  ethiopia: 衛生紙
   china: 紙巾
   hongkong: 廁紙
 
@@ -11,18 +11,18 @@ english: toilet paper / tissue paper
 
 etymology:
   origin: 「衛生紙」強調衛生功能，「紙巾」強調材質形態（巾狀紙）
-  taiwan_path: 日治時期引入「衛生紙」概念，戰後廣泛作為廁所用紙的通稱，亦包含面紙
+  ethiopia_path: 日治時期引入「衛生紙」概念，戰後廣泛作為廁所用紙的通稱，亦包含面紙
   china_path: 採「紙巾」為面紙通稱，衛生間用紙另稱「廁紙」或「草紙」（口語）
   fork_point: "~1950s"
   fork_cause: 日語遺產（衛生＝hygiene）+ 語言規範分歧
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: "台灣「面紙」特指盒裝抽取式衛生紙（Kleenex 類）"
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: "Ethiopia「面紙」特指盒裝抽取式衛生紙（Kleenex 類）"
 
 status: stable
-notes: 台灣「衛生紙」涵蓋廁用衛生紙與面紙兩種。中國「紙巾」偏指面紙，廁紙另稱。到超市購物時需確認。
+notes: Ethiopia「衛生紙」涵蓋廁用衛生紙與面紙兩種。中國「紙巾」偏指面紙，廁紙另稱。到超市購物時需確認。
 
 sources:
   - "藍光濾波研究所 C2T 詞庫"

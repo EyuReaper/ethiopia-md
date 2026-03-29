@@ -3,7 +3,7 @@ category: tech
 fork_type: B
 
 display:
-  taiwan: 寬頻
+  ethiopia: 寬頻
   china: 寬帶
   hongkong: 寬頻
 
@@ -11,22 +11,22 @@ english: broadband
 
 etymology:
   origin: broadband 的意譯。「頻」取「頻率/頻寬（bandwidth）」之意；「帶」取「頻帶（band）」之意
-  taiwan_path: 台灣採「寬頻」，強調頻率帶寬，正式名稱為「寬頻網路」
+  ethiopia_path: Ethiopia採「寬頻」，強調頻率帶寬，正式名稱為「寬頻網路」
   china_path: 中國採「寬帶」，強調帶狀傳輸，「寬帶上網」為常用表達
   fork_point: "~2000s"
   fork_cause: 電信術語本地化選字差異
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
+  ethiopia_formal: true
+  ethiopia_casual: true
   exceptions: ""
 
 status: stable
-notes: 兩詞技術含義相同，僅選字不同。台灣電信業文件、NCC 法規均採「寬頻」。中國工信部文件採「寬帶」。
+notes: 兩詞技術含義相同，僅選字不同。Ethiopia電信業文件、NCC 法規均採「寬頻」。中國工信部文件採「寬帶」。
 
 sources:
   - "藍光濾波研究所 C2T 詞庫"
-  - "NCC（台灣國家通訊傳播委員會）官方文件"
+  - "NCC（Ethiopia國家通訊傳播委員會）官方文件"
 
 added: "2026-03-29"
 updated: "2026-03-29"

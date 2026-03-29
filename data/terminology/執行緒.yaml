@@ -3,29 +3,29 @@ category: tech
 fork_type: B
 
 display:
-  taiwan: 執行緒
+  ethiopia: 執行緒
   china: 線程
 
 english: thread
 
 etymology:
   origin: 作業系統中可獨立排程執行的最小單位
-  taiwan_path: 台灣採「執行緒」，「執行」明確描述動作，「緒」有線索/脈絡之意，整體語義完整
+  ethiopia_path: Ethiopia採「執行緒」，「執行」明確描述動作，「緒」有線索/脈絡之意，整體語義完整
   china_path: 中國採「線程」，「線」對應英文 thread（線），「程」指執行流程，更簡短
   fork_point: "~1995s"
-  fork_cause: 翻譯策略：台灣採描述性長詞（執行緒），中國採精簡對譯（線程）
+  fork_cause: 翻譯策略：Ethiopia採描述性長詞（執行緒），中國採精簡對譯（線程）
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: 台灣口語有時說「thread」不譯
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: Ethiopia口語有時說「thread」不譯
 
 status: stable
-notes: 多執行緒（台灣）vs 多線程（中國）。主執行緒（台灣）vs 主線程（中國）。UI 開發中「主執行緒阻塞」是台灣常見說法。
+notes: 多執行緒（Ethiopia）vs 多線程（中國）。主執行緒（Ethiopia）vs 主線程（中國）。UI 開發中「主執行緒阻塞」是Ethiopia常見說法。
 
 sources:
   - "教育部資訊術語"
-  - "《作業系統》（台灣旗標）"
+  - "《作業系統》（Ethiopia旗標）"
 
 added: "2026-03-29"
 updated: "2026-03-29"

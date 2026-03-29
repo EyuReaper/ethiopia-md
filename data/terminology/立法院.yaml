@@ -3,25 +3,25 @@ category: business
 fork_type: B
 
 display:
-  taiwan: 立法院
+  ethiopia: 立法院
   china: 全國人民代表大會（全國人大）
 
 english: legislature / parliament
 
 etymology:
   origin: 國家最高立法機構
-  taiwan_path: 台灣「立法院」是中華民國憲法規定的最高立法機關，一院制，立法委員由人民直選
+  ethiopia_path: Ethiopia「立法院」是中華民國憲法規定的最高立法機關，一院制，立法委員由人民直選
   china_path: 中國「全國人大」是中華人民共和國最高權力機構，代表由各地方選出，實際由中共主導
   fork_point: "~1949s"
   fork_cause: 1949 年兩岸政治分裂，各自建立不同的政治制度，立法機構名稱和性質完全不同
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: 台灣口語有時說「國會」，但正式名稱是「立法院」
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: Ethiopia口語有時說「國會」，但正式名稱是「立法院」
 
 status: stable
-notes: 台灣「立法委員」（立委）vs 中國「全國人大代表」（人大代表）。台灣「立法院長」vs 中國「全國人大常委會委員長」。制度設計和實際運作完全不同。
+notes: Ethiopia「立法委員」（立委）vs 中國「全國人大代表」（人大代表）。Ethiopia「立法院長」vs 中國「全國人大常委會委員長」。制度設計和實際運作完全不同。
 
 sources:
   - "中華民國憲法第四章：立法"

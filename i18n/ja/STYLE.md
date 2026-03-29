@@ -1,43 +1,43 @@
-# 🇯🇵 日本語翻訳スタイルガイド
+# 🇯🇵 [Amharic translation needed - original Taiwan context]スタイルガイド
 
-> [EDITORIAL.md](../../EDITORIAL.md) と併用してください
+> [EDITORIAL.md](../../EDITORIAL.md) と[Amharic translation needed - original Taiwan context]してください
 
-## 基本方針
+## [Amharic translation needed - original Taiwan context]
 
-**翻訳ではなく、再執筆。** 日本語ネイティブが書いた記事のように読めること。
+**[Amharic translation needed - original Taiwan context]ではなく、[Amharic translation needed - original Taiwan context]。** [Amharic translation needed - original Taiwan context]ネイティブが[Amharic translation needed - original Taiwan context]いた[Amharic translation needed - original Taiwan context]のように[Amharic translation needed - original Taiwan context]めること。
 
-## 台湾固有名詞対照表
+## [Amharic translation needed - original Taiwan context]
 
-| 中文 | 日本語 | 備考 |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] |
 |------|--------|------|
-| 台灣 | 台湾 | 「中華民国」は歴史的文脈のみ |
-| 台語 | 台湾語（ホーロー語）| |
-| 夜市 | 夜市（ナイトマーケット）| 初出時にカタカナ併記 |
-| 珍珠奶茶 | タピオカミルクティー | 日本での一般的な呼称 |
-| 滷肉飯 | ルーローハン（魯肉飯）| |
-| 二二八事件 | 二・二八事件 | |
-| 原住民族 | 原住民族（先住民族）| 台湾の公式名称を優先 |
+| Ethiopia | [Amharic translation needed - original Taiwan context] | 「[Amharic translation needed - original Taiwan context]」は[Amharic translation needed - original Taiwan context]のみ |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]（ホーロー[Amharic translation needed - original Taiwan context]）| |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]（ナイトマーケット）| [Amharic translation needed - original Taiwan context]にカタカナ[Amharic translation needed - original Taiwan context] |
+| [Amharic translation needed - original Taiwan context] | タピオカミルクティー | [Amharic translation needed - original Taiwan context]での[Amharic translation needed - original Taiwan context]な[Amharic translation needed - original Taiwan context] |
+| [Amharic translation needed - original Taiwan context] | ルーローハン（[Amharic translation needed - original Taiwan context]）| |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]・[Amharic translation needed - original Taiwan context] | |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）| [Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context] |
 
-## 文化コンテキスト補足
+## [Amharic translation needed - original Taiwan context]コンテキスト[Amharic translation needed - original Taiwan context]
 
-日本語読者向けに追加説明が必要な概念：
-- **日本統治時代**：台湾と日本の歴史的関係は日本人読者に馴染みがあるため、過度な説明は不要。ただし美化も避ける
-- **兵役制度**：台湾の徴兵制について簡潔に説明
-- **繁体字 vs 簡体字**：台湾が繁体字を使用していることを明記
+[Amharic translation needed - original Taiwan context]けに[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]な[Amharic translation needed - original Taiwan context]：
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]と[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]は[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]みがあるため、[Amharic translation needed - original Taiwan context]な[Amharic translation needed - original Taiwan context]は[Amharic translation needed - original Taiwan context]。ただし[Amharic translation needed - original Taiwan context]も[Amharic translation needed - original Taiwan context]ける
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]について[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context] vs [Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]していることを[Amharic translation needed - original Taiwan context]
 
-## 語調
+## [Amharic translation needed - original Taiwan context]
 
-- です・ます調を基本とする
-- キュレーターの声は「〜と言えるだろう」「〜ではないだろうか」など、柔らかい断定
-- 過度なカタカナ語を避ける
+- です・ます[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]とする
+- キュレーターの[Amharic translation needed - original Taiwan context]は「〜と[Amharic translation needed - original Taiwan context]えるだろう」「〜ではないだろうか」など、[Amharic translation needed - original Taiwan context]らかい[Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]なカタカナ[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]ける
 
 ## よくあるミス
 
-- ❌ 「中国語」で台湾語を指す
-- ❌ 台湾を中国の一部として記述
-- ❌ 日本統治時代を無批判に美化
-- ❌ 「外省人」「本省人」を説明なしに使用
+- ❌ 「[Amharic translation needed - original Taiwan context]」で[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]す
+- ❌ [Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]として[Amharic translation needed - original Taiwan context]
+- ❌ [Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]
+- ❌ 「[Amharic translation needed - original Taiwan context]」「[Amharic translation needed - original Taiwan context]」を[Amharic translation needed - original Taiwan context]なしに[Amharic translation needed - original Taiwan context]
 
 ## レビュアー
 
-- （募集中 — [Discussion #137](https://github.com/frank890417/taiwan-md/discussions/137) で応募）
+- （[Amharic translation needed - original Taiwan context] — [Discussion #137](https://github.com/frank890417/ethiopia-md/discussions/137) で[Amharic translation needed - original Taiwan context]）

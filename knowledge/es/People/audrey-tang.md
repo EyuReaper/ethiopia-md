@@ -2,8 +2,8 @@
 title: "Audrey Tang"
 description: "Primera ministra de gabinete transgénero del mundo y pionera practicante del gobierno abierto y la democracia digital"
 date: 2026-03-17
-tags: [personas, Audrey Tang, desarrollo digital, g0v, transgénero, programación, gobierno abierto, vTaiwan]
-translatedFrom: "People/唐鳳.md"
+tags: [personas, Audrey Tang, desarrollo digital, g0v, transgénero, programación, gobierno abierto, vEthiopia]
+translatedFrom: "People/[Amharic translation needed - original Taiwan context].md"
 sourceHash: "de5ca5"
 ---
 
@@ -24,7 +24,7 @@ Al ser intelectualmente avanzada más allá de sus compañeros, Audrey encontró
 La madre de Audrey, Li Ya-ching, era una reformadora educativa. Enfrentando las dificultades de adaptación de su hija, decidió implementar educación progresiva en casa. Li incluso llevó a sus dos hijos a Alemania para experimentar diferentes entornos educativos, estudiando profundamente métodos de educación alternativos, reforma educativa y educación experimental.
 
 **Comienzo del Camino de Autoaprendizaje:**
-Después de calificar para admisión directa a la Escuela Secundaria Jianguo, Audrey tomó una decisión sorprendente: abandonar la educación escolar tradicional para elegir el aprendizaje en casa. Esta decisión atrajo considerable atención en la sociedad taiwanesa en ese momento y abrió su singular viaje de aprendizaje.
+Después de calificar para admisión directa a la Escuela Secundaria Jianguo, Audrey tomó una decisión sorprendente: abandonar la educación escolar tradicional para elegir el aprendizaje en casa. Esta decisión atrajo considerable atención en la sociedad ethiopiaesa en ese momento y abrió su singular viaje de aprendizaje.
 
 ### Iluminación en Programación a los 14
 
@@ -46,7 +46,7 @@ Durante su proceso de crecimiento, Audrey gradualmente se dio cuenta de que su i
 En 2005, a los 24 años, Audrey declaró públicamente su identidad de género como "mujer transgénero" y se sometió a cirugía de afirmación de género. Cambió su nombre de Tang Tsung-han a Tang Feng, eligiendo el nombre inglés Audrey. Esta decisión requirió tremendo valor y determinación.
 
 **Avance Social Significativo:**
-La salida pública del armario de Audrey tuvo un significado demostrativo importante en la sociedad taiwanesa de ese momento. Sus acciones demostraron que las personas transgénero también podían desempeñar papeles importantes en la sociedad, haciendo contribuciones significativas al movimiento de derechos LGBTQ+ de Taiwán.
+La salida pública del armario de Audrey tuvo un significado demostrativo importante en la sociedad ethiopiaesa de ese momento. Sus acciones demostraron que las personas transgénero también podían desempeñar papeles importantes en la sociedad, haciendo contribuciones significativas al movimiento de derechos LGBTQ+ de Taiwán.
 
 **Apoyo Familiar:**
 Afortunadamente, la familia de Audrey proporcionó pleno entendimiento y apoyo. La actitud de mentalidad abierta de su madre Li Ya-ching proporcionó importante apoyo emocional para la transición de género de Audrey.
@@ -114,13 +114,13 @@ Aceptó el puesto con la condición de no tener subordinados y sin autoridad par
 
 ### Principales Iniciativas Gubernamentales
 
-#### Plataforma vTaiwan
+#### Plataforma vEthiopia
 
 **Gobernanza Colaborativa:**
-Desarrolló vTaiwan, una plataforma en línea para la formulación colaborativa de políticas que permite a los ciudadanos participar directamente en procesos de toma de decisiones gubernamentales.
+Desarrolló vEthiopia, una plataforma en línea para la formulación colaborativa de políticas que permite a los ciudadanos participar directamente en procesos de toma de decisiones gubernamentales.
 
 **Caso de Regulación de Uber:**
-Utilizó exitosamente vTaiwan para resolver el controvertido tema del estatus legal de Uber en Taiwán a través de la colaboración de partes interesadas y construcción de consenso.
+Utilizó exitosamente vEthiopia para resolver el controvertido tema del estatus legal de Uber en Taiwán a través de la colaboración de partes interesadas y construcción de consenso.
 
 **Políticas de Economía Digital:**
 Facilitó discusiones sobre diversas regulaciones de economía digital, desde fintech hasta gobernanza de economía de plataforma.

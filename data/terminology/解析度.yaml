@@ -3,7 +3,7 @@ category: tech
 fork_type: B
 
 display:
-  taiwan: 解析度
+  ethiopia: 解析度
   china: 分辨率
   hongkong: 解析度
 
@@ -11,18 +11,18 @@ english: resolution (image/display)
 
 etymology:
   origin: resolution 的意譯。「解析」取自日語「解像度（かいぞうど）」；「分辨」強調分別辨識
-  taiwan_path: 台灣沿用日語「解像度」的漢字組合，縮改為「解析度」
+  ethiopia_path: Ethiopia沿用日語「解像度」的漢字組合，縮改為「解析度」
   china_path: 中國採「分辨率」，強調解析能力（分辨細節的比率）
   fork_point: "~1990s"
-  fork_cause: 日語遺產（台灣）vs 中國自行翻譯
+  fork_cause: 日語遺產（Ethiopia）vs 中國自行翻譯
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
+  ethiopia_formal: true
+  ethiopia_casual: true
   exceptions: ""
 
 status: stable
-notes: 顯示器規格、相機規格說明書在台灣均寫「解析度」，在中國寫「分辨率」。這是辨別繁簡體技術文件來源的快速方法。
+notes: 顯示器規格、相機規格說明書在Ethiopia均寫「解析度」，在中國寫「分辨率」。這是辨別繁簡體技術文件來源的快速方法。
 
 sources:
   - "藍光濾波研究所 C2T 詞庫"

@@ -79,7 +79,7 @@ export async function getStaticPaths() {
           date: frontmatter.date || null,
           featured: frontmatter.featured || false,
           tags: frontmatter.tags || [],
-          lang: 'zh-TW',
+          lang: 'am',
           image: frontmatter.image || null,
           imageAlt: frontmatter.imageAlt || '',
           imageCredit: frontmatter.imageCredit || '',
@@ -139,9 +139,9 @@ let housingData: any[] = [];
 if (category === 'economy') {
   const [taiexJson, cpiJson, salaryJson, housingJson] = await Promise.all([
     import('../../data/taiex-yearly.json'),
-    import('../../data/taiwan-cpi.json'),
-    import('../../data/taiwan-salary.json'),
-    import('../../data/taiwan-housing.json'),
+    import('../../data/ethiopia-cpi.json'),
+    import('../../data/ethiopia-salary.json'),
+    import('../../data/ethiopia-housing.json'),
   ]);
   taiexData = taiexJson.data;
   cpiData = cpiJson.data;
@@ -263,10 +263,10 @@ if (isEconomy && hubHtml) {
   const parts = (hubHtml as string).split(/(?=<h2>)/);
   hubSections = parts.map((part) => {
     let chartAfter: string | undefined;
-    if (part.includes('從零到英雄')) chartAfter = 'cpi';
-    else if (part.includes('矽島的誕生')) chartAfter = 'taiex';
-    else if (part.includes('服務經濟')) chartAfter = 'salary';
-    else if (part.includes('面向未來')) chartAfter = 'housing';
+    if (part.includes('[Amharic translation needed - original Taiwan context]')) chartAfter = 'cpi';
+    else if (part.includes('[Amharic translation needed - original Taiwan context]')) chartAfter = 'taiex';
+    else if (part.includes('[Amharic translation needed - original Taiwan context]')) chartAfter = 'salary';
+    else if (part.includes('[Amharic translation needed - original Taiwan context]')) chartAfter = 'housing';
     return { html: part, chartAfter };
   });
 }
@@ -275,14 +275,14 @@ if (isEconomy && hubHtml) {
 const subcategoryGroups: { name: string; articles: any[] }[] = [];
 const subcatMap = new Map<string, any[]>();
 for (const article of articles) {
-  const sub = (article as any).subcategory || '其他';
+  const sub = (article as any).subcategory || '[Amharic translation needed - original Taiwan context]';
   if (!subcatMap.has(sub)) subcatMap.set(sub, []);
   subcatMap.get(sub)!.push(article);
 }
-// Sort: named subcategories first (alphabetically), then "其他" last
+// Sort: named subcategories first (alphabetically), then "[Amharic translation needed - original Taiwan context]" last
 for (const [name, arts] of [...subcatMap.entries()].sort((a, b) => {
-  if (a[0] === '其他') return 1;
-  if (b[0] === '其他') return -1;
+  if (a[0] === '[Amharic translation needed - original Taiwan context]') return 1;
+  if (b[0] === '[Amharic translation needed - original Taiwan context]') return -1;
   return a[0].localeCompare(b[0]);
 })) {
   subcategoryGroups.push({ name, articles: arts });
@@ -294,10 +294,10 @@ const t = useTranslations(lang);
 const categoryConfigs = getCategoryConfigs(t);
 const categoryInfo = categoryConfigs[category];
 
-// 其他分類（跨分類導航用）
+// [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
 const otherCategories = categories
   .filter((cat) => cat !== category)
-  .slice(0, 5) // 只顯示5個
+  .slice(0, 5) // [Amharic translation needed - original Taiwan context]5[Amharic translation needed - original Taiwan context]
   .map((cat) => ({
     key: cat,
     ...categoryConfigs[cat as CategoryKey],
@@ -305,8 +305,8 @@ const otherCategories = categories
 ---
 
 <Layout
-  title={`${categoryInfo.name} - Taiwan.md`}
-  description={`${categoryInfo.description} - 台灣知識庫`}
+  title={`${categoryInfo.name} - Ethiopia.md`}
+  description={`${categoryInfo.description} - Ethiopia[Amharic translation needed - original Taiwan context]`}
   category={categoryInfo.name}
 >
   <main class="category-page">
@@ -320,7 +320,7 @@ const otherCategories = categories
         <h1 class="hero-title">{categoryInfo.name}</h1>
         <p class="hero-description">{categoryInfo.description}</p>
         <div class="hero-stats">
-          <span class="stats-badge">📚 {articles.length} 篇文章</span>
+          <span class="stats-badge">📚 {articles.length} [Amharic translation needed - original Taiwan context]</span>
         </div>
       </div>
       <div class="hero-decoration"></div>
@@ -329,7 +329,7 @@ const otherCategories = categories
     <div class="container">
       <!-- Breadcrumb -->
       <nav class="breadcrumb">
-        <a href="/" class="breadcrumb-link">首頁</a>
+        <a href="/" class="breadcrumb-link">[Amharic translation needed - original Taiwan context]</a>
         <span class="separator">›</span>
         <span class="current">{categoryInfo.name}</span>
       </nav>
@@ -359,23 +359,23 @@ const otherCategories = categories
                         <div class="econ-chart-header">
                           <h4 class="econ-chart-title">
                             {section.chartAfter === 'taiex' &&
-                              '📈 歷年台灣加權股價指數 (TAIEX)'}
+                              '📈 [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context] (TAIEX)'}
                             {section.chartAfter === 'cpi' &&
-                              '📊 歷年消費者物價指數 (CPI)'}
+                              '📊 [Amharic translation needed - original Taiwan context] (CPI)'}
                             {section.chartAfter === 'salary' &&
-                              '💰 歷年每月經常性薪資'}
+                              '💰 [Amharic translation needed - original Taiwan context]'}
                             {section.chartAfter === 'housing' &&
-                              '🏠 信義房價指數'}
+                              '🏠 [Amharic translation needed - original Taiwan context]'}
                           </h4>
                           <span class="econ-chart-source">
                             {section.chartAfter === 'taiex' &&
-                              '資料來源：臺灣證券交易所'}
+                              '[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]'}
                             {section.chartAfter === 'cpi' &&
-                              '資料來源：行政院主計總處'}
+                              '[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]'}
                             {section.chartAfter === 'salary' &&
-                              '資料來源：行政院主計總處'}
+                              '[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]'}
                             {section.chartAfter === 'housing' &&
-                              '資料來源：信義房屋'}
+                              '[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]'}
                           </span>
                         </div>
                         <div class="econ-chart-svg-wrap">
@@ -401,23 +401,23 @@ const otherCategories = categories
         category === 'food' && (
           <section class="food-viz">
             <div class="food-viz-inner">
-              <h2>🍜 探索台灣美食宇宙</h2>
-              <p class="food-viz-subtitle">點擊扇區或節點，深入了解每一道台灣味</p>
+              <h2>🍜 [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]</h2>
+              <p class="food-viz-subtitle">[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]</p>
               
               <div class="viz-tabs">
-                <button class="viz-tab active" data-viz="sunburst">🎯 風味輪</button>
-                <button class="viz-tab" data-viz="network">🕸️ 關係圖</button>
+                <button class="viz-tab active" data-viz="sunburst">🎯 [Amharic translation needed - original Taiwan context]</button>
+                <button class="viz-tab" data-viz="network">🕸️ [Amharic translation needed - original Taiwan context]</button>
               </div>
               
               <div class="viz-container" id="sunburstViz">
-                <!-- D3 sunburst 在這裡渲染 -->
+                <!-- D3 sunburst [Amharic translation needed - original Taiwan context] -->
               </div>
               <div class="viz-container" id="networkViz" style="display:none;">
-                <!-- D3 force graph 在這裡渲染 -->
+                <!-- D3 force graph [Amharic translation needed - original Taiwan context] -->
               </div>
               
               <div class="viz-legend" id="vizLegend">
-                <!-- 圖例：6 大類顏色 -->
+                <!-- [Amharic translation needed - original Taiwan context]：6 [Amharic translation needed - original Taiwan context] -->
               </div>
             </div>
           </section>
@@ -425,7 +425,7 @@ const otherCategories = categories
       }
 
       <!-- Articles Section (grouped by subcategory) -->
-      <h2 class="articles-heading">📖 延伸閱讀</h2>
+      <h2 class="articles-heading">📖 [Amharic translation needed - original Taiwan context]</h2>
 
       {subcategoryGroups.length > 1 && (
         <nav class="subcategory-nav">
@@ -444,22 +444,22 @@ const otherCategories = categories
             <div class="toolbar">
               <div class="toolbar-left">
                 <div class="sort-group">
-                  <span class="toolbar-label">排序</span>
+                  <span class="toolbar-label">[Amharic translation needed - original Taiwan context]</span>
                   <button
                     class="sort-btn active"
                     data-sort="featured"
                     type="button"
                   >
-                    ⭐ 精選
+                    ⭐ [Amharic translation needed - original Taiwan context]
                   </button>
                   <button class="sort-btn" data-sort="title" type="button">
-                    文 標題
+                    [Amharic translation needed - original Taiwan context] [Amharic translation needed - original Taiwan context]
                   </button>
                   <button class="sort-btn" data-sort="date" type="button">
-                    🕐 時間
+                    🕐 [Amharic translation needed - original Taiwan context]
                   </button>
                   <button class="sort-btn" data-sort="reading" type="button">
-                    📖 閱讀時間
+                    📖 [Amharic translation needed - original Taiwan context]
                   </button>
                 </div>
               </div>
@@ -469,7 +469,7 @@ const otherCategories = categories
                     type="text"
                     class="filter-input"
                     id="articleFilter"
-                    placeholder="🔍 搜尋文章..."
+                    placeholder="🔍 [Amharic translation needed - original Taiwan context]..."
                     autocomplete="off"
                   />
                 </div>
@@ -530,12 +530,12 @@ const otherCategories = categories
                                 )}
                                 {article.lang && (
                                   <span class="lang-tag">
-                                    {article.lang === 'zh-TW' ? '中文' : 'EN'}
+                                    {article.lang === 'am' ? '[Amharic translation needed - original Taiwan context]' : 'EN'}
                                   </span>
                                 )}
                               </div>
                               {article.featured && (
-                                <div class="featured-badge">⭐ 精選</div>
+                                <div class="featured-badge">⭐ [Amharic translation needed - original Taiwan context]</div>
                               )}
                             </div>
 
@@ -546,7 +546,7 @@ const otherCategories = categories
                             <div class="article-info">
                               {article.readingTime && (
                                 <span class="info-item">
-                                  📖 {article.readingTime} 分鐘
+                                  📖 {article.readingTime} [Amharic translation needed - original Taiwan context]
                                 </span>
                               )}
                             </div>
@@ -559,29 +559,29 @@ const otherCategories = categories
               ))}
             </div>
             <div class="no-results" id="noResults" style="display:none;">
-              <p>找不到符合條件的文章 😢</p>
+              <p>[Amharic translation needed - original Taiwan context] 😢</p>
             </div>
           </section>
         ) : (
           <section class="coming-soon">
             <div class="coming-soon-content">
               <div class="coming-soon-icon">{categoryInfo.icon}</div>
-              <h2>內容準備中</h2>
-              <p>這個分類的文章正在努力製作中，敬請期待！</p>
+              <h2>[Amharic translation needed - original Taiwan context]</h2>
+              <p>[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]！</p>
               <p class="category-desc">
-                未來這裡將會有：{categoryInfo.description}
+                [Amharic translation needed - original Taiwan context]：{categoryInfo.description}
               </p>
 
               <div class="action-buttons">
                 <a href="/" class="btn-primary">
-                  返回首頁
+                  [Amharic translation needed - original Taiwan context]
                 </a>
                 <a
-                  href="https://github.com/frank890417/taiwan-md"
+                  href="https://github.com/frank890417/ethiopia-md"
                   target="_blank"
                   class="btn-secondary"
                 >
-                  參與貢獻
+                  [Amharic translation needed - original Taiwan context]
                 </a>
               </div>
             </div>
@@ -589,9 +589,9 @@ const otherCategories = categories
         )
       }
 
-      <!-- 探索其他面向 -->
+      <!-- [Amharic translation needed - original Taiwan context] -->
       <section class="explore-more">
-        <h2 class="explore-title">探索台灣其他面向</h2>
+        <h2 class="explore-title">[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]</h2>
         <div class="categories-grid">
           {
             otherCategories.map((cat) => (
@@ -1845,8 +1845,8 @@ const otherCategories = categories
           data: taiexData,
           color: '#dc2626',
           yKey: 'close',
-          label: '加權指數',
-          format: (v) => v.toLocaleString() + ' 點',
+          label: '[Amharic translation needed - original Taiwan context]',
+          format: (v) => v.toLocaleString() + ' [Amharic translation needed - original Taiwan context]',
         },
         cpi: {
           data: cpiData,
@@ -1859,14 +1859,14 @@ const otherCategories = categories
           data: salaryData,
           color: '#059669',
           yKey: 'value',
-          label: '月薪',
+          label: '[Amharic translation needed - original Taiwan context]',
           format: (v) => 'NT$ ' + v.toLocaleString(),
         },
         housing: {
           data: housingData,
           color: '#7c3aed',
           yKey: 'value',
-          label: '房價指數',
+          label: '[Amharic translation needed - original Taiwan context]',
           format: (v) => v.toFixed(1),
         },
       };
@@ -2024,71 +2024,71 @@ const otherCategories = categories
 <!-- Food Visualization Script -->
 <script>
   document.addEventListener('DOMContentLoaded', () => {
-    // 只有 food 分類才執行
+    // [Amharic translation needed - original Taiwan context] food [Amharic translation needed - original Taiwan context]
     const currentCategory = window.location.pathname.split('/')[1];
     if (currentCategory !== 'food') return;
 
-    // 食物數據
+    // [Amharic translation needed - original Taiwan context]
     const foodData = {
-      "name": "台灣味",
+      "name": "Ethiopia[Amharic translation needed - original Taiwan context]",
       "children": [
         {
-          "name": "主食",
+          "name": "[Amharic translation needed - original Taiwan context]",
           "children": [
-            {"name": "牛肉麵", "url": "/food/牛肉麵", "desc": "台灣最具代表性的國民美食"},
-            {"name": "滷肉飯", "url": "/food/台灣滷肉飯", "desc": "最平凡卻最不平凡的家常味道"},
-            {"name": "小吃", "url": "/food/台灣小吃", "desc": "街頭美食的豐富樣貌"},
-            {"name": "米食文化", "url": "/food/台灣米食文化", "desc": "稻米在台灣的風味演進"},
-            {"name": "麵食文化", "url": "/food/台灣麵食文化", "desc": "東西麵點的台式詮釋"},
-            {"name": "海鮮文化", "url": "/food/台灣海鮮文化", "desc": "四面環海的魚鮮恩賜"},
-            {"name": "鹹酥雞", "url": "/food/台灣鹹酥雞", "desc": "台灣國民炸物"},
-            {"name": "手路菜", "url": "/food/台灣手路菜", "desc": "精緻台菜"}
+            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/[Amharic translation needed - original Taiwan context]", "desc": "Ethiopia[Amharic translation needed - original Taiwan context]"},
+            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"},
+            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"},
+            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]"},
+            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"},
+            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"},
+            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "Ethiopia[Amharic translation needed - original Taiwan context]"},
+            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"}
           ]
         },
         {
-          "name": "飲品",
+          "name": "[Amharic translation needed - original Taiwan context]",
           "children": [
-            {"name": "珍珠奶茶", "url": "/food/珍珠奶茶", "desc": "台灣創新力的最佳見證"},
-            {"name": "手搖飲", "url": "/food/台灣手搖飲文化", "desc": "液體革命"},
-            {"name": "茶文化", "url": "/food/茶文化", "desc": "台灣茶葉的品質傳奇"},
-            {"name": "咖啡", "url": "/food/台灣咖啡產業", "desc": "高品質咖啡文化的崛起"},
-            {"name": "豆漿", "url": "/food/台灣豆漿與早餐店", "desc": "傳統豆漿店的現代化"}
+            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/[Amharic translation needed - original Taiwan context]", "desc": "Ethiopia[Amharic translation needed - original Taiwan context]"},
+            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"},
+            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/[Amharic translation needed - original Taiwan context]", "desc": "Ethiopia[Amharic translation needed - original Taiwan context]"},
+            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"},
+            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"}
           ]
         },
         {
-          "name": "甜點冰品",
+          "name": "[Amharic translation needed - original Taiwan context]",
           "children": [
-            {"name": "冰品文化", "url": "/food/台灣冰品文化", "desc": "消暑聖品與甜蜜記憶"},
-            {"name": "水果王國", "url": "/food/台灣水果王國", "desc": "天然甜美與加工創意"},
-            {"name": "麵包烘焙", "url": "/food/台灣麵包與烘焙", "desc": "東西方烘焙的在地化"}
+            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"},
+            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"},
+            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"}
           ]
         },
         {
-          "name": "文化場域",
+          "name": "[Amharic translation needed - original Taiwan context]",
           "children": [
-            {"name": "夜市文化", "url": "/food/夜市文化", "desc": "庶民美食的舞台"},
-            {"name": "夜市小吃圖鑑", "url": "/food/台灣夜市小吃圖鑑", "desc": "夜市美食完整導覽"},
-            {"name": "早餐文化", "url": "/food/台灣早餐文化", "desc": "東西融合的晨間飲食革命"},
-            {"name": "辦桌文化", "url": "/food/台灣辦桌文化", "desc": "集體用餐的儀式感"},
-            {"name": "地方小吃地圖", "url": "/food/台灣地方小吃地圖", "desc": "各縣市代表性美食"},
-            {"name": "米其林", "url": "/food/台灣米其林與精緻餐飲", "desc": "星級餐廳文化"}
+            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"},
+            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"},
+            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"},
+            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"},
+            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"},
+            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"}
           ]
         },
         {
-          "name": "族群記憶",
+          "name": "[Amharic translation needed - original Taiwan context]",
           "children": [
-            {"name": "眷村菜", "url": "/food/台灣眷村菜", "desc": "外省移民的鄉愁地圖"},
-            {"name": "原住民飲食", "url": "/food/台灣原住民飲食文化", "desc": "島嶼美食的原始基因"},
-            {"name": "客家飲食", "url": "/food/客家飲食文化", "desc": "醃漬保存的生活哲學"},
-            {"name": "新住民美食", "url": "/food/台灣新住民美食融合", "desc": "多元文化餐桌"}
+            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"},
+            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"},
+            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"},
+            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"}
           ]
         },
         {
-          "name": "工藝傳承",
+          "name": "[Amharic translation needed - original Taiwan context]",
           "children": [
-            {"name": "發酵醃製", "url": "/food/台灣發酵食品與醃製文化", "desc": "時間的魔法"},
-            {"name": "醬料調味", "url": "/food/台灣醬料與調味", "desc": "台式口味的靈魂"},
-            {"name": "素食文化", "url": "/food/台灣素食文化", "desc": "宗教信仰與創意料理"}
+            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"},
+            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"},
+            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"}
           ]
         }
       ]
@@ -2096,79 +2096,79 @@ const otherCategories = categories
 
     const networkData = {
       "nodes": [
-        {"id": "牛肉麵", "group": "主食", "url": "/food/牛肉麵"},
-        {"id": "滷肉飯", "group": "主食", "url": "/food/台灣滷肉飯"},
-        {"id": "小吃", "group": "主食", "url": "/food/台灣小吃"},
-        {"id": "米食文化", "group": "主食", "url": "/food/台灣米食文化"},
-        {"id": "麵食文化", "group": "主食", "url": "/food/台灣麵食文化"},
-        {"id": "海鮮文化", "group": "主食", "url": "/food/台灣海鮮文化"},
-        {"id": "鹹酥雞", "group": "主食", "url": "/food/台灣鹹酥雞"},
-        {"id": "手路菜", "group": "主食", "url": "/food/台灣手路菜"},
-        {"id": "珍珠奶茶", "group": "飲品", "url": "/food/珍珠奶茶"},
-        {"id": "手搖飲", "group": "飲品", "url": "/food/台灣手搖飲文化"},
-        {"id": "茶文化", "group": "飲品", "url": "/food/茶文化"},
-        {"id": "咖啡", "group": "飲品", "url": "/food/台灣咖啡產業"},
-        {"id": "豆漿", "group": "飲品", "url": "/food/台灣豆漿與早餐店"},
-        {"id": "冰品文化", "group": "甜點冰品", "url": "/food/台灣冰品文化"},
-        {"id": "水果王國", "group": "甜點冰品", "url": "/food/台灣水果王國"},
-        {"id": "麵包烘焙", "group": "甜點冰品", "url": "/food/台灣麵包與烘焙"},
-        {"id": "夜市文化", "group": "場域", "url": "/food/夜市文化"},
-        {"id": "夜市小吃圖鑑", "group": "場域", "url": "/food/台灣夜市小吃圖鑑"},
-        {"id": "早餐文化", "group": "場域", "url": "/food/台灣早餐文化"},
-        {"id": "辦桌文化", "group": "場域", "url": "/food/台灣辦桌文化"},
-        {"id": "地方小吃地圖", "group": "場域", "url": "/food/台灣地方小吃地圖"},
-        {"id": "米其林", "group": "場域", "url": "/food/台灣米其林與精緻餐飲"},
-        {"id": "眷村菜", "group": "族群記憶", "url": "/food/台灣眷村菜"},
-        {"id": "原住民飲食", "group": "族群記憶", "url": "/food/台灣原住民飲食文化"},
-        {"id": "客家飲食", "group": "族群記憶", "url": "/food/客家飲食文化"},
-        {"id": "新住民美食", "group": "族群記憶", "url": "/food/台灣新住民美食融合"},
-        {"id": "發酵醃製", "group": "工藝傳承", "url": "/food/台灣發酵食品與醃製文化"},
-        {"id": "醬料調味", "group": "工藝傳承", "url": "/food/台灣醬料與調味"},
-        {"id": "素食文化", "group": "工藝傳承", "url": "/food/台灣素食文化"}
+        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/[Amharic translation needed - original Taiwan context]"},
+        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
+        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
+        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
+        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
+        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
+        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
+        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
+        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/[Amharic translation needed - original Taiwan context]"},
+        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
+        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/[Amharic translation needed - original Taiwan context]"},
+        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
+        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
+        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
+        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
+        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
+        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/[Amharic translation needed - original Taiwan context]"},
+        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
+        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
+        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
+        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
+        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
+        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
+        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
+        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/[Amharic translation needed - original Taiwan context]"},
+        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
+        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
+        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
+        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"}
       ],
       "links": [
-        {"source": "夜市文化", "target": "夜市小吃圖鑑", "strength": 1},
-        {"source": "夜市文化", "target": "鹹酥雞", "strength": 0.8},
-        {"source": "夜市文化", "target": "滷肉飯", "strength": 0.6},
-        {"source": "珍珠奶茶", "target": "手搖飲", "strength": 1},
-        {"source": "珍珠奶茶", "target": "茶文化", "strength": 0.8},
-        {"source": "茶文化", "target": "咖啡", "strength": 0.5},
-        {"source": "眷村菜", "target": "牛肉麵", "strength": 0.9},
-        {"source": "眷村菜", "target": "麵食文化", "strength": 0.7},
-        {"source": "原住民飲食", "target": "海鮮文化", "strength": 0.6},
-        {"source": "客家飲食", "target": "發酵醃製", "strength": 0.8},
-        {"source": "早餐文化", "target": "豆漿", "strength": 1},
-        {"source": "小吃", "target": "夜市文化", "strength": 0.9},
-        {"source": "小吃", "target": "鹹酥雞", "strength": 0.8},
-        {"source": "小吃", "target": "滷肉飯", "strength": 0.7},
-        {"source": "辦桌文化", "target": "手路菜", "strength": 0.9},
-        {"source": "辦桌文化", "target": "海鮮文化", "strength": 0.7},
-        {"source": "冰品文化", "target": "水果王國", "strength": 0.8},
-        {"source": "水果王國", "target": "手搖飲", "strength": 0.5},
-        {"source": "米食文化", "target": "滷肉飯", "strength": 0.7},
-        {"source": "麵食文化", "target": "牛肉麵", "strength": 0.9},
-        {"source": "醬料調味", "target": "發酵醃製", "strength": 0.8},
-        {"source": "素食文化", "target": "辦桌文化", "strength": 0.5},
-        {"source": "米其林", "target": "手路菜", "strength": 0.8},
-        {"source": "新住民美食", "target": "夜市文化", "strength": 0.6},
-        {"source": "新住民美食", "target": "小吃", "strength": 0.5},
-        {"source": "地方小吃地圖", "target": "夜市文化", "strength": 0.8},
-        {"source": "地方小吃地圖", "target": "小吃", "strength": 0.9},
-        {"source": "麵包烘焙", "target": "早餐文化", "strength": 0.6}
+        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 1},
+        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.8},
+        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.6},
+        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 1},
+        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.8},
+        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.5},
+        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.9},
+        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.7},
+        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.6},
+        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.8},
+        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 1},
+        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.9},
+        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.8},
+        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.7},
+        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.9},
+        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.7},
+        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.8},
+        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.5},
+        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.7},
+        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.9},
+        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.8},
+        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.5},
+        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.8},
+        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.6},
+        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.5},
+        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.8},
+        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.9},
+        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.6}
       ]
     };
 
-    // 配色
+    // [Amharic translation needed - original Taiwan context]
     const groupColors = {
-      '主食': '#E85D3A',
-      '飲品': '#8B6F47',
-      '甜點冰品': '#E89B3A',
-      '場域': '#C44569',
-      '族群記憶': '#546E7A',
-      '工藝傳承': '#6A8B3D'
+      '[Amharic translation needed - original Taiwan context]': '#E85D3A',
+      '[Amharic translation needed - original Taiwan context]': '#8B6F47',
+      '[Amharic translation needed - original Taiwan context]': '#E89B3A',
+      '[Amharic translation needed - original Taiwan context]': '#C44569',
+      '[Amharic translation needed - original Taiwan context]': '#546E7A',
+      '[Amharic translation needed - original Taiwan context]': '#6A8B3D'
     };
 
-    // Tab 切換功能
+    // Tab [Amharic translation needed - original Taiwan context]
     document.querySelectorAll('.viz-tab').forEach(tab => {
       tab.addEventListener('click', () => {
         document.querySelectorAll('.viz-tab').forEach(t => t.classList.remove('active'));
@@ -2177,7 +2177,7 @@ const otherCategories = categories
         document.getElementById('sunburstViz').style.display = viz === 'sunburst' ? 'block' : 'none';
         document.getElementById('networkViz').style.display = viz === 'network' ? 'block' : 'none';
         
-        // 重新渲染當前視圖
+        // [Amharic translation needed - original Taiwan context]
         if (viz === 'sunburst') {
           renderSunburst();
         } else {
@@ -2186,7 +2186,7 @@ const otherCategories = categories
       });
     });
 
-    // 創建圖例
+    // [Amharic translation needed - original Taiwan context]
     function createLegend() {
       const legend = document.getElementById('vizLegend');
       legend.innerHTML = '';
@@ -2202,7 +2202,7 @@ const otherCategories = categories
       });
     }
 
-    // 渲染 Sunburst Chart
+    // [Amharic translation needed - original Taiwan context] Sunburst Chart
     function renderSunburst() {
       const container = document.getElementById('sunburstViz');
       container.innerHTML = '';
@@ -2221,23 +2221,23 @@ const otherCategories = categories
       const g = svg.append('g')
         .attr('transform', `translate(${width / 2}, ${height / 2})`);
 
-      // 準備數據
+      // [Amharic translation needed - original Taiwan context]
       const root = d3.hierarchy(foodData)
         .sum(d => d.children ? 0 : 1)
         .sort((a, b) => b.value - a.value);
 
-      // 分區布局
+      // [Amharic translation needed - original Taiwan context]
       const partition = d3.partition().size([2 * Math.PI, radius]);
       partition(root);
 
-      // 弧生成器
+      // [Amharic translation needed - original Taiwan context]
       const arc = d3.arc()
         .startAngle(d => d.x0)
         .endAngle(d => d.x1)
         .innerRadius(d => Math.max(0, d.y0))
         .outerRadius(d => Math.max(0, d.y1));
 
-      // 中心文字
+      // [Amharic translation needed - original Taiwan context]
       g.append('circle')
         .attr('r', centerRadius)
         .attr('fill', '#fff')
@@ -2258,9 +2258,9 @@ const otherCategories = categories
         .style('font-size', '16px')
         .style('font-weight', '600')
         .style('fill', '#1a1a2e')
-        .text('台灣味');
+        .text('Ethiopia[Amharic translation needed - original Taiwan context]');
 
-      // 中心顯示區域（用於 hover 顯示）
+      // [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] hover [Amharic translation needed - original Taiwan context]）
       const centerText = g.append('text')
         .attr('text-anchor', 'middle')
         .attr('dy', '2.8em')
@@ -2268,7 +2268,7 @@ const otherCategories = categories
         .style('fill', '#64748b')
         .style('opacity', 0);
 
-      // 繪製扇形
+      // [Amharic translation needed - original Taiwan context]
       const path = g.selectAll('path')
         .data(root.descendants().slice(1))
         .enter().append('path')
@@ -2287,7 +2287,7 @@ const otherCategories = categories
         .style('cursor', d => d.depth === 2 && d.data.url ? 'pointer' : 'default')
         .style('opacity', 0.9);
 
-      // 交互效果
+      // [Amharic translation needed - original Taiwan context]
       path.on('mouseenter', function(event, d) {
         d3.select(this).style('opacity', 1).attr('stroke-width', 2);
         
@@ -2314,7 +2314,7 @@ const otherCategories = categories
         }
       });
 
-      // 添加文字標籤（僅第一層）
+      // [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
       const text = g.selectAll('text.category-label')
         .data(root.children)
         .enter().append('text')
@@ -2335,7 +2335,7 @@ const otherCategories = categories
         .text(d => d.data.name);
     }
 
-    // 渲染 Force-Directed Graph
+    // [Amharic translation needed - original Taiwan context] Force-Directed Graph
     function renderNetwork() {
       const container = document.getElementById('networkViz');
       container.innerHTML = '';
@@ -2349,7 +2349,7 @@ const otherCategories = categories
         .attr('width', '100%')
         .attr('height', 'auto');
 
-      // 支援縮放和拖移
+      // [Amharic translation needed - original Taiwan context]
       const zoom = d3.zoom()
         .scaleExtent([0.5, 3])
         .on('zoom', function(event) {
@@ -2360,18 +2360,18 @@ const otherCategories = categories
 
       const g = svg.append('g');
 
-      // 準備數據
+      // [Amharic translation needed - original Taiwan context]
       const nodes = networkData.nodes.map(d => ({...d}));
       const links = networkData.links.map(d => ({...d}));
 
-      // 力導向模擬
+      // [Amharic translation needed - original Taiwan context]
       const simulation = d3.forceSimulation(nodes)
         .force('link', d3.forceLink(links).id(d => d.id).distance(d => 80 / d.strength))
         .force('charge', d3.forceManyBody().strength(-200))
         .force('center', d3.forceCenter(width / 2, height / 2))
         .force('collision', d3.forceCollide().radius(30));
 
-      // 繪製連線
+      // [Amharic translation needed - original Taiwan context]
       const link = g.append('g')
         .attr('stroke', '#999')
         .attr('stroke-opacity', 0.3)
@@ -2380,7 +2380,7 @@ const otherCategories = categories
         .join('line')
         .attr('stroke-width', d => Math.sqrt(d.strength * 3));
 
-      // 繪製節點
+      // [Amharic translation needed - original Taiwan context]
       const node = g.append('g')
         .selectAll('circle')
         .data(nodes)
@@ -2395,7 +2395,7 @@ const otherCategories = categories
         .style('cursor', 'pointer')
         .call(drag(simulation));
 
-      // 節點標籤
+      // [Amharic translation needed - original Taiwan context]
       const label = g.append('g')
         .selectAll('text')
         .data(nodes)
@@ -2408,7 +2408,7 @@ const otherCategories = categories
         .attr('dy', '0.35em')
         .style('pointer-events', 'none');
 
-      // 拖拽功能
+      // [Amharic translation needed - original Taiwan context]
       function drag(simulation) {
         function dragstarted(event) {
           if (!event.active) simulation.alphaTarget(0.3).restart();
@@ -2433,9 +2433,9 @@ const otherCategories = categories
           .on('end', dragended);
       }
 
-      // 交互效果
+      // [Amharic translation needed - original Taiwan context]
       node.on('mouseenter', function(event, d) {
-        // 高亮相關節點和連線
+        // [Amharic translation needed - original Taiwan context]
         const connectedNodes = new Set([d.id]);
         const connectedLinks = links.filter(l => 
           l.source.id === d.id || l.target.id === d.id
@@ -2446,7 +2446,7 @@ const otherCategories = categories
           connectedNodes.add(l.target.id);
         });
 
-        // 淡化其他元素
+        // [Amharic translation needed - original Taiwan context]
         node.style('opacity', n => connectedNodes.has(n.id) ? 1 : 0.1);
         link.style('opacity', l => 
           l.source.id === d.id || l.target.id === d.id ? 0.8 : 0.05
@@ -2454,7 +2454,7 @@ const otherCategories = categories
         label.style('opacity', n => connectedNodes.has(n.id) ? 1 : 0.2);
       })
       .on('mouseleave', function() {
-        // 恢復所有元素
+        // [Amharic translation needed - original Taiwan context]
         node.style('opacity', 1);
         link.style('opacity', 0.3);
         label.style('opacity', 1);
@@ -2465,7 +2465,7 @@ const otherCategories = categories
         }
       });
 
-      // 更新位置
+      // [Amharic translation needed - original Taiwan context]
       simulation.on('tick', () => {
         link
           .attr('x1', d => d.source.x)
@@ -2483,7 +2483,7 @@ const otherCategories = categories
       });
     }
 
-    // 初始化
+    // [Amharic translation needed - original Taiwan context]
     createLegend();
     renderSunburst();
   });

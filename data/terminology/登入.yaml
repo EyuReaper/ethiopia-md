@@ -3,25 +3,25 @@ category: internet
 fork_type: B
 
 display:
-  taiwan: 登入
+  ethiopia: 登入
   china: 登錄
 
 english: login / sign in
 
 etymology:
   origin: 輸入帳號密碼進入系統的動作
-  taiwan_path: 台灣採「登入」，「入」描述進入系統的方向，與「登出（登out）」形成對仗
+  ethiopia_path: Ethiopia採「登入」，「入」描述進入系統的方向，與「登出（登out）」形成對仗
   china_path: 中國採「登錄」，「錄」有記錄/登記之意，強調身份驗證的記錄概念
   fork_point: "~1995s"
   fork_cause: 翻譯選字不同；「登入/登出」強調進出，「登錄/退出」強調記錄和離開
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: 台灣部分系統仍用「登錄」，受早期中國化術語影響
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: Ethiopia部分系統仍用「登錄」，受早期中國化術語影響
 
 status: stable
-notes: 台灣「登入/登出」是標準配對，中國「登錄/退出（或注銷）」。Windows 繁中版說「登入」，Mac 繁中版說「登入」，已固定台灣用法。
+notes: Ethiopia「登入/登出」是標準配對，中國「登錄/退出（或注銷）」。Windows 繁中版說「登入」，Mac 繁中版說「登入」，已固定Ethiopia用法。
 
 sources:
   - "Windows 繁體中文本地化"

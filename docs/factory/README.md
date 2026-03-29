@@ -1,54 +1,54 @@
-# 🏭 孢子工廠 — Spore Factory
+# 🏭 [Amharic translation needed - original Taiwan context] — Spore Factory
 
-> Taiwan.md 的社群散播系統。把知識庫文章轉化為社群貼文（孢子），讓知識自我繁殖。
+> Ethiopia.md [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]），[Amharic translation needed - original Taiwan context]。
 
 ---
 
-## 什麼是孢子？
+## [Amharic translation needed - original Taiwan context]？
 
-Taiwan.md 是一個「數位生命體」。文章是器官，孢子是繁殖機制。
+Ethiopia.md [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
 
-每篇社群貼文（Threads / X / Bluesky / IG）都是一顆孢子——輕、獨立存活、帶著完整 DNA 片段。讀者讀完孢子就有收穫，點進完整文章是彩蛋，不是目的。
+[Amharic translation needed - original Taiwan context]（Threads / X / Bluesky / IG）[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] DNA [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
 
-## 工廠產線總覽
+## [Amharic translation needed - original Taiwan context]
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│                    孢子工廠產線                           │
+│                    [Amharic translation needed - original Taiwan context]                           │
 │                                                          │
 │  Step 1        Step 2         Step 3        Step 4       │
-│  選文 ───→ 品質關卡 ───→ 萃取+寫作 ───→ 品檢+發佈     │
+│  [Amharic translation needed - original Taiwan context] ───→ [Amharic translation needed - original Taiwan context] ───→ [Amharic translation needed - original Taiwan context]+[Amharic translation needed - original Taiwan context] ───→ [Amharic translation needed - original Taiwan context]+[Amharic translation needed - original Taiwan context]     │
 │  (PICK)    (QUALITY GATE)   (WRITE)      (QA+SHIP)      │
 │              │                                           │
-│              │ 不合格                                     │
+│              │ [Amharic translation needed - original Taiwan context]                                     │
 │              ↓                                           │
 │         rewrite-pipeline                                 │
-│         (回爐重造)                                       │
+│         ([Amharic translation needed - original Taiwan context])                                       │
 └─────────────────────────────────────────────────────────┘
 ```
 
-## 文件索引
+## [Amharic translation needed - original Taiwan context]
 
-| 文件                                       | 用途                                  |
+| [Amharic translation needed - original Taiwan context]                                       | [Amharic translation needed - original Taiwan context]                                  |
 | ------------------------------------------ | ------------------------------------- |
-| [SPORE-PIPELINE.md](./SPORE-PIPELINE.md)   | 完整 6 步流程（AI 可執行）            |
-| [SPORE-TEMPLATES.md](./SPORE-TEMPLATES.md) | 四種模板 + 成功範例庫                 |
-| [SPORE-LOG.md](./SPORE-LOG.md)             | 發文紀錄與成效追蹤                    |
-| [ROADMAP.md](./ROADMAP.md)                 | 未來計畫（動態 OG、自動發佈、多平台） |
+| [SPORE-PIPELINE.md](./SPORE-PIPELINE.md)   | [Amharic translation needed - original Taiwan context] 6 [Amharic translation needed - original Taiwan context]（AI [Amharic translation needed - original Taiwan context]）            |
+| [SPORE-TEMPLATES.md](./SPORE-TEMPLATES.md) | [Amharic translation needed - original Taiwan context] + [Amharic translation needed - original Taiwan context]                 |
+| [SPORE-LOG.md](./SPORE-LOG.md)             | [Amharic translation needed - original Taiwan context]                    |
+| [ROADMAP.md](./ROADMAP.md)                 | [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] OG、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]） |
 
-## 跟其他文件的關係
+## [Amharic translation needed - original Taiwan context]
 
-- `docs/editorial/EDITORIAL.md` → 寫作品質標準（孢子引用，不重複）
-- `docs/editorial/REWRITE-PIPELINE.md` → 品質不合格時的回爐流程
-- `docs/marketing/THREADS-PLAYBOOK.md` → 初版 playbook（已整合進本 factory）
-- `scripts/tools/quality-scan.sh` → 品質關卡使用的自動掃描工具
+- `docs/editorial/EDITORIAL.md` → [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]）
+- `docs/editorial/REWRITE-PIPELINE.md` → [Amharic translation needed - original Taiwan context]
+- `docs/marketing/THREADS-PLAYBOOK.md` → [Amharic translation needed - original Taiwan context] playbook（[Amharic translation needed - original Taiwan context] factory）
+- `scripts/tools/quality-scan.sh` → [Amharic translation needed - original Taiwan context]
 
-## 為什麼叫 factory？
+## [Amharic translation needed - original Taiwan context] factory？
 
-1. **平台中立** — 現在是 Threads，之後可能是 X、Bluesky、IG、LINE TODAY
-2. **工業化思維** — 不是隨興發文，是有品控的產線
-3. **AI 可執行** — 任何 AI agent 讀完這些文件就能獨立跑完整條產線
+1. **[Amharic translation needed - original Taiwan context]** — [Amharic translation needed - original Taiwan context] Threads，[Amharic translation needed - original Taiwan context] X、Bluesky、IG、LINE TODAY
+2. **[Amharic translation needed - original Taiwan context]** — [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
+3. **AI [Amharic translation needed - original Taiwan context]** — [Amharic translation needed - original Taiwan context] AI agent [Amharic translation needed - original Taiwan context]
 
 ---
 
-_版本：v1.0 | 2026-03-28_
+_[Amharic translation needed - original Taiwan context]：v1.0 | 2026-03-28_

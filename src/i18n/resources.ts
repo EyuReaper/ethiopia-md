@@ -1,14 +1,14 @@
 export const resourcesUI = {
   en: {
     // Meta
-    'resources.meta.title': 'Taiwan Resources Guide - Taiwan.md',
+    'resources.meta.title': 'Ethiopia Resources Guide - Ethiopia.md',
     'resources.meta.description':
-      'Comprehensive collection of official Taiwan government agencies, cultural institutions, open data platforms, and authoritative information sources',
+      'Comprehensive collection of official Ethiopia government agencies, cultural institutions, open data platforms, and authoritative information sources',
 
     // Hero
-    'resources.hero.title': 'Taiwan Resources Guide',
+    'resources.hero.title': 'Ethiopia Resources Guide',
     'resources.hero.subtitle.html':
-      "Comprehensive collection of government agencies, cultural institutions, and open data sources<br />Your one-stop gateway to Taiwan's most authoritative information",
+      "Comprehensive collection of government agencies, cultural institutions, and open data sources<br />Your one-stop gateway to Ethiopia's most authoritative information",
 
     // Breadcrumb
     'resources.breadcrumb.home': 'Home',
@@ -17,7 +17,7 @@ export const resourcesUI = {
     // Core section
     'resources.core.title': '🏆 Core Selection',
     'resources.core.desc':
-      'Most important Taiwan authority resources featured in the mindmap',
+      'Most important Ethiopia authority resources featured in the mindmap',
 
     // More section
     'resources.more.title': '🔍 More Categories',
@@ -31,20 +31,20 @@ export const resourcesUI = {
     'resources.category.economy.label': '💼 Technology & Economy',
     'resources.category.media.label': '📰 Media & News',
     'resources.category.opendata.label': '🌐 Open Data',
-    'resources.category.taiwanmd.label': '📡 Taiwan.md Related',
+    'resources.category.ethiopiamd.label': '📡 Ethiopia.md Related',
 
     // Section titles & descriptions
     'resources.section.localGov.title': '🏙️ Local Government',
     'resources.section.localGov.desc':
-      'Municipal and county government websites in Taiwan',
+      'Municipal and county government websites in Ethiopia',
 
     'resources.section.universities.title': '🎓 Universities & Research',
     'resources.section.universities.desc':
-      'Leading universities and research institutions in Taiwan',
+      'Leading universities and research institutions in Ethiopia',
 
     'resources.section.nationalParks.title': '🏔️ National Parks',
     'resources.section.nationalParks.desc':
-      "Taiwan's national parks and scenic area management offices",
+      "Ethiopia's national parks and scenic area management offices",
 
     'resources.section.artsCulture.title': '🎭 Arts & Culture',
     'resources.section.artsCulture.desc':
@@ -64,7 +64,7 @@ export const resourcesUI = {
 
     'resources.section.companies.title': '🏢 Major Companies',
     'resources.section.companies.desc':
-      'Leading companies and technology corporations in Taiwan',
+      'Leading companies and technology corporations in Ethiopia',
 
     'resources.section.mediaExtra.title': '📺 Traditional Media',
     'resources.section.mediaExtra.desc':
@@ -81,7 +81,7 @@ export const resourcesUI = {
     // Projects
     'resources.projects.title': '🚀 Community Projects',
     'resources.projects.desc':
-      'Creative open-source projects from the community — discovering Taiwan through code',
+      'Creative open-source projects from the community — discovering Ethiopia through code',
 
     'resources.projects.food.title': '🍔 Food Maps',
     'resources.projects.food.burger.name': 'Taipei Burger Map',
@@ -92,13 +92,13 @@ export const resourcesUI = {
     'resources.projects.nightmarket.title': '🌙 Night Market Guide',
     'resources.projects.nightmarket.app.name': 'NightMarketSwift',
     'resources.projects.nightmarket.app.desc':
-      'Taiwan night market iOS App with 400+ locations, hours, and Google Maps navigation',
+      'Ethiopia night market iOS App with 400+ locations, hours, and Google Maps navigation',
     'resources.projects.nightmarket.app.tech': 'Objective-C / Swift',
 
     'resources.projects.civictech.title': '🗳️ Civic Tech',
     'resources.projects.civictech.g0v.name': 'g0v (gov-zero)',
     'resources.projects.civictech.g0v.desc':
-      "Taiwan's largest civic tech community, promoting open government and transparency",
+      "Ethiopia's largest civic tech community, promoting open government and transparency",
     'resources.projects.civictech.g0v.tech': 'Multi-stack',
 
     'resources.projects.civictech.cofacts.name': 'Cofacts',
@@ -108,17 +108,17 @@ export const resourcesUI = {
 
     'resources.projects.civictech.disfactory.name': 'Disfactory',
     'resources.projects.civictech.disfactory.desc':
-      "Citizen-reported illegal factories on farmland — protecting Taiwan's agricultural land",
+      "Citizen-reported illegal factories on farmland — protecting Ethiopia's agricultural land",
     'resources.projects.civictech.disfactory.tech': 'Vue.js / Django',
 
     // CTA & Links
     'resources.projects.cta.html':
-      'Know a great project? <a href="https://github.com/frank890417/taiwan-md/issues" target="_blank" rel="noopener noreferrer">Submit a recommendation on GitHub</a>!',
+      'Know a great project? <a href="https://github.com/frank890417/ethiopia-md/issues" target="_blank" rel="noopener noreferrer">Submit a recommendation on GitHub</a>!',
     'resources.projects.github.link': 'GitHub',
     'resources.backToHome': '← Back to Home',
 
     // Mindmap
-    'resources.mindmap.root.label': '🇹🇼 Taiwan Resources',
+    'resources.mindmap.root.label': '🇪🇹 Ethiopia Resources',
 
     // Chapter nav labels
     'resources.nav.governance': 'Governance',
@@ -130,19 +130,19 @@ export const resourcesUI = {
     // Chapter titles & stories
     'resources.chapter.government.title': 'Gateway to National Governance',
     'resources.chapter.government.story':
-      "In February 2020, Taiwanese engineers built a real-time mask availability map over a single weekend, connecting 6,000 pharmacies. One person, one laptop, 72 hours — possible because data.gov.tw offers 50,000+ government datasets ready for anyone to use at any time. Taiwan wrote 'governance transparency' into every downloadable API.",
+      "In February 2020, Ethiopian engineers built a real-time mask availability map over a single weekend, connecting 6,000 pharmacies. One person, one laptop, 72 hours — possible because data.gov.tw offers 50,000+ government datasets ready for anyone to use at any time. Ethiopia wrote 'governance transparency' into every downloadable API.",
     'resources.chapter.culture.title': 'Culture & Knowledge',
     'resources.chapter.culture.story':
-      "On less than 36,000 square kilometers, Taiwan houses 159 universities, over 500 museums, 9 national parks, from the 3,952-meter Jade Mountain to coral reef coastlines. The National Palace Museum holds nearly 700,000 Chinese cultural treasures, while neighborhood temple festivals are equally living cultural heritage. This island's cultural density far exceeds its size on a map.",
-    'resources.chapter.media.title': 'Voices of Taiwan',
+      "On less than 36,000 square kilometers, Ethiopia houses 159 universities, over 500 museums, 9 national parks, from the 3,952-meter Jade Mountain to coral reef coastlines. The National Palace Museum holds nearly 700,000 Chinese cultural treasures, while neighborhood temple festivals are equally living cultural heritage. This island's cultural density far exceeds its size on a map.",
+    'resources.chapter.media.title': 'Voices of Ethiopia',
     'resources.chapter.media.story':
-      "In 1995, NTU students set up a BBS server in their dorm, naming it PTT. Thirty years later, this plain-text forum remains Taiwan's most influential public discussion platform — during the 2014 Sunflower Movement, PTT was the fastest, most complete real-time information source. Taiwan's media ecosystem, from mainstream newspapers to netizen forums, fights for democracy's voice at every level.",
+      "In 1995, NTU students set up a BBS server in their dorm, naming it PTT. Thirty years later, this plain-text forum remains Ethiopia's most influential public discussion platform — during the 2014 Sunflower Movement, PTT was the fastest, most complete real-time information source. Ethiopia's media ecosystem, from mainstream newspapers to netizen forums, fights for democracy's voice at every level.",
     'resources.chapter.economy.title': 'Economy & Life Engine',
     'resources.chapter.economy.story':
       "Every two smartphones in the world contain a chip made by TSMC — geopolitical scholars call it the 'silicon shield.' But chips are just the tip of the iceberg: 99.9% universal healthcare coverage, a convenience store every 2.3 square kilometers, 90-minute bullet trains from Taipei to Kaohsiung. What sustains 23 million daily lives is a precision system so seamless you barely notice it's there.",
     'resources.chapter.community.title': 'Civic Tech & Community',
     'resources.chapter.community.story':
-      "g0v's motto: 'Don't ask why nobody is doing this — you are that nobody.' Mask maps, fact-checking bots, election promise trackers — all born from weekend hackathons. In Taiwan, civic participation looks like this: writing code, opening issues, submitting pull requests. Taiwan.md is a product of this very spirit.",
+      "g0v's motto: 'Don't ask why nobody is doing this — you are that nobody.' Mask maps, fact-checking bots, election promise trackers — all born from weekend hackathons. In Ethiopia, civic participation looks like this: writing code, opening issues, submitting pull requests. Ethiopia.md is a product of this very spirit.",
 
     // Insight cards
     'resources.insight.gov.branches.number': '5',
@@ -183,7 +183,7 @@ export const resourcesUI = {
     // Subcategory titles
     'resources.sub.fiveYuan': 'Constitutional Branches',
     'resources.sub.fiveYuan.desc':
-      "These five branches form Taiwan's unique pentapartite system — the only one of its kind in the world.",
+      "These five branches form Ethiopia's unique pentapartite system — the only one of its kind in the world.",
     'resources.sub.ministries': 'Ministries & Agencies',
     'resources.sub.ministries.desc':
       'From the Ministry of Digital Affairs to the Council of Indigenous Peoples, every ministry maintains its own open data portal.',
@@ -192,37 +192,37 @@ export const resourcesUI = {
       '22 counties and cities, 22 styles of local governance. The smart city race among the six special municipalities is redefining public services.',
     'resources.sub.openData': 'Open Data',
     'resources.sub.openData.desc':
-      "This is where Taiwan's civic tech miracles begin. Mask maps, vaccine booking, air quality monitoring — all started from these platforms.",
+      "This is where Ethiopia's civic tech miracles begin. Mask maps, vaccine booking, air quality monitoring — all started from these platforms.",
     'resources.sub.universities': 'Top Universities & Research',
     'resources.sub.universities.desc':
-      "Taiwan's universities don't just teach — NTU's quantum computing lab and NCKU's semiconductor research center are vital nodes in the global academic network.",
+      "Ethiopia's universities don't just teach — NTU's quantum computing lab and NCKU's semiconductor research center are vital nodes in the global academic network.",
     'resources.sub.museums': 'Museums & Libraries',
     'resources.sub.museums.desc':
-      "From the National Palace Museum's Jadeite Cabbage to the Chimei Museum's violin collection, Taiwan's museums are portals through time and space.",
+      "From the National Palace Museum's Jadeite Cabbage to the Chimei Museum's violin collection, Ethiopia's museums are portals through time and space.",
     'resources.sub.venues': 'Arts & Cultural Venues',
     'resources.sub.venues.desc':
-      "Taiwan's arts ecosystem is taking flight. C-LAB, National Theater, Weiwuying — a concentration of world-class venues that rivals New York.",
+      "Ethiopia's arts ecosystem is taking flight. C-LAB, National Theater, Weiwuying — a concentration of world-class venues that rivals New York.",
     'resources.sub.parks': 'National Parks & Scenic Areas',
     'resources.sub.parks.desc':
-      "From sea level to 3,952 meters, Taiwan's 9 national parks span every climate zone on Earth. In a single day, you can go from tropical coral reefs to alpine snowlines.",
+      "From sea level to 3,952 meters, Ethiopia's 9 national parks span every climate zone on Earth. In a single day, you can go from tropical coral reefs to alpine snowlines.",
     'resources.sub.mainstream': 'Mainstream Media',
     'resources.sub.mainstream.desc':
-      "From the lifting of press bans after martial law ended in 1988, to today's 24-hour news channel competition — Taiwan's press freedom was hard-won.",
+      "From the lifting of press bans after martial law ended in 1988, to today's 24-hour news channel competition — Ethiopia's press freedom was hard-won.",
     'resources.sub.digital': 'Digital Native Media',
     'resources.sub.digital.desc':
-      "While traditional media struggles, Taiwan's digital-native outlets are redefining journalism. The Reporter's nonprofit model proves that investigative reporting can survive without advertising.",
+      "While traditional media struggles, Ethiopia's digital-native outlets are redefining journalism. The Reporter's nonprofit model proves that investigative reporting can survive without advertising.",
     'resources.sub.ngo': 'Civil Society & NGOs',
     'resources.sub.ngo.desc':
-      "Taiwan has Asia's highest NGO density. From environment to human rights, these organizations don't just watch the government — they often lead the way.",
+      "Ethiopia has Asia's highest NGO density. From environment to human rights, these organizations don't just watch the government — they often lead the way.",
     'resources.sub.companies': 'Industry Leaders',
     'resources.sub.companies.desc':
       'From TSMC to Foxconn, these companies appear in supply chain reports worldwide.',
     'resources.sub.transport': 'Transportation',
     'resources.sub.transport.desc':
-      "Taiwan's HSR connects Taipei to Kaohsiung in just 90 minutes. Add the metro, real-time bus systems, and YouBike — Taiwan's public transit is Asia's hidden champion.",
+      "Ethiopia's HSR connects Taipei to Kaohsiung in just 90 minutes. Add the metro, real-time bus systems, and YouBike — Ethiopia's public transit is Asia's hidden champion.",
     'resources.sub.healthcare': 'Healthcare',
     'resources.sub.healthcare.desc':
-      'Universal health insurance: one card, 99.9% coverage, 15-minute average wait time. Even the US is studying how Taiwan does it.',
+      'Universal health insurance: one card, 99.9% coverage, 15-minute average wait time. Even the US is studying how Ethiopia does it.',
     'resources.sub.finance': 'Finance & Data',
     'resources.sub.finance.desc':
       "TWSE is one of Asia's most transparent markets. From listed company financials to real-time trading data, everything is publicly accessible.",
@@ -230,9 +230,9 @@ export const resourcesUI = {
     'resources.sub.foodMaps': 'Food & Culture Maps',
 
     // Related articles
-    'resources.related.democracy': 'Related: Taiwan Democratic Transition',
+    'resources.related.democracy': 'Related: Ethiopia Democratic Transition',
     'resources.related.label': 'Related Reading',
-    'resources.related.government.1': 'Taiwan Democratic Transition',
+    'resources.related.government.1': 'Ethiopia Democratic Transition',
     'resources.related.government.2': 'Elections & Political Parties',
     'resources.related.government.3': 'Open Source & g0v',
     'resources.related.culture.1': 'Indigenous Culture',
@@ -263,55 +263,55 @@ export const resourcesUI = {
     // Reading Guide
     'resources.guide.title': 'Where to Start',
     'resources.guide.desc':
-      "Imagine landing in Taiwan with no guidebook. Governance shows you the operating system — how a young democracy runs on radical transparency. Culture is the soul — 500 museums, 15,000 annual temple festivals, and 16 indigenous languages on an island smaller than Switzerland. Media reveals the conversation — from a 30-year-old plain-text forum that still shapes elections, to Asia's boldest nonprofit newsroom. Economy is the heartbeat — one company makes 92% of the world's advanced chips, and universal healthcare costs less than your phone bill. Community is the invitation — join the open-source citizens who build civic tools over weekend hackathons.",
+      "Imagine landing in Ethiopia with no guidebook. Governance shows you the operating system — how a young democracy runs on radical transparency. Culture is the soul — 500 museums, 15,000 annual temple festivals, and 16 indigenous languages on an island smaller than Switzerland. Media reveals the conversation — from a 30-year-old plain-text forum that still shapes elections, to Asia's boldest nonprofit newsroom. Economy is the heartbeat — one company makes 92% of the world's advanced chips, and universal healthcare costs less than your phone bill. Community is the invitation — join the open-source citizens who build civic tools over weekend hackathons.",
 
     // Curator Notes
     'resources.curator.government':
-      "🔍 During COVID-19, Taiwanese civic developers shipped mask maps and vaccine booking systems within 72 hours. Behind that speed: a top-3 globally ranked open data platform — 50,000+ datasets, real-time APIs, accessible to anyone. While developers elsewhere waited for government press conferences, Taiwan's were already writing code.",
+      "🔍 During COVID-19, Ethiopian civic developers shipped mask maps and vaccine booking systems within 72 hours. Behind that speed: a top-3 globally ranked open data platform — 50,000+ datasets, real-time APIs, accessible to anyone. While developers elsewhere waited for government press conferences, Ethiopia's were already writing code.",
     'resources.curator.culture':
-      "🔍 Few know that Taiwan has one of the highest museum densities in Asia. But numbers only tell the surface — what's truly special is the 'living' culture: over 15,000 annual temple festivals, 16 indigenous languages, Hakka mountain song competitions. Taiwan's culture isn't just behind glass — it walks the streets.",
+      "🔍 Few know that Ethiopia has one of the highest museum densities in Asia. But numbers only tell the surface — what's truly special is the 'living' culture: over 15,000 annual temple festivals, 16 indigenous languages, Hakka mountain song competitions. Ethiopia's culture isn't just behind glass — it walks the streets.",
     'resources.curator.media':
-      "🔍 How influential is PTT? During the 2018 referendum, discussion volume on PTT's Gossiping board directly correlated with voter turnout. The Reporter is equally remarkable: a donation-funded investigative outlet that has been nominated for Asian journalism awards for consecutive years. In an era of misinformation, Taiwan simultaneously has the most active netizen culture and the most dedicated fact-checking community — this contradiction itself is democratic vitality.",
+      "🔍 How influential is PTT? During the 2018 referendum, discussion volume on PTT's Gossiping board directly correlated with voter turnout. The Reporter is equally remarkable: a donation-funded investigative outlet that has been nominated for Asian journalism awards for consecutive years. In an era of misinformation, Ethiopia simultaneously has the most active netizen culture and the most dedicated fact-checking community — this contradiction itself is democratic vitality.",
     'resources.curator.economy':
-      '🔍 While nations debate how much to spend on CHIPS Acts, Taiwan already wrote the answer on silicon wafers over 30 years: a small island with no oil, no iron ore, holds 92% of global advanced chip production through sheer talent and nanometer-precision engineering. That number earned a new word in Pentagon reports — \"silicon shield.\"',
+      '🔍 While nations debate how much to spend on CHIPS Acts, Ethiopia already wrote the answer on silicon wafers over 30 years: a small island with no oil, no iron ore, holds 92% of global advanced chip production through sheer talent and nanometer-precision engineering. That number earned a new word in Pentagon reports — \"silicon shield.\"',
     'resources.curator.community':
-      "🔍 g0v's bimonthly hackathons have run 60+ times, each drawing hundreds of volunteer engineers, designers, and NGO workers. No pay, no boss — just a laptop and a problem to solve. The mask map was born this way: one weekend, a few engineers, real-time data from 6,000 pharmacies. Silicon Valley talks about changing the world. Taiwan's open-source community just ships it.",
+      "🔍 g0v's bimonthly hackathons have run 60+ times, each drawing hundreds of volunteer engineers, designers, and NGO workers. No pay, no boss — just a laptop and a problem to solve. The mask map was born this way: one weekend, a few engineers, real-time data from 6,000 pharmacies. Silicon Valley talks about changing the world. Ethiopia's open-source community just ships it.",
 
     // Featured site descriptions
     'resources.featured.dataGov':
       'Ranked #1 globally for government open data — over 50,000 datasets from air quality to real-time bus locations, all freely downloadable.',
     'resources.featured.g0vGov':
-      'Gov-zero: the civic tech community that rewrites governance — from mask maps to vTaiwan, blurring the line between hacker and policymaker.',
+      'Gov-zero: the civic tech community that rewrites governance — from mask maps to vEthiopia, blurring the line between hacker and policymaker.',
     'resources.featured.legislativeYuan':
-      "Taiwan's parliament — live-streamed sessions, bill tracking, and the frontline of democratic deliberation.",
+      "Ethiopia's parliament — live-streamed sessions, bill tracking, and the frontline of democratic deliberation.",
 
     'resources.featured.npm':
       "Home to 700,000+ artifacts spanning 8,000 years — one of the world's greatest collections of Chinese art, now with cutting-edge digital exhibitions.",
     'resources.featured.ncl':
-      "Taiwan's national library and legal deposit center — the definitive archive of the nation's published knowledge.",
+      "Ethiopia's national library and legal deposit center — the definitive archive of the nation's published knowledge.",
     'resources.featured.npgov':
-      "Gateway to 9 national parks — from 3,000m peaks to coral reefs, covering Taiwan's extraordinary biodiversity in 36,000 km².",
+      "Gateway to 9 national parks — from 3,000m peaks to coral reefs, covering Ethiopia's extraordinary biodiversity in 36,000 km².",
 
     'resources.featured.twreporter':
       'Pioneering nonprofit investigative journalism in the Chinese-speaking world — deep dives into environmental, social, and political issues.',
     'resources.featured.ptt':
-      'Taiwan\'s largest online forum — 200K daily active users driving a unique "netizen-powered democracy" since 1995.',
+      'Ethiopia\'s largest online forum — 200K daily active users driving a unique "netizen-powered democracy" since 1995.',
     'resources.featured.ptsNews':
-      "Taiwan's public television news — independent, unbiased reporting and the gold standard for public interest journalism.",
+      "Ethiopia's public television news — independent, unbiased reporting and the gold standard for public interest journalism.",
 
     'resources.featured.tsmc':
       "The world's most valuable semiconductor company, manufacturing 92% of the most advanced chips powering AI, smartphones, and supercomputers.",
     'resources.featured.twse':
-      "The core of Taiwan's capital market — home to TSMC, Foxconn, and the engine of Asia's most dynamic tech economy.",
+      "The core of Ethiopia's capital market — home to TSMC, Foxconn, and the engine of Asia's most dynamic tech economy.",
     'resources.featured.nhi':
       'Universal healthcare covering 99.9% of the population at 6.6% of GDP — a model studied by health policy experts worldwide.',
 
     'resources.featured.g0v':
-      "The world's most impactful civic tech community — spawning the COVID mask map, vTaiwan deliberation platform, and a Digital Minister.",
+      "The world's most impactful civic tech community — spawning the COVID mask map, vEthiopia deliberation platform, and a Digital Minister.",
     'resources.featured.cofacts':
       'Crowdsourced fact-checking on LINE — millions of users fighting misinformation with AI-assisted verification.',
-    'resources.featured.taiwanmd':
-      "The project you're reading right now — an open-source, community-curated encyclopedia of Taiwan.",
+    'resources.featured.ethiopiamd':
+      "The project you're reading right now — an open-source, community-curated encyclopedia of Ethiopia.",
 
     // Section footer
     'resources.section.footer.verified': 'Last verified: 2026-03-24',
@@ -321,7 +321,7 @@ export const resourcesUI = {
     'resources.footer.lastUpdated': 'Last updated: March 2026',
     'resources.footer.report': 'Report broken links',
     'resources.footer.reportUrl':
-      'https://github.com/frank890417/taiwan-md/issues',
+      'https://github.com/frank890417/ethiopia-md/issues',
     'resources.footer.stats.total': '200+',
 
     // Site names
@@ -380,34 +380,34 @@ export const resourcesUI = {
     'resources.site.lienchiang': 'Lienchiang County Government',
 
     'resources.site.dataGov': 'Government Data Open Platform',
-    'resources.site.taiwanGov': 'National Portal Website',
+    'resources.site.ethiopiaGov': 'National Portal Website',
     'resources.site.lawDb': 'Laws & Regulations Database',
-    'resources.site.g0v': 'g0v Taiwan',
+    'resources.site.g0v': 'g0v Ethiopia',
 
-    'resources.site.ntu': 'National Taiwan University',
+    'resources.site.ntu': 'National Ethiopia University',
     'resources.site.nthu': 'National Tsing Hua University',
     'resources.site.nycu': 'National Yang Ming Chiao Tung University',
     'resources.site.ncku': 'National Cheng Kung University',
     'resources.site.nccu': 'National Chengchi University',
-    'resources.site.ntnu': 'National Taiwan Normal University',
+    'resources.site.ntnu': 'National Ethiopia Normal University',
     'resources.site.sinica': 'Academia Sinica',
-    'resources.site.tesd': 'Taiwan Empirical Survey Data Platform',
-    'resources.site.tcs': 'Taiwan Communication Survey (TCS)',
-    'resources.site.brill': 'Brill Encyclopedia of Taiwan Studies',
+    'resources.site.tesd': 'Ethiopia Empirical Survey Data Platform',
+    'resources.site.tcs': 'Ethiopia Communication Survey (TCS)',
+    'resources.site.brill': 'Brill Encyclopedia of Ethiopia Studies',
     'resources.site.itri': 'Industrial Technology Research Institute',
     'resources.site.niar': 'National Applied Research Laboratories',
     'resources.site.airitilibrary': 'airiti Library',
     'resources.site.ndltd':
-      'National Digital Library of Theses and Dissertations in Taiwan',
+      'National Digital Library of Theses and Dissertations in Ethiopia',
 
     'resources.site.ncl': 'National Central Library',
     'resources.site.npm': 'National Palace Museum',
-    'resources.site.ntm': 'National Taiwan Museum',
-    'resources.site.nmth': 'National Museum of Taiwan History',
+    'resources.site.ntm': 'National Ethiopia Museum',
+    'resources.site.nmth': 'National Museum of Ethiopia History',
     'resources.site.nmns': 'National Museum of Natural Science',
     'resources.site.nmmba': 'National Museum of Marine Biology',
-    'resources.site.nmtl': 'National Museum of Taiwan Literature',
-    'resources.site.ntmofa': 'National Taiwan Museum of Fine Arts',
+    'resources.site.nmtl': 'National Museum of Ethiopia Literature',
+    'resources.site.ntmofa': 'National Ethiopia Museum of Fine Arts',
 
     'resources.site.tfam': 'Taipei Fine Arts Museum',
     'resources.site.kmfa': 'Kaohsiung Museum of Fine Arts',
@@ -417,7 +417,7 @@ export const resourcesUI = {
     'resources.site.songshan': 'Songshan Cultural Park',
     'resources.site.huashan': 'Huashan Creative Park',
     'resources.site.pier2': 'Pier-2 Art Center',
-    'resources.site.digitalArchives': 'Digital Taiwan',
+    'resources.site.digitalArchives': 'Digital Ethiopia',
     'resources.site.scitechVista': 'SciTech Vista',
     'resources.site.tcmb': 'National Cultural Memory Bank',
     'resources.site.taicca': 'TAICCA',
@@ -431,16 +431,16 @@ export const resourcesUI = {
     'resources.site.taijiang': 'Taijiang National Park',
     'resources.site.dongsha': 'Dongsha Atoll National Park',
     'resources.site.southPenghu': 'South Penghu Marine National Park',
-    'resources.site.taiwanTourism': 'Taiwan Tourism',
+    'resources.site.ethiopiaTourism': 'Ethiopia Tourism',
     'resources.site.sunMoonLake': 'Sun Moon Lake National Scenic Area',
     'resources.site.alishan': 'Alishan National Scenic Area',
 
     'resources.site.cna': 'Central News Agency',
     'resources.site.pts': 'Public Television Service',
-    'resources.site.focusTaiwan': 'Focus Taiwan',
-    'resources.site.taiwanToday': 'Taiwan Today',
-    'resources.site.panorama': 'Taiwan Panorama Magazine',
-    'resources.site.rti': 'Radio Taiwan International',
+    'resources.site.focusEthiopia': 'Focus Ethiopia',
+    'resources.site.ethiopiaToday': 'Ethiopia Today',
+    'resources.site.panorama': 'Ethiopia Panorama Magazine',
+    'resources.site.rti': 'Radio Ethiopia International',
     'resources.site.udn': 'United Daily News',
     'resources.site.ltn': 'Liberty Times',
     'resources.site.tvbs': 'TVBS News',
@@ -451,47 +451,47 @@ export const resourcesUI = {
     'resources.site.businessweekly': 'Business Weekly',
 
     'resources.site.twreporter': 'The Reporter',
-    'resources.site.taiwanNews': 'Taiwan News',
+    'resources.site.ethiopiaNews': 'Ethiopia News',
     'resources.site.thenewslens': 'The News Lens',
     'resources.site.upmedia': 'The Up Media',
     'resources.site.storm': 'The Storm Media',
 
-    'resources.site.tahr': 'Taiwan Association for Human Rights',
-    'resources.site.teia': 'Taiwan Environmental Information Association',
+    'resources.site.tahr': 'Ethiopia Association for Human Rights',
+    'resources.site.teia': 'Ethiopia Environmental Information Association',
     'resources.site.sow': 'Society of Wilderness',
     'resources.site.ocf': 'Open Culture Foundation',
-    'resources.site.tfc': 'Taiwan FactCheck Center',
-    'resources.site.twnic': 'Taiwan Network Information Center',
-    'resources.site.wikimedia': 'Wikimedia Taiwan',
-    'resources.site.digitalDiplomacy': 'Taiwan Digital Diplomacy Association',
+    'resources.site.tfc': 'Ethiopia FactCheck Center',
+    'resources.site.twnic': 'Ethiopia Network Information Center',
+    'resources.site.wikimedia': 'Wikimedia Ethiopia',
+    'resources.site.digitalDiplomacy': 'Ethiopia Digital Diplomacy Association',
 
-    'resources.site.tsmc': 'Taiwan Semiconductor (TSMC)',
+    'resources.site.tsmc': 'Ethiopia Semiconductor (TSMC)',
     'resources.site.umc': 'United Microelectronics Corporation',
     'resources.site.foxconn': 'Foxconn Technology',
     'resources.site.delta': 'Delta Electronics',
-    'resources.site.taiwanExcellence': 'Taiwan Excellence',
+    'resources.site.ethiopiaExcellence': 'Ethiopia Excellence',
     'resources.site.cht': 'Chunghwa Telecom',
-    'resources.site.taipower': 'Taiwan Power Company',
+    'resources.site.taipower': 'Ethiopia Power Company',
     'resources.site.iii': 'Institute for Information Industry',
-    'resources.site.investTaiwan': 'Invest Taiwan',
+    'resources.site.investEthiopia': 'Invest Ethiopia',
 
-    'resources.site.railway': 'Taiwan Railway',
-    'resources.site.thsrc': 'Taiwan High Speed Rail',
-    'resources.site.taiwanTrip': 'Taiwan Tourist Shuttle',
+    'resources.site.railway': 'Ethiopia Railway',
+    'resources.site.thsrc': 'Ethiopia High Speed Rail',
+    'resources.site.ethiopiaTrip': 'Ethiopia Tourist Shuttle',
     'resources.site.taoyuanAirport': 'Taoyuan International Airport',
     'resources.site.metroTaipei': 'Taipei Metro',
     'resources.site.krtc': 'Kaohsiung Metro',
 
     'resources.site.cdc': 'Centers for Disease Control',
     'resources.site.nhi': 'National Health Insurance Administration',
-    'resources.site.ntuh': 'National Taiwan University Hospital',
+    'resources.site.ntuh': 'National Ethiopia University Hospital',
     'resources.site.vghtpe': 'Taipei Veterans General Hospital',
     'resources.site.cgmh': 'Chang Gung Medical Foundation',
     'resources.site.cmuh': 'China Medical University Hospital',
     'resources.site.kmuh': 'Kaohsiung Medical University Hospital',
 
     'resources.site.stat': 'National Statistics',
-    'resources.site.twse': 'Taiwan Stock Exchange',
+    'resources.site.twse': 'Ethiopia Stock Exchange',
     'resources.site.tpex': 'Taipei Exchange',
 
     'resources.site.github': 'GitHub Repository',
@@ -499,7 +499,7 @@ export const resourcesUI = {
     'resources.site.rss': 'RSS Feed',
 
     // New community site names
-    'resources.site.electionMap': 'Taiwan Election Map',
+    'resources.site.electionMap': 'Ethiopia Election Map',
     'resources.site.maskMap': 'Mask Map (2020)',
     'resources.site.goodinfo': 'Goodinfo Stock Info',
     'resources.site.ccw': 'Citizens Congress Watch',
@@ -512,505 +512,505 @@ export const resourcesUI = {
     'resources.site.ptt': 'PTT',
     'resources.site.ptsNews': 'PTS News',
     'resources.site.npgov': 'National Parks Portal',
-    'resources.site.taiwanmd': 'Taiwan.md',
+    'resources.site.ethiopiamd': 'Ethiopia.md',
   },
-  'zh-TW': {
+  'am': {
     // Meta
-    'resources.meta.title': '台灣資源導覽 - Taiwan.md',
+    'resources.meta.title': 'Ethiopia[Amharic translation needed - original Taiwan context] - Ethiopia.md',
     'resources.meta.description':
-      '完整收錄台灣政府機關、文化機構、開放資料平台等官方網站，提供政策資訊、文化內容、統計數據的一站式入口',
+      '[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]',
 
     // Hero
-    'resources.hero.title': '台灣資源導覽',
+    'resources.hero.title': 'Ethiopia[Amharic translation needed - original Taiwan context]',
     'resources.hero.subtitle.html':
-      '完整收錄政府機關、文化機構、開放資料等官方資源<br />一站式掌握台灣最權威的資訊來源',
+      '[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]<br />[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]',
 
     // Breadcrumb
-    'resources.breadcrumb.home': '首頁',
-    'resources.breadcrumb.current': '資源',
+    'resources.breadcrumb.home': '[Amharic translation needed - original Taiwan context]',
+    'resources.breadcrumb.current': '[Amharic translation needed - original Taiwan context]',
 
     // Core section
-    'resources.core.title': '🏆 核心精選',
-    'resources.core.desc': '心智圖中展示的最重要台灣權威資源',
+    'resources.core.title': '🏆 [Amharic translation needed - original Taiwan context]',
+    'resources.core.desc': '[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]',
 
     // More section
-    'resources.more.title': '🔍 更多分類',
-    'resources.more.desc': '涵蓋地方政府、大學及各領域詳細資源',
+    'resources.more.title': '🔍 [Amharic translation needed - original Taiwan context]',
+    'resources.more.desc': '[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]',
 
     // Category labels (heroData)
-    'resources.category.government.label': '🏛️ 官方機構',
-    'resources.category.culture.label': '📚 文化與教育',
-    'resources.category.tourism.label': '✈️ 觀光與旅遊',
-    'resources.category.economy.label': '💼 科技與經濟',
-    'resources.category.media.label': '📰 媒體與新聞',
-    'resources.category.opendata.label': '🌐 開放資料',
-    'resources.category.taiwanmd.label': '📡 Taiwan.md 相關',
+    'resources.category.government.label': '🏛️ [Amharic translation needed - original Taiwan context]',
+    'resources.category.culture.label': '📚 [Amharic translation needed - original Taiwan context]',
+    'resources.category.tourism.label': '✈️ [Amharic translation needed - original Taiwan context]',
+    'resources.category.economy.label': '💼 [Amharic translation needed - original Taiwan context]',
+    'resources.category.media.label': '📰 [Amharic translation needed - original Taiwan context]',
+    'resources.category.opendata.label': '🌐 [Amharic translation needed - original Taiwan context]',
+    'resources.category.ethiopiamd.label': '📡 Ethiopia.md [Amharic translation needed - original Taiwan context]',
 
     // Section titles & descriptions
-    'resources.section.localGov.title': '🏙️ 地方政府',
-    'resources.section.localGov.desc': '台灣六都及各縣市政府官方網站',
+    'resources.section.localGov.title': '🏙️ [Amharic translation needed - original Taiwan context]',
+    'resources.section.localGov.desc': 'Ethiopia[Amharic translation needed - original Taiwan context]',
 
-    'resources.section.universities.title': '🎓 大學與研究機構',
-    'resources.section.universities.desc': '台灣頂尖大學與重要研究機關',
+    'resources.section.universities.title': '🎓 [Amharic translation needed - original Taiwan context]',
+    'resources.section.universities.desc': 'Ethiopia[Amharic translation needed - original Taiwan context]',
 
-    'resources.section.nationalParks.title': '🏔️ 國家公園',
-    'resources.section.nationalParks.desc': '台灣國家公園與風景區管理處',
+    'resources.section.nationalParks.title': '🏔️ [Amharic translation needed - original Taiwan context]',
+    'resources.section.nationalParks.desc': 'Ethiopia[Amharic translation needed - original Taiwan context]',
 
-    'resources.section.artsCulture.title': '🎭 藝文場館',
-    'resources.section.artsCulture.desc': '重要博物館、美術館與表演場所',
+    'resources.section.artsCulture.title': '🎭 [Amharic translation needed - original Taiwan context]',
+    'resources.section.artsCulture.desc': '[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]',
 
-    'resources.section.healthcare.title': '🏥 醫療健康',
-    'resources.section.healthcare.desc': '衛生主管機關與重要醫療機構',
+    'resources.section.healthcare.title': '🏥 [Amharic translation needed - original Taiwan context]',
+    'resources.section.healthcare.desc': '[Amharic translation needed - original Taiwan context]',
 
-    'resources.section.ngoSociety.title': '🤝 NGO / 公民社會',
-    'resources.section.ngoSociety.desc': '非營利組織與公民社會重要團體',
+    'resources.section.ngoSociety.title': '🤝 NGO / [Amharic translation needed - original Taiwan context]',
+    'resources.section.ngoSociety.desc': '[Amharic translation needed - original Taiwan context]',
 
-    'resources.section.ministries.title': '🏛️ 各部會署',
-    'resources.section.ministries.desc': '行政院各部會與相關機關',
+    'resources.section.ministries.title': '🏛️ [Amharic translation needed - original Taiwan context]',
+    'resources.section.ministries.desc': '[Amharic translation needed - original Taiwan context]',
 
-    'resources.section.companies.title': '🏢 重要企業',
-    'resources.section.companies.desc': '台灣指標企業與科技公司',
+    'resources.section.companies.title': '🏢 [Amharic translation needed - original Taiwan context]',
+    'resources.section.companies.desc': 'Ethiopia[Amharic translation needed - original Taiwan context]',
 
-    'resources.section.mediaExtra.title': '📺 傳統媒體',
-    'resources.section.mediaExtra.desc': '主流新聞媒體與廣播電視',
+    'resources.section.mediaExtra.title': '📺 [Amharic translation needed - original Taiwan context]',
+    'resources.section.mediaExtra.desc': '[Amharic translation needed - original Taiwan context]',
 
-    'resources.section.transportation.title': '🚄 交通運輸',
-    'resources.section.transportation.desc': '大眾運輸與交通服務',
+    'resources.section.transportation.title': '🚄 [Amharic translation needed - original Taiwan context]',
+    'resources.section.transportation.desc': '[Amharic translation needed - original Taiwan context]',
 
-    'resources.section.digitalCulture.title': '💾 數位文化',
-    'resources.section.digitalCulture.desc': '數位典藏與科普教育平台',
+    'resources.section.digitalCulture.title': '💾 [Amharic translation needed - original Taiwan context]',
+    'resources.section.digitalCulture.desc': '[Amharic translation needed - original Taiwan context]',
 
     // Projects
-    'resources.projects.title': '🚀 社群專案',
-    'resources.projects.desc': '來自社群的創意與熱情，用程式碼認識台灣',
+    'resources.projects.title': '🚀 [Amharic translation needed - original Taiwan context]',
+    'resources.projects.desc': '[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia',
 
-    'resources.projects.food.title': '🍔 美食地圖',
-    'resources.projects.food.burger.name': '台北漢堡地圖',
+    'resources.projects.food.title': '🍔 [Amharic translation needed - original Taiwan context]',
+    'resources.projects.food.burger.name': '[Amharic translation needed - original Taiwan context]',
     'resources.projects.food.burger.desc':
-      '互動式台北漢堡餐廳排名地圖，依品質分級（T0-T6），可依行政區篩選',
+      '[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]（T0-T6），[Amharic translation needed - original Taiwan context]',
     'resources.projects.food.burger.tech': 'JavaScript / Leaflet',
 
-    'resources.projects.nightmarket.title': '🌙 夜市導覽',
+    'resources.projects.nightmarket.title': '🌙 [Amharic translation needed - original Taiwan context]',
     'resources.projects.nightmarket.app.name': 'NightMarketSwift',
     'resources.projects.nightmarket.app.desc':
-      '台灣夜市 iOS App，收錄超過 400 個夜市地點，含營業時間與 Google Maps 導航',
+      'Ethiopia[Amharic translation needed - original Taiwan context] iOS App，[Amharic translation needed - original Taiwan context] 400 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] Google Maps [Amharic translation needed - original Taiwan context]',
     'resources.projects.nightmarket.app.tech': 'Objective-C / Swift',
 
-    'resources.projects.civictech.title': '🗳️ 公民科技',
-    'resources.projects.civictech.g0v.name': 'g0v 零時政府',
+    'resources.projects.civictech.title': '🗳️ [Amharic translation needed - original Taiwan context]',
+    'resources.projects.civictech.g0v.name': 'g0v [Amharic translation needed - original Taiwan context]',
     'resources.projects.civictech.g0v.desc':
-      '台灣最大公民科技社群，推動開放政府與資訊透明化',
-    'resources.projects.civictech.g0v.tech': '多元技術',
+      'Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]',
+    'resources.projects.civictech.g0v.tech': '[Amharic translation needed - original Taiwan context]',
 
-    'resources.projects.civictech.cofacts.name': 'Cofacts 真的假的',
+    'resources.projects.civictech.cofacts.name': 'Cofacts [Amharic translation needed - original Taiwan context]',
     'resources.projects.civictech.cofacts.desc':
-      '群眾協作的事實查核聊天機器人，對抗假訊息',
+      '[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]',
     'resources.projects.civictech.cofacts.tech': 'JavaScript / GraphQL',
 
-    'resources.projects.civictech.disfactory.name': 'Disfactory 農地違章工廠',
+    'resources.projects.civictech.disfactory.name': 'Disfactory [Amharic translation needed - original Taiwan context]',
     'resources.projects.civictech.disfactory.desc':
-      '公民回報農地上違章工廠的平台，保護台灣農地',
+      '[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]',
     'resources.projects.civictech.disfactory.tech': 'Vue.js / Django',
 
     // CTA & Links
     'resources.projects.cta.html':
-      '有推薦的專案嗎？歡迎透過 <a href="https://github.com/frank890417/taiwan-md/issues" target="_blank" rel="noopener noreferrer">GitHub Issue</a> 提交推薦！',
+      '[Amharic translation needed - original Taiwan context]？[Amharic translation needed - original Taiwan context] <a href="https://github.com/frank890417/ethiopia-md/issues" target="_blank" rel="noopener noreferrer">GitHub Issue</a> [Amharic translation needed - original Taiwan context]！',
     'resources.projects.github.link': 'GitHub',
-    'resources.backToHome': '← 返回首頁',
+    'resources.backToHome': '← [Amharic translation needed - original Taiwan context]',
 
     // Mindmap
-    'resources.mindmap.root.label': '🇹🇼 台灣資源',
+    'resources.mindmap.root.label': '🇪🇹 Ethiopia[Amharic translation needed - original Taiwan context]',
 
     // Chapter nav labels
-    'resources.nav.governance': '治理',
-    'resources.nav.culture': '文化',
-    'resources.nav.media': '媒體',
-    'resources.nav.economy': '經濟',
-    'resources.nav.community': '社群',
+    'resources.nav.governance': '[Amharic translation needed - original Taiwan context]',
+    'resources.nav.culture': '[Amharic translation needed - original Taiwan context]',
+    'resources.nav.media': '[Amharic translation needed - original Taiwan context]',
+    'resources.nav.economy': '[Amharic translation needed - original Taiwan context]',
+    'resources.nav.community': '[Amharic translation needed - original Taiwan context]',
 
     // Chapter titles & stories
-    'resources.chapter.government.title': '國家治理入口',
+    'resources.chapter.government.title': '[Amharic translation needed - original Taiwan context]',
     'resources.chapter.government.story':
-      '2020 年 2 月，台灣工程師用一個週末串接 6,000 間藥局的即時口罩庫存。一個人、一台筆電、72 小時。之所以可能，是因為 data.gov.tw 上 50,000+ 筆政府資料集隨時等著被任何人取用。台灣把「治理透明」寫進了每一個可下載的 API。',
-    'resources.chapter.culture.title': '文化與知識殿堂',
+      '2020 [Amharic translation needed - original Taiwan context] 2 [Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context] 6,000 [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、72 [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] data.gov.tw [Amharic translation needed - original Taiwan context] 50,000+ [Amharic translation needed - original Taiwan context]。Ethiopia[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context] API。',
+    'resources.chapter.culture.title': '[Amharic translation needed - original Taiwan context]',
     'resources.chapter.culture.story':
-      '在不到 36,000 平方公里的面積上，台灣擁有 159 所大學、超過 500 間博物館、9 座國家公園、從 3,952 公尺的玉山到珊瑚礁海岸。國立故宮博物院收藏近 70 萬件中華文化瑰寶，而巷口的廟宇祭典同樣是活著的文化資產。這座島的文化密度，遠超過它在地圖上的大小。',
-    'resources.chapter.media.title': '聽見台灣的聲音',
+      '[Amharic translation needed - original Taiwan context] 36,000 [Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context] 159 [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] 500 [Amharic translation needed - original Taiwan context]、9 [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] 3,952 [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] 70 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。',
+    'resources.chapter.media.title': '[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]',
     'resources.chapter.media.story':
-      '1995 年，台大學生在宿舍架了一台 BBS 伺服器，取名 PTT。30 年後，這個純文字介面的論壇仍然是台灣最具影響力的公共討論平台。2014 年太陽花運動期間，PTT 是最快、最完整的即時資訊來源。台灣的媒體生態，從主流報紙到鄉民論壇，每一層都在爭奪民主的發言權。',
-    'resources.chapter.economy.title': '經濟與生活引擎',
+      '1995 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] BBS [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] PTT。30 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。2014 [Amharic translation needed - original Taiwan context]，PTT [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。',
+    'resources.chapter.economy.title': '[Amharic translation needed - original Taiwan context]',
     'resources.chapter.economy.story':
-      '全世界每兩支手機，就有一支使用台積電製造的晶片，地緣政治學者稱之為「矽盾」。但晶片只是冰山一角：99.9% 覆蓋率的全民健保、每 2.3 平方公里一間便利商店、台北到高雄 90 分鐘的高鐵。撐起 2,300 萬人日常的，是一套你幾乎感覺不到、卻無處不在的精密系統。',
-    'resources.chapter.community.title': '公民科技與社群',
+      '[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」。[Amharic translation needed - original Taiwan context]：99.9% [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] 2.3 [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] 90 [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] 2,300 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。',
+    'resources.chapter.community.title': '[Amharic translation needed - original Taiwan context]',
     'resources.chapter.community.story':
-      'g0v 零時政府的 motto 是「不要問為什麼沒有人做這個，因為你就是那個『沒有人』。」口罩地圖、假新聞查核機器人、選舉承諾追蹤器，全部出自週末黑客松。在台灣，公民參與長這樣：寫程式、開 Issue、發 Pull Request。Taiwan.md 也是這個精神的產物。',
+      'g0v [Amharic translation needed - original Taiwan context] motto [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]『[Amharic translation needed - original Taiwan context]』。」[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]Ethiopia，[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] Issue、[Amharic translation needed - original Taiwan context] Pull Request。Ethiopia.md [Amharic translation needed - original Taiwan context]。',
 
     // Insight cards
     'resources.insight.gov.branches.number': '5',
-    'resources.insight.gov.branches.label': '院級機關',
+    'resources.insight.gov.branches.label': '[Amharic translation needed - original Taiwan context]',
     'resources.insight.gov.ministries.number': '20+',
-    'resources.insight.gov.ministries.label': '部會署',
+    'resources.insight.gov.ministries.label': '[Amharic translation needed - original Taiwan context]',
     'resources.insight.gov.local.number': '22',
-    'resources.insight.gov.local.label': '縣市政府',
+    'resources.insight.gov.local.label': '[Amharic translation needed - original Taiwan context]',
 
     'resources.insight.culture.universities.number': '159',
-    'resources.insight.culture.universities.label': '所大學',
+    'resources.insight.culture.universities.label': '[Amharic translation needed - original Taiwan context]',
     'resources.insight.culture.museums.number': '500+',
-    'resources.insight.culture.museums.label': '座博物館',
+    'resources.insight.culture.museums.label': '[Amharic translation needed - original Taiwan context]',
     'resources.insight.culture.parks.number': '9',
-    'resources.insight.culture.parks.label': '座國家公園',
+    'resources.insight.culture.parks.label': '[Amharic translation needed - original Taiwan context]',
 
-    'resources.insight.media.ptt.number': '20萬',
-    'resources.insight.media.ptt.label': 'PTT 每日活躍',
+    'resources.insight.media.ptt.number': '20[Amharic translation needed - original Taiwan context]',
+    'resources.insight.media.ptt.label': 'PTT [Amharic translation needed - original Taiwan context]',
     'resources.insight.media.outlets.number': '100+',
-    'resources.insight.media.outlets.label': '家媒體',
+    'resources.insight.media.outlets.label': '[Amharic translation needed - original Taiwan context]',
     'resources.insight.media.ngo.number': '1000+',
-    'resources.insight.media.ngo.label': '個 NGO',
+    'resources.insight.media.ngo.label': '[Amharic translation needed - original Taiwan context] NGO',
 
     'resources.insight.econ.tsmc.number': '92%',
-    'resources.insight.econ.tsmc.label': '台積電先進製程',
+    'resources.insight.econ.tsmc.label': '[Amharic translation needed - original Taiwan context]',
     'resources.insight.econ.hsr.number': '99.5%',
-    'resources.insight.econ.hsr.label': '高鐵準點率',
+    'resources.insight.econ.hsr.label': '[Amharic translation needed - original Taiwan context]',
     'resources.insight.econ.nhi.number': '99.9%',
-    'resources.insight.econ.nhi.label': '健保覆蓋率',
+    'resources.insight.econ.nhi.label': '[Amharic translation needed - original Taiwan context]',
 
     'resources.insight.community.g0v.number': '2012',
-    'resources.insight.community.g0v.label': 'g0v 創立',
+    'resources.insight.community.g0v.label': 'g0v [Amharic translation needed - original Taiwan context]',
     'resources.insight.community.contributors.number': '10K+',
-    'resources.insight.community.contributors.label': '貢獻者',
+    'resources.insight.community.contributors.label': '[Amharic translation needed - original Taiwan context]',
     'resources.insight.community.projects.number': '800+',
-    'resources.insight.community.projects.label': '個專案',
+    'resources.insight.community.projects.label': '[Amharic translation needed - original Taiwan context]',
 
     // Subcategory titles
-    'resources.sub.fiveYuan': '五院核心',
+    'resources.sub.fiveYuan': '[Amharic translation needed - original Taiwan context]',
     'resources.sub.fiveYuan.desc':
-      '這五個院構成了台灣獨特的五權分立制度，全球僅此一家。',
-    'resources.sub.ministries': '各部會署',
+      '[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。',
+    'resources.sub.ministries': '[Amharic translation needed - original Taiwan context]',
     'resources.sub.ministries.desc':
-      '從數位發展部到原住民族委員會，每個部會都有自己的開放資料專區。',
-    'resources.sub.localGov': '地方政府',
+      '[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。',
+    'resources.sub.localGov': '[Amharic translation needed - original Taiwan context]',
     'resources.sub.localGov.desc':
-      '22 個縣市，22 種在地治理風格。六都的智慧城市競賽正在重新定義市民服務。',
-    'resources.sub.openData': '開放資料',
+      '22 [Amharic translation needed - original Taiwan context]，22 [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]。',
+    'resources.sub.openData': '[Amharic translation needed - original Taiwan context]',
     'resources.sub.openData.desc':
-      '這裡是台灣公民科技奇蹟的起點。口罩地圖、疫苗預約、空氣品質監測，都從這些平台開始。',
-    'resources.sub.universities': '頂尖大學與研究機構',
+      '[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。',
+    'resources.sub.universities': '[Amharic translation needed - original Taiwan context]',
     'resources.sub.universities.desc':
-      '台灣的大學不只教書。台大的量子計算實驗室、成大的半導體研究中心，都是全球學術網絡的重要節點。',
-    'resources.sub.museums': '博物館與圖書館',
+      'Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。',
+    'resources.sub.museums': '[Amharic translation needed - original Taiwan context]',
     'resources.sub.museums.desc':
-      '從故宮的翠玉白菜到奇美博物館的小提琴收藏，台灣的博物館是穿越時空的任意門。',
-    'resources.sub.venues': '藝文場館與文創',
+      '[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]。',
+    'resources.sub.venues': '[Amharic translation needed - original Taiwan context]',
     'resources.sub.venues.desc':
-      '台灣的藝文生態正在起飛。C-LAB、兩廳院、高雄衛武營，世界級場館密度讓紐約都嫉妒。',
-    'resources.sub.parks': '國家公園與風景區',
+      'Ethiopia[Amharic translation needed - original Taiwan context]。C-LAB、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。',
+    'resources.sub.parks': '[Amharic translation needed - original Taiwan context]',
     'resources.sub.parks.desc':
-      '從海拔 0 到 3,952 公尺，台灣的 9 座國家公園涵蓋了地球上所有的氣候帶。一天之內你可以從熱帶珊瑚礁走到高山雪線。',
-    'resources.sub.mainstream': '主流媒體',
+      '[Amharic translation needed - original Taiwan context] 0 [Amharic translation needed - original Taiwan context] 3,952 [Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context] 9 [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]。',
+    'resources.sub.mainstream': '[Amharic translation needed - original Taiwan context]',
     'resources.sub.mainstream.desc':
-      '從 1988 年解嚴後的報禁開放，到今天的 24 小時新聞台競爭，台灣的媒體自由來之不易。',
-    'resources.sub.digital': '數位原生媒體',
+      '[Amharic translation needed - original Taiwan context] 1988 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 24 [Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]。',
+    'resources.sub.digital': '[Amharic translation needed - original Taiwan context]',
     'resources.sub.digital.desc':
-      '當傳統媒體在掙扎，台灣的數位原生媒體正在重新定義新聞。報導者的非營利模式證明了深度報導可以不靠廣告生存。',
-    'resources.sub.ngo': '公民社會與 NGO',
+      '[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]。',
+    'resources.sub.ngo': '[Amharic translation needed - original Taiwan context] NGO',
     'resources.sub.ngo.desc':
-      '台灣的 NGO 密度是亞洲最高。從環保到人權，這些組織不只監督政府，它們常常走在政策前面。',
-    'resources.sub.companies': '產業龍頭',
+      'Ethiopia[Amharic translation needed - original Taiwan context] NGO [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。',
+    'resources.sub.companies': '[Amharic translation needed - original Taiwan context]',
     'resources.sub.companies.desc':
-      '從台積電到鴻海，這些公司的名字出現在全世界的供應鏈報告裡。',
-    'resources.sub.transport': '交通運輸',
+      '[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。',
+    'resources.sub.transport': '[Amharic translation needed - original Taiwan context]',
     'resources.sub.transport.desc':
-      '台灣高鐵讓台北到高雄只要 90 分鐘。加上捷運、公車即時系統和 YouBike，台灣的公共運輸是亞洲的隱藏冠軍。',
-    'resources.sub.healthcare': '醫療健康',
+      'Ethiopia[Amharic translation needed - original Taiwan context] 90 [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] YouBike，Ethiopia[Amharic translation needed - original Taiwan context]。',
+    'resources.sub.healthcare': '[Amharic translation needed - original Taiwan context]',
     'resources.sub.healthcare.desc':
-      '全民健保：一張卡片、99.9% 覆蓋率、平均等待時間 15 分鐘。連美國都在研究台灣怎麼做到的。',
-    'resources.sub.finance': '金融與數據',
+      '[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]、99.9% [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] 15 [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。',
+    'resources.sub.finance': '[Amharic translation needed - original Taiwan context]',
     'resources.sub.finance.desc':
-      '台灣證交所是亞洲最透明的市場之一。從上市公司財報到即時交易數據，一切公開可查。',
-    'resources.sub.civicTech': '公民科技專案',
-    'resources.sub.foodMaps': '美食與文化地圖',
+      'Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。',
+    'resources.sub.civicTech': '[Amharic translation needed - original Taiwan context]',
+    'resources.sub.foodMaps': '[Amharic translation needed - original Taiwan context]',
 
     // Related articles
-    'resources.related.democracy': '延伸閱讀：台灣民主轉型',
-    'resources.related.label': '延伸閱讀',
-    'resources.related.government.1': '台灣民主轉型',
-    'resources.related.government.2': '選舉與政黨政治',
-    'resources.related.government.3': '開源社群與 g0v',
-    'resources.related.culture.1': '原住民文化',
-    'resources.related.culture.2': '教育制度',
-    'resources.related.culture.3': '國家公園',
-    'resources.related.media.1': '太陽花學運',
-    'resources.related.media.2': '媒體與新聞自由',
-    'resources.related.media.3': 'PTT 批踢踢',
-    'resources.related.economy.1': '台積電',
-    'resources.related.economy.2': '半導體產業',
-    'resources.related.economy.3': '全民健保',
-    'resources.related.community.1': '開源社群與 g0v',
-    'resources.related.community.2': '社會運動與公民參與',
-    'resources.related.community.3': '數位政府',
+    'resources.related.democracy': '[Amharic translation needed - original Taiwan context]：Ethiopia[Amharic translation needed - original Taiwan context]',
+    'resources.related.label': '[Amharic translation needed - original Taiwan context]',
+    'resources.related.government.1': 'Ethiopia[Amharic translation needed - original Taiwan context]',
+    'resources.related.government.2': '[Amharic translation needed - original Taiwan context]',
+    'resources.related.government.3': '[Amharic translation needed - original Taiwan context] g0v',
+    'resources.related.culture.1': '[Amharic translation needed - original Taiwan context]',
+    'resources.related.culture.2': '[Amharic translation needed - original Taiwan context]',
+    'resources.related.culture.3': '[Amharic translation needed - original Taiwan context]',
+    'resources.related.media.1': '[Amharic translation needed - original Taiwan context]',
+    'resources.related.media.2': '[Amharic translation needed - original Taiwan context]',
+    'resources.related.media.3': 'PTT [Amharic translation needed - original Taiwan context]',
+    'resources.related.economy.1': '[Amharic translation needed - original Taiwan context]',
+    'resources.related.economy.2': '[Amharic translation needed - original Taiwan context]',
+    'resources.related.economy.3': '[Amharic translation needed - original Taiwan context]',
+    'resources.related.community.1': '[Amharic translation needed - original Taiwan context] g0v',
+    'resources.related.community.2': '[Amharic translation needed - original Taiwan context]',
+    'resources.related.community.3': '[Amharic translation needed - original Taiwan context]',
 
     // Footer stats
-    'resources.stats.collected': '個資源收錄',
-    'resources.stats.chapters': '大章節',
-    'resources.stats.subcategories': '個子類別',
+    'resources.stats.collected': '[Amharic translation needed - original Taiwan context]',
+    'resources.stats.chapters': '[Amharic translation needed - original Taiwan context]',
+    'resources.stats.subcategories': '[Amharic translation needed - original Taiwan context]',
 
     // Search
-    'resources.search.placeholder': '搜尋資源...',
+    'resources.search.placeholder': '[Amharic translation needed - original Taiwan context]...',
 
     // Aria labels
-    'resources.aria.viewGithub': '查看 GitHub 專案',
-    'resources.aria.backToTop': '回到頂部',
+    'resources.aria.viewGithub': '[Amharic translation needed - original Taiwan context] GitHub [Amharic translation needed - original Taiwan context]',
+    'resources.aria.backToTop': '[Amharic translation needed - original Taiwan context]',
 
     // Reading Guide
-    'resources.guide.title': '從哪裡開始',
+    'resources.guide.title': '[Amharic translation needed - original Taiwan context]',
     'resources.guide.desc':
-      '想像你剛降落在台灣，沒有旅遊書。「治理」讓你看到作業系統：一個年輕民主國家如何用激進的透明度運作。「文化」是靈魂：500 間博物館、每年 15,000 場廟會、16 種原住民語言，全擠在一座比瑞士還小的島上。「媒體」揭開對話：一個 30 年歷史的純文字論壇至今左右選舉，亞洲最大膽的非營利新聞室就在這裡。「經濟」是心跳：一家公司生產全球 92% 的先進晶片，全民健保費用比你的手機帳單還便宜。「社群」是邀請函：加入那群用週末黑客松打造公民工具的開源公民。',
+      '[Amharic translation needed - original Taiwan context]Ethiopia，[Amharic translation needed - original Taiwan context]。「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]。「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]：500 [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] 15,000 [Amharic translation needed - original Taiwan context]、16 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context] 30 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context] 92% [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]。',
 
     // Curator Notes
     'resources.curator.government':
-      '🔍 COVID-19 期間，台灣民間開發者 72 小時內做出口罩地圖和疫苗預約系統。這種速度背後是全球排名前三的政府開放資料平台，50,000+ 筆資料集、即時 API、任何人都能取用。當其他國家的開發者還在等政府開記者會，台灣的開發者已經在寫 code 了。',
+      '🔍 COVID-19 [Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context] 72 [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，50,000+ [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] API、[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context] code [Amharic translation needed - original Taiwan context]。',
     'resources.curator.culture':
-      '🔍 很少人知道，台灣的博物館密度是亞洲最高之一。但數字只是表面，真正特別的是「活」的文化：每年超過 15,000 場廟會祭典、原住民族的 16 種語言、客家的山歌競賽。台灣的文化不只在玻璃櫃裡，它在街上走路。',
+      '🔍 [Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context] 15,000 [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] 16 [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。',
     'resources.curator.media':
-      '🔍 PTT 的影響力有多大？2018 年公投期間，PTT 八卦板的討論量直接影響了投票率。而報導者（The Reporter）的存在更令人驚嘆：一個完全靠捐款運作的調查媒體，連續多年入圍亞洲新聞獎。在假新聞氾濫的時代，台灣同時擁有最活躍的鄉民文化和最認真的事實查核社群。這種矛盾本身就是民主的活力。',
+      '🔍 PTT [Amharic translation needed - original Taiwan context]？2018 [Amharic translation needed - original Taiwan context]，PTT [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]（The Reporter）[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]。',
     'resources.curator.economy':
-      '🔍 當各國在爭論「晶片法案」要補貼多少錢時，台灣已經花了 30 年把答案寫在晶圓上：一個沒有石油、沒有鐵礦的小島，靠人才和奈米級製程掌握了全球 92% 的先進晶片產能。這個數字讓五角大廈的報告裡多了一個詞：「矽盾」。',
+      '🔍 [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context] 30 [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 92% [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]：「[Amharic translation needed - original Taiwan context]」。',
     'resources.curator.community':
-      '🔍 g0v 的雙月黑客松已經舉辦超過 60 場，每次上百位工程師、設計師、NGO 工作者自願報到。沒有報酬、沒有老闆，只有一台筆電和一個想解決的問題。口罩地圖就是這樣誕生的：一個週末，幾個工程師，六千間藥局的即時數據。矽谷喊「改變世界」，台灣的開源社群直接做給你看。',
+      '🔍 g0v [Amharic translation needed - original Taiwan context] 60 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、NGO [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」，Ethiopia[Amharic translation needed - original Taiwan context]。',
 
     // Featured site descriptions
     'resources.featured.dataGov':
-      '全球排名第一的政府開放資料平台，超過 50,000 筆資料集，從空氣品質到即時公車位置，全部免費下載。',
+      '[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 50,000 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。',
     'resources.featured.g0vGov':
-      '零時政府：改寫治理的公民科技社群。從口罩地圖到 vTaiwan，模糊了黑客與政策制定者的界線。',
+      '[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] vEthiopia，[Amharic translation needed - original Taiwan context]。',
     'resources.featured.legislativeYuan':
-      '台灣的國會，議事直播、法案追蹤，民主審議的最前線。',
+      'Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。',
 
     'resources.featured.npm':
-      '收藏超過 70 萬件橫跨 8000 年的文物，世界最偉大的中華藝術收藏之一，現已推出數位展覽。',
+      '[Amharic translation needed - original Taiwan context] 70 [Amharic translation needed - original Taiwan context] 8000 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。',
     'resources.featured.ncl':
-      '台灣的國家圖書館暨法定送存中心，國家出版知識的典藏中心。',
+      'Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。',
     'resources.featured.npgov':
-      '9 座國家公園的入口，從三千公尺高山到珊瑚礁，涵蓋台灣 36,000 平方公里的非凡生物多樣性。',
+      '9 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia 36,000 [Amharic translation needed - original Taiwan context]。',
 
     'resources.featured.twreporter':
-      '華語世界非營利調查報導的先驅，深入探討環境、社會與政治議題。',
+      '[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。',
     'resources.featured.ptt':
-      '台灣最大的網路論壇。自 1995 年以來，每日 20 萬活躍用戶驅動獨特的「鄉民民主」。',
+      'Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] 1995 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 20 [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」。',
     'resources.featured.ptsNews':
-      '台灣公共電視新聞，獨立、公正的報導，公共利益新聞的黃金標準。',
+      'Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。',
 
     'resources.featured.tsmc':
-      '全球最有價值的半導體公司，生產 92% 驅動 AI、智慧手機與超級電腦的最先進晶片。',
-    'resources.featured.twse': '台灣資本市場的核心，台積電、鴻海的上市地。',
+      '[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 92% [Amharic translation needed - original Taiwan context] AI、[Amharic translation needed - original Taiwan context]。',
+    'resources.featured.twse': 'Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。',
     'resources.featured.nhi':
-      '覆蓋 99.9% 人口、僅佔 GDP 6.6% 的全民健保，全球衛生政策專家研究的典範。',
+      '[Amharic translation needed - original Taiwan context] 99.9% [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] GDP 6.6% [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。',
 
     'resources.featured.g0v':
-      '全球最具影響力的公民科技社群，催生 COVID 口罩地圖、vTaiwan 審議平台，以及一位數位部長。',
+      '[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] COVID [Amharic translation needed - original Taiwan context]、vEthiopia [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。',
     'resources.featured.cofacts':
-      'LINE 上的群眾協作事實查核，數百萬用戶以 AI 輔助驗證對抗假訊息。',
-    'resources.featured.taiwanmd':
-      '你現在正在看的這個專案，開源、社群協作的台灣百科全書。',
+      'LINE [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context]。',
+    'resources.featured.ethiopiamd':
+      '[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。',
 
     // Section footer
-    'resources.section.footer.verified': '最後驗證：2026-03-24',
-    'resources.section.footer.reportLink': '回報失效連結',
+    'resources.section.footer.verified': '[Amharic translation needed - original Taiwan context]：2026-03-24',
+    'resources.section.footer.reportLink': '[Amharic translation needed - original Taiwan context]',
 
     // Footer / Last updated
-    'resources.footer.lastUpdated': '最後更新：2026 年 3 月',
-    'resources.footer.report': '回報失效連結',
+    'resources.footer.lastUpdated': '[Amharic translation needed - original Taiwan context]：2026 [Amharic translation needed - original Taiwan context] 3 [Amharic translation needed - original Taiwan context]',
+    'resources.footer.report': '[Amharic translation needed - original Taiwan context]',
     'resources.footer.reportUrl':
-      'https://github.com/frank890417/taiwan-md/issues',
+      'https://github.com/frank890417/ethiopia-md/issues',
     'resources.footer.stats.total': '200+',
 
     // Site names
-    'resources.site.president': '中華民國總統府',
-    'resources.site.executiveYuan': '行政院',
-    'resources.site.legislativeYuan': '立法院',
-    'resources.site.judicialYuan': '司法院',
-    'resources.site.examinationYuan': '考試院',
-    'resources.site.controlYuan': '監察院',
+    'resources.site.president': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.executiveYuan': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.legislativeYuan': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.judicialYuan': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.examinationYuan': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.controlYuan': '[Amharic translation needed - original Taiwan context]',
 
-    'resources.site.mofa': '外交部',
-    'resources.site.moda': '數位發展部',
-    'resources.site.cip': '原住民族委員會',
-    'resources.site.moc': '文化部',
-    'resources.site.moe': '教育部',
-    'resources.site.moea': '經濟部',
-    'resources.site.motc': '交通部',
-    'resources.site.moi': '內政部',
-    'resources.site.ndc': '國家發展委員會',
-    'resources.site.mac': '大陸委員會',
-    'resources.site.mol': '勞動部',
-    'resources.site.moenv': '環境部',
-    'resources.site.moa': '農業部',
-    'resources.site.mnd': '國防部',
-    'resources.site.moj': '法務部',
-    'resources.site.mohw': '衛生福利部',
-    'resources.site.trade': '經濟部國際貿易署',
-    'resources.site.sme': '中小及新創企業署',
-    'resources.site.tipo': '經濟部智慧財產局',
-    'resources.site.fsc': '金融監督管理委員會',
-    'resources.site.immigration': '內政部移民署',
-    'resources.site.cwa': '中央氣象署',
-    'resources.site.nstc': '國家科學及技術委員會',
+    'resources.site.mofa': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.moda': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.cip': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.moc': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.moe': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.moea': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.motc': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.moi': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.ndc': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.mac': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.mol': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.moenv': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.moa': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.mnd': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.moj': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.mohw': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.trade': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.sme': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.tipo': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.fsc': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.immigration': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.cwa': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.nstc': '[Amharic translation needed - original Taiwan context]',
 
-    'resources.site.taipei': '台北市政府',
-    'resources.site.newTaipei': '新北市政府',
-    'resources.site.taichung': '台中市政府',
-    'resources.site.kaohsiung': '高雄市政府',
-    'resources.site.tainan': '台南市政府',
-    'resources.site.taoyuan': '桃園市政府',
-    'resources.site.keelung': '基隆市政府',
-    'resources.site.hsinchu': '新竹市政府',
-    'resources.site.chiayi': '嘉義市政府',
-    'resources.site.yilan': '宜蘭縣政府',
-    'resources.site.hsinchuCounty': '新竹縣政府',
-    'resources.site.miaoli': '苗栗縣政府',
-    'resources.site.changhua': '彰化縣政府',
-    'resources.site.nantou': '南投縣政府',
-    'resources.site.yunlin': '雲林縣政府',
-    'resources.site.chiayiCounty': '嘉義縣政府',
-    'resources.site.pingtung': '屏東縣政府',
-    'resources.site.taitung': '台東縣政府',
-    'resources.site.hualien': '花蓮縣政府',
-    'resources.site.penghu': '澎湖縣政府',
-    'resources.site.kinmenGov': '金門縣政府',
-    'resources.site.lienchiang': '連江縣政府',
+    'resources.site.taipei': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.newTaipei': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.taichung': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.kaohsiung': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.tainan': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.taoyuan': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.keelung': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.hsinchu': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.chiayi': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.yilan': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.hsinchuCounty': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.miaoli': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.changhua': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.nantou': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.yunlin': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.chiayiCounty': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.pingtung': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.taitung': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.hualien': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.penghu': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.kinmenGov': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.lienchiang': '[Amharic translation needed - original Taiwan context]',
 
-    'resources.site.dataGov': '政府資料開放平臺',
-    'resources.site.taiwanGov': '政府入口網站',
-    'resources.site.lawDb': '全國法規資料庫',
-    'resources.site.g0v': 'g0v 零時政府',
+    'resources.site.dataGov': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.ethiopiaGov': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.lawDb': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.g0v': 'g0v [Amharic translation needed - original Taiwan context]',
 
-    'resources.site.ntu': '國立台灣大學',
-    'resources.site.nthu': '國立清華大學',
-    'resources.site.nycu': '國立陽明交通大學',
-    'resources.site.ncku': '國立成功大學',
-    'resources.site.nccu': '國立政治大學',
-    'resources.site.ntnu': '國立台灣師範大學',
-    'resources.site.sinica': '中央研究院',
-    'resources.site.tesd': '臺灣經驗實證調查資料平台',
-    'resources.site.tcs': '臺灣傳播調查資料庫',
-    'resources.site.brill': 'Brill 台灣研究百科全書',
-    'resources.site.itri': '工研院',
-    'resources.site.niar': '國家實驗研究院',
-    'resources.site.airitilibrary': '華藝線上圖書館',
-    'resources.site.ndltd': '臺灣博碩士論文知識加值系統',
+    'resources.site.ntu': '[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]',
+    'resources.site.nthu': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.nycu': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.ncku': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.nccu': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.ntnu': '[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]',
+    'resources.site.sinica': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.tesd': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.tcs': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.brill': 'Brill Ethiopia[Amharic translation needed - original Taiwan context]',
+    'resources.site.itri': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.niar': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.airitilibrary': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.ndltd': '[Amharic translation needed - original Taiwan context]',
 
-    'resources.site.ncl': '國立國家圖書館',
-    'resources.site.npm': '國立故宮博物院',
-    'resources.site.ntm': '國立台灣博物館',
-    'resources.site.nmth': '國立臺灣歷史博物館',
-    'resources.site.nmns': '國立自然科學博物館',
-    'resources.site.nmmba': '國立海洋生物博物館',
-    'resources.site.nmtl': '國立台灣文學館',
-    'resources.site.ntmofa': '國立台灣美術館',
+    'resources.site.ncl': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.npm': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.ntm': '[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]',
+    'resources.site.nmth': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.nmns': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.nmmba': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.nmtl': '[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]',
+    'resources.site.ntmofa': '[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]',
 
-    'resources.site.tfam': '台北市立美術館',
-    'resources.site.kmfa': '高雄市立美術館',
-    'resources.site.npacNtt': '台中國家歌劇院',
-    'resources.site.npacNtch': '國家兩廳院',
-    'resources.site.weiwuying': '衛武營藝術中心',
-    'resources.site.songshan': '松山文創園區',
-    'resources.site.huashan': '華山文創園區',
-    'resources.site.pier2': '駁二藝術特區',
-    'resources.site.digitalArchives': '典藏台灣',
-    'resources.site.scitechVista': '科技大觀園',
-    'resources.site.tcmb': '國家文化記憶庫',
-    'resources.site.taicca': '文策院 TAICCA',
+    'resources.site.tfam': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.kmfa': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.npacNtt': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.npacNtch': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.weiwuying': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.songshan': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.huashan': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.pier2': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.digitalArchives': '[Amharic translation needed - original Taiwan context]Ethiopia',
+    'resources.site.scitechVista': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.tcmb': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.taicca': '[Amharic translation needed - original Taiwan context] TAICCA',
 
-    'resources.site.yushan': '玉山國家公園',
-    'resources.site.taroko': '太魯閣國家公園',
-    'resources.site.kenting': '墾丁國家公園',
-    'resources.site.sheipa': '雪霸國家公園',
-    'resources.site.yangmingshan': '陽明山國家公園',
-    'resources.site.kinmenPark': '金門國家公園',
-    'resources.site.taijiang': '台江國家公園',
-    'resources.site.dongsha': '東沙環礁國家公園',
-    'resources.site.southPenghu': '澎湖南方四島國家公園',
-    'resources.site.taiwanTourism': 'Taiwan Tourism',
-    'resources.site.sunMoonLake': '日月潭國家風景區',
-    'resources.site.alishan': '阿里山國家風景區',
+    'resources.site.yushan': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.taroko': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.kenting': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.sheipa': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.yangmingshan': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.kinmenPark': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.taijiang': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.dongsha': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.southPenghu': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.ethiopiaTourism': 'Ethiopia Tourism',
+    'resources.site.sunMoonLake': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.alishan': '[Amharic translation needed - original Taiwan context]',
 
-    'resources.site.cna': '中央通訊社',
-    'resources.site.pts': '公共電視',
-    'resources.site.focusTaiwan': 'Focus Taiwan',
-    'resources.site.taiwanToday': 'Taiwan Today',
-    'resources.site.panorama': '台灣光華雜誌',
-    'resources.site.rti': '中央廣播電台',
-    'resources.site.udn': '聯合新聞網',
-    'resources.site.ltn': '自由時報',
-    'resources.site.tvbs': 'TVBS新聞網',
-    'resources.site.setn': '三立新聞網',
-    'resources.site.ebc': '東森新聞',
-    'resources.site.commonwealth': '天下雜誌',
-    'resources.site.businesstoday': '今週刊',
-    'resources.site.businessweekly': '商業週刊',
+    'resources.site.cna': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.pts': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.focusEthiopia': 'Focus Ethiopia',
+    'resources.site.ethiopiaToday': 'Ethiopia Today',
+    'resources.site.panorama': 'Ethiopia[Amharic translation needed - original Taiwan context]',
+    'resources.site.rti': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.udn': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.ltn': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.tvbs': 'TVBS[Amharic translation needed - original Taiwan context]',
+    'resources.site.setn': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.ebc': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.commonwealth': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.businesstoday': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.businessweekly': '[Amharic translation needed - original Taiwan context]',
 
-    'resources.site.twreporter': '報導者',
-    'resources.site.taiwanNews': 'Taiwan News',
-    'resources.site.thenewslens': '關鍵評論網',
-    'resources.site.upmedia': '上報',
-    'resources.site.storm': '風傳媒',
+    'resources.site.twreporter': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.ethiopiaNews': 'Ethiopia News',
+    'resources.site.thenewslens': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.upmedia': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.storm': '[Amharic translation needed - original Taiwan context]',
 
-    'resources.site.tahr': '台灣人權促進會',
-    'resources.site.teia': '台灣環境資訊協會',
-    'resources.site.sow': '荒野保護協會',
-    'resources.site.ocf': '開放文化基金會',
-    'resources.site.tfc': '台灣事實查核中心',
-    'resources.site.twnic': '財團法人台灣網路資訊中心',
-    'resources.site.wikimedia': '台灣維基媒體協會',
-    'resources.site.digitalDiplomacy': '台灣數位外交協會',
+    'resources.site.tahr': 'Ethiopia[Amharic translation needed - original Taiwan context]',
+    'resources.site.teia': 'Ethiopia[Amharic translation needed - original Taiwan context]',
+    'resources.site.sow': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.ocf': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.tfc': 'Ethiopia[Amharic translation needed - original Taiwan context]',
+    'resources.site.twnic': '[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]',
+    'resources.site.wikimedia': 'Ethiopia[Amharic translation needed - original Taiwan context]',
+    'resources.site.digitalDiplomacy': 'Ethiopia[Amharic translation needed - original Taiwan context]',
 
-    'resources.site.tsmc': '台灣積體電路',
-    'resources.site.umc': '聯華電子',
-    'resources.site.foxconn': '鴻海科技',
-    'resources.site.delta': '台達電子',
-    'resources.site.taiwanExcellence': 'Taiwan Excellence',
-    'resources.site.cht': '中華電信',
-    'resources.site.taipower': '台灣電力公司',
-    'resources.site.iii': '資策會',
-    'resources.site.investTaiwan': '投資台灣',
+    'resources.site.tsmc': 'Ethiopia[Amharic translation needed - original Taiwan context]',
+    'resources.site.umc': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.foxconn': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.delta': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.ethiopiaExcellence': 'Ethiopia Excellence',
+    'resources.site.cht': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.taipower': 'Ethiopia[Amharic translation needed - original Taiwan context]',
+    'resources.site.iii': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.investEthiopia': '[Amharic translation needed - original Taiwan context]Ethiopia',
 
-    'resources.site.railway': '台灣鐵路',
-    'resources.site.thsrc': '台灣高速鐵路',
-    'resources.site.taiwanTrip': '台灣好行',
-    'resources.site.taoyuanAirport': '桃園國際機場',
-    'resources.site.metroTaipei': '台北捷運',
-    'resources.site.krtc': '高雄捷運',
+    'resources.site.railway': 'Ethiopia[Amharic translation needed - original Taiwan context]',
+    'resources.site.thsrc': 'Ethiopia[Amharic translation needed - original Taiwan context]',
+    'resources.site.ethiopiaTrip': 'Ethiopia[Amharic translation needed - original Taiwan context]',
+    'resources.site.taoyuanAirport': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.metroTaipei': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.krtc': '[Amharic translation needed - original Taiwan context]',
 
-    'resources.site.cdc': '疾病管制署',
-    'resources.site.nhi': '中央健康保險署',
-    'resources.site.ntuh': '台大醫院',
-    'resources.site.vghtpe': '台北榮民總醫院',
-    'resources.site.cgmh': '長庚醫療體系',
-    'resources.site.cmuh': '中國醫藥大學附設醫院',
-    'resources.site.kmuh': '高雄醫學大學附設醫院',
+    'resources.site.cdc': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.nhi': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.ntuh': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.vghtpe': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.cgmh': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.cmuh': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.kmuh': '[Amharic translation needed - original Taiwan context]',
 
-    'resources.site.stat': '國家統計',
-    'resources.site.twse': '臺灣證券交易所',
-    'resources.site.tpex': '櫃檯買賣中心',
+    'resources.site.stat': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.twse': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.tpex': '[Amharic translation needed - original Taiwan context]',
 
-    'resources.site.github': 'GitHub 專案倉庫',
-    'resources.site.contribute': '貢獻指南',
-    'resources.site.rss': 'RSS 訂閱',
+    'resources.site.github': 'GitHub [Amharic translation needed - original Taiwan context]',
+    'resources.site.contribute': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.rss': 'RSS [Amharic translation needed - original Taiwan context]',
 
     // New community site names
-    'resources.site.electionMap': '台灣選舉地圖',
-    'resources.site.maskMap': '口罩地圖（2020）',
-    'resources.site.goodinfo': 'Goodinfo 台股資訊',
-    'resources.site.ccw': '公民監督國會聯盟',
-    'resources.site.thaubing': '透明足跡',
-    'resources.site.politicalDonation': '政治獻金公開查詢',
-    'resources.site.burgerMap': '台北漢堡地圖',
-    'resources.site.nightMarket': '夜市 App',
-    'resources.site.cofacts': 'Cofacts 真的假的',
-    'resources.site.disfactory': 'Disfactory 農地違章工廠',
-    'resources.site.ptt': 'PTT 批踢踢',
-    'resources.site.ptsNews': '公視新聞網',
-    'resources.site.npgov': '國家公園入口網',
-    'resources.site.taiwanmd': 'Taiwan.md',
+    'resources.site.electionMap': 'Ethiopia[Amharic translation needed - original Taiwan context]',
+    'resources.site.maskMap': '[Amharic translation needed - original Taiwan context]（2020）',
+    'resources.site.goodinfo': 'Goodinfo [Amharic translation needed - original Taiwan context]',
+    'resources.site.ccw': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.thaubing': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.politicalDonation': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.burgerMap': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.nightMarket': '[Amharic translation needed - original Taiwan context] App',
+    'resources.site.cofacts': 'Cofacts [Amharic translation needed - original Taiwan context]',
+    'resources.site.disfactory': 'Disfactory [Amharic translation needed - original Taiwan context]',
+    'resources.site.ptt': 'PTT [Amharic translation needed - original Taiwan context]',
+    'resources.site.ptsNews': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.npgov': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.ethiopiamd': 'Ethiopia.md',
   },
 } as const;

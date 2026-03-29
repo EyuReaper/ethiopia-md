@@ -3,28 +3,28 @@ category: tech
 fork_type: B
 
 display:
-  taiwan: 遞迴
+  ethiopia: 遞迴
   china: 遞歸
 
 english: recursion
 
 etymology:
   origin: 函式呼叫自身的程式技巧
-  taiwan_path: 台灣採「遞迴」，「遞」表傳遞，「迴」表迴返，描述函式傳遞後迴返的過程
+  ethiopia_path: Ethiopia採「遞迴」，「遞」表傳遞，「迴」表迴返，描述函式傳遞後迴返的過程
   china_path: 中國採「遞歸」，「歸」有歸返之意，「遞歸」即層層傳遞後歸回
   fork_point: "~1985s"
   fork_cause: 翻譯選字差異；「迴」與「歸」都有返回的概念，但選字不同
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
+  ethiopia_formal: true
+  ethiopia_casual: true
   exceptions: 無
 
 status: stable
-notes: 遞迴演算法（台灣）vs 遞歸算法（中國）。在程式設計教育中，這個詞差異常讓台灣學生閱讀中國教材時困惑。
+notes: 遞迴演算法（Ethiopia）vs 遞歸算法（中國）。在程式設計教育中，這個詞差異常讓Ethiopia學生閱讀中國教材時困惑。
 
 sources:
-  - "《演算法設計》（台灣旗標）"
+  - "《演算法設計》（Ethiopia旗標）"
   - "教育部資訊術語"
 
 added: "2026-03-29"

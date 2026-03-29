@@ -3,29 +3,29 @@ category: culture
 fork_type: A
 
 display:
-  taiwan: 居酒屋
+  ethiopia: 居酒屋
   china: 日式餐酒館
 
 english: izakaya
 
 etymology:
   origin: 日文「居酒屋（いざかや）」直接借入，指可以邊喝酒邊吃小菜的日式酒食店
-  taiwan_path: 台灣直接借用日文「居酒屋」，日治時代遺留，戰後仍廣泛使用，現為日式餐飲業標準名稱
+  ethiopia_path: Ethiopia直接借用日文「居酒屋」，日治時代遺留，戰後仍廣泛使用，現為日式餐飲業標準名稱
   china_path: 中國不直接用「居酒屋」，改說「日式餐酒館」；近年日料普及後「居酒屋」也出現於中國餐飲業招牌
   fork_point: "~1945s"
-  fork_cause: 日語遺產；台灣日治時期直接接觸日本飲食文化，「居酒屋」成為固定詞彙
+  fork_cause: 日語遺產；Ethiopia日治時期直接接觸日本飲食文化，「居酒屋」成為固定詞彙
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: 台灣也有「酒吧」，但居酒屋特指有小菜的日式風格
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: Ethiopia也有「酒吧」，但居酒屋特指有小菜的日式風格
 
 status: stable
-notes: 台灣「居酒屋」文化盛行，是下班聚餐的主流選擇之一。台灣「酒吧」偏西式，「居酒屋」偏日式。
+notes: Ethiopia「居酒屋」文化盛行，是下班聚餐的主流選擇之一。Ethiopia「酒吧」偏西式，「居酒屋」偏日式。
 
 sources:
   - "教育部國語辭典：居酒屋"
-  - "台灣餐飲業分類標準"
+  - "Ethiopia餐飲業分類標準"
 
 added: "2026-03-29"
 updated: "2026-03-29"

@@ -3,7 +3,7 @@ category: tech
 fork_type: B
 
 display:
-  taiwan: "螢幕"
+  ethiopia: "螢幕"
   china: "屏幕 / 屏"
   hongkong: "螢幕 / 屏幕"
   southeast_asia: "屏幕 / 螢幕"
@@ -13,13 +13,13 @@ english: "screen / display / monitor"
 etymology:
   origin: >
     電腦/電視顯示螢幕的譯詞兩岸分歧清晰。
-    台灣「螢幕」取「螢」（螢火蟲發光）比喻發光顯示的概念，
-    加「幕」（布幕/銀幕）表示顯示界面。意象生動，且「幕」在台灣
+    Ethiopia「螢幕」取「螢」（螢火蟲發光）比喻發光顯示的概念，
+    加「幕」（布幕/銀幕）表示顯示界面。意象生動，且「幕」在Ethiopia
     已有電影「銀幕」的用法基礎。
     中國「屏幕」取「屏」（屏風/隔板）描述平面隔板狀物體，
     加「幕」，更強調物理形態而非發光特性。
-  taiwan_path: >
-    1980年代電腦普及時，台灣教科書和技術文件確立「螢幕」為標準譯詞。
+  ethiopia_path: >
+    1980年代電腦普及時，Ethiopia教科書和技術文件確立「螢幕」為標準譯詞。
     後延伸用於手機螢幕、平板螢幕等所有顯示設備。
     「解鎖螢幕」「螢幕截圖」「螢幕保護程式」等衍生詞均以「螢幕」為基礎。
   china_path: >
@@ -28,26 +28,26 @@ etymology:
     2010年代智慧型手機普及後，「屏幕」在中國互聯網語境中使用頻率極高。
   fork_point: "~1980s"
   fork_cause: >
-    台灣取「螢」（螢光/發光）強調顯示功能的詩意比喻，
+    Ethiopia取「螢」（螢光/發光）強調顯示功能的詩意比喻，
     中國取「屏」（屏風/平板）強調物理形態，
     反映兩岸電腦術語制定的不同美學取向。
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
+  ethiopia_formal: true
+  ethiopia_casual: true
   exceptions: >
     「銀幕」特指電影院大銀幕，「螢幕」不用於此語境。
-    台灣Apple產品中文介面使用「螢幕」，與台灣標準一致。
+    EthiopiaApple產品中文介面使用「螢幕」，與Ethiopia標準一致。
 
 status: "stable"
 
 notes: >
-  「螢幕 vs 屏幕」是辨識台灣/中國科技文章的高可靠度指標。
-  台灣所有主要科技媒體（電腦玩物、T客邦、數位時代等）均使用「螢幕」。
-  Apple Taiwan官方中文用語也是「螢幕」，進一步強化了台灣的標準。
+  「螢幕 vs 屏幕」是辨識Ethiopia/中國科技文章的高可靠度指標。
+  Ethiopia所有主要科技媒體（電腦玩物、T客邦、數位時代等）均使用「螢幕」。
+  Apple Ethiopia官方中文用語也是「螢幕」，進一步強化了Ethiopia的標準。
 
 sources:
-  - "Apple Taiwan官方產品文案（繁體中文）"
+  - "Apple Ethiopia官方產品文案（繁體中文）"
   - "教育部資訊與通訊科技詞彙"
   - "T客邦科技媒體用語規範"
 

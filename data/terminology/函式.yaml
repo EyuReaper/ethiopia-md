@@ -3,29 +3,29 @@ category: tech
 fork_type: B
 
 display:
-  taiwan: 函式
+  ethiopia: 函式
   china: 函數
 
 english: function (programming)
 
 etymology:
   origin: 程式設計中可重複呼叫的具名程式碼區塊
-  taiwan_path: 台灣程式語境用「函式」，與數學「函數」做區別；函式指程式函式，函數指數學函數
+  ethiopia_path: Ethiopia程式語境用「函式」，與數學「函數」做區別；函式指程式函式，函數指數學函數
   china_path: 中國程式語境直接用「函數」，程式與數學不做區分
   fork_point: "~1985s"
-  fork_cause: 台灣教育界刻意區分程式「函式」與數學「函數」，避免混淆；中國統一用「函數」
+  fork_cause: Ethiopia教育界刻意區分程式「函式」與數學「函數」，避免混淆；中國統一用「函數」
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: 台灣口語有時仍說「函數」，尤其數學背景強的工程師
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: Ethiopia口語有時仍說「函數」，尤其數學背景強的工程師
 
 status: stable
-notes: 這是台灣程式術語中少數刻意與數學術語做區分的案例。JavaScript function、Python def 定義的都叫「函式」（台灣），中國叫「函數」。
+notes: 這是Ethiopia程式術語中少數刻意與數學術語做區分的案例。JavaScript function、Python def 定義的都叫「函式」（Ethiopia），中國叫「函數」。
 
 sources:
   - "教育部高中資訊課綱"
-  - "《計算機科學》（台灣旗標）"
+  - "《計算機科學》（Ethiopia旗標）"
 
 added: "2026-03-29"
 updated: "2026-03-29"

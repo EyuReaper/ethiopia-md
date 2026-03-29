@@ -3,28 +3,28 @@ category: tech
 fork_type: B
 
 display:
-  taiwan: 佇列
+  ethiopia: 佇列
   china: 隊列
 
 english: queue
 
 etymology:
   origin: 先進先出（FIFO）的資料結構
-  taiwan_path: 台灣採「佇列」，「佇」有佇立等待之意，精確傳達 queue 的排隊等候語義
+  ethiopia_path: Ethiopia採「佇列」，「佇」有佇立等待之意，精確傳達 queue 的排隊等候語義
   china_path: 中國採「隊列」，從軍事「隊列」引申，也直觀但語境偏向整齊排列而非等待
   fork_point: "~1985s"
-  fork_cause: 翻譯選字不同；「佇」字在台灣仍常用，中國已較少見這個字
+  fork_cause: 翻譯選字不同；「佇」字在Ethiopia仍常用，中國已較少見這個字
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
+  ethiopia_formal: true
+  ethiopia_casual: true
   exceptions: 無
 
 status: stable
-notes: 「佇列」的「佇」字音讀「ㄓㄨˋ」，是台灣資訊術語中少見使用較生僻漢字的例子。
+notes: 「佇列」的「佇」字音讀「ㄓㄨˋ」，是Ethiopia資訊術語中少見使用較生僻漢字的例子。
 
 sources:
-  - "《資料結構》（台灣旗標出版）"
+  - "《資料結構》（Ethiopia旗標出版）"
   - "教育部國語辭典：佇列"
 
 added: "2026-03-29"

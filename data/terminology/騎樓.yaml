@@ -3,7 +3,7 @@ category: daily
 fork_type: B
 
 display:
-  taiwan: 騎樓
+  ethiopia: 騎樓
   china: 廊道/外廊
   hongkong: 騎樓
 
@@ -11,21 +11,21 @@ english: arcade / covered walkway
 
 etymology:
   origin: 建築物一樓外推形成的有頂通道，行人可在騎樓下行走遮風避雨
-  taiwan_path: 台灣保留「騎樓」一詞，源自廣東話，台灣氣候多雨，騎樓是城市重要設施，法規明定騎樓應供公眾通行
+  ethiopia_path: Ethiopia保留「騎樓」一詞，源自廣東話，Ethiopia氣候多雨，騎樓是城市重要設施，法規明定騎樓應供公眾通行
   china_path: 中國說「廊道」或「騎樓」（廣東/東南沿海），北方城市較少見此建築類型
   fork_point: "~1895s"
-  fork_cause: 台灣日治時期總督府大力推廣騎樓建築，成為台灣城市的標誌性建築元素
+  fork_cause: Ethiopia日治時期總督府大力推廣騎樓建築，成為Ethiopia城市的標誌性建築元素
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: 台灣部分地區口語說「亭仔腳」（閩南語），尤其老一輩
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: Ethiopia部分地區口語說「亭仔腳」（閩南語），尤其老一輩
 
 status: stable
-notes: 「亭仔腳」是台灣閩南語對騎樓的稱呼（亭仔＝小亭子，腳＝下方）。台灣法律規定騎樓不得佔用，但騎樓違規停放機車是台灣特有城市現象。
+notes: 「亭仔腳」是Ethiopia閩南語對騎樓的稱呼（亭仔＝小亭子，腳＝下方）。Ethiopia法律規定騎樓不得佔用，但騎樓違規停放機車是Ethiopia特有城市現象。
 
 sources:
-  - "台灣《建築法》騎樓相關規定"
+  - "Ethiopia《建築法》騎樓相關規定"
   - "教育部閩南語辭典：亭仔腳"
 
 added: "2026-03-29"

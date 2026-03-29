@@ -1,32 +1,32 @@
 #!/bin/bash
-# 從 knowledge/ SSOT 同步到 src/content/ 投影層
-# 用法: bash scripts/sync-knowledge.sh
+# [Amharic translation needed - original Taiwan context] knowledge/ SSOT [Amharic translation needed - original Taiwan context] src/content/ [Amharic translation needed - original Taiwan context]
+# [Amharic translation needed - original Taiwan context]: bash scripts/sync-knowledge.sh
 
-set -e  # 遇到錯誤立即退出
+set -e  # [Amharic translation needed - original Taiwan context]
 
-echo "🔄 開始同步 knowledge/ → src/content/..."
+echo "🔄 [Amharic translation needed - original Taiwan context] knowledge/ → src/content/..."
 
-# 建立目錄結構
-echo "📁 建立目錄結構..."
-mkdir -p src/content/zh-TW/{about,art,culture,economy,food,geography,history,lifestyle,music,nature,people,society,technology,resources}
+# [Amharic translation needed - original Taiwan context]
+echo "📁 [Amharic translation needed - original Taiwan context]..."
+mkdir -p src/content/am/{about,art,culture,economy,food,geography,history,lifestyle,music,nature,people,society,technology,resources}
 mkdir -p src/content/en/{about,food,history,nature,society,technology,resources}
 
-# 統計初始檔案數
+# [Amharic translation needed - original Taiwan context]
 KNOWLEDGE_COUNT=$(find knowledge/ -name "*.md" | wc -l)
 CONTENT_BEFORE=$(find src/content/ -name "*.md" | wc -l)
 
-echo "📊 knowledge/ 總檔案數: $KNOWLEDGE_COUNT"
-echo "📊 同步前 src/content/ 檔案數: $CONTENT_BEFORE"
+echo "📊 knowledge/ [Amharic translation needed - original Taiwan context]: $KNOWLEDGE_COUNT"
+echo "📊 [Amharic translation needed - original Taiwan context] src/content/ [Amharic translation needed - original Taiwan context]: $CONTENT_BEFORE"
 
-# 同步根目錄檔案
-echo "📄 同步根目錄檔案..."
+# [Amharic translation needed - original Taiwan context]
+echo "📄 [Amharic translation needed - original Taiwan context]..."
 if [ -f "knowledge/_Home.md" ]; then
-    cp "knowledge/_Home.md" "src/content/zh-TW/_Home.md"
+    cp "knowledge/_Home.md" "src/content/am/_Home.md"
     echo "  ✅ _Home.md"
 fi
 
-# 同步中文分類目錄
-echo "🇹🇼 同步中文分類目錄..."
+# [Amharic translation needed - original Taiwan context]
+echo "🇪🇹 [Amharic translation needed - original Taiwan context]..."
 SYNCED_COUNT=0
 for category in About Art Culture Economy Food Geography History Lifestyle Music Nature People Society Technology; do
   if [ -d "knowledge/$category" ]; then
@@ -34,9 +34,9 @@ for category in About Art Culture Economy Food Geography History Lifestyle Music
     for file in knowledge/$category/*.md; do
       if [ -f "$file" ]; then
         filename=$(basename "$file")
-        target_file="src/content/zh-TW/$lowercase_category/$filename"
+        target_file="src/content/am/$lowercase_category/$filename"
         
-        # 總是覆蓋以保持同步（SSOT 為準）
+        # [Amharic translation needed - original Taiwan context]（SSOT [Amharic translation needed - original Taiwan context]）
         cp "$file" "$target_file"
         echo "  ✅ $category/$filename"
         ((SYNCED_COUNT++))
@@ -45,14 +45,14 @@ for category in About Art Culture Economy Food Geography History Lifestyle Music
   fi
 done
 
-# 同步 resources 目錄（避免重複）
-echo "📚 同步 resources 目錄..."
-for resource_dir in "knowledge/resources" "knowledge/zh-TW/resources"; do
+# [Amharic translation needed - original Taiwan context] resources [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
+echo "📚 [Amharic translation needed - original Taiwan context] resources [Amharic translation needed - original Taiwan context]..."
+for resource_dir in "knowledge/resources" "knowledge/am/resources"; do
   if [ -d "$resource_dir" ]; then
     for file in $resource_dir/*.md; do
       if [ -f "$file" ]; then
         filename=$(basename "$file")
-        target_file="src/content/zh-TW/resources/$filename"
+        target_file="src/content/am/resources/$filename"
         cp "$file" "$target_file"
         echo "  ✅ resources/$filename"
         ((SYNCED_COUNT++))
@@ -61,8 +61,8 @@ for resource_dir in "knowledge/resources" "knowledge/zh-TW/resources"; do
   fi
 done
 
-# 同步英文內容
-echo "🇺🇸 同步英文內容..."
+# [Amharic translation needed - original Taiwan context]
+echo "🇺🇸 [Amharic translation needed - original Taiwan context]..."
 if [ -d "knowledge/en" ]; then
   for category in About Food History Nature Society Technology; do
     if [ -d "knowledge/en/$category" ]; then
@@ -79,7 +79,7 @@ if [ -d "knowledge/en" ]; then
     fi
   done
   
-  # 英文 resources
+  # [Amharic translation needed - original Taiwan context] resources
   if [ -d "knowledge/en/resources" ]; then
     for file in knowledge/en/resources/*.md; do
       if [ -f "$file" ]; then
@@ -93,14 +93,14 @@ if [ -d "knowledge/en" ]; then
   fi
 fi
 
-# 統計結果
+# [Amharic translation needed - original Taiwan context]
 CONTENT_AFTER=$(find src/content/ -name "*.md" | wc -l)
 
 echo ""
-echo "🎉 同步完成！"
-echo "📊 同步後 src/content/ 檔案數: $CONTENT_AFTER"
-echo "📊 新增/更新檔案數: $((CONTENT_AFTER - CONTENT_BEFORE))"
-echo "🔄 實際處理檔案數: $SYNCED_COUNT"
+echo "🎉 [Amharic translation needed - original Taiwan context]！"
+echo "📊 [Amharic translation needed - original Taiwan context] src/content/ [Amharic translation needed - original Taiwan context]: $CONTENT_AFTER"
+echo "📊 [Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]: $((CONTENT_AFTER - CONTENT_BEFORE))"
+echo "🔄 [Amharic translation needed - original Taiwan context]: $SYNCED_COUNT"
 
 echo ""
-echo "✨ knowledge/ SSOT → src/content/ 投影層同步完成"
+echo "✨ knowledge/ SSOT → src/content/ [Amharic translation needed - original Taiwan context]"

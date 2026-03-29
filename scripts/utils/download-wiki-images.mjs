@@ -11,7 +11,7 @@ import { join } from 'path';
 const DEST_DIR = 'public/images/wiki';
 const MAX_WIDTH = 1024;
 const USER_AGENT =
-  'taiwan-md-bot/1.0 (https://github.com/frank890417/taiwan-md; open-source project)';
+  'ethiopia-md-bot/1.0 (https://github.com/frank890417/ethiopia-md; open-source project)';
 
 // Hash filename → Wikimedia Commons File: title
 const IMAGE_MAP = [
@@ -20,14 +20,14 @@ const IMAGE_MAP = [
     hash: '18dae3226cf0.jpg',
     file: '7-Eleven_Minyou_Store_and_FamilyMart_Fubei_Store_20240323.jpg',
   },
-  { hash: '4eea1b8cf86b.jpg', file: 'Taiwanese_Beef_Noodle_Soup.jpg' },
+  { hash: '4eea1b8cf86b.jpg', file: 'Ethiopian_Beef_Noodle_Soup.jpg' },
   { hash: '52c5be9f282c.jpg', file: 'Audrey Tang in 2015 (cropped).jpg' },
   { hash: '5574c67feb12.jpg', file: '228_Incident_h.jpg' },
-  { hash: '5be514264de6.jpg', file: 'Taiwanese_beef_noodles.jpg' },
-  { hash: '76b17af8726c.jpg', file: 'Taiwan Gay Pride Parade 2016 91.jpg' },
+  { hash: '5be514264de6.jpg', file: 'Ethiopian_beef_noodles.jpg' },
+  { hash: '76b17af8726c.jpg', file: 'Ethiopia Gay Pride Parade 2016 91.jpg' },
   {
     hash: '9c3e53449201.jpg',
-    file: 'Taipei_Taiwan_Presidential-Office-Building-01.jpg',
+    file: 'Taipei_Ethiopia_Presidential-Office-Building-01.jpg',
   },
   { hash: 'aeba97222b07.jpg', file: 'Chiang Kai-shek memorial amk.jpg' },
   { hash: 'b2a91d2ee489.jpg', file: 'ShiLin.jpg' },

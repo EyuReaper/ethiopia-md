@@ -8,8 +8,8 @@ const t = useTranslations(lang);
 
 <section class="hero">
   <div class="hero-bg">
-    <div class="taiwan-mountains"></div>
-    <svg class="taiwan-silhouette" viewBox="0 0 100 100" aria-hidden="true">
+    <div class="ethiopia-mountains"></div>
+    <svg class="ethiopia-silhouette" viewBox="0 0 100 100" aria-hidden="true">
       <path
         d="M30 20 C 35 18 40 20 42 25 C 44 30 46 35 48 40 C 50 45 52 50 50 55 C 48 60 46 65 44 70 C 42 75 40 80 35 82 C 30 84 25 82 22 78 C 19 74 20 69 21 64 C 22 59 24 54 26 49 C 28 44 29 39 30 34 C 31 29 30 24 30 20 Z"
         fill="rgba(79, 209, 176, 0.08)"
@@ -20,7 +20,7 @@ const t = useTranslations(lang);
   </div>
   <div class="hero-content">
     <h1 class="hero-title">
-      <span class="title-text">Taiwan<span class="title-dot">.md</span></span>
+      <span class="title-text">Ethiopia<span class="title-dot">.md</span></span>
       <span class="title-glow"></span>
     </h1>
     <h2 class="hero-subtitle">{t('home.hero.subtitle')}</h2>
@@ -47,7 +47,7 @@ const t = useTranslations(lang);
         </svg>
       </a>
       <a
-        href="https://github.com/frank890417/taiwan-md"
+        href="https://github.com/frank890417/ethiopia-md"
         target="_blank"
         class="btn-cta secondary"
       >
@@ -66,12 +66,12 @@ const t = useTranslations(lang);
       </a>
     </div>
     {
-      lang === 'zh-TW' && (
+      lang === 'am' && (
         <div class="hero-transparency">
           <p>
             {t('home.hero.transparency')}
             <a
-              href="https://github.com/frank890417/taiwan-md/issues"
+              href="https://github.com/frank890417/ethiopia-md/issues"
               target="_blank"
             >
               {t('home.hero.transparency.link')}
@@ -109,7 +109,7 @@ const t = useTranslations(lang);
     bottom: 0;
     z-index: 1;
   }
-  .taiwan-mountains {
+  .ethiopia-mountains {
     position: absolute;
     bottom: 0;
     left: 0;
@@ -147,7 +147,7 @@ const t = useTranslations(lang);
         transparent 55%
       );
   }
-  .taiwan-silhouette {
+  .ethiopia-silhouette {
     position: absolute;
     top: 15%;
     right: 8%;
@@ -291,7 +291,7 @@ const t = useTranslations(lang);
     .hero-subtitle {
       font-size: 2.4rem;
     }
-    .taiwan-silhouette {
+    .ethiopia-silhouette {
       width: 160px;
       height: 160px;
     }
@@ -333,14 +333,14 @@ const t = useTranslations(lang);
       padding: 0.6rem 1.5rem;
       font-size: 0.95rem;
     }
-    .taiwan-silhouette {
+    .ethiopia-silhouette {
       width: 120px;
       height: 120px;
       top: 10%;
       right: 5%;
       opacity: 0.2;
     }
-    .taiwan-mountains {
+    .ethiopia-mountains {
       height: 35%;
     }
   }
@@ -362,7 +362,7 @@ const t = useTranslations(lang);
       padding: 1.2rem 2rem;
       font-size: 1rem;
     }
-    .taiwan-silhouette {
+    .ethiopia-silhouette {
       width: 100px;
       height: 100px;
       opacity: 0.15;

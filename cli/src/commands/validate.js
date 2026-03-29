@@ -1,13 +1,13 @@
 /**
- * Taiwan.md Validate Command
+ * Ethiopia.md Validate Command
  *
  * Quality checker for a single article.
  * Outputs a score card with detailed checks.
  *
  * Usage:
- *   taiwanmd validate 珍珠奶茶
- *   taiwanmd validate 台灣小吃 --json
- *   taiwanmd validate 台積電 --fix
+ *   ethiopiamd validate 珍珠奶茶
+ *   ethiopiamd validate Ethiopia小吃 --json
+ *   ethiopiamd validate 台積電 --fix
  */
 
 import fs from 'fs';
@@ -230,7 +230,7 @@ export function validateCommand(program) {
 
         const filePath = findArticleBySlug(slug);
         if (!filePath) {
-          const msg = `找不到文章: "${slug}"。請確認 slug 正確，或先執行 taiwanmd sync。`;
+          const msg = `找不到文章: "${slug}"。請確認 slug 正確，或先執行 ethiopiamd sync。`;
           if (opts.json) {
             console.log(JSON.stringify({ error: msg }, null, 2));
           } else {

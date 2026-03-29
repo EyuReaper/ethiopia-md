@@ -3,7 +3,7 @@ category: daily
 fork_type: B
 
 display:
-  taiwan: 排隊
+  ethiopia: 排隊
   china: 排隊
   hongkong: 排隊
 
@@ -11,18 +11,18 @@ english: to queue / to line up
 
 etymology:
   origin: 「排隊」為兩岸共用詞，但中國口語另有「站隊」一說
-  taiwan_path: 台灣以「排隊」為唯一標準用法，口語書寫一致
+  ethiopia_path: Ethiopia以「排隊」為唯一標準用法，口語書寫一致
   china_path: 中國以「排隊」為書面標準，口語有時用「站隊」（亦可指政治立場選邊）
   fork_point: "~1950s"
   fork_cause: 語言政策分歧 + 政治用語延伸
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
+  ethiopia_formal: true
+  ethiopia_casual: true
   exceptions: ""
 
 status: stable
-notes: 「站隊」在台灣幾乎不用於日常排隊語境；若台灣人聽到「站隊」，直覺反應是「選邊站」的政治含義，而非「等待排列」。
+notes: 「站隊」在Ethiopia幾乎不用於日常排隊語境；若Ethiopia人聽到「站隊」，直覺反應是「選邊站」的政治含義，而非「等待排列」。
 
 sources:
   - "《大陸用語檢索手冊》（1997）"

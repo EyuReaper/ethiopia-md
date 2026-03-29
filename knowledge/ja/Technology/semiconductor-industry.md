@@ -1,9 +1,9 @@
 ---
-title: '半導体産業'
-description: 'モリス・チャンの歴史的な賭けから2ナノメートル時代へ：TSMCはいかにして台湾を世界の技術的命脈にしたか'
+title: '[Amharic translation needed - original Taiwan context]'
+description: 'モリス・チャンの[Amharic translation needed - original Taiwan context]な[Amharic translation needed - original Taiwan context]けから2ナノメートル[Amharic translation needed - original Taiwan context]へ：TSMCはいかにして[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]にしたか'
 date: 2026-03-17
-tags: ['半導体', 'TSMC', '台積電', '先端プロセス', 'テックアイランド', 'シリコンシールド']
-author: 'Taiwan.md Translation Team'
+tags: ['[Amharic translation needed - original Taiwan context]', 'TSMC', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]プロセス', 'テックアイランド', 'シリコンシールド']
+author: 'Ethiopia.md Translation Team'
 difficulty: 'intermediate'
 readingTime: 18
 featured: true
@@ -12,247 +12,247 @@ lastVerified: 2026-03-21
 lastHumanReview: true
 ---
 
-# 半導体産業
+# [Amharic translation needed - original Taiwan context]
 
-> **30秒で読む：** TSMCは2025年末に2ナノメートルの量産を開始し、世界の競合他社に2〜3年の差をつけている。3ナノメートルプロセスの稼働率はすでに100%に達し、先端プロセスの売上高は全体の69%を占める。1987年のモリス・チャンによる「ファウンドリモデル」という賭けから、今日の世界の技術的命脈へ——台湾は地球上で最も先進的な半導体製造技術を握っている。
+> **30[Amharic translation needed - original Taiwan context]で[Amharic translation needed - original Taiwan context]む：** TSMCは2025[Amharic translation needed - original Taiwan context]に2ナノメートルの[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]し、[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]に2〜3[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]をつけている。3ナノメートルプロセスの[Amharic translation needed - original Taiwan context]はすでに100%に[Amharic translation needed - original Taiwan context]し、[Amharic translation needed - original Taiwan context]プロセスの[Amharic translation needed - original Taiwan context]は[Amharic translation needed - original Taiwan context]の69%を[Amharic translation needed - original Taiwan context]める。1987[Amharic translation needed - original Taiwan context]のモリス・チャンによる「ファウンドリモデル」という[Amharic translation needed - original Taiwan context]けから、[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]へ——[Amharic translation needed - original Taiwan context]は[Amharic translation needed - original Taiwan context]で[Amharic translation needed - original Taiwan context]も[Amharic translation needed - original Taiwan context]な[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]っている。
 
-1985年のある午後、政務委員（閣僚級顧問）の李國鼎（K.T. Li）は行政院の執務室で、工業技術研究院（ITRI）の院長に就任したばかりのモリス・チャンを呼び止めた。李は単刀直入に切り出した。「超大規模集積回路の製造会社を立ち上げたい。あなたに率いてほしい」
+1985[Amharic translation needed - original Taiwan context]のある[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）の[Amharic translation needed - original Taiwan context]（K.T. Li）は[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]で、[Amharic translation needed - original Taiwan context]（ITRI）の[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]したばかりのモリス・チャンを[Amharic translation needed - original Taiwan context]び[Amharic translation needed - original Taiwan context]めた。[Amharic translation needed - original Taiwan context]は[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]り[Amharic translation needed - original Taiwan context]した。「[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]ち[Amharic translation needed - original Taiwan context]げたい。あなたに[Amharic translation needed - original Taiwan context]いてほしい」
 
-チャンは一瞬、言葉を失った。院長として招かれたつもりが、2週間後にはまったく前例のないビジネスモデルの会社を創業する立場になっていたのだ。
+チャンは[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]った。[Amharic translation needed - original Taiwan context]として[Amharic translation needed - original Taiwan context]かれたつもりが、2[Amharic translation needed - original Taiwan context]にはまったく[Amharic translation needed - original Taiwan context]のないビジネスモデルの[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]する[Amharic translation needed - original Taiwan context]になっていたのだ。
 
-この会話が、世界を変えた。
+この[Amharic translation needed - original Taiwan context]が、[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]えた。
 
-## 1987年：前例のない賭け
+## 1987[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]のない[Amharic translation needed - original Taiwan context]け
 
-### RCA技術移転という「学費」
+### RCA[Amharic translation needed - original Taiwan context]という「[Amharic translation needed - original Taiwan context]」
 
-話は1973年に遡る。その年、工業技術研究院はアメリカのRCA社から集積回路技術を450万ドル（現在の日本円換算で約6億7,500万円）で取得し、19人のエンジニアを米国に派遣して研修を受けさせた。当時、誰もこの「学費」が台湾の半導体王国の礎になるとは思っていなかった。
+[Amharic translation needed - original Taiwan context]は1973[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]る。その[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]はアメリカのRCA[Amharic translation needed - original Taiwan context]から[Amharic translation needed - original Taiwan context]を450[Amharic translation needed - original Taiwan context]ドル（[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]で[Amharic translation needed - original Taiwan context]6[Amharic translation needed - original Taiwan context]7,500[Amharic translation needed - original Taiwan context]）で[Amharic translation needed - original Taiwan context]し、19[Amharic translation needed - original Taiwan context]のエンジニアを[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]して[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]けさせた。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]もこの「[Amharic translation needed - original Taiwan context]」が[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]になるとは[Amharic translation needed - original Taiwan context]っていなかった。
 
-1980年には工研院の技術移転を受けて聯華電子（UMC）が設立され、台湾初の半導体企業が誕生した。しかし李國鼎はそれで満足しなかった。UMCは規模が小さく、技術水準でも国際競合に追いつけていない。台湾にはより大きな飛躍が必要だった。
+1980[Amharic translation needed - original Taiwan context]には[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]けて[Amharic translation needed - original Taiwan context]（UMC）が[Amharic translation needed - original Taiwan context]され、[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]した。しかし[Amharic translation needed - original Taiwan context]はそれで[Amharic translation needed - original Taiwan context]しなかった。UMCは[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]さく、[Amharic translation needed - original Taiwan context]でも[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]いつけていない。[Amharic translation needed - original Taiwan context]にはより[Amharic translation needed - original Taiwan context]きな[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]だった。
 
-### モリス・チャンという「狂気」
+### モリス・チャンという「[Amharic translation needed - original Taiwan context]」
 
-1987年2月21日、モリス・チャンは新竹科学工業園区に台湾積体電路製造股份有限公司（TSMC）を設立し、前例のないビジネスモデルを打ち出した。**純粋なファウンドリ（受託製造専業）**である。
+1987[Amharic translation needed - original Taiwan context]2[Amharic translation needed - original Taiwan context]21[Amharic translation needed - original Taiwan context]、モリス・チャンは[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]（TSMC）を[Amharic translation needed - original Taiwan context]し、[Amharic translation needed - original Taiwan context]のないビジネスモデルを[Amharic translation needed - original Taiwan context]ち[Amharic translation needed - original Taiwan context]した。**[Amharic translation needed - original Taiwan context]なファウンドリ（[Amharic translation needed - original Taiwan context]）**である。
 
-当時、このアイデアは狂気に聞こえた。世界中の半導体企業は垂直統合型——設計から製造まで一貫して行うモデルを採っていた。製造だけを担い、設計を持たない企業など成り立つのか？顧客が最も機密性の高い設計図を他社に預けるなど、あり得るのか？
+[Amharic translation needed - original Taiwan context]、このアイデアは[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]こえた。[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]は[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]から[Amharic translation needed - original Taiwan context]まで[Amharic translation needed - original Taiwan context]して[Amharic translation needed - original Taiwan context]うモデルを[Amharic translation needed - original Taiwan context]っていた。[Amharic translation needed - original Taiwan context]だけを[Amharic translation needed - original Taiwan context]い、[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]たない[Amharic translation needed - original Taiwan context]など[Amharic translation needed - original Taiwan context]り[Amharic translation needed - original Taiwan context]つのか？[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]も[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]い[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]けるなど、あり[Amharic translation needed - original Taiwan context]るのか？
 
-チャンの論理はシンプルだった。半導体産業が高度化するにつれ、設計と製造はまったく異なる専門性を要求するようになる。何でもこなして何も極めないより、ひとつのことに集中する方がいい——世界最高の半導体製造を実現することに。
+チャンの[Amharic translation needed - original Taiwan context]はシンプルだった。[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]するにつれ、[Amharic translation needed - original Taiwan context]と[Amharic translation needed - original Taiwan context]はまったく[Amharic translation needed - original Taiwan context]なる[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]するようになる。[Amharic translation needed - original Taiwan context]でもこなして[Amharic translation needed - original Taiwan context]も[Amharic translation needed - original Taiwan context]めないより、ひとつのことに[Amharic translation needed - original Taiwan context]する[Amharic translation needed - original Taiwan context]がいい——[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]することに。
 
-### 国際協調という知恵
+### [Amharic translation needed - original Taiwan context]という[Amharic translation needed - original Taiwan context]
 
-TSMC設立当初の株主構成は巧みに設計されていた。
+TSMC[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]は[Amharic translation needed - original Taiwan context]みに[Amharic translation needed - original Taiwan context]されていた。
 
-- 政府出資：48.3%（国家戦略的地位の確保）
-- 民間出資：24.2%（台湾資本の参画）
-- オランダ・フィリップス：27.5%（国際技術と顧客ネットワークの導入）
+- [Amharic translation needed - original Taiwan context]：48.3%（[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]）
+- [Amharic translation needed - original Taiwan context]：24.2%（[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]）
+- オランダ・フィリップス：27.5%（[Amharic translation needed - original Taiwan context]と[Amharic translation needed - original Taiwan context]ネットワークの[Amharic translation needed - original Taiwan context]）
 
-フィリップスの参画が決定的だった。当時の半導体産業は米国と日本に支配されており、欧州は代替サプライヤーを必死に求めていた。フィリップスは資金を出すだけでなく、自社の半導体受注をTSMCに回し、最初の重要顧客となった。
+フィリップスの[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]だった。[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]は[Amharic translation needed - original Taiwan context]と[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]されており、[Amharic translation needed - original Taiwan context]は[Amharic translation needed - original Taiwan context]サプライヤーを[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]めていた。フィリップスは[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]すだけでなく、[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]をTSMCに[Amharic translation needed - original Taiwan context]し、[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]となった。
 
-## ファウンドリモデル：世界の半導体エコシステムを再編する
+## ファウンドリモデル：[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]エコシステムを[Amharic translation needed - original Taiwan context]する
 
-### 産業分業という革命
+### [Amharic translation needed - original Taiwan context]という[Amharic translation needed - original Taiwan context]
 
-TSMCのファウンドリモデルは、半導体産業に大分業をもたらした。
+TSMCのファウンドリモデルは、[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]をもたらした。
 
-- **IC設計会社**が設計に専念（クアルコム、NVIDIA、メディアテクなど）
-- **ファウンドリ**が製造に専念（TSMC、UMC、グローバルファウンドリーズ）
-- **封止・テスト会社**が後工程を担当（ASE、シリコンプレシジョン）
+- **IC[Amharic translation needed - original Taiwan context]**が[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]（クアルコム、NVIDIA、メディアテクなど）
+- **ファウンドリ**が[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]（TSMC、UMC、グローバルファウンドリーズ）
+- **[Amharic translation needed - original Taiwan context]・テスト[Amharic translation needed - original Taiwan context]**が[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]（ASE、シリコンプレシジョン）
 
-このモデルは、より多くの企業が半導体産業に参入する道を開いた。かつてはインテルやIBMのような巨大企業だけが、天文学的な設備投資を伴うファブを持てた。それがTSMCの登場によって、優れたアイデアさえあれば誰でもチップを設計し、製造をTSMCに委託できるようになったのだ。
+このモデルは、より[Amharic translation needed - original Taiwan context]くの[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]する[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]いた。かつてはインテルやIBMのような[Amharic translation needed - original Taiwan context]だけが、[Amharic translation needed - original Taiwan context]な[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]うファブを[Amharic translation needed - original Taiwan context]てた。それがTSMCの[Amharic translation needed - original Taiwan context]によって、[Amharic translation needed - original Taiwan context]れたアイデアさえあれば[Amharic translation needed - original Taiwan context]でもチップを[Amharic translation needed - original Taiwan context]し、[Amharic translation needed - original Taiwan context]をTSMCに[Amharic translation needed - original Taiwan context]できるようになったのだ。
 
-### 信頼という名の競争優位
+### [Amharic translation needed - original Taiwan context]という[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]
 
-ファウンドリモデルの核心にあるのは信頼だ。顧客はTSMCが設計を盗まない、企業秘密を漏洩させない、顧客と競合しないと信じなければならない。
+ファウンドリモデルの[Amharic translation needed - original Taiwan context]にあるのは[Amharic translation needed - original Taiwan context]だ。[Amharic translation needed - original Taiwan context]はTSMCが[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]まない、[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]させない、[Amharic translation needed - original Taiwan context]と[Amharic translation needed - original Taiwan context]しないと[Amharic translation needed - original Taiwan context]じなければならない。
 
-TSMCは厳格な「信頼の掟」を設けた。
+TSMCは[Amharic translation needed - original Taiwan context]な「[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]」を[Amharic translation needed - original Taiwan context]けた。
 
-1. **技術的中立**：自社でチップを設計しない
-2. **顧客平等**：すべての顧客に同等の技術とサービスを提供
-3. **秘密保持**：最高水準の情報セキュリティ
-4. **生産能力の公平配分**：先端プロセスの生産能力を公正に割り当てる
+1. **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]でチップを[Amharic translation needed - original Taiwan context]しない
+2. **[Amharic translation needed - original Taiwan context]**：すべての[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]とサービスを[Amharic translation needed - original Taiwan context]
+3. **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]セキュリティ
+4. **[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]プロセスの[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]り[Amharic translation needed - original Taiwan context]てる
 
-この掟は40年近くにわたって守られ、一度も例外が設けられたことはない。これこそが、TSMCという企業の本質的な強みではないだろうか。
+この[Amharic translation needed - original Taiwan context]は40[Amharic translation needed - original Taiwan context]くにわたって[Amharic translation needed - original Taiwan context]られ、[Amharic translation needed - original Taiwan context]も[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]けられたことはない。これこそが、TSMCという[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]な[Amharic translation needed - original Taiwan context]みではないだろうか。
 
-## プロセス技術：永遠の軍拡競争
+## プロセス[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]
 
-### ムーアの法則という強迫観念
+### ムーアの[Amharic translation needed - original Taiwan context]という[Amharic translation needed - original Taiwan context]
 
-1965年、インテルの共同創業者ゴードン・ムーアが「ムーアの法則」を提唱した。チップ上のトランジスタ数は18か月ごとに倍増するという経験則だ。この法則が半導体産業の50年以上の発展を牽引し、TSMCと世界の競合他社の勝負の土俵となった。
+1965[Amharic translation needed - original Taiwan context]、インテルの[Amharic translation needed - original Taiwan context]ゴードン・ムーアが「ムーアの[Amharic translation needed - original Taiwan context]」を[Amharic translation needed - original Taiwan context]した。チップ[Amharic translation needed - original Taiwan context]のトランジスタ[Amharic translation needed - original Taiwan context]は18か[Amharic translation needed - original Taiwan context]ごとに[Amharic translation needed - original Taiwan context]するという[Amharic translation needed - original Taiwan context]だ。この[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]の50[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]し、TSMCと[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]となった。
 
-1987年の3マイクロメートルプロセスから始まり、TSMCはひたすら追い続けてきた。
+1987[Amharic translation needed - original Taiwan context]の3マイクロメートルプロセスから[Amharic translation needed - original Taiwan context]まり、TSMCはひたすら[Amharic translation needed - original Taiwan context]い[Amharic translation needed - original Taiwan context]けてきた。
 
-- **1990年代**：1.2μm、0.8μm、0.6μm
-- **2000年代**：0.35μm、0.25μm、0.18μm、0.13μm、90nm
-- **2010年代**：65nm、40nm、28nm、20nm、16nm、10nm、7nm
-- **2020年代**：5nm、3nm、2nm
+- **1990[Amharic translation needed - original Taiwan context]**：1.2μm、0.8μm、0.6μm
+- **2000[Amharic translation needed - original Taiwan context]**：0.35μm、0.25μm、0.18μm、0.13μm、90nm
+- **2010[Amharic translation needed - original Taiwan context]**：65nm、40nm、28nm、20nm、16nm、10nm、7nm
+- **2020[Amharic translation needed - original Taiwan context]**：5nm、3nm、2nm
 
-### 2ナノメートル時代の幕開け
+### 2ナノメートル[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]け
 
-2025年第4四半期、TSMCは2ナノメートルプロセスの量産を開始した。主要ラインは新竹宝山の第20工場と高雄の第22工場だ。これは人類の製造技術の新たな極限である——2ナノメートルはシリコン原子約20個分の直径に相当し、物理学の理論的限界に近づきつつある。
+2025[Amharic translation needed - original Taiwan context]4[Amharic translation needed - original Taiwan context]、TSMCは2ナノメートルプロセスの[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]した。[Amharic translation needed - original Taiwan context]ラインは[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]20[Amharic translation needed - original Taiwan context]と[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]22[Amharic translation needed - original Taiwan context]だ。これは[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]たな[Amharic translation needed - original Taiwan context]である——2ナノメートルはシリコン[Amharic translation needed - original Taiwan context]20[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]し、[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]づきつつある。
 
-TSMCの見通しでは、2026年末までに2ナノメートルプロセスの月産能力が10万枚に達する見込みで、最初の顧客にはアップルのAシリーズチップとNVIDIAのAIチップが含まれる。
+TSMCの[Amharic translation needed - original Taiwan context]しでは、2026[Amharic translation needed - original Taiwan context]までに2ナノメートルプロセスの[Amharic translation needed - original Taiwan context]が10[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]する[Amharic translation needed - original Taiwan context]みで、[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]にはアップルのAシリーズチップとNVIDIAのAIチップが[Amharic translation needed - original Taiwan context]まれる。
 
-さらに競合他社を絶望させるのは、TSMCがすでに1.6ナノメートル（A16）プロセスの開発を進めており、2026年下半期の量産開始を計画していることだ。世界が3ナノメートルを追いかけている間に、TSMCはすでにオングストローム領域（1ナノメートル以下）に向けて疾走している。
+さらに[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]させるのは、TSMCがすでに1.6ナノメートル（A16）プロセスの[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]めており、2026[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]していることだ。[Amharic translation needed - original Taiwan context]が3ナノメートルを[Amharic translation needed - original Taiwan context]いかけている[Amharic translation needed - original Taiwan context]に、TSMCはすでにオングストローム[Amharic translation needed - original Taiwan context]（1ナノメートル[Amharic translation needed - original Taiwan context]）に[Amharic translation needed - original Taiwan context]けて[Amharic translation needed - original Taiwan context]している。
 
-### 技術的優位を維持するための代償
+### [Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]するための[Amharic translation needed - original Taiwan context]
 
-先端プロセスの研究開発コストは指数関数的に増大している。
+[Amharic translation needed - original Taiwan context]プロセスの[Amharic translation needed - original Taiwan context]コストは[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]している。
 
-| プロセス | 開発コスト（概算） | 日本円換算（1ドル＝150円） |
+| プロセス | [Amharic translation needed - original Taiwan context]コスト（[Amharic translation needed - original Taiwan context]） | [Amharic translation needed - original Taiwan context]（1ドル＝150[Amharic translation needed - original Taiwan context]） |
 |---------|------------------|--------------------------|
-| 28nm | 約10億ドル | 約1,500億円 |
-| 7nm | 約30億ドル | 約4,500億円 |
-| 3nm | 約100億ドル | 約1兆5,000億円 |
-| 2nm | 200億ドル超（推定） | 3兆円超（推定） |
+| 28nm | [Amharic translation needed - original Taiwan context]10[Amharic translation needed - original Taiwan context]ドル | [Amharic translation needed - original Taiwan context]1,500[Amharic translation needed - original Taiwan context] |
+| 7nm | [Amharic translation needed - original Taiwan context]30[Amharic translation needed - original Taiwan context]ドル | [Amharic translation needed - original Taiwan context]4,500[Amharic translation needed - original Taiwan context] |
+| 3nm | [Amharic translation needed - original Taiwan context]100[Amharic translation needed - original Taiwan context]ドル | [Amharic translation needed - original Taiwan context]1[Amharic translation needed - original Taiwan context]5,000[Amharic translation needed - original Taiwan context] |
+| 2nm | 200[Amharic translation needed - original Taiwan context]ドル[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]） | 3[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]） |
 
-この天文学的な投資額が、半導体の先端競争に参加できる企業を急速に絞り込んでいる。現在、先端プロセスの軍拡競争に残っているのは、TSMC、サムスン、インテルの3社のみだ。そしてTSMCは他の2社に対して2〜3世代のリードを保っている。
+この[Amharic translation needed - original Taiwan context]な[Amharic translation needed - original Taiwan context]が、[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]できる[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]り[Amharic translation needed - original Taiwan context]んでいる。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]プロセスの[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]っているのは、TSMC、サムスン、インテルの3[Amharic translation needed - original Taiwan context]のみだ。そしてTSMCは[Amharic translation needed - original Taiwan context]の2[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]して2〜3[Amharic translation needed - original Taiwan context]のリードを[Amharic translation needed - original Taiwan context]っている。
 
-## 護国神山：地政学上の新たな切り札
+## [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]たな[Amharic translation needed - original Taiwan context]り[Amharic translation needed - original Taiwan context]
 
-### シリコンシールドという戦略的地位
+### シリコンシールドという[Amharic translation needed - original Taiwan context]
 
-TSMCの技術的優位は、思わぬかたちで台湾の地政学的「シリコンシールド」となった。世界の技術大手は軒並みTSMCの先端プロセスに依存している。
+TSMCの[Amharic translation needed - original Taiwan context]は、[Amharic translation needed - original Taiwan context]わぬかたちで[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]「シリコンシールド」となった。[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]は[Amharic translation needed - original Taiwan context]みTSMCの[Amharic translation needed - original Taiwan context]プロセスに[Amharic translation needed - original Taiwan context]している。
 
 - **アップル**：iPhone、iPad、Macのコアチップ
-- **NVIDIA**：AI学習・推論チップ
+- **NVIDIA**：AI[Amharic translation needed - original Taiwan context]・[Amharic translation needed - original Taiwan context]チップ
 - **AMD**：CPUおよびGPUチップ
 - **クアルコム**：5Gスマートフォンチップ
-- **テスラ**：自動運転チップ
+- **テスラ**：[Amharic translation needed - original Taiwan context]チップ
 
-TSMCが1週間生産を停止すれば、世界の技術サプライチェーンは機能不全に陥る。この戦略的地位が、台湾に前例のない国際的影響力をもたらしているのだ。「シリコンシールド」という概念は、日本のメディアでも広く議論されており、台湾有事が起きた場合の抑止力として注目されている。
+TSMCが1[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]すれば、[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]サプライチェーンは[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]る。この[Amharic translation needed - original Taiwan context]が、[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]のない[Amharic translation needed - original Taiwan context]をもたらしているのだ。「シリコンシールド」という[Amharic translation needed - original Taiwan context]は、[Amharic translation needed - original Taiwan context]のメディアでも[Amharic translation needed - original Taiwan context]く[Amharic translation needed - original Taiwan context]されており、[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]きた[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]として[Amharic translation needed - original Taiwan context]されている。
 
-### 世界各国による誘致合戦
+### [Amharic translation needed - original Taiwan context]による[Amharic translation needed - original Taiwan context]
 
-TSMCが持つ技術的価値の高さゆえに、各国はこの技術を自国に引き込もうとしている。
+TSMCが[Amharic translation needed - original Taiwan context]つ[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]さゆえに、[Amharic translation needed - original Taiwan context]はこの[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]き[Amharic translation needed - original Taiwan context]もうとしている。
 
-**米国アリゾナ工場**（2025〜2028年）：
-400億ドル（約6兆円）を投資し、5ナノメートルおよび3ナノメートルチップの生産を計画。ただし生産能力は限定的で、象徴的意義が実質的意義を上回っている面もある。
+**[Amharic translation needed - original Taiwan context]アリゾナ[Amharic translation needed - original Taiwan context]**（2025〜2028[Amharic translation needed - original Taiwan context]）：
+400[Amharic translation needed - original Taiwan context]ドル（[Amharic translation needed - original Taiwan context]6[Amharic translation needed - original Taiwan context]）を[Amharic translation needed - original Taiwan context]し、5ナノメートルおよび3ナノメートルチップの[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]。ただし[Amharic translation needed - original Taiwan context]は[Amharic translation needed - original Taiwan context]で、[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]っている[Amharic translation needed - original Taiwan context]もある。
 
-**日本・熊本工場（JASM）**（2024年稼働開始）：
-ソニーセミコンダクタソリューションズ、トヨタとの合弁で設立され、22〜28ナノメートルの車載チップを生産している。最先端プロセスではないが、日本の自動車産業が必要とする水準には十分対応できる。熊本への進出は地元経済にも大きなインパクトをもたらしており、雇用創出だけでなく、地価・家賃の上昇も報告されている。半導体関連のサプライヤーや飲食・サービス業の集積が加速し、「半導体城下町」とも呼ばれる経済圏が形成されつつある。JASMはつくば研究学園都市が果たした役割——国家技術拠点の地方誘致——を九州で再現しようとする試みと見ることができるだろう。
+**[Amharic translation needed - original Taiwan context]・[Amharic translation needed - original Taiwan context]（JASM）**（2024[Amharic translation needed - original Taiwan context]）：
+ソニーセミコンダクタソリューションズ、トヨタとの[Amharic translation needed - original Taiwan context]で[Amharic translation needed - original Taiwan context]され、22〜28ナノメートルの[Amharic translation needed - original Taiwan context]チップを[Amharic translation needed - original Taiwan context]している。[Amharic translation needed - original Taiwan context]プロセスではないが、[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]とする[Amharic translation needed - original Taiwan context]には[Amharic translation needed - original Taiwan context]できる。[Amharic translation needed - original Taiwan context]への[Amharic translation needed - original Taiwan context]は[Amharic translation needed - original Taiwan context]にも[Amharic translation needed - original Taiwan context]きなインパクトをもたらしており、[Amharic translation needed - original Taiwan context]だけでなく、[Amharic translation needed - original Taiwan context]・[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]も[Amharic translation needed - original Taiwan context]されている。[Amharic translation needed - original Taiwan context]のサプライヤーや[Amharic translation needed - original Taiwan context]・サービス[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]し、「[Amharic translation needed - original Taiwan context]」とも[Amharic translation needed - original Taiwan context]ばれる[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]されつつある。JASMはつくば[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]たした[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]——を[Amharic translation needed - original Taiwan context]で[Amharic translation needed - original Taiwan context]しようとする[Amharic translation needed - original Taiwan context]みと[Amharic translation needed - original Taiwan context]ることができるだろう。
 
-**ドイツ・ドレスデン工場**（2027年稼働予定）：
-BMW、ボッシュとの連携で、欧州の自動車電子部品市場を主なターゲットとする。
+**ドイツ・ドレスデン[Amharic translation needed - original Taiwan context]**（2027[Amharic translation needed - original Taiwan context]）：
+BMW、ボッシュとの[Amharic translation needed - original Taiwan context]で、[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]なターゲットとする。
 
-ただし、海外工場に関して重要な点がある。**最先端プロセス技術は依然として台湾に留まっている**。2ナノメートルや1.6ナノメートルといった尖端技術が短期的に海外へ移転することはない。台湾は依然として世界の半導体技術の心臓部であり続けている。
+ただし、[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]して[Amharic translation needed - original Taiwan context]な[Amharic translation needed - original Taiwan context]がある。**[Amharic translation needed - original Taiwan context]プロセス[Amharic translation needed - original Taiwan context]は[Amharic translation needed - original Taiwan context]として[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]まっている**。2ナノメートルや1.6ナノメートルといった[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]へ[Amharic translation needed - original Taiwan context]することはない。[Amharic translation needed - original Taiwan context]は[Amharic translation needed - original Taiwan context]として[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]であり[Amharic translation needed - original Taiwan context]けている。
 
-## AIブーム：予期せぬ第二の春
+## AIブーム：[Amharic translation needed - original Taiwan context]せぬ[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]
 
 ### スマートフォンからAIへ
 
-2020年以前、TSMCの主要顧客はスマートフォン向けチップメーカーだった。しかし2022年のChatGPT旋風以降、AIが新たな成長エンジンとなった。
+2020[Amharic translation needed - original Taiwan context]、TSMCの[Amharic translation needed - original Taiwan context]はスマートフォン[Amharic translation needed - original Taiwan context]けチップメーカーだった。しかし2022[Amharic translation needed - original Taiwan context]のChatGPT[Amharic translation needed - original Taiwan context]、AIが[Amharic translation needed - original Taiwan context]たな[Amharic translation needed - original Taiwan context]エンジンとなった。
 
-AI学習・推論には膨大な計算能力が必要で、高性能チップの需要が急増した。NVIDIAのH100、H200 AIチップはすべてTSMCの4ナノメートルおよび5ナノメートルプロセスで製造されている。アップルのMシリーズチップにもAI機能が大幅に強化された。
+AI[Amharic translation needed - original Taiwan context]・[Amharic translation needed - original Taiwan context]には[Amharic translation needed - original Taiwan context]な[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]で、[Amharic translation needed - original Taiwan context]チップの[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]した。NVIDIAのH100、H200 AIチップはすべてTSMCの4ナノメートルおよび5ナノメートルプロセスで[Amharic translation needed - original Taiwan context]されている。アップルのMシリーズチップにもAI[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]された。
 
-2024年のデータによれば、先端プロセス（7ナノメートル以降）の売上高はTSMCのウェハ販売総額の69%に達している。この比率はさらに上昇が続いている。
+2024[Amharic translation needed - original Taiwan context]のデータによれば、[Amharic translation needed - original Taiwan context]プロセス（7ナノメートル[Amharic translation needed - original Taiwan context]）の[Amharic translation needed - original Taiwan context]はTSMCのウェハ[Amharic translation needed - original Taiwan context]の69%に[Amharic translation needed - original Taiwan context]している。この[Amharic translation needed - original Taiwan context]はさらに[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]いている。
 
-### CoWoS技術という突破口
+### CoWoS[Amharic translation needed - original Taiwan context]という[Amharic translation needed - original Taiwan context]
 
-AIチップは膨大なデータを処理する必要があるため、単一チップでは対応しきれず、複数のチップを「積層」しなければならない。TSMCのCoWoS（Chip on Wafer on Substrate）パッケージング技術は、AI時代の鍵を握る存在となっている。
+AIチップは[Amharic translation needed - original Taiwan context]なデータを[Amharic translation needed - original Taiwan context]する[Amharic translation needed - original Taiwan context]があるため、[Amharic translation needed - original Taiwan context]チップでは[Amharic translation needed - original Taiwan context]しきれず、[Amharic translation needed - original Taiwan context]のチップを「[Amharic translation needed - original Taiwan context]」しなければならない。TSMCのCoWoS（Chip on Wafer on Substrate）パッケージング[Amharic translation needed - original Taiwan context]は、AI[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]る[Amharic translation needed - original Taiwan context]となっている。
 
-日本語で平たく言えば、「チップの重ね合わせ技術」だ。NVIDIAのH100チップは、CoWoS技術によってGPUチップと高速メモリ（HBM）を一つのパッケージに収めている。この技術の参入障壁は極めて高く、現時点で量産できるのはTSMCだけだ。
+[Amharic translation needed - original Taiwan context]で[Amharic translation needed - original Taiwan context]たく[Amharic translation needed - original Taiwan context]えば、「チップの[Amharic translation needed - original Taiwan context]ね[Amharic translation needed - original Taiwan context]わせ[Amharic translation needed - original Taiwan context]」だ。NVIDIAのH100チップは、CoWoS[Amharic translation needed - original Taiwan context]によってGPUチップと[Amharic translation needed - original Taiwan context]メモリ（HBM）を[Amharic translation needed - original Taiwan context]つのパッケージに[Amharic translation needed - original Taiwan context]めている。この[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]は[Amharic translation needed - original Taiwan context]めて[Amharic translation needed - original Taiwan context]く、[Amharic translation needed - original Taiwan context]で[Amharic translation needed - original Taiwan context]できるのはTSMCだけだ。
 
-## 競合各社：サムスンの追撃とインテルの苦境
+## [Amharic translation needed - original Taiwan context]：サムスンの[Amharic translation needed - original Taiwan context]とインテルの[Amharic translation needed - original Taiwan context]
 
-### サムスンの韓国流攻勢
+### サムスンの[Amharic translation needed - original Taiwan context]
 
-韓国のサムスンはTSMCの最大のライバルで、まったく異なる戦略を採っている。
+[Amharic translation needed - original Taiwan context]のサムスンはTSMCの[Amharic translation needed - original Taiwan context]のライバルで、まったく[Amharic translation needed - original Taiwan context]なる[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]っている。
 
-- **垂直統合**：メモリからファウンドリ、スマートフォン製造まで一貫
-- **巨額投資**：2022〜2026年で2,300億ドル（約34兆5,000億円）を投入
-- **政府支援**：韓国の「K-半導体ベルト」計画が全面的にバックアップ
+- **[Amharic translation needed - original Taiwan context]**：メモリからファウンドリ、スマートフォン[Amharic translation needed - original Taiwan context]まで[Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：2022〜2026[Amharic translation needed - original Taiwan context]で2,300[Amharic translation needed - original Taiwan context]ドル（[Amharic translation needed - original Taiwan context]34[Amharic translation needed - original Taiwan context]5,000[Amharic translation needed - original Taiwan context]）を[Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]の「K-[Amharic translation needed - original Taiwan context]ベルト」[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]にバックアップ
 
-しかしサムスンは先端プロセスの歩留まりでTSMCに後れを取っている。2023年のサムスンの3ナノメートルプロセス歩留まりは約60%だったのに対し、TSMCはすでに90%を超えていた。精度がすべてを決めるチップ製造において、この歩留まりの差は天と地ほどの差だ。日本のエレクトロニクス業界関係者がTSMCとサムスンを比べるとき、まずこの歩留まりの差が話題に上る。
+しかしサムスンは[Amharic translation needed - original Taiwan context]プロセスの[Amharic translation needed - original Taiwan context]まりでTSMCに[Amharic translation needed - original Taiwan context]れを[Amharic translation needed - original Taiwan context]っている。2023[Amharic translation needed - original Taiwan context]のサムスンの3ナノメートルプロセス[Amharic translation needed - original Taiwan context]まりは[Amharic translation needed - original Taiwan context]60%だったのに[Amharic translation needed - original Taiwan context]し、TSMCはすでに90%を[Amharic translation needed - original Taiwan context]えていた。[Amharic translation needed - original Taiwan context]がすべてを[Amharic translation needed - original Taiwan context]めるチップ[Amharic translation needed - original Taiwan context]において、この[Amharic translation needed - original Taiwan context]まりの[Amharic translation needed - original Taiwan context]は[Amharic translation needed - original Taiwan context]と[Amharic translation needed - original Taiwan context]ほどの[Amharic translation needed - original Taiwan context]だ。[Amharic translation needed - original Taiwan context]のエレクトロニクス[Amharic translation needed - original Taiwan context]がTSMCとサムスンを[Amharic translation needed - original Taiwan context]べるとき、まずこの[Amharic translation needed - original Taiwan context]まりの[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]る。
 
-### インテルの転換という難題
+### インテルの[Amharic translation needed - original Taiwan context]という[Amharic translation needed - original Taiwan context]
 
-インテルはかつて世界の半導体技術をリードする存在だったが、10ナノメートルプロセスで長年停滞し、TSMCと競うべきタイミングを逃した。
+インテルはかつて[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]をリードする[Amharic translation needed - original Taiwan context]だったが、10ナノメートルプロセスで[Amharic translation needed - original Taiwan context]し、TSMCと[Amharic translation needed - original Taiwan context]うべきタイミングを[Amharic translation needed - original Taiwan context]した。
 
-2021年にインテルは「IDM 2.0」戦略を打ち出し、自社チップ設計とファウンドリ事業を両立させようとした。しかし2025年時点でも、インテルのファウンドリ事業は主要顧客を獲得できていない。皮肉なことに、インテルが設計した一部の高性能チップはTSMCに製造委託するようになっている。
+2021[Amharic translation needed - original Taiwan context]にインテルは「IDM 2.0」[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]ち[Amharic translation needed - original Taiwan context]し、[Amharic translation needed - original Taiwan context]チップ[Amharic translation needed - original Taiwan context]とファウンドリ[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]させようとした。しかし2025[Amharic translation needed - original Taiwan context]でも、インテルのファウンドリ[Amharic translation needed - original Taiwan context]は[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]できていない。[Amharic translation needed - original Taiwan context]なことに、インテルが[Amharic translation needed - original Taiwan context]した[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]チップはTSMCに[Amharic translation needed - original Taiwan context]するようになっている。
 
-## 台湾の半導体エコシステム：TSMCだけではない
+## [Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]エコシステム：TSMCだけではない
 
-### 完結した産業連鎖という強み
+### [Amharic translation needed - original Taiwan context]した[Amharic translation needed - original Taiwan context]という[Amharic translation needed - original Taiwan context]み
 
-台湾の半導体産業の競争力は、TSMCだけに起因するものではなく、エコシステム全体から生まれている。
+[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]は、TSMCだけに[Amharic translation needed - original Taiwan context]するものではなく、エコシステム[Amharic translation needed - original Taiwan context]から[Amharic translation needed - original Taiwan context]まれている。
 
-| セグメント | 主要企業 | 世界的地位 |
+| セグメント | [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] |
 |-----------|---------|----------|
-| IC設計 | メディアテク（聯發科）、Novatek、Realtek、Himax | メディアテクは世界3位 |
-| ウェハファウンドリ | TSMC、UMC、ワールドアドバンスド | TSMCは世界1位 |
-| 封止・テスト | ASE、シリコンプレシジョン、京元電子 | ASEは世界1位 |
-| 設備・材料 | ナンヤテクノロジー、ウィンボンド、WIN Semiconductors | — |
+| IC[Amharic translation needed - original Taiwan context] | メディアテク（[Amharic translation needed - original Taiwan context]）、Novatek、Realtek、Himax | メディアテクは[Amharic translation needed - original Taiwan context]3[Amharic translation needed - original Taiwan context] |
+| ウェハファウンドリ | TSMC、UMC、ワールドアドバンスド | TSMCは[Amharic translation needed - original Taiwan context]1[Amharic translation needed - original Taiwan context] |
+| [Amharic translation needed - original Taiwan context]・テスト | ASE、シリコンプレシジョン、[Amharic translation needed - original Taiwan context] | ASEは[Amharic translation needed - original Taiwan context]1[Amharic translation needed - original Taiwan context] |
+| [Amharic translation needed - original Taiwan context]・[Amharic translation needed - original Taiwan context] | ナンヤテクノロジー、ウィンボンド、WIN Semiconductors | — |
 
-この完結した産業集積がもたらす協調効果は絶大だ。一つのチップが設計から完成に至るまで、台湾内で一巡できる。国境をまたいだ物流が不要なのだ。
+この[Amharic translation needed - original Taiwan context]した[Amharic translation needed - original Taiwan context]がもたらす[Amharic translation needed - original Taiwan context]は[Amharic translation needed - original Taiwan context]だ。[Amharic translation needed - original Taiwan context]つのチップが[Amharic translation needed - original Taiwan context]から[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]るまで、[Amharic translation needed - original Taiwan context]で[Amharic translation needed - original Taiwan context]できる。[Amharic translation needed - original Taiwan context]をまたいだ[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]なのだ。
 
-### 新竹科学工業園区：人材が集まる場所
+### [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]まる[Amharic translation needed - original Taiwan context]
 
-新竹科学工業園区は1980年に開設され、40年以上の発展を経て、世界で最も重要な半導体クラスターの一つとなった。園区内には500社以上の企業が入居し、従業員数は17万人を超える。
+[Amharic translation needed - original Taiwan context]は1980[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]され、40[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]て、[Amharic translation needed - original Taiwan context]で[Amharic translation needed - original Taiwan context]も[Amharic translation needed - original Taiwan context]な[Amharic translation needed - original Taiwan context]クラスターの[Amharic translation needed - original Taiwan context]つとなった。[Amharic translation needed - original Taiwan context]には500[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]し、[Amharic translation needed - original Taiwan context]は17[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]える。
 
-日本でいえば、つくば研究学園都市と同様の役割を担う国家的な技術拠点として比較できるかもしれない。ただし新竹の場合、研究だけでなく量産を含む製造の集積が際立っており、研究と産業の垂直統合という点でつくばとは異なる性格を持つ。
+[Amharic translation needed - original Taiwan context]でいえば、つくば[Amharic translation needed - original Taiwan context]と[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]う[Amharic translation needed - original Taiwan context]な[Amharic translation needed - original Taiwan context]として[Amharic translation needed - original Taiwan context]できるかもしれない。ただし[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]だけでなく[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]む[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]っており、[Amharic translation needed - original Taiwan context]と[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]という[Amharic translation needed - original Taiwan context]でつくばとは[Amharic translation needed - original Taiwan context]なる[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]つ。
 
-さらに重要なのは人材の流動性だ。エンジニアはTSMCで数年間キャリアを積んだ後、メディアテクへ移ってチップ設計に携わり、さらにASEへ転じて封止工程を担当するといったキャリアパスが珍しくない。この人材循環が産業全体の技術水準を絶えず引き上げている。
+さらに[Amharic translation needed - original Taiwan context]なのは[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]だ。エンジニアはTSMCで[Amharic translation needed - original Taiwan context]キャリアを[Amharic translation needed - original Taiwan context]んだ[Amharic translation needed - original Taiwan context]、メディアテクへ[Amharic translation needed - original Taiwan context]ってチップ[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]わり、さらにASEへ[Amharic translation needed - original Taiwan context]じて[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]するといったキャリアパスが[Amharic translation needed - original Taiwan context]しくない。この[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]えず[Amharic translation needed - original Taiwan context]き[Amharic translation needed - original Taiwan context]げている。
 
-## 将来の課題：物理的限界と地政学リスク
+## [Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]と[Amharic translation needed - original Taiwan context]リスク
 
-### ムーアの法則の終焉
+### ムーアの[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]
 
-2ナノメートルはシリコン系半導体の物理的限界に迫っている。さらなる微細化には新素材（カーボンナノチューブ、グラフェンなど）または新しいアーキテクチャ（量子コンピューティング、フォトニクスコンピューティング）が必要になるかもしれない。
+2ナノメートルはシリコン[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]っている。さらなる[Amharic translation needed - original Taiwan context]には[Amharic translation needed - original Taiwan context]（カーボンナノチューブ、グラフェンなど）または[Amharic translation needed - original Taiwan context]しいアーキテクチャ（[Amharic translation needed - original Taiwan context]コンピューティング、フォトニクスコンピューティング）が[Amharic translation needed - original Taiwan context]になるかもしれない。
 
-TSMCが開発中の「オングストローム級」プロセス（1ナノメートル以下）は、技術的難易度が指数関数的に増大している。トランジスタあたりのコストはむしろ上昇する可能性もあり、従来の経済論理に挑戦する局面が近づきつつある。
+TSMCが[Amharic translation needed - original Taiwan context]の「オングストローム[Amharic translation needed - original Taiwan context]」プロセス（1ナノメートル[Amharic translation needed - original Taiwan context]）は、[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]している。トランジスタあたりのコストはむしろ[Amharic translation needed - original Taiwan context]する[Amharic translation needed - original Taiwan context]もあり、[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]する[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]づきつつある。
 
-### 地政学という両刃の剣
+### [Amharic translation needed - original Taiwan context]という[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]
 
-TSMCの戦略的地位は保護にもなるが、リスクでもある。米中のテック覇権争いは台湾を両大国の狭間に置いており、微妙なバランスが求められる。
+TSMCの[Amharic translation needed - original Taiwan context]は[Amharic translation needed - original Taiwan context]にもなるが、リスクでもある。[Amharic translation needed - original Taiwan context]のテック[Amharic translation needed - original Taiwan context]いは[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]いており、[Amharic translation needed - original Taiwan context]なバランスが[Amharic translation needed - original Taiwan context]められる。
 
-- **米国の圧力**：中国向けの技術制裁に従うよう求める
-- **中国市場**：依然としてTSMCにとって重要な収益源
-- **サプライチェーンリスク**：生産が台湾に過度に集中するリスク
+- **[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]けの[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]うよう[Amharic translation needed - original Taiwan context]める
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]としてTSMCにとって[Amharic translation needed - original Taiwan context]な[Amharic translation needed - original Taiwan context]
+- **サプライチェーンリスク**：[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]するリスク
 
-日本にとってもこの問題は他人事ではない。JASMの誘致は、サプライチェーン分散という観点から日本政府が強力に後押しした経緯がある。それでも最先端プロセスは台湾に依存し続けるという現実は変わらない。
+[Amharic translation needed - original Taiwan context]にとってもこの[Amharic translation needed - original Taiwan context]は[Amharic translation needed - original Taiwan context]ではない。JASMの[Amharic translation needed - original Taiwan context]は、サプライチェーン[Amharic translation needed - original Taiwan context]という[Amharic translation needed - original Taiwan context]から[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]しした[Amharic translation needed - original Taiwan context]がある。それでも[Amharic translation needed - original Taiwan context]プロセスは[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]し[Amharic translation needed - original Taiwan context]けるという[Amharic translation needed - original Taiwan context]は[Amharic translation needed - original Taiwan context]わらない。
 
-### 人材争奪戦
+### [Amharic translation needed - original Taiwan context]
 
-世界が半導体人材の獲得競争を繰り広げている。米国の「CHIPS法」、欧州連合の「欧州チップ法」、日本の半導体戦略はいずれも巨額の補助金で人材を引き寄せようとしている。TSMCは世界の人材市場で競争力を維持し続けなければならない。
+[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]り[Amharic translation needed - original Taiwan context]げている。[Amharic translation needed - original Taiwan context]の「CHIPS[Amharic translation needed - original Taiwan context]」、[Amharic translation needed - original Taiwan context]の「[Amharic translation needed - original Taiwan context]チップ[Amharic translation needed - original Taiwan context]」、[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]はいずれも[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]で[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]き[Amharic translation needed - original Taiwan context]せようとしている。TSMCは[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]で[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]し[Amharic translation needed - original Taiwan context]けなければならない。
 
-## 2030年の展望：ムーアの法則を超えて
+## 2030[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]：ムーアの[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]えて
 
-### ヘテロジニアス統合という新時代
+### ヘテロジニアス[Amharic translation needed - original Taiwan context]という[Amharic translation needed - original Taiwan context]
 
-トランジスタの微細化が限界に近づくと、半導体産業は「ヘテロジニアス統合（異種チップ統合）」へとシフトする。異なる機能を持つチップを一つのパッケージに収める方向性だ。
+トランジスタの[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]づくと、[Amharic translation needed - original Taiwan context]は「ヘテロジニアス[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]チップ[Amharic translation needed - original Taiwan context]）」へとシフトする。[Amharic translation needed - original Taiwan context]なる[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]つチップを[Amharic translation needed - original Taiwan context]つのパッケージに[Amharic translation needed - original Taiwan context]める[Amharic translation needed - original Taiwan context]だ。
 
-- **プロセッサチップ**：演算を担当
-- **メモリチップ**：データ保存を担当
-- **センサーチップ**：環境認識を担当
-- **RFチップ**：通信を担当
+- **プロセッサチップ**：[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]
+- **メモリチップ**：データ[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]
+- **センサーチップ**：[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]
+- **RFチップ**：[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]
 
-TSMCの3D IC技術によって、チップを「垂直積層」し、限られた面積により多くの機能を詰め込むことが可能になる。CoWoS技術はその先駆けともいえる。
+TSMCの3D IC[Amharic translation needed - original Taiwan context]によって、チップを「[Amharic translation needed - original Taiwan context]」し、[Amharic translation needed - original Taiwan context]られた[Amharic translation needed - original Taiwan context]により[Amharic translation needed - original Taiwan context]くの[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]め[Amharic translation needed - original Taiwan context]むことが[Amharic translation needed - original Taiwan context]になる。CoWoS[Amharic translation needed - original Taiwan context]はその[Amharic translation needed - original Taiwan context]けともいえる。
 
-### 量子コンピューティングという挑戦
+### [Amharic translation needed - original Taiwan context]コンピューティングという[Amharic translation needed - original Taiwan context]
 
-グーグル、IBM、IonQなどの企業が量子コンピューティングの開発を進め、従来のコンピュータでは解けない複雑な問題を解決できると主張している。量子コンピューティングが真にブレイクスルーを実現すれば、半導体産業全体の構図を塗り替えるかもしれない。
+グーグル、IBM、IonQなどの[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]コンピューティングの[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]め、[Amharic translation needed - original Taiwan context]のコンピュータでは[Amharic translation needed - original Taiwan context]けない[Amharic translation needed - original Taiwan context]な[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]できると[Amharic translation needed - original Taiwan context]している。[Amharic translation needed - original Taiwan context]コンピューティングが[Amharic translation needed - original Taiwan context]にブレイクスルーを[Amharic translation needed - original Taiwan context]すれば、[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]り[Amharic translation needed - original Taiwan context]えるかもしれない。
 
-しかしTSMCも手をこまねいているわけではない。IBMとの協力のもと量子コンピューティングの製造技術を研究しており、次の技術革命を迎え撃つ準備を進めている。
+しかしTSMCも[Amharic translation needed - original Taiwan context]をこまねいているわけではない。IBMとの[Amharic translation needed - original Taiwan context]のもと[Amharic translation needed - original Taiwan context]コンピューティングの[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]しており、[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]え[Amharic translation needed - original Taiwan context]つ[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]めている。
 
-## おわりに：テクノロジーの島の果てなき競走
+## おわりに：テクノロジーの[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]てなき[Amharic translation needed - original Taiwan context]
 
-1987年のモリス・チャンの挑戦から始まり、TSMCは約40年をかけて台湾を世界の技術的命脈へと変貌させた。これは一社の成功物語ではなく、一つの島全体の戦略的奇跡だ。
+1987[Amharic translation needed - original Taiwan context]のモリス・チャンの[Amharic translation needed - original Taiwan context]から[Amharic translation needed - original Taiwan context]まり、TSMCは[Amharic translation needed - original Taiwan context]40[Amharic translation needed - original Taiwan context]をかけて[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]へと[Amharic translation needed - original Taiwan context]させた。これは[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]ではなく、[Amharic translation needed - original Taiwan context]つの[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]だ。
 
-今日、あなたがiPhoneでメッセージを送り、ChatGPTに質問し、テスラの自動運転を起動するとき、そこには台湾の技術が息づいている。世界で最も先進的なチップの69%が、この小さな島で製造されているのだ。
+[Amharic translation needed - original Taiwan context]、あなたがiPhoneでメッセージを[Amharic translation needed - original Taiwan context]り、ChatGPTに[Amharic translation needed - original Taiwan context]し、テスラの[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]するとき、そこには[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]づいている。[Amharic translation needed - original Taiwan context]で[Amharic translation needed - original Taiwan context]も[Amharic translation needed - original Taiwan context]なチップの69%が、この[Amharic translation needed - original Taiwan context]さな[Amharic translation needed - original Taiwan context]で[Amharic translation needed - original Taiwan context]されているのだ。
 
-だが、この優位はいつまで続くのだろうか。技術的リードには終わりがない。毎日が新たなスタートだ。TSMCは投資を継続し、革新を続け、リードを守り続けなければ、この果てなき技術競走での地位を維持できない。
+だが、この[Amharic translation needed - original Taiwan context]はいつまで[Amharic translation needed - original Taiwan context]くのだろうか。[Amharic translation needed - original Taiwan context]リードには[Amharic translation needed - original Taiwan context]わりがない。[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]たなスタートだ。TSMCは[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]し、[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]け、リードを[Amharic translation needed - original Taiwan context]り[Amharic translation needed - original Taiwan context]けなければ、この[Amharic translation needed - original Taiwan context]てなき[Amharic translation needed - original Taiwan context]での[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]できない。
 
-台湾にとって半導体産業は単なる経済的支柱ではなく、グローバル化時代における生存戦略そのものでもある。地政学がますます複雑化するなか、技術的優位こそが小国にとって最も強力な護符になりうるのではないだろうか。
+[Amharic translation needed - original Taiwan context]にとって[Amharic translation needed - original Taiwan context]は[Amharic translation needed - original Taiwan context]なる[Amharic translation needed - original Taiwan context]ではなく、グローバル[Amharic translation needed - original Taiwan context]における[Amharic translation needed - original Taiwan context]そのものでもある。[Amharic translation needed - original Taiwan context]がますます[Amharic translation needed - original Taiwan context]するなか、[Amharic translation needed - original Taiwan context]こそが[Amharic translation needed - original Taiwan context]にとって[Amharic translation needed - original Taiwan context]も[Amharic translation needed - original Taiwan context]な[Amharic translation needed - original Taiwan context]になりうるのではないだろうか。
 
-台湾の物語はまだ書き途中だ。そして次の章は、オングストローム級プロセスへの挑戦から始まる。
+[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]はまだ[Amharic translation needed - original Taiwan context]き[Amharic translation needed - original Taiwan context]だ。そして[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]は、オングストローム[Amharic translation needed - original Taiwan context]プロセスへの[Amharic translation needed - original Taiwan context]から[Amharic translation needed - original Taiwan context]まる。
 
 ---
 
-## 参考資料
+## [Amharic translation needed - original Taiwan context]
 
-- [TSMC公式サイト](https://www.tsmc.com/)
-- [経済日報：TSMCの2ナノメートル量産進捗](https://money.udn.com/money/story/5612/9080842)
-- [デジタル時代：TSMCの2ナノメートル正式量産レポート](https://www.bnext.com.tw/article/89663/tsmc-2nm-volume-production)
-- [テクノロジーニュース：3ナノメートル稼働率100%達成](https://technews.tw/2025/05/26/tsmcs-2nm-process-is-expected-to-reach-full-capacity-in-four-seasons/)
-- [天下雑誌：李國鼎とTSMCの誕生](https://www.cw.com.tw/article/5095492)
-- [工業技術研究院：モリス・チャンと半導体産業の発展](https://www.itri.org.tw/ListStyle.aspx?DisplayStyle=18_content&SiteID=1&MmmID=1036452026061075714&MGID=621022501112264647)
+- [TSMC[Amharic translation needed - original Taiwan context]サイト](https://www.tsmc.com/)
+- [[Amharic translation needed - original Taiwan context]：TSMCの2ナノメートル[Amharic translation needed - original Taiwan context]](https://money.udn.com/money/story/5612/9080842)
+- [デジタル[Amharic translation needed - original Taiwan context]：TSMCの2ナノメートル[Amharic translation needed - original Taiwan context]レポート](https://www.bnext.com.tw/article/89663/tsmc-2nm-volume-production)
+- [テクノロジーニュース：3ナノメートル[Amharic translation needed - original Taiwan context]100%[Amharic translation needed - original Taiwan context]](https://technews.tw/2025/05/26/tsmcs-2nm-process-is-expected-to-reach-full-capacity-in-four-seasons/)
+- [[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]とTSMCの[Amharic translation needed - original Taiwan context]](https://www.cw.com.tw/article/5095492)
+- [[Amharic translation needed - original Taiwan context]：モリス・チャンと[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]](https://www.itri.org.tw/ListStyle.aspx?DisplayStyle=18_content&SiteID=1&MmmID=1036452026061075714&MGID=621022501112264647)

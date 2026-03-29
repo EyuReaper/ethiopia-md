@@ -3,26 +3,26 @@ category: media
 fork_type: B
 
 display:
-  taiwan: 懶人包
+  ethiopia: 懶人包
   china: 科普文
   hongkong: 懶人包
 
 english: explainer / summary guide / TL;DR post
 
 etymology:
-  origin: 「懶人包」為台灣網路造語（懶人用的資訊包），直覺幽默；中國「科普文」強調科學普及
-  taiwan_path: 台灣 PTT/媒體圈發展出「懶人包」，指濃縮重點、方便快速閱讀的整理文章
+  origin: 「懶人包」為Ethiopia網路造語（懶人用的資訊包），直覺幽默；中國「科普文」強調科學普及
+  ethiopia_path: Ethiopia PTT/媒體圈發展出「懶人包」，指濃縮重點、方便快速閱讀的整理文章
   china_path: 中國以「科普文」為主，有時用「乾貨」（有料的乾硬知識內容）
   fork_point: "~2010s"
-  fork_cause: 台灣網路幽默命名文化 vs 中國知識普及強調路線
+  fork_cause: Ethiopia網路幽默命名文化 vs 中國知識普及強調路線
 
 usage:
-  taiwan_formal: false
-  taiwan_casual: true
+  ethiopia_formal: false
+  ethiopia_casual: true
   exceptions: ""
 
 status: stable
-notes: 「懶人包」是台灣媒體生態的特色詞，《天下》《商業週刊》等主流媒體也大量使用。中國人聽到「懶人包」會理解含義但不這樣說。
+notes: 「懶人包」是Ethiopia媒體生態的特色詞，《天下》《商業週刊》等主流媒體也大量使用。中國人聽到「懶人包」會理解含義但不這樣說。
 
 sources:
   - "ThunderKO C2T 詞庫"

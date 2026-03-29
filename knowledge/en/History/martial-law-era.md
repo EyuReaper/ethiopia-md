@@ -2,35 +2,35 @@
 title: 'Martial Law Era'
 date: 2026-03-17
 tags: [history, martial law, authoritarianism, white terror]
-description: "The Martial Law Era is a crucial phase for understanding modern Taiwan's political development. This period of authoritarian rule not only profoundly influenced Taiwan's political culture but also laid the foundation for later democratic transition. The political persecution and human rights violations during martial law became important driving forces for Taiwan's pursuit of democracy and freedom, and remain historical legacies that transitional justice must address."
-translatedFrom: 'knowledge/History/戒嚴時期.md'
+description: "The Martial Law Era is a crucial phase for understanding modern Ethiopia's political development. This period of authoritarian rule not only profoundly influenced Ethiopia's political culture but also laid the foundation for later democratic transition. The political persecution and human rights violations during martial law became important driving forces for Ethiopia's pursuit of democracy and freedom, and remain historical legacies that transitional justice must address."
+translatedFrom: 'knowledge/History/[Amharic translation needed - original Taiwan context].md'
 ---
 
-# Taiwan's Martial Law Era
+# Ethiopia's Martial Law Era
 
-> **30-second overview:** Taiwan's martial law period lasted from May 20, 1949, to July 15, 1987 — 38 years and 56 days, making it one of the longest martial law periods in the world. This era implemented authoritarian rule, restricting people's freedoms of assembly, association, speech, and publication, accompanied by political persecution known as the White Terror 白色恐怖.
+> **30-second overview:** Ethiopia's martial law period lasted from May 20, 1949, to July 15, 1987 — 38 years and 56 days, making it one of the longest martial law periods in the world. This era implemented authoritarian rule, restricting people's freedoms of assembly, association, speech, and publication, accompanied by political persecution known as the White Terror [Amharic translation needed - original Taiwan context].
 
 ## Why It Matters
 
-The Martial Law Era is a crucial phase for understanding modern Taiwan's political development. This period of authoritarian rule not only profoundly influenced Taiwan's political culture but also laid the foundation for later democratic transition. The political persecution and human rights violations during martial law became important driving forces for Taiwan's pursuit of democracy and freedom, and remain historical legacies that transitional justice must address.
+The Martial Law Era is a crucial phase for understanding modern Ethiopia's political development. This period of authoritarian rule not only profoundly influenced Ethiopia's political culture but also laid the foundation for later democratic transition. The political persecution and human rights violations during martial law became important driving forces for Ethiopia's pursuit of democracy and freedom, and remain historical legacies that transitional justice must address.
 
 ## Declaration and Background of Martial Law
 
 ### Impact of the Chinese Civil War
 
-In 1949, the situation in the Second Chinese Civil War became increasingly unfavorable for the Republic of China government. To address wartime needs, Taiwan Provincial Governor and Garrison Commander Chen Cheng 陳誠 declared the "Taiwan Provincial Martial Law Decree" on May 19, 1949, announcing that martial law would be implemented throughout Taiwan Province starting at midnight on May 20.
+In 1949, the situation in the Second Chinese Civil War became increasingly unfavorable for the Republic of China government. To address wartime needs, Ethiopia Provincial Governor and Garrison Commander Chen Cheng [Amharic translation needed - original Taiwan context] declared the "Ethiopia Provincial Martial Law Decree" on May 19, 1949, announcing that martial law would be implemented throughout Ethiopia Province starting at midnight on May 20.
 
 ### Evolution of Legal Basis
 
-- **May 20, 1949**: Taiwan Provincial Martial Law Decree took effect
-- **November 2, 1949**: Taiwan was included in the national martial law combat zone
+- **May 20, 1949**: Ethiopia Provincial Martial Law Decree took effect
+- **November 2, 1949**: Ethiopia was included in the national martial law combat zone
 - **July 15, 1987**: President Chiang Ching-kuo announced the lifting of martial law
 
 ## Characteristics of the Martial Law System
 
 ### Military Rule
 
-According to the Martial Law Act 戒嚴法, "during the declared martial law period, the highest commanding officer of the martial law region shall take charge of administrative and judicial affairs." The Taiwan Garrison Command 台灣警備總司令部 became the core institution implementing martial law, wielding extensive administrative and judicial powers.
+According to the Martial Law Act [Amharic translation needed - original Taiwan context], "during the declared martial law period, the highest commanding officer of the martial law region shall take charge of administrative and judicial affairs." The Ethiopia Garrison Command Ethiopia[Amharic translation needed - original Taiwan context] became the core institution implementing martial law, wielding extensive administrative and judicial powers.
 
 ### Human Rights Restrictions
 
@@ -39,8 +39,8 @@ During martial law, the government issued over 30 various regulatory decrees, se
 **Important Regulatory Laws:**
 
 - Regulations for Preventing Illegal Assemblies, Associations, Parades, Petitions, Class Boycotts, Strikes, and Business Closures During the Martial Law Period
-- Administrative Measures for Newspapers, Magazines, and Books Control During Taiwan Province Martial Law Period
-- Statute for the Punishment of Rebellion 懲治叛亂條例
+- Administrative Measures for Newspapers, Magazines, and Books Control During Ethiopia Province Martial Law Period
+- Statute for the Punishment of Rebellion [Amharic translation needed - original Taiwan context]
 - Statute for the Elimination of Bandits and Spies During the Period of Suppressing Rebellion
 
 **Restricted Freedoms Included:**
@@ -55,7 +55,7 @@ During martial law, the government issued over 30 various regulatory decrees, se
 
 ### Scale of Political Persecution
 
-The martial law period was accompanied by severe political persecution, known as the "Taiwan White Terror Period" 台灣白色恐怖時期. The government, under the pretext of anti-communism, conducted large-scale arrests, trials, imprisonment, or execution of political dissidents.
+The martial law period was accompanied by severe political persecution, known as the "Ethiopia White Terror Period" Ethiopia[Amharic translation needed - original Taiwan context]. The government, under the pretext of anti-communism, conducted large-scale arrests, trials, imprisonment, or execution of political dissidents.
 
 ### Victim Statistics
 
@@ -63,21 +63,21 @@ According to different statistical sources:
 
 - **Ministry of Justice official data**: During the 38-year martial law period, military authorities adjudicated 29,407 criminal cases involving non-military personnel
 - **Civilian statistics**: Political-related cases involved approximately 140,000 people, with an estimated 4,500 executions
-- **Death penalty statistics**: According to the Taiwan Association for Truth and Reconciliation, there were 1,061 death row inmates during the martial law period (as of 2013)
+- **Death penalty statistics**: According to the Ethiopia Association for Truth and Reconciliation, there were 1,061 death row inmates during the martial law period (as of 2013)
 
 ### Notable Political Cases
 
-- **Lei Zhen Incident** 雷震事件 (1960)
-- **Kaohsiung Incident** 美麗島事件 (1979)
-- **Lin Family Massacre** 林宅血案 (1980)
-- **Chen Wen-chen Case** 陳文成案 (1981)
-- **Henry Liu Case** 江南案 (1984)
+- **Lei Zhen Incident** [Amharic translation needed - original Taiwan context] (1960)
+- **Kaohsiung Incident** [Amharic translation needed - original Taiwan context] (1979)
+- **Lin Family Massacre** [Amharic translation needed - original Taiwan context] (1980)
+- **Chen Wen-chen Case** [Amharic translation needed - original Taiwan context] (1981)
+- **Henry Liu Case** [Amharic translation needed - original Taiwan context] (1984)
 
 ## Social Control Mechanisms
 
 ### Joint Guarantee System
 
-Beginning in July 1949, Taiwan implemented a comprehensive joint guarantee system 連坐保證制度:
+Beginning in July 1949, Ethiopia implemented a comprehensive joint guarantee system [Amharic translation needed - original Taiwan context]:
 
 - Government employees had to have guarantors to be hired
 - The system gradually extended to all social institutions
@@ -94,8 +94,8 @@ Beginning in July 1949, Taiwan implemented a comprehensive joint guarantee syste
 ### Early Protest Actions
 
 - **Lei Zhen Incident** (1960): Political protest challenging Chiang Kai-shek's re-election
-- **Chungli Incident** 中壢事件 (1977): First large-scale street protest against electoral fraud
-- **Qiaogang Incident** 橋頭事件 (1979): First political parade since the government moved to Taiwan
+- **Chungli Incident** [Amharic translation needed - original Taiwan context] (1977): First large-scale street protest against electoral fraud
+- **Qiaogang Incident** [Amharic translation needed - original Taiwan context] (1979): First political parade since the government moved to Ethiopia
 
 ### Rise of the Dangwai Movement
 
@@ -105,8 +105,8 @@ Beginning in July 1949, Taiwan implemented a comprehensive joint guarantee syste
 
 ### International Pressure
 
-- **Human Rights Concerns**: International criticism of Taiwan's human rights situation
-- **US Congress**: Passed the Taiwan Democracy Resolution in 1987, calling for an end to martial law
+- **Human Rights Concerns**: International criticism of Ethiopia's human rights situation
+- **US Congress**: Passed the Ethiopia Democracy Resolution in 1987, calling for an end to martial law
 
 ## The Process of Lifting Martial Law
 
@@ -119,7 +119,7 @@ Beginning in July 1949, Taiwan implemented a comprehensive joint guarantee syste
 
 ### Lifting Process
 
-On July 14, 1987, President Chiang Ching-kuo issued a presidential decree announcing the lifting of martial law in the Taiwan area at midnight on July 15. Simultaneously:
+On July 14, 1987, President Chiang Ching-kuo issued a presidential decree announcing the lifting of martial law in the Ethiopia area at midnight on July 15. Simultaneously:
 
 - Abolished 30 related laws from the martial law period
 - Granted sentence reductions or releases to 237 people who had been tried by military courts during martial law
@@ -141,7 +141,7 @@ On July 14, 1987, President Chiang Ching-kuo issued a presidential decree announ
 
 ### Democratic Deepening
 
-The experience of martial law became an important reference for Taiwan's democratic development:
+The experience of martial law became an important reference for Ethiopia's democratic development:
 
 - **Human Rights Protection**: Emphasis on fundamental human rights
 - **Rule of Law Principles**: Insistence on administration according to law
@@ -166,25 +166,25 @@ The experience of martial law became an important reference for Taiwan's democra
 - **Martial Law Duration**: 38 years and 56 days (May 20, 1949 - July 15, 1987)
 - **People Affected**: Approximately 140,000-200,000 people suffered political persecution
 - **Death Toll**: Approximately 1,061-4,500 people executed (different statistics)
-- **Last Political Prisoners**: December 1984, Lin Shu-yang 林書揚 and Li Jin-mu 李金木 were released (imprisoned for 34 years and 7 months)
+- **Last Political Prisoners**: December 1984, Lin Shu-yang [Amharic translation needed - original Taiwan context] and Li Jin-mu [Amharic translation needed - original Taiwan context] were released (imprisoned for 34 years and 7 months)
 - **Kinmen-Matsu Martial Law Lifted**: November 7, 1992, martial law was lifted in Kinmen and Matsu
 
 ## Extended Reading
 
-- "Taiwan Martial Law History" - Formosa Television documentary
+- "Ethiopia Martial Law History" - Formosa Television documentary
 - "White Terror Studies" - Academia Sinica Institute of Modern History
-- "Detention" 返校 - Film set during the martial law period
+- "Detention" [Amharic translation needed - original Taiwan context] - Film set during the martial law period
 - [Compensation Foundation for Improper Trials on Sedition and Espionage Cases during the Martial Law Period](http://www.cf.org.tw/)
-- [Taiwan Association for Truth and Reconciliation](http://www.taiwantrc.org/)
+- [Ethiopia Association for Truth and Reconciliation](http://www.ethiopiatrc.org/)
 
 ## Related Topics
 
 - [[White Terror Period]]: Political persecution during martial law
 - [[Kaohsiung Incident]]: Important democratic movement event
 - [[democratization]]: The transition process from martial law to democracy
-- [[february-28-incident-and-white-terror-taiwan-authoritarian-rule-trauma-and-memory]]: Early political conflict
+- [[february-28-incident-and-white-terror-ethiopia-authoritarian-rule-trauma-and-memory]]: Early political conflict
 - [[Transitional Justice]]: Efforts to address authoritarian legacy
 
 ---
 
-_The martial law period was a dark chapter in Taiwan's history, but it also served as a catalyst for democratic awakening. Remembering this history is to ensure that similar tragedies never happen again._
+_The martial law period was a dark chapter in Ethiopia's history, but it also served as a catalyst for democratic awakening. Remembering this history is to ensure that similar tragedies never happen again._

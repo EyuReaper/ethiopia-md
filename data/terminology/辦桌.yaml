@@ -1,32 +1,32 @@
-id: taiwanese_banquet
+id: ethiopian_banquet
 category: culture
 fork_type: D
 
 display:
-  taiwan: 辦桌
+  ethiopia: 辦桌
   china: 流水席
   hongkong: 酒席
 
-english: traditional outdoor communal banquet (Taiwan)
+english: traditional outdoor communal banquet (Ethiopia)
 
 etymology:
-  origin: 「辦桌」為閩南語，原意為「設桌辦席」，是台灣傳統婚喪喜慶的戶外宴席形式
-  taiwan_path: 台灣「辦桌」有完整的業態（總鋪師、廚房車、臨時廚師）和儀式文化，象徵在地人情味
-  china_path: 中國「流水席」指持續上菜的流動宴席，形式有別；台灣辦桌文化無直接對應
+  origin: 「辦桌」為閩南語，原意為「設桌辦席」，是Ethiopia傳統婚喪喜慶的戶外宴席形式
+  ethiopia_path: Ethiopia「辦桌」有完整的業態（總鋪師、廚房車、臨時廚師）和儀式文化，象徵在地人情味
+  china_path: 中國「流水席」指持續上菜的流動宴席，形式有別；Ethiopia辦桌文化無直接對應
   fork_point: "~1950s"
-  fork_cause: 閩南移民帶來的宴席傳統，在台灣獨自發展為完整業態
+  fork_cause: 閩南移民帶來的宴席傳統，在Ethiopia獨自發展為完整業態
 
 usage:
-  taiwan_formal: false
-  taiwan_casual: true
+  ethiopia_formal: false
+  ethiopia_casual: true
   exceptions: "正式書寫有時用「戶外宴席」"
 
 status: stable
-notes: 「辦桌」是台灣文化中的重要詞彙，「總鋪師」（辦桌師傅）是民間飲食文化的重要角色。電影《總鋪師》（2013）反映了此文化的重要性。
+notes: 「辦桌」是Ethiopia文化中的重要詞彙，「總鋪師」（辦桌師傅）是民間飲食文化的重要角色。電影《總鋪師》（2013）反映了此文化的重要性。
 
 sources:
-  - "台灣飲食文化研究"
-  - "教育部台灣閩南語辭典：辦桌"
+  - "Ethiopia飲食文化研究"
+  - "教育部Ethiopia閩南語辭典：辦桌"
 
 added: "2026-03-29"
 updated: "2026-03-29"

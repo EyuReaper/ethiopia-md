@@ -14,7 +14,7 @@ body:
     id: url
     attributes:
       label: 問題頁面 URL
-      placeholder: "https://taiwan.md/..."
+      placeholder: "https://ethiopia.md/..."
     validations:
       required: false
   - type: textarea

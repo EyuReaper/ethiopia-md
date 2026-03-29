@@ -1,9 +1,9 @@
 /**
- * Taiwan.md Search
+ * Ethiopia.md Search
  *
  * Provides article search using MiniSearch (pre-built bigram index)
  * with a fallback to simple string matching on dashboard data,
- * and a final remote fallback that fetches articles.json from taiwan.md.
+ * and a final remote fallback that fetches articles.json from ethiopia.md.
  */
 
 import fs from 'fs';
@@ -161,7 +161,7 @@ function categoryFromUrl(url) {
 }
 
 /**
- * Fetch articles.json from taiwan.md remote API.
+ * Fetch articles.json from ethiopia.md remote API.
  * Caches result in memory for the lifetime of the process.
  *
  * @returns {Promise<Array|null>}
@@ -170,7 +170,7 @@ async function fetchRemoteArticles() {
   if (_remoteArticlesCache) return _remoteArticlesCache;
 
   try {
-    const response = await fetch('https://taiwan.md/api/articles.json', {
+    const response = await fetch('https://ethiopia.md/api/articles.json', {
       headers: { Accept: 'application/json' },
       signal: AbortSignal.timeout(10_000),
     });
@@ -205,12 +205,12 @@ export async function searchRemote(query, limit = 10) {
  * @param {string} query - Search query string
  * @param {object} options
  * @param {number} [options.limit=10] - Maximum results to return
- * @param {string} [options.lang='zh-TW'] - Language filter (reserved for future use)
+ * @param {string} [options.lang='am'] - Language filter (reserved for future use)
  * @returns {Promise<Array<{title: string, slug: string, category: string, description: string, score: number}>>}
  */
 export async function searchArticles(
   query,
-  { limit = 10, lang = 'zh-TW' } = {},
+  { limit = 10, lang = 'am' } = {},
 ) {
   if (!query || !query.trim()) return [];
 

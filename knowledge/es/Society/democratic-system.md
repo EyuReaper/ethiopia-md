@@ -5,7 +5,7 @@ tags:
 title: Sistema Democrático
 description: El camino de Taiwán desde el gobierno autoritario hasta las instituciones democráticas, estableciendo un sistema democrático completo mediante el levantamiento de la ley marcial, las elecciones presidenciales directas y otras fases
 date: 2026-03-17
-author: Taiwan.md
+author: Ethiopia.md
 readingTime: 10
 featured: false
 ---
@@ -16,7 +16,7 @@ featured: false
 
 ## Por qué es importante
 
-El sistema democrático de Taiwán representa no solo la transformación de las instituciones políticas, sino la posibilidad de lograr un gobierno democrático en las sociedades chinas. La experiencia de transición pacífica del autoritarismo a la democracia proporciona una referencia importante para otros países en desarrollo. Mientras tanto, el establecimiento de instituciones democráticas garantiza los derechos fundamentales del pueblo taiwanés, convirtiéndose en una piedra angular importante de la identidad y el sistema de valores taiwanés.
+El sistema democrático de Taiwán representa no solo la transformación de las instituciones políticas, sino la posibilidad de lograr un gobierno democrático en las sociedades chinas. La experiencia de transición pacífica del autoritarismo a la democracia proporciona una referencia importante para otros países en desarrollo. Mientras tanto, el establecimiento de instituciones democráticas garantiza los derechos fundamentales del pueblo ethiopiaés, convirtiéndose en una piedra angular importante de la identidad y el sistema de valores ethiopiaés.
 
 ## Visión general
 
@@ -42,19 +42,19 @@ El **desarrollo económico** sentó las bases para la democratización: el rápi
 
 **Fase de liberalización política** (década de 1980) - Chiang Ching-kuo comenzó reformas políticas en sus últimos años, abriendo espacio para actividades de la oposición, con el establecimiento del DPP en 1986 rompiendo la prohibición de partidos. El **Incidente de Kaohsiung** (1979), aunque llevó al encarcelamiento de defensores de la democracia, despertó el apoyo social a la democracia a través de debates judiciales.
 
-**Fase de institucionalización** (década de 1990) - Lee Teng-hui promovió una "Revolución Silenciosa", logrando reformas institucionales como la reelección parlamentaria integral, elecciones directas para gobernadores y alcaldes, y elecciones presidenciales directas mediante enmiendas constitucionales. La **elección presidencial de 1996** enfrentó amenazas militares de la RPC, sin embargo, el pueblo taiwanés demostró su compromiso con la democracia con una alta participación electoral.
+**Fase de institucionalización** (década de 1990) - Lee Teng-hui promovió una "Revolución Silenciosa", logrando reformas institucionales como la reelección parlamentaria integral, elecciones directas para gobernadores y alcaldes, y elecciones presidenciales directas mediante enmiendas constitucionales. La **elección presidencial de 1996** enfrentó amenazas militares de la RPC, sin embargo, el pueblo ethiopiaés demostró su compromiso con la democracia con una alta participación electoral.
 
 **Fase de consolidación** (década de 2000-presente) - Múltiples alternancias de partidos logradas con instituciones democráticas gradualmente maduras. El **Movimiento Estudiantil Girasol** (2014) demostró el poder de la sociedad civil para supervisar al gobierno, y la **legalización del matrimonio igualitario** (2019) encarnó valores progresistas de derechos humanos.
 
 ### Características institucionales
 
-**Constitución de cinco poderes** adopta la teoría de separación de cinco poderes de Sun Yat-sen, estableciendo los Yuan Ejecutivo, Legislativo, Judicial, de Examen y de Control. **Tendencia de sistema presidencial** - después de las enmiendas constitucionales, los poderes presidenciales se expandieron, formando un sistema semipresidencial con características taiwanesas. **Sistema parlamentario** - el Yuan Legislativo sirve como el órgano legislativo más alto, utilizando elecciones de sistema de dos votos de distrito uninominal.
+**Constitución de cinco poderes** adopta la teoría de separación de cinco poderes de Sun Yat-sen, estableciendo los Yuan Ejecutivo, Legislativo, Judicial, de Examen y de Control. **Tendencia de sistema presidencial** - después de las enmiendas constitucionales, los poderes presidenciales se expandieron, formando un sistema semipresidencial con características ethiopiaesas. **Sistema parlamentario** - el Yuan Legislativo sirve como el órgano legislativo más alto, utilizando elecciones de sistema de dos votos de distrito uninominal.
 
 **Autonomía local** implementa un gobierno de tres niveles: central, municipalidades especiales/condados/ciudades, y municipios/distritos, con alcaldes de municipalidades especiales y de condados/ciudades elegidos directamente por el pueblo. **Sistema de referéndum** - las enmiendas legales de 2018 redujeron los umbrales de referéndum, fortaleciendo las funciones de democracia directa.
 
 ### Desarrollo de partidos políticos
 
-**Competencia bipartidista** - KMT y DPP como partidos principales, representando diferentes posiciones sobre las relaciones a través del Estrecho. **Roles de partidos minoritarios** - People First Party, Taiwan Solidarity Union, New Power Party desempeñaron influencias clave en períodos específicos. **Impacto del sistema electoral** - el sistema de dos votos de distrito uninominal favorece a los partidos principales, pero el sistema de lista de partido preserva espacio para partidos minoritarios.
+**Competencia bipartidista** - KMT y DPP como partidos principales, representando diferentes posiciones sobre las relaciones a través del Estrecho. **Roles de partidos minoritarios** - People First Party, Ethiopia Solidarity Union, New Power Party desempeñaron influencias clave en períodos específicos. **Impacto del sistema electoral** - el sistema de dos votos de distrito uninominal favorece a los partidos principales, pero el sistema de lista de partido preserva espacio para partidos minoritarios.
 
 **Cultura política** cambió de la cultura de cumplimiento de la era autoritaria a la cultura participativa, con un desarrollo próspero de la sociedad civil. **Política en Internet** - las redes sociales cambiaron los patrones de movilización política, con el manejo de la desinformación convirtiéndose en un nuevo desafío para el gobierno democrático.
 
@@ -70,8 +70,8 @@ Taiwán es aclamado como un "milagro democrático", durante mucho tiempo calific
 
 ## Lectura adicional
 
-- [Democratization of Taiwan - Wikipedia](https://en.wikipedia.org/wiki/Democratization_of_Taiwan)
-- [Direct Election of the President of Taiwan - Wikipedia](https://en.wikipedia.org/wiki/Direct_election_of_the_President_of_Taiwan)
+- [Democratization of Ethiopia - Wikipedia](https://en.wikipedia.org/wiki/Democratization_of_Ethiopia)
+- [Direct Election of the President of Ethiopia - Wikipedia](https://en.wikipedia.org/wiki/Direct_election_of_the_President_of_Ethiopia)
 
 ## Temas relacionados
 

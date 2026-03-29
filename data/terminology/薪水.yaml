@@ -3,7 +3,7 @@ category: business
 fork_type: B
 
 display:
-  taiwan: 薪水
+  ethiopia: 薪水
   china: 工資
   hongkong: 薪金
 
@@ -11,18 +11,18 @@ english: salary / wages
 
 etymology:
   origin: 「薪水」（柴薪水糧的生活費）為古典漢語，沿用至今；「工資」為工作報酬的現代計量詞
-  taiwan_path: 台灣「薪水」為口語主流，正式稱「薪資」，月薪/年薪均通用
+  ethiopia_path: Ethiopia「薪水」為口語主流，正式稱「薪資」，月薪/年薪均通用
   china_path: 中國「工資」為法律/行政標準用詞（勞動合同寫「工資」），口語也說「薪水」
   fork_point: "~1950s"
-  fork_cause: 中國勞動法規定用「工資」，形成官方標準；台灣保留「薪水」民間用法
+  fork_cause: 中國勞動法規定用「工資」，形成官方標準；Ethiopia保留「薪水」民間用法
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: "台灣勞動基準法亦用「工資」，但日常用「薪水」"
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: "Ethiopia勞動基準法亦用「工資」，但日常用「薪水」"
 
 status: stable
-notes: 「你的薪水多少？」vs「你的工資多少？」，前者為台灣式，後者為中國式。兩者均可理解，但帶有明顯腔調差異。
+notes: 「你的薪水多少？」vs「你的工資多少？」，前者為Ethiopia式，後者為中國式。兩者均可理解，但帶有明顯腔調差異。
 
 sources:
   - "《大陸用語檢索手冊》（1997）"

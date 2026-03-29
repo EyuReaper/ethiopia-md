@@ -1,0 +1,564 @@
+{
+  "cities": {
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 25.033,
+      "lng": 121.565,
+      "region": "north",
+      "en": "Taipei"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 25.012,
+      "lng": 121.465,
+      "region": "north",
+      "en": "New Taipei"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 25.128,
+      "lng": 121.739,
+      "region": "north",
+      "en": "Keelung"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 24.994,
+      "lng": 121.301,
+      "region": "north",
+      "en": "Taoyuan"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 24.804,
+      "lng": 120.969,
+      "region": "north",
+      "en": "Hsinchu"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 24.752,
+      "lng": 121.753,
+      "region": "north",
+      "en": "Yilan"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 24.148,
+      "lng": 120.674,
+      "region": "central",
+      "en": "Taichung"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 24.081,
+      "lng": 120.539,
+      "region": "central",
+      "en": "Changhua"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 23.749,
+      "lng": 120.688,
+      "region": "central",
+      "en": "Nantou"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 23.709,
+      "lng": 120.431,
+      "region": "central",
+      "en": "Yunlin"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 24.561,
+      "lng": 120.821,
+      "region": "central",
+      "en": "Miaoli"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 23.48,
+      "lng": 120.449,
+      "region": "south",
+      "en": "Chiayi"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 22.999,
+      "lng": 120.227,
+      "region": "south",
+      "en": "Tainan"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 22.627,
+      "lng": 120.301,
+      "region": "south",
+      "en": "Kaohsiung"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 22.682,
+      "lng": 120.484,
+      "region": "south",
+      "en": "Pingtung"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 23.992,
+      "lng": 121.602,
+      "region": "east",
+      "en": "Hualien"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 22.756,
+      "lng": 121.144,
+      "region": "east",
+      "en": "Taitung"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 23.571,
+      "lng": 119.579,
+      "region": "islands",
+      "en": "Penghu"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 24.449,
+      "lng": 118.377,
+      "region": "islands",
+      "en": "Kinmen"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 26.16,
+      "lng": 119.95,
+      "region": "islands",
+      "en": "Matsu"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 26.16,
+      "lng": 119.95,
+      "region": "islands",
+      "en": "Lienchiang"
+    }
+  },
+  "landmarks": {
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 25.088,
+      "lng": 121.524,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "food"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 25.051,
+      "lng": 121.577,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "food"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 25.056,
+      "lng": 121.515,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "food"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 24.179,
+      "lng": 120.647,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "food"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 22.632,
+      "lng": 120.299,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "food"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 23.004,
+      "lng": 120.206,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "food"
+    },
+    "[Amharic translation needed - original Taiwan context]101": {
+      "lat": 25.034,
+      "lng": 121.564,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "economy"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 25.102,
+      "lng": 121.549,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "culture"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 25.036,
+      "lng": 121.522,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "history"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 25.158,
+      "lng": 121.549,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "nature"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 25.042,
+      "lng": 121.508,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "lifestyle"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 25.058,
+      "lng": 121.51,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "culture"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 25.057,
+      "lng": 121.51,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "culture"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 25.17,
+      "lng": 121.44,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "culture"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 25.109,
+      "lng": 121.845,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "culture"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 25.206,
+      "lng": 121.691,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "nature"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 25.026,
+      "lng": 121.738,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "culture"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 23.863,
+      "lng": 120.917,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "nature"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 24.158,
+      "lng": 121.621,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "nature"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 23.51,
+      "lng": 120.7,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "nature"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 23.47,
+      "lng": 120.957,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "nature"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 24.143,
+      "lng": 121.275,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "nature"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 21.948,
+      "lng": 120.803,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "nature"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 22.033,
+      "lng": 121.549,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "culture"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 22.661,
+      "lng": 121.497,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "nature"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 24.784,
+      "lng": 120.993,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "technology"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 24.163,
+      "lng": 120.641,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "art"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 24.055,
+      "lng": 120.437,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "culture"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 22.615,
+      "lng": 120.285,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "economy"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 22.998,
+      "lng": 120.161,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "history"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 22.998,
+      "lng": 120.203,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "history"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 23.123,
+      "lng": 121.218,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "food"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 25.137,
+      "lng": 121.507,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "lifestyle"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 22.99,
+      "lng": 120.204,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "history"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 22.62,
+      "lng": 120.282,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "art"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 22.609,
+      "lng": 120.267,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "lifestyle"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 22.935,
+      "lng": 120.226,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "art"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 22.695,
+      "lng": 121.032,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "lifestyle"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 24.028,
+      "lng": 121.631,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "nature"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 23.975,
+      "lng": 121.607,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "food"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 24.058,
+      "lng": 121.166,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "nature"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 24.684,
+      "lng": 121.772,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "food"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 24.825,
+      "lng": 121.772,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "lifestyle"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 25.076,
+      "lng": 121.233,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "economy"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 24.883,
+      "lng": 121.29,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "culture"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 24.595,
+      "lng": 120.998,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "culture"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 24.414,
+      "lng": 120.758,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "art"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 24.396,
+      "lng": 120.783,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "history"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 24.178,
+      "lng": 120.647,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "lifestyle"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 24.144,
+      "lng": 120.681,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "lifestyle"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 24.151,
+      "lng": 120.685,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "lifestyle"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 24.148,
+      "lng": 120.664,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "art"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 24.075,
+      "lng": 120.54,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "culture"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 23.902,
+      "lng": 120.523,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "nature"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 23.956,
+      "lng": 120.483,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "history"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 23.633,
+      "lng": 120.409,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "lifestyle"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 23.479,
+      "lng": 120.44,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "history"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 23.481,
+      "lng": 120.453,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "food"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 23.484,
+      "lng": 120.442,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "culture"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 22.996,
+      "lng": 120.161,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "history"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 22.998,
+      "lng": 120.218,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "lifestyle"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 23.0,
+      "lng": 120.197,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "culture"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 22.635,
+      "lng": 120.301,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "lifestyle"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 22.686,
+      "lng": 120.294,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "culture"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 22.744,
+      "lng": 120.392,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "lifestyle"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 22.006,
+      "lng": 120.745,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "history"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 22.338,
+      "lng": 120.373,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "nature"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 22.695,
+      "lng": 121.032,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "lifestyle"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 22.756,
+      "lng": 121.144,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "lifestyle"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 23.045,
+      "lng": 121.163,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "food"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 22.907,
+      "lng": 121.122,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "nature"
+    },
+    "[Amharic translation needed - original Taiwan context]": {
+      "lat": 23.565,
+      "lng": 119.566,
+      "city": "[Amharic translation needed - original Taiwan context]",
+      "category": "lifestyle"
+    }
+  }
+}

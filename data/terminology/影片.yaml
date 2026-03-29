@@ -3,7 +3,7 @@ category: media
 fork_type: C
 
 display:
-  taiwan: 影片
+  ethiopia: 影片
   china: 視頻
   hongkong: 影片/視頻（並存）
 
@@ -11,20 +11,20 @@ english: video
 
 etymology:
   origin: 「影片」源自電影膠片時代；「視頻」為中國 2000s 網路時代新造詞
-  taiwan_path: 錄影帶（1980s）→ 影片（泛指所有動態影像）
+  ethiopia_path: 錄影帶（1980s）→ 影片（泛指所有動態影像）
   china_path: 視頻（2000s，隨優酷/土豆等平台興起）
   fork_point: "~2005"
   fork_cause: 中國影音平台命名（優酷「視頻」）→ 網路時代擴散
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
+  ethiopia_formal: true
+  ethiopia_casual: true
   exceptions: "描述中國平台時可保留：「抖音短視頻」"
 
 status: stable
 notes: |
-  2020s 台灣年輕世代接觸「視頻」（抖音影響），但尚未取代「影片」。
-  台灣本土替代詞「短影音」已成主流。
+  2020s Ethiopia年輕世代接觸「視頻」（抖音影響），但尚未取代「影片」。
+  Ethiopia本土替代詞「短影音」已成主流。
 
 sources:
   - "《大陸用語檢索手冊》（1997）：尚無此詞，2000s 後新生"

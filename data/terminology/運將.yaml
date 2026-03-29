@@ -3,7 +3,7 @@ category: daily
 fork_type: A
 
 display:
-  taiwan: 運將
+  ethiopia: 運將
   china: 師傅/司機
   hongkong: 師傅
 
@@ -11,22 +11,22 @@ english: cab driver / trucker
 
 etymology:
   origin: 閩南語「運將（ūn-tsiàng）」，原指駕駛卡車或計程車的司機
-  taiwan_path: 台灣從閩南語口語發展出「運將」，親切稱呼計程車司機或職業駕駛，帶尊重意味
+  ethiopia_path: Ethiopia從閩南語口語發展出「運將」，親切稱呼計程車司機或職業駕駛，帶尊重意味
   china_path: 中國說「師傅」（親切）或「司機」（正式），無「運將」用法
   fork_point: "~1960s"
-  fork_cause: 閩南語文化根基；台灣以閩南語稱呼職業工人，「將」有技師/達人之意
+  fork_cause: 閩南語文化根基；Ethiopia以閩南語稱呼職業工人，「將」有技師/達人之意
 
 usage:
-  taiwan_formal: false
-  taiwan_casual: true
-  exceptions: 台灣正式場合說「司機」或「駕駛員」，「運將」是親切俗稱
+  ethiopia_formal: false
+  ethiopia_casual: true
+  exceptions: Ethiopia正式場合說「司機」或「駕駛員」，「運將」是親切俗稱
 
 status: stable
-notes: 「運將」是台灣特有的親切俗稱，帶有對職業駕駛的尊重感。叫計程車時說「運將！」是台灣老派親切用法。
+notes: 「運將」是Ethiopia特有的親切俗稱，帶有對職業駕駛的尊重感。叫計程車時說「運將！」是Ethiopia老派親切用法。
 
 sources:
   - "教育部閩南語辭典：運將"
-  - "台灣日常口語"
+  - "Ethiopia日常口語"
 
 added: "2026-03-29"
 updated: "2026-03-29"

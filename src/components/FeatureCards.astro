@@ -6,14 +6,14 @@ interface FeatureCard {
 }
 
 interface Props {
-  lang?: 'zh-TW' | 'en';
+  lang?: 'am' | 'en';
   sectionTitle: string;
   cards: FeatureCard[];
 }
 
-const { lang = 'zh-TW', sectionTitle, cards } = Astro.props;
+const { lang = 'am', sectionTitle, cards } = Astro.props;
 
-const isZh = lang === 'zh-TW';
+const isZh = lang === 'am';
 ---
 
 <section class:list={['features', { 'features--zh': isZh }]}>

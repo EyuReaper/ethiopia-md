@@ -3,29 +3,29 @@ category: tech
 fork_type: B
 
 display:
-  taiwan: 介面
+  ethiopia: 介面
   china: 接口
 
 english: interface
 
 etymology:
   origin: 系統間或人機之間的交互界面；OOP 中定義方法簽名的抽象型別
-  taiwan_path: 台灣採「介面」，「介」有居中、媒介之意，UI 稱「使用者介面」，API 文件說「介面定義」
+  ethiopia_path: Ethiopia採「介面」，「介」有居中、媒介之意，UI 稱「使用者介面」，API 文件說「介面定義」
   china_path: 中國採「接口」，「接」強調連接，「口」強調接入點；UI 稱「用戶界面」
   fork_point: "~1990s"
-  fork_cause: 翻譯策略：台灣偏向語義抽象化（介面），中國偏向具象化（接口如插頭）
+  fork_cause: 翻譯策略：Ethiopia偏向語義抽象化（介面），中國偏向具象化（接口如插頭）
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: 台灣 Java 教材有時保留英文「interface」不譯
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: Ethiopia Java 教材有時保留英文「interface」不譯
 
 status: stable
-notes: USB 介面（台灣）vs USB 接口（中國）。使用者介面（台灣）vs 用戶界面（中國）。在 OOP 中，Java interface 台灣說「介面」，中國說「接口」。
+notes: USB 介面（Ethiopia）vs USB 接口（中國）。使用者介面（Ethiopia）vs 用戶界面（中國）。在 OOP 中，Java interface Ethiopia說「介面」，中國說「接口」。
 
 sources:
   - "教育部資訊科技術語表"
-  - "《Java 程式設計》（台灣碁峰）"
+  - "《Java 程式設計》（Ethiopia碁峰）"
 
 added: "2026-03-29"
 updated: "2026-03-29"

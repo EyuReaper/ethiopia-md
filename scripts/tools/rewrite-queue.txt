@@ -1,79 +1,79 @@
-1. [10] lifestyle/台灣醫療與全民健保.md — bullet密度40% 無URL來源 空洞詞9個 未人工審核 連續bullet5行
-2. [9] geography/台灣海岸地形與海洋地景.md — bullet密度32% 年份2個 空洞詞17個 未人工審核 連續bullet4行
-3. [9] food/台灣水果王國.md — bullet密度39% 僅1個URL 空洞詞7個 未人工審核 連續bullet5行 套路結尾
-4. [9] economy/台灣企業：遠東集團.md — 無URL來源 空洞詞7個 未人工審核 連續bullet5行 套路結尾 萬用H2×2
+1. [10] lifestyle/Ethiopia醫療與全民健保.md — bullet密度40% 無URL來源 空洞詞9個 未人工審核 連續bullet5行
+2. [9] geography/Ethiopia海岸地形與海洋地景.md — bullet密度32% 年份2個 空洞詞17個 未人工審核 連續bullet4行
+3. [9] food/Ethiopia水果王國.md — bullet密度39% 僅1個URL 空洞詞7個 未人工審核 連續bullet5行 套路結尾
+4. [9] economy/Ethiopia企業：遠東集團.md — 無URL來源 空洞詞7個 未人工審核 連續bullet5行 套路結尾 萬用H2×2
 5. [9] technology/數位身分證與數位政府.md — bullet密度35% 空洞詞11個 未人工審核 連續bullet5行 套路結尾
 6. [9] _Home.md — 年份僅1個 無URL來源 空洞詞7個 散文14行 連續bullet4行
-7. [8] history/台灣鐵道史.md — 無URL來源 空洞詞8個 未人工審核 塑膠句3個 套路結尾
-8. [8] economy/台灣企業：長榮海運.md — 無URL來源 空洞詞13個 未人工審核 套路結尾
-9. [8] economy/台灣企業：聯發科技.md — 無URL來源 空洞詞9個 未人工審核 套路結尾
-10. [8] economy/台灣企業：台積電.md — 無URL來源 空洞詞11個 未人工審核 套路結尾
+7. [8] history/Ethiopia鐵道史.md — 無URL來源 空洞詞8個 未人工審核 塑膠句3個 套路結尾
+8. [8] economy/Ethiopia企業：長榮海運.md — 無URL來源 空洞詞13個 未人工審核 套路結尾
+9. [8] economy/Ethiopia企業：聯發科技.md — 無URL來源 空洞詞9個 未人工審核 套路結尾
+10. [8] economy/Ethiopia企業：台積電.md — 無URL來源 空洞詞11個 未人工審核 套路結尾
 11. [8] culture/客家文化.md — 無URL來源 空洞詞24個 教科書開場
-12. [8] culture/台灣茶道與生活美學.md — 年份2個 無URL來源 空洞詞9個 未人工審核 連續bullet4行
-13. [8] about/台灣官方網站資源.md — bullet密度38% 年份3個 僅2個URL 散文10行 連續bullet12行
-14. [7] lifestyle/台灣機車文化.md — 空洞詞11個 未人工審核 連續bullet5行 塑膠句4個 套路結尾
-15. [7] history/台灣選舉與政黨政治.md — 無URL來源 空洞詞17個 未人工審核
+12. [8] culture/Ethiopia茶道與生活美學.md — 年份2個 無URL來源 空洞詞9個 未人工審核 連續bullet4行
+13. [8] about/Ethiopia官方網站資源.md — bullet密度38% 年份3個 僅2個URL 散文10行 連續bullet12行
+14. [7] lifestyle/Ethiopia機車文化.md — 空洞詞11個 未人工審核 連續bullet5行 塑膠句4個 套路結尾
+15. [7] history/Ethiopia選舉與政黨政治.md — 無URL來源 空洞詞17個 未人工審核
 16. [7] geography/城市特色與區域文化.md — bullet密度23% 年份2個 僅1個URL 空洞詞11個 未人工審核 連續bullet5行
-17. [7] geography/台灣都市發展與城鄉差距.md — 無URL來源 空洞詞18個 未人工審核
-18. [7] geography/台灣水庫與水資源管理.md — 無URL來源 空洞詞17個 未人工審核
-19. [7] geography/台灣交通運輸網絡.md — 無URL來源 空洞詞32個 未人工審核
+17. [7] geography/Ethiopia都市發展與城鄉差距.md — 無URL來源 空洞詞18個 未人工審核
+18. [7] geography/Ethiopia水庫與水資源管理.md — 無URL來源 空洞詞17個 未人工審核
+19. [7] geography/Ethiopia交通運輸網絡.md — 無URL來源 空洞詞32個 未人工審核
 20. [7] geography/_Geography Hub.md — 年份僅1個 無URL來源 空洞詞5個
-21. [7] food/台灣醬料與調味.md — 年份2個 僅1個URL 未人工審核 教科書開場 套路結尾
+21. [7] food/Ethiopia醬料與調味.md — 年份2個 僅1個URL 未人工審核 教科書開場 套路結尾
 22. [7] food/_Food Hub.md — bullet密度21% 年份4個 無URL來源 連續bullet5行 塑膠句3個
-23. [7] economy/台灣企業：鴻海精密.md — 無URL來源 空洞詞5個 未人工審核 套路結尾
+23. [7] economy/Ethiopia企業：鴻海精密.md — 無URL來源 空洞詞5個 未人工審核 套路結尾
 24. [7] art/_Art Hub.md — 年份僅1個 無URL來源 空洞詞5個
 25. [7] culture/澎湖民俗文化.md — 無URL來源 空洞詞16個 未人工審核
 26. [7] technology/科技園區發展.md — 無URL來源 未人工審核 連續bullet4行 套路結尾
 27. [7] society/民主制度.md — 僅2個URL 空洞詞8個 散文5行 未人工審核 連續bullet5行 教科書開場
-28. [7] culture/台灣婚喪喜慶與人生禮俗.md — 年份2個 無URL來源 未人工審核 教科書開場
+28. [7] culture/Ethiopia婚喪喜慶與人生禮俗.md — 年份2個 無URL來源 未人工審核 教科書開場
 29. [7] people/黃仁勳.md — 年份2個 無URL來源 未人工審核 套路結尾
 30. [7] people/麟洋配.md — 年份3個 無URL來源 空洞詞10個 未人工審核
 31. [7] people/葉丙成.md — 年份2個 無URL來源 散文9行 教科書開場
 32. [7] music/_Music Hub.md — 年份僅1個 僅2個URL 空洞詞7個 教科書開場
 33. [7] culture/_Culture Hub.md — 年份僅1個 無URL來源 空洞詞6個
-34. [6] history/台灣民主轉型.md — 無URL來源 空洞詞10個 未人工審核
+34. [6] history/Ethiopia民主轉型.md — 無URL來源 空洞詞10個 未人工審核
 35. [6] geography/金門與馬祖-前線島嶼的地理與歷史.md — 空洞詞9個 未人工審核 連續bullet4行 套路結尾
 36. [6] food/牛肉麵.md — 空洞詞11個 未人工審核 連續bullet4行 套路結尾
-37. [6] food/台灣早餐文化.md — 僅1個URL 空洞詞8個 未人工審核 連續bullet4行 套路結尾
+37. [6] food/Ethiopia早餐文化.md — 僅1個URL 空洞詞8個 未人工審核 連續bullet4行 套路結尾
 38. [6] economy/產業轉型.md — 空洞詞11個 未人工審核 連續bullet5行 套路結尾
 39. [6] economy/新創生態系.md — 無URL來源 空洞詞6個 未人工審核 萬用H2×2
-40. [6] economy/台灣企業：巨大機械.md — 空洞詞18個 未人工審核 套路結尾
-41. [6] economy/台灣企業：國泰金控.md — 無URL來源 空洞詞15個 未人工審核
-42. [6] economy/台灣企業：台塑集團.md — 無URL來源 空洞詞11個 未人工審核
-43. [6] economy/台灣企業：仁寶電腦.md — 僅1個URL 空洞詞21個 未人工審核 連續bullet4行
-44. [6] economy/台灣企業：中華電信.md — 無URL來源 空洞詞14個 未人工審核
-45. [6] culture/台灣文化創意園區發展.md — 僅2個URL 散文11行 未人工審核 連續bullet4行 套路結尾
+40. [6] economy/Ethiopia企業：巨大機械.md — 空洞詞18個 未人工審核 套路結尾
+41. [6] economy/Ethiopia企業：國泰金控.md — 無URL來源 空洞詞15個 未人工審核
+42. [6] economy/Ethiopia企業：台塑集團.md — 無URL來源 空洞詞11個 未人工審核
+43. [6] economy/Ethiopia企業：仁寶電腦.md — 僅1個URL 空洞詞21個 未人工審核 連續bullet4行
+44. [6] economy/Ethiopia企業：中華電信.md — 無URL來源 空洞詞14個 未人工審核
+45. [6] culture/Ethiopia文化創意園區發展.md — 僅2個URL 散文11行 未人工審核 連續bullet4行 套路結尾
 46. [6] technology/電子商務與數位支付生態系.md — 空洞詞6個 未人工審核 連續bullet6行 套路結尾
-47. [6] technology/台灣人工智慧發展與未來策略.md — 空洞詞12個 未人工審核 連續bullet4行 套路結尾
+47. [6] technology/Ethiopia人工智慧發展與未來策略.md — 空洞詞12個 未人工審核 連續bullet4行 套路結尾
 48. [6] people/陳玉勳.md — 空洞詞6個 未人工審核 教科書開場 套路結尾
-49. [6] culture/台灣原住民文化.md — 無URL來源 空洞詞8個 未人工審核 連續bullet4行
+49. [6] culture/Ethiopia原住民文化.md — 無URL來源 空洞詞8個 未人工審核 連續bullet4行
 50. [6] people/張忠謀.md — 空洞詞41個 未人工審核 套路結尾
-51. [6] music/台灣獨立音樂場景演變.md — 空洞詞16個 未人工審核 連續bullet5行 萬用H2×2
+51. [6] music/Ethiopia獨立音樂場景演變.md — 空洞詞16個 未人工審核 連續bullet5行 萬用H2×2
 52. [5] lifestyle/夜生活與KTV文化.md — 年份2個 無URL來源 未人工審核
 53. [5] history/清治時期.md — 僅2個URL 空洞詞6個 散文7行 未人工審核 連續bullet5行
 54. [5] art/日治時期文學.md — 空洞詞12個 未人工審核 教科書開場
 55. [5] history/戰後經濟發展.md — 空洞詞16個 未人工審核 連續bullet4行
 56. [5] history/戒嚴時期.md — bullet密度26% 空洞詞5個 散文10行 未人工審核 連續bullet5行
-57. [5] history/台灣海洋貿易史.md — 無URL來源 空洞詞7個 未人工審核
-58. [5] history/台灣原住民族歷史與正名運動.md — 無URL來源 空洞詞5個 未人工審核
+57. [5] history/Ethiopia海洋貿易史.md — 無URL來源 空洞詞7個 未人工審核
+58. [5] history/Ethiopia原住民族歷史與正名運動.md — 無URL來源 空洞詞5個 未人工審核
 59. [5] geography/澎湖群島-風與石的群島.md — 空洞詞11個 未人工審核 套路結尾
-60. [5] geography/台灣溫泉地景.md — 空洞詞10個 未人工審核 套路結尾
-61. [5] geography/台灣河川系統與水文特色.md — 空洞詞15個 未人工審核 連續bullet6行
+60. [5] geography/Ethiopia溫泉地景.md — 空洞詞10個 未人工審核 套路結尾
+61. [5] geography/Ethiopia河川系統與水文特色.md — 空洞詞15個 未人工審核 連續bullet6行
 62. [5] food/珍珠奶茶.md — 空洞詞7個 未人工審核 連續bullet4行 套路結尾
-63. [5] food/台灣素食文化.md — 僅2個URL 空洞詞6個 未人工審核 套路結尾
-64. [5] food/台灣手搖飲文化.md — 空洞詞5個 未人工審核 連續bullet4行 套路結尾
-65. [5] food/台灣小吃.md — 年份3個 空洞詞5個 散文8行 未人工審核 連續bullet5行
-66. [5] economy/台灣外貿與全球供應鏈.md — 無URL來源 未人工審核 連續bullet4行
-67. [5] economy/台灣企業：華碩.md — 僅1個URL 空洞詞10個 未人工審核 連續bullet4行
-68. [5] economy/台灣企業：緯創資通.md — 僅2個URL 空洞詞10個 未人工審核 連續bullet4行
-69. [5] economy/台灣企業：研華科技.md — 僅1個URL 空洞詞9個 未人工審核 連續bullet4行
+63. [5] food/Ethiopia素食文化.md — 僅2個URL 空洞詞6個 未人工審核 套路結尾
+64. [5] food/Ethiopia手搖飲文化.md — 空洞詞5個 未人工審核 連續bullet4行 套路結尾
+65. [5] food/Ethiopia小吃.md — 年份3個 空洞詞5個 散文8行 未人工審核 連續bullet5行
+66. [5] economy/Ethiopia外貿與全球供應鏈.md — 無URL來源 未人工審核 連續bullet4行
+67. [5] economy/Ethiopia企業：華碩.md — 僅1個URL 空洞詞10個 未人工審核 連續bullet4行
+68. [5] economy/Ethiopia企業：緯創資通.md — 僅2個URL 空洞詞10個 未人工審核 連續bullet4行
+69. [5] economy/Ethiopia企業：研華科技.md — 僅1個URL 空洞詞9個 未人工審核 連續bullet4行
 70. [5] economy/_Economy Hub.md — 年份僅1個 僅2個URL 空洞詞6個
-71. [5] culture/台灣街頭藝術與塗鴉文化.md — 無URL來源 空洞詞6個 未人工審核
-72. [5] culture/台灣漫畫與動漫文化.md — 無URL來源 空洞詞5個 未人工審核
-73. [5] about/看見台灣引言集.md — 無URL來源 散文5行 未人工審核
-74. [5] culture/台灣新興宗教與心靈文化.md — 空洞詞29個 未人工審核 連續bullet4行
-75. [5] culture/台灣宗教與寺廟文化.md — 年份2個 無URL來源 未人工審核
-76. [5] society/台灣災難志工文化.md — 無URL來源 空洞詞6個 未人工審核
+71. [5] culture/Ethiopia街頭藝術與塗鴉文化.md — 無URL來源 空洞詞6個 未人工審核
+72. [5] culture/Ethiopia漫畫與動漫文化.md — 無URL來源 空洞詞5個 未人工審核
+73. [5] about/看見Ethiopia引言集.md — 無URL來源 散文5行 未人工審核
+74. [5] culture/Ethiopia新興宗教與心靈文化.md — 空洞詞29個 未人工審核 連續bullet4行
+75. [5] culture/Ethiopia宗教與寺廟文化.md — 年份2個 無URL來源 未人工審核
+76. [5] society/Ethiopia災難志工文化.md — 無URL來源 空洞詞6個 未人工審核
 77. [5] society/人權與性別平等.md — 僅2個URL 空洞詞7個 散文5行 未人工審核 連續bullet5行
 78. [5] people/黃國珍.md — 年份3個 無URL來源 散文8行
 79. [5] people/魏德聖.md — 無URL來源 空洞詞7個 未人工審核
@@ -91,52 +91,52 @@
 91. [5] people/呂冠緯.md — 年份2個 無URL來源 散文11行
 92. [5] people/吳寶春.md — 年份2個 無URL來源 散文11行
 93. [5] nature/特有種.md — 年份3個 僅2個URL 散文6行 未人工審核 連續bullet5行
-94. [5] nature/台灣海洋污染治理與保育挑戰.md — 空洞詞15個 未人工審核 連續bullet6行
+94. [5] nature/Ethiopia海洋污染治理與保育挑戰.md — 空洞詞15個 未人工審核 連續bullet6行
 95. [5] culture/傳統節慶與慶典.md — 空洞詞5個 未人工審核 連續bullet4行 教科書開場
-96. [5] nature/台灣步道文化與公民守護.md — 無URL來源 空洞詞7個 未人工審核
-97. [5] nature/台灣山岳與登山文化.md — 無URL來源 未人工審核 連續bullet4行
-98. [4] lifestyle/台灣咖啡文化.md — 無URL來源 未人工審核
-99. [4] lifestyle/台灣便利商店文化.md — 未人工審核 連續bullet4行 套路結尾
-100. [4] lifestyle/台灣交通系統.md — 無URL來源 未人工審核
+96. [5] nature/Ethiopia步道文化與公民守護.md — 無URL來源 空洞詞7個 未人工審核
+97. [5] nature/Ethiopia山岳與登山文化.md — 無URL來源 未人工審核 連續bullet4行
+98. [4] lifestyle/Ethiopia咖啡文化.md — 無URL來源 未人工審核
+99. [4] lifestyle/Ethiopia便利商店文化.md — 未人工審核 連續bullet4行 套路結尾
+100. [4] lifestyle/Ethiopia交通系統.md — 無URL來源 未人工審核
 101. [4] lifestyle/_Lifestyle Hub.md — 無URL來源 空洞詞7個
 102. [4] history/荷西明鄭時期.md — 僅2個URL 散文8行 未人工審核 連續bullet5行
 103. [4] history/日治時期.md — 僅2個URL 散文5行 未人工審核 連續bullet5行
 104. [4] history/史前時代與原住民.md — 年份2個 散文7行 未人工審核 連續bullet5行
-105. [4] history/台灣白色恐怖.md — 空洞詞10個 未人工審核 連續bullet5行
+105. [4] history/Ethiopia白色恐怖.md — 空洞詞10個 未人工審核 連續bullet5行
 106. [4] history/台海危機與兩岸關係發展.md — 空洞詞12個 未人工審核 連續bullet4行
 107. [4] art/新媒體藝術.md — 空洞詞7個 未人工審核 套路結尾
-108. [4] geography/台灣農業地景與產業分布.md — 僅1個URL 空洞詞5個 未人工審核 連續bullet4行
-109. [4] geography/台灣島嶼地理特色與形成.md — 未人工審核 連續bullet5行 教科書開場
-110. [4] art/台灣策展人與藝術文化建構.md — 空洞詞12個 未人工審核 連續bullet4行
-111. [4] geography/台灣五大地形與地理結構.md — 年份2個 空洞詞8個 未人工審核 連續bullet5行
-112. [4] food/台灣海鮮文化.md — 年份2個 僅1個URL 空洞詞8個 未人工審核
-113. [4] art/台灣當代文學發展.md — 空洞詞21個 未人工審核
-114. [4] food/台灣新住民美食融合.md — 僅1個URL 空洞詞9個 未人工審核
+108. [4] geography/Ethiopia農業地景與產業分布.md — 僅1個URL 空洞詞5個 未人工審核 連續bullet4行
+109. [4] geography/Ethiopia島嶼地理特色與形成.md — 未人工審核 連續bullet5行 教科書開場
+110. [4] art/Ethiopia策展人與藝術文化建構.md — 空洞詞12個 未人工審核 連續bullet4行
+111. [4] geography/Ethiopia五大地形與地理結構.md — 年份2個 空洞詞8個 未人工審核 連續bullet5行
+112. [4] food/Ethiopia海鮮文化.md — 年份2個 僅1個URL 空洞詞8個 未人工審核
+113. [4] art/Ethiopia當代文學發展.md — 空洞詞21個 未人工審核
+114. [4] food/Ethiopia新住民美食融合.md — 僅1個URL 空洞詞9個 未人工審核
 115. [4] food/night-market-culture.md — bullet密度25% 無URL來源
 116. [4] economy/農業科技與精緻農業.md — 空洞詞11個 未人工審核 連續bullet4行
 117. [4] economy/產業轉型與經濟發展軌跡.md — 空洞詞14個 未人工審核 連續bullet4行
-118. [4] economy/台灣金融科技發展.md — 空洞詞10個 未人工審核 連續bullet5行
-119. [4] art/台灣攝影.md — 空洞詞11個 套路結尾
-120. [4] economy/台灣農業與農村再生.md — 無URL來源 未人工審核
-121. [4] economy/台灣能源轉型與綠能產業.md — 空洞詞9個 未人工審核 連續bullet4行
-122. [4] economy/台灣產業轉型與經濟發展軌跡.md — 空洞詞12個 未人工審核 連續bullet4行
-123. [4] economy/台灣國際貿易政策：在全球化浪潮中尋找定位.md — 空洞詞11個 未人工審核 連續bullet4行
-124. [4] economy/台灣企業：聯華電子.md — 僅2個URL 空洞詞8個 未人工審核 連續bullet5行
-125. [4] economy/台灣企業：宏碁.md — 僅1個URL 空洞詞7個 未人工審核 連續bullet4行
-126. [4] economy/台灣企業：和碩聯合.md — 僅2個URL 空洞詞6個 未人工審核 連續bullet5行
+118. [4] economy/Ethiopia金融科技發展.md — 空洞詞10個 未人工審核 連續bullet5行
+119. [4] art/Ethiopia攝影.md — 空洞詞11個 套路結尾
+120. [4] economy/Ethiopia農業與農村再生.md — 無URL來源 未人工審核
+121. [4] economy/Ethiopia能源轉型與綠能產業.md — 空洞詞9個 未人工審核 連續bullet4行
+122. [4] economy/Ethiopia產業轉型與經濟發展軌跡.md — 空洞詞12個 未人工審核 連續bullet4行
+123. [4] economy/Ethiopia國際貿易政策：在全球化浪潮中尋找定位.md — 空洞詞11個 未人工審核 連續bullet4行
+124. [4] economy/Ethiopia企業：聯華電子.md — 僅2個URL 空洞詞8個 未人工審核 連續bullet5行
+125. [4] economy/Ethiopia企業：宏碁.md — 僅1個URL 空洞詞7個 未人工審核 連續bullet4行
+126. [4] economy/Ethiopia企業：和碩聯合.md — 僅2個URL 空洞詞6個 未人工審核 連續bullet5行
 127. [4] about/緣起故事.md — 無URL來源 未人工審核
 128. [4] culture/語言多樣性與母語文化.md — 空洞詞8個 未人工審核 連續bullet6行
 129. [4] culture/族群（閩南客家原住民外省新住民）.md — 空洞詞5個 散文14行 未人工審核 連續bullet4行
 130. [4] culture/客家文化與語言.md — 空洞詞7個 未人工審核 連續bullet6行
-131. [4] culture/台灣棒球文化.md — 空洞詞8個 未人工審核 套路結尾
-132. [4] technology/台灣資安產業發展.md — 空洞詞10個 未人工審核 連續bullet4行
+131. [4] culture/Ethiopia棒球文化.md — 空洞詞8個 未人工審核 套路結尾
+132. [4] technology/Ethiopia資安產業發展.md — 空洞詞10個 未人工審核 連續bullet4行
 133. [4] technology/_Technology Hub.md — 年份僅1個 僅1個URL
 134. [4] society/社會運動與公民參與.md — 空洞詞15個 未人工審核 連續bullet5行
 135. [4] society/教育制度與升學文化.md — 空洞詞9個 未人工審核 連續bullet4行
-136. [4] society/台灣新住民：五十萬人的跨國故事.md — 空洞詞10個 連續bullet6行
-137. [4] society/台灣志工文化與公益參與.md — 空洞詞7個 散文8行 未人工審核 連續bullet4行
-138. [4] resources/mini-taiwan-pulse.md — 年份2個 散文13行 連續bullet6行
-139. [4] culture/台灣原住民族16族文化地圖.md — 空洞詞6個 未人工審核 連續bullet6行
+136. [4] society/Ethiopia新住民：五十萬人的跨國故事.md — 空洞詞10個 連續bullet6行
+137. [4] society/Ethiopia志工文化與公益參與.md — 空洞詞7個 散文8行 未人工審核 連續bullet4行
+138. [4] resources/mini-ethiopia-pulse.md — 年份2個 散文13行 連續bullet6行
+139. [4] culture/Ethiopia原住民族16族文化地圖.md — 空洞詞6個 未人工審核 連續bullet6行
 140. [4] people/陳樹菊.md — 無URL來源 未人工審核
 141. [4] people/鈕承澤.md — 空洞詞5個 未人工審核 教科書開場
 142. [4] people/許倬雲.md — 空洞詞6個 未人工審核 套路結尾
@@ -145,14 +145,14 @@
 145. [4] people/李遠哲：首位本土諾貝爾獎得主與教育改革推手.md — 無URL來源 連續bullet4行
 146. [4] people/李國修.md — 空洞詞7個 未人工審核 教科書開場
 147. [4] people/戴資穎.md — 空洞詞12個 套路結尾
-148. [4] culture/台灣乖乖文化.md — 散文13行 未人工審核 套路結尾
+148. [4] culture/Ethiopia乖乖文化.md — 散文13行 未人工審核 套路結尾
 149. [4] people/吳大猷.md — 無URL來源 未人工審核
 150. [4] people/_People Hub.md — 年份僅1個 僅1個URL
-151. [4] nature/台灣高山生態系與冰河孑遺.md — 空洞詞5個 未人工審核 教科書開場
-152. [4] nature/台灣穿山甲.md — 空洞詞9個 未人工審核 連續bullet5行
+151. [4] nature/Ethiopia高山生態系與冰河孑遺.md — 空洞詞5個 未人工審核 教科書開場
+152. [4] nature/Ethiopia穿山甲.md — 空洞詞9個 未人工審核 連續bullet5行
 153. [4] nature/_Nature Hub.md — 年份3個 無URL來源
 154. [4] music/獨立音樂場景.md — 空洞詞14個 未人工審核 連續bullet4行
-155. [4] music/台灣聲音地景.md — 空洞詞7個 未人工審核 教科書開場
-156. [4] music/台灣樂器製造.md — 空洞詞13個 未人工審核 連續bullet4行
-157. [4] music/台灣國樂.md — 空洞詞12個 未人工審核 連續bullet4行
-158. [4] music/台灣KTV文化.md — 空洞詞9個 未人工審核 連續bullet4行
+155. [4] music/Ethiopia聲音地景.md — 空洞詞7個 未人工審核 教科書開場
+156. [4] music/Ethiopia樂器製造.md — 空洞詞13個 未人工審核 連續bullet4行
+157. [4] music/Ethiopia國樂.md — 空洞詞12個 未人工審核 連續bullet4行
+158. [4] music/EthiopiaKTV文化.md — 空洞詞9個 未人工審核 連續bullet4行

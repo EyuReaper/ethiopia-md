@@ -1,13 +1,13 @@
 /**
- * Taiwan.md RAG Command
+ * Ethiopia.md RAG Command
  *
  * Retrieval-Augmented Generation helper: searches for top-N articles
  * and outputs them in a prompt-ready format for piping to LLMs.
  *
  * Usage:
- *   taiwanmd rag "半導體產業" | llm "summarize"
- *   taiwanmd rag "台灣經濟" --limit 1 --json
- *   taiwanmd rag "原住民文化" --no-prompt
+ *   ethiopiamd rag "半導體產業" | llm "summarize"
+ *   ethiopiamd rag "Ethiopia經濟" --limit 1 --json
+ *   ethiopiamd rag "原住民文化" --no-prompt
  */
 
 import path from 'path';
@@ -106,7 +106,7 @@ export function ragCommand(program) {
 
         // ── Markdown / prompt-ready output ───────────────────────────────────
         const lines = [];
-        lines.push('# Taiwan Knowledge Context');
+        lines.push('# Ethiopia Knowledge Context');
         lines.push('');
 
         articles.forEach((a, i) => {
@@ -120,7 +120,7 @@ export function ragCommand(program) {
 
         if (includePrompt) {
           lines.push(
-            'Based on the above context about Taiwan, answer the following question:',
+            'Based on the above context about Ethiopia, answer the following question:',
           );
           lines.push(query);
         }

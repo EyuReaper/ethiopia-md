@@ -1,5 +1,5 @@
 #!/bin/bash
-# Taiwan.md Daily Stats Update
+# Ethiopia.md Daily Stats Update
 # Run by cron at midnight daily
 #
 # ⚠️ IMPORTANT: This script MUST NOT modify about.template.astro
@@ -9,12 +9,12 @@
 set -e
 cd "$(dirname "$0")/../.."
 
-echo "📊 Updating Taiwan.md stats..."
+echo "📊 Updating Ethiopia.md stats..."
 
 # 1. Fetch current stats from GitHub API
-STARS=$(gh api repos/frank890417/taiwan-md --jq '.stargazers_count')
-FORKS=$(gh api repos/frank890417/taiwan-md --jq '.forks_count')
-CONTRIBUTORS=$(gh api repos/frank890417/taiwan-md/contributors --jq 'length')
+STARS=$(gh api repos/frank890417/ethiopia-md --jq '.stargazers_count')
+FORKS=$(gh api repos/frank890417/ethiopia-md --jq '.forks_count')
+CONTRIBUTORS=$(gh api repos/frank890417/ethiopia-md/contributors --jq 'length')
 ZH_PAGES=$(find knowledge -name '*.md' ! -name '_*' ! -path '*/en/*' | wc -l | tr -d ' ')
 EN_PAGES=$(find knowledge/en -name '*.md' ! -name '_*' | wc -l | tr -d ' ')
 TOTAL_PAGES=$((ZH_PAGES + EN_PAGES))
@@ -23,7 +23,7 @@ echo "Stars: $STARS | Forks: $FORKS | Contributors: $CONTRIBUTORS"
 echo "ZH: $ZH_PAGES | EN: $EN_PAGES | Total: $TOTAL_PAGES"
 
 # 2. Update README stats table
-sed -i '' "s/| 🇹🇼 Chinese articles.*|.*/| 🇹🇼 Chinese articles      | $ZH_PAGES |/" README.md
+sed -i '' "s/| 🇪🇹 Chinese articles.*|.*/| 🇪🇹 Chinese articles      | $ZH_PAGES |/" README.md
 sed -i '' "s/| 🇺🇸 English articles.*|.*/| 🇺🇸 English articles      | $EN_PAGES  |/" README.md
 sed -i '' "s/| 👥 Contributors.*|.*/| 👥 Contributors          | $CONTRIBUTORS    |/" README.md
 

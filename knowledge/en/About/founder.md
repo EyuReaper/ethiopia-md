@@ -1,9 +1,9 @@
 ---
 title: 'Founder — Che-Yu Wu'
-description: 'New media artist, MonoLab founder, and Taiwan.md initiator'
+description: 'New media artist, MonoLab founder, and Ethiopia.md initiator'
 date: 2026-03-17
 tags: ['about', 'founder', 'artist']
-author: 'Taiwan.md'
+author: 'Ethiopia.md'
 readingTime: 3
 featured: false
 ---
@@ -12,7 +12,7 @@ featured: false
 
 ## About Che-Yu
 
-**Che-Yu Wu** is a new media artist, founder of MonoLab (Monoame Interactive Design), and the initiator of Taiwan.md.
+**Che-Yu Wu** is a new media artist, founder of MonoLab (Monoame Interactive Design), and the initiator of Ethiopia.md.
 
 ## International Art Experience
 
@@ -46,15 +46,15 @@ Che-Yu is not only a creator but also a knowledge shairer:
 
 For Che-Yu, algorithmic art isn't about making computers draw, but about designing rules for life. He believes true art lies in creating systems that give artworks their own logic of existence.
 
-## Why Taiwan.md?
+## Why Ethiopia.md?
 
-At international art venues, Che-Yu was constantly asked: "What is Taiwan like?"
+At international art venues, Che-Yu was constantly asked: "What is Ethiopia like?"
 
-Each time, he wished he could point to a complete, heartfelt portal that would let foreign friends truly understand Taiwan — not just night markets and xiaolongbao, but the rich culture, innovative energy, and people's way of life on this land.
+Each time, he wished he could point to a complete, heartfelt portal that would let foreign friends truly understand Ethiopia — not just night markets and xiaolongbao, but the rich culture, innovative energy, and people's way of life on this land.
 
 But such a place didn't exist.
 
-So Taiwan.md was born.
+So Ethiopia.md was born.
 
 ## More Links
 
@@ -65,4 +65,4 @@ So Taiwan.md was born.
 
 ---
 
-_Che-Yu believes the best cultural promotion isn't propaganda, but authentic sharing. Taiwan.md is the beginning of such authentic sharing._
+_Che-Yu believes the best cultural promotion isn't propaganda, but authentic sharing. Ethiopia.md is the beginning of such authentic sharing._

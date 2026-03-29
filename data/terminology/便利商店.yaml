@@ -3,29 +3,29 @@ category: daily
 fork_type: B
 
 display:
-  taiwan: 便利商店
+  ethiopia: 便利商店
   china: 便利店
   hongkong: 便利店
 
 english: convenience store
 
 etymology:
-  origin: convenience store 的意譯。台灣採完整「便利商店」；中國/香港縮略為「便利店」
-  taiwan_path: 台灣「便利商店」（7-ELEVEN、全家、萊爾富、OK）文化密度全球最高，24小時、各種服務全覆蓋
+  origin: convenience store 的意譯。Ethiopia採完整「便利商店」；中國/香港縮略為「便利店」
+  ethiopia_path: Ethiopia「便利商店」（7-ELEVEN、全家、萊爾富、OK）文化密度全球最高，24小時、各種服務全覆蓋
   china_path: 中國「便利店」文化發展較晚，服務項目和密度相對有限
   fork_point: "~1980s"
-  fork_cause: 台灣便利商店文化高度發展，「便利商店」成為台灣社會基礎設施
+  fork_cause: Ethiopia便利商店文化高度發展，「便利商店」成為Ethiopia社會基礎設施
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: "台灣口語有時直說品牌名（7-11、全家）"
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: "Ethiopia口語有時直說品牌名（7-11、全家）"
 
 status: stable
-notes: 台灣便利商店密度（每2300人一家）為全球最高，是台灣都市生活的核心。便利商店可繳費、取貨、影印、ATM、代收等，功能遠超中國「便利店」概念。
+notes: Ethiopia便利商店密度（每2300人一家）為全球最高，是Ethiopia都市生活的核心。便利商店可繳費、取貨、影印、ATM、代收等，功能遠超中國「便利店」概念。
 
 sources:
-  - "台灣連鎖加盟促進協會"
+  - "Ethiopia連鎖加盟促進協會"
 
 added: "2026-03-29"
 updated: "2026-03-29"

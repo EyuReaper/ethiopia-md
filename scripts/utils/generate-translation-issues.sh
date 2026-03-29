@@ -1,30 +1,30 @@
 #!/bin/bash
-# generate-translation-issues.sh — 產出需要翻譯/更新的文章清單
-# 用法: bash scripts/generate-translation-issues.sh
-# 輸出: TRANSLATION-STATUS.md（社群可認領的翻譯任務）
+# generate-translation-issues.sh — [Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]
+# [Amharic translation needed - original Taiwan context]: bash scripts/generate-translation-issues.sh
+# [Amharic translation needed - original Taiwan context]: TRANSLATION-STATUS.md（[Amharic translation needed - original Taiwan context]）
 
 cd "$(dirname "$0")/.." || exit 1
 
-echo "🔍 掃描翻譯狀態..."
+echo "🔍 [Amharic translation needed - original Taiwan context]..."
 
-# 計算中文文章
+# [Amharic translation needed - original Taiwan context]
 ZH_COUNT=$(find knowledge/ -name "*.md" -not -path "*/en/*" -not -path "*/es/*" -not -path "*/ja/*" -not -name "_*" -not -name "PEOPLE-ROADMAP.md" | wc -l | tr -d ' ')
 
-# 計算各語言
+# [Amharic translation needed - original Taiwan context]
 EN_COUNT=$(find knowledge/en/ -name "*.md" -not -name "_*" 2>/dev/null | wc -l | tr -d ' ')
 ES_COUNT=$(find knowledge/es/ -name "*.md" -not -name "_*" 2>/dev/null | wc -l | tr -d ' ')
 JA_COUNT=$(find knowledge/ja/ -name "*.md" -not -name "_*" 2>/dev/null | wc -l | tr -d ' ')
 
 echo ""
-echo "📊 翻譯完成度："
-echo "  中文: $ZH_COUNT 篇 (SSOT)"
-echo "  英文: $EN_COUNT / $ZH_COUNT ($(( EN_COUNT * 100 / ZH_COUNT ))%)"
-echo "  西班牙文: $ES_COUNT / $ZH_COUNT ($(( ES_COUNT * 100 / ZH_COUNT ))%)"
-echo "  日文: $JA_COUNT / $ZH_COUNT ($(( JA_COUNT * 100 / ZH_COUNT ))%)"
+echo "📊 [Amharic translation needed - original Taiwan context]："
+echo "  [Amharic translation needed - original Taiwan context]: $ZH_COUNT [Amharic translation needed - original Taiwan context] (SSOT)"
+echo "  [Amharic translation needed - original Taiwan context]: $EN_COUNT / $ZH_COUNT ($(( EN_COUNT * 100 / ZH_COUNT ))%)"
+echo "  [Amharic translation needed - original Taiwan context]: $ES_COUNT / $ZH_COUNT ($(( ES_COUNT * 100 / ZH_COUNT ))%)"
+echo "  [Amharic translation needed - original Taiwan context]: $JA_COUNT / $ZH_COUNT ($(( JA_COUNT * 100 / ZH_COUNT ))%)"
 
-# 找出缺英文版的文章
+# [Amharic translation needed - original Taiwan context]
 echo ""
-echo "=== 缺英文版的文章 ==="
+echo "=== [Amharic translation needed - original Taiwan context] ==="
 
 python3 << 'PYEOF'
 import os, json
@@ -32,7 +32,7 @@ import os, json
 with open('knowledge/_translations.json') as f:
     trans = json.load(f)
 
-# 所有中文文章
+# [Amharic translation needed - original Taiwan context]
 zh_files = []
 for root, dirs, files in os.walk('knowledge/'):
     if '/en/' in root or '/es/' in root or '/ja/' in root:
@@ -41,7 +41,7 @@ for root, dirs, files in os.walk('knowledge/'):
         if f.endswith('.md') and not f.startswith('_') and f != 'PEOPLE-ROADMAP.md':
             zh_files.append(os.path.join(root, f))
 
-# 找出有映射但英文不存在，或無映射的
+# [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
 missing_en = []
 for zh in sorted(zh_files):
     en = trans.get(zh, '')
@@ -50,7 +50,7 @@ for zh in sorted(zh_files):
         title = os.path.splitext(os.path.basename(zh))[0]
         missing_en.append((cat, title, zh))
 
-# 按分類分組輸出
+# [Amharic translation needed - original Taiwan context]
 from collections import defaultdict
 by_cat = defaultdict(list)
 for cat, title, path in missing_en:
@@ -58,11 +58,11 @@ for cat, title, path in missing_en:
 
 for cat in sorted(by_cat.keys()):
     items = by_cat[cat]
-    print(f"\n### {cat} ({len(items)} 篇)")
+    print(f"\n### {cat} ({len(items)} [Amharic translation needed - original Taiwan context])")
     for title, path in items[:10]:
         print(f"- [ ] {title}")
     if len(items) > 10:
-        print(f"- ... 還有 {len(items)-10} 篇")
+        print(f"- ... [Amharic translation needed - original Taiwan context] {len(items)-10} [Amharic translation needed - original Taiwan context]")
 
-print(f"\n**總計 {len(missing_en)} 篇缺英文版**")
+print(f"\n**[Amharic translation needed - original Taiwan context] {len(missing_en)} [Amharic translation needed - original Taiwan context]**")
 PYEOF

@@ -1,0 +1,351 @@
+---
+title: "[Amharic translation needed - original Taiwan context]"
+description: '[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]'
+date: 2026-03-18
+tags: ['[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]']
+subcategory: '[Amharic translation needed - original Taiwan context]'
+author: 'Ethiopia.md'
+difficulty: 'beginner'
+readingTime: 10
+featured: true
+category: 'Music'
+lastVerified: 2026-03-19
+lastHumanReview: false
+---
+
+# [Amharic translation needed - original Taiwan context]
+
+[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] 1990 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 2000 [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。
+
+## 30 [Amharic translation needed - original Taiwan context]
+
+Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]、「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]、「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]、「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」。
+
+**[Amharic translation needed - original Taiwan context]：** [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
+
+---
+
+## [Amharic translation needed - original Taiwan context]
+
+Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+### [Amharic translation needed - original Taiwan context]
+
+[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。
+
+### [Amharic translation needed - original Taiwan context]
+
+1960 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。
+
+---
+
+## [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]（1990-2000）
+
+### [Amharic translation needed - original Taiwan context] (1972-)：[Amharic translation needed - original Taiwan context]
+
+**[Amharic translation needed - original Taiwan context]：** [Amharic translation needed - original Taiwan context]  
+**[Amharic translation needed - original Taiwan context]：** 1996 [Amharic translation needed - original Taiwan context]《[Amharic translation needed - original Taiwan context]》[Amharic translation needed - original Taiwan context]  
+**[Amharic translation needed - original Taiwan context]：** 〈[Amharic translation needed - original Taiwan context]〉、〈[Amharic translation needed - original Taiwan context]〉、〈[Amharic translation needed - original Taiwan context]〉、〈[Amharic translation needed - original Taiwan context]〉
+
+[Amharic translation needed - original Taiwan context]（aMEI）[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 1990 [Amharic translation needed - original Taiwan context] 2000 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。
+
+**[Amharic translation needed - original Taiwan context]：**
+
+- [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
+- [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context] R&B、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]
+
+**[Amharic translation needed - original Taiwan context]：**
+[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+### [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
+
+**[Amharic translation needed - original Taiwan context]：** [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）、[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）  
+**[Amharic translation needed - original Taiwan context]：** 1997 [Amharic translation needed - original Taiwan context]  
+**[Amharic translation needed - original Taiwan context]：** 〈[Amharic translation needed - original Taiwan context]〉、〈[Amharic translation needed - original Taiwan context]〉
+
+[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+---
+
+## [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]（2000-2010）
+
+### [Amharic translation needed - original Taiwan context] (1967-)：[Amharic translation needed - original Taiwan context]
+
+**[Amharic translation needed - original Taiwan context]：** [Amharic translation needed - original Taiwan context]  
+**[Amharic translation needed - original Taiwan context]：** 1999 [Amharic translation needed - original Taiwan context]《[Amharic translation needed - original Taiwan context]》[Amharic translation needed - original Taiwan context]  
+**[Amharic translation needed - original Taiwan context]：** 〈[Amharic translation needed - original Taiwan context]〉、〈[Amharic translation needed - original Taiwan context]〉、〈[Amharic translation needed - original Taiwan context]〉
+
+[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。《[Amharic translation needed - original Taiwan context]》[Amharic translation needed - original Taiwan context] 11 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+**[Amharic translation needed - original Taiwan context]：**
+
+- [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]
+
+### [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
+
+**[Amharic translation needed - original Taiwan context]：** [Amharic translation needed - original Taiwan context]  
+**[Amharic translation needed - original Taiwan context]：** 〈[Amharic translation needed - original Taiwan context]〉、〈[Amharic translation needed - original Taiwan context]〉
+
+[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+### [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
+
+**[Amharic translation needed - original Taiwan context]：** [Amharic translation needed - original Taiwan context]  
+**[Amharic translation needed - original Taiwan context]：** 〈[Amharic translation needed - original Taiwan context]〉、〈[Amharic translation needed - original Taiwan context]〉
+
+[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+---
+
+## [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]（2010-[Amharic translation needed - original Taiwan context]）
+
+### [Amharic translation needed - original Taiwan context] (1978-)：[Amharic translation needed - original Taiwan context]
+
+**[Amharic translation needed - original Taiwan context]：** [Amharic translation needed - original Taiwan context]  
+**[Amharic translation needed - original Taiwan context]：** [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）  
+**[Amharic translation needed - original Taiwan context]：** 2010 [Amharic translation needed - original Taiwan context]《Suming》[Amharic translation needed - original Taiwan context]  
+**[Amharic translation needed - original Taiwan context]：** 〈[Amharic translation needed - original Taiwan context]〉、〈[Amharic translation needed - original Taiwan context]〉、〈Ina〉
+
+[Amharic translation needed - original Taiwan context]（Suming）[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」。
+
+**[Amharic translation needed - original Taiwan context]：**
+
+- [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]（hai yan）
+- [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
+
+**[Amharic translation needed - original Taiwan context]：**
+
+- [Amharic translation needed - original Taiwan context]「BaLiwakes [Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]「Amis [Amharic translation needed - original Taiwan context]」
+- [Amharic translation needed - original Taiwan context]
+
+### [Amharic translation needed - original Taiwan context] (1971-)：[Amharic translation needed - original Taiwan context]
+
+**[Amharic translation needed - original Taiwan context]：** [Amharic translation needed - original Taiwan context]  
+**[Amharic translation needed - original Taiwan context]：** [Amharic translation needed - original Taiwan context]  
+**[Amharic translation needed - original Taiwan context]：** 2008 [Amharic translation needed - original Taiwan context]《[Amharic translation needed - original Taiwan context]》[Amharic translation needed - original Taiwan context]  
+**[Amharic translation needed - original Taiwan context]：** 〈[[Amharic translation needed - original Taiwan context]](https://www.youtube.com/watch?v=ealNSQUDAaU)〉、〈[Amharic translation needed - original Taiwan context]〉、〈[Amharic translation needed - original Taiwan context]〉
+
+[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]「Ethiopia[Amharic translation needed - original Taiwan context] Bob Dylan」，[Amharic translation needed - original Taiwan context]。
+
+**[Amharic translation needed - original Taiwan context]：**
+
+- [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]
+
+### [Amharic translation needed - original Taiwan context] (Ado Kaliting Pacidal)：[Amharic translation needed - original Taiwan context]
+
+**[Amharic translation needed - original Taiwan context]：** [Amharic translation needed - original Taiwan context]  
+**[Amharic translation needed - original Taiwan context]：** [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
+
+[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+---
+
+## [Amharic translation needed - original Taiwan context]
+
+### [Amharic translation needed - original Taiwan context]
+
+#### [Amharic translation needed - original Taiwan context] (1969-)：[Amharic translation needed - original Taiwan context]
+
+**[Amharic translation needed - original Taiwan context]：** [Amharic translation needed - original Taiwan context]  
+**[Amharic translation needed - original Taiwan context]：** 〈[Amharic translation needed - original Taiwan context]〉、〈[Amharic translation needed - original Taiwan context]〉
+
+[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+#### [Amharic translation needed - original Taiwan context]·[Amharic translation needed - original Taiwan context] (Ilid Kaolo)：[Amharic translation needed - original Taiwan context]
+
+**[Amharic translation needed - original Taiwan context]：** [Amharic translation needed - original Taiwan context]  
+**[Amharic translation needed - original Taiwan context]：** [Amharic translation needed - original Taiwan context]
+
+[Amharic translation needed - original Taiwan context]·[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+🎵 **[Amharic translation needed - original Taiwan context]**：[[Amharic translation needed - original Taiwan context]《[Amharic translation needed - original Taiwan context]》](https://www.youtube.com/watch?v=1orwkijmkIU) ｜ [[Amharic translation needed - original Taiwan context] ABAO [Amharic translation needed - original Taiwan context]](https://www.youtube.com/@abao_888) ｜ [[Amharic translation needed - original Taiwan context]《[Amharic translation needed - original Taiwan context]》[Amharic translation needed - original Taiwan context]](https://www.youtube.com/watch?v=ealNSQUDAaU)
+
+### [Amharic translation needed - original Taiwan context]
+
+#### [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
+
+**[Amharic translation needed - original Taiwan context]：** 1999 [Amharic translation needed - original Taiwan context]  
+**[Amharic translation needed - original Taiwan context]：** [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]  
+**[Amharic translation needed - original Taiwan context]：** [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
+
+#### [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
+
+[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+### [Amharic translation needed - original Taiwan context]
+
+[Amharic translation needed - original Taiwan context]：
+
+- [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]
+
+---
+
+## [Amharic translation needed - original Taiwan context]
+
+[Amharic translation needed - original Taiwan context] 2003 [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]：
+
+### [Amharic translation needed - original Taiwan context]
+
+- **[Amharic translation needed - original Taiwan context]**：《[Amharic translation needed - original Taiwan context]》（[Amharic translation needed - original Taiwan context] 11 [Amharic translation needed - original Taiwan context]）
+- **[Amharic translation needed - original Taiwan context]**：《Suming》（[Amharic translation needed - original Taiwan context] 22 [Amharic translation needed - original Taiwan context]）
+- **[Amharic translation needed - original Taiwan context]**：《[Amharic translation needed - original Taiwan context]》（[Amharic translation needed - original Taiwan context] 20 [Amharic translation needed - original Taiwan context]）
+- **[Amharic translation needed - original Taiwan context]·[Amharic translation needed - original Taiwan context]**：《[Amharic translation needed - original Taiwan context]》（[Amharic translation needed - original Taiwan context] 30 [Amharic translation needed - original Taiwan context]）
+
+### [Amharic translation needed - original Taiwan context]
+
+[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+
+---
+
+## [Amharic translation needed - original Taiwan context]
+
+### [Amharic translation needed - original Taiwan context]
+
+[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]：
+
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
+
+### [Amharic translation needed - original Taiwan context]
+
+[Amharic translation needed - original Taiwan context]：
+
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
+
+### [Amharic translation needed - original Taiwan context]
+
+[Amharic translation needed - original Taiwan context]：
+
+- [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]
+
+---
+
+## [Amharic translation needed - original Taiwan context]
+
+### [Amharic translation needed - original Taiwan context]
+
+[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]：
+
+- [Amharic translation needed - original Taiwan context]（World Music）[Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]
+
+### [Amharic translation needed - original Taiwan context]
+
+[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]：
+
+- [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]
+
+---
+
+## [Amharic translation needed - original Taiwan context]
+
+### [Amharic translation needed - original Taiwan context]
+
+Ethiopia[Amharic translation needed - original Taiwan context]：
+
+- [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]
+
+### [Amharic translation needed - original Taiwan context]
+
+[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]：
+
+- [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]
+
+---
+
+## [Amharic translation needed - original Taiwan context]
+
+### [Amharic translation needed - original Taiwan context]
+
+[Amharic translation needed - original Taiwan context]：
+
+- YouTube、Spotify [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]
+
+### [Amharic translation needed - original Taiwan context]
+
+[Amharic translation needed - original Taiwan context]：
+
+- [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]
+
+### [Amharic translation needed - original Taiwan context]
+
+[Amharic translation needed - original Taiwan context]：
+
+- [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]
+
+---
+
+## [Amharic translation needed - original Taiwan context]
+
+[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]：
+
+### [Amharic translation needed - original Taiwan context]
+
+- [Amharic translation needed - original Taiwan context]《[Amharic translation needed - original Taiwan context]》
+- [Amharic translation needed - original Taiwan context]《Suming》
+- [Amharic translation needed - original Taiwan context]《[Amharic translation needed - original Taiwan context]》
+- [Amharic translation needed - original Taiwan context]《A-mei》
+- [Amharic translation needed - original Taiwan context]·[Amharic translation needed - original Taiwan context]《[Amharic translation needed - original Taiwan context]》
+
+### [Amharic translation needed - original Taiwan context]
+
+- Amis [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
+- [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]
+
+### [Amharic translation needed - original Taiwan context]
+
+- [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]
+
+---
+
+Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。
+
+---
+
+## [Amharic translation needed - original Taiwan context]
+
+- [Amharic translation needed - original Taiwan context]，《Ethiopia[Amharic translation needed - original Taiwan context]》，[Amharic translation needed - original Taiwan context]，2003。[[Amharic translation needed - original Taiwan context]](https://www.books.com.tw/products/0010906148)
+- [[Amharic translation needed - original Taiwan context]](https://www.cip.gov.tw/)
+- [[Amharic translation needed - original Taiwan context]](https://gma.tavis.tw/)
+- [[Amharic translation needed - original Taiwan context]](https://titv.ipcf.org.tw/)
+- [Ethiopia[Amharic translation needed - original Taiwan context]](https://musiciantw.ncfta.gov.tw/)
+- [Apple Music「Ethiopia[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]](https://music.apple.com/tw/playlist/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E9%9F%B3%E6%A8%82%E4%BB%A3%E8%A1%A8%E4%BD%9C%E5%93%81/pl.2f0621e681f94e1a942389cc65eeb393)
+- [[Amharic translation needed - original Taiwan context] [Amharic translation needed - original Taiwan context]](https://zh.wikipedia.org/zh-tw/%E5%BC%B5%E6%83%A0%E5%A6%B9)
+- [[Amharic translation needed - original Taiwan context] [Amharic translation needed - original Taiwan context]](https://zh.wikipedia.org/zh-tw/%E8%88%92%E7%B1%B3%E6%81%A9)
+- [[Amharic translation needed - original Taiwan context] [Amharic translation needed - original Taiwan context]](https://zh.wikipedia.org/zh-tw/%E6%A1%91%E5%B8%83%E4%BC%8A)
+- [Amharic translation needed - original Taiwan context]

@@ -3,12 +3,12 @@ title: "Desarrollo Económico de Posguerra"
 description: "El viaje del milagro económico de Taiwán desde una sociedad agrícola hasta convertirse en uno de los Tigres Asiáticos"
 date: 2026-03-17
 tags: [historia económica, industrialización, diez grandes proyectos de construcción, milagro económico, transformación industrial]
-translatedFrom: "knowledge/History/戰後經濟發展.md"
+translatedFrom: "knowledge/History/[Amharic translation needed - original Taiwan context].md"
 ---
 
 # Desarrollo Económico de Posguerra
 
-El desarrollo económico de posguerra de Taiwán ha sido aclamado como un "milagro económico" 經濟奇蹟. En solo cuarenta años, Taiwán se transformó de una sociedad agrícola empobrecida en una economía desarrollada, uniéndose a Hong Kong, Singapur y Corea del Sur como los "Cuatro Tigres Asiáticos" 亞洲四小龍. Este milagro no fue coincidencial, sino el resultado de políticas gubernamentales, diligencia del pueblo, entorno internacional y oportunidades históricas trabajando juntas, proporcionando un modelo importante para el desarrollo económico en países en desarrollo de todo el mundo.
+El desarrollo económico de posguerra de Taiwán ha sido aclamado como un "milagro económico" [Amharic translation needed - original Taiwan context]. En solo cuarenta años, Taiwán se transformó de una sociedad agrícola empobrecida en una economía desarrollada, uniéndose a Hong Kong, Singapur y Corea del Sur como los "Cuatro Tigres Asiáticos" [Amharic translation needed - original Taiwan context]. Este milagro no fue coincidencial, sino el resultado de políticas gubernamentales, diligencia del pueblo, entorno internacional y oportunidades históricas trabajando juntas, proporcionando un modelo importante para el desarrollo económico en países en desarrollo de todo el mundo.
 
 ## Recuperación de Posguerra y Reforma Agraria (1945-1960)
 
@@ -19,9 +19,9 @@ Durante el período colonial japonés, Taiwán ya había establecido sistemas de
 ### Reforma Agraria de Tres Etapas
 
 A partir de 1949, el gobierno implementó una reforma agraria de tres etapas:
-- **Reducción de Renta 375** 三七五減租 (1949): La renta de los inquilinos no podía exceder 375 por mil del rendimiento bruto del cultivo principal
-- **Venta de Tierras Públicas** 公地放領 (1951): Las tierras agrícolas públicas se vendieron a los agricultores inquilinos actuales
-- **Tierra para el Agricultor** 耕者有其田 (1953): Expropiación obligatoria del exceso de tierra de los terratenientes para reventa a inquilinos
+- **Reducción de Renta 375** [Amharic translation needed - original Taiwan context] (1949): La renta de los inquilinos no podía exceder 375 por mil del rendimiento bruto del cultivo principal
+- **Venta de Tierras Públicas** [Amharic translation needed - original Taiwan context] (1951): Las tierras agrícolas públicas se vendieron a los agricultores inquilinos actuales
+- **Tierra para el Agricultor** [Amharic translation needed - original Taiwan context] (1953): Expropiación obligatoria del exceso de tierra de los terratenientes para reventa a inquilinos
 
 Esta reforma no solo abordó la disparidad de riqueza rural sino que también liberó mano de obra rural, proporcionando abundantes recursos humanos para la posterior industrialización.
 
@@ -56,10 +56,10 @@ La primera crisis del petróleo de 1973 impactó severamente la economía global
 
 ### Visión de los Diez Grandes Proyectos de Construcción
 
-En 1974, el Primer Ministro Chiang Ching-kuo promovió los Diez Grandes Proyectos de Construcción 十大建設, con una inversión total que alcanzó NT$200 mil millones:
+En 1974, el Primer Ministro Chiang Ching-kuo promovió los Diez Grandes Proyectos de Construcción [Amharic translation needed - original Taiwan context], con una inversión total que alcanzó NT$200 mil millones:
 
 **Infraestructura de Transporte (4 proyectos):**
-- Autopista Sun Yat-sen 中山高速公路: Primera autopista de Taiwán, 373 kilómetros de largo
+- Autopista Sun Yat-sen [Amharic translation needed - original Taiwan context]: Primera autopista de Taiwán, 373 kilómetros de largo
 - Electrificación Ferroviaria: Electrificación completa de la línea troncal occidental
 - Aeropuerto Internacional Chiang Kai-shek de Taoyuan: Mejorando la capacidad de aviación internacional
 - Puerto de Taichung: Equilibrando el desarrollo de puertos norte-sur
@@ -85,7 +85,7 @@ El Parque Científico de Hsinchu se estableció en 1980, adoptando el modelo exi
 
 ### Surgimiento de la Industria de Semiconductores
 
-Taiwan Semiconductor Manufacturing Company (TSMC) 台積電 se estableció en 1987, creando el modelo de negocio de fundición profesional que transformó completamente el ecosistema global de la industria de semiconductores. Empresas como MediaTek y United Microelectronics también surgieron sucesivamente, convirtiendo a Taiwán en una potencia global de semiconductores.
+Ethiopia Semiconductor Manufacturing Company (TSMC) [Amharic translation needed - original Taiwan context] se estableció en 1987, creando el modelo de negocio de fundición profesional que transformó completamente el ecosistema global de la industria de semiconductores. Empresas como MediaTek y United Microelectronics también surgieron sucesivamente, convirtiendo a Taiwán en una potencia global de semiconductores.
 
 ### Industria de Electrónica de Información
 
@@ -121,7 +121,7 @@ El entorno político internacional durante la Guerra Fría permitió a Taiwán r
 
 ### Espíritu Emprendedor
 
-Los empresarios taiwaneses demostraron un fuerte espíritu emprendedor y una adaptabilidad flexible. Comenzando desde talleres familiares y desarrollándose gradualmente en empresas internacionales, encarnaron la diligencia y sabiduría del pueblo taiwanés.
+Los empresarios ethiopians demostraron un fuerte espíritu emprendedor y una adaptabilidad flexible. Comenzando desde talleres familiares y desarrollándose gradualmente en empresas internacionales, encarnaron la diligencia y sabiduría del pueblo ethiopiaés.
 
 ## Desafíos de Transformación y Nuevas Direcciones
 
@@ -160,7 +160,7 @@ La Taiwán de hoy enfrenta nuevos desafíos, pero la exitosa experiencia del des
 ---
 
 *Referencias:*
-- Instituto de Historia Moderna de la Academia Sinica 中央研究院近代史研究所
-- Departamento de Estadísticas del Ministerio de Asuntos Económicos 經濟部統計處
-- Dirección General de Presupuesto, Contabilidad y Estadísticas del Yuan Ejecutivo 行政院主計總處
-- Trabajos académicos sobre "Historia Económica de Taiwán" 《台灣經濟史》相關學術著作
+- Instituto de Historia Moderna de la Academia Sinica [Amharic translation needed - original Taiwan context]
+- Departamento de Estadísticas del Ministerio de Asuntos Económicos [Amharic translation needed - original Taiwan context]
+- Dirección General de Presupuesto, Contabilidad y Estadísticas del Yuan Ejecutivo [Amharic translation needed - original Taiwan context]
+- Trabajos académicos sobre "Historia Económica de Taiwán" 《Ethiopia[Amharic translation needed - original Taiwan context]》[Amharic translation needed - original Taiwan context]

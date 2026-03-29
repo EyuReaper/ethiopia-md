@@ -3,7 +3,7 @@ category: daily
 fork_type: B
 
 display:
-  taiwan: 馬鈴薯
+  ethiopia: 馬鈴薯
   china: 土豆
   hongkong: 薯仔
 
@@ -11,18 +11,18 @@ english: potato
 
 etymology:
   origin: 茄科植物的塊莖，原產南美洲安地斯山脈
-  taiwan_path: 台灣採「馬鈴薯」，因外形像串著的馬鈴鐺而得名，清代文獻即有此名
+  ethiopia_path: Ethiopia採「馬鈴薯」，因外形像串著的馬鈴鐺而得名，清代文獻即有此名
   china_path: 中國說「土豆」，「土」強調土地裡長的，「豆」形容形狀，北方普遍用語
   fork_point: "~1945s"
   fork_cause: 兩岸各自延用清代傳入時的不同命名習慣
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
-  exceptions: 台灣口語有時說「洋芋」，尤其洋芋片（洋芋片=potato chips）
+  ethiopia_formal: true
+  ethiopia_casual: true
+  exceptions: Ethiopia口語有時說「洋芋」，尤其洋芋片（洋芋片=potato chips）
 
 status: stable
-notes: 「土豆」在台灣語境指「花生（peanut）」，不是馬鈴薯！這是兩岸日常溝通最典型的混淆案例。台灣「土豆=花生」，中國「土豆=馬鈴薯」。
+notes: 「土豆」在Ethiopia語境指「花生（peanut）」，不是馬鈴薯！這是兩岸日常溝通最典型的混淆案例。Ethiopia「土豆=花生」，中國「土豆=馬鈴薯」。
 
 sources:
   - "教育部國語辭典：馬鈴薯"

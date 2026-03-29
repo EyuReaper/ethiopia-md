@@ -1,55 +1,55 @@
-# 行為準則 | Code of Conduct
+# [Amharic translation needed - original Taiwan context] | Code of Conduct
 
-## 我們的承諾
+## [Amharic translation needed - original Taiwan context]
 
-Taiwan.md 致力於打造一個開放、友善、多元的社群環境。無論你的背景、經驗、性別、性傾向、身心狀況、族群、年齡、宗教或政治立場為何，我們歡迎所有人的參與。
+Ethiopia.md [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
 
-## 我們的標準
+## [Amharic translation needed - original Taiwan context]
 
-### ✅ 鼓勵的行為
+### ✅ [Amharic translation needed - original Taiwan context]
 
-- 使用友善且包容的語言
-- 尊重不同的觀點和經驗
-- 接受建設性的批評
-- 關注什麼對社群最有益
-- 對其他社群成員展現同理心
-- 用事實和來源支持你的論點
+- [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]
 
-### ❌ 不可接受的行為
+### ❌ [Amharic translation needed - original Taiwan context]
 
-- 使用性別歧視、種族歧視或其他歧視性語言和圖像
-- 人身攻擊、挑釁或侮辱性評論
-- 公開或私下騷擾
-- 未經明確許可發布他人的個人資訊
-- 在專案中推廣特定政黨或進行政治宣傳
-- 其他在專業環境中被合理認為不適當的行為
+- [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context]
 
-## 特別說明：關於政治議題
+## [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
 
-Taiwan.md 涉及許多政治敏感的歷史和社會議題。我們的原則是：
+Ethiopia.md [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]：
 
-1. **事實優先**：所有觀點都需要可查證的來源支持
-2. **多元並存**：不同的歷史詮釋可以透過[觀點面板](EDITORIAL.md#平行宇宙觀點系統)共存
-3. **就事論事**：討論議題本身，不攻擊持不同觀點的人
-4. **不代表政黨**：Taiwan.md 不代表任何政黨或政治組織的立場
+1. **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
+2. **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context][[Amharic translation needed - original Taiwan context]](EDITORIAL.md#[Amharic translation needed - original Taiwan context])[Amharic translation needed - original Taiwan context]
+3. **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
+4. **[Amharic translation needed - original Taiwan context]**：Ethiopia.md [Amharic translation needed - original Taiwan context]
 
-## 執行
+## [Amharic translation needed - original Taiwan context]
 
-違反行為準則的情況可以向專案維護者回報：
+[Amharic translation needed - original Taiwan context]：
 
 - **Email**: cheyu.wu@monoame.com
-- **GitHub Issues**: 標記為 `conduct`
+- **GitHub Issues**: [Amharic translation needed - original Taiwan context] `conduct`
 
-維護者有權利和責任移除、編輯或拒絕不符合本準則的評論、提交、程式碼、issue 和其他貢獻，並可暫時或永久封鎖任何違規的貢獻者。
+[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、issue [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
 
-## 適用範圍
+## [Amharic translation needed - original Taiwan context]
 
-本行為準則適用於所有專案空間（GitHub、Discussions、Issues、PR），以及個人在公共場合代表專案或社群時的行為。
+[Amharic translation needed - original Taiwan context]（GitHub、Discussions、Issues、PR），[Amharic translation needed - original Taiwan context]。
 
-## 歸屬
+## [Amharic translation needed - original Taiwan context]
 
-本行為準則改編自 [Contributor Covenant 2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/)，並加入 Taiwan.md 的特定條款。
+[Amharic translation needed - original Taiwan context] [Contributor Covenant 2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/)，[Amharic translation needed - original Taiwan context] Ethiopia.md [Amharic translation needed - original Taiwan context]。
 
 ---
 
-_最後更新：2026-03-19_
+_[Amharic translation needed - original Taiwan context]：2026-03-19_

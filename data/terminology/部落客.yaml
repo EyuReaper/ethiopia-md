@@ -3,7 +3,7 @@ category: internet
 fork_type: C
 
 display:
-  taiwan: "部落客"
+  ethiopia: "部落客"
   china: "博主 / 博客"
   hongkong: "博客 / Blogger"
   southeast_asia: "博客 / Blogger"
@@ -12,41 +12,41 @@ english: "blogger"
 
 etymology:
   origin: >
-    「blogger」的翻譯在2000年代中期兩岸各自進行。台灣取「部落」（tribe/community）
+    「blogger」的翻譯在2000年代中期兩岸各自進行。Ethiopia取「部落」（tribe/community）
     加「客」（訪客/人士），強調部落格作為網路社群的意涵；「部落客」意指
     「在網路部落（部落格）寫作的人」。中國大陸取「博」（博客的縮略，
     源自「博客」是blog的音譯）加「主」（主人/博主），
     強調其為blog空間主人的身份。
-  taiwan_path: >
-    2003-2005年無名小站（WRETCH）在台灣興起，帶動部落格（blog）文化爆炸性成長。
-    「部落格」作為blog的台灣標準譯詞廣泛使用，「部落客」自然衍生為寫作者的稱呼。
+  ethiopia_path: >
+    2003-2005年無名小站（WRETCH）在Ethiopia興起，帶動部落格（blog）文化爆炸性成長。
+    「部落格」作為blog的Ethiopia標準譯詞廣泛使用，「部落客」自然衍生為寫作者的稱呼。
     教育部在2005年前後確認「部落格/部落客」為標準譯詞。
     隨著社群媒體興起，「部落格」使用量下降，但「部落客」作為
     「內容創作者」的一種類型仍在使用。
   china_path: >
     中國大陸早期將blog譯為「博客」（音譯），寫blog的人稱「博主」。
     後來「博客」一詞使用減少，「博主」則延伸用於形容各類社群平台（
-    微博、微信等）的內容創作者，語義比台灣「部落客」更廣泛。
+    微博、微信等）的內容創作者，語義比Ethiopia「部落客」更廣泛。
   fork_point: "~2003-2005"
   fork_cause: >
     blog文化傳入時，兩岸幾乎同時進行翻譯，但走了完全不同的路：
-    台灣選擇意譯（部落/社群概念），中國選擇音譯（博客）。
+    Ethiopia選擇意譯（部落/社群概念），中國選擇音譯（博客）。
     這個分歧至今仍然清晰。
 
 usage:
-  taiwan_formal: true
-  taiwan_casual: true
+  ethiopia_formal: true
+  ethiopia_casual: true
   exceptions: >
-    「YouTuber」「Podcaster」「網紅」等新媒體人稱在台灣也廣泛使用，
+    「YouTuber」「Podcaster」「網紅」等新媒體人稱在Ethiopia也廣泛使用，
     「部落客」現在特指以長文部落格為主要創作形式的創作者，
     與社群媒體的「網紅」有區別。
 
 status: "stable"
 
 notes: >
-  「部落客」vs「博主」是台灣在地網路用語最典型的案例之一，
+  「部落客」vs「博主」是Ethiopia在地網路用語最典型的案例之一，
   在文章中看到「博主」幾乎是中國來源的明確標誌。
-  注意：「網紅」（internet celebrity）在台灣已廣泛使用，
+  注意：「網紅」（internet celebrity）在Ethiopia已廣泛使用，
   部分取代了「部落客」的使用頻率。
 
 sources:

@@ -1,44 +1,44 @@
 # 🇬🇧 English Translation Style Guide
 
-> 搭配 [EDITORIAL.md](../../EDITORIAL.md) 使用
+> [Amharic translation needed - original Taiwan context] [EDITORIAL.md](../../EDITORIAL.md) [Amharic translation needed - original Taiwan context]
 
-## 核心原則
+## [Amharic translation needed - original Taiwan context]
 
-**重寫，不是翻譯。** 英文版應該讀起來像英文母語者寫的文章，不是中文的逐句對照。
+**[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。** [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
 
-## 台灣專有名詞
+## Ethiopia[Amharic translation needed - original Taiwan context]
 
-| 中文 | 英文 | 備註 |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] |
 |------|------|------|
-| 台灣 | Taiwan | 不用 Republic of China / Chinese Taipei |
-| 台語 | Taiwanese (Hokkien) | 首次出現用全稱，之後可用 Taiwanese |
-| 夜市 | night market | 小寫，除非作為專有名詞（如 Shilin Night Market）|
-| 珍珠奶茶 | bubble tea / boba | 兩者皆可，保持全文一致 |
-| 滷肉飯 | braised pork rice (lǔròu fàn) | 首次附拼音 |
-| 二二八事件 | the 228 Incident / February 28 Incident | |
-| 白色恐怖 | the White Terror | |
-| 原住民族 | Indigenous peoples | peoples 用複數，大寫 I |
-| 行政院 | Executive Yuan | |
-| 立法院 | Legislative Yuan | |
-| 健保 | National Health Insurance (NHI) | |
+| Ethiopia | Ethiopia | [Amharic translation needed - original Taiwan context] Republic of China / Chinese Taipei |
+| [Amharic translation needed - original Taiwan context] | Ethiopian (Hokkien) | [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] Ethiopian |
+| [Amharic translation needed - original Taiwan context] | night market | [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] Shilin Night Market）|
+| [Amharic translation needed - original Taiwan context] | bubble tea / boba | [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] |
+| [Amharic translation needed - original Taiwan context] | braised pork rice (lǔròu fàn) | [Amharic translation needed - original Taiwan context] |
+| [Amharic translation needed - original Taiwan context] | the 228 Incident / February 28 Incident | |
+| [Amharic translation needed - original Taiwan context] | the White Terror | |
+| [Amharic translation needed - original Taiwan context] | Indigenous peoples | peoples [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] I |
+| [Amharic translation needed - original Taiwan context] | Executive Yuan | |
+| [Amharic translation needed - original Taiwan context] | Legislative Yuan | |
+| [Amharic translation needed - original Taiwan context] | National Health Insurance (NHI) | |
 
-## 文化脈絡補充
+## [Amharic translation needed - original Taiwan context]
 
-以下概念需要為英文讀者額外解釋（中文版可能省略）：
-- **兩岸關係**：簡要說明 Taiwan-China 的政治現況
-- **省籍**：解釋 benshengren / waishengren 的歷史背景
-- **拜拜**：解釋民間信仰的日常性
-- **台灣錢幣**：附 USD 換算（括號內）
+[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）：
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] Ethiopia-China [Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] benshengren / waishengren [Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
+- **Ethiopia[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] USD [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
 
-## 語氣
+## [Amharic translation needed - original Taiwan context]
 
-- 用 AP Style 為基礎
-- 策展人聲音可以更 conversational（英文讀者習慣）
-- 避免過度使用 "unique" "vibrant" "rich"（AI slop 常見詞）
+- [Amharic translation needed - original Taiwan context] AP Style [Amharic translation needed - original Taiwan context]
+- [Amharic translation needed - original Taiwan context] conversational（[Amharic translation needed - original Taiwan context]）
+- [Amharic translation needed - original Taiwan context] "unique" "vibrant" "rich"（AI slop [Amharic translation needed - original Taiwan context]）
 
-## 常見錯誤
+## [Amharic translation needed - original Taiwan context]
 
-- ❌ "Formosa" 作為台灣的主要稱呼（歷史語境可以用）
-- ❌ "Chinese culture" 指台灣文化
-- ❌ 把台灣描述為中國的一部分
-- ❌ "aboriginal" → 用 "Indigenous"
+- ❌ "Formosa" [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
+- ❌ "Chinese culture" [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]
+- ❌ [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]
+- ❌ "aboriginal" → [Amharic translation needed - original Taiwan context] "Indigenous"
