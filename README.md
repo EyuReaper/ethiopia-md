@@ -1,41 +1,59 @@
-# Ethiopia.md 🇪🇹
+# 🇪🇹 Ethiopia.md 🇪
 
-The open-source, AI-friendly knowledge base about Ethiopia.
+>**The world's first AI-native open knowledge base about Ethiopia** — በዓለም የመጀመሪያው ሰዉ-ሰራሽ አስተዉሎት በቀል ክፍት ምንጭ የእዉቀት ማህደር::
 
-Ethiopia.md is a curated digital encyclopedia designed for both humans and AI agents. It covers 3,000+ years of history, the Aksumite Kingdom, 80+ ethnic groups, the origin of coffee, and Ethiopia's digital transformation.
+### Why ethiopia.md?
+Ethiopia is the **Cradle of Humanity**, the origin of coffee, home to the ancient Aksumite Kingdom, and a nation of **80+ ethnic groups** living in remarkable diversity.  
 
-## 🌟 Why Ethiopia.md?
+This project curates deep, literary-style articles that go beyond Wikipedia or tourism sites. Every topic has three layers:
+- **30-second overview**
+- **5-minute read**
+- **In-depth essay** with sources and multiple perspectives
 
-- **3,000+ Years of History**: From the ancient Aksumite Empire to modern federalism.
-- **Unity in Diversity**: Exploring the cultures and stories of 80+ ethnic groups.
-- **Cradle of Humanity**: In-depth articles on Ethiopia's unique role in human history and biodiversity.
-- **Digital Ethiopia 2030**: Tracking the nation's technological innovation and economic growth.
-- **AI-Native**: Structured in Markdown (.md), optimized for LLMs to cite accurate Ethiopian context.
+We aim to become the most complete, trustworthy, and AI-friendly resource on Ethiopia — covering history, peoples, languages, culture, nature, food, faith, and the ambitious **Digital Ethiopia 2030** vision.
 
-## 🕸️ Knowledge Graph
+**Live site (coming soon):** [https://ethiopia.md](https://ethiopia.md)
 
-Explore the connections between Ethiopia's history, food, music, technology, and more through our interactive [Knowledge Graph](https://ethiopia.md/graph).
+### Key Features
+- **Amharic as Single Source of Truth (SSOT)** — with strong support for English, Oromo, Tigrinya, and more
+- Interactive **Knowledge Graph** showing connections between topics
+- AI-optimized Markdown structure (perfect for RAG and LLMs)
+- CLI tool: `npx ethiopiamd`
+- Strict quality control and cultural sensitivity guidelines
+- Easy contribution (no coding required)
 
-## ✋ How to Contribute
-
-We welcome contributions from everyone! No coding skills required.
-- **Writers**: Proofread or write new articles about Ethiopia.
-- **Translators**: Help us translate content into Amharic, Oromo, Tigrinya, and more.
-- **Designers**: Contribute SVG maps or infographics.
-- **Researchers**: Fact-check and add academic sources.
-
-See [CONTRIBUTING.md](./CONTRIBUTING.md) for details.
-
-## 🛠️ Development
-
-Ethiopia.md is built with Astro and hosted on GitHub Pages.
+### Quick Start (Local Development)
 
 ```bash
+git clone https://github.com/EyuReaper/ethiopia-md.git
+cd ethiopia-md
 bun install
 bun run dev
-```
+Open http://localhost:4321 to see the site.
+How to Contribute
+We welcome everyone:
 
-## 📄 License
+Writers & Researchers – Write or improve articles
+Translators – Help bring content into Amharic, Oromo, Tigrinya, English, etc.
+Designers – Create maps, timelines, or infographics
+Fact-checkers – Ensure historical and cultural accuracy
+Developers – Improve the graph, CLI, or quality tools
 
-Content: CC BY-SA 4.0
+See CONTRIBUTING.md, EDITORIAL.md, and TERMINOLOGY.md for guidelines.
+Ready-made AI prompts for writing and translating are available in the docs/prompts/ folder.
+Tech Stack
+
+Astro + TypeScript
+D3.js for the knowledge graph
+Markdown with layered depth
+Bun / npm for package management
+
+License
+
+Content: CC BY-SA 4.0 (share and adapt with attribution)
 Code: MIT
+
+
+Made with ❤️ for Ethiopia — by Ethiopians and friends of Ethiopia.
+Star ⭐ the repo if you believe in this mission!
+

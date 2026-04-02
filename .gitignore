@@ -6,6 +6,9 @@ dist/
 # dependencies
 node_modules/
 
+#AI markdown
+GEMINI.md
+
 # logs
 npm-debug.log*
 yarn-debug.log*

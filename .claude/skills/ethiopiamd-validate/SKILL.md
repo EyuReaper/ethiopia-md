@@ -25,7 +25,7 @@ and content quality requirements.
 ### 1. Frontmatter validation
 
 ```bash
-cd "$(git rev-parse --show-toplevel)" && node scripts/test-frontmatter.mjs
+cd "$(git rev-parse --show-toplevel)" && node scripts/core/test-frontmatter.mjs
 ```
 
 Checks all articles for:
@@ -58,7 +58,7 @@ Check:
 ### 3. Content quality check (quality-scan)
 
 ```bash
-cd "$(git rev-parse --show-toplevel)" && bash tools/quality-scan.sh "knowledge/<Category>/<filename>.md"
+cd "$(git rev-parse --show-toplevel)" && bash scripts/tools/quality-scan.sh "knowledge/<Category>/<filename>.md"
 ```
 
 Scores articles 0-10 for AI-generated "hollow" content. Score > 4 = needs rewrite.
@@ -67,23 +67,23 @@ Checks for:
 
 - Bullet list padding (lazy structure)
 - Missing specific dates/years
-- Hollow modifiers ("[Amharic translation needed - original Taiwan context]", "[Amharic translation needed - original Taiwan context]", "[Amharic translation needed - original Taiwan context]")
+- Hollow modifiers ("በጣም", "እጅግ በጣም", "ልብ ሊባል የሚገባው ጉዳይ")
 - Excessive em-dashes (> 4 per article = AI signal)
 - Textbook-style openings
-- Missing source references
+- Missing source referencesይ
 
 ### 4. Reference check
 
 ```bash
-cd "$(git rev-parse --show-toplevel)" && node scripts/check-references.mjs
+cd "$(git rev-parse --show-toplevel)" && node scripts/utils/check-references.mjs
 ```
 
-Verifies articles have "[Amharic translation needed - original Taiwan context]" or "[Amharic translation needed - original Taiwan context]" sections with URLs.
+Verifies articles have "ማጣቀሻዎች" or "ተጨማሪ ንባብ" sections with URLs.
 
 ### 5. Wikilink check
 
 ```bash
-cd "$(git rev-parse --show-toplevel)" && node scripts/test-wikilinks.mjs
+cd "$(git rev-parse --show-toplevel)" && node scripts/utils/test-wikilinks.mjs
 ```
 
 Validates all `[[wikilink]]` cross-references resolve to existing articles.
@@ -95,7 +95,7 @@ Every article should:
 1. **Open with a named person** — not an institution or abstract concept
 2. **Have a counter-intuitive core insight** in the description
 3. **Include specific dates and numbers** — not vague references
-4. **Cite sources** — [Amharic translation needed - original Taiwan context] section with URLs
+4. **Cite sources** — ማጣቀሻዎች section with URLs
 5. **Word count ≥ 1,500** for full articles
 6. **Use wikilinks** `[[Article Name]]` for cross-references
 7. **Multi-perspective** for sensitive topics (politics, identity)

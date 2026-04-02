@@ -1,26 +1,26 @@
-name: 🐛 Bug 回報 / Bug Report
-description: 網站功能問題、顯示錯誤、連結失效等
+name: 🐛 Bug ሳንካ / Bug Report
+description: የድህረ-ገጽ ተግባራዊነት ችግሮች፣ የማሳያ ስህተቶች፣ የተሰበሩ ማስፈንጠሪያዎች፣ ወዘተ.
 title: "[Bug] "
 labels: ["bug"]
 body:
   - type: textarea
     id: description
     attributes:
-      label: 問題描述 / Description
-      description: 請描述你遇到的問題
+      label: የችግሩ መግለጫ / Description
+      description: ያጋጠመዎትን ችግር እባክዎን ይግለጹ።
     validations:
       required: true
   - type: input
     id: url
     attributes:
-      label: 問題頁面 URL
+      label: ችግር ገጽ URL
       placeholder: "https://ethiopia.md/..."
     validations:
       required: false
   - type: textarea
     id: screenshot
     attributes:
-      label: 截圖 / Screenshot
-      description: 如果可以，請附上截圖
+      label: ቅፅበተ ፎቶ / Screenshot
+      description: ከተቻለ፣ እባክዎን ቅጽበታዊ ፎቶ ያያይዙ።
     validations:
       required: false

@@ -1,24 +1,24 @@
-name: 🔍 事實更正 / Fact Correction
-description: 指出文章中的事實錯誤或過時資訊
+name: 🔍 የእውነታ ማስተካከያ / Fact Correction
+description: በጽሑፉ ውስጥ የተሳሳቱ ወይም ጊዜ ያለፈባቸው መረጃዎችን ይጥቀሱ።
 title: "[Fact Check] "
 labels: ["needs-verification"]
 body:
   - type: input
     id: article
     attributes:
-      label: 哪篇文章？/ Which article?
-      description: 文章標題或 URL
-      placeholder: "例：Ethiopia棒球文化 或 https://ethiopia.md/people/李安"
+      label: የትኛው ጽሑፍ?/ Which article?
+      description: የጽሑፍ ርዕስ ወይም URL
+      placeholder: "ለምሳሌ፡- የኢትዮጵያ የኦሮሞ ባህል ወይም https://ethiopia.md/people/oromo"
     validations:
       required: true
   - type: textarea
     id: issue
     attributes:
-      label: 哪裡有誤？/ What's wrong?
-      description: 請具體指出錯誤內容，並附上正確資訊的來源
+      label: ምንድነው ችግሩ? / What's wrong?
+      description: እባክዎ ስህተቱን ይግለጹ እና ትክክለኛውን መረጃ ምንጭ ያቅርቡ።
       placeholder: |
-        錯誤內容：「XXX 於 1990 年獲獎」
-        正確資訊：「XXX 於 1993 年獲獎」
-        來源：https://...
+        የተሳሳተ ይዘት፡ "XXX በ1990 ሽልማት አግኝቷል።"」
+        ትክክለኛ መረጃ፡ "XXX ሽልማቱን የተቀበለው በ1993 ነው።"」
+        ምንጭ፡ https://...
     validations:
       required: true
