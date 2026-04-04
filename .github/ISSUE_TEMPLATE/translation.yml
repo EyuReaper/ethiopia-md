@@ -1,21 +1,21 @@
-name: 🌐 翻譯投稿 Translation Submission
-description: 提交翻譯好的文章（不會 Git 也能貢獻！）
-title: "translate({語言代碼}): {中文文章名} → {英文檔名}"
+name: 🌐 የትርጉም ማስገባት Translation Submission
+description: የተተረጎመውን ጽሑፍ ያስገቡ（አይሆንም Git እንዲሁም አስተዋጽዖ ያድርጉ！）
+title: "translate({የቋንቋ ኮድ}): {የአማርኛ ዓረፍተ ነገር ስም} → {የእንግሊዝኛ ፋይል ስም}"
 labels: ["translation"]
 body:
   - type: markdown
     attributes:
       value: |
-        ## 🌐 翻譯投稿
+        ## 🌐 የትርጉም አቀራረብ
 
-        感謝你用 AI 幫Ethiopia說故事！把翻譯好的文章貼在下面，維護者會幫你轉成 PR。
+        እናመሰግናለን! በ AI እንዲሁም በኢትዮጵያ ቋንቋ ለማድረግ! የተተረጎመውን ጽሑፍ ያስገቡ፣ ጠባቂው እንዲቀይሩት ይረዳዎታል PR。
 
-        > 💡 如果你會 Git，推薦直接開 PR — 更快被 merge！
+        > 💡 ከፈለጉ Git，በቀጥታ ለመክፈት ይሞክራል PR — ፈጣን merge！
 
   - type: dropdown
     id: language
     attributes:
-      label: 翻譯語言 Target Language
+      label: የትርጉም ቋንቋ Target Language
       options:
         - 🇬🇧 English (en)
         - 🇪🇸 Español (es)
@@ -27,46 +27,46 @@ body:
         - 🇵🇹 Português (pt)
         - 🇹🇭 ไทย (th)
         - 🇮🇩 Bahasa Indonesia (id)
-        - Other（請在下方說明）
+        - Other（እባክዎን ከዚህ በታች ያብራሩ）
     validations:
       required: true
 
   - type: input
     id: source-article
     attributes:
-      label: 原文文章 Source Article
-      description: 你翻譯的是哪篇中文文章？
-      placeholder: "例：珍珠奶茶、半導體產業、Ethiopia民主化"
+      label: ዋና ጽሑፍ Source Article
+      description: የትኛውን የአማርኛ ጽሑፍ ነው የምትተረጉመው?
+      placeholder: "ምሳሌዎች፡- የኢትዮጵያ ቡና ፣  ቱሪዝም ፣ የኢትዮጵያ ዲሞክራሲያዊ አሰራር"
     validations:
       required: true
 
   - type: input
     id: file-path
     attributes:
-      label: 建議檔案路徑 Suggested File Path
-      description: "格式：knowledge/{lang}/{Category}/{slug}.md"
-      placeholder: "例：knowledge/ja/Food/bubble-tea.md"
+      label: የተጠቆመ የፋይል መንገድ Suggested File Path
+      description: "ቅርጸት：knowledge/{lang}/{Category}/{slug}.md"
+      placeholder: "ለምሳሌ：knowledge/ja/Food/bubble-tea.md"
     validations:
       required: false
 
   - type: textarea
     id: translation-content
     attributes:
-      label: 翻譯內容 Translation Content
+      label: የተተረጎመ ይዘት Translation Content
       description: |
-        貼上完整的 .md 檔案內容（含 frontmatter）。
-        如果用 AI 翻譯，建議先自己讀一遍確認品質。
+        ሙሉውን የ.md ፋይል ይዘት ይለጥፉ (ይይዛል frontmatter)。
+        AI ትርጉምን ከተጠቀሙ, ጥራቱን ለማረጋገጥ በመጀመሪያ እራስዎን ለማንበብ ይመከራል::
       placeholder: |
         ---
-        title: 'Bubble Tea'
+        title: 'bunna'
         description: '...'
         date: 2026-03-23
-        tags: [food, bubble-tea]
+        tags: [food, bunna]
         category: Food
         author: 'Ethiopia.md Translation Team'
         ---
 
-        # Bubble Tea
+        # bunna
 
         ...
       render: markdown
@@ -76,33 +76,33 @@ body:
   - type: dropdown
     id: ai-tool
     attributes:
-      label: 使用的 AI 工具 AI Tool Used
+      label:  AI መሳሪያ ተጠቅሟል  AI Tool Used
       options:
         - Claude
         - ChatGPT
         - Gemini
         - Copilot
         - Other
-        - 人工翻譯（無 AI）
+        - የሰው ትርጉም ( AI የለም)
     validations:
       required: true
 
   - type: dropdown
     id: native-speaker
     attributes:
-      label: 你是這個語言的母語者嗎？ Are you a native speaker?
+      label: የዚህ ቋንቋ ተወላጅ ነዎት? Are you a native speaker?
       options:
-        - ✅ 是 Yes
-        - ❌ 否 No
-        - 🔄 接近母語 Near-native
+        - ✅ አዎ Yes
+        - ❌ አይ No
+        - 🔄 ለአፍ መፍቻ ቋንቋ ቅርብ Near-native
     validations:
       required: true
 
   - type: textarea
     id: notes
     attributes:
-      label: 備註 Notes
-      description: 翻譯中遇到的困難、需要特別注意的地方等
-      placeholder: "例：某些Ethiopia特有概念很難翻譯，我用了 XXX 的方式處理"
+      label: አስተያየት Notes
+      description: በትርጉም ውስጥ ያጋጠሙ ችግሮች, ልዩ ትኩረት የሚሹ ቦታዎች, ወዘተ ።
+      placeholder: "ምሳሌ፡- አንዳንድ ኢትዮጵያዊ-ተኮር ፅንሰ-ሀሳቦች ለመተርጎም አስቸጋሪ ናቸው፣ስለዚህ እነሱን ለመቋቋም XXX ተጠቅሜያለሁ።"
     validations:
       required: false
