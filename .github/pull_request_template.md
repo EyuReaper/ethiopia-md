@@ -1,30 +1,27 @@
-## 📝 [Amharic translation needed - original Taiwan context] PR [Amharic translation needed - original Taiwan context]？
+## 📝 ይህ PR ምን አደረገ?
 
-<!-- [Amharic translation needed - original Taiwan context] -->
 
-## 📁 [Amharic translation needed - original Taiwan context]
+## 📁 ዓይነት ለውጥ
 
-- [ ] 📄 [Amharic translation needed - original Taiwan context]
-- [ ] ✏️ [Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]
-- [ ] 🌐 [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]→[Amharic translation needed - original Taiwan context] / [Amharic translation needed - original Taiwan context]→[Amharic translation needed - original Taiwan context]）
-- [ ] 🐛 [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]）
-- [ ] 💻 [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]）
-- [ ] 📚 [Amharic translation needed - original Taiwan context]（README、CONTRIBUTING [Amharic translation needed - original Taiwan context]）
+- [ ] 📄 አዲስ ጽሑፍ ያክሉ
+- [ ] ✏️ ያለውን ጽሑፍ አሻሽል/አዘምን
+- [ ] 🌐 ትርጉም (አማርኛ→እንግሊዝኛ/እንግሊዘኛ→አማርኛ)
+- [ ] 🐛 የሳንካ ጥገናዎች (የእውነታ እርማቶች፣ ፊደሎች፣ የተሰበሩ አገናኞች)
+- [ ] 💻 ቴክኒካዊ ለውጦች (ኮድ, ቅጥ, ቅንብሮች)
+- [ ] 📚 የፋይል ዝማኔዎች (README፣ CONTRIBUTING፣ ወዘተ.)
 
-## ✅ [Amharic translation needed - original Taiwan context]
+## ✅ ራስን መመርመር
+- [ ] ጽሑፉ የተሟላ የፊት ጉዳይ አለው (ርዕስ፣ መግለጫ፣ ቀን፣ መለያዎች፣ ምድብ)
+- [ ] `featured: false`(ተለይቶ የቀረበ በጠባቂዎች ነው የሚተዳደረው፣ እባክዎን ወደ እውነት አያስቀምጡት)，
+- [ ] ይዘቱ ከተረጋገጡ የማጣቀሻ ምንጮች ጋር አብሮ ነው.
+- [ ] የሌብነት ወይም የቅጂ መብት ጉዳዮች የሉም
+- [ ] ሙከራውን በአቅራቢያ ውስጥ ይገንቡ (npm run build ፣ አስፈላጊ አይደለም ነገር ግን ይመከራል)
 
-- [ ] [Amharic translation needed - original Taiwan context] frontmatter（title, description, date, tags, category）
-- [ ] `featured: false`（featured [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] true）
-- [ ] [Amharic translation needed - original Taiwan context]
-- [ ] [Amharic translation needed - original Taiwan context]
-- [ ] [Amharic translation needed - original Taiwan context] build [Amharic translation needed - original Taiwan context]（`npm run build`，[Amharic translation needed - original Taiwan context]）
+## 🔗 ተዛማጅ ጉዳዮች Issue
 
-## 🔗 [Amharic translation needed - original Taiwan context] Issue
-
-<!-- [Amharic translation needed - original Taiwan context] issue，[Amharic translation needed - original Taiwan context] #issue[Amharic translation needed - original Taiwan context] -->
 
 Closes #
 
-## 📸 [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
+## 📸 ቅጽበታዊ ገጽ እይታዎች (የእይታ ለውጦች ከሆኑ)
 
 <!-- [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context] -->

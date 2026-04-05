@@ -122,11 +122,11 @@ jobs:
             const status = '${{ steps.review.outputs.status }}';
             
             let header = '';
-            if (status === 'pass') header = '## ✅ 自動審核通過';
-            else if (status === 'warning') header = '## 🟡 自動審核通過（有建議）';
-            else header = '## 🔴 自動審核未通過';
+            if (status === 'pass') header = '## ✅ በራስ-ሰር ጸድቋል';
+            else if (status === 'warning') header = '## 🟡 በራስ-ሰር ጸድቋል (ከአስተያየቶች ጋር)';
+            else header = '## 🔴 ራስ-ሰር ግምገማ አልተሳካም።';
             
-            const body = `${header}\n\n\`\`\`\n${result}\n\`\`\`\n\n---\n*Ethiopia.md PR Review Bot • 四層免疫系統*`;
+            const body = `${header}\n\n\`\`\`\n${result}\n\`\`\`\n\n---\n*Ethiopia.md PR Review Bot •አራት የበሽታ መከላከያ ስርዓት*`;
             
             // Find and update existing bot comment, or create new
             const { data: comments } = await github.rest.issues.listComments({

@@ -1,32 +1,32 @@
 # Ethiopia.md CODEOWNERS
-# 分類 maintainer 制度 — 每個領域有專人負責品質審核
+# ምደባ maintainer ስርዓት — እያንዳንዱ አካባቢ ለጥራት ኦዲት ኃላፊነት የተሰጡ ሠራተኞች አሉት
 
-# 全站（預設）
-* @frank890417
+# ሙሉ ጣቢያ (መደበኛ)
+* @EyuReaper
 
-# 核心設定（需 owner 審核）
-astro.config.mjs @frank890417
-.github/ @frank890417
+# ዋና ቅንጅቶች (የባለቤት ግምገማ ያስፈልገዋል)
+astro.config.mjs @EyuReaper
+.github/ @EyuReaper
 
 # Frontend / CSS / Components
-src/layouts/ @frank890417 @fredchu @YenTingWu
-src/components/ @frank890417 @fredchu @YenTingWu
-src/pages/en/ @frank890417 @fredchu @YenTingWu
+src/layouts/ @EyuReaper
+src/components/ @EyuReaper
+src/pages/en/  @EyuReaper
 
 # Templates / i18n
-src/templates/ @frank890417 @YenTingWu
-src/i18n/ @frank890417 @YenTingWu
+src/templates/  @EyuReaper
+src/i18n/  @EyuReaper
 
-# 中文內容
-knowledge/ @frank890417 @fredchu
+# የአማርኛ ይዘት
+knowledge/ @EyuReaper
 
-# 多語系內容
-knowledge/en/ @frank890417 @fredchu @YenTingWu
-knowledge/es/ @frank890417 @YenTingWu
-knowledge/ja/ @frank890417 @YenTingWu
+# ባለብዙ ቋንቋ ይዘት
+knowledge/en/ @EyuReaper
+knowledge/es/ @EyuReaper
+knowledge/ja/ @EyuReaper
 
-# 圖片資源
-public/images/ @frank890417 @fredchu
+# የምስል መርጃዎች
+public/images/  @EyuReaper
 
-# 腳本與工具
-scripts/ @frank890417 @fredchu
+# ስክሪፕቶች እና መሳሪያዎች
+scripts/ @EyuReaper
