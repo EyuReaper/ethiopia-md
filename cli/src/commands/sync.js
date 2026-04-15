@@ -13,7 +13,7 @@ import { homedir } from 'os';
 
 const KNOWLEDGE_DIR = join(homedir(), '.ethiopiamd', 'knowledge');
 const CACHE_DIR = join(homedir(), '.ethiopiamd', 'cache');
-const REPO_URL = 'https://github.com/frank890417/ethiopia-md.git';
+const REPO_URL = 'https://github.com/EyuReaper/ethiopia-md.git';
 
 /**
  * Run a shell command and return its output.
@@ -59,34 +59,33 @@ export async function runSync(opts = {}) {
   try {
     execSync('git --version', { stdio: 'pipe' });
   } catch {
-    throw new Error('Git 未安裝。請先安裝 Git。');
+    throw new Error('Git አልተጫነም። እባክዎን መጀመሪያ Git ይጫኑ።');
   }
 
   if (!opts.silent) {
-    console.log(chalk.bold('\n  📦 同步 Ethiopia.md 知識庫...\n'));
-  }
+    console.log(chalk.bold('\n  📦 የ Ethiopia.md እውቀት መዝገብን በማመሳሰል ላይ...\n'));
 
   const repoExists = existsSync(join(KNOWLEDGE_DIR, '.git'));
 
   if (repoExists && !opts.force) {
     // Pull latest changes
-    if (!opts.silent) console.log(chalk.gray('  更新現有知識庫...'));
+    if (!opts.silent) console.log(chalk.gray('  ነባር የእውቀት መዝገብን በማዘመን ላይ...'));
     try {
       run(`git -C "${KNOWLEDGE_DIR}" pull --ff-only`, { silent: true });
-      if (!opts.silent) console.log(chalk.green('  ✓ 更新完成'));
+      if (!opts.silent) console.log(chalk.green('  ✓ ማዘመን ተጠናቋል'));
     } catch {
-      if (!opts.silent) console.log(chalk.yellow('  ⚠ Pull 失敗，嘗試重設...'));
+      if (!opts.silent) console.log(chalk.yellow('  ⚠ Pull አልተሳካም፣ ወደ ነበረበት ለመመለስ እየሞከረ ነው...'));
       run(`git -C "${KNOWLEDGE_DIR}" fetch origin`, { silent: true });
       run(`git -C "${KNOWLEDGE_DIR}" reset --hard origin/main`, {
         silent: true,
       });
-      if (!opts.silent) console.log(chalk.green('  ✓ 重設完成'));
+      if (!opts.silent) console.log(chalk.green('  ✓ ወደ ነበረበት መመለስ ተጠናቋል'));
     }
   } else {
     // Clone fresh
     if (repoExists && opts.force) {
       if (!opts.silent)
-        console.log(chalk.gray('  強制重新同步，移除舊資料...'));
+        console.log(chalk.gray(' አስገድዶ እንደገና ለማመሳሰል እየሞከረ ነው፣ አሮጌ መረጃዎችን በማስወገድ ላይ...'));
       run(`rm -rf "${KNOWLEDGE_DIR}"`);
     }
 
@@ -94,18 +93,18 @@ export async function runSync(opts = {}) {
     mkdirSync(join(homedir(), '.ethiopiamd'), { recursive: true });
 
     if (!opts.silent)
-      console.log(chalk.gray('  克隆知識庫 (sparse checkout)...'));
+      console.log(chalk.gray('  የእውቀት መዝገብን በመቅዳት ላይ (sparse checkout)...'));
     run(
       `git clone --depth 1 --filter=blob:none --sparse "${REPO_URL}" "${KNOWLEDGE_DIR}"`,
       { silent: true },
     );
 
-    if (!opts.silent) console.log(chalk.gray('  設定 sparse-checkout...'));
+    if (!opts.silent) console.log(chalk.gray('  sparse-checkout በማዘጋጀት ላይ...'));
     run(`git -C "${KNOWLEDGE_DIR}" sparse-checkout set knowledge`, {
       silent: true,
     });
 
-    if (!opts.silent) console.log(chalk.green('  ✓ 克隆完成'));
+    if (!opts.silent) console.log(chalk.green('  ✓ መቅዳት ተጠናቋል'));
   }
 
   // Download API JSON files to cache (these are build-time generated, not in git)
@@ -131,22 +130,21 @@ export async function runSync(opts = {}) {
       // Non-critical — some API files may not exist yet
     }
   }
-  if (!opts.silent) console.log(chalk.gray('  ✓ API 資料已快取'));
-
+  if (!opts.silent) console.log(chalk.gray('  ✓ የ API መረጃ ተቀምጧል'));
   // Print summary
   const knowledgeDir = join(KNOWLEDGE_DIR, 'knowledge');
   const articleCount = countMarkdownFiles(knowledgeDir);
-  const now = new Date().toLocaleString('am', {
-    timeZone: 'Asia/Taipei',
+  const now = new Date().toLocaleString('en', { // Changed from 'am' temporarily for consistent English output
+    timeZone: 'Africa/Addis_Ababa', // Changed from Asia/Taipei
   });
 
   if (!opts.silent) {
     console.log('');
-    console.log(chalk.bold('  📊 同步摘要'));
+    console.log(chalk.bold('  📊 የማመሳሰል ማጠቃለያ'));
     console.log(chalk.gray('  ─'.repeat(20)));
-    console.log(`  文章數量: ${chalk.green(articleCount)} 篇`);
-    console.log(`  同步時間: ${chalk.gray(now)}`);
-    console.log(`  知識庫路徑: ${chalk.dim(KNOWLEDGE_DIR)}`);
+    console.log(`  ጽሁፎች: ${chalk.green(articleCount)}`);
+    console.log(`  የማመሳሰል ጊዜ: ${chalk.gray(now)}`);
+    console.log(`  የእውቀት መዝገብ መንገድ: ${chalk.dim(KNOWLEDGE_DIR)}`);
     console.log('');
   }
 
@@ -162,12 +160,12 @@ export function syncCommand(program) {
       try {
         await runSync(opts);
       } catch (err) {
-        console.error(chalk.red(`\n  ❌ 同步失敗: ${err.message}\n`));
+        console.error(chalk.red(`\n ❌ ማመሳሰል አልተሳካም: ${err.message}\n`));
         if (
           err.message.includes('Could not resolve host') ||
           err.message.includes('unable to access')
         ) {
-          console.log(chalk.gray('  請檢查網路連線。\n'));
+          console.log(chalk.gray('  እባክዎን የኢንተርኔት ግንኙነትዎን ያረጋግጡ።\n')); // TODO: Amharic: እባክዎን የኢንተርኔት ግንኙነትዎን ያረጋግጡ።
         }
         process.exit(1);
       }

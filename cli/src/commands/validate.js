@@ -5,9 +5,9 @@
  * Outputs a score card with detailed checks.
  *
  * Usage:
- *   ethiopiamd validate 珍珠奶茶
- *   ethiopiamd validate Ethiopia小吃 --json
- *   ethiopiamd validate 台積電 --fix
+ *   ethiopiamd validate ቡና
+ *   ethiopiamd validate Ethiopiaእንጀራ --json
+ *   ethiopiamd validate አድዋ --fix
  */
 
 import fs from 'fs';
@@ -17,15 +17,16 @@ import { getArticleFiles, readArticle } from '../lib/knowledge.js';
 import { ensureData } from '../lib/ensure-data.js';
 
 // ── AI hollow phrase patterns ────────────────────────────────────────────────
+// These are common filler phrases that often appear in AI-generated content.
+// Updated for English context; Amharic patterns can be added later.
 const HOLLOW_PATTERNS = [
-  { pattern: /不僅[^，。]{0,20}更是/g, label: '"不僅...更是" 句型' },
-  { pattern: /扮演著重要角色/g, label: '"扮演著重要角色"' },
-  { pattern: /不可或缺的一環/g, label: '"不可或缺的一環"' },
-  { pattern: /具有重要意義/g, label: '"具有重要意義"' },
-  { pattern: /發揮著重要作用/g, label: '"發揮著重要作用"' },
-  { pattern: /值得我們深思/g, label: '"值得我們深思"' },
-  { pattern: /不容忽視/g, label: '"不容忽視"' },
-  { pattern: /不斷[^，。]{0,10}進步/g, label: '"不斷...進步" 陳詞' },
+  { pattern: /it is important to note/gi, label: '"it is important to note"' },
+  { pattern: /plays a crucial role/gi, label: '"plays a crucial role"' },
+  { pattern: /an indispensable part/gi, label: '"an indispensable part"' },
+  { pattern: /is of great significance/gi, label: '"is of great significance"' },
+  { pattern: /a multi-faceted approach/gi, label: '"a multi-faceted approach"' },
+  { pattern: /in the grand scheme of things/gi, label: '"in the grand scheme of things"' },
+  { pattern: /it is worth considering/gi, label: '"it is worth considering"' },
 ];
 
 // Minimum word count to pass
@@ -39,18 +40,19 @@ const DESC_MIN = 50;
 const DESC_MAX = 200;
 
 /**
- * Count CJK + latin words in text.
+ * Count Amharic characters + latin words in text.
  */
 function countWords(text) {
   if (!text) return 0;
-  const cjkRegex = /[\u4e00-\u9fff\u3400-\u4dbf\uf900-\ufaff]/g;
-  const cjkCount = (text.match(cjkRegex) || []).length;
-  const withoutCjk = text.replace(cjkRegex, ' ');
-  const latinWords = withoutCjk
+  // Match Amharic and CJK characters
+  const nonLatinRegex = /[\u1200-\u137F\u4e00-\u9fff\u3400-\u4dbf\uf900-\ufaff]/g;
+  const nonLatinCount = (text.match(nonLatinRegex) || []).length;
+  const withoutNonLatin = text.replace(nonLatinRegex, ' ');
+  const latinWords = withoutNonLatin
     .replace(/[^\w\s]/g, ' ')
     .split(/\s+/)
     .filter((w) => w.length > 0);
-  return cjkCount + latinWords.length;
+  return nonLatinCount + latinWords.length;
 }
 
 /**
@@ -93,14 +95,14 @@ function runChecks(frontmatter, body) {
     id: 'frontmatter',
     pass: fmPass,
     warn: !fmPass,
-    label: 'Frontmatter 完整',
+    label: 'Frontmatter ተሟልቷል  ',
     detail: `${fmScore}/${fmFields.length}`,
     missing: fmFields.filter((f) => !fmPresent.includes(f)),
     points: fmPass ? 20 : Math.floor((fmScore / fmFields.length) * 20),
     maxPoints: 20,
     fix: fmPass
       ? null
-      : `補齊缺少的欄位: ${fmFields.filter((f) => !fmPresent.includes(f)).join(', ')}`,
+        `የጎደሉ መስኮችን ያሟሉ: ${fmFields.filter((f) => !fmPresent.includes(f)).join(', ')}`,
   });
 
   // ── 2. Word count ────────────────────────────────────────────────────────
@@ -110,13 +112,13 @@ function runChecks(frontmatter, body) {
     id: 'wordcount',
     pass: wcPass,
     warn: !wcPass,
-    label: '字數充足',
-    detail: `${wordCount.toLocaleString()} 字`,
+    label: 'በቂ የቃላት ብዛት',
+    detail: `${wordCount.toLocaleString()} words`,
     points: wcPass ? 20 : Math.floor((wordCount / MIN_WORD_COUNT) * 20),
     maxPoints: 20,
     fix: wcPass
       ? null
-      : `文章目前 ${wordCount} 字，建議至少 ${MIN_WORD_COUNT} 字。請擴充各段落內容。`,
+        `በአሁኑ ጽሁፉ ብዛት: ${wordCount} ቃላት አሉት ። የሚመከረው: ቢያንስ ${MIN_WORD_COUNT}. እባኮትን ይዘቱን ያስፉ ።`,
   });
 
   // ── 3. Headings ──────────────────────────────────────────────────────────
@@ -127,13 +129,13 @@ function runChecks(frontmatter, body) {
     id: 'headings',
     pass: headingPass,
     warn: !headingPass,
-    label: '標題數充足',
-    detail: `${headingCount} 個, 建議 ≥${MIN_HEADINGS}`,
+    label: 'በቂ አርዕስት',
+    detail: `${headingCount}, suggested ≥${MIN_HEADINGS}`,
     points: headingPass ? 20 : Math.floor((headingCount / MIN_HEADINGS) * 20),
     maxPoints: 20,
     fix: headingPass
       ? null
-      : `增加 ## 二級標題，建議加入: 概述、歷史背景、當代發展、國際比較、參考資料`,
+        `## የሁለተኛ ደረጃ አርዕስት ይጨምሩ ። ሚመከረው: Overview, History, Modern Context, References.`,
   });
 
   // ── 4. Reference links ───────────────────────────────────────────────────
@@ -144,13 +146,14 @@ function runChecks(frontmatter, body) {
     id: 'references',
     pass: refPass,
     warn: !refPass,
-    label: '參考資料',
-    detail: `${refCount} 個來源`,
+    label: 'ዋቢ ምንጮች',
+    detail: `${refCount} ምንጮች`,
     points: refPass ? 20 : Math.floor((refCount / MIN_REFERENCES) * 20),
     maxPoints: 20,
     fix: refPass
       ? null
-      : `新增至少 ${MIN_REFERENCES} 個 Markdown 格式的參考連結，例如: [來源名稱](https://example.com)`,
+      :
+        `ቢያንስ ${MIN_REFERENCES} ዋቢ ምንጮችን ይጨምሩ ። markdown-formatted links, e.g., [Source Name](https://example.com)`,
   });
 
   // ── 5. AI hollow phrases ─────────────────────────────────────────────────
@@ -167,14 +170,15 @@ function runChecks(frontmatter, body) {
     id: 'hollow',
     pass: hollowPass,
     warn: !hollowPass,
-    label: 'AI 空洞句式',
-    detail: hollowPass ? '無' : `${hollowTotal} 處`,
+    label: 'የ AI ባዶ አገላለጾች',
+    detail: hollowPass ? 'None' : `${hollowTotal} found`,
     found: foundHollow,
     points: hollowPass ? 10 : Math.max(0, 10 - hollowTotal * 3),
     maxPoints: 10,
     fix: hollowPass
       ? null
-      : `移除或改寫以下句式: ${foundHollow.map((h) => h.label).join('、')}`,
+      :
+        `የሚከተሉትን አገላለጾች ያስወግዱ ወይም ይለዉጡ: ${foundHollow.map((h) => h.label).join(', ')}`,
   });
 
   // ── 6. Description length ────────────────────────────────────────────────
@@ -185,20 +189,25 @@ function runChecks(frontmatter, body) {
     id: 'description',
     pass: descPass,
     warn: descWarn,
-    label: '描述長度',
+    label: 'የገለጻ ርዝመት',
     detail:
       descLen === 0
-        ? '缺少描述'
-        : `${descLen} 字${descPass ? '，適中' : descLen < DESC_MIN ? '，過短' : '，過長'}`,
-    points: descPass ? 10 : descLen === 0 ? 0 : 5,
-    maxPoints: 10,
-    fix: descPass
+        ?
+          'ገለጻ የለም'
+        :
+          `${descLen} ቃላት (${descPass ? 'በጣም ጥሩ' : descLen < DESC_MIN ? 'በጣም አነሰ' : 'በጣም ረዘመ'})`,
+          points: descPass ? 10 : descLen === 0 ? 0 : 5,
+          maxPoints: 10,
+          fix: descPass
       ? null
       : descLen === 0
-        ? '新增 description 欄位，建議 50-200 字的摘要'
+        ?
+          'የ ገለጻ መስክ ይጨምሩ (50-200 ቃላት ይመከራል)'
         : descLen < DESC_MIN
-          ? `描述過短 (${descLen} 字)，請擴充至 ${DESC_MIN}-${DESC_MAX} 字`
-          : `描述過長 (${descLen} 字)，請精簡至 ${DESC_MAX} 字以內`,
+          ?
+            `ገለጻው በጣም አጭር ነው (${descLen} ቃላት) ፤ ወደ ${DESC_MIN}-${DESC_MAX} ይስፋ`
+          :
+            `ገለጻው በጣም ረጅም ነው (${descLen} ቃላት), ወደ ${DESC_MAX} ይጠር`,
   });
 
   // Calculate total score
@@ -213,9 +222,9 @@ function runChecks(frontmatter, body) {
  */
 function scoreTier(score, total) {
   const pct = (score / total) * 100;
-  if (pct >= 90) return { emoji: '🟢', label: '優秀' };
-  if (pct >= 70) return { emoji: '🟡', label: '需要改善' };
-  return { emoji: '🔴', label: '需要大幅改善' };
+  if (pct >= 90) return { emoji: '🟢', label: 'ምርጥ' };
+  if (pct >= 70) return { emoji: '🟡', label: 'መሻሻል አለበት' };
+  return { emoji: '🔴', label: 'ከፍተኛ ማሻሻያ ያስፈልገዋል' };
 }
 
 export function validateCommand(program) {
@@ -230,7 +239,7 @@ export function validateCommand(program) {
 
         const filePath = findArticleBySlug(slug);
         if (!filePath) {
-          const msg = `找不到文章: "${slug}"。請確認 slug 正確，或先執行 ethiopiamd sync。`;
+         const msg = `ጽሁፉ አልተገኘም: "${slug}". Check the slug or run ethiopiamd sync.`;
           if (opts.json) {
             console.log(JSON.stringify({ error: msg }, null, 2));
           } else {
@@ -275,7 +284,7 @@ export function validateCommand(program) {
         // ── Human-readable score card ──────────────────────────────────────
         console.log('');
         console.log(
-          chalk.bold(`📋 文章品質檢查: ${frontmatter.title || slug}`),
+          chalk.bold(`📋 የጽሁፍ ጥራት ምርመራ: ${frontmatter.title || slug}`),
         );
         console.log('');
 
@@ -292,14 +301,14 @@ export function validateCommand(program) {
 
         console.log('');
         const tierStr = `${tier.emoji} ${tier.label}`;
-        console.log(chalk.bold(`總分: ${score}/${total} — ${tierStr}`));
+        console.log(chalk.bold(`ጠቅላላ ውጤት: ${score}/${total} — ${tierStr}`));
         console.log('');
 
         if (!opts.fix && checks.some((c) => !c.pass)) {
-          console.log(chalk.gray('  提示: 使用 --fix 查看改善建議\n'));
+          console.log(chalk.gray('  ፍንጭ:  የማሻሻያ ሃሳቦችን ለማየት --fix ይጠቀሙ\n'));
         }
       } catch (err) {
-        console.error(chalk.red(`\n❌ 驗證失敗: ${err.message}\n`));
+        console.error(chalk.red(`\n❌ ምርመራው አልተሳካም: ${err.message}\n`));
         process.exit(1);
       }
     });

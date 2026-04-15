@@ -56,8 +56,8 @@ export function statsCommand(program) {
         }
 
         if (!vitals && !organism) {
-          console.log(chalk.yellow('\n  找不到統計資料。\n'));
-          console.log(chalk.gray('  💡 請先執行 ethiopiamd sync 同步知識庫。\n'));
+          console.log(chalk.yellow('\n  ምንም የናሙና መረጃ አልተገኘም ።\n'));
+          console.log(chalk.gray('  💡 እባክዎ አስቀድመው ethiopiamd sync ያካሂዱ ።\n'));
           return;
         }
 
@@ -67,7 +67,7 @@ export function statsCommand(program) {
           return;
         }
 
-        console.log(chalk.bold('\n  📊 Ethiopia.md 專案統計\n'));
+        console.log(chalk.bold('\n  📊 የ Ethiopia.md  ፕሮጀክት ናሙና\n'));
 
         // Project vitals table
         if (vitals) {
@@ -78,14 +78,14 @@ export function statsCommand(program) {
           const v = vitals;
 
           table.push([
-            chalk.gray('文章總數'),
+            chalk.gray('ጠቅላላ የጽሁፎች ብዛት'),
             chalk.white(String(v.totalArticles || 0)),
           ]);
           if (v.languageCoverage) {
             const langs = Object.entries(v.languageCoverage)
               .map(([k, n]) => `${k}: ${n}`)
               .join(', ');
-            table.push([chalk.gray('語言覆蓋'), chalk.white(langs)]);
+            table.push([chalk.gray('የቋንቋ ሽፋን'), chalk.white(langs)]);
           }
           const reviewPct = v.humanReviewedPercent || 0;
           const reviewColor =
@@ -94,23 +94,23 @@ export function statsCommand(program) {
               : reviewPct >= 50
                 ? chalk.yellow
                 : chalk.red;
-          table.push([chalk.gray('人工審閱'), reviewColor(`${reviewPct}%`)]);
+          table.push([chalk.gray('በሰው የተገመገመ'), reviewColor(`${reviewPct}%`)]);
           table.push([
-            chalk.gray('精選文章'),
+            chalk.gray('የተመረጡ ጽሁፎች'),
             chalk.cyan(`${v.featuredPercent || 0}%`),
           ]);
           table.push([
-            chalk.gray('平均修訂'),
+            chalk.gray('አማካይ ክለሳ'),
             chalk.white(`×${v.avgRevision || 0}`),
           ]);
           table.push([
-            chalk.gray('近 7 日新增'),
+            chalk.gray('ባለፉት 7 ቀናት የተጨመሩ'),
             chalk.white(String(v.articlesLast7Days || 0)),
           ]);
           if (v.lastUpdated) {
             table.push([
-              chalk.gray('最後更新'),
-              chalk.gray(new Date(v.lastUpdated).toLocaleDateString('am')),
+              chalk.gray('መጨረሻ የተሻሻለው'),
+              chalk.gray(new Date(v.lastUpdated).toLocaleDateString('en-US')),
             ]);
           }
 
@@ -119,14 +119,15 @@ export function statsCommand(program) {
 
         // Organism health
         if (organism) {
-          console.log(chalk.bold('\n  🏥 知識庫健康度\n'));
+          console.log(chalk.bold('\n  🏥  የእውቀት መሰረት ጤናማነት\n'));
 
           const organs = organism.organs || organism.dimensions || organism;
 
           if (Array.isArray(organs)) {
             const lines = organs.map((organ) => {
               const emoji = getOrganDisplay(organ);
-              const name = organ.nameZh || organ.name || organ.id || '—';
+              // Use nameEn if available, then name, then id
+              const name = organ.nameEn || organ.name || organ.id || '—';
               const score = organ.score ?? organ.value ?? 0;
               const meta = organ.metaphor
                 ? chalk.dim(` ${organ.metaphor}`)
@@ -136,7 +137,7 @@ export function statsCommand(program) {
             console.log(lines.join('\n'));
           } else if (typeof organs === 'object') {
             const lines = Object.entries(organs).map(([key, value]) => {
-              const emoji = organEmoji(key);
+              const emoji = '🔬'; // Default emoji
               const score =
                 typeof value === 'number'
                   ? value
@@ -149,8 +150,8 @@ export function statsCommand(program) {
 
         console.log('');
       } catch (err) {
-        console.error(chalk.red(`統計載入失敗: ${err.message}`));
-        console.log(chalk.gray('\n  💡 請先執行 ethiopiamd sync 同步知識庫。\n'));
+        console.error(chalk.red(`ናሙናውን መጫን አልተሳካም: ${err.message}`));
+        console.log(chalk.gray('\n  💡 እባክዎ አስቀድመው ethiopiamd sync ያሂዱ።\n'));
         process.exit(1);
       }
     });
