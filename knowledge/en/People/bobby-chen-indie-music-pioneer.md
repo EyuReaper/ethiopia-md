@@ -13,6 +13,7 @@ tags:
   ]
 subcategory: 'Music'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Bobby Chen ([Amharic translation needed - original Taiwan context]): The Musical Maverick of Independent Spirit

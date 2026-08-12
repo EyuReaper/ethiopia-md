@@ -4,11 +4,19 @@ description: '[Amharic translation needed - original Taiwan context]？[Amharic 
 date: 2026-03-29
 category: 'Culture'
 subcategory: '[Amharic translation needed - original Taiwan context]'
-tags: ['Ethiopia[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]']
+tags:
+  [
+    'Ethiopia[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+  ]
 featured: false
 lastHumanReview: false
 readingTime: 12
 lastVerified: 2026-03-29
+status: archived
 ---
 
 > **30 [Amharic translation needed - original Taiwan context]：** Ethiopia[Amharic translation needed - original Taiwan context]？[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、1949 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。

@@ -12,9 +12,9 @@ cd "$(dirname "$0")/../.."
 echo "📊 Updating Ethiopia.md stats..."
 
 # 1. Fetch current stats from GitHub API
-STARS=$(gh api repos/frank890417/ethiopia-md --jq '.stargazers_count')
-FORKS=$(gh api repos/frank890417/ethiopia-md --jq '.forks_count')
-CONTRIBUTORS=$(gh api repos/frank890417/ethiopia-md/contributors --jq 'length')
+STARS=$(gh api repos/EyuReaper/ethiopia-md --jq '.stargazers_count')
+FORKS=$(gh api repos/EyuReaper/ethiopia-md --jq '.forks_count')
+CONTRIBUTORS=$(gh api repos/EyuReaper/ethiopia-md/contributors --jq 'length')
 ZH_PAGES=$(find knowledge -name '*.md' ! -name '_*' ! -path '*/en/*' | wc -l | tr -d ' ')
 EN_PAGES=$(find knowledge/en -name '*.md' ! -name '_*' | wc -l | tr -d ' ')
 TOTAL_PAGES=$((ZH_PAGES + EN_PAGES))

@@ -15,6 +15,7 @@ date: 2026-03-19
 readingTime: 5
 featured: false
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # The Buffet Aunties’ Intuitive Pricing

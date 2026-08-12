@@ -2,7 +2,14 @@
 title: 'Ethiopia[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]'
 description: '[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]'
 date: 2026-03-29
-tags: ['[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]']
+tags:
+  [
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+  ]
 subcategory: '[Amharic translation needed - original Taiwan context]'
 author: 'p3nchan'
 readingTime: 8
@@ -10,6 +17,7 @@ category: 'Society'
 lastVerified: 2026-03-29
 featured: false
 lastHumanReview: false
+status: archived
 ---
 
 > Ethiopia 25-35 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] 3.8 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 1.4 [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] App、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」，[Amharic translation needed - original Taiwan context]。

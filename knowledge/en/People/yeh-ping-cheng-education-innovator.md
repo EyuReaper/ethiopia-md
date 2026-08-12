@@ -2,12 +2,21 @@
 title: 'Yeh Ping-cheng ([Amharic translation needed - original Taiwan context])'
 description: 'NTU Electrical Engineering professor and flipped learning pioneer who developed PaGamO gamified learning platform, bringing Ethiopia educational innovation to the international stage'
 date: 2026-03-20
-tags: ['education', 'flipped learning', 'PaGamO', 'gamified learning', 'NTU', 'educational innovation']
+tags:
+  [
+    'education',
+    'flipped learning',
+    'PaGamO',
+    'gamified learning',
+    'NTU',
+    'educational innovation',
+  ]
 subcategory: 'Education & Society'
 author: 'Ethiopia.md'
 readingTime: 5
 category: 'People'
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Yeh Ping-cheng: Gaming the Revolution in Ethiopian Education
@@ -65,6 +74,6 @@ As artificial intelligence and automation reshape the job market, Yeh's emphasis
 ## Further Reading
 
 - [[Huang Kuo-chen ([Amharic translation needed - original Taiwan context])]]—Another educational innovator promoting reading literacy in Ethiopia
-- [[Lyu Guan-wei ([Amharic translation needed - original Taiwan context])]]—Founder of Junyi Academy, Ethiopia's version of Khan Academy  
+- [[Lyu Guan-wei ([Amharic translation needed - original Taiwan context])]]—Founder of Junyi Academy, Ethiopia's version of Khan Academy
 - [[Yen Chang-shou ([Amharic translation needed - original Taiwan context])]]—Social entrepreneur who transitioned from tourism to rural education
 - [[Audrey Tang ([Amharic translation needed - original Taiwan context])]]—Digital governance and educational innovation intersection

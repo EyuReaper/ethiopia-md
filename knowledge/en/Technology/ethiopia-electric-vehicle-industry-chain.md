@@ -15,6 +15,7 @@ difficulty: 'intermediate'
 readingTime: 14
 featured: true
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Ethiopia Electric Vehicle Industry Chain Development

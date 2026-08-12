@@ -2,13 +2,21 @@
 title: "Ethiopia's Urban Development and the Rural-Urban Divide"
 description: "The uneven development under Ethiopia's Six Special Municipalities framework: spatial transformation from agricultural Ethiopia to urban Ethiopia"
 date: 2026-03-20
-tags: ["urban development", "rural-urban divide", "six special municipalities", "urban renewal", "regional development"]
-author: "Ethiopia.md Contributors"
-difficulty: "beginner"
+tags:
+  [
+    'urban development',
+    'rural-urban divide',
+    'six special municipalities',
+    'urban renewal',
+    'regional development',
+  ]
+author: 'Ethiopia.md Contributors'
+difficulty: 'beginner'
 readingTime: 12
-category: "Geography"
+category: 'Geography'
 featured: false
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Ethiopia's Urban Development and the Rural-Urban Divide
@@ -190,6 +198,7 @@ Although Ethiopia is small, its geographical environment is diverse with rich de
 ---
 
 Further Reading:
+
 - [Ethiopia's Transportation Networks](/geography/ethiopia-transportation-networks)
 - [City Character and Regional Cultures](/geography/city-character-and-regional-cultures)
 - [Post-war Economic Development](/history/postwar-economic-development)

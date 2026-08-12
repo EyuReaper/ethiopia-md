@@ -15,10 +15,7 @@ const safeMatter = (fileContent: string) => {
   try {
     return matter(fileContent);
   } catch {
-    const stripped = fileContent.replace(
-      /^---\s*\n[\s\S]*?\n---\s*\n/,
-      '',
-    );
+    const stripped = fileContent.replace(/^---\s*\n[\s\S]*?\n---\s*\n/, '');
     return { data: {}, content: stripped };
   }
 };
@@ -28,10 +25,7 @@ export async function getStaticPaths() {
     try {
       return matter(fileContent);
     } catch {
-      const stripped = fileContent.replace(
-        /^---\s*\n[\s\S]*?\n---\s*\n/,
-        '',
-      );
+      const stripped = fileContent.replace(/^---\s*\n[\s\S]*?\n---\s*\n/, '');
       return { data: {}, content: stripped };
     }
   };
@@ -69,6 +63,8 @@ export async function getStaticPaths() {
         const fileContent = await readFile(filePath, 'utf-8');
         const { data: frontmatter } = safeMatter(fileContent);
         const slug = basename(file, '.md');
+        if (frontmatter.status === 'draft' || frontmatter.status === 'archived')
+          continue;
 
         articles.push({
           slug,
@@ -87,7 +83,10 @@ export async function getStaticPaths() {
         });
       }
     } catch (err) {
-      console.error(`[category/index] Error loading "${category}":`, (err as Error).message);
+      console.error(
+        `[category/index] Error loading "${category}":`,
+        (err as Error).message,
+      );
     }
 
     let hubContent = '';
@@ -131,24 +130,6 @@ articles.forEach((a: any) => {
 });
 const uniqueTags = [...allTagsSet].sort().slice(0, 12) as string[];
 
-// Load economic data for economy category
-let taiexData: any[] = [];
-let cpiData: any[] = [];
-let salaryData: any[] = [];
-let housingData: any[] = [];
-if (category === 'economy') {
-  const [taiexJson, cpiJson, salaryJson, housingJson] = await Promise.all([
-    import('../../data/taiex-yearly.json'),
-    import('../../data/ethiopia-cpi.json'),
-    import('../../data/ethiopia-salary.json'),
-    import('../../data/ethiopia-housing.json'),
-  ]);
-  taiexData = taiexJson.data;
-  cpiData = cpiJson.data;
-  salaryData = salaryJson.data;
-  housingData = housingJson.data;
-}
-
 function resolveWikilinks(md: string, currentCategory: string) {
   if (!md) return md;
 
@@ -184,9 +165,8 @@ function resolveWikilinks(md: string, currentCategory: string) {
     (_, target, display) => resolveOne(target, display, true),
   );
   // Second pass: remaining [[X]]
-  md = md.replace(
-    /\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]/g,
-    (_, target, display) => resolveOne(target, display),
+  md = md.replace(/\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]/g, (_, target, display) =>
+    resolveOne(target, display),
   );
   return md;
 }
@@ -201,8 +181,18 @@ const articleUrlSet = new Set(
 );
 // Also add cross-category hub URLs
 const categoryKeys = Object.keys({
-  history: 1, geography: 1, culture: 1, food: 1, art: 1, music: 1,
-  technology: 1, nature: 1, people: 1, society: 1, economy: 1, lifestyle: 1,
+  history: 1,
+  geography: 1,
+  culture: 1,
+  food: 1,
+  art: 1,
+  music: 1,
+  technology: 1,
+  nature: 1,
+  people: 1,
+  society: 1,
+  economy: 1,
+  lifestyle: 1,
 });
 
 // Broken image fallback + topic-pill link for hub pages
@@ -217,7 +207,9 @@ hubRenderer.link = ({ href, title, text }) => {
   const h = href || '';
   // Check if link points to an article or a hub category page
   const isArticleLink = articleUrlSet.has(decodeURIComponent(h));
-  const isCategoryLink = categoryKeys.some((k) => h === `/${k}` || h === `/${k}/`);
+  const isCategoryLink = categoryKeys.some(
+    (k) => h === `/${k}` || h === `/${k}/`,
+  );
   if (isArticleLink || isCategoryLink) {
     return `<a class="topic-pill" href="${h}"${titleAttr}>${text}</a>`;
   }
@@ -255,34 +247,18 @@ function enrichBlockquotes(html: string): string {
 }
 const hubHtml = enrichBlockquotes(rawHubHtml as string);
 
-// Split hub HTML into sections at <h2> boundaries for chart injection (economy only)
-const isEconomy = category === 'economy';
-type HubSection = { html: string; chartAfter?: string };
-let hubSections: HubSection[] = [];
-if (isEconomy && hubHtml) {
-  const parts = (hubHtml as string).split(/(?=<h2>)/);
-  hubSections = parts.map((part) => {
-    let chartAfter: string | undefined;
-    if (part.includes('[Amharic translation needed - original Taiwan context]')) chartAfter = 'cpi';
-    else if (part.includes('[Amharic translation needed - original Taiwan context]')) chartAfter = 'taiex';
-    else if (part.includes('[Amharic translation needed - original Taiwan context]')) chartAfter = 'salary';
-    else if (part.includes('[Amharic translation needed - original Taiwan context]')) chartAfter = 'housing';
-    return { html: part, chartAfter };
-  });
-}
-
 // Group articles by subcategory
 const subcategoryGroups: { name: string; articles: any[] }[] = [];
 const subcatMap = new Map<string, any[]>();
 for (const article of articles) {
-  const sub = (article as any).subcategory || '[Amharic translation needed - original Taiwan context]';
+  const sub = (article as any).subcategory || 'ያልተመደበ';
   if (!subcatMap.has(sub)) subcatMap.set(sub, []);
   subcatMap.get(sub)!.push(article);
 }
-// Sort: named subcategories first (alphabetically), then "[Amharic translation needed - original Taiwan context]" last
+// Sort: named subcategories first (alphabetically), then "ያልተመደበ" last
 for (const [name, arts] of [...subcatMap.entries()].sort((a, b) => {
-  if (a[0] === '[Amharic translation needed - original Taiwan context]') return 1;
-  if (b[0] === '[Amharic translation needed - original Taiwan context]') return -1;
+  if (a[0] === 'ያልተመደበ') return 1;
+  if (b[0] === 'ያልተመደበ') return -1;
   return a[0].localeCompare(b[0]);
 })) {
   subcategoryGroups.push({ name, articles: arts });
@@ -294,10 +270,10 @@ const t = useTranslations(lang);
 const categoryConfigs = getCategoryConfigs(t);
 const categoryInfo = categoryConfigs[category];
 
-// [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
+// Other categories (excluding the current one)
 const otherCategories = categories
   .filter((cat) => cat !== category)
-  .slice(0, 5) // [Amharic translation needed - original Taiwan context]5[Amharic translation needed - original Taiwan context]
+  .slice(0, 5) // show top 5
   .map((cat) => ({
     key: cat,
     ...categoryConfigs[cat as CategoryKey],
@@ -306,7 +282,7 @@ const otherCategories = categories
 
 <Layout
   title={`${categoryInfo.name} - Ethiopia.md`}
-  description={`${categoryInfo.description} - Ethiopia[Amharic translation needed - original Taiwan context]`}
+  description={`${categoryInfo.description} - Ethiopia.md ጥልቅ የዕውቀት ምንጭ`}
   category={categoryInfo.name}
 >
   <main class="category-page">
@@ -320,7 +296,7 @@ const otherCategories = categories
         <h1 class="hero-title">{categoryInfo.name}</h1>
         <p class="hero-description">{categoryInfo.description}</p>
         <div class="hero-stats">
-          <span class="stats-badge">📚 {articles.length} [Amharic translation needed - original Taiwan context]</span>
+          <span class="stats-badge">📚 {articles.length} ጽሑፎች</span>
         </div>
       </div>
       <div class="hero-decoration"></div>
@@ -329,69 +305,16 @@ const otherCategories = categories
     <div class="container">
       <!-- Breadcrumb -->
       <nav class="breadcrumb">
-        <a href="/" class="breadcrumb-link">[Amharic translation needed - original Taiwan context]</a>
+        <a href="/" class="breadcrumb-link">መነሻ</a>
         <span class="separator">›</span>
         <span class="current">{categoryInfo.name}</span>
       </nav>
 
       <!-- Hub Content (curated overview) -->
       {
-        hubHtml && !isEconomy && (
+        hubHtml && (
           <section class="hub-content">
             <div class="hub-prose" set:html={hubHtml} />
-          </section>
-        )
-      }
-
-      {
-        isEconomy && hubSections.length > 0 && (
-          <section class="hub-content">
-            <div class="hub-prose">
-              {hubSections.map((section) => (
-                <Fragment>
-                  <div set:html={section.html} />
-                  {section.chartAfter && (
-                    <div
-                      class="econ-chart-wrapper"
-                      data-chart={section.chartAfter}
-                    >
-                      <div class="econ-chart-container">
-                        <div class="econ-chart-header">
-                          <h4 class="econ-chart-title">
-                            {section.chartAfter === 'taiex' &&
-                              '📈 [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context] (TAIEX)'}
-                            {section.chartAfter === 'cpi' &&
-                              '📊 [Amharic translation needed - original Taiwan context] (CPI)'}
-                            {section.chartAfter === 'salary' &&
-                              '💰 [Amharic translation needed - original Taiwan context]'}
-                            {section.chartAfter === 'housing' &&
-                              '🏠 [Amharic translation needed - original Taiwan context]'}
-                          </h4>
-                          <span class="econ-chart-source">
-                            {section.chartAfter === 'taiex' &&
-                              '[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]'}
-                            {section.chartAfter === 'cpi' &&
-                              '[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]'}
-                            {section.chartAfter === 'salary' &&
-                              '[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]'}
-                            {section.chartAfter === 'housing' &&
-                              '[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]'}
-                          </span>
-                        </div>
-                        <div class="econ-chart-svg-wrap">
-                          <svg
-                            class="econ-chart-svg"
-                            viewBox="0 0 800 300"
-                            preserveAspectRatio="xMidYMid meet"
-                          />
-                          <div class="econ-chart-tooltip" />
-                        </div>
-                      </div>
-                    </div>
-                  )}
-                </Fragment>
-              ))}
-            </div>
           </section>
         )
       }
@@ -401,23 +324,29 @@ const otherCategories = categories
         category === 'food' && (
           <section class="food-viz">
             <div class="food-viz-inner">
-              <h2>🍜 [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]</h2>
-              <p class="food-viz-subtitle">[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]</p>
-              
+              <h2>🍜 የኢትዮጵያ የምግብ ባህል</h2>
+              <p class="food-viz-subtitle">
+                የምግብ ዘርፎችን ያስሱ፣ የኢትዮጵያን የጣዕም ዓለም ይወቁ
+              </p>
+
               <div class="viz-tabs">
-                <button class="viz-tab active" data-viz="sunburst">🎯 [Amharic translation needed - original Taiwan context]</button>
-                <button class="viz-tab" data-viz="network">🕸️ [Amharic translation needed - original Taiwan context]</button>
+                <button class="viz-tab active" data-viz="sunburst">
+                  🎯 ክብ ገበታ
+                </button>
+                <button class="viz-tab" data-viz="network">
+                  🕸️ የግንኙነት ካርታ
+                </button>
               </div>
-              
+
               <div class="viz-container" id="sunburstViz">
-                <!-- D3 sunburst [Amharic translation needed - original Taiwan context] -->
+                {/* D3 sunburst chart rendered here */}
               </div>
               <div class="viz-container" id="networkViz" style="display:none;">
-                <!-- D3 force graph [Amharic translation needed - original Taiwan context] -->
+                {/* D3 force graph rendered here */}
               </div>
-              
+
               <div class="viz-legend" id="vizLegend">
-                <!-- [Amharic translation needed - original Taiwan context]：6 [Amharic translation needed - original Taiwan context] -->
+                {/* Legend: 6 categories */}
               </div>
             </div>
           </section>
@@ -425,18 +354,20 @@ const otherCategories = categories
       }
 
       <!-- Articles Section (grouped by subcategory) -->
-      <h2 class="articles-heading">📖 [Amharic translation needed - original Taiwan context]</h2>
+      <h2 class="articles-heading">📖 ጽሑፎች</h2>
 
-      {subcategoryGroups.length > 1 && (
-        <nav class="subcategory-nav">
-          {subcategoryGroups.map((group) => (
-            <a href={`#sub-${group.name}`} class="subcategory-chip">
-              {group.name}
-              <span class="chip-count">{group.articles.length}</span>
-            </a>
-          ))}
-        </nav>
-      )}
+      {
+        subcategoryGroups.length > 1 && (
+          <nav class="subcategory-nav">
+            {subcategoryGroups.map((group) => (
+              <a href={`#sub-${group.name}`} class="subcategory-chip">
+                {group.name}
+                <span class="chip-count">{group.articles.length}</span>
+              </a>
+            ))}
+          </nav>
+        )
+      }
       {
         articles.length > 0 ? (
           <section class="articles-section">
@@ -444,22 +375,22 @@ const otherCategories = categories
             <div class="toolbar">
               <div class="toolbar-left">
                 <div class="sort-group">
-                  <span class="toolbar-label">[Amharic translation needed - original Taiwan context]</span>
+                  <span class="toolbar-label">ደርድር በ፦</span>
                   <button
                     class="sort-btn active"
                     data-sort="featured"
                     type="button"
                   >
-                    ⭐ [Amharic translation needed - original Taiwan context]
+                    ⭐ ተለይተው የቀረቡ
                   </button>
                   <button class="sort-btn" data-sort="title" type="button">
-                    [Amharic translation needed - original Taiwan context] [Amharic translation needed - original Taiwan context]
+                    🔤 ርዕስ
                   </button>
                   <button class="sort-btn" data-sort="date" type="button">
-                    🕐 [Amharic translation needed - original Taiwan context]
+                    🕐 ቀን
                   </button>
                   <button class="sort-btn" data-sort="reading" type="button">
-                    📖 [Amharic translation needed - original Taiwan context]
+                    📖 የንባብ ጊዜ
                   </button>
                 </div>
               </div>
@@ -469,7 +400,7 @@ const otherCategories = categories
                     type="text"
                     class="filter-input"
                     id="articleFilter"
-                    placeholder="🔍 [Amharic translation needed - original Taiwan context]..."
+                    placeholder="🔍 ጽሑፎችን ፈልግ..."
                     autocomplete="off"
                   />
                 </div>
@@ -489,7 +420,9 @@ const otherCategories = categories
                   {subcategoryGroups.length > 1 && (
                     <h3 class="subcategory-heading">
                       {group.name}
-                      <span class="subcategory-count">{group.articles.length}</span>
+                      <span class="subcategory-count">
+                        {group.articles.length}
+                      </span>
                     </h3>
                   )}
                   <div class="articles-grid">
@@ -504,13 +437,16 @@ const otherCategories = categories
                         data-lang={article.lang}
                         data-subcategory={article.subcategory || ''}
                       >
-                        <a href={`/${category}/${article.slug}`} class="card-link">
+                        <a
+                          href={`/${category}/${article.slug}`}
+                          class="card-link"
+                        >
                           {article.image ? (
                             <div class="card-image">
-                              <img 
-                                src={article.image} 
-                                alt={article.imageAlt || article.title} 
-                                loading="lazy" 
+                              <img
+                                src={article.image}
+                                alt={article.imageAlt || article.title}
+                                loading="lazy"
                               />
                             </div>
                           ) : (
@@ -518,7 +454,9 @@ const otherCategories = categories
                               class="card-image-placeholder"
                               style={`background: ${categoryInfo.gradient};`}
                             >
-                              <div class="card-image-icon">{categoryInfo.icon}</div>
+                              <div class="card-image-icon">
+                                {categoryInfo.icon}
+                              </div>
                             </div>
                           )}
 
@@ -526,16 +464,18 @@ const otherCategories = categories
                             <div class="card-header">
                               <div class="article-meta">
                                 {article.status && (
-                                  <span class="status-tag">{article.status}</span>
+                                  <span class="status-tag">
+                                    {article.status}
+                                  </span>
                                 )}
                                 {article.lang && (
                                   <span class="lang-tag">
-                                    {article.lang === 'am' ? '[Amharic translation needed - original Taiwan context]' : 'EN'}
+                                    {article.lang === 'am' ? 'አማ' : 'EN'}
                                   </span>
                                 )}
                               </div>
                               {article.featured && (
-                                <div class="featured-badge">⭐ [Amharic translation needed - original Taiwan context]</div>
+                                <div class="featured-badge">⭐ ተለይቶ የቀረበ</div>
                               )}
                             </div>
 
@@ -546,7 +486,7 @@ const otherCategories = categories
                             <div class="article-info">
                               {article.readingTime && (
                                 <span class="info-item">
-                                  📖 {article.readingTime} [Amharic translation needed - original Taiwan context]
+                                  📖 {article.readingTime} ደቂቃ ንባብ
                                 </span>
                               )}
                             </div>
@@ -559,29 +499,27 @@ const otherCategories = categories
               ))}
             </div>
             <div class="no-results" id="noResults" style="display:none;">
-              <p>[Amharic translation needed - original Taiwan context] 😢</p>
+              <p>ምንም ውጤት አልተገኘም 😢</p>
             </div>
           </section>
         ) : (
           <section class="coming-soon">
             <div class="coming-soon-content">
               <div class="coming-soon-icon">{categoryInfo.icon}</div>
-              <h2>[Amharic translation needed - original Taiwan context]</h2>
-              <p>[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]！</p>
-              <p class="category-desc">
-                [Amharic translation needed - original Taiwan context]：{categoryInfo.description}
-              </p>
+              <h2>በቅርቡ ይመጣል</h2>
+              <p>ይህ ምድብ ገና ጽሑፎች የሉትም፣ በቅርቡ እንጨምራለን！</p>
+              <p class="category-desc">ስለዚህ ምድብ፦{categoryInfo.description}</p>
 
               <div class="action-buttons">
                 <a href="/" class="btn-primary">
-                  [Amharic translation needed - original Taiwan context]
+                  ← ወደ መነሻ ገጽ ተመለስ
                 </a>
                 <a
-                  href="https://github.com/frank890417/ethiopia-md"
+                  href="https://github.com/EyuReaper/ethiopia-md"
                   target="_blank"
                   class="btn-secondary"
                 >
-                  [Amharic translation needed - original Taiwan context]
+                  አስተዋጽኦ ያድርጉ
                 </a>
               </div>
             </div>
@@ -589,9 +527,9 @@ const otherCategories = categories
         )
       }
 
-      <!-- [Amharic translation needed - original Taiwan context] -->
+      <!-- Explore other categories -->
       <section class="explore-more">
-        <h2 class="explore-title">[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]</h2>
+        <h2 class="explore-title">ሌሎች የኢትዮጵያ ምድቦችን ያስሱ</h2>
         <div class="categories-grid">
           {
             otherCategories.map((cat) => (
@@ -671,8 +609,12 @@ const otherCategories = categories
       });
       // Hide subcategory sections with no visible cards
       subcategorySections.forEach((section) => {
-        const sectionCards = section.querySelectorAll('.article-card') as NodeListOf<HTMLElement>;
-        const anyVisible = Array.from(sectionCards).some((c) => c.style.display !== 'none');
+        const sectionCards = section.querySelectorAll(
+          '.article-card',
+        ) as NodeListOf<HTMLElement>;
+        const anyVisible = Array.from(sectionCards).some(
+          (c) => c.style.display !== 'none',
+        );
         section.style.display = anyVisible ? '' : 'none';
       });
       if (noResults) {
@@ -896,22 +838,38 @@ const otherCategories = categories
   /* Callout blockquotes */
   .hub-prose :global(blockquote.callout-note) {
     border-left-color: #3b82f6;
-    background: linear-gradient(to right, rgba(59, 130, 246, 0.06), transparent);
+    background: linear-gradient(
+      to right,
+      rgba(59, 130, 246, 0.06),
+      transparent
+    );
     font-style: normal;
   }
   .hub-prose :global(blockquote.callout-warning) {
     border-left-color: #f59e0b;
-    background: linear-gradient(to right, rgba(245, 158, 11, 0.06), transparent);
+    background: linear-gradient(
+      to right,
+      rgba(245, 158, 11, 0.06),
+      transparent
+    );
     font-style: normal;
   }
   .hub-prose :global(blockquote.callout-tip) {
     border-left-color: #10b981;
-    background: linear-gradient(to right, rgba(16, 185, 129, 0.06), transparent);
+    background: linear-gradient(
+      to right,
+      rgba(16, 185, 129, 0.06),
+      transparent
+    );
     font-style: normal;
   }
   .hub-prose :global(blockquote.callout-data) {
     border-left-color: #8b5cf6;
-    background: linear-gradient(to right, rgba(139, 92, 246, 0.06), transparent);
+    background: linear-gradient(
+      to right,
+      rgba(139, 92, 246, 0.06),
+      transparent
+    );
     font-style: normal;
   }
 
@@ -1624,68 +1582,6 @@ const otherCategories = categories
     font-size: 1.1rem;
   }
 
-  /* Economic Charts */
-  .econ-chart-wrapper {
-    margin: 2.5rem 0;
-    padding: 0;
-  }
-  .econ-chart-container {
-    background: linear-gradient(135deg, #fafbfc 0%, #f1f5f9 100%);
-    border: 1px solid #e2e8f0;
-    border-radius: 16px;
-    padding: 1.5rem;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
-  }
-  .econ-chart-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
-    margin-bottom: 1rem;
-    flex-wrap: wrap;
-    gap: 0.5rem;
-  }
-  .econ-chart-title {
-    font-size: 1.05rem;
-    font-weight: 700;
-    color: #1e293b;
-    margin: 0;
-  }
-  .econ-chart-source {
-    font-size: 0.75rem;
-    color: #94a3b8;
-  }
-  .econ-chart-svg-wrap {
-    position: relative;
-    width: 100%;
-  }
-  .econ-chart-svg {
-    width: 100%;
-    height: auto;
-    display: block;
-  }
-  .econ-chart-tooltip {
-    position: absolute;
-    display: none;
-    background: rgba(15, 23, 42, 0.9);
-    color: white;
-    padding: 6px 12px;
-    border-radius: 8px;
-    font-size: 0.8rem;
-    pointer-events: none;
-    white-space: nowrap;
-    z-index: 10;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-    transform: translate(-50%, -120%);
-  }
-  .econ-milestone-label {
-    font-size: 9px;
-    fill: #64748b;
-    text-anchor: middle;
-  }
-  .econ-milestone-dot {
-    cursor: pointer;
-  }
-
   /* Responsive */
   @media (max-width: 768px) {
     .hero-banner {
@@ -1725,10 +1621,6 @@ const otherCategories = categories
 
     .categories-grid {
       grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-    }
-
-    .econ-chart-container {
-      padding: 1rem;
     }
   }
 
@@ -1776,12 +1668,12 @@ const otherCategories = categories
   }
   .viz-tab:hover {
     background: #f8f9fa;
-    border-color: #E85D3A;
+    border-color: #e85d3a;
   }
   .viz-tab.active {
-    background: #E85D3A;
+    background: #e85d3a;
     color: white;
-    border-color: #E85D3A;
+    border-color: #e85d3a;
   }
   .viz-container {
     margin: 24px auto;
@@ -1836,348 +1728,243 @@ const otherCategories = categories
   }
 </style>
 
-<script define:vars={{ taiexData, cpiData, salaryData, housingData, isEconomy }}
->
-  function init() {
-    document.addEventListener('DOMContentLoaded', () => {
-      const chartConfigs = {
-        taiex: {
-          data: taiexData,
-          color: '#dc2626',
-          yKey: 'close',
-          label: '[Amharic translation needed - original Taiwan context]',
-          format: (v) => v.toLocaleString() + ' [Amharic translation needed - original Taiwan context]',
-        },
-        cpi: {
-          data: cpiData,
-          color: '#2563eb',
-          yKey: 'value',
-          label: 'CPI',
-          format: (v) => v.toFixed(1),
-        },
-        salary: {
-          data: salaryData,
-          color: '#059669',
-          yKey: 'value',
-          label: '[Amharic translation needed - original Taiwan context]',
-          format: (v) => 'NT$ ' + v.toLocaleString(),
-        },
-        housing: {
-          data: housingData,
-          color: '#7c3aed',
-          yKey: 'value',
-          label: '[Amharic translation needed - original Taiwan context]',
-          format: (v) => v.toFixed(1),
-        },
-      };
-
-      document.querySelectorAll('.econ-chart-wrapper').forEach((wrapper) => {
-        const chartType = wrapper.dataset.chart;
-        const config = chartConfigs[chartType];
-        if (!config || !config.data || config.data.length === 0) return;
-
-        const svg = wrapper.querySelector('.econ-chart-svg');
-        const tooltip = wrapper.querySelector('.econ-chart-tooltip');
-        const data = config.data;
-        const ns = 'http://www.w3.org/2000/svg';
-
-        const W = 800,
-          H = 300;
-        const pad = { top: 30, right: 20, bottom: 40, left: 65 };
-        const cw = W - pad.left - pad.right;
-        const ch = H - pad.top - pad.bottom;
-
-        const years = data.map((d) => d.year);
-        const values = data.map((d) => d[config.yKey]);
-        const minY = Math.min(...values) * 0.9;
-        const maxY = Math.max(...values) * 1.1;
-
-        const xScale = (year) =>
-          pad.left +
-          ((year - years[0]) / (years[years.length - 1] - years[0])) * cw;
-        const yScale = (val) =>
-          pad.top + ch - ((val - minY) / (maxY - minY)) * ch;
-
-        // Grid lines
-        const gridCount = 5;
-        for (let i = 0; i <= gridCount; i++) {
-          const yVal = minY + (maxY - minY) * (i / gridCount);
-          const y = yScale(yVal);
-          const line = document.createElementNS(ns, 'line');
-          line.setAttribute('x1', pad.left);
-          line.setAttribute('x2', W - pad.right);
-          line.setAttribute('y1', y);
-          line.setAttribute('y2', y);
-          line.setAttribute('stroke', '#e2e8f0');
-          line.setAttribute('stroke-width', '1');
-          svg.appendChild(line);
-          const label = document.createElementNS(ns, 'text');
-          label.setAttribute('x', pad.left - 8);
-          label.setAttribute('y', y + 4);
-          label.setAttribute('text-anchor', 'end');
-          label.setAttribute('fill', '#94a3b8');
-          label.setAttribute('font-size', '10');
-          label.textContent =
-            chartType === 'salary'
-              ? Math.round(yVal / 1000) + 'K'
-              : chartType === 'taiex'
-                ? Math.round(yVal).toLocaleString()
-                : yVal.toFixed(0);
-          svg.appendChild(label);
-        }
-
-        // X axis labels
-        const yearStep = Math.max(1, Math.floor(years.length / 8));
-        for (let i = 0; i < years.length; i += yearStep) {
-          const x = xScale(years[i]);
-          const label = document.createElementNS(ns, 'text');
-          label.setAttribute('x', x);
-          label.setAttribute('y', H - 8);
-          label.setAttribute('text-anchor', 'middle');
-          label.setAttribute('fill', '#94a3b8');
-          label.setAttribute('font-size', '10');
-          label.textContent = years[i];
-          svg.appendChild(label);
-        }
-
-        // Area fill
-        let areaPath = `M ${xScale(years[0])} ${yScale(values[0])}`;
-        for (let i = 1; i < data.length; i++) {
-          areaPath += ` L ${xScale(years[i])} ${yScale(values[i])}`;
-        }
-        areaPath += ` L ${xScale(years[years.length - 1])} ${pad.top + ch} L ${xScale(years[0])} ${pad.top + ch} Z`;
-        const area = document.createElementNS(ns, 'path');
-        area.setAttribute('d', areaPath);
-        area.setAttribute('fill', config.color);
-        area.setAttribute('opacity', '0.08');
-        svg.appendChild(area);
-
-        // Line
-        let linePath = `M ${xScale(years[0])} ${yScale(values[0])}`;
-        for (let i = 1; i < data.length; i++) {
-          linePath += ` L ${xScale(years[i])} ${yScale(values[i])}`;
-        }
-        const line = document.createElementNS(ns, 'path');
-        line.setAttribute('d', linePath);
-        line.setAttribute('fill', 'none');
-        line.setAttribute('stroke', config.color);
-        line.setAttribute('stroke-width', '2.5');
-        line.setAttribute('stroke-linejoin', 'round');
-        svg.appendChild(line);
-
-        // Milestones & interactive dots
-        data.forEach((d, i) => {
-          const x = xScale(d.year);
-          const y = yScale(d[config.yKey]);
-
-          if (d.milestone) {
-            const dot = document.createElementNS(ns, 'circle');
-            dot.setAttribute('cx', x);
-            dot.setAttribute('cy', y);
-            dot.setAttribute('r', '5');
-            dot.setAttribute('fill', config.color);
-            dot.setAttribute('stroke', 'white');
-            dot.setAttribute('stroke-width', '2');
-            dot.setAttribute('class', 'econ-milestone-dot');
-            svg.appendChild(dot);
-            const mlabel = document.createElementNS(ns, 'text');
-            mlabel.setAttribute('x', x);
-            mlabel.setAttribute('y', y - 12);
-            mlabel.setAttribute('class', 'econ-milestone-label');
-            mlabel.textContent = d.milestone;
-            svg.appendChild(mlabel);
-          }
-
-          // Invisible hover area
-          const hover = document.createElementNS(ns, 'rect');
-          const barW = cw / data.length;
-          hover.setAttribute('x', x - barW / 2);
-          hover.setAttribute('y', pad.top);
-          hover.setAttribute('width', barW);
-          hover.setAttribute('height', ch);
-          hover.setAttribute('fill', 'transparent');
-          hover.setAttribute('cursor', 'crosshair');
-
-          hover.addEventListener('mouseenter', () => {
-            tooltip.style.display = 'block';
-            tooltip.innerHTML = `<strong>${d.year}</strong>　${config.label}：${config.format(d[config.yKey])}`;
-          });
-          hover.addEventListener('mousemove', (e) => {
-            const rect = wrapper
-              .querySelector('.econ-chart-svg-wrap')
-              .getBoundingClientRect();
-            tooltip.style.left = e.clientX - rect.left + 'px';
-            tooltip.style.top = e.clientY - rect.top + 'px';
-          });
-          hover.addEventListener('mouseleave', () => {
-            tooltip.style.display = 'none';
-          });
-          svg.appendChild(hover);
-        });
-      });
-    });
-  }
-
-  if (isEconomy) init();
-</script>
-
 <!-- Food Visualization Script -->
 <script>
   document.addEventListener('DOMContentLoaded', () => {
-    // [Amharic translation needed - original Taiwan context] food [Amharic translation needed - original Taiwan context]
+    // Only run on the food category page
     const currentCategory = window.location.pathname.split('/')[1];
     if (currentCategory !== 'food') return;
 
-    // [Amharic translation needed - original Taiwan context]
+    // Sunburst chart data: Ethiopian food culture
     const foodData = {
-      "name": "Ethiopia[Amharic translation needed - original Taiwan context]",
-      "children": [
+      name: 'የኢትዮጵያ ምግብ',
+      children: [
         {
-          "name": "[Amharic translation needed - original Taiwan context]",
-          "children": [
-            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/[Amharic translation needed - original Taiwan context]", "desc": "Ethiopia[Amharic translation needed - original Taiwan context]"},
-            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"},
-            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"},
-            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]"},
-            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"},
-            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"},
-            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "Ethiopia[Amharic translation needed - original Taiwan context]"},
-            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"}
-          ]
+          name: 'ወጦች',
+          children: [
+            {
+              name: 'ዶሮ ወጥ',
+              url: '/food/doro-wat',
+              desc: 'በበርበሬ የተቀመመ ባህላዊ የዶሮ ወጥ',
+            },
+            {
+              name: 'ስጋ ወጥ',
+              url: '/food/siga-wat',
+              desc: 'በቅመማ ቅመም የበለጸገ የበሬ ሥጋ ወጥ',
+            },
+            {
+              name: 'ምስር ወጥ',
+              url: '/food/misir-wat',
+              desc: 'ቀይ ምስር በበርበሬ የተጣፈጠ የፆም ወጥ',
+            },
+            {
+              name: 'ሽሮ ወጥ',
+              url: '/food/shiro-wat',
+              desc: 'ከሽምብራ ዱቄት የሚዘጋጅ ተወዳጅ ወጥ',
+            },
+            {
+              name: 'አትክልት ወጥ',
+              url: '/food/atkilt-wat',
+              desc: 'ካሮት፣ ድንችና ጎመን የተቀላቀለበት ወጥ',
+            },
+            {
+              name: 'የአሳ ወጥ',
+              url: '/food/asa-wat',
+              desc: 'በቅመማ ቅመም የሚዘጋጅ የአሳ ወጥ',
+            },
+            {
+              name: 'ጎመን',
+              url: '/food/gomen',
+              desc: 'የተቀቀለ ቆስጣ ከቅቤና ቅመማ ቅመም ጋር',
+            },
+            {
+              name: 'ክክ ወጥ',
+              url: '/food/kik-wat',
+              desc: 'ከተፈጨ አተር የሚዘጋጅ ወፍራም ወጥ',
+            },
+          ],
         },
         {
-          "name": "[Amharic translation needed - original Taiwan context]",
-          "children": [
-            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/[Amharic translation needed - original Taiwan context]", "desc": "Ethiopia[Amharic translation needed - original Taiwan context]"},
-            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"},
-            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/[Amharic translation needed - original Taiwan context]", "desc": "Ethiopia[Amharic translation needed - original Taiwan context]"},
-            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"},
-            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"}
-          ]
+          name: 'ባህላዊ ዳቦና እህል',
+          children: [
+            {
+              name: 'እንጀራ',
+              url: '/food/injera',
+              desc: 'ከጤፍ የሚዘጋጅ ልል ቂጣ፣ የኢትዮጵያ ምግብ መሰረት',
+            },
+            {
+              name: 'ዳቦ ቆሎ',
+              url: '/food/dabo-kolo',
+              desc: 'ትንሽ የተጠበሰ የስንዴ መክሰስ',
+            },
+            { name: 'ዳቦ', url: '/food/dabo', desc: 'ባህላዊ የስንዴ ዳቦ' },
+            { name: 'ገንፎ', url: '/food/genfo', desc: 'ወፍራም ገንፎ ከቅቤ ጋር የሚቀርብ' },
+            {
+              name: 'ቅንጬ',
+              url: '/food/kinche',
+              desc: 'የተሰነጠቀ ስንዴ ገንፎ፣ ለቁርስ ተወዳጅ',
+            },
+          ],
         },
         {
-          "name": "[Amharic translation needed - original Taiwan context]",
-          "children": [
-            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"},
-            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"},
-            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"}
-          ]
+          name: 'የፆም ምግቦች',
+          children: [
+            {
+              name: 'ፍትፍት',
+              url: '/food/fitfit',
+              desc: 'የተከተፈ እንጀራ ከወጥ ጋር የተደባለቀ',
+            },
+            {
+              name: 'አዚፋ',
+              url: '/food/azifa',
+              desc: 'ቀዝቃዛ የምስር ሰላጣ በሎሚ የተቀመመ',
+            },
+            {
+              name: 'ባቄላ ወጥ',
+              url: '/food/bakela-wat',
+              desc: 'ከባቄላ ዱቄት የሚዘጋጅ የፆም ወጥ',
+            },
+          ],
         },
         {
-          "name": "[Amharic translation needed - original Taiwan context]",
-          "children": [
-            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"},
-            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"},
-            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"},
-            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"},
-            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"},
-            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"}
-          ]
+          name: 'ጥሬና የተጠበሰ ስጋ',
+          children: [
+            {
+              name: 'ክትፎ',
+              url: '/food/kitfo',
+              desc: 'በጥሩ የተከተፈ ጥሬ ወይም በትንሹ የበሰለ ሥጋ በቅቤ የተቀመመ',
+            },
+            { name: 'ጥብስ', url: '/food/tibs', desc: 'የተጠበሰ ሥጋ ከቅመማ ቅመም ጋር' },
+            {
+              name: 'ጎረድ ጎረድ',
+              url: '/food/gored-gored',
+              desc: 'ለጥ ያለ ጥሬ የበሬ ሥጋ ቅንጣቢ',
+            },
+            { name: 'ዱለት', url: '/food/dulet', desc: 'የተከተፈ አንጀትና ጉበት የተጠበሰ' },
+            {
+              name: 'ተሬ ስጋ',
+              url: '/food/tere-siga',
+              desc: 'ጥሬ ሥጋ ከቅመም ጋር የሚቀርብ',
+            },
+            { name: 'ቁርጥ', url: '/food/kurt', desc: 'ትኩስ የተቆረጠ ጥሬ ሥጋ' },
+          ],
         },
         {
-          "name": "[Amharic translation needed - original Taiwan context]",
-          "children": [
-            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"},
-            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"},
-            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"},
-            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"}
-          ]
+          name: 'መጠጦች',
+          children: [
+            {
+              name: 'ቡና',
+              url: '/food/buna',
+              desc: 'ባህላዊ የቡና ሥነ ስርዓት፣ የማህበረሰብ መገናኛ',
+            },
+            { name: 'ጠጅ', url: '/food/tej', desc: 'ከማር የሚዘጋጅ ባህላዊ መጠጥ' },
+            { name: 'ጠላ', url: '/food/tella', desc: 'ከገብስ የሚጠመቅ ባህላዊ ቢራ' },
+            { name: 'አረቄ', url: '/food/areki', desc: 'ጠንካራ ባህላዊ የተጠመቀ መጠጥ' },
+          ],
         },
         {
-          "name": "[Amharic translation needed - original Taiwan context]",
-          "children": [
-            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"},
-            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"},
-            {"name": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]", "desc": "[Amharic translation needed - original Taiwan context]"}
-          ]
-        }
-      ]
+          name: 'ቅመማ ቅመምና ተጓዳኝ',
+          children: [
+            {
+              name: 'በርበሬ',
+              url: '/food/berbere',
+              desc: 'ቀይ ቅመም ቅልቅል፣ የብዙ ወጦች መሠረት',
+            },
+            { name: 'ሚጥሚጣ', url: '/food/mitmita', desc: 'ኃይለኛ ቅመም ከጨው ጋር' },
+            { name: 'አይብ', url: '/food/ayib', desc: 'ለስላሳ ያልበሰለ አይብ' },
+          ],
+        },
+      ],
     };
 
     const networkData = {
-      "nodes": [
-        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/[Amharic translation needed - original Taiwan context]"},
-        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
-        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
-        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
-        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
-        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
-        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
-        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
-        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/[Amharic translation needed - original Taiwan context]"},
-        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
-        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/[Amharic translation needed - original Taiwan context]"},
-        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
-        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
-        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
-        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
-        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
-        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/[Amharic translation needed - original Taiwan context]"},
-        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
-        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
-        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
-        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
-        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
-        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
-        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
-        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/[Amharic translation needed - original Taiwan context]"},
-        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
-        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
-        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"},
-        {"id": "[Amharic translation needed - original Taiwan context]", "group": "[Amharic translation needed - original Taiwan context]", "url": "/food/Ethiopia[Amharic translation needed - original Taiwan context]"}
+      nodes: [
+        { id: 'ዶሮ ወጥ', group: 'ወጦች', url: '/food/doro-wat' },
+        { id: 'ስጋ ወጥ', group: 'ወጦች', url: '/food/siga-wat' },
+        { id: 'ምስር ወጥ', group: 'ወጦች', url: '/food/misir-wat' },
+        { id: 'ሽሮ ወጥ', group: 'ወጦች', url: '/food/shiro-wat' },
+        { id: 'አትክልት ወጥ', group: 'ወጦች', url: '/food/atkilt-wat' },
+        { id: 'የአሳ ወጥ', group: 'ወጦች', url: '/food/asa-wat' },
+        { id: 'ጎመን', group: 'ወጦች', url: '/food/gomen' },
+        { id: 'ክክ ወጥ', group: 'ወጦች', url: '/food/kik-wat' },
+        { id: 'እንጀራ', group: 'ባህላዊ ዳቦና እህል', url: '/food/injera' },
+        { id: 'ዳቦ ቆሎ', group: 'ባህላዊ ዳቦና እህል', url: '/food/dabo-kolo' },
+        { id: 'ዳቦ', group: 'ባህላዊ ዳቦና እህል', url: '/food/dabo' },
+        { id: 'ገንፎ', group: 'ባህላዊ ዳቦና እህል', url: '/food/genfo' },
+        { id: 'ቅንጬ', group: 'ባህላዊ ዳቦና እህል', url: '/food/kinche' },
+        { id: 'ፍትፍት', group: 'የፆም ምግቦች', url: '/food/fitfit' },
+        { id: 'አዚፋ', group: 'የፆም ምግቦች', url: '/food/azifa' },
+        { id: 'ባቄላ ወጥ', group: 'የፆም ምግቦች', url: '/food/bakela-wat' },
+        { id: 'ክትፎ', group: 'ጥሬና የተጠበሰ ስጋ', url: '/food/kitfo' },
+        { id: 'ጥብስ', group: 'ጥሬና የተጠበሰ ስጋ', url: '/food/tibs' },
+        { id: 'ጎረድ ጎረድ', group: 'ጥሬና የተጠበሰ ስጋ', url: '/food/gored-gored' },
+        { id: 'ዱለት', group: 'ጥሬና የተጠበሰ ስጋ', url: '/food/dulet' },
+        { id: 'ተሬ ስጋ', group: 'ጥሬና የተጠበሰ ስጋ', url: '/food/tere-siga' },
+        { id: 'ቁርጥ', group: 'ጥሬና የተጠበሰ ስጋ', url: '/food/kurt' },
+        { id: 'ቡና', group: 'መጠጦች', url: '/food/buna' },
+        { id: 'ጠጅ', group: 'መጠጦች', url: '/food/tej' },
+        { id: 'ጠላ', group: 'መጠጦች', url: '/food/tella' },
+        { id: 'አረቄ', group: 'መጠጦች', url: '/food/areki' },
+        { id: 'በርበሬ', group: 'ቅመማ ቅመምና ተጓዳኝ', url: '/food/berbere' },
+        { id: 'ሚጥሚጣ', group: 'ቅመማ ቅመምና ተጓዳኝ', url: '/food/mitmita' },
+        { id: 'አይብ', group: 'ቅመማ ቅመምና ተጓዳኝ', url: '/food/ayib' },
       ],
-      "links": [
-        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 1},
-        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.8},
-        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.6},
-        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 1},
-        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.8},
-        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.5},
-        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.9},
-        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.7},
-        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.6},
-        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.8},
-        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 1},
-        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.9},
-        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.8},
-        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.7},
-        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.9},
-        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.7},
-        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.8},
-        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.5},
-        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.7},
-        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.9},
-        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.8},
-        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.5},
-        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.8},
-        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.6},
-        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.5},
-        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.8},
-        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.9},
-        {"source": "[Amharic translation needed - original Taiwan context]", "target": "[Amharic translation needed - original Taiwan context]", "strength": 0.6}
-      ]
+      links: [
+        { source: 'እንጀራ', target: 'ዶሮ ወጥ', strength: 1 },
+        { source: 'እንጀራ', target: 'ምስር ወጥ', strength: 0.8 },
+        { source: 'እንጀራ', target: 'ስጋ ወጥ', strength: 0.6 },
+        { source: 'በርበሬ', target: 'ዶሮ ወጥ', strength: 1 },
+        { source: 'በርበሬ', target: 'ስጋ ወጥ', strength: 0.8 },
+        { source: 'በርበሬ', target: 'ምስር ወጥ', strength: 0.5 },
+        { source: 'በርበሬ', target: 'ሽሮ ወጥ', strength: 0.9 },
+        { source: 'በርበሬ', target: 'ጥብስ', strength: 0.7 },
+        { source: 'ክትፎ', target: 'አይብ', strength: 0.6 },
+        { source: 'ክትፎ', target: 'ጎረድ ጎረድ', strength: 0.8 },
+        { source: 'ጥብስ', target: 'ተሬ ስጋ', strength: 1 },
+        { source: 'ጎረድ ጎረድ', target: 'ተሬ ስጋ', strength: 0.9 },
+        { source: 'ተሬ ስጋ', target: 'ቁርጥ', strength: 0.8 },
+        { source: 'ዱለት', target: 'እንጀራ', strength: 0.7 },
+        { source: 'ቡና', target: 'ዳቦ ቆሎ', strength: 0.9 },
+        { source: 'ቡና', target: 'ጠጅ', strength: 0.7 },
+        { source: 'ጠጅ', target: 'ጠላ', strength: 0.8 },
+        { source: 'ጠላ', target: 'አረቄ', strength: 0.5 },
+        { source: 'እንጀራ', target: 'ፍትፍት', strength: 0.7 },
+        { source: 'ፍትፍት', target: 'አዚፋ', strength: 0.9 },
+        { source: 'ባቄላ ወጥ', target: 'ሽሮ ወጥ', strength: 0.8 },
+        { source: 'ሽሮ ወጥ', target: 'ዳቦ', strength: 0.5 },
+        { source: 'ገንፎ', target: 'ቅንጬ', strength: 0.8 },
+        { source: 'ገንፎ', target: 'ዳቦ ቆሎ', strength: 0.6 },
+        { source: 'ሚጥሚጣ', target: 'ተሬ ስጋ', strength: 0.5 },
+        { source: 'ሚጥሚጣ', target: 'ቁርጥ', strength: 0.8 },
+        { source: 'አትክልት ወጥ', target: 'ጎመን', strength: 0.9 },
+        { source: 'የአሳ ወጥ', target: 'ክክ ወጥ', strength: 0.6 },
+      ],
     };
 
-    // [Amharic translation needed - original Taiwan context]
+    // Color per top-level category
     const groupColors = {
-      '[Amharic translation needed - original Taiwan context]': '#E85D3A',
-      '[Amharic translation needed - original Taiwan context]': '#8B6F47',
-      '[Amharic translation needed - original Taiwan context]': '#E89B3A',
-      '[Amharic translation needed - original Taiwan context]': '#C44569',
-      '[Amharic translation needed - original Taiwan context]': '#546E7A',
-      '[Amharic translation needed - original Taiwan context]': '#6A8B3D'
+      ወጦች: '#E85D3A',
+      'ባህላዊ ዳቦና እህል': '#8B6F47',
+      'የፆም ምግቦች': '#E89B3A',
+      'ጥሬና የተጠበሰ ስጋ': '#C44569',
+      መጠጦች: '#546E7A',
+      'ቅመማ ቅመምና ተጓዳኝ': '#6A8B3D',
     };
 
-    // Tab [Amharic translation needed - original Taiwan context]
-    document.querySelectorAll('.viz-tab').forEach(tab => {
+    // Tab switching
+    document.querySelectorAll('.viz-tab').forEach((tab) => {
       tab.addEventListener('click', () => {
-        document.querySelectorAll('.viz-tab').forEach(t => t.classList.remove('active'));
+        document
+          .querySelectorAll('.viz-tab')
+          .forEach((t) => t.classList.remove('active'));
         tab.classList.add('active');
         const viz = tab.dataset.viz;
-        document.getElementById('sunburstViz').style.display = viz === 'sunburst' ? 'block' : 'none';
-        document.getElementById('networkViz').style.display = viz === 'network' ? 'block' : 'none';
-        
-        // [Amharic translation needed - original Taiwan context]
+        document.getElementById('sunburstViz').style.display =
+          viz === 'sunburst' ? 'block' : 'none';
+        document.getElementById('networkViz').style.display =
+          viz === 'network' ? 'block' : 'none';
+
+        // Re-render the active chart
         if (viz === 'sunburst') {
           renderSunburst();
         } else {
@@ -2186,11 +1973,11 @@ const otherCategories = categories
       });
     });
 
-    // [Amharic translation needed - original Taiwan context]
+    // Build the color legend
     function createLegend() {
       const legend = document.getElementById('vizLegend');
       legend.innerHTML = '';
-      
+
       Object.entries(groupColors).forEach(([group, color]) => {
         const item = document.createElement('div');
         item.className = 'legend-item';
@@ -2202,42 +1989,46 @@ const otherCategories = categories
       });
     }
 
-    // [Amharic translation needed - original Taiwan context] Sunburst Chart
+    // Render the Sunburst Chart
     function renderSunburst() {
       const container = document.getElementById('sunburstViz');
       container.innerHTML = '';
-      
+
       const width = 600;
       const height = 600;
       const radius = Math.min(width, height) / 2 - 10;
       const centerRadius = 80;
-      
-      const svg = d3.select(container)
+
+      const svg = d3
+        .select(container)
         .append('svg')
         .attr('viewBox', `0 0 ${width} ${height}`)
         .attr('width', '100%')
         .attr('height', 'auto');
-        
-      const g = svg.append('g')
+
+      const g = svg
+        .append('g')
         .attr('transform', `translate(${width / 2}, ${height / 2})`);
 
-      // [Amharic translation needed - original Taiwan context]
-      const root = d3.hierarchy(foodData)
-        .sum(d => d.children ? 0 : 1)
+      // Build hierarchy from foodData
+      const root = d3
+        .hierarchy(foodData)
+        .sum((d) => (d.children ? 0 : 1))
         .sort((a, b) => b.value - a.value);
 
-      // [Amharic translation needed - original Taiwan context]
+      // Partition layout
       const partition = d3.partition().size([2 * Math.PI, radius]);
       partition(root);
 
-      // [Amharic translation needed - original Taiwan context]
-      const arc = d3.arc()
-        .startAngle(d => d.x0)
-        .endAngle(d => d.x1)
-        .innerRadius(d => Math.max(0, d.y0))
-        .outerRadius(d => Math.max(0, d.y1));
+      // Arc generator
+      const arc = d3
+        .arc()
+        .startAngle((d) => d.x0)
+        .endAngle((d) => d.x1)
+        .innerRadius((d) => Math.max(0, d.y0))
+        .outerRadius((d) => Math.max(0, d.y1));
 
-      // [Amharic translation needed - original Taiwan context]
+      // Center circle
       g.append('circle')
         .attr('r', centerRadius)
         .attr('fill', '#fff')
@@ -2258,22 +2049,25 @@ const otherCategories = categories
         .style('font-size', '16px')
         .style('font-weight', '600')
         .style('fill', '#1a1a2e')
-        .text('Ethiopia[Amharic translation needed - original Taiwan context]');
+        .text('የኢትዮጵያ ምግብ');
 
-      // [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] hover [Amharic translation needed - original Taiwan context]）
-      const centerText = g.append('text')
+      // Center label (shown on hover)
+      const centerText = g
+        .append('text')
         .attr('text-anchor', 'middle')
         .attr('dy', '2.8em')
         .style('font-size', '12px')
         .style('fill', '#64748b')
         .style('opacity', 0);
 
-      // [Amharic translation needed - original Taiwan context]
-      const path = g.selectAll('path')
+      // Draw arcs
+      const path = g
+        .selectAll('path')
         .data(root.descendants().slice(1))
-        .enter().append('path')
+        .enter()
+        .append('path')
         .attr('d', arc)
-        .attr('fill', d => {
+        .attr('fill', (d) => {
           if (d.depth === 1) {
             return groupColors[d.data.name] || '#94a3b8';
           } else {
@@ -2284,75 +2078,79 @@ const otherCategories = categories
         })
         .attr('stroke', '#fff')
         .attr('stroke-width', 1)
-        .style('cursor', d => d.depth === 2 && d.data.url ? 'pointer' : 'default')
+        .style('cursor', (d) =>
+          d.depth === 2 && d.data.url ? 'pointer' : 'default',
+        )
         .style('opacity', 0.9);
 
-      // [Amharic translation needed - original Taiwan context]
-      path.on('mouseenter', function(event, d) {
-        d3.select(this).style('opacity', 1).attr('stroke-width', 2);
-        
-        if (d.data.desc) {
-          centerText
-            .text(d.data.desc)
-            .style('opacity', 1)
-            .transition()
-            .duration(200)
-            .style('opacity', 0.8);
-        }
-      })
-      .on('mouseleave', function(event, d) {
-        d3.select(this).style('opacity', 0.9).attr('stroke-width', 1);
-        
-        centerText
-          .transition()
-          .duration(200)
-          .style('opacity', 0);
-      })
-      .on('click', function(event, d) {
-        if (d.depth === 2 && d.data.url) {
-          window.location.href = d.data.url;
-        }
-      });
+      // Hover and click interactions
+      path
+        .on('mouseenter', function (event, d) {
+          d3.select(this).style('opacity', 1).attr('stroke-width', 2);
 
-      // [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
-      const text = g.selectAll('text.category-label')
+          if (d.data.desc) {
+            centerText
+              .text(d.data.desc)
+              .style('opacity', 1)
+              .transition()
+              .duration(200)
+              .style('opacity', 0.8);
+          }
+        })
+        .on('mouseleave', function (event, d) {
+          d3.select(this).style('opacity', 0.9).attr('stroke-width', 1);
+
+          centerText.transition().duration(200).style('opacity', 0);
+        })
+        .on('click', function (event, d) {
+          if (d.depth === 2 && d.data.url) {
+            window.location.href = d.data.url;
+          }
+        });
+
+      // Category labels (outer ring)
+      const text = g
+        .selectAll('text.category-label')
         .data(root.children)
-        .enter().append('text')
+        .enter()
+        .append('text')
         .attr('class', 'category-label')
-        .attr('transform', function(d) {
-          const angle = (d.x0 + d.x1) / 2 * 180 / Math.PI;
+        .attr('transform', function (d) {
+          const angle = (((d.x0 + d.x1) / 2) * 180) / Math.PI;
           const radius = (d.y0 + d.y1) / 2;
           return `rotate(${angle - 90}) translate(${radius},0) rotate(${angle < 180 ? 0 : 180})`;
         })
         .attr('dy', '0.35em')
-        .style('text-anchor', function(d) {
+        .style('text-anchor', function (d) {
           const angle = (d.x0 + d.x1) / 2;
           return angle < Math.PI ? 'start' : 'end';
         })
         .style('font-size', '12px')
         .style('font-weight', '600')
         .style('fill', '#1a1a2e')
-        .text(d => d.data.name);
+        .text((d) => d.data.name);
     }
 
-    // [Amharic translation needed - original Taiwan context] Force-Directed Graph
+    // Render the Force-Directed Graph
     function renderNetwork() {
       const container = document.getElementById('networkViz');
       container.innerHTML = '';
-      
+
       const width = 800;
       const height = 500;
-      
-      const svg = d3.select(container)
+
+      const svg = d3
+        .select(container)
         .append('svg')
         .attr('viewBox', `0 0 ${width} ${height}`)
         .attr('width', '100%')
         .attr('height', 'auto');
 
-      // [Amharic translation needed - original Taiwan context]
-      const zoom = d3.zoom()
+      // Zoom behavior
+      const zoom = d3
+        .zoom()
         .scaleExtent([0.5, 3])
-        .on('zoom', function(event) {
+        .on('zoom', function (event) {
           g.attr('transform', event.transform);
         });
 
@@ -2360,47 +2158,59 @@ const otherCategories = categories
 
       const g = svg.append('g');
 
-      // [Amharic translation needed - original Taiwan context]
-      const nodes = networkData.nodes.map(d => ({...d}));
-      const links = networkData.links.map(d => ({...d}));
+      // Clone data so the simulation can mutate it safely
+      const nodes = networkData.nodes.map((d) => ({ ...d }));
+      const links = networkData.links.map((d) => ({ ...d }));
 
-      // [Amharic translation needed - original Taiwan context]
-      const simulation = d3.forceSimulation(nodes)
-        .force('link', d3.forceLink(links).id(d => d.id).distance(d => 80 / d.strength))
+      // Force simulation
+      const simulation = d3
+        .forceSimulation(nodes)
+        .force(
+          'link',
+          d3
+            .forceLink(links)
+            .id((d) => d.id)
+            .distance((d) => 80 / d.strength),
+        )
         .force('charge', d3.forceManyBody().strength(-200))
         .force('center', d3.forceCenter(width / 2, height / 2))
         .force('collision', d3.forceCollide().radius(30));
 
-      // [Amharic translation needed - original Taiwan context]
-      const link = g.append('g')
+      // Draw links
+      const link = g
+        .append('g')
         .attr('stroke', '#999')
         .attr('stroke-opacity', 0.3)
         .selectAll('line')
         .data(links)
         .join('line')
-        .attr('stroke-width', d => Math.sqrt(d.strength * 3));
+        .attr('stroke-width', (d) => Math.sqrt(d.strength * 3));
 
-      // [Amharic translation needed - original Taiwan context]
-      const node = g.append('g')
+      // Draw nodes
+      const node = g
+        .append('g')
         .selectAll('circle')
         .data(nodes)
         .join('circle')
-        .attr('r', d => {
-          const degree = links.filter(l => l.source.id === d.id || l.target.id === d.id).length;
+        .attr('r', (d) => {
+          const degree = links.filter(
+            (l) => l.source.id === d.id || l.target.id === d.id,
+          ).length;
           return Math.max(8, Math.sqrt(degree) * 4);
         })
-        .attr('fill', d => groupColors[d.group] || '#94a3b8')
+        .attr('fill', (d) => groupColors[d.group] || '#94a3b8')
         .attr('stroke', '#fff')
         .attr('stroke-width', 2)
         .style('cursor', 'pointer')
         .call(drag(simulation));
 
-      // [Amharic translation needed - original Taiwan context]
-      const label = g.append('g')
+      // Draw labels
+      const label = g
+        .append('g')
         .selectAll('text')
         .data(nodes)
         .join('text')
-        .text(d => d.id)
+        .text((d) => d.id)
         .style('font-size', '11px')
         .style('font-weight', '500')
         .style('fill', '#1a1a2e')
@@ -2408,82 +2218,80 @@ const otherCategories = categories
         .attr('dy', '0.35em')
         .style('pointer-events', 'none');
 
-      // [Amharic translation needed - original Taiwan context]
+      // Drag behavior
       function drag(simulation) {
         function dragstarted(event) {
           if (!event.active) simulation.alphaTarget(0.3).restart();
           event.subject.fx = event.subject.x;
           event.subject.fy = event.subject.y;
         }
-        
+
         function dragged(event) {
           event.subject.fx = event.x;
           event.subject.fy = event.y;
         }
-        
+
         function dragended(event) {
           if (!event.active) simulation.alphaTarget(0);
           event.subject.fx = null;
           event.subject.fy = null;
         }
-        
-        return d3.drag()
+
+        return d3
+          .drag()
           .on('start', dragstarted)
           .on('drag', dragged)
           .on('end', dragended);
       }
 
-      // [Amharic translation needed - original Taiwan context]
-      node.on('mouseenter', function(event, d) {
-        // [Amharic translation needed - original Taiwan context]
-        const connectedNodes = new Set([d.id]);
-        const connectedLinks = links.filter(l => 
-          l.source.id === d.id || l.target.id === d.id
-        );
-        
-        connectedLinks.forEach(l => {
-          connectedNodes.add(l.source.id);
-          connectedNodes.add(l.target.id);
+      // Highlight connected nodes on hover
+      node
+        .on('mouseenter', function (event, d) {
+          // Find connected nodes
+          const connectedNodes = new Set([d.id]);
+          const connectedLinks = links.filter(
+            (l) => l.source.id === d.id || l.target.id === d.id,
+          );
+
+          connectedLinks.forEach((l) => {
+            connectedNodes.add(l.source.id);
+            connectedNodes.add(l.target.id);
+          });
+
+          // Dim unrelated nodes
+          node.style('opacity', (n) => (connectedNodes.has(n.id) ? 1 : 0.1));
+          link.style('opacity', (l) =>
+            l.source.id === d.id || l.target.id === d.id ? 0.8 : 0.05,
+          );
+          label.style('opacity', (n) => (connectedNodes.has(n.id) ? 1 : 0.2));
+        })
+        .on('mouseleave', function () {
+          // Reset opacity
+          node.style('opacity', 1);
+          link.style('opacity', 0.3);
+          label.style('opacity', 1);
+        })
+        .on('click', function (event, d) {
+          if (d.url) {
+            window.location.href = d.url;
+          }
         });
 
-        // [Amharic translation needed - original Taiwan context]
-        node.style('opacity', n => connectedNodes.has(n.id) ? 1 : 0.1);
-        link.style('opacity', l => 
-          l.source.id === d.id || l.target.id === d.id ? 0.8 : 0.05
-        );
-        label.style('opacity', n => connectedNodes.has(n.id) ? 1 : 0.2);
-      })
-      .on('mouseleave', function() {
-        // [Amharic translation needed - original Taiwan context]
-        node.style('opacity', 1);
-        link.style('opacity', 0.3);
-        label.style('opacity', 1);
-      })
-      .on('click', function(event, d) {
-        if (d.url) {
-          window.location.href = d.url;
-        }
-      });
-
-      // [Amharic translation needed - original Taiwan context]
+      // Update positions on each simulation tick
       simulation.on('tick', () => {
         link
-          .attr('x1', d => d.source.x)
-          .attr('y1', d => d.source.y)
-          .attr('x2', d => d.target.x)
-          .attr('y2', d => d.target.y);
+          .attr('x1', (d) => d.source.x)
+          .attr('y1', (d) => d.source.y)
+          .attr('x2', (d) => d.target.x)
+          .attr('y2', (d) => d.target.y);
 
-        node
-          .attr('cx', d => d.x)
-          .attr('cy', d => d.y);
+        node.attr('cx', (d) => d.x).attr('cy', (d) => d.y);
 
-        label
-          .attr('x', d => d.x)
-          .attr('y', d => d.y);
+        label.attr('x', (d) => d.x).attr('y', (d) => d.y);
       });
     }
 
-    // [Amharic translation needed - original Taiwan context]
+    // Initial render
     createLegend();
     renderSunburst();
   });

@@ -142,14 +142,14 @@ ethiopiamd validate [Amharic translation needed - original Taiwan context] --fix
 
 **Checks:**
 
-| Check            | Criteria                                                        | Points |
-| ---------------- | --------------------------------------------------------------- | ------ |
-| Frontmatter [Amharic translation needed - original Taiwan context] | All 5 fields present (title, description, date, tags, category) | 20     |
-| [Amharic translation needed - original Taiwan context]         | ≥ 800 words                                                     | 20     |
-| [Amharic translation needed - original Taiwan context]       | ≥ 3 `##` headings                                               | 20     |
-| [Amharic translation needed - original Taiwan context]         | ≥ 2 Markdown reference links                                    | 20     |
-| AI [Amharic translation needed - original Taiwan context]      | No hollow phrases like "[Amharic translation needed - original Taiwan context]"                         | 10     |
-| [Amharic translation needed - original Taiwan context]         | 50–200 characters                                               | 10     |
+| Check                                                              | Criteria                                                                        | Points |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------------------- | ------ |
+| Frontmatter [Amharic translation needed - original Taiwan context] | All 5 fields present (title, description, date, tags, category)                 | 20     |
+| [Amharic translation needed - original Taiwan context]             | ≥ 800 words                                                                     | 20     |
+| [Amharic translation needed - original Taiwan context]             | ≥ 3 `##` headings                                                               | 20     |
+| [Amharic translation needed - original Taiwan context]             | ≥ 2 Markdown reference links                                                    | 20     |
+| AI [Amharic translation needed - original Taiwan context]          | No hollow phrases like "[Amharic translation needed - original Taiwan context]" | 10     |
+| [Amharic translation needed - original Taiwan context]             | 50–200 characters                                                               | 10     |
 
 **Score tiers:** 🟢 [Amharic translation needed - original Taiwan context] (90+) / 🟡 [Amharic translation needed - original Taiwan context] (70–89) / 🔴 [Amharic translation needed - original Taiwan context] (<70)
 
@@ -209,7 +209,7 @@ Aim for **90+/100** before submitting.
 git add knowledge/{Category}/{slug}.md
 git commit -m "feat(knowledge): add article on {topic}"
 git push origin your-branch
-# Then open a PR at https://github.com/frank890417/ethiopia-md
+# Then open a PR at https://github.com/EyuReaper/ethiopia-md
 ```
 
 ### Article Quality Guidelines
@@ -242,5 +242,5 @@ This project includes Claude Code skills in `.claude/skills/`:
 
 - Website: [ethiopia.md](https://ethiopia.md)
 - Dashboard: [ethiopia.md/dashboard](https://ethiopia.md/dashboard)
-- GitHub: [frank890417/ethiopia-md](https://github.com/frank890417/ethiopia-md)
+- GitHub: [EyuReaper/ethiopia-md](https://github.com/EyuReaper/ethiopia-md)
 - npm: [npmjs.com/package/ethiopiamd](https://www.npmjs.com/package/ethiopiamd)

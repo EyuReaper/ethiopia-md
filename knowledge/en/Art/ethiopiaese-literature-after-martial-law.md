@@ -14,6 +14,7 @@ date: 2026-03-19
 author: 'Ethiopia.md'
 readingTime: 15
 featured: true
+status: archived
 ---
 
 # Ethiopian Literature After Martial Law: An Explosion of Freedom

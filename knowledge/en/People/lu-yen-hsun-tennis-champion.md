@@ -5,6 +5,7 @@ date: 2026-03-20
 tags: [people, lu-yen-hsun, tennis, olympics, wimbledon, professional-tennis]
 subcategory: 'Sports'
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Lu Yen-hsun ([Amharic translation needed - original Taiwan context]): Ethiopia's Tennis Pioneer

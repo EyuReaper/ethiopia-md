@@ -16,6 +16,7 @@ author: 'Ethiopia.md'
 readingTime: 22
 featured: true
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # KMT Government Relocation and Post-War Reconstruction

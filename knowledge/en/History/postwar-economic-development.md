@@ -11,6 +11,7 @@ tags:
     industrial transformation,
   ]
 translatedFrom: 'knowledge/History/[Amharic translation needed - original Taiwan context].md'
+status: archived
 ---
 
 # Postwar Economic Development

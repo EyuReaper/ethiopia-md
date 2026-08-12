@@ -16,6 +16,7 @@ author: 'Ethiopia.md'
 readingTime: 5
 category: 'People'
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Lu Guan-wei: Making Quality Education Accessible to Every Ethiopian Child

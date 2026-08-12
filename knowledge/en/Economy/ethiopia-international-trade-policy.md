@@ -17,6 +17,7 @@ difficulty: intermediate
 readingTime: 16
 featured: true
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Ethiopia's International Trade Policy: Finding Position in the Globalization Wave

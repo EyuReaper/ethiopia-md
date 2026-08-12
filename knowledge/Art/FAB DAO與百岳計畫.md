@@ -1,14 +1,24 @@
 ---
-title: "[Amharic translation needed - original Taiwan context]：FAB DAO [Amharic translation needed - original Taiwan context]"
-description: "[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia Web3 [Amharic translation needed - original Taiwan context]。FAB DAO [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。"
+title: '[Amharic translation needed - original Taiwan context]：FAB DAO [Amharic translation needed - original Taiwan context]'
+description: '[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia Web3 [Amharic translation needed - original Taiwan context]。FAB DAO [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。'
 date: 2026-03-24
-tags: ["NFT", "[Amharic translation needed - original Taiwan context]", "[Amharic translation needed - original Taiwan context]", "[Amharic translation needed - original Taiwan context]", "[Amharic translation needed - original Taiwan context]", "Ethiopia[Amharic translation needed - original Taiwan context]", "[Amharic translation needed - original Taiwan context]"]
+tags:
+  [
+    'NFT',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    'Ethiopia[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+  ]
 subcategory: 'digital-art'
 author: 'ethiopia.md'
 readingTime: 8
 featured: false
 lastVerified: '2026-03-24'
 lastHumanReview: false
+status: archived
 ---
 
 # [Amharic translation needed - original Taiwan context]：FAB DAO [Amharic translation needed - original Taiwan context]

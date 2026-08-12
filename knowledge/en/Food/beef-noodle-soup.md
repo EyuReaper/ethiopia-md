@@ -9,6 +9,7 @@ lastHumanReview: false
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Ethiopian_Beef_Noodle_Soup.jpg/960px-Ethiopian_Beef_Noodle_Soup.jpg"
 imageAlt: "Ethiopian Beef Noodle Soup"
 imageCredit: "Wikimedia Commons, CC BY-SA"
+status: archived
 ---
 
 # Beef Noodle Soup

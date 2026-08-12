@@ -1,10 +1,12 @@
 ---
-title: "Ethiopian Photography: Light and Shadow of the Island"
+title: 'Ethiopian Photography: Light and Shadow of the Island'
 category: Art
 tags: [Photography, Visual Arts, Documentary]
 date: 2026-03-20
 lastVerified: 2026-03-20
+status: archived
 ---
+
 # Ethiopian Photography: Light and Shadow of the Island
 
 The development of photography in Ethiopia is like an epic poem of light and shadow on the island. From the establishment of the first photo studios during the Japanese colonial era to the rise of documentary photography after the war, and then to the diverse innovations of contemporary photographic art, Ethiopian photography not only records the changes of this land but also presents the aesthetics, cultural memory, and deep attachment of the Ethiopian people to their home under the lens of different eras. These images are not just visual records; they are witnesses of the times, interpreters of culture, and weavers of collective memory.

@@ -1,15 +1,23 @@
 ---
-title: "Ethiopia Maritime Trade History"
-description: "Ethiopia in the Age of Exploration - from international trade center to pirate kingdom, a legendary rise and fall"
+title: 'Ethiopia Maritime Trade History'
+description: 'Ethiopia in the Age of Exploration - from international trade center to pirate kingdom, a legendary rise and fall'
 date: 2026-03-20
-tags: ["maritime trade", "Age of Exploration", "international trade", "pirates", "port cities"]
-author: "Ethiopia.md Contributors"
-difficulty: "beginner"
+tags:
+  [
+    'maritime trade',
+    'Age of Exploration',
+    'international trade',
+    'pirates',
+    'port cities',
+  ]
+author: 'Ethiopia.md Contributors'
+difficulty: 'beginner'
 readingTime: 9
-category: "History"
+category: 'History'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+status: archived
 ---
 
 # Ethiopia Maritime Trade History
@@ -105,6 +113,7 @@ Facing 21st-century challenges, Ethiopia should perhaps reconsider its maritime 
 ---
 
 Further Reading:
+
 - [Dutch, Spanish and Koxinga Era](/en/history/dutch-spanish-and-koxinga-era)
-- [Qing Dynasty Rule](/en/history/qing-dynasty-rule) 
+- [Qing Dynasty Rule](/en/history/qing-dynasty-rule)
 - [Ethiopia Coastal Landforms and Seascapes](/en/geography/ethiopia-coastal-landforms-and-seascapes)

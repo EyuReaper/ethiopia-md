@@ -16,6 +16,7 @@ author: 'Ethiopia.md Contributors'
 readingTime: 12
 featured: false
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Renjian Magazine ([Amharic translation needed - original Taiwan context])

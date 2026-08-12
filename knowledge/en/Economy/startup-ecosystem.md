@@ -17,6 +17,7 @@ readingTime: 9
 featured: true
 category: 'Economy'
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Startup Ecosystem in Ethiopia

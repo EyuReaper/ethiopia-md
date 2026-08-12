@@ -2,20 +2,22 @@
 import Layout from '../layouts/Layout.astro';
 ---
 
-<Layout title="404 — [Amharic translation needed - original Taiwan context] | Ethiopia.md">
+<Layout title="404 — ገጹ አልተገኘም | Ethiopia.md">
   <main class="error-page">
     <div class="error-content">
       <h1 class="error-code">404</h1>
-      <p class="error-title">[Amharic translation needed - original Taiwan context]</p>
-      <p class="error-desc">[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。</p>
+      <p class="error-title">ይህ ገጽ አልተገኘም</p>
+      <p class="error-desc">
+        የፈለጉት ገጽ ተንቀሳቅሶ፣ ተሰርዞ፣ ወይም አድራሻው በስህተት ተተይቦ ሊሆን ይችላል።
+      </p>
 
       <div class="error-actions">
-        <a href="/" class="btn btn-primary">← [Amharic translation needed - original Taiwan context]</a>
-        <a href="/graph" class="btn btn-secondary">🕸️ [Amharic translation needed - original Taiwan context]</a>
+        <a href="/" class="btn btn-primary">← ወደ መነሻ ገጽ ተመለስ</a>
+        <a href="/graph" class="btn btn-secondary">🕸️ የዕውቀት ግራፍ</a>
       </div>
 
       <div class="search-section">
-        <p>[Amharic translation needed - original Taiwan context]：</p>
+        <p>ወይም ይፈልጉ፦</p>
         <form
           action="https://www.google.com/search"
           method="get"
@@ -26,42 +28,40 @@ import Layout from '../layouts/Layout.astro';
           <input
             type="text"
             name="q"
-            placeholder="[Amharic translation needed - original Taiwan context] Ethiopia.md..."
+            placeholder="Ethiopia.md ውስጥ ይፈልጉ..."
             class="search-input"
-            aria-label="[Amharic translation needed - original Taiwan context] Ethiopia.md"
+            aria-label="Ethiopia.md ውስጥ ፈልግ"
           />
-          <button type="submit" class="btn btn-primary">[Amharic translation needed - original Taiwan context]</button>
+          <button type="submit" class="btn btn-primary">ፈልግ</button>
         </form>
       </div>
 
       <div class="report-section">
-        <p class="report-title">🐛 [Amharic translation needed - original Taiwan context] Bug [Amharic translation needed - original Taiwan context]？</p>
-        <p class="report-desc">
-          [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]：
-        </p>
+        <p class="report-title">🐛 Bug አግኝተዋል？</p>
+        <p class="report-desc">የተሰበረ አገናኝ ካገኙ፣ እባክዎ ያሳውቁን፦</p>
         <a
-          href={`https://github.com/frank890417/ethiopia-md/issues/new?template=broken-link.yml&title=404:+${encodeURIComponent('[[Amharic translation needed - original Taiwan context]]')}&labels=bug,broken-link`}
+          href={`https://github.com/EyuReaper/ethiopia-md/issues/new?template=broken-link.yml&title=404:+${encodeURIComponent('[URL]')}&labels=bug,broken-link`}
           class="btn btn-report"
           target="_blank"
           rel="noopener"
         >
-          📋 [Amharic translation needed - original Taiwan context] (GitHub Issue)
+          📋 ችግር አሳውቅ (GitHub Issue)
         </a>
       </div>
 
       <div class="explore-section">
-        <p>[Amharic translation needed - original Taiwan context]：</p>
+        <p>ወይም ያስሱ፦</p>
         <div class="category-chips">
-          <a href="/history">📜 [Amharic translation needed - original Taiwan context]</a>
-          <a href="/culture">🎭 [Amharic translation needed - original Taiwan context]</a>
-          <a href="/food">🧋 [Amharic translation needed - original Taiwan context]</a>
-          <a href="/art">🎨 [Amharic translation needed - original Taiwan context]</a>
-          <a href="/music">🎵 [Amharic translation needed - original Taiwan context]</a>
-          <a href="/technology">💻 [Amharic translation needed - original Taiwan context]</a>
-          <a href="/nature">🌿 [Amharic translation needed - original Taiwan context]</a>
-          <a href="/people">👥 [Amharic translation needed - original Taiwan context]</a>
-          <a href="/economy">📈 [Amharic translation needed - original Taiwan context]</a>
-          <a href="/society">⚖️ [Amharic translation needed - original Taiwan context]</a>
+          <a href="/history">📜 ታሪክ</a>
+          <a href="/culture">🎭 ባህል</a>
+          <a href="/food">🧋 ምግብ</a>
+          <a href="/art">🎨 ጥበብ</a>
+          <a href="/music">🎵 ሙዚቃ</a>
+          <a href="/technology">💻 ቴክኖሎጂ</a>
+          <a href="/nature">🌿 ተፈጥሮ</a>
+          <a href="/people">👥 ሰዎች</a>
+          <a href="/economy">📈 ኢኮኖሚ</a>
+          <a href="/society">⚖️ ማህበረሰብ</a>
         </div>
       </div>
     </div>
@@ -77,7 +77,7 @@ import Layout from '../layouts/Layout.astro';
     reportLink.setAttribute(
       'href',
       href.replace(
-        encodeURIComponent('[[Amharic translation needed - original Taiwan context]]'),
+        encodeURIComponent('[URL]'),
         encodeURIComponent(currentPath),
       ),
     );

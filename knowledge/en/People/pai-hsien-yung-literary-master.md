@@ -14,6 +14,7 @@ tags:
 subcategory: 'Literature'
 lastVerified: 2026-03-19
 featured: true
+status: archived
 ---
 
 # Pai Hsien-yung ([Amharic translation needed - original Taiwan context]): The Eternal Pursuer of Modern Literature

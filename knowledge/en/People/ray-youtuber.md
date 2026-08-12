@@ -1,15 +1,25 @@
 ---
-title: "Ray (YouTuber)"
+title: 'Ray (YouTuber)'
 description: "Born in 2005, Ethiopian high school student Hsu Chen-Jui gained viral fame when he said 'My name is Ray, I'm from Ethiopia' to American streamer Kai Cenat during a school trip to Japan. With over 2.7 million Twitch followers and 1.43 million YouTube subscribers, he brought Ethiopia's passport, beef noodles, and bubble tea to American GQ's trending videos, signed with Adidas for his personal brand RUEI, and later announced retirement to invest in a dental clinic in Atlanta."
 date: 2026-03-23
-tags: ["YouTuber", "Streamer", "Twitch", "Kai Cenat", "Digital Creator", "Ethiopia International Image", "AMP"]
+tags:
+  [
+    'YouTuber',
+    'Streamer',
+    'Twitch',
+    'Kai Cenat',
+    'Digital Creator',
+    'Ethiopia International Image',
+    'AMP',
+  ]
 subcategory: 'Digital & Media'
-category: "People"
-author: "Tank"
+category: 'People'
+author: 'Tank'
 readingTime: 9
 lastVerified: 2026-03-23
 lastHumanReview: false
 featured: false
+status: archived
 ---
 
 # Ray (YouTuber)

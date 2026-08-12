@@ -1,94 +1,45 @@
 ---
-title: 'Nature'
-date: 2026-03-23
-tags: [[Amharic translation needed - original Taiwan context], Hub]
-description: '[Amharic translation needed - original Taiwan context]0.03%[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]59,000[Amharic translation needed - original Taiwan context]，30%[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]3,952[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。'
+title: 'ተፈጥሮ'
+date: '2026-08-11'
+tags: [Nature, Hub]
+description: 'ከሴሜንና ከባሌ ተራሮች ብርቅዬ የዱር አራዊት እስከ ስምጥ ሸለቆ ሐይቆችና ዳናኪል ድብርት ድረስ፣ የኢትዮጵያ ተፈጥሮአዊ ብዝሃ ሕይወት እና ልዩ መልክዓ ምድር ቅኝት።'
+status: published
 ---
 
-# Ethiopia[Amharic translation needed - original Taiwan context] 🌿
+# የኢትዮጵያ ተፈጥሮ 🌿
 
-## [Amharic translation needed - original Taiwan context]
+ኢትዮጵያ በምሥራቅ አፍሪካ ስምጥ ሸለቆ ላይ የምትገኝ፣ ከባህር ጠለል በታች ከ100 ሜትር በላይ ከሚወርደው ዳናኪል ድብርት እስከ ከ4,500 ሜትር በላይ ከፍታ ካላቸው የሴሜን ተራሮች ጫፎች ድረስ ልዩ ልዩ መልክዓ ምድር ያላት ሀገር ናት። ይህ የከፍታ ልዩነትና የተነጠለ የደጋ መልክዓ ምድር ለብዙ ብርቅዬ የዕፅዋትና የእንስሳት ዝርያዎች መገኛ ሆኗል። እንደ ተባበሩት መንግሥታት የብዝሃ ሕይወት ስምምነት (CBD) መረጃ፣ ኢትዮጵያ ወደ 6,000 የሚጠጉ ከፍተኛ የዕፅዋት ዝርያዎች ያሏት ሲሆን ከእነዚህ ውስጥ አሥር በመቶ የሚሆኑት በዓለም ላይ ሌላ ቦታ የማይገኙ ናቸው። ከ284 የአጥቢ እንስሳት ዝርያዎች 29ኙ፣ ከ861 የአዕዋፍ ዝርያዎች 18ቱ፣ እንዲሁም ከ200 የዓሣ ዝርያዎች 40ው ኢትዮጵያ ብቻ ናቸው። ይህ ከፍተኛ የመፈጠር (endemism) መጠን በዋናነት የሚገለጸው በኢትዮጵያ ደጋማ አካባቢዎችና በአፍሪካ ቀንድ በሚባሉት ሁለት ትላልቅ የብዝሃ ሕይወት ማዕከላት አማካኝነት ነው።
 
-[Amharic translation needed - original Taiwan context]○[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]《Ethiopia：[Amharic translation needed - original Taiwan context]》。
+## ሴሜን ተራሮች ብሔራዊ ፓርክ፡ የአለት ግንቦችና ብርቅዬ እንስሳት መኖሪያ
 
-[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]36,000[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]59,000[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]30%[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]。
+በሰሜን ኢትዮጵያ፣ ከጎንደር ከተማ ሰሜን ምሥራቅ የሚገኘው የሴሜን ተራሮች ብሔራዊ ፓርክ በሚሊዮን ዓመታት የተፈጥሮ መሸርሸር የተቀረጹ ሹል ጫፎችን፣ ጥልቅ ሸለቆዎችንና እስከ 1,500 ሜትር ቁልቁል የሚወርዱ አለታማ ግንቦችን የያዘ ነው። የሀገሪቱ ከፍተኛው ተራራ ራስ ዳሸን በዚሁ ፓርክ ውስጥ ይገኛል፤ ከፍታውም 4,550 ሜትር ደርሶ ኢትዮጵያን ከአፍሪካ ከፍተኛ ተራሮች ባለቤቶች መካከል ያሰልፋታል። ፓርኩ በ1970 ዓ.ም. በዓለም ቅርስነት ከተመዘገቡት የመጀመሪያዎቹ የዓለም ቅርስ ስፍራዎች አንዱ ሆኖ በዩኔስኮ ተመዝግቧል።
 
-[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]4,000[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]100[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+ፓርኩ በዓለም ላይ ሌላ ቦታ የማይገኘውን ዋሊያ ኣይቤክስ (Walia ibex) የተባለውን የዱር ተራራ ፍየል ዝርያ ይይዛል። በ1962 ዓ.ም. አካባቢ ወደ 1,500 የሚጠጉ ዋሊያዎች የነበሩ ቢሆንም፣ በሰፈራ መስፋፋት፣ ከመጠን ያለፈ ግጦሽና አደን ምክንያት ቁጥራቸው በ1987 ዓ.ም. አካባቢ ወደ 250 በታች ወርዶ ነበር። በዚህ ምክንያት ፓርኩ በ1988 ዓ.ም. ዩኔስኮ አደጋ ላይ ወዳለ የዓለም ቅርስ ዝርዝር ገብቶ ለ21 ዓመታት ቆይቷል። ከአካባቢው ማኅበረሰብ ጋር በተደረገ ትብብር በተካሄደው የጥበቃ ሥራ ምክንያት፣ ፓርኩ በ2009 ዓ.ም. ከአደጋ ዝርዝሩ ወጥቷል፤ የዋሊያ ኣይቤክስ ቁጥርም ወደ 500 እና ከዚያ በላይ አገግሟል። ከዋሊያ ባሻገር፣ ፓርኩ በአስር ሺዎች የሚቆጠሩ የሚሆኑ የጌላዳ ዝንጀሮዎችን (Gelada baboon) ያስተናግዳል፤ እነዚህ በሳር ላይ እየተጎለተቱ የሚግጡ ልዩ ፕሪሜቶች በኢትዮጵያ ደጋማ አካባቢዎች ብቻ የሚገኙ ናቸው። እንዲሁም ብርቅዬው የኢትዮጵያ ተኩላ በፓርኩ ከፍተኛ ቦታዎች ላይ ይታያል።
 
-[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。Ethiopia[Amharic translation needed - original Taiwan context]3,500[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+## ባሌ ተራሮች ብሔራዊ ፓርክ እና የኢትዮጵያ ተኩላ
 
-[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。Ethiopia[Amharic translation needed - original Taiwan context]100[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+በደቡብ ምሥራቅ ኢትዮጵያ የሚገኘው የባሌ ተራሮች ብሔራዊ ፓርክ በአህጉሪቱ ትልቁን የአፍሮ-አልፓይን መልክዓ ምድር የያዘ ሲሆን፣ ከየትኛውም የአፍሪካ ብሔራዊ ፓርክ በበለጠ በካሬ ኪሎ ሜትር የተጠራቀመ የብርቅዬ ዝርያዎች ብዛት ይታይበታል። ከኢትዮጵያ በዘር የተለዩ ዝርያዎች መካከል 26 በመቶ የሚሆኑት፣ ከነዚህም አንድ ፕሪሜት፣ አንድ የከብት ዝርያ (የተራራ ኒያላ)፣ አንድ ጥንቸል፣ ስምንት የአይጥ ዝርያዎችና መላው የግዙፉ ሞልራት (giant mole rat) የዓለም ሕዝብ በዚሁ ፓርክ ውስጥ ይገኛሉ።
 
-[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+ፓርኩ በተለይ የኢትዮጵያ ተኩላ (Canis simensis) መገኛ በመሆኑ ይታወቃል፤ ይህ ዝርያ በዓለም ላይ በጣም አልፎ አልፎ የሚገኝ የውሻ ቤተሰብ አባል ተደርጎ ይወሰዳል። በዓለም ላይ ወደ 400 የሚጠጉ የኢትዮጵያ ተኩላዎች ብቻ የቀሩ ሲሆን፣ ከግማሽ በላይ የሚሆኑት ማለትም ከ300 እስከ 350 የሚደርሱት በባሌ ተራሮች ከ3,000 ሜትር በላይ ከፍታ ባለው የአፍሮ-አልፓይን መልክዓ ምድር ውስጥ ይኖራሉ። ይህም ፓርኩን ለዝርያው የዓለም ትልቁ መጠለያ ያደርገዋል።
 
-[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+## ታላቁ የስምጥ ሸለቆ ሐይቆች
 
-## 🏔️ [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
+የምሥራቅ አፍሪካ ታላቁ ስምጥ ሸለቆ ክፍል የሆነው የኢትዮጵያ ስምጥ ሸለቆ የኢትዮጵያን ደጋማ አካባቢዎች ለሁለት ከፍሎ ያልፋል፤ በውስጡም ካሉት ሐይቆች መካከል በዓለም ላይ ካሉት ጥንታዊ፣ ጥልቅና ትላልቅ ሐይቆች ውስጥ ጥቂቶቹ ይገኛሉ። ከእነዚህ ሐይቆች መካከል ሻላ ሐይቅ 266 ሜትር ጥልቀት በመያዝ በስምጥ ሸለቆው ውስጥ ካሉት ሐይቆች ሁሉ በጣም ጥልቁ ሲሆን፣ ለታላላቅ ነጭ ፔሊካኖችና ፍላሚንጎዎች መጠለያ ሆኖ ያገለግላል። ቻሞ ሐይቅ በበኩሉ በከፍተኛ ቁጥር ለሚገኙ የአባይ አዞዎች መኖሪያ ሲሆን፣ በተለይ «የአዞ ገበያ» እየተባለ በሚጠራው የባሕር ዳርቻ ላይ በርካታ አዞዎች ይታያሉ፤ ሐይቁ በተጨማሪም ትልቁን የኢትዮጵያ ጉማሬ ሕዝብ ይይዛል። ሐዋሳ ሐይቅ በደን የተከበበ ሲሆን ለተለያዩ የዱር አራዊት መኖሪያ ነው። ከኢትዮጵያ ንጹሕ ውሃ ሐይቆች ሰማንያ በመቶ የሚሆኑት በስምጥ ሸለቆ ሐይቆች ተፋሰስ ውስጥ የሚገኙ ሲሆን፣ ከ15 ሚሊዮን ለሚበልጡ ነዋሪዎች ለመጠጥና ለመስኖ ውሃ አገልግሎት ይሰጣሉ።
 
-Ethiopia[Amharic translation needed - original Taiwan context]9%[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+## ዳናኪል ድብርት፡ በምድር ላይ ካሉ በጣም ልዩ ስፍራዎች አንዱ
 
-[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]1,500[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]3,952[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]2,500[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]。
+በሰሜን ምሥራቅ ኢትዮጵያ በአፋር ክልል የሚገኘው ዳናኪል ድብርት፣ የአፋር ትሪያንግል ተብሎ የሚጠራው ትልቅ ጂኦሎጂያዊ ስፍራ ሰሜናዊ ክፍል ነው። ስፍራው የኑቢያ፣ የዓረብና የሶማሌ ስስ ቅርፊቶች (tectonic plates) እርስ በርስ እየተራራቁ በሚፈጥሩት እንቅስቃሴ የተነሳ ከባህር ጠለል በታች ወደ 125 ሜትር ያህል ጠልቆ ይገኛል፤ ይህም በአህጉሪቱ ካሉ ዝቅተኛ ቦታዎች ሦስተኛውን ደረጃ ይይዘዋል። ዳናኪል ከምድር ላይ ካሉ በጣም ሞቃታማና ደረቃማ ስፍራዎች አንዱ ሲሆን፣ የቀን ሙቀት መጠኑ ከ50 ዲግሪ ሴንቲግሬድ በላይ ይደርሳል። በአካባቢው የሚገኘው ዳሎል የሚባለው የሙቀት ውሃ ምንጭ ስፍራ በደማቅ ማዕድናት ቀለም የተካኑ ገንዳዎችን የያዘ ሲሆን፣ አሲዳማነቱም pH ወደ ዜሮ የተጠጋ ነው። በተጨማሪም የኢትዮጵያ በጣም ንቁ እሳተ ገሞራ የሆነው ኤርታ አሌ፣ በዓለም ላይ ካሉ ስድስት ንቁ የላቫ ሐይቆች አንዱን ይይዛል። ይህ አካባቢ በተጨማሪም ጥንታዊ የሰው ልጅ ቅድመ አያቶች ቅሪተ አካላት የተገኙበት በመሆኑ በሳይንቲስቶች ዘንድ የሰው ልጅ መገኛ ቦታዎች አንዱ ተደርጎ ይታያል።
 
-[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+## ውሃ ማማ እና የወደፊት ተግዳሮት
 
-[[[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]]
+ኢትዮጵያ ብዙ ጊዜ «የአፍሪካ ውሃ ማማ» ወይም «የአፍሪካ ቀንድ ውሃ ማማ» እየተባለች ትጠራለች፤ ይህም የአባይ ወንዝ ትልቁ ገባር ወንዝ ለሆነው ለጥቁር አባይ መነሻ በመሆኗና በርካታ ንጹሕ ውሃ ሐይቆችን በመያዟ ነው። ከ85 በመቶ በላይ የሚሆነው የአባይ ወንዝ ውሃ ከኢትዮጵያ የሚመነጭ ሲሆን፣ ጥቁር አባይ ብቻውን ወደ ታችኛው ተፋሰስ ሀገራት ከሚደርሰው ውሃ 80 በመቶውን ይሰጣል። የኢትዮጵያ ደጋማ አካባቢዎች ከፍተኛ የዝናብ መጠን የሚያገኙ በመሆናቸው ለሐይድሮ ኤሌክትሪክ ኃይል ማመንጫ ትልቅ አቅም ይሰጣሉ። ይሁን እንጂ፣ ይህች «የውሃ ማማ» ተብላ የምትታወቀው ሀገር ራሷ በተደጋጋሚ በድርቅና በዚያው ምክንያት በሚከሰት ረሃብ ትፈተናለች፤ ይህም በዝናብ አለመመጣጠን፣ በአየር ንብረት ለውጥና በተፋሰስ መራቆት የተነሳ የሚባባስ ተግዳሮት ነው። ይህ የተፈጥሮ ሀብት ብዛትና ተጋላጭነት አብሮ የሚኖርበት እውነታ፣ የኢትዮጵያን ተፈጥሮአዊ ሀብት በዘላቂነት የመጠበቅ ሥራ ወሳኝነት ያመለክታል።
 
-## 🌊 [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
+## ምንጮች
 
-Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]6,000[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]。
-
-[Amharic translation needed - original Taiwan context]，150[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]10[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]23[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]（Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]），[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。
-
-[[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]]
-
-## 🐻 [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
-
-Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-Ethiopia[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]V[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-Ethiopia[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-[[[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]]
-
-## 🌲 [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
-
-Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]4,000[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]2,000[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]600[Amharic translation needed - original Taiwan context]。
-
-[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]。
-
-[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。
-
-[[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]]
-
-## 🌱 [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
-
-Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。
-
-[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。1990[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]200[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]5,000[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」。
-
-Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]1980[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。
-
-[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。
-
-[[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]]
-
-## 🏛️ [Amharic translation needed - original Taiwan context]
-
-Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]（TBN），[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]DNA（eDNA）[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]。
-
-Ethiopia[Amharic translation needed - original Taiwan context]。Ethiopia[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。Ethiopia[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。
-
-[[[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]]
-
----
-
-*Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]36,000[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。*
+- [Simien National Park no longer in danger — UNESCO World Heritage Centre](https://whc.unesco.org/en/news/1683)
+- [Ethiopian park comes off World Heritage 'danger list' but challenges remain — IUCN](https://iucn.org/news/secretariat/201707/ethiopian-park-comes-world-heritage-%E2%80%98danger-list%E2%80%99-challenges-remain)
+- [Bale Mountains — Britannica](https://www.britannica.com/place/Bale-Mountains)
+- [Wildlife of Ethiopia — Wikipedia](https://en.wikipedia.org/wiki/Wildlife_of_Ethiopia)
+- [Ethiopia — Country Profile, Convention on Biological Diversity](https://www.cbd.int/countries/profile?country=et)
+- [Danakil Depression — Wikipedia](https://en.wikipedia.org/wiki/Danakil_Depression)
+- [Ethiopia – Africa's Water Tower, Nile River Basin](https://nowater-nolife.org/ethiopia-africas-water-tower/)

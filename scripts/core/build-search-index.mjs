@@ -76,6 +76,7 @@ async function scanArticles() {
       for (const file of files) {
         try {
           const { data } = matter(await readFile(join(zhPath, file), 'utf-8'));
+          if (data.status === 'draft' || data.status === 'archived') continue;
           const name = basename(file, '.md');
           const title = data.title || name;
           const description = data.description || '';
@@ -113,6 +114,7 @@ async function scanArticles() {
       for (const file of files) {
         try {
           const { data } = matter(await readFile(join(enPath, file), 'utf-8'));
+          if (data.status === 'draft' || data.status === 'archived') continue;
           const name = basename(file, '.md');
           const title = data.title || name;
           const description = data.description || '';

@@ -1,22 +1,17 @@
 ---
-title: [Amharic translation needed - original Taiwan context]
-description: [Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]から、[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]する[Amharic translation needed - original Taiwan context]へ。[Amharic translation needed - original Taiwan context]がたどってきた[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]と、[Amharic translation needed - original Taiwan context]へ[Amharic translation needed - original Taiwan context]がる[Amharic translation needed - original Taiwan context]をたどる。
+title: '[Amharic translation needed - original Taiwan context]'
+description: '[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]から、[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]する[Amharic translation needed - original Taiwan context]へ。[Amharic translation needed - original Taiwan context]がたどってきた[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]と、[Amharic translation needed - original Taiwan context]へ[Amharic translation needed - original Taiwan context]がる[Amharic translation needed - original Taiwan context]をたどる。'
 date: 2026-03-17
-tags:
-  - グルメ
-  - [Amharic translation needed - original Taiwan context]
-  - [Amharic translation needed - original Taiwan context]
-  - [Amharic translation needed - original Taiwan context]
-  - [Amharic translation needed - original Taiwan context]フェスティバル
-  - ミシュラン
+tags: [グルメ, 麺料理, 郷土料理, 屋台, フードフェスティバル, ミシュラン]
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Ethiopian_Beef_Noodle_Soup.jpg/960px-Ethiopian_Beef_Noodle_Soup.jpg"
-imageAlt: "[Amharic translation needed - original Taiwan context]"
-imageCredit: "Wikimedia Commons, CC BY-SA"
-author: "Ethiopia.md Translation Team"
+image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Ethiopian_Beef_Noodle_Soup.jpg/960px-Ethiopian_Beef_Noodle_Soup.jpg'
+imageAlt: '[Amharic translation needed - original Taiwan context]'
+imageCredit: 'Wikimedia Commons, CC BY-SA'
+author: 'Ethiopia.md Translation Team'
 category: Food
+status: archived
 ---
 
 # [Amharic translation needed - original Taiwan context]
@@ -72,6 +67,7 @@ _[Amharic translation needed - original Taiwan context]: [Wikimedia Commons](htt
 もっとも[Amharic translation needed - original Taiwan context]く[Amharic translation needed - original Taiwan context]られているのが、[Amharic translation needed - original Taiwan context]い[Amharic translation needed - original Taiwan context]いのスープをもつ[Amharic translation needed - original Taiwan context]です。
 
 **[Amharic translation needed - original Taiwan context]：**
+
 - **スープの[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]い[Amharic translation needed - original Taiwan context]で、[Amharic translation needed - original Taiwan context]のある[Amharic translation needed - original Taiwan context]た[Amharic translation needed - original Taiwan context]
 - **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、シナモンなど
 - **[Amharic translation needed - original Taiwan context]わい**：[Amharic translation needed - original Taiwan context]と[Amharic translation needed - original Taiwan context]みが[Amharic translation needed - original Taiwan context]く、ほんのり[Amharic translation needed - original Taiwan context]みもある
@@ -85,6 +81,7 @@ _[Amharic translation needed - original Taiwan context]: [Wikimedia Commons](htt
 [Amharic translation needed - original Taiwan context]なのが、[Amharic translation needed - original Taiwan context]のあるスープで[Amharic translation needed - original Taiwan context]する[Amharic translation needed - original Taiwan context]です。
 
 **[Amharic translation needed - original Taiwan context]：**
+
 - **スープの[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]んでいて[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]ない
 - **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]、ねぎ、[Amharic translation needed - original Taiwan context]などを[Amharic translation needed - original Taiwan context]に、ごく[Amharic translation needed - original Taiwan context]えめ
 - **[Amharic translation needed - original Taiwan context]わい**：すっきりとしていて、[Amharic translation needed - original Taiwan context]そのものの[Amharic translation needed - original Taiwan context]みが[Amharic translation needed - original Taiwan context]つ
@@ -98,6 +95,7 @@ _[Amharic translation needed - original Taiwan context]: [Wikimedia Commons](htt
 [Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]ばしているのが、トマトを[Amharic translation needed - original Taiwan context]った[Amharic translation needed - original Taiwan context]しい[Amharic translation needed - original Taiwan context]です。
 
 **[Amharic translation needed - original Taiwan context]：**
+
 - **スープの[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]みがあり、[Amharic translation needed - original Taiwan context]るい[Amharic translation needed - original Taiwan context]
 - **[Amharic translation needed - original Taiwan context]**：トマト、[Amharic translation needed - original Taiwan context]ねぎ、にんじんなど
 - **[Amharic translation needed - original Taiwan context]わい**：ほどよい[Amharic translation needed - original Taiwan context]と[Amharic translation needed - original Taiwan context]みがあり、[Amharic translation needed - original Taiwan context]をそそる
@@ -111,6 +109,7 @@ _[Amharic translation needed - original Taiwan context]: [Wikimedia Commons](htt
 より[Amharic translation needed - original Taiwan context]な[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]みを[Amharic translation needed - original Taiwan context]める[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]されるのが[Amharic translation needed - original Taiwan context]です。
 
 **[Amharic translation needed - original Taiwan context]：**
+
 - [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、そして[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]だけで[Amharic translation needed - original Taiwan context]される
 - [Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]りと[Amharic translation needed - original Taiwan context]みをまっすぐ[Amharic translation needed - original Taiwan context]わうことを[Amharic translation needed - original Taiwan context]す
 - スープは[Amharic translation needed - original Taiwan context]し、ミルキーな[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]びることが[Amharic translation needed - original Taiwan context]い
@@ -120,6 +119,7 @@ _[Amharic translation needed - original Taiwan context]: [Wikimedia Commons](htt
 [Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]をより[Amharic translation needed - original Taiwan context]く[Amharic translation needed - original Taiwan context]したのが[Amharic translation needed - original Taiwan context]です。
 
 **[Amharic translation needed - original Taiwan context]：**
+
 - [Amharic translation needed - original Taiwan context]な[Amharic translation needed - original Taiwan context]と[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]
 - しびれと[Amharic translation needed - original Taiwan context]み、[Amharic translation needed - original Taiwan context]りの[Amharic translation needed - original Taiwan context]がはっきりしている
 - [Amharic translation needed - original Taiwan context]な[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]く[Amharic translation needed - original Taiwan context]している
@@ -142,6 +142,7 @@ _[Amharic translation needed - original Taiwan context]: [Wikimedia Commons](htt
 ### [Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]び[Amharic translation needed - original Taiwan context]と[Amharic translation needed - original Taiwan context]い[Amharic translation needed - original Taiwan context]
 
 **[Amharic translation needed - original Taiwan context]われる[Amharic translation needed - original Taiwan context]：**
+
 - **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]く、[Amharic translation needed - original Taiwan context]むと[Amharic translation needed - original Taiwan context]のある[Amharic translation needed - original Taiwan context]になる
 - **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]と[Amharic translation needed - original Taiwan context]のバランスがよく、やわらかくジューシー
 - **[Amharic translation needed - original Taiwan context]り[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]で、しっかりした[Amharic translation needed - original Taiwan context]みごたえ
@@ -153,6 +154,7 @@ _[Amharic translation needed - original Taiwan context]: [Wikimedia Commons](htt
 ### [Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]び[Amharic translation needed - original Taiwan context]
 
 **[Amharic translation needed - original Taiwan context]さの[Amharic translation needed - original Taiwan context]：**
+
 - **[Amharic translation needed - original Taiwan context]めの[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]な[Amharic translation needed - original Taiwan context]スープによく[Amharic translation needed - original Taiwan context]う
 - **[Amharic translation needed - original Taiwan context]めの[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]のようなあっさりしたスープに[Amharic translation needed - original Taiwan context]く
 - **[Amharic translation needed - original Taiwan context]**：もっちりした[Amharic translation needed - original Taiwan context]で[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]い
@@ -167,6 +169,7 @@ _[Amharic translation needed - original Taiwan context]: [Wikimedia Commons](htt
 2005[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]は「[Amharic translation needed - original Taiwan context]フェスティバル」を[Amharic translation needed - original Taiwan context]ち[Amharic translation needed - original Taiwan context]げました。[Amharic translation needed - original Taiwan context]は、[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]く[Amharic translation needed - original Taiwan context]し、[Amharic translation needed - original Taiwan context]な[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]めることにありました。
 
 **[Amharic translation needed - original Taiwan context]な[Amharic translation needed - original Taiwan context]：**
+
 - [Amharic translation needed - original Taiwan context]コンテスト（[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]など）
 - [Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]による[Amharic translation needed - original Taiwan context]・[Amharic translation needed - original Taiwan context]
 - [Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]や[Amharic translation needed - original Taiwan context]といった[Amharic translation needed - original Taiwan context]
@@ -200,6 +203,7 @@ _[Amharic translation needed - original Taiwan context]: [Wikimedia Commons](htt
 [Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]のひとつとされる[Amharic translation needed - original Taiwan context]です。1950[Amharic translation needed - original Taiwan context]には[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]まり、その[Amharic translation needed - original Taiwan context]しだいに[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]いを[Amharic translation needed - original Taiwan context]めていきました。
 
 **[Amharic translation needed - original Taiwan context]エリア：**
+
 - [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]にもよく[Amharic translation needed - original Taiwan context]られる[Amharic translation needed - original Taiwan context]
 - [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]される[Amharic translation needed - original Taiwan context]
 - [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]で[Amharic translation needed - original Taiwan context]られる[Amharic translation needed - original Taiwan context]
@@ -213,6 +217,7 @@ _[Amharic translation needed - original Taiwan context]: [Wikimedia Commons](htt
 [Amharic translation needed - original Taiwan context]と[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]み[Amharic translation needed - original Taiwan context]わせた[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]られます。24[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]もあり、[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]わず[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]えています。
 
 **[Amharic translation needed - original Taiwan context]：**
+
 - [Amharic translation needed - original Taiwan context]には[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]い
 - [Amharic translation needed - original Taiwan context]と[Amharic translation needed - original Taiwan context]びついた、[Amharic translation needed - original Taiwan context]な[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]も[Amharic translation needed - original Taiwan context]い
 
@@ -222,6 +227,7 @@ _[Amharic translation needed - original Taiwan context]: [Wikimedia Commons](htt
 [Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]は、[Amharic translation needed - original Taiwan context]よりもやや[Amharic translation needed - original Taiwan context]やかな[Amharic translation needed - original Taiwan context]わいを[Amharic translation needed - original Taiwan context]む[Amharic translation needed - original Taiwan context]があります。あっさりしていても[Amharic translation needed - original Taiwan context]のあるスープが[Amharic translation needed - original Taiwan context]まれます。
 
 **[Amharic translation needed - original Taiwan context]：**
+
 - [Amharic translation needed - original Taiwan context]：チェーン[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]した[Amharic translation needed - original Taiwan context]
 - [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]で[Amharic translation needed - original Taiwan context]く[Amharic translation needed - original Taiwan context]しまれてきた[Amharic translation needed - original Taiwan context]
 
@@ -280,16 +286,19 @@ _[Amharic translation needed - original Taiwan context]: [Wikimedia Commons](htt
 ### [Amharic translation needed - original Taiwan context]しい[Amharic translation needed - original Taiwan context]への[Amharic translation needed - original Taiwan context]
 
 **[Amharic translation needed - original Taiwan context]：**
+
 - [Amharic translation needed - original Taiwan context]や[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]えた[Amharic translation needed - original Taiwan context]めの[Amharic translation needed - original Taiwan context]
 - [Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]
 - [Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]めに[Amharic translation needed - original Taiwan context]える[Amharic translation needed - original Taiwan context]
 
 **[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]：**
+
 - [Amharic translation needed - original Taiwan context]、タイ[Amharic translation needed - original Taiwan context]、イタリア[Amharic translation needed - original Taiwan context]など、[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]り[Amharic translation needed - original Taiwan context]れた[Amharic translation needed - original Taiwan context]
 - [Amharic translation needed - original Taiwan context]やきのこを[Amharic translation needed - original Taiwan context]ったベジタリアン[Amharic translation needed - original Taiwan context]
 - [Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]わりに[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]いた[Amharic translation needed - original Taiwan context]
 
 **サービスの[Amharic translation needed - original Taiwan context]：**
+
 - パッケージや[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]
 - ブランド[Amharic translation needed - original Taiwan context]・チェーン[Amharic translation needed - original Taiwan context]
 - デリバリーの[Amharic translation needed - original Taiwan context]
@@ -321,11 +330,13 @@ SNSやグルメアプリを[Amharic translation needed - original Taiwan context
 ### [Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]わい[Amharic translation needed - original Taiwan context]
 
 **[Amharic translation needed - original Taiwan context]：**
+
 1. まずはスープをひと[Amharic translation needed - original Taiwan context]み、[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]なりと[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]みを[Amharic translation needed - original Taiwan context]かめます。
 2. [Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]わい、[Amharic translation needed - original Taiwan context]み[Amharic translation needed - original Taiwan context]ややわらかさ、[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]みを[Amharic translation needed - original Taiwan context]しみます。
 3. そのあと[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]わせ、[Amharic translation needed - original Taiwan context]としての[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]じます。
 
 **よくある[Amharic translation needed - original Taiwan context]み[Amharic translation needed - original Taiwan context]わせ：**
+
 - **[Amharic translation needed - original Taiwan context]**：キムチ、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]など
 - **[Amharic translation needed - original Taiwan context]み[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]かいお[Amharic translation needed - original Taiwan context]、またはビール
 - **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]によっては[Amharic translation needed - original Taiwan context]いご[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]わせることもあります

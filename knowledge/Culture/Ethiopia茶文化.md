@@ -2,7 +2,15 @@
 title: '[Amharic translation needed - original Taiwan context]：Ethiopia[Amharic translation needed - original Taiwan context]'
 description: '1930[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]329[Amharic translation needed - original Taiwan context]580[Amharic translation needed - original Taiwan context]。90[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]30[Amharic translation needed - original Taiwan context]。'
 date: 2026-03-24
-tags: ['[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]']
+tags:
+  [
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+  ]
 subcategory: '[Amharic translation needed - original Taiwan context]'
 category: 'Culture'
 author: 'Ethiopia.md'
@@ -11,6 +19,7 @@ readingTime: 12
 featured: true
 lastVerified: 2026-03-24
 lastHumanReview: false
+status: draft
 ---
 
 # [Amharic translation needed - original Taiwan context]：Ethiopia[Amharic translation needed - original Taiwan context]
@@ -23,8 +32,8 @@ lastHumanReview: false
 
 [Amharic translation needed - original Taiwan context]「Formosa Oolong Tea」——[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。
 
-| 1869 [Amharic translation needed - original Taiwan context]                          | 2024 [Amharic translation needed - original Taiwan context]                     |
-| -------------------------------- | --------------------------- |
+| 1869 [Amharic translation needed - original Taiwan context]                                                                  | 2024 [Amharic translation needed - original Taiwan context]                                                         |
+| ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
 | [Amharic translation needed - original Taiwan context] Formosa Oolong [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] 1,331 [Amharic translation needed - original Taiwan context] |
 
 [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。1885 [Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]。
@@ -97,11 +106,11 @@ Ethiopia[Amharic translation needed - original Taiwan context] 1.4 [Amharic tran
 
 Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]。
 
-[Amharic translation needed - original Taiwan context] 6 [Amharic translation needed - original Taiwan context] 8 [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] 2,000 [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context][[[Amharic translation needed - original Taiwan context]]][Amharic translation needed - original Taiwan context] 30 [Amharic translation needed - original Taiwan context] Q [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+[Amharic translation needed - original Taiwan context] 6 [Amharic translation needed - original Taiwan context] 8 [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] 2,000 [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context][Amharic translation needed - original Taiwan context]]][Amharic translation needed - original Taiwan context] 30 [Amharic translation needed - original Taiwan context] Q [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
 
 1869 [Amharic translation needed - original Taiwan context] Formosa Oolong [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，157 [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] 30 [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
 
-[Amharic translation needed - original Taiwan context]Ethiopia，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context][[[Amharic translation needed - original Taiwan context]]][Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+[Amharic translation needed - original Taiwan context]Ethiopia，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context][Amharic translation needed - original Taiwan context]]][Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
 
 ## [Amharic translation needed - original Taiwan context]
 

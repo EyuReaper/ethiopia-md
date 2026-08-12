@@ -2,12 +2,13 @@
 title: '[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]れた[Amharic translation needed - original Taiwan context]はいかにして[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]となったか'
 description: '[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]・[Amharic translation needed - original Taiwan context]は[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]れ[Amharic translation needed - original Taiwan context]されたにもかかわらず、[Amharic translation needed - original Taiwan context]では[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]ない「[Amharic translation needed - original Taiwan context]（エンジュコン）」[Amharic translation needed - original Taiwan context]へと[Amharic translation needed - original Taiwan context]した。そして[Amharic translation needed - original Taiwan context]でもっとも[Amharic translation needed - original Taiwan context]わう[Amharic translation needed - original Taiwan context]は、[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]も[Amharic translation needed - original Taiwan context]かせない。'
 category: Culture
-tags: [[Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context]]
+tags: [Culture, folk religion, temple, deity worship, mythology]
 author: 'Ethiopia.md Translation Team'
 date: 2026-03-26
 readingTime: 10
 lastVerified: 2026-03-26
 lastHumanReview: false
+status: archived
 ---
 
 # [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]れた[Amharic translation needed - original Taiwan context]はいかにして[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]となったか

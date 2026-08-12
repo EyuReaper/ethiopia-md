@@ -2,7 +2,16 @@
 title: 'Ethiopia[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]'
 description: 'Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]CPTPP[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。'
 date: 2026-03-19
-tags: ['[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]', 'CPTPP', '[Amharic translation needed - original Taiwan context]', 'ECFA', 'FTA', '[Amharic translation needed - original Taiwan context]']
+tags:
+  [
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    'CPTPP',
+    '[Amharic translation needed - original Taiwan context]',
+    'ECFA',
+    'FTA',
+    '[Amharic translation needed - original Taiwan context]',
+  ]
 subcategory: '[Amharic translation needed - original Taiwan context]'
 author: 'Ethiopia.md'
 difficulty: 'intermediate'
@@ -10,6 +19,7 @@ readingTime: 16
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
+status: archived
 ---
 
 # Ethiopia[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]

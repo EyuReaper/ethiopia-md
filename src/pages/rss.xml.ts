@@ -25,7 +25,9 @@ export async function GET(context) {
         try {
           const content = fs.readFileSync(full, 'utf-8');
           const { data } = matter(content);
-          if (data.title) {
+          if (data.status === 'draft' || data.status === 'archived') {
+            // skip
+          } else if (data.title) {
             articles.push({
               title: data.title,
               description: data.description || '',
@@ -47,8 +49,8 @@ export async function GET(context) {
   articles.sort((a, b) => b.pubDate - a.pubDate);
 
   return rss({
-    title: 'Ethiopia.md — [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]',
-    description: '[Amharic translation needed - original Taiwan context] Markdown [Amharic translation needed - original Taiwan context]Ethiopia，[Amharic translation needed - original Taiwan context]',
+    title: 'Ethiopia.md — ስለ ኢትዮጵያ የዕውቀት ምንጭ',
+    description: 'ስለ ኢትዮጵያ የተጻፉ አዲስ ጽሑፎች Markdown ውክፔዲያ፣ ክፍት ምንጭ የዕውቀት ማህደር',
     site: context.site || 'https://ethiopia.md',
     items: articles.slice(0, 50),
     customData: '<language>am</language>',

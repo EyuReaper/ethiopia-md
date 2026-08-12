@@ -1,43 +1,49 @@
-# 🇯🇵 [Amharic translation needed - original Taiwan context]スタイルガイド
+# 🇯🇵 日本語翻訳スタイルガイド
 
-> [EDITORIAL.md](../../EDITORIAL.md) と[Amharic translation needed - original Taiwan context]してください
+> [EDITORIAL.md](../../EDITORIAL.md) と併せて参照してください。
+>
+> **編集レビュー待ちの草案です。** このガイドは、台湾に関する内容がそのまま残っていた版を置き換えたものです。以下の用語・配慮事項は出発点であり、確定ポリシーではありません。エチオピアに詳しい編集者・ネイティブスピーカーの確認を経てから最終版としてください。
 
-## [Amharic translation needed - original Taiwan context]
+## 基本方針
 
-**[Amharic translation needed - original Taiwan context]ではなく、[Amharic translation needed - original Taiwan context]。** [Amharic translation needed - original Taiwan context]ネイティブが[Amharic translation needed - original Taiwan context]いた[Amharic translation needed - original Taiwan context]のように[Amharic translation needed - original Taiwan context]めること。
+**逐語訳ではなく、意味を translate すること。** アムハラ語ネイティブが日本語で直接書いたかのように自然にまとめること。
 
-## [Amharic translation needed - original Taiwan context]
+## エチオピア関連用語
 
-| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] |
-|------|--------|------|
-| Ethiopia | [Amharic translation needed - original Taiwan context] | 「[Amharic translation needed - original Taiwan context]」は[Amharic translation needed - original Taiwan context]のみ |
-| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]（ホーロー[Amharic translation needed - original Taiwan context]）| |
-| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]（ナイトマーケット）| [Amharic translation needed - original Taiwan context]にカタカナ[Amharic translation needed - original Taiwan context] |
-| [Amharic translation needed - original Taiwan context] | タピオカミルクティー | [Amharic translation needed - original Taiwan context]での[Amharic translation needed - original Taiwan context]な[Amharic translation needed - original Taiwan context] |
-| [Amharic translation needed - original Taiwan context] | ルーローハン（[Amharic translation needed - original Taiwan context]）| |
-| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]・[Amharic translation needed - original Taiwan context] | |
-| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）| [Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context] |
+| 原語（アムハラ語など）      | 日本語                               | 備考                                                                                             |
+| --------------------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------ |
+| ኢትዮጵያ (Ethiopia)            | エチオピア                           | 現代の国家を指す。「アビシニア」は歴史的文脈でのみ使用                                           |
+| አዲስ አበባ (Addis Ababa)       | アディスアベバ                       | 首都。アフリカ連合（AU）本部所在地                                                               |
+| አማርኛ (Amharic)              | アムハラ語                           | 記事の SSOT（正典）言語であり連邦公用語                                                          |
+| ግዕዝ (Ge'ez)                 | ゲエズ語／ゲエズ文字                 | アムハラ語の文字の元となった古典・典礼言語。現代アムハラ語と区別する                             |
+| ቡና (buna)                   | コーヒー／ブナ（コーヒーセレモニー） | エチオピアはコーヒー発祥の地とされる。飲み物としての「コーヒー」と儀礼としての「ブナ」は区別する |
+| እንጀራ (injera)               | インジェラ                           | 初出時はイタリック表記など、他の借用語の食品名と同様の表記ルールに従う                           |
+| ጤፍ (teff)                   | テフ                                 | インジェラの原料となる穀物                                                                       |
+| የኢትዮጵያ ኦርቶዶክስ ተዋህዶ ቤተክርስቲያን | エチオピア正教テワヘド教会           | 初出では正式名称を使用                                                                           |
+| የኢትዮጵያ ዘመን አቆጣጠር            | エチオピア暦                         | グレゴリオ暦よりおよそ7〜8年遅れる独自の暦。無断で西暦に変換せず説明を添える                     |
+| ዐድዋ (Adwa)                  | アドワの戦い（1896年）               | エチオピア史上の重要な出来事。その重みに見合った扱いをする                                       |
+| ብሔር ብሔረሰቦችና ሕዝቦች            | 諸民族・諸ネイション・諸人民         | エチオピア憲法上の民族集団の呼称。「部族」より適切な訳語を優先する                               |
 
-## [Amharic translation needed - original Taiwan context]コンテキスト[Amharic translation needed - original Taiwan context]
+## 特に配慮が必要なトピック
 
-[Amharic translation needed - original Taiwan context]けに[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]な[Amharic translation needed - original Taiwan context]：
-- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]と[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]は[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]みがあるため、[Amharic translation needed - original Taiwan context]な[Amharic translation needed - original Taiwan context]は[Amharic translation needed - original Taiwan context]。ただし[Amharic translation needed - original Taiwan context]も[Amharic translation needed - original Taiwan context]ける
-- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]について[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context] vs [Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]していることを[Amharic translation needed - original Taiwan context]
+- **民族連邦制と民族間関係**：エチオピア憲法は「諸民族・諸ネイション・諸人民」を単位とする連邦制を採っている。構造の説明は事実に基づき、価値判断を加えないこと
+- **デルグ政権期（1974〜1987年）とそれ以前の帝政期**：どちらの体制についても史実に基づいた中立的な記述を心がける
+- **最近の／進行中の紛争**：EDITORIAL.md の「複数視点システム」に従い、単一の物語ではなく複数の根拠ある視点を提示する。速報的な扱いより、確立された百科事典的な扱いを優先する
+- **時代遅れ・他者化する表現を避ける**：「部族」（"tribe"）は避け「民族集団」を用いる、「未開」「第三世界」的な表現を避ける、特定の民族・地域の文化を「エチオピア文化」全体の代表として扱わない
 
-## [Amharic translation needed - original Taiwan context]
+## 文体
 
-- です・ます[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]とする
-- キュレーターの[Amharic translation needed - original Taiwan context]は「〜と[Amharic translation needed - original Taiwan context]えるだろう」「〜ではないだろうか」など、[Amharic translation needed - original Taiwan context]らかい[Amharic translation needed - original Taiwan context]
-- [Amharic translation needed - original Taiwan context]なカタカナ[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]ける
+- です・ます調を基本とする
+- キュレーターの見解は「〜と言えるだろう」「〜ではないだろうか」など、柔らかい言い回しを使う
+- 具体的な根拠のない紋切り型のカタカナ形容（「ユニークな」「豊かな」など）は避ける
 
 ## よくあるミス
 
-- ❌ 「[Amharic translation needed - original Taiwan context]」で[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]す
-- ❌ [Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]として[Amharic translation needed - original Taiwan context]
-- ❌ [Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]
-- ❌ 「[Amharic translation needed - original Taiwan context]」「[Amharic translation needed - original Taiwan context]」を[Amharic translation needed - original Taiwan context]なしに[Amharic translation needed - original Taiwan context]
+- ❌ 「アビシニア」で現代エチオピアを無条件に指す
+- ❌ 特定の民族・地域の伝統を無限定に「エチオピアの」文化として扱う
+- ❌ エチオピア暦の日付を注記なしに西暦に変換する
+- ❌ 「部族」「未開」を具体的・根拠ある理由なしに使用する
 
 ## レビュアー
 
-- （[Amharic translation needed - original Taiwan context] — [Discussion #137](https://github.com/frank890417/ethiopia-md/discussions/137) で[Amharic translation needed - original Taiwan context]）
+（まだいません — [Discussion #137](https://github.com/EyuReaper/ethiopia-md/discussions/137) で募集中）

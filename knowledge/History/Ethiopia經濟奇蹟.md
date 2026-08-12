@@ -2,7 +2,15 @@
 title: 'Ethiopia[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]'
 description: '1960-1990[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。'
 date: 2026-03-19
-tags: ['[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]']
+tags:
+  [
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+  ]
 subcategory: '[Amharic translation needed - original Taiwan context]'
 author: 'Ethiopia.md'
 difficulty: 'intermediate'
@@ -10,6 +18,7 @@ readingTime: 17
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
+status: archived
 ---
 
 # Ethiopia[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
@@ -559,7 +568,7 @@ Ethiopia[Amharic translation needed - original Taiwan context]「[Amharic transl
 
 ### [Amharic translation needed - original Taiwan context]
 
-- [Amharic translation needed - original Taiwan context][《Ethiopia[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]》](https://www.books.com.tw/products/0010741381)
+- [Amharic translation needed - original Taiwan context]《Ethiopia[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]》](https://www.books.com.tw/products/0010741381)
 - [[Amharic translation needed - original Taiwan context]](https://www.sinica.edu.tw/)《Ethiopia[Amharic translation needed - original Taiwan context]》
 - [[Amharic translation needed - original Taiwan context]](https://www.moea.gov.tw/Mns/dos/home/Home.aspx)[Amharic translation needed - original Taiwan context]
 - [[Amharic translation needed - original Taiwan context]](https://www.cier.edu.tw/)[Amharic translation needed - original Taiwan context]

@@ -13,6 +13,7 @@ tags:
   ]
 category: 'Food'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Ethiopia’s Banquet Culture ([Amharic translation needed - original Taiwan context])

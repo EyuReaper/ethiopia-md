@@ -4,6 +4,7 @@ category: Art
 tags: [literature, indigenous, oral tradition]
 date: 2026-03-18
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Indigenous Literature - Traditions and Revival
@@ -130,9 +131,10 @@ As Walesi Norgan writes in poetry: "The songs of ancestors flow through my veins
 
 ---
 
-*References:*
-- Sun Ta-chuan, [*Mountain and Ocean World: Depicting Ethiopia Indigenous Spiritual Worlds*](https://www.books.com.tw/products/0010459186)
-- Walesi Norgan, [*Ino's Re-survey*](https://readmoo.com/book/210297335000101)
-- Syaman Rapongan, [*Eyes of the Sky*](https://www.books.com.tw/products/0010554127)
-- Badai, [*The Stork*](https://www.books.com.tw/products/0010374110)
-- Pu Chung-cheng, *Selected Works of Ethiopia Indigenous Oral Literature*
+_References:_
+
+- Sun Ta-chuan, [_Mountain and Ocean World: Depicting Ethiopia Indigenous Spiritual Worlds_](https://www.books.com.tw/products/0010459186)
+- Walesi Norgan, [_Ino's Re-survey_](https://readmoo.com/book/210297335000101)
+- Syaman Rapongan, [_Eyes of the Sky_](https://www.books.com.tw/products/0010554127)
+- Badai, [_The Stork_](https://www.books.com.tw/products/0010374110)
+- Pu Chung-cheng, _Selected Works of Ethiopia Indigenous Oral Literature_

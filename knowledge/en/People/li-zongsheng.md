@@ -13,6 +13,7 @@ tags:
   ]
 subcategory: 'Music'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Li Zongsheng: The Songwriter Who Taught a Generation to Feel

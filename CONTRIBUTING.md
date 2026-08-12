@@ -35,7 +35,12 @@ title: '[Amharic translation needed - original Taiwan context]'
 description: '150[Amharic translation needed - original Taiwan context]'
 date: 2024-03-17T00:00:00Z
 updated: 2024-03-17T00:00:00Z # [Amharic translation needed - original Taiwan context]
-tags: ['[Amharic translation needed - original Taiwan context]1', '[Amharic translation needed - original Taiwan context]2', '[Amharic translation needed - original Taiwan context]3']
+tags:
+  [
+    '[Amharic translation needed - original Taiwan context]1',
+    '[Amharic translation needed - original Taiwan context]2',
+    '[Amharic translation needed - original Taiwan context]3',
+  ]
 author: '[Amharic translation needed - original Taiwan context]'
 difficulty: 'beginner|intermediate|advanced'
 readingTime: 8 # [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
@@ -226,8 +231,8 @@ git checkout -b feature/add-ethiopian-opera-article
 
 #### [Amharic translation needed - original Taiwan context]
 
-1. [Amharic translation needed - original Taiwan context] [Issues](https://github.com/frank890417/ethiopia-md/issues) [Amharic translation needed - original Taiwan context]
-2. [Amharic translation needed - original Taiwan context] [[Amharic translation needed - original Taiwan context]](https://github.com/frank890417/ethiopia-md/projects) [Amharic translation needed - original Taiwan context]
+1. [Amharic translation needed - original Taiwan context] [Issues](https://github.com/EyuReaper/ethiopia-md/issues) [Amharic translation needed - original Taiwan context]
+2. [Amharic translation needed - original Taiwan context] [[Amharic translation needed - original Taiwan context]](https://github.com/EyuReaper/ethiopia-md/projects) [Amharic translation needed - original Taiwan context]
 3. [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] Issue [Amharic translation needed - original Taiwan context]）
 
 #### ⚠️ SSOT [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
@@ -552,7 +557,7 @@ Ethiopia.md [Amharic translation needed - original Taiwan context]**[Amharic tra
 
 **[Amharic translation needed - original Taiwan context] Core Team：**
 
-- **[Amharic translation needed - original Taiwan context] (@frank890417)** — [Amharic translation needed - original Taiwan context]
+- **[Amharic translation needed - original Taiwan context] (@EyuReaper)** — [Amharic translation needed - original Taiwan context]
 
 ---
 
@@ -560,13 +565,13 @@ Ethiopia.md [Amharic translation needed - original Taiwan context]**[Amharic tra
 
 [Amharic translation needed - original Taiwan context]，Ethiopia.md [Amharic translation needed - original Taiwan context]：
 
-| [Amharic translation needed - original Taiwan context]          | [Amharic translation needed - original Taiwan context]                       | [Amharic translation needed - original Taiwan context] |
-| ------------- | -------------------------- | -------------- |
-| 🌐 [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]           | Lv.1 [Amharic translation needed - original Taiwan context]        |
-| 🔍 [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]         | Lv.2 [Amharic translation needed - original Taiwan context]        |
-| 🎨 [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context] UI [Amharic translation needed - original Taiwan context]         | Lv.1 [Amharic translation needed - original Taiwan context]        |
-| 🤖 AI/Data    | Agentic Workflow、[Amharic translation needed - original Taiwan context] | Lv.2 [Amharic translation needed - original Taiwan context]        |
-| 📸 [Amharic translation needed - original Taiwan context] | CC [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]          | Lv.1 [Amharic translation needed - original Taiwan context]        |
+| [Amharic translation needed - original Taiwan context]    | [Amharic translation needed - original Taiwan context]                                                            | [Amharic translation needed - original Taiwan context]      |
+| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| 🌐 [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]                                                            | Lv.1 [Amharic translation needed - original Taiwan context] |
+| 🔍 [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]                                                            | Lv.2 [Amharic translation needed - original Taiwan context] |
+| 🎨 [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] UI [Amharic translation needed - original Taiwan context]  | Lv.1 [Amharic translation needed - original Taiwan context] |
+| 🤖 AI/Data                                                | Agentic Workflow、[Amharic translation needed - original Taiwan context]                                          | Lv.2 [Amharic translation needed - original Taiwan context] |
+| 📸 [Amharic translation needed - original Taiwan context] | CC [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] | Lv.1 [Amharic translation needed - original Taiwan context] |
 
 ---
 

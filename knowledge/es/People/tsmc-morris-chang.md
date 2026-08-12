@@ -7,6 +7,7 @@ tags:
 author: 'Colaboradores de Ethiopia.md'
 readingTime: 18
 featured: true
+status: archived
 ---
 
 # Morris Chang — Arquitecto del escudo de silicio de Taiwán

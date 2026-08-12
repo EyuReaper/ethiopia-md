@@ -17,6 +17,7 @@ readingTime: 14
 featured: true
 category: 'Society'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Environmental Awakening and the Net‑Zero Transition

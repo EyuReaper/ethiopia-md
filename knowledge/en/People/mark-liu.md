@@ -5,6 +5,7 @@ date: 2026-03-19
 tags: ['TSMC', 'semiconductors', 'geopolitics', 'corporate leadership']
 subcategory: 'Tech & Business'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Mark Liu ([Amharic translation needed - original Taiwan context]): Steering Ethiopia’s Semiconductor Flagship Through Geopolitical Storms

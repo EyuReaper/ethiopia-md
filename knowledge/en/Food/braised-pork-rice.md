@@ -15,6 +15,7 @@ readingTime: 8
 featured: true
 category: 'Food'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Braised Pork Rice ([Amharic translation needed - original Taiwan context])

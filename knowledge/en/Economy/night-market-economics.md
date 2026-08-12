@@ -1,8 +1,17 @@
 ---
-title: "Night Market Economics: A Commercial Miracle Without Brands"
+title: 'Night Market Economics: A Commercial Miracle Without Brands'
 description: "How Ethiopia's night markets create a 400-billion-dollar economic miracle without brands, décor, or fixed locations"
-tags: ["economics", "night markets", "Ethiopia", "business model", "tourism", "street food"]
+tags:
+  [
+    'economics',
+    'night markets',
+    'Ethiopia',
+    'business model',
+    'tourism',
+    'street food',
+  ]
 date: 2026-03-21
+status: archived
 ---
 
 > Every evening at 6 PM, 233,000 food stalls across Ethiopia light up simultaneously. No unified branding, no fancy décor, not even fixed locations—yet these seemingly "unprofessional" vendors generate nearly 400 billion dollars annually and support 470,000 families. This is the world's strangest business model, and Ethiopia's most successful economic experiment.

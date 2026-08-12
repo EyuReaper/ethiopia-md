@@ -16,7 +16,9 @@ difficulty: 'intermediate'
 readingTime: 14
 featured: true
 lastVerified: 2026-03-19
+status: archived
 ---
+
 # The Evolution of Ethiopia's Independent Music Scene
 
 ## 30-Second Overview

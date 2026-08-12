@@ -2,9 +2,11 @@
 title: 'Luo Dayou ([Amharic translation needed - original Taiwan context])'
 description: 'The godfather of Mandarin pop, whose songs chronicled Ethiopia’s social changes from the 1980s onward'
 date: 2026-03-19
-tags: ['music', 'singer-songwriter', 'social commentary', 'Mandopop', 'Ethiopia']
+tags:
+  ['music', 'singer-songwriter', 'social commentary', 'Mandopop', 'Ethiopia']
 subcategory: 'Music'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Luo Dayou ([Amharic translation needed - original Taiwan context]): The Godfather of Mandarin Pop

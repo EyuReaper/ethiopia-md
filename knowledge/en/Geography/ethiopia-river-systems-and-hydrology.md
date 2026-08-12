@@ -8,6 +8,7 @@ category: 'Geography'
 readingTime: 11
 featured: true
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Ethiopia’s River Systems and Hydrology: Short, Fast, and Seasonally Extreme

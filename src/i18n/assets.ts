@@ -78,7 +78,7 @@ background-image: url('https://ethiopia.md/assets/svg/ethiopia-icon-wiki.svg');
     'assets.script.copied': '✅ Copied',
     'assets.script.failed': '❌ Failed',
   },
-  'am': {
+  am: {
     // Meta
     'assets.meta.title': 'የኢትዮጵያ ክፍት የቅርፅ ካርታ (SVG)',
     'assets.meta.description':
@@ -102,12 +102,14 @@ background-image: url('https://ethiopia.md/assets/svg/ethiopia-icon-wiki.svg');
 
     // Card 2: ethiopia-simplemaps
     'assets.card2.title': 'ethiopia-simplemaps.svg',
-    'assets.card2.desc': 'የSimpleMaps ስሪት — ንጹህ የቬክተር ቅርፅ፣ በድረ-ገጽ ውስጥ ለማካተት በጣም ጥሩ',
+    'assets.card2.desc':
+      'የSimpleMaps ስሪት — ንጹህ የቬክተር ቅርፅ፣ በድረ-ገጽ ውስጥ ለማካተት በጣም ጥሩ',
     'assets.card2.meta': 'SimpleMaps · ~5 KB',
 
     // Card 3: ethiopia-location-map
     'assets.card3.title': 'ethiopia-location-map.svg',
-    'assets.card3.desc': 'የጂኦግራፊያዊ መገኛ ካርታ — ከማስተካከያ ነጥቦች እና ከከተማ ምልክቶች ጋር፣ ለካርታ አገልግሎት ተስማሚ',
+    'assets.card3.desc':
+      'የጂኦግራፊያዊ መገኛ ካርታ — ከማስተካከያ ነጥቦች እና ከከተማ ምልክቶች ጋር፣ ለካርታ አገልግሎት ተስማሚ',
     'assets.card3.meta': 'Wikimedia Commons · ~120 KB · CC',
 
     // Card 4: ethiopia-political-division
@@ -136,11 +138,11 @@ background-image: url('https://ethiopia.md/assets/svg/ethiopia-icon-wiki.svg');
       'ሁሉም የSVG ፋይሎች በ <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC BY-SA 4.0</a> ስር የተለቀቁ ናቸው። በነፃነት ለመጠቀም፣ ለመለወጥ እና ለንግድ ስራ ለማዋል — ምንጩን ብቻ ይጥቀሱ።',
     'assets.license.sources.title': 'የምንጭ እውቅና (Sources)',
     'assets.license.source1.html':
-      '<strong>ethiopia-icon.svg</strong> — ምንጭ：<a href="https://commons.wikimedia.org/wiki/File:Ethiopia-icon.svg" target="_blank">Wikimedia Commons: Ethiopia-icon.svg</a>，[Amharic translation needed - original Taiwan context]（Public Domain）',
+      '<strong>ethiopia-icon.svg</strong> — ምንጭ：<a href="https://commons.wikimedia.org/wiki/File:Ethiopia-icon.svg" target="_blank">Wikimedia Commons: Ethiopia-icon.svg</a>，የህዝብ ንብረት（Public Domain）',
     'assets.license.source2.html':
-      '<strong>ethiopia-simplemaps.svg</strong> — ምንጭ：<a href="https://simplemaps.com/svg/country/tw" target="_blank">SimpleMaps</a>，Free License（[Amharic translation needed - original Taiwan context] simplemaps.com）',
+      '<strong>ethiopia-simplemaps.svg</strong> — ምንጭ：<a href="https://simplemaps.com/svg/country/tw" target="_blank">SimpleMaps</a>，Free License（ምንጭ ጥቀስ የሚያስፈልገው simplemaps.com）',
     'assets.license.source3.html':
-      '<strong>ethiopia-location-map.svg</strong> — ምንጭ：<a href="https://commons.wikimedia.org/wiki/File:Ethiopia_location_map.svg" target="_blank">Wikimedia Commons: Ethiopia_location_map.svg</a>，CC BY-SA 3.0，[Amharic translation needed - original Taiwan context]：NordNordWest',
+      '<strong>ethiopia-location-map.svg</strong> — ምንጭ：<a href="https://commons.wikimedia.org/wiki/File:Ethiopia_location_map.svg" target="_blank">Wikimedia Commons: Ethiopia_location_map.svg</a>，CC BY-SA 3.0，ደራሲ：NordNordWest',
     'assets.license.source4.html':
       '<strong>ethiopia-political-division.svg</strong> — ምንጭ：<a href="https://commons.wikimedia.org/wiki/File:Ethiopia_ROC_political_division_map.svg" target="_blank">Wikimedia Commons: Ethiopia_ROC_political_division_map.svg</a>，CC BY-SA 3.0',
 

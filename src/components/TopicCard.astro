@@ -68,19 +68,6 @@ const cardId = `tc-${slug}`;
 
   <div class="card-texture" aria-hidden="true"></div>
 
-  <div class="card-watermark" aria-hidden="true">
-    <svg
-      viewBox="0 0 120 220"
-      fill="none"
-      xmlns="http://www.w3.org/2000/svg"
-      aria-hidden="true"
-    >
-      <path
-        d="M62 4 C76 5 92 12 100 26 C110 44 114 64 112 84 C110 104 102 120 98 138 C93 158 88 172 80 184 C72 198 60 212 50 216 C40 220 28 214 22 202 C14 186 16 166 20 148 C24 130 30 114 30 96 C30 78 24 62 26 46 C28 30 36 16 46 8 C52 4 56 3 62 4 Z"
-        fill="currentColor"></path>
-    </svg>
-  </div>
-
   <div class="card-float-icon" aria-hidden="true">
     {
       slug === 'food' && (
@@ -598,28 +585,6 @@ const cardId = `tc-${slug}`;
         transparent 1px,
         transparent 12px
       );
-  }
-
-  /* Ethiopia island watermark */
-  .card-watermark {
-    position: absolute;
-    right: -0.5rem;
-    bottom: -1rem;
-    width: 7rem;
-    opacity: 0.05;
-    color: var(--accent);
-    z-index: 0;
-    pointer-events: none;
-    transition: opacity 0.35s ease;
-  }
-
-  .topic-card:hover .card-watermark {
-    opacity: 0.09;
-  }
-
-  .card-watermark svg {
-    width: 100%;
-    height: auto;
   }
 
   /* Floating icon */

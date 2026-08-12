@@ -15,11 +15,11 @@
     "open-source",
     "rag"
   ],
-  "author": "CheYu Wu <cheyu.wu@monoame.com>",
+  "author": "EyuReaper",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/frank890417/ethiopia-md.git"
+    "url": "git+https://github.com/EyuReaper/ethiopia-md.git"
   },
   "homepage": "https://ethiopia.md",
   "engines": {

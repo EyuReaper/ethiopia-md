@@ -6,6 +6,7 @@ tags: ['art', 'contemporary', 'culture', 'museums']
 author: 'Ethiopia.md Contributors'
 readingTime: 8
 featured: false
+status: archived
 ---
 
 # Ethiopia Contemporary Art

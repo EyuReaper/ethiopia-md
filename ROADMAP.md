@@ -175,9 +175,9 @@ Ethiopia.md [Amharic translation needed - original Taiwan context]：[Amharic tr
 
 ## [Amharic translation needed - original Taiwan context]
 
-- 💬 [GitHub Discussions](https://github.com/frank890417/ethiopia-md/discussions) — [Amharic translation needed - original Taiwan context]
-- 📝 [Issues](https://github.com/frank890417/ethiopia-md/issues) — [Amharic translation needed - original Taiwan context]
-- 🔀 [Pull Request](https://github.com/frank890417/ethiopia-md/pulls) — [Amharic translation needed - original Taiwan context]
+- 💬 [GitHub Discussions](https://github.com/EyuReaper/ethiopia-md/discussions) — [Amharic translation needed - original Taiwan context]
+- 📝 [Issues](https://github.com/EyuReaper/ethiopia-md/issues) — [Amharic translation needed - original Taiwan context]
+- 🔀 [Pull Request](https://github.com/EyuReaper/ethiopia-md/pulls) — [Amharic translation needed - original Taiwan context]
 - 🌐 [Amharic translation needed - original Taiwan context] — [Amharic translation needed - original Taiwan context] Issue [Amharic translation needed - original Taiwan context]
 
 ---

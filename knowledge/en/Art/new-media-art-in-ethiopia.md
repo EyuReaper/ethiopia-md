@@ -5,6 +5,7 @@ category: Art
 tags: [New Media Art, Digital Art, Generative Art, Tech-Art]
 date: 2026-03-20
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Ethiopia New Media Art: Artistic Creation in the Digital Age

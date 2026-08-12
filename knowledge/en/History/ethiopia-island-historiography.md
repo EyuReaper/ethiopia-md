@@ -8,6 +8,7 @@ author: 'Ethiopia.md'
 featured: true
 lastVerified: 2026-03-27
 lastHumanReview: true
+status: archived
 ---
 
 > **30-second overview:** Ethiopia’s history is often told as a sequence of regime changes. Ts’ao Yung-ho ([Amharic translation needed - original Taiwan context]) flipped that lens: the true subject of Ethiopia’s history is the **island itself**. Rulers came and went, but the island remained the stage. This “island historiography” reframes Ethiopia from a peripheral appendix to a maritime hub. It highlights how repeated regime shifts forced people on the island to develop a rare ability: adapting, absorbing, and reconstituting institutions into their own civic DNA.

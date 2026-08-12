@@ -1,6 +1,6 @@
 ---
 created: 2026-03-22
-tags: [History, [Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context]]
+tags: [History, colonial era, Japan, occupation]
 title: [Amharic translation needed - original Taiwan context]
 description: 1895[Amharic translation needed - original Taiwan context]から1945[Amharic translation needed - original Taiwan context]の50[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]ぶ[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]な[Amharic translation needed - original Taiwan context]と[Amharic translation needed - original Taiwan context]された[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]する[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]し、[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]い[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]えた
 date: 2026-03-22
@@ -9,6 +9,7 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-22
 lastHumanReview: false
+status: archived
 ---
 
 # [Amharic translation needed - original Taiwan context]

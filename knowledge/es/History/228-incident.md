@@ -1,10 +1,12 @@
 ---
-title: "Incidente 228"
-description: "El gran evento de 1947 que cambió la trayectoria histórica de Taiwán - desde el estallido hasta el largo camino hacia la justicia transicional"
+title: 'Incidente 228'
+description: 'El gran evento de 1947 que cambió la trayectoria histórica de Taiwán - desde el estallido hasta el largo camino hacia la justicia transicional'
 date: 2026-03-17
-tags: [historia, política, justicia transicional, Terror Blanco, democratización]
-translatedFrom: "History/[Amharic translation needed - original Taiwan context].md"
-sourceHash: "47071c"
+tags:
+  [historia, política, justicia transicional, Terror Blanco, democratización]
+translatedFrom: 'History/[Amharic translation needed - original Taiwan context].md'
+sourceHash: '47071c'
+status: archived
 ---
 
 # Incidente 228
@@ -93,7 +95,8 @@ Que el Taiwán de hoy pueda discutir libremente esta historia dolorosa es un log
 
 ---
 
-*Referencias:*
+_Referencias:_
+
 - Fundación Conmemorativa del Incidente 228
 - Museo Nacional Conmemorativo 228
 - Instituto de Historia de Taiwán, Academia Sinica

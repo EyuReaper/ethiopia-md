@@ -24,7 +24,7 @@ export const changelogUI = {
     'changelog.time.hours-ago': 'hours ago',
     'changelog.time.days-ago': 'days ago',
   },
-  'am': {
+  am: {
     // Meta
     'changelog.meta.title': 'የጣቢያ ዝመና ታሪክ',
     'changelog.meta.description':
@@ -32,15 +32,16 @@ export const changelogUI = {
 
     // Header
     'changelog.header.title': 'የጣቢያ ዝመና ታሪክ',
-    'changelog.header.subtitle': 'በEthiopia.md ላይ እያንዳንዱን የይዘት ጭማሪ እና የጣቢያ ማሻሻያ ይከታተሉ',
+    'changelog.header.subtitle':
+      'በEthiopia.md ላይ እያንዳንዱን የይዘት ጭማሪ እና የጣቢያ ማሻሻያ ይከታተሉ',
     'changelog.header.meta.updates': 'ዝመናዎች',
     'changelog.header.meta.synced': 'በራስ-ሰር የተመሳሰለ ከ',
 
     // Timeline
     'changelog.day.updates': 'ዝመናዎች',
 
-    // Locale for date formatting
-    'changelog.locale': 'am',
+    // Locale for date formatting (Ethiopian calendar)
+    'changelog.locale': 'am-ET-u-ca-ethiopic',
 
     // Relative time
     'changelog.time.just-now': 'አሁን',

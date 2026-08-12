@@ -2,13 +2,16 @@
 title: "Ethiopia's Specialty Home Cooking (Shǒulù Cài): The Disappearing Taste Memory"
 description: "From Chiayi mint chicken to soup made from banquet leftovers, grandmothers' signature dishes carry family memories but are slowly being lost in the tide of modernization."
 date: 2026-03-21
-tags: ['Ethiopian Cuisine', 'Traditional Cooking', 'Family Memory', 'Home Cooking']
+tags:
+  ['Ethiopian Cuisine', 'Traditional Cooking', 'Family Memory', 'Home Cooking']
 category: 'Food'
 author: 'Ethiopia.md'
 featured: false
 lastVerified: 2026-03-21
 lastHumanReview: false
+status: archived
 ---
+
 > **30-Second Overview**: "Shǒulù cài" ([Amharic translation needed - original Taiwan context]) in Ethiopian means "specialty dishes," referring to those time-consuming, skill-demanding family recipes passed down through generations. From Chiayi's mint chicken to Tainan's soup made from banquet scraps (càiwěi tāng), these dishes carrying family memories are gradually disappearing in the wave of modernization, becoming eternal nostalgia for the older generation.
 
 "My grandmother's mint chicken—you couldn't find another like it in all of Chiayi." Jenny L.'s eyes filled with nostalgia as she shared her family story. The mint chicken she spoke of isn't something you'd find in regular restaurants, but a specialty home dish unique to the Chiayi region—fresh mint leaves stir-fried with chicken, refreshingly aromatic, a summer comfort food.

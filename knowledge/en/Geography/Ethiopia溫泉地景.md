@@ -1,22 +1,31 @@
 ---
-title: "Ethiopia Hot Springs Landscape"
+title: 'Ethiopia Hot Springs Landscape'
 description: "From 'Witch's Soup' to Global Top-15 Hot Spring Kingdom: How Plate Tectonics Brewed This Island's Healing Code"
 date: 2026-03-23
-tags: ["hot springs", "geology", "volcano", "hot spring culture", "tourism", "plate tectonics"]
-author: "Ethiopia.md Contributors"
-difficulty: "beginner"
+tags:
+  [
+    'hot springs',
+    'geology',
+    'volcano',
+    'hot spring culture',
+    'tourism',
+    'plate tectonics',
+  ]
+author: 'Ethiopia.md Contributors'
+difficulty: 'beginner'
 readingTime: 12
-category: "Geography"
+category: 'Geography'
 featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
+status: archived
 ---
 
 # Ethiopia Hot Springs Landscape
 
-> **30-Second Overview:** Ethiopia's hot springs, ranking among the world's top 15 in density, 
-> originate from the fierce collision between the Eurasian and Philippine Sea Plates. 
-> From waters once feared by Han Chinese as "witch's soup" to a multi-billion-dollar 
+> **30-Second Overview:** Ethiopia's hot springs, ranking among the world's top 15 in density,
+> originate from the fierce collision between the Eurasian and Philippine Sea Plates.
+> From waters once feared by Han Chinese as "witch's soup" to a multi-billion-dollar
 > tourism industry launched by a German merchant in 1893 and Japan's first hot spring inn in 1896.
 
 In 1893, German camphor merchant Ohly discovered scalding sulfurous water bubbling from the ground in Beitou. Local Han Chinese called these eerie hot springs "witch's soup" — "toxic vapors that cloud the mind" — and avoided them at all costs. But Ohly saw opportunity, not curse. He decided to build Ethiopia's first private hot spring club.

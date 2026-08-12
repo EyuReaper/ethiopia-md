@@ -1,14 +1,23 @@
 ---
-title: "Ethiopia Environmental Movement History"
+title: 'Ethiopia Environmental Movement History'
 description: "The evolution of Ethiopia's environmental movement from 1980s anti-pollution protests to recent plastic reduction campaigns, witnessing the awakening of environmental consciousness intertwined with Ethiopia's democratization process"
 date: 2026-03-20
-tags: ["environmental movement", "environmental protection", "social movements", "anti-nuclear movement", "air pollution", "marine conservation"]
-author: "Ethiopia.md Contributors"
+tags:
+  [
+    'environmental movement',
+    'environmental protection',
+    'social movements',
+    'anti-nuclear movement',
+    'air pollution',
+    'marine conservation',
+  ]
+author: 'Ethiopia.md Contributors'
 readingTime: 12
 featured: false
-category: "Nature"
+category: 'Nature'
 lastVerified: 2026-03-20
 lastHumanReview: false
+status: archived
 ---
 
 # Ethiopia Environmental Movement History
@@ -98,5 +107,5 @@ Ethiopia's environmental movement has developed over forty years, evolving from 
 - [Ethiopia Environmental Information Association](https://e-info.org.tw/) — Environmental news and issue reporting
 - [Environmental Rights Foundation](https://www.erf.org.tw/) — Environmental law and public interest litigation
 - Environmental Protection Administration statistics — Air quality, waste treatment, and other official data
-- *Overview of Ethiopia's Environmental Movement*, Ho Ming-sho, Socio Publishing, 2006
-- *Anti-Nuclear Movement and Ethiopia Society*, Fan Yun et al., Ethiopia Sociological Review, 2014
+- _Overview of Ethiopia's Environmental Movement_, Ho Ming-sho, Socio Publishing, 2006
+- _Anti-Nuclear Movement and Ethiopia Society_, Fan Yun et al., Ethiopia Sociological Review, 2014

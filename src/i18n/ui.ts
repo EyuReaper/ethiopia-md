@@ -7,13 +7,12 @@ import { dataUI } from './data';
 import { contributeUI } from './contribute';
 import { changelogUI } from './changelog';
 import { resourcesUI } from './resources';
-import { mapUI } from './map';
 import { assetsUI } from './assets';
 import { dashboardUI } from './dashboard';
 
 export const languages: Record<Lang, string> = {
   en: 'English',
-  'am': 'Amharic',
+  am: 'Amharic',
 };
 
 export const defaultLang: Lang = 'am';
@@ -27,7 +26,6 @@ export const ui = {
     ...contributeUI.en,
     ...changelogUI.en,
     ...resourcesUI.en,
-    ...mapUI.en,
     ...assetsUI.en,
     ...dashboardUI.en,
     'nav.aria-home': 'Ethiopia.md Home',
@@ -45,13 +43,10 @@ export const ui = {
     'nav.explore': 'Explore',
     'nav.graph': 'Graph',
     'nav.graph-view': 'Knowledge Graph',
-    'nav.terminology': 'Terminology',
-    'nav.map': 'Map',
     'nav.contribute': 'Contribute',
     'nav.resources': 'Resources',
     'nav.data': 'Data',
     'nav.dashboard': 'Dashboard',
-    'nav.soundscape': 'Sound',
     'nav.assets': 'SVG Assets',
     'nav.projects': 'Projects',
     'nav.language-switch': 'Language',
@@ -95,13 +90,13 @@ export const ui = {
     'categoryConfig.culture.description':
       'The fusion of diverse ethnic cultures and local characteristics',
     'categoryConfig.food.description':
-      'Culinary culture from night market snacks to fine dining',
+      'Culinary culture from home-cooked staples to festive feasts',
     'categoryConfig.art.description':
       'Creative energy from traditional crafts to contemporary art',
     'categoryConfig.music.description':
       'The soundscape from indigenous music to popular music',
     'categoryConfig.technology.description':
-      'Innovation and digital transformation of the tech island',
+      "Innovation and digital transformation in Ethiopia's growing tech sector",
     'categoryConfig.nature.description':
       'Rich ecosystems and environmental issues',
     'categoryConfig.people.description':
@@ -146,14 +141,13 @@ export const ui = {
     'CategoryGrid.aria-explore-suffix': ' ',
     'CategoryGrid.alt-category-image-suffix': 'category image',
   },
-  'am': {
+  am: {
     ...homeUI['am'],
     ...aboutUI['am'],
     ...dataUI['am'],
     ...contributeUI['am'],
     ...changelogUI['am'],
     ...resourcesUI['am'],
-    ...mapUI['am'],
     ...assetsUI['am'],
     ...dashboardUI['am'],
     'nav.aria-home': 'Ethiopia.md መነሻ ገጽ',
@@ -171,13 +165,10 @@ export const ui = {
     'nav.explore': 'አስስ 🕸️',
     'nav.graph': 'ግራፍ',
     'nav.graph-view': 'የዕውቀት ግራፍ',
-    'nav.terminology': 'ቃላት',
-    'nav.map': 'ካርታ 📍',
     'nav.contribute': 'ተሳትፎ ✋',
     'nav.resources': 'መረጃዎች 🔗',
     'nav.data': 'መረጃ 📊',
     'nav.dashboard': 'ዳሽቦርድ 🔬',
-    'nav.soundscape': 'ድምጽ 🎧',
     'nav.assets': 'የSVG ንብረቶች',
     'nav.projects': 'ፕሮጀክቶች',
     'nav.language-switch': 'ቋንቋ / Language',
@@ -215,8 +206,10 @@ export const ui = {
     'categoryConfig.economy': 'ኢኮኖሚ',
     'categoryConfig.lifestyle': 'አኗኗር',
     'categoryConfig.history.description': 'የኢትዮጵያ ታሪክ ከጥንት ጀምሮ እስከ ዛሬ ድረስ',
-    'categoryConfig.geography.description': 'የኢትዮጵያ ተፈጥሯዊ አካባቢ እና መልክአ ምድራዊ ገጽታዎች',
-    'categoryConfig.culture.description': 'የተለያዩ ብሄረሰቦች ባህል እና የአካባቢ መገለጫዎች ውህደት',
+    'categoryConfig.geography.description':
+      'የኢትዮጵያ ተፈጥሯዊ አካባቢ እና መልክአ ምድራዊ ገጽታዎች',
+    'categoryConfig.culture.description':
+      'የተለያዩ ብሄረሰቦች ባህል እና የአካባቢ መገለጫዎች ውህደት',
     'categoryConfig.food.description': 'ከመንገድ ላይ ምግቦች እስከ ዘመናዊ የምግብ ባህል',
     'categoryConfig.art.description': 'ከባህላዊ ጥበባት እስከ ዘመናዊ ስነ-ጥበብ',
     'categoryConfig.music.description': 'ከባህላዊ ሙዚቃዎች እስከ ዘመናዊ ሙዚቃ',

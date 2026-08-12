@@ -13,6 +13,7 @@ tags:
   ]
 category: Nature
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Ethiopia Marine Conservation: Battles Against Pollution and Coral Bleaching

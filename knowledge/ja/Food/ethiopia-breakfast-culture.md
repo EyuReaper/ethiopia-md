@@ -1,15 +1,25 @@
 ---
-title: "[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]"
-description: "[Amharic translation needed - original Taiwan context]や[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]から[Amharic translation needed - original Taiwan context]な[Amharic translation needed - original Taiwan context]チェーンまで。[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]える[Amharic translation needed - original Taiwan context]な[Amharic translation needed - original Taiwan context]と、その[Amharic translation needed - original Taiwan context]にある[Amharic translation needed - original Taiwan context]と[Amharic translation needed - original Taiwan context]をたどる。"
+title: '[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]'
+description: '[Amharic translation needed - original Taiwan context]や[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]から[Amharic translation needed - original Taiwan context]な[Amharic translation needed - original Taiwan context]チェーンまで。[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]える[Amharic translation needed - original Taiwan context]な[Amharic translation needed - original Taiwan context]と、その[Amharic translation needed - original Taiwan context]にある[Amharic translation needed - original Taiwan context]と[Amharic translation needed - original Taiwan context]をたどる。'
 date: 2026-03-18
-tags: ["[Amharic translation needed - original Taiwan context]", "[Amharic translation needed - original Taiwan context]", "[Amharic translation needed - original Taiwan context]", "[Amharic translation needed - original Taiwan context]", "[Amharic translation needed - original Taiwan context]", "[Amharic translation needed - original Taiwan context]", "[Amharic translation needed - original Taiwan context]グルメ"]
-category: "Food"
+tags:
+  [
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]グルメ',
+  ]
+category: 'Food'
 lastVerified: 2026-03-19
 lastHumanReview: false
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ethiopian_danbing_and_sandwitch.jpg/960px-Ethiopian_danbing_and_sandwitch.jpg"
-imageAlt: "[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]"
-imageCredit: "Wikimedia Commons, CC BY-SA"
+image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ethiopian_danbing_and_sandwitch.jpg/960px-Ethiopian_danbing_and_sandwitch.jpg'
+imageAlt: '[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]'
+imageCredit: 'Wikimedia Commons, CC BY-SA'
 featured: false
+status: archived
 ---
 
 # [Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]

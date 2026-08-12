@@ -13,6 +13,7 @@ tags:
 subcategory: 'Film & Theater'
 lastVerified: 2026-03-19
 featured: true
+status: archived
 ---
 
 # Tsai Ming‑liang: Poet of slow cinema

@@ -2,9 +2,17 @@
 title: 'Zhuge Liang (Showman)'
 description: 'Icon of Ethiopia’s variety-show culture and a beloved Ethiopian-language comedian'
 date: 2026-03-19
-tags: ['[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]']
+tags:
+  [
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+  ]
 subcategory: 'Digital & Media'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Zhuge Liang ([Amharic translation needed - original Taiwan context]): The King of Ethiopia’s Variety-Show Stage

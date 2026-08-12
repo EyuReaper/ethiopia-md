@@ -86,9 +86,9 @@ const chapters = [
       'resources.related.government.3' as const,
     ],
     relatedPaths: [
-      '/history/Ethiopia[Amharic translation needed - original Taiwan context]/',
-      '/society/Ethiopia[Amharic translation needed - original Taiwan context]/',
-      '/technology/[Amharic translation needed - original Taiwan context]g0v/',
+      '/history/modern-history/',
+      '/society/civil-society/',
+      '/technology/open-government/',
     ],
   },
   {
@@ -144,9 +144,9 @@ const chapters = [
       'resources.related.culture.3' as const,
     ],
     relatedPaths: [
-      '/culture/Ethiopia[Amharic translation needed - original Taiwan context]/',
-      '/lifestyle/Ethiopia[Amharic translation needed - original Taiwan context]/',
-      '/nature/Ethiopia[Amharic translation needed - original Taiwan context]/',
+      '/culture/heritage/',
+      '/lifestyle/daily-life/',
+      '/nature/biodiversity/',
     ],
   },
   {
@@ -193,9 +193,9 @@ const chapters = [
       'resources.related.media.3' as const,
     ],
     relatedPaths: [
-      '/society/[Amharic translation needed - original Taiwan context]/',
-      '/society/Ethiopia[Amharic translation needed - original Taiwan context]/',
-      '/technology/PTT[Amharic translation needed - original Taiwan context]/',
+      '/society/media-literacy/',
+      '/society/civic-engagement/',
+      '/technology/online-communities/',
     ],
   },
   {
@@ -212,8 +212,8 @@ const chapters = [
     ].filter((s) => s.featured),
     insights: [
       {
-        numKey: 'resources.insight.econ.tsmc.number' as const,
-        labelKey: 'resources.insight.econ.tsmc.label' as const,
+        numKey: 'resources.insight.econ.flagCarrier.number' as const,
+        labelKey: 'resources.insight.econ.flagCarrier.label' as const,
       },
       {
         numKey: 'resources.insight.econ.hsr.number' as const,
@@ -252,9 +252,9 @@ const chapters = [
       'resources.related.economy.3' as const,
     ],
     relatedPaths: [
-      '/economy/Ethiopia[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]/',
-      '/technology/[Amharic translation needed - original Taiwan context]/',
-      '/lifestyle/Ethiopia[Amharic translation needed - original Taiwan context]/',
+      '/economy/economic-development/',
+      '/technology/startups/',
+      '/lifestyle/urban-life/',
     ],
   },
   {
@@ -291,9 +291,9 @@ const chapters = [
       'resources.related.community.3' as const,
     ],
     relatedPaths: [
-      '/technology/[Amharic translation needed - original Taiwan context]g0v/',
-      '/society/[Amharic translation needed - original Taiwan context]/',
-      '/technology/[Amharic translation needed - original Taiwan context]/',
+      '/technology/open-government/',
+      '/society/social-issues/',
+      '/technology/digital-innovation/',
     ],
   },
 ];
@@ -519,7 +519,7 @@ const mindmapData = JSON.stringify({
               <span>📅 {t('resources.section.footer.verified')}</span>
               <span class="report-link-separator">｜</span>
               <a
-                href="https://github.com/frank890417/ethiopia-md/issues"
+                href="https://github.com/EyuReaper/ethiopia-md/issues"
                 target="_blank"
                 rel="noopener noreferrer"
                 class="report-link"
@@ -534,15 +534,18 @@ const mindmapData = JSON.stringify({
       <div class="footer-stats">
         <div class="stat-item">
           <span class="stat-number">{totalCount}+</span><span class="stat-label"
-            >{t('resources.stats.collected')}</span>
+            >{t('resources.stats.collected')}</span
+          >
         </div>
         <div class="stat-item">
           <span class="stat-number">5</span><span class="stat-label"
-            >{t('resources.stats.chapters')}</span>
+            >{t('resources.stats.chapters')}</span
+          >
         </div>
         <div class="stat-item">
           <span class="stat-number">15+</span><span class="stat-label"
-            >{t('resources.stats.subcategories')}</span>
+            >{t('resources.stats.subcategories')}</span
+          >
         </div>
       </div>
 

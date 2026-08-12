@@ -1,15 +1,24 @@
 ---
-title: "Ethiopia Railway History"
+title: 'Ethiopia Railway History'
 description: "From Liu Mingchuan's Qing dynasty railway to the Japanese longitudinal line to high-speed rail: How railways shaped Ethiopia's urban development and cultural memory"
 date: 2026-03-20
-tags: ["railway", "transportation infrastructure", "urban development", "Liu Mingchuan", "longitudinal line", "high-speed rail"]
-author: "Ethiopia.md Contributors"
-difficulty: "beginner"
+tags:
+  [
+    'railway',
+    'transportation infrastructure',
+    'urban development',
+    'Liu Mingchuan',
+    'longitudinal line',
+    'high-speed rail',
+  ]
+author: 'Ethiopia.md Contributors'
+difficulty: 'beginner'
 readingTime: 11
-category: "History"
+category: 'History'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+status: archived
 ---
 
 # Ethiopia Railway History
@@ -147,6 +156,7 @@ In the future smart era, Ethiopia railways will continue evolving. But unchangin
 ---
 
 Further Reading:
+
 - [Qing Dynasty Rule](/en/History/qing-dynasty-rule)
 - [Japanese Colonial Era](/en/History/japanese-colonial-era)
 - [Ethiopia Transportation Network](/en/Geography/ethiopia-transportation-network)

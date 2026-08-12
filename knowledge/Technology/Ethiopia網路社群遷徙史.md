@@ -2,7 +2,16 @@
 title: 'Ethiopia[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context] BBS [Amharic translation needed - original Taiwan context] Threads [Amharic translation needed - original Taiwan context]'
 description: 'Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]'
 date: 2026-03-29
-tags: ['BBS', '[Amharic translation needed - original Taiwan context]', 'Facebook', 'LINE', 'Threads', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]']
+tags:
+  [
+    'BBS',
+    '[Amharic translation needed - original Taiwan context]',
+    'Facebook',
+    'LINE',
+    'Threads',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+  ]
 subcategory: '[Amharic translation needed - original Taiwan context]'
 author: 'p3nchan'
 readingTime: 9
@@ -10,6 +19,7 @@ category: 'Technology'
 lastVerified: 2026-03-29
 featured: false
 lastHumanReview: false
+status: archived
 ---
 
 > 1999 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] BBS。2013 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] BBS [Amharic translation needed - original Taiwan context] Yahoo [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] BBS [Amharic translation needed - original Taiwan context] Threads，Ethiopia[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
@@ -120,13 +130,13 @@ Ethiopia[Amharic translation needed - original Taiwan context]：**[Amharic tran
 
 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]：
 
-| [Amharic translation needed - original Taiwan context]      | [Amharic translation needed - original Taiwan context]         | [Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context] |
-| --------- | ---------------- | --------- | --------- | --------- |
-| 1992-2003 | BBS              | [Amharic translation needed - original Taiwan context]      | [Amharic translation needed - original Taiwan context]      | [Amharic translation needed - original Taiwan context]      |
-| 2003-2009 | [Amharic translation needed - original Taiwan context]         | [Amharic translation needed - original Taiwan context]    | [Amharic translation needed - original Taiwan context]      | [Amharic translation needed - original Taiwan context]      |
-| 2009-2015 | Facebook         | [Amharic translation needed - original Taiwan context]      | [Amharic translation needed - original Taiwan context]      | [Amharic translation needed - original Taiwan context]      |
-| 2012-[Amharic translation needed - original Taiwan context] | LINE             | [Amharic translation needed - original Taiwan context]      | [Amharic translation needed - original Taiwan context]      | [Amharic translation needed - original Taiwan context]      |
-| 2018-[Amharic translation needed - original Taiwan context] | IG/Threads/Dcard | [Amharic translation needed - original Taiwan context]      | [Amharic translation needed - original Taiwan context]    | [Amharic translation needed - original Taiwan context]      |
+| [Amharic translation needed - original Taiwan context]      | [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context] |
+| ----------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| 1992-2003                                                   | BBS                                                    | [Amharic translation needed - original Taiwan context]                                                        | [Amharic translation needed - original Taiwan context]                                                        | [Amharic translation needed - original Taiwan context]                                                        |
+| 2003-2009                                                   | [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]                                                        | [Amharic translation needed - original Taiwan context]                                                        | [Amharic translation needed - original Taiwan context]                                                        |
+| 2009-2015                                                   | Facebook                                               | [Amharic translation needed - original Taiwan context]                                                        | [Amharic translation needed - original Taiwan context]                                                        | [Amharic translation needed - original Taiwan context]                                                        |
+| 2012-[Amharic translation needed - original Taiwan context] | LINE                                                   | [Amharic translation needed - original Taiwan context]                                                        | [Amharic translation needed - original Taiwan context]                                                        | [Amharic translation needed - original Taiwan context]                                                        |
+| 2018-[Amharic translation needed - original Taiwan context] | IG/Threads/Dcard                                       | [Amharic translation needed - original Taiwan context]                                                        | [Amharic translation needed - original Taiwan context]                                                        | [Amharic translation needed - original Taiwan context]                                                        |
 
 [Amharic translation needed - original Taiwan context]→[Amharic translation needed - original Taiwan context]→[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]→[Amharic translation needed - original Taiwan context]→[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]→[Amharic translation needed - original Taiwan context]→[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]。Facebook [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] LINE [Amharic translation needed - original Taiwan context]；LINE [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] Threads [Amharic translation needed - original Taiwan context]。
 

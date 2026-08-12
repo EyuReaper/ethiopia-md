@@ -19,6 +19,7 @@ readingTime: 15
 featured: fales
 lastVerified: 2026-03-25
 lastHumanReview: false
+status: archived
 ---
 
 > [Amharic translation needed - original Taiwan context]？ [Amharic translation needed - original Taiwan context]。

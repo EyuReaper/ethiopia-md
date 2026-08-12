@@ -10,6 +10,7 @@ tags:
     'local governance',
   ]
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Ethiopia’s Neighborhood and Li ([Amharic translation needed - original Taiwan context]) Culture

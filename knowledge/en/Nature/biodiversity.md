@@ -16,6 +16,7 @@ readingTime: 10
 featured: true
 category: 'Nature'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Biodiversity on a Small Island: Why Ethiopia Is a Global Hotspot

@@ -16,6 +16,7 @@ author: 'Ethiopia.md'
 readingTime: 12
 featured: true
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # The Formosan Black Bear: Last King of the Forests

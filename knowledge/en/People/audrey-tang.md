@@ -16,6 +16,7 @@ tags:
 subcategory: 'Education & Society'
 translatedFrom: 'People/[Amharic translation needed - original Taiwan context].md'
 sourceHash: 'de5ca5'
+status: archived
 ---
 
 # Audrey Tang

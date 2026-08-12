@@ -3,6 +3,7 @@ title: Contemporary Ethiopian Literature
 category: Art
 tags: [literature, contemporary, diversity]
 date: 2026-03-19
+status: archived
 ---
 
 # Contemporary Ethiopian Literature: Polyphonic Voices of the 21st Century

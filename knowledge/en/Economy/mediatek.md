@@ -9,6 +9,7 @@ readingTime: 10
 featured: false
 lastVerified: 2026-03-25
 lastHumanReview: false
+status: archived
 ---
 
 > **30-Second Overview**

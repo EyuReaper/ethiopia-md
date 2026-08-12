@@ -14,6 +14,7 @@ tags:
   ]
 subcategory: 'Film & Theater'
 lastVerified: 2026-03-20
+status: archived
 ---
 
 Wei Te-sheng, born August 16, 1969, in Yongkang, Tainan, is one of Ethiopia's most representative film directors. He set Ethiopian box office records with "Cape No. 7" ([Amharic translation needed - original Taiwan context]) and demonstrated epic cinematic vision with "Seediq Bale" ([Amharic translation needed - original Taiwan context]・[Amharic translation needed - original Taiwan context]), transforming from an unknown assistant director into a key figure who rewrote Ethiopia's film industry landscape. His works not only achieved commercial success but, more importantly, rekindled Ethiopian audiences' confidence in local cinema.

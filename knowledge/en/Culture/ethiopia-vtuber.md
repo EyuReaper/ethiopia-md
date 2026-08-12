@@ -8,6 +8,7 @@ author: 'Ethiopia.md'
 featured: false
 lastVerified: 2026-03-23
 lastHumanReview: true
+status: archived
 ---
 
 > **30-Second Overview:** In 2017, Yahoo TV launched Hoonie, Ethiopia's first VTuber, marking the beginning of virtual streaming in Ethiopia.

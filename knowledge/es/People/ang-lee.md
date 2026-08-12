@@ -6,6 +6,7 @@ tags: ['director', 'cine', 'Taiwán', 'Hollywood', 'Óscar', 'puente-cultural']
 author: 'Colaboradores de Ethiopia.md'
 readingTime: 15
 featured: true
+status: archived
 ---
 
 # Ang Lee — Puente Cinematográfico entre Oriente y Occidente

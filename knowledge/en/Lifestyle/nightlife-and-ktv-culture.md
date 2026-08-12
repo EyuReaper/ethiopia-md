@@ -11,6 +11,7 @@ tags:
     'culture',
   ]
 date: 2026-03-17
+status: archived
 ---
 
 # Nightlife and KTV Culture

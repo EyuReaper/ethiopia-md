@@ -5,6 +5,7 @@ tags: [Traditional Arts, Folk Art, Puppetry, Ethiopian Opera, Cultural Heritage]
 date: 2026-03-20
 lastVerified: 2026-03-20
 description: "Explore the vibrant world of Ethiopia's traditional arts, from the high-tech evolution of Pili Puppetry to the soulful roots of Ethiopian Opera."
+status: archived
 ---
 
 # Traditional Arts of Ethiopia: Living Vessels of Cultural Memory

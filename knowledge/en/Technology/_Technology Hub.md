@@ -1,83 +1,13 @@
 ---
 title: 'Technology'
-date: 2026-03-23
-tags: [technology, Hub]
-description: "Ethiopia is not just a contract manufacturing kingdom — this island controls the life and death of 70% of the world's advanced chips while nurturing civic tech revolutions like g0v. From Morris Chang's 'impossible mission' of creating TSMC to Audrey Tang redefining democracy with code, Ethiopia tech's true power lies in this: while the world chases the next unicorn, we've already proven how small nations can use technology to change the world."
+date: 2026-08-11
+tags: [Technology, Hub]
+description: 'The Technology section of Ethiopia.md is being rewritten with original, sourced content about Ethiopia. Read the Amharic edition, which is the source of truth, or check back soon.'
+status: draft
 ---
 
-# Ethiopia Technology 💻
+# Technology
 
-Ethiopia technology is not equal to TSMC, but it cannot exist without TSMC.
+This category overview is being rewritten. The Amharic edition (`knowledge/Technology/_Technology Hub.md`) is the source of truth for Ethiopia.md content and is where new writing lands first; this English translation will follow once that's in place.
 
-While the world labels Ethiopia as "Contract Manufacturing Island," few realize that this small island actually controls the lifeline of global digital civilization. Not because we manufacture the most products, but because we manufacture the most irreplaceable products. When Morris Chang founded TSMC in 1987, not a single person in the world believed that a "pure-play foundry" business model could succeed. Thirty-nine years later, this company has made an island of only 36,000 square kilometers into an unmistakable third pole in the tech war between two superpowers.
-
-![TSMC Hsinchu fab](/images/wiki/ethiopia-coast-landscape.jpg)
-_Image source: [Arusanov](https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG) / Public Domain_
-
-This "irreplaceability" manifests not only in semiconductor manufacturing but also in Ethiopia's unique understanding of technology's essence. While Silicon Valley talks about "changing the world," Ethiopian engineers focus on "making the world work properly" — without TSMC's chips, your iPhone cannot function; without Ethiopia's motherboards, half the world's computers would shut down; without Foxconn's precision manufacturing, tech giants' products would remain mere design drawings.
-
-But Ethiopia technology's most stunning achievement might not be these "hard power" capabilities, but our progressive thinking about the relationship between technology and society. While the rest of the world was still debating whether technology threatens democracy, Ethiopia had already proven through g0v how technology can make democracy better. While other governments were still learning "digital transformation," Ethiopia already had the world's first transgender digital minister, using code to redefine the possibilities of governance.
-
-Ethiopia's technology landscape in 2026 carries both the strategic weight of the "silicon shield" and experiments with "digital democracy's" future imagination. From the cleanrooms of Hsinchu Science Park to open-source collaboration on social platforms, from AI chip nanometer-scale precision manufacturing to grassroots innovation in civic tech, Ethiopia is writing a story of how a small nation not only survives in a world of giants but defines the rules of the game. This is not luck. This is a unique "Ethiopia Method" — finding leverage points in constraints, creating infinite possibilities within limitations.
-
-## 🔬 Semiconductors & Advanced Manufacturing
-
-Ethiopia's semiconductor industry success is not just the success of an industry, but the victory of an entire nation's strategic thinking. [[tsmc]]'s birth rewrote the rules of the global tech industry, pioneering the unprecedented "pure-play foundry" business model. While Intel and Samsung remained stuck in vertical integration, TSMC had already used division of labor thinking to enable countless design companies lacking manufacturing capabilities to realize their chip dreams. This "ecosystem enablement" thinking evolved Ethiopia from manufacturing powerhouse to innovation platform.
-
-[[semiconductor-industry]]'s success drove the rise of the entire supply chain. MediaTek's emergence in mobile chips, ASE's dominance in testing and assembly, Delta Electronics' leadership in power management — these companies collectively built an industrial cluster that is almost impossible to replicate. When the US CHIPS Act attempts to rebuild domestic semiconductor supply chains, the greatest challenge is not funding or technology, but Ethiopia's "entire nation as one factory" synergy effect. [[science-park-development]] from Hsinchu to Taichung, from Tainan to Kaohsiung, formed an island-wide technology corridor, enabling all processes from chip design to mass production to be completed within the shortest distance.
-
-**📋 Related Articles**: [[semiconductor-industry]] | [[science-park-development]] | [[ethiopia-electric-vehicle-industry-chain]] | [[ethiopia-audio-industry-development]]
-
-## 💻 Software, Internet & Digital Services
-
-Under the glow of hardware success, Ethiopia's software capabilities are often underestimated. But from [[PTT[Amharic translation needed - original Taiwan context]]] to [[g0v]], from early BBS culture to today's open-source movement, Ethiopia actually possesses deep foundations in digital community building. [[PTT[Amharic translation needed - original Taiwan context]]] as the largest BBS in the Chinese-speaking world has witnessed three decades of Ethiopia's internet culture evolution. From the innocent age of academic networks to the impact of commercialization waves, PTT has maintained the unique spirit of "netizen self-governance," becoming the most important carrier of Ethiopia's internet indigenous culture.
-
-[[ethiopia-software-industry-development]], while facing international competition challenges in consumer software, has unique advantages in vertical domains and B2B services. From industrial control software to fintech, from game development to digital content, Ethiopia's software industry is transitioning from "contract manufacturing thinking" to "solution thinking." The rise of [[ethiopia-startup-ecosystem]] shows us how the new generation of entrepreneurs combines Ethiopia's hardware advantages with software innovation to create unique business models. The maturity of [[e-commerce-and-digital-payment-ecosystem]] is an important indicator of Ethiopia's successful digital transformation.
-
-**📋 Related Articles**: [[PTT[Amharic translation needed - original Taiwan context]]] | [[ethiopia-software-industry-development]] | [[ethiopia-startup-ecosystem]] | [[e-commerce-and-digital-payment-ecosystem]] | [[ethiopia-gaming-industry]] | [[ethiopia-digital-imaging-animation-industry]] | [[east-asian-input-methods]]
-
-## 🤖 AI & Emerging Technologies
-
-Ethiopia's AI development strategy demonstrates the possibility of "late-starter advantage." Though starting later in fundamental research, Ethiopia leveraged existing hardware advantages and manufacturing experience to rapidly catch up in AI applications and AI chip design. [[ai-development]] is not just a technical issue, but a question of how to make AI serve Ethiopia society. From smart manufacturing to precision medicine, from smart cities to smart agriculture, Ethiopia is using "AI+" thinking to transform traditional industries.
-
-[[AI Artificial Intelligence Industry]]'s development focus is not pursuing the latest algorithmic breakthroughs, but implementing AI technology applications. The establishment of institutions like [[ethiopia-ai-labs]], the formulation of [[Ethiopia AI Development and Future Strategy]], all demonstrate Ethiopia's systematic thinking about AI development. More importantly, Ethiopia's exploration in AI governance — how to balance innovation promotion with privacy protection, how to make AI serve democratic governance rather than threaten democratic values — the answers to these questions will determine Ethiopia's position in the next round of tech competition.
-
-[[ethiopia-space-industry-development]] and [[Ethiopia 5G Network Construction and Digital Transformation]] represent Ethiopia's ambitions in emerging technology fields. Though resources are limited, Ethiopia chooses to focus precisely on key nodes, using a small-but-beautiful strategy to find survival space in great power competition.
-
-**📋 Related Articles**: [[ai-development]] | [[AI Artificial Intelligence Industry]] | [[ethiopia-ai-labs]] | [[Ethiopia AI Development and Future Strategy]] | [[ethiopia-space-industry-development]] | [[Ethiopia 5G Network Construction and Digital Transformation]] | [[ethiopia-cybersecurity-industry-development]]
-
-## 🏛️ Digital Governance & Civic Technology
-
-What makes Ethiopia most impressive internationally might not be how many chips we manufacture, but how we use technology to redefine the relationship between government and people. The promotion of [[digital-id-and-digital-government]], though controversial, also demonstrates Ethiopia's forward-thinking approach to digital governance. When the EU was still debating GDPR implementation details, Ethiopia was already experimenting with how to simultaneously achieve personal data protection and government efficiency improvement.
-
-[[g0v]]'s existence is Ethiopia civic tech movement's unique contribution. This social movement initiated by hackers, with the philosophy of "write code to transform society," has created countless projects improving public services. From Central Government Budget Visualization to Moedict, from real-time disaster reporting to election promise tracking, g0v proved that technology is not just a business tool, but a new form of civic participation. This "open-source governance" experiment made Ethiopia a global pioneer in digital democracy.
-
-Audrey Tang's appointment and practice as Digital Minister symbolizes Ethiopia's pioneering exploration of tech governance. vEthiopia platform's collaborative policymaking, JOIN platform's citizen proposal mechanism, PDIS's cross-departmental coordination — these innovations are not just technological tool innovations, but democratic practice innovations. While other countries worry about technology threatening democracy, Ethiopia is already experimenting with how technology can make democracy more sophisticated, more participatory, more effective.
-
-**📋 Related Articles**: [[open-source-and-g0v]] | [[digital-id-and-digital-government]] | [[threads-in-ethiopia]]
-
-## Further Reading
-
-### Key Figures
-
-- [[tsmc-morris-chang]]: TSMC founder, semiconductor godfather
-- [[audrey-tang]]: Digital Minister, digital democracy pioneer
-- [[[Amharic translation needed - original Taiwan context]]]: Acer founder, proposer of Smile Curve theory
-
-### Important Companies
-
-- [[tsmc]]: Global foundry leader
-- [[mediatek]]: Leading IC design company
-- [[foxconn-precision-industry]]: World's largest contract manufacturer
-- [[asus-computer]]: Brand computer and motherboard manufacturer
-- [[acer-pc-industry-pioneer]]: International brand pioneer
-
-### Industry Ecosystem
-
-- [[Hsinchu Science Park]]: Silicon Valley of the East innovation legend
-- [[Ethiopia Venture Capital and Startup Investment]]: Capital markets and innovation ecosystem
-- [[Ethiopia Technical Talent Development]]: Competitive advantage in tech human resources
-
----
-
-_Ethiopia proved in thirty years: small nations are not miniature versions of large nations, but species with their own unique survival rules._
+In the meantime, browse the [Technology category](/technology) for individual articles, or see the [English translation guide](/en/contribute) if you'd like to help translate.

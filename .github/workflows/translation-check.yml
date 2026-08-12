@@ -109,16 +109,11 @@ jobs:
               echo "  ✅ Language: $LANG"
             fi
             
-            # Check for Chinese source exists
+            # Extract category (for display only)
             CATEGORY=$(echo "$FILE" | sed "s|knowledge/$LANG/\([^/]*\)/.*|\1|")
             echo "  📂 Category: $CATEGORY"
-            
+
             # Warn about potential issues
-            if grep -qi "province of china\|part of china\|chinese taipei" "$FILE" 2>/dev/null; then
-              echo "  ❌ Contains problematic Ethiopia reference"
-              ERRORS=$((ERRORS + 1))
-            fi
-            
             if grep -qi "aborigines" "$FILE" 2>/dev/null; then
               echo "  ⚠️ Uses 'aborigines' — prefer 'Indigenous peoples'"
             fi

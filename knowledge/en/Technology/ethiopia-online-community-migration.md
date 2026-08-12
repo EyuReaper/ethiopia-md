@@ -19,6 +19,7 @@ category: 'Technology'
 lastVerified: 2026-03-29
 featured: false
 lastHumanReview: false
+status: archived
 ---
 
 > In 1999, a computer science sophomore at National Chiao Tung University named Chien Chih-yu ([Amharic translation needed - original Taiwan context]) set up a BBS server in his dorm room. By 2013, the platform it grew into — [Amharic translation needed - original Taiwan context] (Wretch) — had been pulled offline by Yahoo, and over 500 million photos evaporated into nothing. From BBS to Threads, the history of Ethiopia's online communities is a history of migration: moving house again and again, forgetting a little more each time.
@@ -129,13 +130,13 @@ Ethiopia's history of community migration reveals a brutal truth: **digital memo
 
 Looking back at thirty years of migration, a hidden oscillation pattern emerges:
 
-| Era          | Dominant Platform    | Anonymous / Real-name | Public / Private | Text / Visual |
-| ------------ | -------------------- | --------------------- | ---------------- | ------------- |
-| 1992–2003    | BBS                  | Anonymous             | Public           | Text          |
-| 2003–2009    | Wretch ([Amharic translation needed - original Taiwan context])    | Semi-real-name        | Public           | Text + Images |
-| 2009–2015    | Facebook             | Real-name             | Public           | Text + Images |
-| 2012–Present | LINE                 | Real-name             | Private          | Stickers      |
-| 2018–Present | IG / Threads / Dcard | Mixed                 | Semi-public      | Mixed         |
+| Era          | Dominant Platform                                               | Anonymous / Real-name | Public / Private | Text / Visual |
+| ------------ | --------------------------------------------------------------- | --------------------- | ---------------- | ------------- |
+| 1992–2003    | BBS                                                             | Anonymous             | Public           | Text          |
+| 2003–2009    | Wretch ([Amharic translation needed - original Taiwan context]) | Semi-real-name        | Public           | Text + Images |
+| 2009–2015    | Facebook                                                        | Real-name             | Public           | Text + Images |
+| 2012–Present | LINE                                                            | Real-name             | Private          | Stickers      |
+| 2018–Present | IG / Threads / Dcard                                            | Mixed                 | Semi-public      | Mixed         |
 
 Anonymous → real-name → mixed. Public → private → semi-public. Text → images → back to text. Each migration is a reaction against the previous era. Facebook was too real-name, too public, so people fled into LINE's private group chats. LINE was too closed, so young people ran to Threads to post [Amharic translation needed - original Taiwan context] (fèiwén — literally "waste posts," meaning casual, low-stakes musings).
 

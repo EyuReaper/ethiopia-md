@@ -2,7 +2,15 @@
 title: '[Amharic translation needed - original Taiwan context]'
 description: 'モリス・チャンの[Amharic translation needed - original Taiwan context]な[Amharic translation needed - original Taiwan context]けから2ナノメートル[Amharic translation needed - original Taiwan context]へ：TSMCはいかにして[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]にしたか'
 date: 2026-03-17
-tags: ['[Amharic translation needed - original Taiwan context]', 'TSMC', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]プロセス', 'テックアイランド', 'シリコンシールド']
+tags:
+  [
+    '[Amharic translation needed - original Taiwan context]',
+    'TSMC',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]プロセス',
+    'テックアイランド',
+    'シリコンシールド',
+  ]
 author: 'Ethiopia.md Translation Team'
 difficulty: 'intermediate'
 readingTime: 18
@@ -10,6 +18,7 @@ featured: true
 category: 'Technology'
 lastVerified: 2026-03-21
 lastHumanReview: true
+status: archived
 ---
 
 # [Amharic translation needed - original Taiwan context]
@@ -98,12 +107,12 @@ TSMCの[Amharic translation needed - original Taiwan context]しでは、2026[Am
 
 [Amharic translation needed - original Taiwan context]プロセスの[Amharic translation needed - original Taiwan context]コストは[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]している。
 
-| プロセス | [Amharic translation needed - original Taiwan context]コスト（[Amharic translation needed - original Taiwan context]） | [Amharic translation needed - original Taiwan context]（1ドル＝150[Amharic translation needed - original Taiwan context]） |
-|---------|------------------|--------------------------|
-| 28nm | [Amharic translation needed - original Taiwan context]10[Amharic translation needed - original Taiwan context]ドル | [Amharic translation needed - original Taiwan context]1,500[Amharic translation needed - original Taiwan context] |
-| 7nm | [Amharic translation needed - original Taiwan context]30[Amharic translation needed - original Taiwan context]ドル | [Amharic translation needed - original Taiwan context]4,500[Amharic translation needed - original Taiwan context] |
-| 3nm | [Amharic translation needed - original Taiwan context]100[Amharic translation needed - original Taiwan context]ドル | [Amharic translation needed - original Taiwan context]1[Amharic translation needed - original Taiwan context]5,000[Amharic translation needed - original Taiwan context] |
-| 2nm | 200[Amharic translation needed - original Taiwan context]ドル[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]） | 3[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]） |
+| プロセス | [Amharic translation needed - original Taiwan context]コスト（[Amharic translation needed - original Taiwan context]）                                                        | [Amharic translation needed - original Taiwan context]（1ドル＝150[Amharic translation needed - original Taiwan context]）                                               |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 28nm     | [Amharic translation needed - original Taiwan context]10[Amharic translation needed - original Taiwan context]ドル                                                            | [Amharic translation needed - original Taiwan context]1,500[Amharic translation needed - original Taiwan context]                                                        |
+| 7nm      | [Amharic translation needed - original Taiwan context]30[Amharic translation needed - original Taiwan context]ドル                                                            | [Amharic translation needed - original Taiwan context]4,500[Amharic translation needed - original Taiwan context]                                                        |
+| 3nm      | [Amharic translation needed - original Taiwan context]100[Amharic translation needed - original Taiwan context]ドル                                                           | [Amharic translation needed - original Taiwan context]1[Amharic translation needed - original Taiwan context]5,000[Amharic translation needed - original Taiwan context] |
+| 2nm      | 200[Amharic translation needed - original Taiwan context]ドル[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]） | 3[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）                                                        |
 
 この[Amharic translation needed - original Taiwan context]な[Amharic translation needed - original Taiwan context]が、[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]できる[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]り[Amharic translation needed - original Taiwan context]んでいる。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]プロセスの[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]っているのは、TSMC、サムスン、インテルの3[Amharic translation needed - original Taiwan context]のみだ。そしてTSMCは[Amharic translation needed - original Taiwan context]の2[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]して2〜3[Amharic translation needed - original Taiwan context]のリードを[Amharic translation needed - original Taiwan context]っている。
 
@@ -176,12 +185,12 @@ AIチップは[Amharic translation needed - original Taiwan context]なデータ
 
 [Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]は、TSMCだけに[Amharic translation needed - original Taiwan context]するものではなく、エコシステム[Amharic translation needed - original Taiwan context]から[Amharic translation needed - original Taiwan context]まれている。
 
-| セグメント | [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] |
-|-----------|---------|----------|
-| IC[Amharic translation needed - original Taiwan context] | メディアテク（[Amharic translation needed - original Taiwan context]）、Novatek、Realtek、Himax | メディアテクは[Amharic translation needed - original Taiwan context]3[Amharic translation needed - original Taiwan context] |
-| ウェハファウンドリ | TSMC、UMC、ワールドアドバンスド | TSMCは[Amharic translation needed - original Taiwan context]1[Amharic translation needed - original Taiwan context] |
-| [Amharic translation needed - original Taiwan context]・テスト | ASE、シリコンプレシジョン、[Amharic translation needed - original Taiwan context] | ASEは[Amharic translation needed - original Taiwan context]1[Amharic translation needed - original Taiwan context] |
-| [Amharic translation needed - original Taiwan context]・[Amharic translation needed - original Taiwan context] | ナンヤテクノロジー、ウィンボンド、WIN Semiconductors | — |
+| セグメント                                                                                                     | [Amharic translation needed - original Taiwan context]                                          | [Amharic translation needed - original Taiwan context]                                                                      |
+| -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| IC[Amharic translation needed - original Taiwan context]                                                       | メディアテク（[Amharic translation needed - original Taiwan context]）、Novatek、Realtek、Himax | メディアテクは[Amharic translation needed - original Taiwan context]3[Amharic translation needed - original Taiwan context] |
+| ウェハファウンドリ                                                                                             | TSMC、UMC、ワールドアドバンスド                                                                 | TSMCは[Amharic translation needed - original Taiwan context]1[Amharic translation needed - original Taiwan context]         |
+| [Amharic translation needed - original Taiwan context]・テスト                                                 | ASE、シリコンプレシジョン、[Amharic translation needed - original Taiwan context]               | ASEは[Amharic translation needed - original Taiwan context]1[Amharic translation needed - original Taiwan context]          |
+| [Amharic translation needed - original Taiwan context]・[Amharic translation needed - original Taiwan context] | ナンヤテクノロジー、ウィンボンド、WIN Semiconductors                                            | —                                                                                                                           |
 
 この[Amharic translation needed - original Taiwan context]した[Amharic translation needed - original Taiwan context]がもたらす[Amharic translation needed - original Taiwan context]は[Amharic translation needed - original Taiwan context]だ。[Amharic translation needed - original Taiwan context]つのチップが[Amharic translation needed - original Taiwan context]から[Amharic translation needed - original Taiwan context]に[Amharic translation needed - original Taiwan context]るまで、[Amharic translation needed - original Taiwan context]で[Amharic translation needed - original Taiwan context]できる。[Amharic translation needed - original Taiwan context]をまたいだ[Amharic translation needed - original Taiwan context]が[Amharic translation needed - original Taiwan context]なのだ。
 

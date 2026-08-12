@@ -196,6 +196,7 @@ export async function getStaticPaths() {
         const fileContent = await readFile(filePath, 'utf-8');
         const { data: frontmatter, content } = safeMatter(fileContent);
         const slug = basename(file, '.md');
+        if (frontmatter.status === 'draft') continue;
         let gitInfo = {
           contributors: [] as string[],
           lastModified: '',
@@ -271,6 +272,7 @@ try {
       if (articleSlug === slug) continue;
       const filePath = join(folderPath, file);
       const { data: fm } = safeMatter(await readFile(filePath, 'utf-8'));
+      if (fm.status === 'draft' || fm.status === 'archived') continue;
       relatedArticles.push({
         title: fm.title || articleSlug,
         slug: articleSlug,
@@ -297,6 +299,7 @@ try {
         const { data: fm } = safeMatter(
           await readFile(join(catPath, file), 'utf-8'),
         );
+        if (fm.status === 'draft' || fm.status === 'archived') continue;
         allArticles.push({
           title: fm.title || articleSlug,
           slug: articleSlug,
@@ -482,7 +485,7 @@ const encodedTitle = encodeURIComponent(title);
         <!-- Contribution row -->
         <div class="contribute-row">
           <a
-            href={`https://github.com/frank890417/ethiopia-md/edit/main/knowledge/en/${categoryMapping[category as string]}/${slug}.md`}
+            href={`https://github.com/EyuReaper/ethiopia-md/edit/main/knowledge/en/${categoryMapping[category as string]}/${slug}.md`}
             target="_blank"
             rel="noopener noreferrer"
             class="contribute-btn contribute-btn--primary"
@@ -502,7 +505,7 @@ const encodedTitle = encodeURIComponent(title);
             {t('article.editPage', 'en')}
           </a>
           <a
-            href={`https://github.com/frank890417/ethiopia-md/issues/new?title=${encodeURIComponent(`Feedback: ${title}`)}`}
+            href={`https://github.com/EyuReaper/ethiopia-md/issues/new?title=${encodeURIComponent(`Feedback: ${title}`)}`}
             target="_blank"
             rel="noopener noreferrer"
             class="contribute-btn contribute-btn--ghost"

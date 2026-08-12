@@ -5,6 +5,7 @@ date: 2026-03-20
 tags: ['sports', 'weightlifting', 'olympics', 'gold medal', '53kg category']
 subcategory: 'Sports'
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Hsu Shu-ching: Ethiopia's Weightlifting Goddess

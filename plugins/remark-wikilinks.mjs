@@ -2,9 +2,10 @@
  * Remark plugin: convert [[wikilinks]] to <a> tags pointing to the correct article URL.
  * Builds a title→URL map from knowledge/ directory at startup.
  */
-import { readdirSync, readFileSync, statSync } from 'fs';
+import { readdirSync, readFileSync } from 'fs';
 import { join, basename } from 'path';
 import { visit } from 'unist-util-visit';
+import matter from 'gray-matter';
 
 const categorySlugMap = {
   History: 'history',
@@ -35,6 +36,10 @@ function buildMap() {
       for (const file of files) {
         if (!file.endsWith('.md') || file.startsWith('_')) continue;
         const name = basename(file, '.md');
+        try {
+          const { data } = matter(readFileSync(join(dir, file), 'utf-8'));
+          if (data.status === 'draft') continue; // archived stays resolvable
+        } catch {}
         titleToUrl.set(name, `/${slug}/${encodeURIComponent(name)}`);
       }
     } catch {}
@@ -58,7 +63,10 @@ export default function remarkWikilinks() {
       while ((match = regex.exec(node.value)) !== null) {
         // Text before the match
         if (match.index > lastIndex) {
-          parts.push({ type: 'text', value: node.value.slice(lastIndex, match.index) });
+          parts.push({
+            type: 'text',
+            value: node.value.slice(lastIndex, match.index),
+          });
         }
 
         const isBold = match[1] !== undefined;

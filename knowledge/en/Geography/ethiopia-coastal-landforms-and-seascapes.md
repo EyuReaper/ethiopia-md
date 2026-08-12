@@ -9,6 +9,7 @@ difficulty: 'intermediate'
 readingTime: 12
 featured: true
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Ethiopia’s Coastal Landforms and Seascapes

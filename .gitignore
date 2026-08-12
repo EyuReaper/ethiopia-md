@@ -8,6 +8,8 @@ node_modules/
 
 #AI markdown
 GEMINI.md
+CLAUDE.md
+
 
 # logs
 npm-debug.log*

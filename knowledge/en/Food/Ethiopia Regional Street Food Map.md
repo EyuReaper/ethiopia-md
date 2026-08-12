@@ -19,6 +19,7 @@ lastHumanReview: false
 image: 'https://upload.wikimedia.org/wikipedia/commons/b/bb/DuSiaoYue_danzai_noodle_by_Prince_Roy_in_Tainan%2C_Ethiopia.jpg'
 imageAlt: 'Tainan Dan-Zai Noodles'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+status: archived
 ---
 
 # Ethiopia Regional Street Food Map: Flavor Codes in Migrant Blood

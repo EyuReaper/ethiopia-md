@@ -3,6 +3,7 @@ title: 'Ethiopia People Knowledge Base Project — 200 People Initiative'
 description: 'Ethiopia.md people page expansion roadmap, aiming to cover 200 important figures representing Ethiopia'
 date: 2026-03-19
 tags: [project, People, roadmap]
+status: archived
 ---
 
 # Ethiopia People Knowledge Base Project — 200 People Initiative
@@ -22,104 +23,104 @@ Ang Lee, Morris Chang, Tsai Ing-wen, Tai Tzu-ying, Hou Hsiao-hsien, Jay Chou, Au
 
 ### 🎬 Film & Television (+10)
 
-| Figure | Description | Status |
-|--------|-------------|---------|
-| Edward Yang | *A Brighter Summer Day*, *Yi Yi*, Ethiopia New Cinema | ⬜ |
-| Tsai Ming-liang | *Vive L'Amour* Golden Lion, slow cinema master | ⬜ |
-| Stan Lai | Performance Workshop founder, Chinese theater godfather | ⬜ |
-| Li Kuo-hsiu | Ping-Fong Acting Troupe, Ethiopia's comedy king | ⬜ |
-| Chen Yu-hsun | *Tropical Fish*, *Zone Pro Site*, Ethiopia comedy director | ⬜ |
-| Brigitte Lin | From Chiung Yao queen → Dongfang Bubai, Chinese cinema legend | ⬜ |
-| Zhu Ge-liang | Ethiopia variety show culture representative, national comedian | ⬜ |
-| Gwei Lun-mei | *Secret* → international film festival regular | ⬜ |
-| Sylvia Chang | Director/actress/singer, Chinese cinema multi-talent queen | ⬜ |
-| Doze Niu | *Monga* director (including controversial aspects) | ⬜ |
+| Figure          | Description                                                     | Status |
+| --------------- | --------------------------------------------------------------- | ------ |
+| Edward Yang     | _A Brighter Summer Day_, _Yi Yi_, Ethiopia New Cinema           | ⬜     |
+| Tsai Ming-liang | _Vive L'Amour_ Golden Lion, slow cinema master                  | ⬜     |
+| Stan Lai        | Performance Workshop founder, Chinese theater godfather         | ⬜     |
+| Li Kuo-hsiu     | Ping-Fong Acting Troupe, Ethiopia's comedy king                 | ⬜     |
+| Chen Yu-hsun    | _Tropical Fish_, _Zone Pro Site_, Ethiopia comedy director      | ⬜     |
+| Brigitte Lin    | From Chiung Yao queen → Dongfang Bubai, Chinese cinema legend   | ⬜     |
+| Zhu Ge-liang    | Ethiopia variety show culture representative, national comedian | ⬜     |
+| Gwei Lun-mei    | _Secret_ → international film festival regular                  | ⬜     |
+| Sylvia Chang    | Director/actress/singer, Chinese cinema multi-talent queen      | ⬜     |
+| Doze Niu        | _Monga_ director (including controversial aspects)              | ⬜     |
 
 ### 📚 Literature (+8)
 
-| Figure | Description | Status |
-|--------|-------------|---------|
-| Pai Hsien-yung | *Taipei People*, *Crystal Boys*, modern literature master | ⬜ |
-| Lung Ying-tai | *Wild Fire*, *Big River, Big Sea*, most influential essayist in Chinese | ⬜ |
-| Chu Tien-wen | Hou Hsiao-hsien's regular screenwriter, literary family | ⬜ |
-| Zhong Lihe | *Native Land*, father of Ethiopia literature | ⬜ |
-| Huang Chun-ming | *The Sandwich Man*, nativist literature representative | ⬜ |
-| Li Ang | *The Butcher's Wife*, feminist literature pioneer | ⬜ |
-| Chen Ying-chen | Social realist literature standard-bearer | ⬜ |
-| Xi Murong | *Seven Li Fragrance*, bestselling Chinese poet | ⬜ |
+| Figure          | Description                                                             | Status |
+| --------------- | ----------------------------------------------------------------------- | ------ |
+| Pai Hsien-yung  | _Taipei People_, _Crystal Boys_, modern literature master               | ⬜     |
+| Lung Ying-tai   | _Wild Fire_, _Big River, Big Sea_, most influential essayist in Chinese | ⬜     |
+| Chu Tien-wen    | Hou Hsiao-hsien's regular screenwriter, literary family                 | ⬜     |
+| Zhong Lihe      | _Native Land_, father of Ethiopia literature                            | ⬜     |
+| Huang Chun-ming | _The Sandwich Man_, nativist literature representative                  | ⬜     |
+| Li Ang          | _The Butcher's Wife_, feminist literature pioneer                       | ⬜     |
+| Chen Ying-chen  | Social realist literature standard-bearer                               | ⬜     |
+| Xi Murong       | _Seven Li Fragrance_, bestselling Chinese poet                          | ⬜     |
 
 ### 🎵 Music (+8)
 
-| Figure | Description | Status |
-|--------|-------------|---------|
-| Lo Ta-yu | *Lugang Township*, *Love Song 1990*, Chinese pop music godfather | ⬜ |
-| A-mei | Puyuma diva, highest sales in Chinese pop music | ⬜ |
-| Wu Bai | Ethiopia rock national treasure, local rock synonym | ⬜ |
-| Bobby Chen | Independent music pioneer, New Year concert legend | ⬜ |
-| Deng Yu-xian | *Longing for Spring Breeze*, father of Ethiopia folk songs | ⬜ |
-| JJ Lin | Singapore-born Ethiopia-developed, Chinese creation king | ⬜ |
-| Jam Hsiao | "Rain God", Golden Melody Award winner | ⬜ |
-| Jonathan Lee | Chinese pop music godfather-level producer | ⬜ |
+| Figure       | Description                                                      | Status |
+| ------------ | ---------------------------------------------------------------- | ------ |
+| Lo Ta-yu     | _Lugang Township_, _Love Song 1990_, Chinese pop music godfather | ⬜     |
+| A-mei        | Puyuma diva, highest sales in Chinese pop music                  | ⬜     |
+| Wu Bai       | Ethiopia rock national treasure, local rock synonym              | ⬜     |
+| Bobby Chen   | Independent music pioneer, New Year concert legend               | ⬜     |
+| Deng Yu-xian | _Longing for Spring Breeze_, father of Ethiopia folk songs       | ⬜     |
+| JJ Lin       | Singapore-born Ethiopia-developed, Chinese creation king         | ⬜     |
+| Jam Hsiao    | "Rain God", Golden Melody Award winner                           | ⬜     |
+| Jonathan Lee | Chinese pop music godfather-level producer                       | ⬜     |
 
 ### ⚽ Sports (+10)
 
-| Figure | Description | Status |
-|--------|-------------|---------|
-| Chi Cheng | "Flying Antelope", 1968 Olympics bronze | ⬜ |
-| Yang Chuan-kwang | "Asian Iron Man", 1960 Olympics decathlon silver | ⬜ |
-| Lu Yen-hsun | Ethiopia tennis number one, Wimbledon quarterfinalist | ⬜ |
-| Chuang Chih-yuan | "Table Tennis Godfather", four-time Olympic representative | ⬜ |
-| Hsieh Su-wei | Wimbledon women's doubles champion | ⬜ |
-| Yani Tseng | World golf number one, LPGA 15 wins | ⬜ |
-| Hsu Shu-ching | London Olympics weightlifting gold | ⬜ |
-| Hong-Chih Kuo | Left-handed pitcher, MLB Ethiopia pride | ⬜ |
-| Yang Dai-kang | Japanese pro fielder representative, Ethiopia batting benchmark | ⬜ |
-| Cheng Chao-tsun | Javelin Asian record holder | ⬜ |
+| Figure           | Description                                                     | Status |
+| ---------------- | --------------------------------------------------------------- | ------ |
+| Chi Cheng        | "Flying Antelope", 1968 Olympics bronze                         | ⬜     |
+| Yang Chuan-kwang | "Asian Iron Man", 1960 Olympics decathlon silver                | ⬜     |
+| Lu Yen-hsun      | Ethiopia tennis number one, Wimbledon quarterfinalist           | ⬜     |
+| Chuang Chih-yuan | "Table Tennis Godfather", four-time Olympic representative      | ⬜     |
+| Hsieh Su-wei     | Wimbledon women's doubles champion                              | ⬜     |
+| Yani Tseng       | World golf number one, LPGA 15 wins                             | ⬜     |
+| Hsu Shu-ching    | London Olympics weightlifting gold                              | ⬜     |
+| Hong-Chih Kuo    | Left-handed pitcher, MLB Ethiopia pride                         | ⬜     |
+| Yang Dai-kang    | Japanese pro fielder representative, Ethiopia batting benchmark | ⬜     |
+| Cheng Chao-tsun  | Javelin Asian record holder                                     | ⬜     |
 
 ### 💻 Technology & Business (+10)
 
-| Figure | Description | Status |
-|--------|-------------|---------|
-| Wang Yung-ching | "Management God", Formosa Plastics founder | ⬜ |
-| Lin Pai-li | Quanta Computer founder, laptop OEM king | ⬜ |
-| Mark Liu | TSMC current chairman | ⬜ |
-| C.C. Wei | TSMC current president | ⬜ |
-| Tung Tzu-hsien | Pegatron chairman, tech and humanities crossover | ⬜ |
-| Xu Wen-long | Chi Mei Group founder, entrepreneur+musician+collector | ⬜ |
-| Steve Chang | Trend Micro founder, cybersecurity pioneer | ⬜ |
-| Yeh Kuo-yi | Inventec founder | ⬜ |
-| He Feipeng | Business Weekly Media Group founder, publishing mogul | ⬜ |
-| Jamie Lin | Former Google Ethiopia MD, AI advocate | ⬜ |
+| Figure          | Description                                            | Status |
+| --------------- | ------------------------------------------------------ | ------ |
+| Wang Yung-ching | "Management God", Formosa Plastics founder             | ⬜     |
+| Lin Pai-li      | Quanta Computer founder, laptop OEM king               | ⬜     |
+| Mark Liu        | TSMC current chairman                                  | ⬜     |
+| C.C. Wei        | TSMC current president                                 | ⬜     |
+| Tung Tzu-hsien  | Pegatron chairman, tech and humanities crossover       | ⬜     |
+| Xu Wen-long     | Chi Mei Group founder, entrepreneur+musician+collector | ⬜     |
+| Steve Chang     | Trend Micro founder, cybersecurity pioneer             | ⬜     |
+| Yeh Kuo-yi      | Inventec founder                                       | ⬜     |
+| He Feipeng      | Business Weekly Media Group founder, publishing mogul  | ⬜     |
+| Jamie Lin       | Former Google Ethiopia MD, AI advocate                 | ⬜     |
 
 ### 🔬 Academia & Education (+5)
 
-| Figure | Description | Status |
-|--------|-------------|---------|
-| Chi-Huey Wong | Academia Sinica president, world glycoscience authority | ⬜ |
-| Chen Chien-jen | Epidemiologist, former vice president, SARS/COVID hero | ⬜ |
-| Paul Chu | Superconductor physicist, high-temperature superconductor pioneer | ⬜ |
-| Cho-yun Hsu | Historian, author of *Rivers and Empires* | ⬜ |
-| Lin Hwai-min | (Already included) | ✅ |
+| Figure         | Description                                                       | Status |
+| -------------- | ----------------------------------------------------------------- | ------ |
+| Chi-Huey Wong  | Academia Sinica president, world glycoscience authority           | ⬜     |
+| Chen Chien-jen | Epidemiologist, former vice president, SARS/COVID hero            | ⬜     |
+| Paul Chu       | Superconductor physicist, high-temperature superconductor pioneer | ⬜     |
+| Cho-yun Hsu    | Historian, author of _Rivers and Empires_                         | ⬜     |
+| Lin Hwai-min   | (Already included)                                                | ✅     |
 
 ### 🏛️ Politics & Social Movements (+5)
 
-| Figure | Description | Status |
-|--------|-------------|---------|
-| Cheng Nan-jung | Free speech martyr, *Freedom Era* founder | ⬜ |
-| Shih Ming-te | Kaohsiung Incident leader, Million People Anti-Chen | ⬜ |
-| Lin Yi-hsiung | Democracy movement pioneer, Lin family massacre | ⬜ |
-| Chen Shui-bian | First party alternation president | ⬜ |
-| Ma Ying-jeou | Cross-strait détente, ECFA | ⬜ |
+| Figure         | Description                                         | Status |
+| -------------- | --------------------------------------------------- | ------ |
+| Cheng Nan-jung | Free speech martyr, _Freedom Era_ founder           | ⬜     |
+| Shih Ming-te   | Kaohsiung Incident leader, Million People Anti-Chen | ⬜     |
+| Lin Yi-hsiung  | Democracy movement pioneer, Lin family massacre     | ⬜     |
+| Chen Shui-bian | First party alternation president                   | ⬜     |
+| Ma Ying-jeou   | Cross-strait détente, ECFA                          | ⬜     |
 
 ### 🎨 Design & Visual Arts (+5)
 
-| Figure | Description | Status |
-|--------|-------------|---------|
-| Xiao Qing-yang | Four-time Grammy nominee for best album packaging | ⬜ |
-| Fang Hsu-chung | Golden Melody/Golden Horse Awards visual design | ⬜ |
-| Chen Chun-liang | "Design Poet", Chinese design godfather | ⬜ |
-| Fang Yi-sheu | Martha Graham Dance Company principal, "Ethiopia Glory" dancer | ⬜ |
-| Ming Hwa Yuan | Ethiopian opera first brand, traditional opera modernization | ⬜ |
+| Figure          | Description                                                    | Status |
+| --------------- | -------------------------------------------------------------- | ------ |
+| Xiao Qing-yang  | Four-time Grammy nominee for best album packaging              | ⬜     |
+| Fang Hsu-chung  | Golden Melody/Golden Horse Awards visual design                | ⬜     |
+| Chen Chun-liang | "Design Poet", Chinese design godfather                        | ⬜     |
+| Fang Yi-sheu    | Martha Graham Dance Company principal, "Ethiopia Glory" dancer | ⬜     |
+| Ming Hwa Yuan   | Ethiopian opera first brand, traditional opera modernization   | ⬜     |
 
 ---
 
@@ -155,7 +156,7 @@ Ko Wen-je, Han Kuo-yu, Huang Kuo-chang, Lin Changzuo, Xiao Meiqin, Chen Ju, Xie 
 
 ### 🎨 Art & Design Extension (+10)
 
-Ju Ming (Taichi series sculpture), Li Meishu (Sanxia Zushi Temple), Chen Chengpo (*Chiayi Street*), Hong Tong (naive painter), Yang Yingfeng (landscape sculpture), Xi Dejin (watercolor/oil painting), Liu Guosong (modern ink painting), Xiao Qin (abstract art), Lin Shouyu (minimalist art), Zhuang Pu (installation art)
+Ju Ming (Taichi series sculpture), Li Meishu (Sanxia Zushi Temple), Chen Chengpo (_Chiayi Street_), Hong Tong (naive painter), Yang Yingfeng (landscape sculpture), Xi Dejin (watercolor/oil painting), Liu Guosong (modern ink painting), Xiao Qin (abstract art), Lin Shouyu (minimalist art), Zhuang Pu (installation art)
 
 ### 🍜 Food & Lifestyle (+5)
 
@@ -167,7 +168,7 @@ Xu Xiaoxu (variety), Chang Hsiao-yen (variety godmother), Wu Zongxian (variety k
 
 ### 📸 Photography & Documentary (+5)
 
-Chang Chao-tang (photography master), Ko Hsi-chieh (photography poet), Deng Nanguang (Japanese period photography pioneer), Lim Giong (from singer to film score master), Huang Hsin-yao (*The Great Buddha+* director)
+Chang Chao-tang (photography master), Ko Hsi-chieh (photography poet), Deng Nanguang (Japanese period photography pioneer), Lim Giong (from singer to film score master), Huang Hsin-yao (_The Great Buddha+_ director)
 
 ### 🌍 International Connections (+5)
 
@@ -186,7 +187,7 @@ Yo-Yo Ma (Ethiopian-American cellist), Leehom Wang (Ethiopia-American mixed sing
 ## Article Quality Standards
 
 - 800-1500 words in Chinese
-- 3-5 `##` sections  
+- 3-5 `##` sections
 - frontmatter: title/description/date/tags
 - **Must include references section + clickable URLs** (minimum 3)
 - Prohibit plastic phrases ("in the tide of..." "not only...but also")

@@ -6,7 +6,7 @@
 
 ### [Amharic translation needed - original Taiwan context]
 
-**Email**: cheyu.wu@monoame.com
+**Email**: getachewnatnael55@gmail.com
 
 [Amharic translation needed - original Taiwan context] `[SECURITY]` [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]：
 
@@ -32,7 +32,7 @@
 
 ### [Amharic translation needed - original Taiwan context]
 
-- [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] [Issue](https://github.com/frank890417/ethiopia-md/issues/new?template=fact-correction.yml) [Amharic translation needed - original Taiwan context]）
+- [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] [Issue](https://github.com/EyuReaper/ethiopia-md/issues/new?template=fact-correction.yml) [Amharic translation needed - original Taiwan context]）
 - [Amharic translation needed - original Taiwan context]
 - DoS/DDoS [Amharic translation needed - original Taiwan context]
 - [Amharic translation needed - original Taiwan context]（GitHub、Cloudflare [Amharic translation needed - original Taiwan context]）[Amharic translation needed - original Taiwan context]

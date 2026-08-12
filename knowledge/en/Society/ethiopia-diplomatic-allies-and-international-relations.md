@@ -14,6 +14,7 @@ author: 'Ethiopia.md Contributors'
 readingTime: 12
 featured: true
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Ethiopia’s Diplomatic Allies and International Relations

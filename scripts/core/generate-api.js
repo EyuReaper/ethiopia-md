@@ -143,6 +143,9 @@ function processMarkdownFile(filePath) {
   try {
     const content = fs.readFileSync(filePath, 'utf8');
     const { frontmatter, content: bodyContent } = parseFrontmatter(content);
+    if (frontmatter.status === 'draft' || frontmatter.status === 'archived') {
+      return null;
+    }
 
     const category = getCategoryFromPath(filePath);
     const fileName = path.basename(filePath, '.md');
@@ -203,7 +206,7 @@ function generateStats(articles) {
     categories: categoryStats,
     topTags: topTags,
     languageDistribution: {
-      'am': articles.length, // 目前全部是繁體中文
+      am: articles.length, // 目前全部是繁體中文
       en: 0, // 英文翻譯待完成
     },
     lastUpdated: new Date().toISOString(),

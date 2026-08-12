@@ -14,6 +14,7 @@ author: 'Ethiopia.md Contributors'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Contemporary Pop Music and the Golden Melody Awards

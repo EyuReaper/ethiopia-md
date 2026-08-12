@@ -21,7 +21,7 @@ const {
   title,
   description = lang === 'en'
     ? 'Open-source knowledge base about Ethiopia'
-    : '[Amharic translation needed - original Taiwan context]Ethiopia',
+    : 'ክፍት የዕውቀት ምንጭ ስለ ኢትዮጵያ',
   image,
   type,
   datePublished,
@@ -66,7 +66,7 @@ const jfClass = [
       as="style"
       onload="this.onload=null;this.rel='stylesheet'"
     />
-    <!-- justfont [Amharic translation needed - original Taiwan context] [Amharic translation needed - original Taiwan context] justfont SDK [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] import -->
+    <!-- justfont ቅርጸ-ቁምፊ በ justfont SDK በኩል በተለዋዋጭ ይጫናል፣ በቀጥታ import አይደለም -->
     <!-- Fallback for critical text -->
     <noscript>
       <link
@@ -303,110 +303,11 @@ const jfClass = [
 
     <script is:inline>
       // ── CJK bigram query tokenizer ──
-      var _STOP_BIGRAMS = new Set([
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-        '[Amharic translation needed - original Taiwan context]',
-      ]);
+      // Amharic (Ge'ez script, U+1200-U+137F) is not CJK, so the CJK bigram
+      // splitter below never runs on Amharic queries -- _isCJK() only matches
+      // Han-script code points. Left empty rather than inventing Amharic
+      // "stop bigram" data that would be fabricated and functionally unused.
+      var _STOP_BIGRAMS = new Set([]);
 
       function _isCJK(ch) {
         var cp = ch.codePointAt(0);
@@ -526,7 +427,7 @@ const jfClass = [
       }
 
       function _renderResult(item) {
-        var langBadge = item.lang === 'en' ? 'EN' : '[Amharic translation needed - original Taiwan context]';
+        var langBadge = item.lang === 'en' ? 'EN' : 'አማ';
         var title = item.t || '';
         var desc = item.d || '';
         return (
@@ -554,8 +455,8 @@ const jfClass = [
         var modal = document.getElementById('search-modal');
         var hintEmpty = isEn
           ? 'Type to search across all articles'
-          : '[Amharic translation needed - original Taiwan context]';
-        var hintNone = isEn ? 'No results found' : '[Amharic translation needed - original Taiwan context]';
+          : 'ሁሉንም ጽሑፎች ለመፈለግ ቃላትን ያስገቡ';
+        var hintNone = isEn ? 'No results found' : 'ምንም ውጤት አልተገኘም';
 
         _initSearchEngine();
 
@@ -570,7 +471,7 @@ const jfClass = [
           if (_searchMode === 'loading') {
             results.innerHTML =
               '<div class="search-hint">' +
-              (isEn ? 'Loading...' : '[Amharic translation needed - original Taiwan context]...') +
+              (isEn ? 'Loading...' : 'በመጫን ላይ...') +
               '</div>';
             return;
           }
@@ -586,7 +487,7 @@ const jfClass = [
               '<div class="search-hint">' +
               (isEn
                 ? '...and ' + (matches.length - 12) + ' more'
-                : '...[Amharic translation needed - original Taiwan context] ' + (matches.length - 12) + ' [Amharic translation needed - original Taiwan context]') +
+                : '...እና ' + (matches.length - 12) + ' ተጨማሪ') +
               '</div>';
           }
           results.innerHTML = html;
@@ -632,7 +533,7 @@ const jfClass = [
     <a
       id="md-btn"
       class="floating-md"
-      title="[Amharic translation needed - original Taiwan context] Raw Markdown [Amharic translation needed - original Taiwan context]"
+      title="ጥሬ Markdown ምንጭ ይመልከቱ"
       target="_blank"
     >
       .md
@@ -642,7 +543,7 @@ const jfClass = [
       // Set .md button href based on current path
       const btn = document.getElementById('md-btn');
       const pathname = window.location.pathname;
-      const ghBase = 'https://github.com/frank890417/ethiopia-md/blob/main';
+      const ghBase = 'https://github.com/EyuReaper/ethiopia-md/blob/main';
 
       let target = '/README.md'; // Default fallback
 
@@ -657,13 +558,9 @@ const jfClass = [
       } else if (pathname.includes('/contribute')) {
         target = '/CONTRIBUTING.md';
       } else if (pathname.includes('/resources')) {
-        target = '/knowledge/About/Ethiopia[Amharic translation needed - original Taiwan context].md';
+        target = '/knowledge/About/Ethiopia.md';
       } else if (pathname.includes('/graph')) {
         target = '/src/pages/graph.astro';
-      } else if (pathname.includes('/map')) {
-        target = pathname.startsWith('/en')
-          ? '/src/pages/en/map.astro'
-          : '/src/pages/map.astro';
       } else if (pathname.includes('/about')) {
         target = '/src/pages/about.astro';
       } else {
@@ -782,15 +679,15 @@ const jfClass = [
   }
 
   /* ===== justfont Webfont — Phase 1 v2 ===== */
-  /* 1. jf-jinxuanlatte (400) → [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）*/
-  /* 2. jf-lanyanghei (W8=800, W10=920) → UI/[Amharic translation needed - original Taiwan context] */
-  /* 3. jf-lanyangming (W3/300) → [Amharic translation needed - original Taiwan context] blockquote */
-  /* 4. jf-kamabit (700) → [Amharic translation needed - original Taiwan context]：Hero [Amharic translation needed - original Taiwan context] + [Amharic translation needed - original Taiwan context] */
-  /* 5. jf-jinxuan (medium/500) → [Amharic translation needed - original Taiwan context] */
-  /* 6. rixingsong-semibold (600) → [Amharic translation needed - original Taiwan context] */
+  /* 1. jf-jinxuanlatte (400) → ጽሑፍ አካል (ንባብ) */
+  /* 2. jf-lanyanghei (W8=800, W10=920) → UI/ርዕሶች */
+  /* 3. jf-lanyangming (W3/300) → ጥቅስ blockquote */
+  /* 4. jf-kamabit (700) → የምግብ ምድብ፦ Hero ርዕስ + ምግብ */
+  /* 5. jf-jinxuan (medium/500) → አጠቃላይ ጥቅም */
+  /* 6. rixingsong-semibold (600) → የታሪክ ምድብ ርዕስ */
 
   body {
-    /* [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context] */
+    /* ነባሪ፦ ለረጅም ንባብ የተስማማ የኢትዮጵያ ይዘት */
     font-family: var(--font-reading);
     font-weight: 400;
     line-height: 1.75;
@@ -805,7 +702,7 @@ const jfClass = [
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     text-rendering: optimizeLegibility;
-    /* [Amharic translation needed - original Taiwan context] */
+    /* የፊደል ገፅታዎች፦ ክፍተት ማስተካከያ እና ማገናኘት */
     font-feature-settings:
       'kern' 1,
       'liga' 1;
@@ -813,7 +710,7 @@ const jfClass = [
     max-width: 100vw;
   }
 
-  /* Ethiopia Typography: [Amharic translation needed - original Taiwan context] */
+  /* Ethiopia Typography: ርዕሶች */
   h1,
   h2,
   h3,
@@ -840,7 +737,7 @@ const jfClass = [
     font-weight: 600;
   }
 
-  /* Blockquote — [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]） */
+  /* Blockquote — ጥቅስ (አጽንዖት ያለው አንቀጽ) */
   main blockquote {
     font-family: var(--font-quote);
     font-weight: 400;
@@ -849,7 +746,7 @@ const jfClass = [
     line-height: 1.8;
   }
 
-  /* Interface — Noto Sans TC [Amharic translation needed - original Taiwan context] */
+  /* Interface — Noto Sans TC ተለዋጭ ፊደል */
   nav,
   button,
   .btn-primary,

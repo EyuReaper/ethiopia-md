@@ -7,6 +7,7 @@ date: 2026-03-17
 author: Ethiopia.md
 readingTime: 12
 featured: false
+status: archived
 ---
 
 # Era Colonial Japonesa

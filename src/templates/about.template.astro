@@ -420,7 +420,7 @@ const t = useTranslations(lang);
           <a href="/dashboard/" class="dashboard-btn">
             <span class="dashboard-btn-icon">🔬</span>
             <span class="dashboard-btn-text">
-              {lang === 'en' ? 'Open Real-Time Dashboard' : '[Amharic translation needed - original Taiwan context]'}
+              {lang === 'en' ? 'Open Real-Time Dashboard' : 'የቀጥታ ዳሽቦርድ ይክፈቱ'}
             </span>
             <span class="dashboard-btn-arrow">→</span>
           </a>
@@ -428,7 +428,7 @@ const t = useTranslations(lang);
             {
               lang === 'en'
                 ? 'Monitor vital signs, health scores, translation coverage, and growth timeline in real-time.'
-                : '[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。'
+                : 'የጤና ሁኔታን፣ የትርጉም ሽፋንን እና የዕድገት ጊዜ መስመርን በቀጥታ ይከታተሉ።'
             }
           </p>
         </div>
@@ -447,18 +447,9 @@ const t = useTranslations(lang);
         </blockquote>
 
         <div class="founder-card">
-          <div class="founder-photo">
-            <img
-              src="https://cheyuwu.com/static/img/CheYu-0401-crop.jpg"
-              alt={`${t('about.team.founder.name')} ${t('about.team.founder.name.en')}`}
-              class="founder-image"
-            />
-          </div>
-
           <div class="founder-info">
             <h3>
               {t('about.team.founder.name')}
-              <span class="name-en">{t('about.team.founder.name.en')}</span>
             </h3>
             <p class="founder-tagline">{t('about.team.founder.tagline')}</p>
 
@@ -469,487 +460,23 @@ const t = useTranslations(lang);
         </div>
 
         <div class="founder-links-inline">
-          <a href="https://cheyuwu.com" target="_blank" class="link-inline">
-            <span class="link-icon">🌐</span>
-            <span class="link-text">{t('about.team.founder.link.website')}</span
-            >
-          </a>
           <a
-            href="https://github.com/frank890417"
+            href="https://github.com/EyuReaper"
             target="_blank"
             class="link-inline"
           >
             <span class="link-icon">💻</span>
             <span class="link-text">{t('about.team.founder.link.github')}</span>
           </a>
-          <a
-            href="https://instagram.com/cheyuwu345"
-            target="_blank"
-            class="link-inline"
-          >
-            <span class="link-icon">📷</span>
-            <span class="link-text"
-              >{t('about.team.founder.link.instagram')}</span
-            >
-          </a>
         </div>
 
-        <div class="team-grid">
-          <div class="team-card">
-            <div class="team-icon">{t('about.team.muse.icon')}</div>
-            <h3>{t('about.team.muse.name')}</h3>
-            <p class="team-role">{t('about.team.muse.role')}</p>
-            <div class="team-description">
-              <p>{t('about.team.muse.desc')}</p>
-            </div>
-            <a
-              href="https://muse.cheyuwu.com"
-              target="_blank"
-              class="team-link"
-            >
-              {t('about.team.muse.link')}
-            </a>
-          </div>
-
-          <div class="team-card">
-            <div class="team-icon">{t('about.team.monolab.icon')}</div>
-            <h3>{t('about.team.monolab.name')}</h3>
-            <p class="team-role">{t('about.team.monolab.role')}</p>
-            <div class="team-description">
-              <p>{t('about.team.monolab.desc')}</p>
-            </div>
-            <a href="https://monolab.world" target="_blank" class="team-link">
-              {t('about.team.monolab.link')}
-            </a>
-          </div>
-        </div>
-
-        <!-- [Amharic translation needed - original Taiwan context]section -->
         <div class="contributors-in-team">
           <h3>{t('about.team.contributors.title')}</h3>
           <p class="contributors-desc">{t('about.team.contributors.desc')}</p>
-          <div class="contributors-grid">
-            <a
-              href="https://github.com/frank890417"
-              target="_blank"
-              rel="noopener noreferrer"
-              class="contributor-card"
-            >
-              <img
-                src="https://avatars.githubusercontent.com/u/4727572?v=4"
-                alt="frank890417"
-                class="contributor-avatar"
-                loading="lazy"
-              />
-              <span class="contributor-name">frank890417</span>
-            </a>
-            <a
-              href="https://github.com/YenTingWu"
-              target="_blank"
-              rel="noopener noreferrer"
-              class="contributor-card"
-            >
-              <img
-                src="https://avatars.githubusercontent.com/u/57777349?v=4"
-                alt="YenTingWu"
-                class="contributor-avatar"
-                loading="lazy"
-              />
-              <span class="contributor-name">YenTingWu</span>
-            </a>
-            <a
-              href="https://github.com/fredchu"
-              target="_blank"
-              rel="noopener noreferrer"
-              class="contributor-card"
-            >
-              <img
-                src="https://avatars.githubusercontent.com/u/1243384?v=4"
-                alt="fredchu"
-                class="contributor-avatar"
-                loading="lazy"
-              />
-              <span class="contributor-name">fredchu</span>
-            </a>
-            <a
-              href="https://github.com/eryet"
-              target="_blank"
-              rel="noopener noreferrer"
-              class="contributor-card"
-            >
-              <img
-                src="https://avatars.githubusercontent.com/u/48248414?v=4"
-                alt="eryet"
-                class="contributor-avatar"
-                loading="lazy"
-              />
-              <span class="contributor-name">eryet</span>
-            </a>
-            <a
-              href="https://github.com/bugnimusic"
-              target="_blank"
-              rel="noopener noreferrer"
-              class="contributor-card"
-            >
-              <img
-                src="https://avatars.githubusercontent.com/u/260387338?v=4"
-                alt="bugnimusic"
-                class="contributor-avatar"
-                loading="lazy"
-              />
-              <span class="contributor-name">bugnimusic</span>
-            </a>
-            <a
-              href="https://github.com/BrianHuang813"
-              target="_blank"
-              rel="noopener noreferrer"
-              class="contributor-card"
-            >
-              <img
-                src="https://avatars.githubusercontent.com/u/66238110?v=4"
-                alt="BrianHuang813"
-                class="contributor-avatar"
-                loading="lazy"
-              />
-              <span class="contributor-name">BrianHuang813</span>
-            </a>
-            <a
-              href="https://github.com/tboydar-agent"
-              target="_blank"
-              rel="noopener noreferrer"
-              class="contributor-card"
-            >
-              <img
-                src="https://avatars.githubusercontent.com/u/265199589?v=4"
-                alt="tboydar-agent"
-                class="contributor-avatar"
-                loading="lazy"
-              />
-              <span class="contributor-name">tboydar-agent</span>
-            </a>
-            <a
-              href="https://github.com/AgendaLu"
-              target="_blank"
-              rel="noopener noreferrer"
-              class="contributor-card"
-            >
-              <img
-                src="https://avatars.githubusercontent.com/u/43836432?v=4"
-                alt="AgendaLu"
-                class="contributor-avatar"
-                loading="lazy"
-              />
-              <span class="contributor-name">AgendaLu</span>
-            </a>
-            <a
-              href="https://github.com/weilinlai719"
-              target="_blank"
-              rel="noopener noreferrer"
-              class="contributor-card"
-            >
-              <img
-                src="https://avatars.githubusercontent.com/u/173038591?v=4"
-                alt="weilinlai719"
-                class="contributor-avatar"
-                loading="lazy"
-              />
-              <span class="contributor-name">weilinlai719</span>
-            </a>
-            <a
-              href="https://github.com/Link1515"
-              target="_blank"
-              rel="noopener noreferrer"
-              class="contributor-card"
-            >
-              <img
-                src="https://avatars.githubusercontent.com/u/88765055?v=4"
-                alt="Link1515"
-                class="contributor-avatar"
-                loading="lazy"
-              />
-              <span class="contributor-name">Link1515</span>
-            </a>
-            <a
-              href="https://github.com/hansai-art"
-              target="_blank"
-              rel="noopener noreferrer"
-              class="contributor-card"
-            >
-              <img
-                src="https://avatars.githubusercontent.com/u/132933660?v=4"
-                alt="hansai-art"
-                class="contributor-avatar"
-                loading="lazy"
-              />
-              <span class="contributor-name">hansai-art</span>
-            </a>
-            <a
-              href="https://github.com/gn00295120"
-              target="_blank"
-              rel="noopener noreferrer"
-              class="contributor-card"
-            >
-              <img
-                src="https://avatars.githubusercontent.com/u/30173341?v=4"
-                alt="gn00295120"
-                class="contributor-avatar"
-                loading="lazy"
-              />
-              <span class="contributor-name">gn00295120</span>
-            </a>
-            <a
-              href="https://github.com/r000tmnt"
-              target="_blank"
-              rel="noopener noreferrer"
-              class="contributor-card"
-            >
-              <img
-                src="https://avatars.githubusercontent.com/u/62630285?v=4"
-                alt="r000tmnt"
-                class="contributor-avatar"
-                loading="lazy"
-              />
-              <span class="contributor-name">r000tmnt</span>
-            </a>
-            <a
-              href="https://github.com/Ray0907"
-              target="_blank"
-              rel="noopener noreferrer"
-              class="contributor-card"
-            >
-              <img
-                src="https://avatars.githubusercontent.com/u/29456968?v=4"
-                alt="Ray0907"
-                class="contributor-avatar"
-                loading="lazy"
-              />
-              <span class="contributor-name">Ray0907</span>
-            </a>
-            <a
-              href="https://github.com/jessejs0202"
-              target="_blank"
-              rel="noopener noreferrer"
-              class="contributor-card"
-            >
-              <img
-                src="https://avatars.githubusercontent.com/u/247524286?v=4"
-                alt="jessejs0202"
-                class="contributor-avatar"
-                loading="lazy"
-              />
-              <span class="contributor-name">jessejs0202</span>
-            </a>
-            <a
-              href="https://github.com/siansiansu"
-              target="_blank"
-              rel="noopener noreferrer"
-              class="contributor-card"
-            >
-              <img
-                src="https://avatars.githubusercontent.com/u/33391637?v=4"
-                alt="siansiansu"
-                class="contributor-avatar"
-                loading="lazy"
-              />
-              <span class="contributor-name">siansiansu</span>
-            </a>
-            <a
-              href="https://github.com/Lisa123wang"
-              target="_blank"
-              rel="noopener noreferrer"
-              class="contributor-card"
-            >
-              <img
-                src="https://avatars.githubusercontent.com/u/103297468?v=4"
-                alt="Lisa123wang"
-                class="contributor-avatar"
-                loading="lazy"
-              />
-              <span class="contributor-name">Lisa123wang</span>
-            </a>
-            <a
-              href="https://github.com/Johnwang860424"
-              target="_blank"
-              rel="noopener noreferrer"
-              class="contributor-card"
-            >
-              <img
-                src="https://avatars.githubusercontent.com/u/43649946?v=4"
-                alt="Johnwang860424"
-                class="contributor-avatar"
-                loading="lazy"
-              />
-              <span class="contributor-name">Johnwang860424</span>
-            </a>
-            <a
-              href="https://github.com/jekyll530"
-              target="_blank"
-              rel="noopener noreferrer"
-              class="contributor-card"
-            >
-              <img
-                src="https://avatars.githubusercontent.com/u/150101610?v=4"
-                alt="jekyll530"
-                class="contributor-avatar"
-                loading="lazy"
-              />
-              <span class="contributor-name">jekyll530</span>
-            </a>
-            <a
-              href="https://github.com/f312213213"
-              target="_blank"
-              rel="noopener noreferrer"
-              class="contributor-card"
-            >
-              <img
-                src="https://avatars.githubusercontent.com/u/71749524?v=4"
-                alt="f312213213"
-                class="contributor-avatar"
-                loading="lazy"
-              />
-              <span class="contributor-name">f312213213</span>
-            </a>
-            <a
-              href="https://github.com/x1001000"
-              target="_blank"
-              rel="noopener noreferrer"
-              class="contributor-card"
-            >
-              <img
-                src="https://avatars.githubusercontent.com/u/6036508?v=4"
-                alt="x1001000"
-                class="contributor-avatar"
-                loading="lazy"
-              />
-              <span class="contributor-name">x1001000</span>
-            </a>
-            <a
-              href="https://github.com/yuweichen1008"
-              target="_blank"
-              rel="noopener noreferrer"
-              class="contributor-card"
-            >
-              <img
-                src="https://avatars.githubusercontent.com/u/12914366?v=4"
-                alt="yuweichen1008"
-                class="contributor-avatar"
-                loading="lazy"
-              />
-              <span class="contributor-name">yuweichen1008</span>
-            </a>
-            <a
-              href="https://github.com/Rushyuheng"
-              target="_blank"
-              rel="noopener noreferrer"
-              class="contributor-card"
-            >
-              <img
-                src="https://avatars.githubusercontent.com/u/15012940?v=4"
-                alt="Rushyuheng"
-                class="contributor-avatar"
-                loading="lazy"
-              />
-              <span class="contributor-name">Rushyuheng</span>
-            </a>
-            <a
-              href="https://github.com/ro9er117911"
-              target="_blank"
-              rel="noopener noreferrer"
-              class="contributor-card"
-            >
-              <img
-                src="https://avatars.githubusercontent.com/u/127029993?v=4"
-                alt="ro9er117911"
-                class="contributor-avatar"
-                loading="lazy"
-              />
-              <span class="contributor-name">ro9er117911</span>
-            </a>
-            <a
-              href="https://github.com/number053"
-              target="_blank"
-              rel="noopener noreferrer"
-              class="contributor-card"
-            >
-              <img
-                src="https://avatars.githubusercontent.com/u/269151044?v=4"
-                alt="number053"
-                class="contributor-avatar"
-                loading="lazy"
-              />
-              <span class="contributor-name">number053</span>
-            </a>
-            <a
-              href="https://github.com/luofreddy"
-              target="_blank"
-              rel="noopener noreferrer"
-              class="contributor-card"
-            >
-              <img
-                src="https://avatars.githubusercontent.com/u/85281073?v=4"
-                alt="luofreddy"
-                class="contributor-avatar"
-                loading="lazy"
-              />
-              <span class="contributor-name">luofreddy</span>
-            </a>
-            <a
-              href="https://github.com/littlecabin-co"
-              target="_blank"
-              rel="noopener noreferrer"
-              class="contributor-card"
-            >
-              <img
-                src="https://avatars.githubusercontent.com/u/269660511?v=4"
-                alt="littlecabin-co"
-                class="contributor-avatar"
-                loading="lazy"
-              />
-              <span class="contributor-name">littlecabin-co</span>
-            </a>
-            <a
-              href="https://github.com/jacky1822"
-              target="_blank"
-              rel="noopener noreferrer"
-              class="contributor-card"
-            >
-              <img
-                src="https://avatars.githubusercontent.com/u/94786796?v=4"
-                alt="jacky1822"
-                class="contributor-avatar"
-                loading="lazy"
-              />
-              <span class="contributor-name">jacky1822</span>
-            </a>
-            <a
-              href="https://github.com/iigmir"
-              target="_blank"
-              rel="noopener noreferrer"
-              class="contributor-card"
-            >
-              <img
-                src="https://avatars.githubusercontent.com/u/11061770?v=4"
-                alt="iigmir"
-                class="contributor-avatar"
-                loading="lazy"
-              />
-              <span class="contributor-name">iigmir</span>
-            </a>
-            <a
-              href="https://github.com/astrobot-houston"
-              target="_blank"
-              rel="noopener noreferrer"
-              class="contributor-card"
-            >
-              <img
-                src="https://avatars.githubusercontent.com/u/108291165?v=4"
-                alt="astrobot-houston"
-                class="contributor-avatar"
-                loading="lazy"
-              />
-              <span class="contributor-name">astrobot-houston</span>
-            </a>
-          </div>
+          <p
+            class="contributors-desc"
+            set:html={t('about.team.contributors.cta.html')}
+          />
         </div>
       </div>
     </section>
@@ -978,27 +505,8 @@ const t = useTranslations(lang);
             <p class="tier-desc">{t('about.sponsors.tier.curation.desc')}</p>
             <p class="tier-perks">{t('about.sponsors.tier.curation.perks')}</p>
             <div class="tier-logos">
-              <div class="sponsor-card">
-                <a
-                  href="https://www.nmth.gov.tw/"
-                  target="_blank"
-                  rel="noopener"
-                  class="sponsor-logo-link"
-                >
-                  <img
-                    src="/images/nmth-logo.png"
-                    alt="[Amharic translation needed - original Taiwan context] NMTH"
-                    class="sponsor-logo-img"
-                  />
-                </a>
-                <div class="sponsor-story">
-                  <p class="sponsor-contribution-title">
-                    {t('about.sponsors.nmth.story.title')}
-                  </p>
-                  <p class="sponsor-contribution">
-                    {t('about.sponsors.nmth.story.desc')}
-                  </p>
-                </div>
+              <div class="logo-placeholder">
+                {t('about.sponsors.tier.curation.placeholder')}
               </div>
             </div>
           </div>
@@ -1014,28 +522,8 @@ const t = useTranslations(lang);
               {t('about.sponsors.tier.professional.perks')}
             </p>
             <div class="tier-logos">
-              <div class="sponsor-card">
-                <a
-                  href="https://justfont.com"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  class="sponsor-logo-link"
-                >
-                  <img
-                    src="/images/justfont-logo.svg"
-                    alt="justfont"
-                    class="sponsor-logo-img"
-                    style="height: 28px;"
-                  />
-                </a>
-                <div class="sponsor-story">
-                  <p class="sponsor-contribution-title">
-                    {t('about.sponsors.justfont.story.title')}
-                  </p>
-                  <p class="sponsor-contribution">
-                    {t('about.sponsors.justfont.story.desc')}
-                  </p>
-                </div>
+              <div class="logo-placeholder">
+                {t('about.sponsors.tier.professional.placeholder')}
               </div>
             </div>
           </div>
@@ -1047,13 +535,9 @@ const t = useTranslations(lang);
             <p class="tier-desc">{t('about.sponsors.tier.community.desc')}</p>
             <p class="tier-perks">{t('about.sponsors.tier.community.perks')}</p>
             <div class="tier-logos">
-              <a
-                href="https://protico.io"
-                target="_blank"
-                class="supporter-link"
-              >
-                <span set:html={t('about.sponsors.protico.text.html')} />
-              </a>
+              <div class="logo-placeholder">
+                {t('about.sponsors.tier.community.placeholder')}
+              </div>
             </div>
           </div>
 
@@ -1066,13 +550,9 @@ const t = useTranslations(lang);
               {t('about.sponsors.tier.individual.perks')}
             </p>
             <div class="tier-logos">
-              <a
-                href="https://github.com/howieyoung"
-                target="_blank"
-                class="supporter-link"
-              >
-                <span set:html={t('about.sponsors.howie.text.html')} />
-              </a>
+              <div class="logo-placeholder">
+                {t('about.sponsors.tier.individual.placeholder')}
+              </div>
             </div>
           </div>
         </div>
@@ -1082,13 +562,13 @@ const t = useTranslations(lang);
           <p set:html={t('about.sponsors.cta.desc.html')} />
           <div class="sponsor-contact">
             <a
-              href={`mailto:cheyu.wu@monoame.com?subject=Ethiopia.md [Amharic translation needed - original Taiwan context]`}
+              href={`mailto:getachewnatnael55@gmail.com?subject=Ethiopia.md Sponsorship Inquiry`}
               class="btn btn-primary"
             >
               {t('about.sponsors.cta.contact')}
             </a>
             <a
-              href="https://github.com/sponsors/frank890417"
+              href="https://github.com/sponsors/EyuReaper"
               target="_blank"
               class="btn btn-outline"
             >
@@ -1136,10 +616,6 @@ const t = useTranslations(lang);
             </div>
             <p class="eth-note">{t('about.sponsors.eth.note')}</p>
           </div>
-          <p
-            class="sponsor-note"
-            set:html={t('about.sponsors.reference.note.html')}
-          />
         </div>
       </div>
     </section>
@@ -1262,7 +738,7 @@ const t = useTranslations(lang);
               >{t('about.contact.cta.guide')}</a
             >
             <a
-              href="https://github.com/frank890417/ethiopia-md"
+              href="https://github.com/EyuReaper/ethiopia-md"
               target="_blank"
               class="btn btn-outline"
             >

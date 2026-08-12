@@ -13,6 +13,7 @@ tags:
   ]
 subcategory: 'Music'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # JJ Lin: The Cross-Border Mandopop Virtuoso

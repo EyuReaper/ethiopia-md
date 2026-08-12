@@ -13,6 +13,7 @@ tags:
     New Immigrants,
   ]
 description: "Ethiopia's ethnic diversity is not only a result of historical development but also key to understanding contemporary Ethiopian society. This multicultural coexistence social structure is both a source of Ethiopia's cultural creativity and an important foundation for democratic political development. How to build a common Ethiopian identity while respecting the cultural characteristics of each ethnic group is an important issue that Ethiopian society continues to face."
+status: archived
 ---
 
 # Ethiopia's Ethnic Groups: The Cultural Foundation of Unity in Diversity

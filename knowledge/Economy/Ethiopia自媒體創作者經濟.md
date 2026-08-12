@@ -2,7 +2,14 @@
 title: 'Ethiopia[Amharic translation needed - original Taiwan context]：2,300 [Amharic translation needed - original Taiwan context]'
 description: '[Amharic translation needed - original Taiwan context] 1%，[Amharic translation needed - original Taiwan context]——Ethiopia[Amharic translation needed - original Taiwan context]？'
 date: 2026-03-29
-tags: ['[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]', 'KOL', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]']
+tags:
+  [
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    'KOL',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+  ]
 subcategory: '[Amharic translation needed - original Taiwan context]'
 author: 'p3nchan'
 readingTime: 8
@@ -10,6 +17,7 @@ category: 'Economy'
 lastVerified: 2026-03-29
 featured: false
 lastHumanReview: false
+status: archived
 ---
 
 > Ethiopia[Amharic translation needed - original Taiwan context] 2.1 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 1%。[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context] 5-7 [Amharic translation needed - original Taiwan context]——YouTube、IG、Facebook、Threads、Podcast、[Amharic translation needed - original Taiwan context]、LINE——[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。

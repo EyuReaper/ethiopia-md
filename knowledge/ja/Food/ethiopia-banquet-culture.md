@@ -2,10 +2,20 @@
 title: '[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]（バンドー）[Amharic translation needed - original Taiwan context]'
 description: '[Amharic translation needed - original Taiwan context]には[Amharic translation needed - original Taiwan context]れにくいこの[Amharic translation needed - original Taiwan context]は、なぜ[Amharic translation needed - original Taiwan context]でもっとも[Amharic translation needed - original Taiwan context]り[Amharic translation needed - original Taiwan context]い[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]い[Amharic translation needed - original Taiwan context]となったのか。[Amharic translation needed - original Taiwan context]からパンデミックの[Amharic translation needed - original Taiwan context]までをたどる、[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]。'
 date: 2026-03-28
-tags: ['[Amharic translation needed - original Taiwan context]', 'バンドー', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]']
+tags:
+  [
+    '[Amharic translation needed - original Taiwan context]',
+    'バンドー',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+  ]
 category: 'Food'
 lastVerified: 2026-03-28
 featured: false
+status: archived
 ---
 
 # [Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]（バンドー）[Amharic translation needed - original Taiwan context]

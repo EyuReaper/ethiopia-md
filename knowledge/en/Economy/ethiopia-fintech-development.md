@@ -17,6 +17,7 @@ readingTime: 16
 featured: false
 lastVerified: 2026-03-20
 category: 'Economy'
+status: archived
 ---
 
 # FinTech Development in Ethiopia

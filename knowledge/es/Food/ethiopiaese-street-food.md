@@ -7,6 +7,7 @@ date: 2026-03-17
 author: Ethiopia.md
 readingTime: 10
 featured: false
+status: archived
 ---
 
 # Comida Callejera Ethiopiaesa

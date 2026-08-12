@@ -16,10 +16,7 @@ const safeMatter = (fileContent: string) => {
   try {
     return matter(fileContent);
   } catch {
-    const stripped = fileContent.replace(
-      /^---\s*\n[\s\S]*?\n---\s*\n/,
-      '',
-    );
+    const stripped = fileContent.replace(/^---\s*\n[\s\S]*?\n---\s*\n/, '');
     return { data: {}, content: stripped };
   }
 };
@@ -29,10 +26,7 @@ export async function getStaticPaths() {
     try {
       return matter(fileContent);
     } catch {
-      const stripped = fileContent.replace(
-        /^---\s*\n[\s\S]*?\n---\s*\n/,
-        '',
-      );
+      const stripped = fileContent.replace(/^---\s*\n[\s\S]*?\n---\s*\n/, '');
       return { data: {}, content: stripped };
     }
   };
@@ -75,6 +69,8 @@ export async function getStaticPaths() {
         const fileContent = await readFile(filePath, 'utf-8');
         const { data: frontmatter } = safeMatter(fileContent);
         const slug = basename(file, '.md');
+        if (frontmatter.status === 'draft' || frontmatter.status === 'archived')
+          continue;
 
         articles.push({
           slug,
@@ -88,7 +84,10 @@ export async function getStaticPaths() {
         });
       }
     } catch (err) {
-      console.error(`[en/category/index] Error loading "${category}":`, (err as Error).message);
+      console.error(
+        `[en/category/index] Error loading "${category}":`,
+        (err as Error).message,
+      );
     }
 
     let hubContent = '';
@@ -135,7 +134,9 @@ function resolveWikilinks(md: string, currentCategory: string) {
         .replace(/^_/, '')
         .replace(/ Hub$/, '')
         .toLowerCase();
-      return bold ? `[**${label}**](/en/${catName})` : `[${label}](/en/${catName})`;
+      return bold
+        ? `[**${label}**](/en/${catName})`
+        : `[${label}](/en/${catName})`;
     }
     const matchArticle = articles.find(
       (a: any) =>
@@ -156,9 +157,8 @@ function resolveWikilinks(md: string, currentCategory: string) {
     (_, target, display) => resolveOne(target, display, true),
   );
   // Second pass: remaining [[X]]
-  md = md.replace(
-    /\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]/g,
-    (_, target, display) => resolveOne(target, display),
+  md = md.replace(/\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]/g, (_, target, display) =>
+    resolveOne(target, display),
   );
   return md;
 }
@@ -172,8 +172,18 @@ const articleUrlSet = new Set(
   articles.map((a: any) => `/en/${category}/${a.slug}`),
 );
 const categoryKeys = Object.keys({
-  history: 1, geography: 1, culture: 1, food: 1, art: 1, music: 1,
-  technology: 1, nature: 1, people: 1, society: 1, economy: 1, lifestyle: 1,
+  history: 1,
+  geography: 1,
+  culture: 1,
+  food: 1,
+  art: 1,
+  music: 1,
+  technology: 1,
+  nature: 1,
+  people: 1,
+  society: 1,
+  economy: 1,
+  lifestyle: 1,
 });
 
 // Topic-pill link renderer for hub pages
@@ -182,7 +192,9 @@ hubRenderer.link = ({ href, title, text }) => {
   const titleAttr = title ? ` title="${title}"` : '';
   const h = href || '';
   const isArticleLink = articleUrlSet.has(decodeURIComponent(h));
-  const isCategoryLink = categoryKeys.some((k) => h === `/en/${k}` || h === `/en/${k}/`);
+  const isCategoryLink = categoryKeys.some(
+    (k) => h === `/en/${k}` || h === `/en/${k}/`,
+  );
   if (isArticleLink || isCategoryLink) {
     return `<a class="topic-pill" href="${h}"${titleAttr}>${text}</a>`;
   }
@@ -214,7 +226,9 @@ function enrichBlockquotes(html: string): string {
   );
 }
 
-const rawHubHtml = resolvedContent ? marked.parse(resolvedContent, { renderer: hubRenderer, breaks: true }) : '';
+const rawHubHtml = resolvedContent
+  ? marked.parse(resolvedContent, { renderer: hubRenderer, breaks: true })
+  : '';
 const hubHtml = enrichBlockquotes(rawHubHtml as string);
 
 const lang = getLangFromUrl(Astro.url);
@@ -223,10 +237,10 @@ const t = useTranslations(lang);
 const categoryConfigs = getCategoryConfigs(t);
 const categoryInfo = categoryConfigs[category];
 
-// [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
+// Other categories (excluding the current one)
 const otherCategories = categories
   .filter((cat) => cat !== category)
-  .slice(0, 5) // [Amharic translation needed - original Taiwan context]5[Amharic translation needed - original Taiwan context]
+  .slice(0, 5) // show top 5
   .map((cat) => ({
     key: cat,
     ...categoryConfigs[cat as CategoryKey],
@@ -299,7 +313,7 @@ const otherCategories = categories
                           )}
                           {article.lang && (
                             <span class="lang-tag">
-                              {article.lang === 'am' ? '[Amharic translation needed - original Taiwan context]' : 'EN'}
+                              {article.lang === 'am' ? 'አማ' : 'EN'}
                             </span>
                           )}
                         </div>
@@ -340,7 +354,7 @@ const otherCategories = categories
                   Back to Home
                 </a>
                 <a
-                  href="https://github.com/frank890417/ethiopia-md"
+                  href="https://github.com/EyuReaper/ethiopia-md"
                   target="_blank"
                   class="btn-secondary"
                 >
@@ -352,7 +366,7 @@ const otherCategories = categories
         )
       }
 
-      <!-- [Amharic translation needed - original Taiwan context] -->
+      <!-- Explore other categories -->
       <section class="explore-more">
         <h2 class="explore-title">Explore Other Aspects of Ethiopia</h2>
         <div class="categories-grid">
@@ -551,22 +565,38 @@ const otherCategories = categories
   /* Callout blockquotes */
   .hub-prose :global(blockquote.callout-note) {
     border-left-color: #3b82f6;
-    background: linear-gradient(to right, rgba(59, 130, 246, 0.06), transparent);
+    background: linear-gradient(
+      to right,
+      rgba(59, 130, 246, 0.06),
+      transparent
+    );
     font-style: normal;
   }
   .hub-prose :global(blockquote.callout-warning) {
     border-left-color: #f59e0b;
-    background: linear-gradient(to right, rgba(245, 158, 11, 0.06), transparent);
+    background: linear-gradient(
+      to right,
+      rgba(245, 158, 11, 0.06),
+      transparent
+    );
     font-style: normal;
   }
   .hub-prose :global(blockquote.callout-tip) {
     border-left-color: #10b981;
-    background: linear-gradient(to right, rgba(16, 185, 129, 0.06), transparent);
+    background: linear-gradient(
+      to right,
+      rgba(16, 185, 129, 0.06),
+      transparent
+    );
     font-style: normal;
   }
   .hub-prose :global(blockquote.callout-data) {
     border-left-color: #8b5cf6;
-    background: linear-gradient(to right, rgba(139, 92, 246, 0.06), transparent);
+    background: linear-gradient(
+      to right,
+      rgba(139, 92, 246, 0.06),
+      transparent
+    );
     font-style: normal;
   }
 

@@ -6,6 +6,7 @@ tags:
   [people, tung-tzu-hsien, pegatron, technology, humanities, eslite-bookstore]
 subcategory: 'Tech & Business'
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Tung Tzu-hsien ([Amharic translation needed - original Taiwan context]): The Tech-Humanist Bridge Builder

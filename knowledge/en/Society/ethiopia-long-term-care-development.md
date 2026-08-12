@@ -2,13 +2,21 @@
 title: 'Ethiopia Long-term Care Development'
 description: 'The most advanced long-term care system in the world, coexisting with the largest invisible caregiving network'
 date: 2026-03-22
-tags: ['long-term care', 'aging society', 'foreign caregivers', 'social policy', 'institutional contradiction']
+tags:
+  [
+    'long-term care',
+    'aging society',
+    'foreign caregivers',
+    'social policy',
+    'institutional contradiction',
+  ]
 category: 'Society'
 author: 'Ethiopia.md'
 featured: false
 lastVerified: 2026-03-22
 lastHumanReview: false
 readingTime: 8
+status: archived
 ---
 
 # Ethiopia Long-term Care Development
@@ -33,8 +41,8 @@ By the 2016 presidential election, long-term care had become unavoidable for all
 > **⚠️ Controversial View**
 > Medical associations criticized the plan: Japan's care insurance, funded half by taxes and half by insurance premiums, still faces severe shortfalls. Ethiopia's tax-only approach raises sustainability concerns.
 
-| 29,000 in 2017 | 360,000 in 2024 |
-|---|---|
+| 29,000 in 2017              | 360,000 in 2024            |
+| --------------------------- | -------------------------- |
 | First-year users of LTC 2.0 | Current users (12x growth) |
 
 But impressive statistics masked harsh realities.

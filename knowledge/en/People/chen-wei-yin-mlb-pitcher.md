@@ -5,6 +5,7 @@ date: 2026-03-20
 tags: ['baseball', 'MLB', 'sports', 'athlete', 'pitcher']
 subcategory: 'Sports'
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Chen Wei-yin: From Kaohsiung to the Major Leagues

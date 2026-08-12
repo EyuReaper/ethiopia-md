@@ -1,195 +1,39 @@
 ---
-title: 'Technology'
-date: 2026-03-24
-tags: [[Amharic translation needed - original Taiwan context], Hub]
-description: '[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。'
-lastVerified: 2026-03-24
-lastHumanReview: false
+title: 'ቴክኖሎጂ'
+date: '2026-08-11'
+tags: [Technology, Hub]
+description: 'ከዲጂታል ኢትዮጵያ 2030 ስትራቴጂ እስከ ቴሌብር ሞባይል ገንዘብ እና በአዲስ አበባ የሚያድገው ስታርትአፕ ምህዳር ድረስ፣ የኢትዮጵያ ቴክኖሎጂ ዘርፍ በፍጥነት እየተለወጠ ነው።'
+status: published
 ---
 
-# Ethiopia[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
+# የኢትዮጵያ ቴክኖሎጂ 💻
 
-> **30 [Amharic translation needed - original Taiwan context]：** [Amharic translation needed - original Taiwan context]（2025 [Amharic translation needed - original Taiwan context] Q3 [Amharic translation needed - original Taiwan context] 72%，Counterpoint Research [Amharic translation needed - original Taiwan context]），
-> [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]，
-> Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，
-> [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]。
+ኢትዮጵያ ባለፉት አምስት ዓመታት ውስጥ በቴክኖሎጂ ዘርፍ ጉልህ ለውጦችን አስተናግዳለች። ለአስርተ ዓመታት በመንግሥት ብቸኛ ቁጥጥር ሥር የነበረው የቴሌኮም ገበያ ውድድር ገጥሞታል፣ የሞባይል ገንዘብ አገልግሎት በሚሊዮኖች የሚቆጠሩ ዜጎችን ወደ መደበኛው የፋይናንስ ሥርዓት እያስገባ ነው፣ እንዲሁም በአዲስ አበባ የሚንቀሳቀሱ ወጣት ስታርትአፖች ከፋይናንስ ቴክኖሎጂ እስከ ግብርና ቴክኖሎጂ ድረስ አዳዲስ መፍትሔዎችን እየፈጠሩ ይገኛሉ። ይህ ገጽ የእነዚህን ለውጦች ዋና ዋና ገፅታዎች ያስቃኛል።
 
----
+## ዲጂታል ኢትዮጵያ 2030፡ ብሔራዊ ስትራቴጂው
 
-## [Amharic translation needed - original Taiwan context]
+የኢትዮጵያ መንግሥት በታኅሣሥ 2018 ዓ.ም. «ዲጂታል ኢትዮጵያ 2030» የተባለውን አዲስ የአምስት ዓመት ብሔራዊ ስትራቴጂ ይፋ አደረገ፤ ስትራቴጂው ከዚህ ቀደም ሲሠራበት የነበረውን «ዲጂታል ኢትዮጵያ 2025» ዕቅድ የሚተካ ነው። ስትራቴጂው ዲጂታል መሠረተ ልማትን ማስፋፋት፣ የሳይበር ደኅንነትን ማጠናከር፣ የፈጠራና የስራ ፈጠራ ሥራዎችን መደገፍ እንዲሁም የመንግሥት አገልግሎቶችን ወደ ዲጂታል መቀየርን ማዕከል ያደረገ ነው። በተቀመጡት ግቦች መሠረት፣ በ2030 ሰባ በመቶ የሚሆነው የሀገሪቱ ሕዝብ የዲጂታል ዕውቀት እንዲኖረው፣ ሰማንያ በመቶ የመንግሥት ሠራተኞች በዲጂታል ክህሎት እንዲሠለጥኑ፣ እንዲሁም አሥር ሚሊዮን ዜጎች መደበኛ የዲጂታል ሥልጠና እንዲወስዱ ታቅዷል። መንግሥት ይህ ዘርፍ አንድ ሚሊዮን አዳዲስ የሥራ ዕድሎችን እንደሚፈጥርና የሀገሪቱን አጠቃላይ ምርት (ጂዲፒ) አሥራ ሁለት በመቶ እንደሚያዋጣ ተስፋ ያደርጋል። ስትራቴጂው በተጨማሪም አምስት ጅ (5G) ኢንተርኔት ወደ መቶ ከተሞችና የገጠር አካባቢዎች ዘጠና በመቶ ሽፋን እንዲደርስ እንዲሁም የሞባይል ተጠቃሚዎች ቁጥር በ2030 ወደ 128 ሚሊዮን እንዲያድግ ግብ ይዟል። ዓለም አቀፉ የልማት ማኅበር (IDA) ለዚህ ጥረት 314.9 ሚሊዮን ዶላር የገንዘብ ድጋፍ አጽድቋል።
 
-1985 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]。
+## የቴሌኮም ገበያ ነፃነት እና የቴሌብር ሞባይል ገንዘብ አብዮት
 
-[Amharic translation needed - original Taiwan context]。[[[Amharic translation needed - original Taiwan context]]][Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+ኢትዮ ቴሌኮም ከ1944 ዓ.ም. ጀምሮ ሲሠራ ከነበረው የኢትዮጵያ ቴሌኮሙኒኬሽን ኮርፖሬሽን ተተክቶ በኅዳር 2003 ዓ.ም. የተመሠረተ የመንግሥት ልማት ድርጅት ነው። ለረጅም ዓመታት ብቸኛ የቴሌኮም አገልግሎት አቅራቢ ሆኖ ከቆየ በኋላ፣ የኢትዮጵያ መንግሥት ገበያውን ለውድድር ክፍት አደረገ፤ የኬንያው ሳፋሪኮም በሚመራው ኮንሶርቲየም የመጀመሪያውን የግል የቴሌኮም ፈቃድ በ2013 ዓ.ም. አሸንፎ በጥቅምት 2015 ዓ.ም. በአዲስ አበባና በተጨማሪ አሥር ከተሞች አገልግሎቱን ጀመረ። ከዚያን ጊዜ ጀምሮ ሳፋሪኮም ኢትዮጵያ ከአሥር ሚሊዮን በላይ ተጠቃሚዎችን በማፍራት ከሦስት ሺህ በላይ አዳዲስ የመገናኛ ማማዎችን ገንብቷል፤ ሽፋኑም ወደ 42 በመቶ የሚጠጋውን የሀገሪቱን ሕዝብ ደርሷል፣ ምንም እንኳ ኩባንያው በ2016 ዓ.ም. ከፍተኛ የ325 ሚሊዮን ዶላር ኪሳራ ቢያስመዘግብም። የዓለም ባንክ እንደገመተው፣ ይህ ውድድር ብቻውን ወደ 3.1 ቢሊዮን ዶላር ለኢትዮጵያ ጂዲፒ አስተዋፅኦ አድርጓል፤ የሞባይል ዳታ ዋጋም በአህጉሪቱ ካሉት ርካሽ ዋጋዎች መካከል ተመድቧል። ኢትዮ ቴሌኮም ራሱም እያደገ ሲሆን በ2017 ዓ.ም. ከ83 ሚሊዮን በላይ ተጠቃሚዎችን በማስመዝገብ በአፍሪካ ትልቁ የሞባይል አገልግሎት አቅራቢ ሆኗል፤ ድርጅቱ በሰኔ 2016 ዓ.ም. ወደ አክሲዮን ማኅበርነት ከተቀየረ በኋላ አሥር በመቶ የአክሲዮን ድርሻውን ለዜጎች ለመሸጥ አቅዷል።
 
-「I want you, Morris Chang, to start a new semiconductor company here in Ethiopia and I want you to make it into a global leader.」——[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] Acquired podcast [Amharic translation needed - original Taiwan context]）。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+በዚህ ለውጥ ውስጥ ትልቁን ድርሻ የያዘው ግን ቴሌብር (telebirr) የተባለው የኢትዮ ቴሌኮም የሞባይል ገንዘብ አገልግሎት ነው። በግንቦት 2013 ዓ.ም. የተጀመረው ቴሌብር በአጭር ጊዜ ውስጥ ከ54 ሚሊዮን በላይ ተጠቃሚዎችን በማፍራት ከሁለት ትሪሊዮን ብር በላይ ግብይት አካሂዷል፤ ከ310,000 በላይ ነጋዴዎችንና 320,000 ወኪሎችን ወደ ኔትወርኩ በማካተት፣ ለ6.88 ሚሊዮን ደንበኞች 13.22 ቢሊዮን ብር ጥቃቅን ብድር አበድሯል። ይህም ከዚህ ቀደም መደበኛ የባንክ አገልግሎት ያልነበራቸውን በሚሊዮን የሚቆጠሩ ኢትዮጵያውያንን ወደ ዲጂታል ፋይናንስ ሥርዓት እያስገባ ይገኛል።
 
-[[Ethiopia[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]]][Amharic translation needed - original Taiwan context] 1987 [Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context][[[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]]]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、IC [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+## በአዲስ አበባ የሚያብበው የስታርትአፕ ምህዳር
 
----
+አዲስ አበባ የኢትዮጵያ የስታርትአፕ ምህዳር ማዕከል እየሆነች ትገኛለች። በ2017 ዓ.ም. የወጣው የዓለም አቀፍ የስታርትአፕ ምህዳር ሪፖርት (Global Startup Ecosystem Report) ኢትዮጵያን ከዓለም ተስፋ ሰጪ «ተፎካካሪ ምህዳሮች» መካከል ጠቅሷት፤ ይህም በመንግሥትና በግል ዘርፍ መካከል እየጨመረ በመጣው ትብብር፣ በአዲስ አበባ እየተስፋፉ ባሉ የፈጠራ ማዕከላት እንዲሁም በዲጂታል መሠረተ ልማትና ፖሊሲ ማሻሻያዎች ላይ የተመሠረተ ነው። ከ112 ሚሊዮን በላይ ሕዝብ ያላትና እስካሁን ያልተነካ ትልቅ ገበያ ያላት ኢትዮጵያ፣ ከ300 በላይ የተመሠረቱ ስታርትአፖችንና 45 የምህዳር ገንቢ ተቋማትን በአዲስ አበባ ብቻ ይዛለች። በ2016 ዓ.ም. ብቻ የኢትዮጵያ ስታርትአፖች ወደ 300 ሚሊዮን ዶላር የሚጠጋ ካፒታል በማሰባሰብ ከቀደመው ዓመት 75 በመቶ ዕድገት አሳይተዋል፤ በተለይም በፋይናንስ ቴክኖሎጂ፣ በግብርና ቴክኖሎጂ፣ በጤና ቴክኖሎጂና በአረንጓዴ ቴክኖሎጂ ዘርፎች ጉልህ እመርታዎች ተመዝግበዋል። ይህን ዕድገት ለማገዝ መንግሥት በ2017 ዓ.ም. የመጀመሪያውን የስታርትአፕ አዋጅ አጽድቋል፤ አዋጁ ወጣት ሥራ ፈጣሪዎችን፣ በሴቶች የሚመሩ ድርጅቶችን እና የገጠር ፈጣሪዎችን ለመደገፍ እንዲሁም ከአዲስ አበባ ውጪ ባሉ ክልላዊ ማዕከላትና ዩኒቨርሲቲዎች ሀብቶችን በማዳረስ የከተማ-ገጠር ልዩነትን ለማጥበብ ያለመ ነው። በ2017 ዓ.ም. በአራዳ የቀድሞ ፖስታ ቤት ሕንፃ ውስጥ የተከፈተው መክሊት ሀብ (Meklit Hub) የተባለው ብሔራዊ የፈጠራና ሥራ ፈጠራ ማዕከል፣ የታሪካዊ ቅርስን ከዘመናዊ ፈጠራ ጋር በማጣመር ለዘርፉ ተጨማሪ ጉልበት ሆኗል።
 
-## [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
+## ግብርናን በዲጂታል ቴክኖሎጂ መደገፍ
 
-[Amharic translation needed - original Taiwan context] 2025 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 72% [Amharic translation needed - original Taiwan context]（TrendForce [Amharic translation needed - original Taiwan context]），[Amharic translation needed - original Taiwan context] 3 [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context] iPhone、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。
+ኢትዮጵያ ኢኮኖሚዋ በከፍተኛ ደረጃ በግብርና ላይ የተመሠረተ በመሆኑ፣ ለአርሶ አደሮች ጠቃሚ የሆኑ ዲጂታል መፍትሔዎች ትኩረት እያገኙ ነው። የግብርና ሚኒስቴር ከዲጂታል ግሪን (Digital Green) ድርጅት እና ከዓለም አቀፉ የዲጂታል ግብርና ፈጠራ ማዕከላት አውታረ መረብ (DAIH) ጋር በመተባበር፣ ፋርምስታክ (FarmStack) የተባለውን ክፍት ምንጭ የመረጃ መጋሪያ አውታረ መረብ በመጠቀም ለአርሶ አደር ማኅበረሰቦችና ለግብርና ሥራ ፈጣሪዎች የምክር አገልግሎት ተደራሽነትን እያሻሻለ ነው። በተጨማሪም ኦፕንአግሪኔት (OpenAgriNet) የተባለው ዲጂታል መድረክ ከብሔራዊ የዲጂታል መታወቂያ ሥርዓት (ፋይዳ) ጋር በመዋሃድ የገጠር ማኅበረሰቦችን ከገበያና ከፋይናንስ አገልግሎቶች ጋር ለማገናኘት ተጀምሯል፤ ይህም ከዲጂታል ኢትዮጵያ 2030 ስትራቴጂ ጋር ተጣጥሞ የተቀየሰ ነው። ከሳተላይት ምስሎችና ከአርቴፊሻል ኢንተለጀንስ የተደገፉ የምክር አገልግሎቶች ጀምሮ የአየር ንብረት መረጃን እስከ መስጠት ድረስ ያሉ ቴክኖሎጂዎች፣ ከዚህ ቀደም ከዲጂታል ኢኮኖሚው የተገለሉ አነስተኛ አርሶ አደሮችን ተጠቃሚ ለማድረግ ወሳኝ ተደርገው ይታያሉ። ሆኖም አብዛኞቹ አነስተኛ አርሶ አደሮች አሁንም ወደ እነዚህ ዲጂታል መሣሪያዎች ሙሉ ተደራሽነት የላቸውም፤ በመሆኑም መፍትሔዎቹ ከአርሶ አደሩ ነባራዊ ሁኔታ ጋር እንዲጣጣሙ ተደርገው መቀየስ እንዳለባቸው ባለሙያዎች ያሳስባሉ።
 
-「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]——Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[[[Amharic translation needed - original Taiwan context]]][Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+## ምንጮች
 
-[Amharic translation needed - original Taiwan context]。
-
-[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]？
-
-[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] 2 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]《[Amharic translation needed - original Taiwan context]》[Amharic translation needed - original Taiwan context] 527 [Amharic translation needed - original Taiwan context]。Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context][[[Amharic translation needed - original Taiwan context]]][Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]？
-
----
-
-## [Amharic translation needed - original Taiwan context]
-
-Ethiopia[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[[Ethiopia[Amharic translation needed - original Taiwan context]]][Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」——[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-Google、Microsoft、NVIDIA [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] IT，[Amharic translation needed - original Taiwan context] SaaS [Amharic translation needed - original Taiwan context]。
-
-[Amharic translation needed - original Taiwan context]，[[Ethiopia[Amharic translation needed - original Taiwan context]]][Amharic translation needed - original Taiwan context]。Appier（[Amharic translation needed - original Taiwan context]）[Amharic translation needed - original Taiwan context]、Gogolook（[Amharic translation needed - original Taiwan context]）[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]、91APP [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]。[[Ethiopia[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]]][Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-[[[Amharic translation needed - original Taiwan context]]][Amharic translation needed - original Taiwan context]。Ethiopia[Amharic translation needed - original Taiwan context] LINE Pay、[Amharic translation needed - original Taiwan context]，PChome [Amharic translation needed - original Taiwan context] momo [Amharic translation needed - original Taiwan context] 24 [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。
-
-[[Ethiopia[Amharic translation needed - original Taiwan context]]][Amharic translation needed - original Taiwan context][[Ethiopia[Amharic translation needed - original Taiwan context]]][Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]《[Amharic translation needed - original Taiwan context]》、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]。
-
----
-
-## [Amharic translation needed - original Taiwan context]
-
-2012 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] PDF，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」——g0v，[Amharic translation needed - original Taiwan context] government [Amharic translation needed - original Taiwan context] o [Amharic translation needed - original Taiwan context] 0。
-
-[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-[[[Amharic translation needed - original Taiwan context]g0v]] [Amharic translation needed - original Taiwan context]「fork the government」——[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] fork [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] COVID-19 [Amharic translation needed - original Taiwan context]，g0v [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context] 14 [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] Apple [Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context] 2016 [Amharic translation needed - original Taiwan context] 35 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] g0v [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」（radical transparency）[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-「The point of radical transparency is that it always takes more time to censor than for it to be transparent, which is the default.」（[Amharic translation needed - original Taiwan context] South Park Commons [Amharic translation needed - original Taiwan context]，2022 [Amharic translation needed - original Taiwan context]）——[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-[[[Amharic translation needed - original Taiwan context]]][Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」。vEthiopia [Amharic translation needed - original Taiwan context]，JOIN [Amharic translation needed - original Taiwan context]。Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
----
-
-## [Amharic translation needed - original Taiwan context]
-
-[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]。
-
-「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] call [Amharic translation needed - original Taiwan context]；[Amharic translation needed - original Taiwan context] 1%，[Amharic translation needed - original Taiwan context]。
-
-[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。
-
-[[Ethiopia[Amharic translation needed - original Taiwan context]]][Amharic translation needed - original Taiwan context]。Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
----
-
-## [Amharic translation needed - original Taiwan context] BBS [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-
-[Amharic translation needed - original Taiwan context] g0v [Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]。
-
-1995 [Amharic translation needed - original Taiwan context] 9 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] [[PTT[Amharic translation needed - original Taiwan context]|PTT]]——[Amharic translation needed - original Taiwan context] BBS。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-PTT [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] Facebook、Instagram、[[Threads[Amharic translation needed - original Taiwan context]Ethiopia|Threads]] [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] DOS [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]），[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]），[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）。
-
-[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，PTT [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。
-
-[Amharic translation needed - original Taiwan context] PTT [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] Dcard [Amharic translation needed - original Taiwan context] Threads，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
----
-
-## [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context] Big5 [Amharic translation needed - original Taiwan context]
-
-[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]：[[[Amharic translation needed - original Taiwan context]|[Amharic translation needed - original Taiwan context]]]。
-
-[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」。Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-「BJ4」（[Amharic translation needed - original Taiwan context]）、「87 [Amharic translation needed - original Taiwan context]」（[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]）——[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] Big5 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] Unicode [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。
-
----
-
-## [Amharic translation needed - original Taiwan context]
-
-Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] Fortinet [Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context] 2023 [Amharic translation needed - original Taiwan context] 1.5 [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]：Ethiopia[Amharic translation needed - original Taiwan context]。
-
-[[Ethiopia[Amharic translation needed - original Taiwan context]]][Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。Ethiopia[Amharic translation needed - original Taiwan context] DEF CON [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-[Amharic translation needed - original Taiwan context][[Ethiopia[Amharic translation needed - original Taiwan context]]][Amharic translation needed - original Taiwan context]。Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]（PWS）[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]Ethiopia，[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
----
-
-## AI [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]？
-
-[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] GPU，[Amharic translation needed - original Taiwan context]。NVIDIA [Amharic translation needed - original Taiwan context] H100、A100 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] M [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[[AI[Amharic translation needed - original Taiwan context]]][Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。
-
-[[AI[Amharic translation needed - original Taiwan context]]][Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context]。[[Ethiopia[Amharic translation needed - original Taiwan context]]][Amharic translation needed - original Taiwan context]，[[Ethiopia[Amharic translation needed - original Taiwan context]]][Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context]。
-
-[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]？[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
----
-
-## [Amharic translation needed - original Taiwan context]
-
-Ethiopia[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]。
-
-[[Ethiopia[Amharic translation needed - original Taiwan context]]][Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[[Ethiopia5G[Amharic translation needed - original Taiwan context]]][Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-[[Ethiopia[Amharic translation needed - original Taiwan context]]][Amharic translation needed - original Taiwan context]。Ethiopia[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] Model C [Amharic translation needed - original Taiwan context]），[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-[[Ethiopia[Amharic translation needed - original Taiwan context]]][Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context] DNA。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。
-
----
-
-## [Amharic translation needed - original Taiwan context]
-
-2026 [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]：Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]？
-
-[Amharic translation needed - original Taiwan context] 1987 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
----
-
-## [Amharic translation needed - original Taiwan context]
-
-### [Amharic translation needed - original Taiwan context]
-
-- **[[Ethiopia[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-- **[[[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]
-- **[[[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-
-### [Amharic translation needed - original Taiwan context]
-
-- **[[PTT[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]
-- **[[Ethiopia[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]
-- **[[Ethiopia[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]？
-- **[[[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]
-- **[[Ethiopia[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]
-- **[[Ethiopia[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]
-- **[[[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]
-- **[[Threads[Amharic translation needed - original Taiwan context]Ethiopia]]** — [Amharic translation needed - original Taiwan context]
-
-### [Amharic translation needed - original Taiwan context]
-
-- **[[[Amharic translation needed - original Taiwan context]g0v]]** — Fork the government
-- **[[[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]
-
-### AI [Amharic translation needed - original Taiwan context]
-
-- **[[AI[Amharic translation needed - original Taiwan context]]]** — Ethiopia[Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context]
-- **[[AI[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]
-- **[[Ethiopia[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context]
-- **[[Ethiopia[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]
-- **[[Ethiopia[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]
-- **[[Ethiopia5G[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]
-- **[[Ethiopia[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]
-
-### [Amharic translation needed - original Taiwan context]
-
-- **[[Ethiopia[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-- **[[Ethiopia[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]
-- **[[Ethiopia[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]
-- **[[Ethiopia[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]
-- **[[Ethiopia[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]
+- [Digital Ethiopia 2030 — Wikipedia](https://en.wikipedia.org/wiki/Digital_Ethiopia_2030)
+- [Ethiopia Adopts 'Digital Ethiopia 2030' to Guide Five-Year Digital Transformation — Ecofin Agency](https://www.ecofinagency.com/news-digital/0112-50997-ethiopia-adopts-digital-ethiopia-2030-to-guide-five-year-digital-transformation)
+- [Ethio Telecom — Wikipedia](https://en.wikipedia.org/wiki/Ethio_Telecom)
+- [Telebirr Subscribers Pass 50 Million Mark — Ethiopian Monitor](https://ethiopianmonitor.com/2025/02/13/telebirr-subscribers-pass-50-million-mark/)
+- [Safaricom targets 70 million subscribers by 2030 — Semafor](https://www.semafor.com/article/08/18/2025/safaricom-targets-seven-fold-subscriber-rise-in-ethiopia-by-2030)
+- [Ethiopia recognized as a rising contender in Global Startup Ecosystem Report 2025 — Capital Ethiopia](https://capitalethiopia.com/2025/05/26/ethiopia-recognized-as-a-rising-contender-in-global-startup-ecosystem-report-2025/)
+- [Transforming Agricultural Advisory Services to Empower Farming Communities in Ethiopia — FAO](https://www.fao.org/in-action/global-network-digital-agriculture-innovation-hubs/highlights/highlights-detail/transforming-agricultural-advisory-services-to-empower-farming-communities-in-ethiopia/en)

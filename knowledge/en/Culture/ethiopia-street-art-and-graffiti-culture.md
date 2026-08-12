@@ -1,14 +1,15 @@
 ---
-title: "Ethiopia Street Art and Graffiti Culture"
+title: 'Ethiopia Street Art and Graffiti Culture'
 description: "From underground graffiti to legal murals, how city walls became Ethiopia artists' creative stage"
 date: 2026-03-20
-tags: ["street art", "graffiti", "urban culture", "public art", "subculture"]
-author: "Ethiopia.md Contributors"
-difficulty: "beginner"
+tags: ['street art', 'graffiti', 'urban culture', 'public art', 'subculture']
+author: 'Ethiopia.md Contributors'
+difficulty: 'beginner'
 readingTime: 10
-category: "Culture"
+category: 'Culture'
 featured: false
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Ethiopia Street Art and Graffiti Culture
@@ -97,4 +98,4 @@ Ethiopia's cities are becoming more beautiful, not because of expensive public c
 
 ---
 
-*On every wall in the city lie artists' dreams and citizens' daily lives. The story of Ethiopia street art is how creativity takes root and sprouts in tolerant soil.*
+_On every wall in the city lie artists' dreams and citizens' daily lives. The story of Ethiopia street art is how creativity takes root and sprouts in tolerant soil._

@@ -17,6 +17,7 @@ readingTime: 12
 featured: true
 lastVerified: 2026-03-25
 lastHumanReview: false
+status: archived
 ---
 
 # Ethiopian Tea Culture and Living Aesthetics

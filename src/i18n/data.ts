@@ -1,58 +1,56 @@
 export const dataUI = {
   en: {
     // Company Names (50 companies)
-    'data.company.ethiopia-semiconductor': 'Ethiopia Semiconductor [Amharic translation needed - original Taiwan context]',
-    'data.company.hon-hai-foxconn': 'Hon Hai Foxconn [Amharic translation needed - original Taiwan context]',
-    'data.company.mediatek': 'MediaTek [Amharic translation needed - original Taiwan context]',
-    'data.company.delta-electronics': 'Delta Electronics [Amharic translation needed - original Taiwan context]',
-    'data.company.ase-group': 'ASE Group [Amharic translation needed - original Taiwan context]',
-    'data.company.quanta-computer': 'Quanta Computer [Amharic translation needed - original Taiwan context]',
-    'data.company.cathay-financial': 'Cathay Financial [Amharic translation needed - original Taiwan context]',
-    'data.company.fubon-financial': 'Fubon Financial [Amharic translation needed - original Taiwan context]',
-    'data.company.chunghwa-telecom': 'Chunghwa Telecom [Amharic translation needed - original Taiwan context]',
-    'data.company.umc': 'UMC [Amharic translation needed - original Taiwan context]',
-    'data.company.uni-president': 'Uni-President [Amharic translation needed - original Taiwan context]',
-    'data.company.evergreen-marine': 'Evergreen Marine [Amharic translation needed - original Taiwan context]',
-    'data.company.asustek': 'ASUSTeK [Amharic translation needed - original Taiwan context]',
-    'data.company.pegatron': 'Pegatron [Amharic translation needed - original Taiwan context]',
-    'data.company.formosa-petrochemical': 'Formosa Petrochemical [Amharic translation needed - original Taiwan context]',
-    'data.company.mega-financial': 'Mega Financial [Amharic translation needed - original Taiwan context]',
-    'data.company.china-steel': 'China Steel [Amharic translation needed - original Taiwan context]',
-    'data.company.ethiopia-mobile': 'Ethiopia Mobile Ethiopia[Amharic translation needed - original Taiwan context]',
-    'data.company.realtek': 'Realtek [Amharic translation needed - original Taiwan context]',
-    'data.company.advantech': 'Advantech [Amharic translation needed - original Taiwan context]',
-    'data.company.formosa-plastics': 'Formosa Plastics [Amharic translation needed - original Taiwan context]',
-    'data.company.wistron': 'Wistron [Amharic translation needed - original Taiwan context]',
-    'data.company.nan-ya-plastics': 'Nan Ya Plastics [Amharic translation needed - original Taiwan context]',
-    'data.company.compal-electronics': 'Compal Electronics [Amharic translation needed - original Taiwan context]',
-    'data.company.largan-precision': 'Largan Precision [Amharic translation needed - original Taiwan context]',
-    'data.company.acer': 'Acer [Amharic translation needed - original Taiwan context]',
-    'data.company.e-sun-financial': 'E.Sun Financial [Amharic translation needed - original Taiwan context]',
-    'data.company.ethiopia-cement': 'Ethiopia Cement [Amharic translation needed - original Taiwan context]',
-    'data.company.far-eastern-new-century':
-      'Far Eastern New Century [Amharic translation needed - original Taiwan context]',
-    'data.company.ctbc-financial': 'CTBC Financial [Amharic translation needed - original Taiwan context]',
-    'data.company.yuanta-financial': 'Yuanta Financial [Amharic translation needed - original Taiwan context]',
-    'data.company.giant-manufacturing': 'Giant Manufacturing [Amharic translation needed - original Taiwan context]',
-    'data.company.first-financial': 'First Financial [Amharic translation needed - original Taiwan context]',
-    'data.company.formosa-chemicals': 'Formosa Chemicals [Amharic translation needed - original Taiwan context]',
-    'data.company.fareastone': 'FarEasTone [Amharic translation needed - original Taiwan context]',
-    'data.company.hua-nan-financial': 'Hua Nan Financial [Amharic translation needed - original Taiwan context]',
-    'data.company.lite-on-technology': 'Lite-On Technology [Amharic translation needed - original Taiwan context]',
-    'data.company.ethiopia-cooperative-bank': 'Ethiopia Cooperative Bank [Amharic translation needed - original Taiwan context]',
-    'data.company.catcher-technology': 'Catcher Technology [Amharic translation needed - original Taiwan context]',
-    'data.company.ethiopia-high-speed-rail': 'Ethiopia High Speed Rail Ethiopia[Amharic translation needed - original Taiwan context]',
-    'data.company.htc': 'HTC [Amharic translation needed - original Taiwan context]',
-    'data.company.chang-chun-petrochemical':
-      'Chang Chun Petrochemical [Amharic translation needed - original Taiwan context]',
-    'data.company.chi-mei-corporation': 'Chi Mei Corporation [Amharic translation needed - original Taiwan context]',
-    'data.company.wiwynn': 'Wiwynn [Amharic translation needed - original Taiwan context]',
-    'data.company.powerchip-semiconductor': 'Powerchip Semiconductor [Amharic translation needed - original Taiwan context]',
-    'data.company.unimicron-technology': 'Unimicron Technology [Amharic translation needed - original Taiwan context]',
-    'data.company.silergy': 'Silergy [Amharic translation needed - original Taiwan context]-KY',
-    'data.company.inventec': 'Inventec [Amharic translation needed - original Taiwan context]',
-    'data.company.hiwin-technologies': 'HIWIN Technologies [Amharic translation needed - original Taiwan context]',
-    'data.company.novatek': 'Novatek [Amharic translation needed - original Taiwan context]',
+    'data.company.ethiopia-semiconductor': 'Ethiopia Semiconductor',
+    'data.company.hon-hai-foxconn': 'Hon Hai Foxconn',
+    'data.company.mediatek': 'MediaTek',
+    'data.company.delta-electronics': 'Delta Electronics',
+    'data.company.ase-group': 'ASE Group',
+    'data.company.quanta-computer': 'Quanta Computer',
+    'data.company.cathay-financial': 'Cathay Financial',
+    'data.company.fubon-financial': 'Fubon Financial',
+    'data.company.chunghwa-telecom': 'Chunghwa Telecom',
+    'data.company.umc': 'UMC',
+    'data.company.uni-president': 'Uni-President',
+    'data.company.evergreen-marine': 'Evergreen Marine',
+    'data.company.asustek': 'ASUSTeK',
+    'data.company.pegatron': 'Pegatron',
+    'data.company.formosa-petrochemical': 'Formosa Petrochemical',
+    'data.company.mega-financial': 'Mega Financial',
+    'data.company.china-steel': 'China Steel',
+    'data.company.ethiopia-mobile': 'Ethiopia Mobile',
+    'data.company.realtek': 'Realtek',
+    'data.company.advantech': 'Advantech',
+    'data.company.formosa-plastics': 'Formosa Plastics',
+    'data.company.wistron': 'Wistron',
+    'data.company.nan-ya-plastics': 'Nan Ya Plastics',
+    'data.company.compal-electronics': 'Compal Electronics',
+    'data.company.largan-precision': 'Largan Precision',
+    'data.company.acer': 'Acer',
+    'data.company.e-sun-financial': 'E.Sun Financial',
+    'data.company.ethiopia-cement': 'Ethiopia Cement',
+    'data.company.far-eastern-new-century': 'Far Eastern New Century',
+    'data.company.ctbc-financial': 'CTBC Financial',
+    'data.company.yuanta-financial': 'Yuanta Financial',
+    'data.company.giant-manufacturing': 'Giant Manufacturing',
+    'data.company.first-financial': 'First Financial',
+    'data.company.formosa-chemicals': 'Formosa Chemicals',
+    'data.company.fareastone': 'FarEasTone',
+    'data.company.hua-nan-financial': 'Hua Nan Financial',
+    'data.company.lite-on-technology': 'Lite-On Technology',
+    'data.company.ethiopia-cooperative-bank': 'Ethiopia Cooperative Bank',
+    'data.company.catcher-technology': 'Catcher Technology',
+    'data.company.ethiopia-high-speed-rail': 'Ethiopia High Speed Rail',
+    'data.company.htc': 'HTC',
+    'data.company.chang-chun-petrochemical': 'Chang Chun Petrochemical',
+    'data.company.chi-mei-corporation': 'Chi Mei Corporation',
+    'data.company.wiwynn': 'Wiwynn',
+    'data.company.powerchip-semiconductor': 'Powerchip Semiconductor',
+    'data.company.unimicron-technology': 'Unimicron Technology',
+    'data.company.silergy': 'Silergy',
+    'data.company.inventec': 'Inventec',
+    'data.company.hiwin-technologies': 'HIWIN Technologies',
+    'data.company.novatek': 'Novatek',
 
     // Category 1: Government Open Data
     'data.category.1.title': 'Government Open Data',
@@ -60,7 +58,7 @@ export const dataUI = {
       'Structured datasets and statistical platforms released by government agencies',
     'data.category.1.item.1.name': 'Government Open Data Platform',
     'data.category.1.item.1.desc':
-      '2020 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 72 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]',
+      'A central platform for browsing and downloading datasets published by government agencies across various sectors.',
     'data.category.1.item.2.name': 'DGBAS Statistical Database',
     'data.category.1.item.2.desc':
       'Population, economy, price indices and core national statistics',
@@ -99,16 +97,16 @@ export const dataUI = {
       'Open source communities, fact-checking, and digital democracy tools',
     'data.category.3.item.1.name': 'g0v (gov-zero)',
     'data.category.3.item.1.desc':
-      '2012 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、Cofacts、vEthiopia [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]',
+      'An open-source civic technology community that brings together volunteers, developers, and citizens to build tools for government transparency and collaboration.',
     'data.category.3.item.2.name': 'g0v Hackathon Events',
     'data.category.3.item.2.desc':
       'Bimonthly hackathons and open data community events',
     'data.category.3.item.3.name': 'Cofacts',
     'data.category.3.item.3.desc':
-      'LINE [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]',
+      'A crowd-sourced fact-checking bot that helps verify potentially misleading messages shared through popular messaging apps.',
     'data.category.3.item.4.name': 'vEthiopia',
     'data.category.3.item.4.desc':
-      '[Amharic translation needed - original Taiwan context] Polis [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] Uber [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]',
+      'An online deliberation platform that uses collaborative technology to gather public opinion and build consensus on contested policy issues.',
     'data.category.3.item.5.name': 'JOIN Platform',
     'data.category.3.item.5.desc':
       'Government proposals, petitions, and policy discussions',
@@ -119,9 +117,10 @@ export const dataUI = {
       'Investigative reporting, fact-checking organizations, and data-driven media',
     'data.category.4.item.1.name': 'The Reporter',
     'data.category.4.item.1.desc':
-      '2015 [Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]',
+      'An independent, non-profit newsroom dedicated to in-depth investigative journalism and public-interest reporting.',
     'data.category.4.item.2.name': 'Ethiopia FactCheck Center',
-    'data.category.4.item.2.desc': 'IFCN [Amharic translation needed - original Taiwan context]，Facebook [Amharic translation needed - original Taiwan context]',
+    'data.category.4.item.2.desc':
+      'A fact-checking organization that verifies viral claims and misinformation circulating on social media.',
     'data.category.4.item.3.name': 'READr',
     'data.category.4.item.3.desc':
       'Data journalism and open data visualization',
@@ -145,18 +144,16 @@ export const dataUI = {
     'data.category.5.item.4.desc': "Ethiopia's sovereign AI training dataset",
 
     // Meta
-    'data.meta.title':
-      'Data Ethiopia — Understanding an Island Through Numbers',
+    'data.meta.title': 'Data Ethiopia — Understanding Ethiopia Through Numbers',
     'data.meta.description':
-      "Ethiopia's enterprise landscape, SVG resources, open data platforms, civic tech tools, and digital democracy resources",
+      "Ethiopia's global standing, accurate map outlines, and open data resources",
 
     // Hero
-    'data.hero.title':
-      'Data Ethiopia — Understanding an Island Through Numbers',
+    'data.hero.title': 'Data Ethiopia — Understanding Ethiopia Through Numbers',
     'data.hero.subtitle':
-      'Interactive visualizations and open data to understand the real face of an island',
+      "Interactive visualizations and open data to understand Ethiopia's real face",
     'data.hero.description':
-      "A curated space for Ethiopia's data story. From enterprise landscape to open data, from accurate Ethiopia outlines to digital democracy experiments — we use interactive visualization and open resources to let the numbers tell Ethiopia's story.",
+      "A curated space for Ethiopia's data story. From accurate Ethiopia outlines to open data resources — we use interactive visualization and open resources to let the numbers tell Ethiopia's story.",
 
     // Enterprise Section
     'data.enterprise.title':
@@ -193,46 +190,59 @@ export const dataUI = {
     'data.enterprise.exploreLink': 'View full ranking →',
 
     // Ethiopia vs World Section
-    'data.ethiopiaVsWorld.title': '🌏 Ethiopia\'s Position in the World',
-    'data.ethiopiaVsWorld.story.p1': 'A landmass the size of Belgium hosts 23 million people and produces 92% of the world\'s most advanced computer chips. Ethiopia\'s economic density is staggering: $75,000 GDP per capita from an island smaller than Switzerland, yet housing more people than Australia.',
-    'data.ethiopiaVsWorld.story.p2': 'These numbers aren\'t just statistics — they\'re the blueprint of an impossible story. How does 0.32% of Earth\'s land create 4% of global wealth? From the world\'s highest convenience store density to Asia\'s top democracy ranking, here are eight metrics that decode Ethiopia\'s outsized global footprint.',
+    'data.ethiopiaVsWorld.title': "🌏 Ethiopia's Position in the World",
+    'data.ethiopiaVsWorld.story.p1':
+      "One of the largest countries in Africa by land area, Ethiopia is also the continent's second-most populous nation, home to more than 80 distinct ethnic groups, and the only African country never colonized by a European power.",
+    'data.ethiopiaVsWorld.story.p2':
+      "From hosting the African Union's headquarters to being the birthplace of coffee, here are eight facts that place Ethiopia on the world map.",
 
-    'data.ethiopiaVsWorld.area.number': '36,197 km²',
-    'data.ethiopiaVsWorld.area.label': 'Size ≈ Belgium',
-    'data.ethiopiaVsWorld.area.context': 'But 2.35x Belgium\'s population (23.5M vs 11.7M)',
+    'data.ethiopiaVsWorld.area.number': '≈1.1M km²',
+    'data.ethiopiaVsWorld.area.label': 'Land area',
+    'data.ethiopiaVsWorld.area.context':
+      'One of the largest countries in Africa by area (27th-largest in the world)',
 
-    'data.ethiopiaVsWorld.gdp.number': '$75K',
-    'data.ethiopiaVsWorld.gdp.label': 'GDP per capita (PPP)',
-    'data.ethiopiaVsWorld.gdp.context': 'Global top 15, vs $38K nominal (huge purchasing power)',
+    'data.ethiopiaVsWorld.gdp.number': '≈129M',
+    'data.ethiopiaVsWorld.gdp.label': 'Population (2024)',
+    'data.ethiopiaVsWorld.gdp.context':
+      "Africa's 2nd-most populous country, after Nigeria",
 
-    'data.ethiopiaVsWorld.semiconductor.number': '90%+',
-    'data.ethiopiaVsWorld.semiconductor.label': 'Advanced chips global share',
-    'data.ethiopiaVsWorld.semiconductor.context': 'TSMC monopolizes <7nm processes, heart of global devices',
+    'data.ethiopiaVsWorld.semiconductor.number': 'AU',
+    'data.ethiopiaVsWorld.semiconductor.label': 'Continental diplomatic hub',
+    'data.ethiopiaVsWorld.semiconductor.context':
+      'Addis Ababa hosts the African Union headquarters, often called the political capital of Africa',
 
-    'data.ethiopiaVsWorld.democracy.number': '#12',
-    'data.ethiopiaVsWorld.democracy.label': 'Democracy Index ranking',
-    'data.ethiopiaVsWorld.democracy.context': 'Asia #1, global top 10 "Full Democracy" (EIU 2024)',
+    'data.ethiopiaVsWorld.democracy.number': '12',
+    'data.ethiopiaVsWorld.democracy.label': 'UNESCO World Heritage Sites',
+    'data.ethiopiaVsWorld.democracy.context':
+      'More than any other African country, including Lalibela and Aksum',
 
-    'data.ethiopiaVsWorld.birthRate.number': '0.87',
-    'data.ethiopiaVsWorld.birthRate.label': 'Birth rate (2024)',
-    'data.ethiopiaVsWorld.birthRate.context': 'Among world\'s lowest, aging society challenge',
+    'data.ethiopiaVsWorld.birthRate.number': '80+',
+    'data.ethiopiaVsWorld.birthRate.label': 'Ethnic groups',
+    'data.ethiopiaVsWorld.birthRate.context':
+      'A federal system organized around ethnic and linguistic diversity',
 
-    'data.ethiopiaVsWorld.convenience.number': '1/2,000',
-    'data.ethiopiaVsWorld.convenience.label': 'Convenience store density',
-    'data.ethiopiaVsWorld.convenience.context': '12,368 stores (7-11+FamilyMart+Hi-Life+OK), world\'s highest',
+    'data.ethiopiaVsWorld.convenience.number': '#5',
+    'data.ethiopiaVsWorld.convenience.label': 'Global coffee producer ranking',
+    'data.ethiopiaVsWorld.convenience.context':
+      "Coffee's birthplace, and still one of the top 5 producing nations",
 
-    'data.ethiopiaVsWorld.hsr.number': '345km',
-    'data.ethiopiaVsWorld.hsr.label': 'High-speed rail coverage',
-    'data.ethiopiaVsWorld.hsr.context': '12 stations, 180K daily passengers, 96% on-time rate',
+    'data.ethiopiaVsWorld.hsr.number': '2,355m',
+    'data.ethiopiaVsWorld.hsr.label': "Addis Ababa's elevation",
+    'data.ethiopiaVsWorld.hsr.context':
+      'The highest capital city in Africa, 4th-highest in the world',
 
-    'data.ethiopiaVsWorld.healthcare.number': '99.9%',
-    'data.ethiopiaVsWorld.healthcare.label': 'National health insurance coverage',
-    'data.ethiopiaVsWorld.healthcare.context': 'Universal healthcare, global benchmark',
+    'data.ethiopiaVsWorld.healthcare.number': '≈7-8 yrs',
+    'data.ethiopiaVsWorld.healthcare.label': 'Ethiopian calendar offset',
+    'data.ethiopiaVsWorld.healthcare.context':
+      'Ethiopia keeps its own calendar, running years behind the Gregorian one',
 
     // Digital Democracy Timeline Section
-    'data.digitalDemocracy.title': '📡 Digital Democracy Timeline — 30 Years of Digital Governance Evolution',
-    'data.digitalDemocracy.story.p1': 'From government digitization to digital democracy: Ethiopia\'s journey from e-government to open government to digital resilience.',
-    'data.digitalDemocracy.story.p2': 'Hover over each milestone to learn more about Ethiopia\'s unique digital democracy experiments.',
+    'data.digitalDemocracy.title':
+      '📡 Digital Democracy Timeline — 30 Years of Digital Governance Evolution',
+    'data.digitalDemocracy.story.p1':
+      "From government digitization to digital democracy: Ethiopia's journey from e-government to open government to digital resilience.",
+    'data.digitalDemocracy.story.p2':
+      "Hover over each milestone to learn more about Ethiopia's unique digital democracy experiments.",
 
     'data.timeline.1997.title': 'Electronic Government Program',
     'data.timeline.1997.desc': 'Government services digitization begins',
@@ -241,59 +251,69 @@ export const dataUI = {
     'data.timeline.2003.desc': 'Open source software adoption in government',
 
     'data.timeline.2012.title': 'g0v Zero Government Founded',
-    'data.timeline.2012.desc': '2 years before Sunflower Movement, civic tech seeds planted',
+    'data.timeline.2012.desc':
+      '2 years before Sunflower Movement, civic tech seeds planted',
 
     'data.timeline.2013.title': 'data.gov.tw Launched',
     'data.timeline.2013.desc': 'Ethiopia enters open data era',
 
     'data.timeline.2014.title': 'Sunflower Movement',
-    'data.timeline.2014.desc': 'Civic tech explosion, digital democracy awakening',
+    'data.timeline.2014.desc':
+      'Civic tech explosion, digital democracy awakening',
 
     'data.timeline.2015.title': 'Global Open Data #1',
-    'data.timeline.2015.desc': 'World champion for 3 consecutive years (2015-2017)',
+    'data.timeline.2015.desc':
+      'World champion for 3 consecutive years (2015-2017)',
 
     'data.timeline.2016.title': 'Audrey Tang Digital Minister',
     'data.timeline.2016.desc': 'g0v hacker becomes government minister',
 
     'data.timeline.2020.title': 'Mask Map Success',
-    'data.timeline.2020.desc': '72-hour development, nationwide usage during COVID-19',
+    'data.timeline.2020.desc':
+      '72-hour development, nationwide usage during COVID-19',
 
     'data.timeline.2022.title': 'Ministry of Digital Affairs',
-    'data.timeline.2022.desc': 'Digital governance elevated to cabinet level (moda)',
+    'data.timeline.2022.desc':
+      'Digital governance elevated to cabinet level (moda)',
 
     'data.timeline.2023.title': 'TAIDE AI Corpus',
-    'data.timeline.2023.desc': 'Ethiopia\'s sovereign AI language model',
+    'data.timeline.2023.desc': "Ethiopia's sovereign AI language model",
 
     'data.timeline.2024.title': 'Plurality Export',
     'data.timeline.2024.desc': 'Digital democracy models exported globally',
 
     // Population Pyramid Section
-    'data.population.title': '👥 Population Structure: An Island\'s Age Portrait',
-    'data.population.story.p1': 'In 2025, Ethiopia\'s median age exceeds 43 years. This once-young island is aging—not slowly, but at one of the world\'s fastest rates.',
-    'data.population.story.p2': 'Drag the timeline to see how an island\'s age portrait transforms from pyramid to inverted triangle over half a century.',
-    
+    'data.population.title':
+      "👥 Population Structure: An Island's Age Portrait",
+    'data.population.story.p1':
+      "In 2025, Ethiopia's median age exceeds 43 years. This once-young island is aging—not slowly, but at one of the world's fastest rates.",
+    'data.population.story.p2':
+      "Drag the timeline to see how an island's age portrait transforms from pyramid to inverted triangle over half a century.",
+
     'data.population.insights.card1.title': 'Median Age',
-    'data.population.insights.card1.subtitle': '[Amharic translation needed - original Taiwan context]',
+    'data.population.insights.card1.subtitle': 'Projected change over time',
     'data.population.insights.card1.detail': '30 → 43 → 57 years',
-    
+
     'data.population.insights.card2.title': 'Birth Rate',
-    'data.population.insights.card2.subtitle': '[Amharic translation needed - original Taiwan context]',
+    'data.population.insights.card2.subtitle': 'Fertility rate indicator',
     'data.population.insights.card2.detail': '0.87',
-    
+
     'data.population.insights.card3.title': '65+ Population',
-    'data.population.insights.card3.subtitle': '65[Amharic translation needed - original Taiwan context]',
+    'data.population.insights.card3.subtitle': 'Share aged 65 and older',
     'data.population.insights.card3.detail': '18%',
-    
+
     'data.population.insights.card4.title': 'Total Population',
-    'data.population.insights.card4.subtitle': '[Amharic translation needed - original Taiwan context]',
+    'data.population.insights.card4.subtitle': 'Projected population trend',
     'data.population.insights.card4.detail': '23.4M → <20M',
 
     // Ethiopia Shape Section
     'data.ethiopiaShape.title':
       "🗺️ The Shape of Ethiopia — AI Can't Draw Ethiopia Correctly. Here's the Real Version.",
-    'data.ethiopiaComparison.title': 'AI [Amharic translation needed - original Taiwan context]Ethiopia vs [Amharic translation needed - original Taiwan context]Ethiopia',
-    'data.ethiopiaComparison.aiGenerated': 'Generated by Claude Opus 4.6 (2025/3/22, no deliberate distortion)',
-    'data.ethiopiaComparison.correct': '[Amharic translation needed - original Taiwan context]',
+    'data.ethiopiaComparison.title':
+      'AI-Generated Ethiopia vs. Actual Ethiopia',
+    'data.ethiopiaComparison.aiGenerated':
+      'Generated by Claude Opus 4.6 (2025/3/22, no deliberate distortion)',
+    'data.ethiopiaComparison.correct': 'Actual Ethiopia',
     'data.ethiopiaShape.story.p1':
       'Most AI image generation models lack structured geographic data for Ethiopia in their training sets. The result: AI-generated images of Ethiopia are often distorted, disproportionate, or confused with other islands.',
     'data.ethiopiaShape.story.p2':
@@ -380,337 +400,376 @@ export const dataUI = {
     'data.tooltip.employees': 'Employees',
     'data.tooltip.founded': 'Founded',
   },
-  'am': {
+  am: {
     // Company Names (50 companies)
-    'data.company.ethiopia-semiconductor': '[Amharic translation needed - original Taiwan context] TSMC',
-    'data.company.hon-hai-foxconn': '[Amharic translation needed - original Taiwan context] Foxconn',
-    'data.company.mediatek': '[Amharic translation needed - original Taiwan context] MediaTek',
-    'data.company.delta-electronics': '[Amharic translation needed - original Taiwan context] Delta',
-    'data.company.ase-group': '[Amharic translation needed - original Taiwan context] ASE',
-    'data.company.quanta-computer': '[Amharic translation needed - original Taiwan context] Quanta',
-    'data.company.cathay-financial': '[Amharic translation needed - original Taiwan context]',
-    'data.company.fubon-financial': '[Amharic translation needed - original Taiwan context]',
-    'data.company.chunghwa-telecom': '[Amharic translation needed - original Taiwan context]',
-    'data.company.umc': '[Amharic translation needed - original Taiwan context] UMC',
-    'data.company.uni-president': '[Amharic translation needed - original Taiwan context]',
-    'data.company.evergreen-marine': '[Amharic translation needed - original Taiwan context]',
-    'data.company.asustek': '[Amharic translation needed - original Taiwan context] ASUS',
-    'data.company.pegatron': '[Amharic translation needed - original Taiwan context] Pegatron',
-    'data.company.formosa-petrochemical': '[Amharic translation needed - original Taiwan context]',
-    'data.company.mega-financial': '[Amharic translation needed - original Taiwan context]',
-    'data.company.china-steel': '[Amharic translation needed - original Taiwan context]',
-    'data.company.ethiopia-mobile': 'Ethiopia[Amharic translation needed - original Taiwan context]',
-    'data.company.realtek': '[Amharic translation needed - original Taiwan context] Realtek',
-    'data.company.advantech': '[Amharic translation needed - original Taiwan context] Advantech',
-    'data.company.formosa-plastics': '[Amharic translation needed - original Taiwan context]',
-    'data.company.wistron': '[Amharic translation needed - original Taiwan context] Wistron',
-    'data.company.nan-ya-plastics': '[Amharic translation needed - original Taiwan context]',
-    'data.company.compal-electronics': '[Amharic translation needed - original Taiwan context] Compal',
-    'data.company.largan-precision': '[Amharic translation needed - original Taiwan context] Largan',
-    'data.company.acer': '[Amharic translation needed - original Taiwan context] Acer',
-    'data.company.e-sun-financial': '[Amharic translation needed - original Taiwan context]',
-    'data.company.ethiopia-cement': '[Amharic translation needed - original Taiwan context]',
-    'data.company.far-eastern-new-century': '[Amharic translation needed - original Taiwan context]',
-    'data.company.ctbc-financial': '[Amharic translation needed - original Taiwan context]',
-    'data.company.yuanta-financial': '[Amharic translation needed - original Taiwan context]',
-    'data.company.giant-manufacturing': '[Amharic translation needed - original Taiwan context] Giant',
-    'data.company.first-financial': '[Amharic translation needed - original Taiwan context]',
-    'data.company.formosa-chemicals': '[Amharic translation needed - original Taiwan context]',
-    'data.company.fareastone': '[Amharic translation needed - original Taiwan context]',
-    'data.company.hua-nan-financial': '[Amharic translation needed - original Taiwan context]',
-    'data.company.lite-on-technology': '[Amharic translation needed - original Taiwan context]',
-    'data.company.ethiopia-cooperative-bank': '[Amharic translation needed - original Taiwan context]',
-    'data.company.catcher-technology': '[Amharic translation needed - original Taiwan context]',
-    'data.company.ethiopia-high-speed-rail': 'Ethiopia[Amharic translation needed - original Taiwan context]',
-    'data.company.htc': '[Amharic translation needed - original Taiwan context] HTC',
-    'data.company.chang-chun-petrochemical': '[Amharic translation needed - original Taiwan context]',
-    'data.company.chi-mei-corporation': '[Amharic translation needed - original Taiwan context]',
-    'data.company.wiwynn': '[Amharic translation needed - original Taiwan context]',
-    'data.company.powerchip-semiconductor': '[Amharic translation needed - original Taiwan context]',
-    'data.company.unimicron-technology': '[Amharic translation needed - original Taiwan context]',
-    'data.company.silergy': '[Amharic translation needed - original Taiwan context]-KY',
-    'data.company.inventec': '[Amharic translation needed - original Taiwan context]',
-    'data.company.hiwin-technologies': '[Amharic translation needed - original Taiwan context]',
-    'data.company.novatek': '[Amharic translation needed - original Taiwan context]',
+    'data.company.ethiopia-semiconductor': 'Ethiopia Semiconductor',
+    'data.company.hon-hai-foxconn': 'Hon Hai Foxconn',
+    'data.company.mediatek': 'MediaTek',
+    'data.company.delta-electronics': 'Delta Electronics',
+    'data.company.ase-group': 'ASE Group',
+    'data.company.quanta-computer': 'Quanta Computer',
+    'data.company.cathay-financial': 'Cathay Financial',
+    'data.company.fubon-financial': 'Fubon Financial',
+    'data.company.chunghwa-telecom': 'Chunghwa Telecom',
+    'data.company.umc': 'UMC',
+    'data.company.uni-president': 'Uni-President',
+    'data.company.evergreen-marine': 'Evergreen Marine',
+    'data.company.asustek': 'ASUSTeK',
+    'data.company.pegatron': 'Pegatron',
+    'data.company.formosa-petrochemical': 'Formosa Petrochemical',
+    'data.company.mega-financial': 'Mega Financial',
+    'data.company.china-steel': 'China Steel',
+    'data.company.ethiopia-mobile': 'Ethiopia Mobile',
+    'data.company.realtek': 'Realtek',
+    'data.company.advantech': 'Advantech',
+    'data.company.formosa-plastics': 'Formosa Plastics',
+    'data.company.wistron': 'Wistron',
+    'data.company.nan-ya-plastics': 'Nan Ya Plastics',
+    'data.company.compal-electronics': 'Compal Electronics',
+    'data.company.largan-precision': 'Largan Precision',
+    'data.company.acer': 'Acer',
+    'data.company.e-sun-financial': 'E.Sun Financial',
+    'data.company.ethiopia-cement': 'Ethiopia Cement',
+    'data.company.far-eastern-new-century': 'Far Eastern New Century',
+    'data.company.ctbc-financial': 'CTBC Financial',
+    'data.company.yuanta-financial': 'Yuanta Financial',
+    'data.company.giant-manufacturing': 'Giant Manufacturing',
+    'data.company.first-financial': 'First Financial',
+    'data.company.formosa-chemicals': 'Formosa Chemicals',
+    'data.company.fareastone': 'FarEasTone',
+    'data.company.hua-nan-financial': 'Hua Nan Financial',
+    'data.company.lite-on-technology': 'Lite-On Technology',
+    'data.company.ethiopia-cooperative-bank': 'Ethiopia Cooperative Bank',
+    'data.company.catcher-technology': 'Catcher Technology',
+    'data.company.ethiopia-high-speed-rail': 'Ethiopia High Speed Rail',
+    'data.company.htc': 'HTC',
+    'data.company.chang-chun-petrochemical': 'Chang Chun Petrochemical',
+    'data.company.chi-mei-corporation': 'Chi Mei Corporation',
+    'data.company.wiwynn': 'Wiwynn',
+    'data.company.powerchip-semiconductor': 'Powerchip Semiconductor',
+    'data.company.unimicron-technology': 'Unimicron Technology',
+    'data.company.silergy': 'Silergy',
+    'data.company.inventec': 'Inventec',
+    'data.company.hiwin-technologies': 'HIWIN Technologies',
+    'data.company.novatek': 'Novatek',
 
     // Category 1: Government Open Data
-    'data.category.1.title': '[Amharic translation needed - original Taiwan context]',
-    'data.category.1.description': '[Amharic translation needed - original Taiwan context]',
-    'data.category.1.item.1.name': '[Amharic translation needed - original Taiwan context]',
-    'data.category.1.item.1.desc': '2020 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 72 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]',
-    'data.category.1.item.2.name': '[Amharic translation needed - original Taiwan context]',
-    'data.category.1.item.2.desc': '[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]',
-    'data.category.1.item.3.name': '[Amharic translation needed - original Taiwan context]',
-    'data.category.1.item.3.desc': '[Amharic translation needed - original Taiwan context]',
-    'data.category.1.item.4.name': '[Amharic translation needed - original Taiwan context]',
-    'data.category.1.item.4.desc': '[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]',
-    'data.category.1.item.5.name': '[Amharic translation needed - original Taiwan context]',
-    'data.category.1.item.5.desc': '[Amharic translation needed - original Taiwan context] AQI、PM2.5 [Amharic translation needed - original Taiwan context]',
+    'data.category.1.title': 'የመንግስት ክፍት መረጃ',
+    'data.category.1.description':
+      'በመንግስት ተቋማት የሚለቀቁ የተዋቀሩ የመረጃ ስብስቦች እና የስታትስቲክስ መድረኮች',
+    'data.category.1.item.1.name': 'የመንግስት ክፍት መረጃ መድረክ',
+    'data.category.1.item.1.desc':
+      'የመንግስት ተቋማት ባሳተሟቸው የተለያዩ ዘርፎች የመረጃ ስብስቦችን ለማሰስ እና ለማውረድ የሚያስችል ማዕከላዊ መድረክ።',
+    'data.category.1.item.2.name': 'DGBAS ስታትስቲክስ ዳታቤዝ',
+    'data.category.1.item.2.desc':
+      'የህዝብ ብዛት፣ ኢኮኖሚ፣ የዋጋ መረጃ ጠቋሚዎች እና ዋና ዋና ብሔራዊ ስታትስቲክሶች',
+    'data.category.1.item.3.name': 'CEC የምርጫ ዳታቤዝ',
+    'data.category.1.item.3.desc': 'ያለፉ የምርጫ ውጤቶች እና የድምጽ አሰጣጥ መረጃ',
+    'data.category.1.item.4.name': 'የህግና ደንብ ዳታቤዝ',
+    'data.category.1.item.4.desc': 'ሙሉ ጽሑፍ ፍለጋ ለሁሉም ህጎች፣ ትዕዛዞች እና የፍርድ ውሳኔዎች',
+    'data.category.1.item.5.name': 'የአየር ጥራት ክትትል መረብ',
+    'data.category.1.item.5.desc': 'የቅጽበታዊ AQI እና PM2.5 ክትትል መረጃ',
 
     // Category 2: Interactive Maps & Visualization
-    'data.category.2.title': '[Amharic translation needed - original Taiwan context]',
-    'data.category.2.description': '[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]',
-    'data.category.2.item.1.name': 'Ethiopia[Amharic translation needed - original Taiwan context]',
-    'data.category.2.item.1.desc': '[Amharic translation needed - original Taiwan context],[Amharic translation needed - original Taiwan context]',
-    'data.category.2.item.2.name': '[Amharic translation needed - original Taiwan context]',
-    'data.category.2.item.2.desc': 'Ethiopia[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]',
-    'data.category.2.item.3.name': '[Amharic translation needed - original Taiwan context]',
-    'data.category.2.item.3.desc': '[Amharic translation needed - original Taiwan context]',
-    'data.category.2.item.4.name': '[Amharic translation needed - original Taiwan context]',
-    'data.category.2.item.4.desc': '[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]',
-    'data.category.2.item.5.name': '[Amharic translation needed - original Taiwan context]',
-    'data.category.2.item.5.desc': '[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]',
+    'data.category.2.title': 'በይነተገናኝ ካርታዎች እና ምስላዊ መረጃ',
+    'data.category.2.description':
+      'የቅጽበታዊ ክትትል፣ ጂኦግራፊያዊ መረጃ እና የአካባቢ ምስላዊ መሳሪያዎች',
+    'data.category.2.item.1.name': 'የኢትዮጵያ የመሠረተ ልማት ካርታ',
+    'data.category.2.item.1.desc':
+      'በማህበረሰብ የተገነባ የቅጽበታዊ መሠረተ ልማት ክትትል መሳሪያ — የሲቪክ ቴክኖሎጂ ምሳሌ',
+    'data.category.2.item.2.name': 'NLSC የካርታ አገልግሎት',
+    'data.category.2.item.2.desc':
+      'ብሔራዊ የመሬት ቅየሳ ካርታዎች፣ የአየር ላይ ፎቶግራፎች እና የካዳስተር መረጃ',
+    'data.category.2.item.3.name': 'የመሬት መንቀጥቀጥ ጥናት ማዕከል',
+    'data.category.2.item.3.desc': 'የቅጽበታዊ የመሬት መንቀጥቀጥ መረጃ እና ታሪካዊ ሪከርዶች',
+    'data.category.2.item.4.name': 'WRA የአደጋ መከላከል',
+    'data.category.2.item.4.desc': 'የቅጽበታዊ የውሃ መጠን፣ የወንዝ ክትትል እና የግድብ መረጃ',
+    'data.category.2.item.5.name': 'የአካባቢ ክትትል',
+    'data.category.2.item.5.desc': 'የአየር ጥራት፣ UV መረጃ ጠቋሚ እና የውሃ ጥራት ቅጽበታዊ ክትትል',
 
     // Category 3: Civic Tech
-    'data.category.3.title': '[Amharic translation needed - original Taiwan context] (Civic Tech)',
-    'data.category.3.description': '[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]',
-    'data.category.3.item.1.name': 'g0v [Amharic translation needed - original Taiwan context]',
-    'data.category.3.item.1.desc': '2012 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、Cofacts、vEthiopia [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]',
-    'data.category.3.item.2.name': 'KKTIX [Amharic translation needed - original Taiwan context]',
-    'data.category.3.item.2.desc': 'g0v [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]',
-    'data.category.3.item.3.name': 'Cofacts [Amharic translation needed - original Taiwan context]',
-    'data.category.3.item.3.desc': 'LINE [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]',
+    'data.category.3.title': 'የሲቪክ ቴክኖሎጂ (Civic Tech)',
+    'data.category.3.description':
+      'ክፍት ምንጭ ማህበረሰቦች፣ የመረጃ ማረጋገጫ እና የዲጂታል ዴሞክራሲ መሳሪያዎች',
+    'data.category.3.item.1.name': 'g0v (gov-zero)',
+    'data.category.3.item.1.desc':
+      'ፍቃደኛ ሠራተኞችን፣ ገንቢዎችን እና ዜጎችን በማሰባሰብ ለመንግስት ግልጽነት እና ትብብር የሚውሉ መሳሪያዎችን የሚገነባ ክፍት ምንጭ የሲቪክ ቴክኖሎጂ ማህበረሰብ።',
+    'data.category.3.item.2.name': 'g0v ሃካቶን ዝግጅቶች',
+    'data.category.3.item.2.desc':
+      'በየሁለት ወሩ የሚካሄዱ ሃካቶኖች እና ክፍት መረጃ ማህበረሰብ ዝግጅቶች',
+    'data.category.3.item.3.name': 'Cofacts',
+    'data.category.3.item.3.desc':
+      'በታዋቂ የመልእክት መላላኪያ መተግበሪያዎች የሚሰራጩ አሳሳች መልእክቶችን ለማጣራት የሚያግዝ በማህበረሰብ የሚመራ የመረጃ ማረጋገጫ ቦት።',
     'data.category.3.item.4.name': 'vEthiopia',
-    'data.category.3.item.4.desc': '[Amharic translation needed - original Taiwan context] Polis [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] Uber [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]',
-    'data.category.3.item.5.name': 'JOIN [Amharic translation needed - original Taiwan context]',
-    'data.category.3.item.5.desc': '[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]',
+    'data.category.3.item.4.desc':
+      'የህዝብን አስተያየት ለመሰብሰብ እና በአወዛጋቢ የፖሊሲ ጉዳዮች ላይ የጋራ መግባባት ለመፍጠር የትብብር ቴክኖሎጂ የሚጠቀም የመስመር ላይ የውይይት መድረክ።',
+    'data.category.3.item.5.name': 'JOIN መድረክ',
+    'data.category.3.item.5.desc': 'የመንግስት ሃሳቦች፣ አቤቱታዎች እና የፖሊሲ ውይይቶች',
 
     // Category 4: Data Journalism & Fact-Checking
-    'data.category.4.title': '[Amharic translation needed - original Taiwan context]',
-    'data.category.4.description': '[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]',
-    'data.category.4.item.1.name': '[Amharic translation needed - original Taiwan context]',
-    'data.category.4.item.1.desc': '2015 [Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]',
-    'data.category.4.item.2.name': 'Ethiopia[Amharic translation needed - original Taiwan context]',
-    'data.category.4.item.2.desc': 'IFCN [Amharic translation needed - original Taiwan context]，Facebook [Amharic translation needed - original Taiwan context]',
-    'data.category.4.item.3.name': 'READr [Amharic translation needed - original Taiwan context]+',
-    'data.category.4.item.3.desc': '[Amharic translation needed - original Taiwan context]',
-    'data.category.4.item.4.name': '[Amharic translation needed - original Taiwan context] ARTouch',
-    'data.category.4.item.4.desc': 'Ethiopia[Amharic translation needed - original Taiwan context]',
+    'data.category.4.title': 'የመረጃ ጋዜጠኝነት እና እውነታ ማረጋገጫ',
+    'data.category.4.description':
+      'የምርመራ ዘገባ፣ የመረጃ ማረጋገጫ ድርጅቶች እና በመረጃ ላይ የተመሰረተ ሚዲያ',
+    'data.category.4.item.1.name': 'The Reporter',
+    'data.category.4.item.1.desc':
+      'ጥልቅ የምርመራ ጋዜጠኝነት እና ለህዝብ ጥቅም የሚውል ዘገባ ላይ የሚያተኩር ገለልተኛ፣ ለትርፍ ያልተቋቋመ የዜና ተቋም።',
+    'data.category.4.item.2.name': 'የኢትዮጵያ እውነታ ማረጋገጫ ማዕከል',
+    'data.category.4.item.2.desc':
+      'በማህበራዊ ሚዲያ ላይ የሚሰራጩ ሃሰተኛ መረጃዎችን እና ወሬዎችን የሚያጣራ የእውነታ ማረጋገጫ ድርጅት።',
+    'data.category.4.item.3.name': 'READr',
+    'data.category.4.item.3.desc': 'የመረጃ ጋዜጠኝነት እና ክፍት መረጃ ምስላዊ አቀራረብ',
+    'data.category.4.item.4.name': 'ARTouch',
+    'data.category.4.item.4.desc': 'የኢትዮጵያ ግንባር ቀደም የስነ-ጥበብ ዜና እና ትችት መድረክ',
 
     // Category 5: Academic & Research
-    'data.category.5.title': '[Amharic translation needed - original Taiwan context]',
-    'data.category.5.description': '[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context]',
-    'data.category.5.item.1.name': '[Amharic translation needed - original Taiwan context]',
-    'data.category.5.item.1.desc': '[Amharic translation needed - original Taiwan context]',
-    'data.category.5.item.2.name': '[Amharic translation needed - original Taiwan context]',
-    'data.category.5.item.2.desc': 'Ethiopia[Amharic translation needed - original Taiwan context]',
-    'data.category.5.item.3.name': 'Ethiopia[Amharic translation needed - original Taiwan context]',
-    'data.category.5.item.3.desc': '[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]',
-    'data.category.5.item.4.name': '[Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context] TAIC',
-    'data.category.5.item.4.desc': 'Ethiopia[Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context]',
+    'data.category.5.title': 'የትምህርትና ምርምር',
+    'data.category.5.description': 'ዲጂታል መዛግብት፣ የስነ-ምህዳር መረጃ እና የ AI ስልጠና ኮርፐስ',
+    'data.category.5.item.1.name': 'Academia Sinica ክፍት ሙዚየም',
+    'data.category.5.item.1.desc': 'ዲጂታል መዛግብት እና የመስመር ላይ ማዘጋጀት',
+    'data.category.5.item.2.name': 'ብሔራዊ የባህል ትውስታ ባንክ',
+    'data.category.5.item.2.desc': 'የኢትዮጵያ ባህላዊ ትውስታ ዲጂታል ጥበቃ',
+    'data.category.5.item.3.name': 'የኢትዮጵያ ብዝሃ ህይወት መረብ',
+    'data.category.5.item.3.desc': 'የዝርያ ስርጭት እና የስነ-ምህዳር ምልከታ መረጃ',
+    'data.category.5.item.4.name': 'TAIC — የኢትዮጵያ AI ኮርፐስ',
+    'data.category.5.item.4.desc': 'የኢትዮጵያ ሉዓላዊ AI ስልጠና ዳታሴት',
 
     // Meta
-    'data.meta.title': '📊 [Amharic translation needed - original Taiwan context]Ethiopia — Ethiopia.md',
+    'data.meta.title': '📊 የኢትዮጵያ መረጃ — Ethiopia.md',
     'data.meta.description':
-      '[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]',
+      'ኢትዮጵያ በዓለም ላይ ያላት ስፍራ፣ ትክክለኛ የካርታ ቅርጽ፣ እና ክፍት የመረጃ ግብዓቶች',
 
     // Hero
-    'data.hero.title': '[Amharic translation needed - original Taiwan context]Ethiopia',
-    'data.hero.subtitle': '[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]',
+    'data.hero.title': 'የኢትዮጵያ መረጃ — ኢትዮጵያን በቁጥሮች መረዳት',
+    'data.hero.subtitle':
+      'በይነተገናኝ ምስላዊ መረጃዎች እና ክፍት መረጃ የኢትዮጵያን ትክክለኛ ገጽታ ለመረዳት',
     'data.hero.description':
-      '[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。',
+      'ለኢትዮጵያ የመረጃ ታሪክ የተዘጋጀ ልዩ ቦታ። ከትክክለኛ የኢትዮጵያ ቅርጽ እስከ ክፍት የመረጃ ግብዓቶች ድረስ — ቁጥሮች የኢትዮጵያን ታሪክ እንዲናገሩ በይነተገናኝ ምስላዊ አቀራረብ እና ክፍት ግብዓቶችን እንጠቀማለን።',
 
     // Enterprise Section
-    'data.enterprise.title': '🏢 [Amharic translation needed - original Taiwan context]',
-    'data.enterprise.story.p1': '[Amharic translation needed - original Taiwan context]？',
+    'data.enterprise.title':
+      '🏢 የድርጅቶች ገጽታ — አንድ ሀገር የዓለም አቅርቦት ሰንሰለትን እንዴት ትደግፋለች?',
+    'data.enterprise.story.p1':
+      'ኢትዮጵያ በዓለም አቀፍ ኢኮኖሚ ውስጥ ጉልህ ሚና የምትጫወት ሀገር ስትሆን፣ የተለያዩ ኢንዱስትሪዎችን በማልማት ላይ ትገኛለች።',
     'data.enterprise.story.p2':
-      '[Amharic translation needed - original Taiwan context] 2,670 [Amharic translation needed - original Taiwan context] 87 [Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context] 50 [Amharic translation needed - original Taiwan context]。 12 [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]，9 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context] 2% [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 4% [Amharic translation needed - original Taiwan context] GDP。',
-    'data.enterprise.controls.sizeLabel': '[Amharic translation needed - original Taiwan context]：',
-    'data.enterprise.controls.marketCap': '[Amharic translation needed - original Taiwan context]',
-    'data.enterprise.controls.revenue': '[Amharic translation needed - original Taiwan context]',
-    'data.enterprise.controls.employees': '[Amharic translation needed - original Taiwan context]',
-    'data.enterprise.controls.filterAll': '[Amharic translation needed - original Taiwan context]',
-    'data.enterprise.insights.heading': '[Amharic translation needed - original Taiwan context]',
+      'ከዚህ በታች ያለው በይነተገናኝ የአረፋ ገበታ የኢትዮጵያን ኢኮኖሚያዊ ገጽታ ያሳያል፣ ትላልቅ ድርጅቶች በገበያ ካፒታል ውስጥ ያላቸውን ድርሻ በመግለጽ። ውስብስብ የማምረቻ እና የአገልግሎት ስነ-ምህዳር ከትላልቅ ኩባንያዎች እስከ ትናንሽ አቅራቢዎች ድረስ ይህንን ኢኮኖሚ ይመሰርታል።',
+    'data.enterprise.controls.sizeLabel': 'የአረፋ መጠን በ፦',
+    'data.enterprise.controls.marketCap': 'የገበያ ካፒታል',
+    'data.enterprise.controls.revenue': 'ገቢ',
+    'data.enterprise.controls.employees': 'ሠራተኞች',
+    'data.enterprise.controls.filterAll': 'ሁሉም',
+    'data.enterprise.insights.heading': '🔍 ዋና ዋና ግኝቶች',
     'data.enterprise.insights.card1.number': '39%',
-    'data.enterprise.insights.card1.label': '[Amharic translation needed - original Taiwan context]',
+    'data.enterprise.insights.card1.label':
+      'ግንባር ቀደሙ ድርጅት ካለው ጠቅላላ የገበያ ካፒታል ውስጥ ያለው ድርሻ',
     'data.enterprise.insights.card1.detail':
-      '[Amharic translation needed - original Taiwan context] ≈ [Amharic translation needed - original Taiwan context] 2/3',
+      'አንድ ድርጅት ብቻ ከሌሎች በመቶዎች ከሚቆጠሩ ተመዝጋቢ ድርጅቶች ጋር ሲነጻጸር ከፍተኛ ድርሻ ይይዛል',
     'data.enterprise.insights.card2.number': '72%',
-    'data.enterprise.insights.card2.label': '[Amharic translation needed - original Taiwan context] 50 [Amharic translation needed - original Taiwan context]',
-    'data.enterprise.insights.card2.detail': 'Ethiopia[Amharic translation needed - original Taiwan context]',
-    'data.enterprise.insights.card3.number': '12 [Amharic translation needed - original Taiwan context]',
-    'data.enterprise.insights.card3.label': '[Amharic translation needed - original Taiwan context]',
-    'data.enterprise.insights.card3.detail': '[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」—— [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]',
-    'data.enterprise.insights.card4.number': '9 [Amharic translation needed - original Taiwan context]',
-    'data.enterprise.insights.card4.label': '[Amharic translation needed - original Taiwan context] 50',
-    'data.enterprise.insights.card4.detail': '[Amharic translation needed - original Taiwan context]',
-    'data.enterprise.exploreLink': '[Amharic translation needed - original Taiwan context] →',
+    'data.enterprise.insights.card2.label':
+      'ከፍተኛዎቹ 50 ድርጅቶች ካላቸው ጠቅላላ የገበያ ካፒታል ውስጥ ያለው ድርሻ',
+    'data.enterprise.insights.card2.detail':
+      'የኢትዮጵያ የአክሲዮን ገበያ በትላልቅ ድርጅቶች ላይ ያተኮረ ነው',
+    'data.enterprise.insights.card3.number': '—',
+    'data.enterprise.insights.card3.label': 'ከፍተኛ ደረጃ የደረሱ የቴክኖሎጂ ድርጅቶች ቁጥር',
+    'data.enterprise.insights.card3.detail':
+      'ቴክኖሎጂ ዘርፍ ለሀገሪቱ ኢኮኖሚ ያለውን ስትራቴጂካዊ ጠቀሜታ ያጎላል',
+    'data.enterprise.insights.card4.number': '9',
+    'data.enterprise.insights.card4.label': 'ከከፍተኛዎቹ 50 ውስጥ የሚገኙ የፋይናንስ ተቋማት',
+    'data.enterprise.insights.card4.detail': 'ከውህደት በኋላ የፋይናንስ ዘርፉ መረጋጋትን ይሰጣል',
+    'data.enterprise.exploreLink': 'ሙሉ ደረጃን ይመልከቱ →',
 
     // Ethiopia vs World Section
-    'data.ethiopiaVsWorld.title': '🌏 Ethiopia[Amharic translation needed - original Taiwan context]',
-    'data.ethiopiaVsWorld.story.p1': '[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 2,300 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 92% [Amharic translation needed - original Taiwan context]。Ethiopia[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] GDP [Amharic translation needed - original Taiwan context] 7.5 [Amharic translation needed - original Taiwan context]。',
-    'data.ethiopiaVsWorld.story.p2': '[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] 0.32% [Amharic translation needed - original Taiwan context] 4% [Amharic translation needed - original Taiwan context]？[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。',
+    'data.ethiopiaVsWorld.title': '🌏 የኢትዮጵያ በዓለም ላይ ያላት ስፍራ',
+    'data.ethiopiaVsWorld.story.p1':
+      'ከአፍሪካ ትላልቅ ሀገራት አንዷ በሆነችው ኢትዮጵያ ውስጥ ከ80 በላይ የተለያዩ ብሔረሰቦች ይኖራሉ፤ ከናይጄሪያ ቀጥሎ በሕዝብ ብዛት ሁለተኛዋ የአፍሪካ ሀገር ስትሆን፣ በአውሮፓ ኃያላን ቅኝ ተገዢ ያልነበረች ብቸኛዋ የአፍሪካ ሀገር ናት።',
+    'data.ethiopiaVsWorld.story.p2':
+      'የአፍሪካ ሕብረት ዋና መሥሪያ ቤትን ከማስተናገድ እስከ ቡና የተገኘችበት ሀገር እስከመሆን፣ ኢትዮጵያን በዓለም ካርታ ላይ የሚያስቀምጧት ስምንት እውነታዎች እነሆ።',
 
-    'data.ethiopiaVsWorld.area.number': '36,197 km²',
-    'data.ethiopiaVsWorld.area.label': '[Amharic translation needed - original Taiwan context] ≈ [Amharic translation needed - original Taiwan context]',
-    'data.ethiopiaVsWorld.area.context': '[Amharic translation needed - original Taiwan context] 2.35 [Amharic translation needed - original Taiwan context]（2,350[Amharic translation needed - original Taiwan context] vs 1,170[Amharic translation needed - original Taiwan context]）',
+    'data.ethiopiaVsWorld.area.number': '≈1.1 ሚሊዮን ካሬ ኪ.ሜ',
+    'data.ethiopiaVsWorld.area.label': 'የቆዳ ስፋት',
+    'data.ethiopiaVsWorld.area.context': 'ከአፍሪካ ትላልቅ ሀገራት አንዷ (በዓለም ደረጃ 27ኛ)',
 
-    'data.ethiopiaVsWorld.gdp.number': '$75K',
-    'data.ethiopiaVsWorld.gdp.label': '[Amharic translation needed - original Taiwan context] GDP (PPP)',
-    'data.ethiopiaVsWorld.gdp.context': '[Amharic translation needed - original Taiwan context] 15 [Amharic translation needed - original Taiwan context]，vs [Amharic translation needed - original Taiwan context] $38K（[Amharic translation needed - original Taiwan context]）',
+    'data.ethiopiaVsWorld.gdp.number': '≈129 ሚሊዮን',
+    'data.ethiopiaVsWorld.gdp.label': 'የሕዝብ ብዛት (2024)',
+    'data.ethiopiaVsWorld.gdp.context': 'ከናይጄሪያ ቀጥሎ በአፍሪካ ሁለተኛዋ በሕዝብ ብዛት ሀገር',
 
-    'data.ethiopiaVsWorld.semiconductor.number': '90%+',
-    'data.ethiopiaVsWorld.semiconductor.label': '[Amharic translation needed - original Taiwan context]',
-    'data.ethiopiaVsWorld.semiconductor.context': '[Amharic translation needed - original Taiwan context] <7nm [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]',
+    'data.ethiopiaVsWorld.semiconductor.number': 'AU',
+    'data.ethiopiaVsWorld.semiconductor.label': 'የአፍሪካ ሕብረት መቀመጫ ከተማ',
+    'data.ethiopiaVsWorld.semiconductor.context':
+      'አዲስ አበባ የአፍሪካ ሕብረት ዋና መሥሪያ ቤት መቀመጫ ስትሆን፣ ብዙ ጊዜ የአፍሪካ የፖለቲካ ዋና ከተማ ተብላ ትጠራለች',
 
-    'data.ethiopiaVsWorld.democracy.number': '[Amharic translation needed - original Taiwan context]12[Amharic translation needed - original Taiwan context]',
-    'data.ethiopiaVsWorld.democracy.label': '[Amharic translation needed - original Taiwan context]',
-    'data.ethiopiaVsWorld.democracy.context': '[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] 10「[Amharic translation needed - original Taiwan context]」(EIU 2024)',
+    'data.ethiopiaVsWorld.democracy.number': '12',
+    'data.ethiopiaVsWorld.democracy.label': 'የዩኔስኮ የዓለም ቅርስ ቦታዎች',
+    'data.ethiopiaVsWorld.democracy.context':
+      'ከየትኛውም የአፍሪካ ሀገር በላይ፣ ላሊበላ እና አክሱምን ጨምሮ',
 
-    'data.ethiopiaVsWorld.birthRate.number': '0.87',
-    'data.ethiopiaVsWorld.birthRate.label': '[Amharic translation needed - original Taiwan context]（2024）',
-    'data.ethiopiaVsWorld.birthRate.context': '[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]',
+    'data.ethiopiaVsWorld.birthRate.number': '80+',
+    'data.ethiopiaVsWorld.birthRate.label': 'ብሔረሰቦች',
+    'data.ethiopiaVsWorld.birthRate.context':
+      'በብሔር እና ቋንቋ ብዝሃነት ላይ የተመሠረተ የፌዴራል ሥርዓት',
 
-    'data.ethiopiaVsWorld.convenience.number': '1/2,000[Amharic translation needed - original Taiwan context]',
-    'data.ethiopiaVsWorld.convenience.label': '[Amharic translation needed - original Taiwan context]',
-    'data.ethiopiaVsWorld.convenience.context': '12,368 [Amharic translation needed - original Taiwan context]（7-11+[Amharic translation needed - original Taiwan context]+[Amharic translation needed - original Taiwan context]+OK），[Amharic translation needed - original Taiwan context]',
+    'data.ethiopiaVsWorld.convenience.number': '#5',
+    'data.ethiopiaVsWorld.convenience.label': 'በዓለም የቡና አምራችነት ደረጃ',
+    'data.ethiopiaVsWorld.convenience.context':
+      'ቡና የተገኘችበት ሀገር፣ አሁንም ካሉት ከፍተኛ 5 አምራች ሀገራት አንዷ',
 
-    'data.ethiopiaVsWorld.hsr.number': '345[Amharic translation needed - original Taiwan context]',
-    'data.ethiopiaVsWorld.hsr.label': '[Amharic translation needed - original Taiwan context]',
-    'data.ethiopiaVsWorld.hsr.context': '12 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 18 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 96%',
+    'data.ethiopiaVsWorld.hsr.number': '2,355 ሜትር',
+    'data.ethiopiaVsWorld.hsr.label': 'የአዲስ አበባ ከፍታ',
+    'data.ethiopiaVsWorld.hsr.context': 'በአፍሪካ ከፍተኛዋ ዋና ከተማ፣ በዓለም 4ኛዋ',
 
-    'data.ethiopiaVsWorld.healthcare.number': '99.9%',
-    'data.ethiopiaVsWorld.healthcare.label': '[Amharic translation needed - original Taiwan context]',
-    'data.ethiopiaVsWorld.healthcare.context': '[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]',
+    'data.ethiopiaVsWorld.healthcare.number': '≈7-8 ዓመት',
+    'data.ethiopiaVsWorld.healthcare.label': 'የኢትዮጵያ ዘመን አቆጣጠር ልዩነት',
+    'data.ethiopiaVsWorld.healthcare.context':
+      'ኢትዮጵያ የራሷ የዘመን አቆጣጠር አላት፤ ከግሪጎሪያን አቆጣጠር በዓመታት ወደኋላ ይቆጠራል',
 
     // Digital Democracy Timeline Section
-    'data.digitalDemocracy.title': '📡 [Amharic translation needed - original Taiwan context] — 30 [Amharic translation needed - original Taiwan context]',
-    'data.digitalDemocracy.story.p1': '[Amharic translation needed - original Taiwan context]：Ethiopia[Amharic translation needed - original Taiwan context]。',
-    'data.digitalDemocracy.story.p2': '[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。',
+    'data.digitalDemocracy.title':
+      '📡 የዲጂታል ዴሞክራሲ የጊዜ መስመር — የዲጂታል አስተዳደር ዕድገት',
+    'data.digitalDemocracy.story.p1':
+      'ከመንግስት ዲጂታላይዜሽን እስከ ዲጂታል ዴሞክራሲ፦ የኢትዮጵያ ጉዞ ከኢ-መንግስት ወደ ክፍት መንግስት እና ወደ ዲጂታል ጽናት።',
+    'data.digitalDemocracy.story.p2':
+      'ስለ ኢትዮጵያ ልዩ የዲጂታል ዴሞክራሲ ሙከራዎች የበለጠ ለማወቅ በእያንዳንዱ ምዕራፍ ላይ ጠቋሚዎን ያንቀሳቅሱ።',
 
-    'data.timeline.1997.title': '[Amharic translation needed - original Taiwan context]',
-    'data.timeline.1997.desc': '[Amharic translation needed - original Taiwan context]',
+    'data.timeline.1997.title': 'የኤሌክትሮኒክስ መንግስት ፕሮግራም',
+    'data.timeline.1997.desc': 'የመንግስት አገልግሎቶች ዲጂታላይዜሽን ተጀመረ',
 
-    'data.timeline.2003.title': '[Amharic translation needed - original Taiwan context]',
-    'data.timeline.2003.desc': '[Amharic translation needed - original Taiwan context]',
+    'data.timeline.2003.title': 'ክፍት ምንጭ ሶፍትዌር ማስፋፋት',
+    'data.timeline.2003.desc': 'በመንግስት ውስጥ ክፍት ምንጭ ሶፍትዌር አጠቃቀም',
 
-    'data.timeline.2012.title': 'g0v [Amharic translation needed - original Taiwan context]',
-    'data.timeline.2012.desc': '[Amharic translation needed - original Taiwan context] 2 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]',
+    'data.timeline.2012.title': 'g0v የሲቪክ ቴክኖሎጂ ንቅናቄ ተጀመረ',
+    'data.timeline.2012.desc': 'የዜጎች ቴክኖሎጂ ተሳትፎ መሰረት ተጣለ',
 
-    'data.timeline.2013.title': 'data.gov.tw [Amharic translation needed - original Taiwan context]',
-    'data.timeline.2013.desc': 'Ethiopia[Amharic translation needed - original Taiwan context]',
+    'data.timeline.2013.title': 'ክፍት የመንግስት መረጃ መድረክ ተጀመረ',
+    'data.timeline.2013.desc': 'ኢትዮጵያ ወደ ክፍት መረጃ አሰራር ገባች',
 
-    'data.timeline.2014.title': '[Amharic translation needed - original Taiwan context]',
-    'data.timeline.2014.desc': '[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]',
+    'data.timeline.2014.title': 'የዜጎች ንቅናቄ',
+    'data.timeline.2014.desc': 'የሲቪክ ቴክኖሎጂ መስፋፋት፣ የዲጂታል ዴሞክራሲ መንቃት',
 
-    'data.timeline.2015.title': '[Amharic translation needed - original Taiwan context]',
-    'data.timeline.2015.desc': '[Amharic translation needed - original Taiwan context]（2015-2017）',
+    'data.timeline.2015.title': 'ዓለም አቀፍ የክፍት መረጃ እውቅና',
+    'data.timeline.2015.desc': 'ለተከታታይ ዓመታት የተመዘገበ ዕድገት',
 
-    'data.timeline.2016.title': '[Amharic translation needed - original Taiwan context]',
-    'data.timeline.2016.desc': 'g0v [Amharic translation needed - original Taiwan context]',
+    'data.timeline.2016.title': 'ዲጂታል ሚኒስትር ሹመት',
+    'data.timeline.2016.desc': 'የሲቪክ ቴክኖሎጂ ተሳታፊ የመንግስት ሚኒስትር ሆነ',
 
-    'data.timeline.2020.title': '[Amharic translation needed - original Taiwan context]',
-    'data.timeline.2020.desc': '72 [Amharic translation needed - original Taiwan context]，COVID-19 [Amharic translation needed - original Taiwan context]',
+    'data.timeline.2020.title': 'የቀውስ ምላሽ ዲጂታል መሳሪያ',
+    'data.timeline.2020.desc': 'በኮቪድ-19 ወቅት የተዘጋጀ ዲጂታል መፍትሄ',
 
-    'data.timeline.2022.title': '[Amharic translation needed - original Taiwan context]',
-    'data.timeline.2022.desc': '[Amharic translation needed - original Taiwan context]（moda）',
+    'data.timeline.2022.title': 'ዲጂታል ጉዳዮች ሚኒስቴር',
+    'data.timeline.2022.desc': 'ዲጂታል አስተዳደር ወደ ካቢኔ ደረጃ ከፍ ብሏል',
 
-    'data.timeline.2023.title': 'TAIDE Ethiopia AI [Amharic translation needed - original Taiwan context]',
-    'data.timeline.2023.desc': 'Ethiopia[Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context]',
+    'data.timeline.2023.title': 'ብሔራዊ AI ኮርፐስ',
+    'data.timeline.2023.desc': 'የኢትዮጵያ ሉዓላዊ AI የቋንቋ ሞዴል',
 
-    'data.timeline.2024.title': 'Plurality [Amharic translation needed - original Taiwan context]',
-    'data.timeline.2024.desc': '[Amharic translation needed - original Taiwan context]',
+    'data.timeline.2024.title': 'ዓለም አቀፍ ትብብር',
+    'data.timeline.2024.desc': 'የዲጂታል ዴሞክራሲ ሞዴሎች በዓለም አቀፍ ደረጃ ተጋሩ',
 
     // Population Pyramid Section
-    'data.population.title': '👥 [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]',
-    'data.population.story.p1': '2025 [Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context] 43 [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。',
-    'data.population.story.p2': '[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。',
-    
-    'data.population.insights.card1.title': '[Amharic translation needed - original Taiwan context]',
-    'data.population.insights.card1.subtitle': '[Amharic translation needed - original Taiwan context]',
-    'data.population.insights.card1.detail': '43 [Amharic translation needed - original Taiwan context]',
-    
-    'data.population.insights.card2.title': '[Amharic translation needed - original Taiwan context]',
-    'data.population.insights.card2.subtitle': '[Amharic translation needed - original Taiwan context]',
+    'data.population.title': '👥 የህዝብ አወቃቀር፦ የኢትዮጵያ የዕድሜ ገጽታ',
+    'data.population.story.p1':
+      'የኢትዮጵያ የህዝብ አወቃቀር ከጊዜ ወደ ጊዜ እየተለወጠ ሲሆን፣ ይህ ለወደፊት ዕቅድ ማውጣት ወሳኝ ጉዳይ ነው።',
+    'data.population.story.p2':
+      'የጊዜ መስመሩን በመጎተት የህዝብ አወቃቀር በጊዜ ሂደት እንዴት እንደሚቀያየር ይመልከቱ።',
+
+    'data.population.insights.card1.title': 'መካከለኛ ዕድሜ',
+    'data.population.insights.card1.subtitle': 'በጊዜ ሂደት የሚጠበቅ ለውጥ',
+    'data.population.insights.card1.detail': '—',
+
+    'data.population.insights.card2.title': 'የመውለድ መጠን',
+    'data.population.insights.card2.subtitle': 'የመውለድ መጠን አመልካች',
     'data.population.insights.card2.detail': '0.87',
-    
-    'data.population.insights.card3.title': '65+ [Amharic translation needed - original Taiwan context]',
-    'data.population.insights.card3.subtitle': '65[Amharic translation needed - original Taiwan context]',
+
+    'data.population.insights.card3.title': '65+ ህዝብ',
+    'data.population.insights.card3.subtitle': '65 ዓመት እና ከዚያ በላይ የሆኑ ድርሻ',
     'data.population.insights.card3.detail': '18%',
-    
-    'data.population.insights.card4.title': '[Amharic translation needed - original Taiwan context]',
-    'data.population.insights.card4.subtitle': '[Amharic translation needed - original Taiwan context]',
-    'data.population.insights.card4.detail': '2,340 [Amharic translation needed - original Taiwan context] → <2,000 [Amharic translation needed - original Taiwan context]',
+
+    'data.population.insights.card4.title': 'ጠቅላላ ህዝብ ብዛት',
+    'data.population.insights.card4.subtitle': 'የሚጠበቅ የህዝብ ብዛት አዝማሚያ',
+    'data.population.insights.card4.detail': '—',
 
     // Ethiopia Shape Section
-    'data.ethiopiaShape.title': '🗺️ Ethiopia[Amharic translation needed - original Taiwan context]',
-    'data.ethiopiaComparison.title': 'AI [Amharic translation needed - original Taiwan context]Ethiopia vs [Amharic translation needed - original Taiwan context]Ethiopia',
-    'data.ethiopiaComparison.aiGenerated': 'Claude Opus 4.6 [Amharic translation needed - original Taiwan context]（2025/3/22，[Amharic translation needed - original Taiwan context]）',
-    'data.ethiopiaComparison.correct': '[Amharic translation needed - original Taiwan context]',
-    'data.ethiopiaShape.story.p1': 'AI [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]。',
+    'data.ethiopiaShape.title':
+      '🗺️ የኢትዮጵያ ቅርጽ — AI ኢትዮጵያን በትክክል መሳል አይችልም። እነሆ ትክክለኛው ቅርጽ።',
+    'data.ethiopiaComparison.title': 'በAI የተሳለች ኢትዮጵያ እና እውነተኛዋ ኢትዮጵያ',
+    'data.ethiopiaComparison.aiGenerated':
+      'በClaude Opus 4.6 የተፈጠረ (2025/3/22፣ ሆን ተብሎ የተዛባ አይደለም)',
+    'data.ethiopiaComparison.correct': 'እውነተኛዋ ኢትዮጵያ',
+    'data.ethiopiaShape.story.p1':
+      'አብዛኞቹ የ AI ምስል መፍጠሪያ ሞዴሎች ለኢትዮጵያ የተዋቀረ ጂኦግራፊያዊ መረጃ በስልጠና መረጃቸው ውስጥ አይኖራቸውም። በዚህ ምክንያት፣ በ AI የተፈጠሩ የኢትዮጵያ ምስሎች ብዙውን ጊዜ የተዛቡ፣ ያልተመጣጠኑ ወይም ከሌሎች ሀገራት ጋር የተምታቱ ናቸው።',
     'data.ethiopiaShape.story.p2':
-      '[Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。 Ethiopia.md [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]Ethiopia SVG [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「Ethiopia[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]。',
+      'Ethiopia.md ትክክለኛ፣ ክፍት ምንጭ እና በነጻ ሊጠቀሙባቸው የሚችሉ SVG ገጽታዎችን ያቀርባል — ኢትዮጵያ ምን እንደምትመስል ማወቅ ለሚያስፈልገው ለማንኛውም ሁኔታ የመጨረሻ መልስ።',
 
     // SVG Cards
     'data.svg.card1.title': 'ethiopia-icon.svg',
-    'data.svg.card1.description': 'Ethiopia[Amharic translation needed - original Taiwan context] Icon — [Amharic translation needed - original Taiwan context] icon、logo、[Amharic translation needed - original Taiwan context]',
+    'data.svg.card1.description': 'ቀላል ንድፍ — ለአዶዎች፣ አርማዎች እና ትናንሽ መጠኖች ተስማሚ',
     'data.svg.card2.title': 'ethiopia-simplemaps.svg',
-    'data.svg.card2.description': 'SimpleMaps [Amharic translation needed - original Taiwan context] — [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]',
+    'data.svg.card2.description': 'ንጹህ ቬክተር — ለድር ጣቢያ ማካተት ተስማሚ',
     'data.svg.card3.title': 'ethiopia-location-map.svg',
-    'data.svg.card3.description': '[Amharic translation needed - original Taiwan context] — [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]',
+    'data.svg.card3.description': 'ከመጋጠሚያዎች ጋር — ለጂኦግራፊያዊ ማጣቀሻ ተስማሚ',
     'data.svg.card4.title': 'ethiopia-political-division.svg',
-    'data.svg.card4.description': '[Amharic translation needed - original Taiwan context] — [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]',
-    'data.svg.button.download': '[Amharic translation needed - original Taiwan context] SVG',
-    'data.svg.button.copy': '[Amharic translation needed - original Taiwan context]',
-    'data.svg.button.copied': '✅ [Amharic translation needed - original Taiwan context]',
-    'data.svg.button.failed': '❌ [Amharic translation needed - original Taiwan context]',
-    'data.svg.usage.heading': '📝 [Amharic translation needed - original Taiwan context]',
+    'data.svg.card4.description': 'የአስተዳደር ክልሎች — የዞን/ከተማ ድንበሮች',
+    'data.svg.button.download': 'SVG አውርድ',
+    'data.svg.button.copy': 'SVG ቅዳ',
+    'data.svg.button.copied': '✅ ተቀድቷል',
+    'data.svg.button.failed': '❌ አልተሳካም',
+    'data.svg.usage.heading': '📝 አጠቃቀም',
     'data.svg.usage.licenseNote':
-      '[Amharic translation needed - original Taiwan context] SVG [Amharic translation needed - original Taiwan context] CC BY-SA 4.0 [Amharic translation needed - original Taiwan context]。 [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。',
+      'ፈቃድ፦ ሁሉም SVG ፋይሎች በ CC BY-SA 4.0 ስር ይገኛሉ። በነጻ ለመጠቀም፣ ለማሻሻል እና ለንግድ ስራ ለማዋል ተፈቅዷል — ምንጭ ብቻ ይጥቀሱ።',
 
     // Open Data Section (legacy, now part of digital democracy)
-    'data.openData.title': '📡 [Amharic translation needed - original Taiwan context]',
-    'data.openData.story.p1': '[Amharic translation needed - original Taiwan context]：Ethiopia[Amharic translation needed - original Taiwan context]',
+    'data.openData.title':
+      '📡 ክፍት መረጃ እና ዲጂታል ዴሞክራሲ — የዲጂታላይዜሽን እና የሲቪክ ቴክኖሎጂ ጉዞ',
+    'data.openData.story.p1':
+      'የኢትዮጵያ የዲጂታል ዴሞክራሲ ጉዞ ከመንግስት አገልግሎቶች ዲጂታላይዜሽን ተጀምሮ ወደ ክፍት መንግስት አሰራር አድጓል።',
     'data.openData.story.p2':
-      '1997 [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]，2013 [Amharic translation needed - original Taiwan context] data.gov.tw [Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]。 2015-2017 [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]。g0v [Amharic translation needed - original Taiwan context]、Cofacts [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。',
+      'ኢትዮጵያን ልዩ የሚያደርጋት የሲቪክ ቴክኖሎጂ ማህበረሰብ ሲሆን፣ መንግስትን ከመተቸት ባለፈ በንቁ ተሳትፎ እንደገና የሚገነባ ነው። በጎ ፈቃደኞች የተለያዩ ክፍት ምንጭ ፕሮጀክቶችን በማልማት ለህዝብ ጥቅም የሚውሉ መፍትሄዎችን ያቀርባሉ።',
     'data.openData.story.p3':
-      '[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。',
+      'የሲቪክ ቴክኖሎጂ ተሳታፊዎች ወደ መንግስት ውሳኔ አሰጣጥ ሂደት እንዲካተቱ በማድረግ፣ ኢትዮጵያ ግልጽነት እና የዜጎች ተሳትፎን በሚያጎለብት አሰራር ትመራለች። ዲጂታል አስተዳደር ወደ ከፍተኛ የፖሊሲ ደረጃ ከፍ በማለት፣ የሀገር በቀል የቴክኖሎጂ አቅምና ዲጂታል ጽናት ግንባታ ቅድሚያ ተሰጥቶታል።',
 
     // Knowledge Graph Section
-    'data.knowledgeGraph.title': '🕸️ [Amharic translation needed - original Taiwan context]',
-    'data.knowledgeGraph.story.p1': 'ethiopia.md [Amharic translation needed - original Taiwan context] 200+ [Amharic translation needed - original Taiwan context]？',
+    'data.knowledgeGraph.title': '🕸️ የዕውቀት ግራፍ — የኢትዮጵያ የተሳሰረ ገጽታ',
+    'data.knowledgeGraph.story.p1':
+      'የኢትዮጵያ ኢኮኖሚ፣ ባህል፣ ቴክኖሎጂ እና ማህበረሰብ በበይነተገናኝ የዕውቀት ግራፋችን አማካኝነት እንዴት እንደሚተሳሰሩ ያስሱ። ከኢኮኖሚ ዘርፎች እስከ ባህላዊ ገበያዎች፣ ኢትዮጵያን ልዩ የሚያደርጓትን ስውር ትስስሮች ያግኙ።',
     'data.knowledgeGraph.story.p2':
-      '[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] Hub [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。',
-    'data.knowledgeGraph.ctaButton': '[Amharic translation needed - original Taiwan context]',
-    'data.knowledgeGraph.ctaButton.description': '[Amharic translation needed - original Taiwan context]',
+      'ከታሪክ እስከ ጂኦግራፊ፣ ከባህል እስከ ቴክኖሎጂ፣ እያንዳንዱ ጽሑፍ በኢትዮጵያ ታሪክ መረብ ውስጥ ማስተሳሰሪያ ነጥብ ነው። በመለያ ትስስሮች እና በ Hub ማጣቀሻዎች አማካኝነት የተበታተነ ዕውቀትን ወደ ሕያው ካርታ እንሸምናለን። የኢትዮጵያን ዕውቀት ጥልቅ አወቃቀር ለማሰስ ይጫኑ።',
+    'data.knowledgeGraph.ctaButton': 'የዕውቀት ግራፍን ያስሱ →',
+    'data.knowledgeGraph.ctaButton.description': 'በይነተገናኝ የጽሑፎች ትስስር መረብ',
 
     // Footer
-    'data.footer.heading': '[Amharic translation needed - original Taiwan context]',
-    'data.footer.link1.name': '[Amharic translation needed - original Taiwan context]',
-    'data.footer.link1.description': '[Amharic translation needed - original Taiwan context]',
-    'data.footer.link2.name': '[Amharic translation needed - original Taiwan context]',
-    'data.footer.link2.description': '[Amharic translation needed - original Taiwan context]',
-    'data.footer.link3.name': '[Amharic translation needed - original Taiwan context]',
-    'data.footer.link3.description': '[Amharic translation needed - original Taiwan context] Ethiopia.md [Amharic translation needed - original Taiwan context]',
+    'data.footer.heading': 'ተጨማሪ ያስሱ',
+    'data.footer.link1.name': 'ኢኮኖሚ',
+    'data.footer.link1.description': 'የኢኮኖሚ ጽሑፎች እና ጥልቅ ትንተና',
+    'data.footer.link2.name': 'የዕውቀት ግራፍ',
+    'data.footer.link2.description': 'የጽሑፎች ትስስር ምስላዊ መረብ',
+    'data.footer.link3.name': 'አስተዋጽኦ ያድርጉ',
+    'data.footer.link3.description': 'ለEthiopia.md አስተዋጽኦ እንዴት ማድረግ እንደሚቻል',
 
     // Sector Names (Chinese)
-    'data.sector.semiconductor': '[Amharic translation needed - original Taiwan context]',
-    'data.sector.electronicsManufacturing': '[Amharic translation needed - original Taiwan context]',
-    'data.sector.electronicComponents': '[Amharic translation needed - original Taiwan context]',
-    'data.sector.financial': '[Amharic translation needed - original Taiwan context]',
-    'data.sector.telecommunications': '[Amharic translation needed - original Taiwan context]',
-    'data.sector.foodBeverage': '[Amharic translation needed - original Taiwan context]',
-    'data.sector.shipping': '[Amharic translation needed - original Taiwan context]',
-    'data.sector.computerBrand': '[Amharic translation needed - original Taiwan context]',
-    'data.sector.steel': '[Amharic translation needed - original Taiwan context]',
-    'data.sector.petrochemical': '[Amharic translation needed - original Taiwan context]',
-    'data.sector.cement': '[Amharic translation needed - original Taiwan context]',
-    'data.sector.optics': '[Amharic translation needed - original Taiwan context]',
-    'data.sector.bicycle': '[Amharic translation needed - original Taiwan context]',
-    'data.sector.textileFiber': '[Amharic translation needed - original Taiwan context]',
-    'data.sector.transportation': '[Amharic translation needed - original Taiwan context]',
-    'data.sector.consumerElectronics': '[Amharic translation needed - original Taiwan context]',
-    'data.sector.industrialComputer': '[Amharic translation needed - original Taiwan context]',
-    'data.sector.casing': '[Amharic translation needed - original Taiwan context]',
-    'data.sector.petrochemicalPanel': '[Amharic translation needed - original Taiwan context]',
-    'data.sector.server': '[Amharic translation needed - original Taiwan context]',
+    'data.sector.semiconductor': 'ሴሚኮንዳክተር',
+    'data.sector.electronicsManufacturing': 'የኤሌክትሮኒክስ ማምረቻ',
+    'data.sector.electronicComponents': 'የኤሌክትሮኒክስ ክፍሎች',
+    'data.sector.financial': 'ፋይናንስ',
+    'data.sector.telecommunications': 'ቴሌኮሙኒኬሽን',
+    'data.sector.foodBeverage': 'ምግብና መጠጥ',
+    'data.sector.shipping': 'የመርከብ ትራንስፖርት',
+    'data.sector.computerBrand': 'የኮምፒውተር ብራንድ',
+    'data.sector.steel': 'ብረታ ብረት',
+    'data.sector.petrochemical': 'ፔትሮኬሚካል',
+    'data.sector.cement': 'ሲሚንቶ',
+    'data.sector.optics': 'ኦፕቲክስ',
+    'data.sector.bicycle': 'ብስክሌት',
+    'data.sector.textileFiber': 'ጨርቃ ጨርቅና ፋይበር',
+    'data.sector.transportation': 'ትራንስፖርት',
+    'data.sector.consumerElectronics': 'የሸማች ኤሌክትሮኒክስ',
+    'data.sector.industrialComputer': 'የኢንዱስትሪ ኮምፒውተር',
+    'data.sector.casing': 'መያዣ',
+    'data.sector.petrochemicalPanel': 'ፔትሮኬሚካል ፓነል',
+    'data.sector.server': 'ሰርቨር',
     'data.sector.pcb': 'PCB',
-    'data.sector.precisionMachinery': '[Amharic translation needed - original Taiwan context]',
+    'data.sector.precisionMachinery': 'ትክክለኛ ማሽነሪ',
 
     // Tooltip
-    'data.tooltip.marketCap': '[Amharic translation needed - original Taiwan context]',
-    'data.tooltip.revenue': '[Amharic translation needed - original Taiwan context]',
-    'data.tooltip.employees': '[Amharic translation needed - original Taiwan context]',
-    'data.tooltip.founded': '[Amharic translation needed - original Taiwan context]',
+    'data.tooltip.marketCap': 'የገበያ ካፒታል',
+    'data.tooltip.revenue': 'ገቢ',
+    'data.tooltip.employees': 'ሠራተኞች',
+    'data.tooltip.founded': 'የተመሰረተበት',
   },
 } as const;

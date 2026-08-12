@@ -18,7 +18,7 @@ const {
   title,
   description = lang === 'en'
     ? 'The open-source, AI-friendly knowledge base about Ethiopia. 660+ pages covering history, culture, food, music, technology and more — written by the community, for the world.'
-    : '[Amharic translation needed - original Taiwan context]、AI-friendly [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。660+ [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] 12 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia。',
+    : 'ክፍት ምንጭ የሆነ፣ ለ AI ተስማሚ ስለ ኢትዮጵያ የዕውቀት ምንጭ። 660+ ገጾች ታሪክን፣ ባህልን፣ ምግብን፣ ሙዚቃን፣ ቴክኖሎጂን እና ሌሎችንም የሚሸፍኑ — በማህበረሰቡ የተጻፈ፣ ለዓለም የቀረበ።',
   image = '/images/ethiopia-social.jpg',
   url = Astro.url.href,
   type = 'website',
@@ -109,11 +109,13 @@ const generateJSONLD = () => {
     '@context': 'https://schema.org',
     '@type': 'WebSite',
     name:
-      lang === 'en' ? 'Ethiopia.md — Knowledge Base' : 'Ethiopia.md - Ethiopia[Amharic translation needed - original Taiwan context]',
+      lang === 'en'
+        ? 'Ethiopia.md — Knowledge Base'
+        : 'Ethiopia.md - የኢትዮጵያ የዕውቀት ምንጭ',
     description:
       lang === 'en'
         ? 'Open-source, AI-friendly knowledge base about Ethiopia — politics, economy, culture, history, geography, and more.'
-        : '[Amharic translation needed - original Taiwan context]Ethiopia - [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。',
+        : 'ክፍት ምንጭ የሆነ፣ ለ AI ተስማሚ ስለ ኢትዮጵያ የዕውቀት ምንጭ — ፖለቲካ፣ ኢኮኖሚ፣ ባህል፣ ታሪክ፣ ጂኦግራፊ እና ሌሎችንም ያካትታል።',
     url: siteUrl,
     inLanguage: lang,
     publisher: {
@@ -136,7 +138,7 @@ const generateJSONLD = () => {
       'query-input': 'required name=search_term_string',
     },
     sameAs: [
-      'https://github.com/frank890417/ethiopia-md',
+      'https://github.com/EyuReaper/ethiopia-md',
       'https://x.com/ethiopiadotmd',
       'https://www.instagram.com/ethiopiadotmd',
     ],
@@ -155,17 +157,16 @@ const organizationLD = {
   description:
     lang === 'en'
       ? 'Open-source, AI-friendly knowledge base about Ethiopia'
-      : '[Amharic translation needed - original Taiwan context]、AI-friendly [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]',
+      : 'ክፍት ምንጭ የሆነ እና ለ AI ተስማሚ ስለ ኢትዮጵያ የዕውቀት ምንጭ',
   foundingDate: '2024',
   sameAs: [
-    'https://github.com/frank890417/ethiopia-md',
-    'https://x.com/ethiopiadotmd',
+    'https://github.com/EyuReaper/ethiopia-md',
+    'https://x.com/eyu_gx',
     'https://www.instagram.com/ethiopiadotmd',
-    'https://www.threads.com/@ethiopiadotmd',
   ],
   contactPoint: {
     '@type': 'ContactPoint',
-    email: 'cheyu.wu@monoame.com',
+    email: 'eyureaper@gmail.com',
     contactType: 'Customer Support',
   },
 };
@@ -174,7 +175,7 @@ const organizationLD = {
 const baseKeywords =
   lang === 'en'
     ? 'Ethiopia, knowledge base, Ethiopia history, Ethiopia culture, Ethiopia politics, Ethiopia economy'
-    : 'Ethiopia, Ethiopia, Ethiopia[Amharic translation needed - original Taiwan context], Ethiopia[Amharic translation needed - original Taiwan context], Ethiopia[Amharic translation needed - original Taiwan context], Ethiopia[Amharic translation needed - original Taiwan context], Ethiopia[Amharic translation needed - original Taiwan context]';
+    : 'ኢትዮጵያ, የዕውቀት ምንጭ, የኢትዮጵያ ታሪክ, የኢትዮጵያ ባህል, የኢትዮጵያ ፖለቲካ, የኢትዮጵያ ኢኮኖሚ';
 
 const categoryKeywords = category
   ? lang === 'en'
@@ -298,7 +299,7 @@ const breadcrumbLD = generateBreadcrumbLD();
   type="application/rss+xml"
   title={lang === 'en'
     ? 'Ethiopia.md RSS Feed (English)'
-    : 'Ethiopia.md RSS [Amharic translation needed - original Taiwan context]'}
+    : 'Ethiopia.md RSS (አማርኛ)'}
   href={`${siteUrl}/feed.xml`}
 />
 
@@ -354,8 +355,11 @@ const breadcrumbLD = generateBreadcrumbLD();
 <meta property="og:image:width" content="1200" />
 <meta property="og:image:height" content="630" />
 <meta property="og:image:type" content="image/jpeg" />
-<meta property="og:image:alt" content={`${title} - Ethiopia.md Ethiopia[Amharic translation needed - original Taiwan context]`} />
-<meta property="og:site_name" content="Ethiopia.md — Ethiopia[Amharic translation needed - original Taiwan context]" />
+<meta
+  property="og:image:alt"
+  content={`${title} - Ethiopia.md የኢትዮጵያ የዕውቀት ምንጭ`}
+/>
+<meta property="og:site_name" content="Ethiopia.md — የኢትዮጵያ የዕውቀት ምንጭ" />
 <meta property="og:locale" content={lang === 'am' ? 'zh_TW' : 'en_US'} />
 {
   datePublished && (
@@ -374,13 +378,16 @@ const breadcrumbLD = generateBreadcrumbLD();
 
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:site" content="@cheyuwu345" />
-<meta name="twitter:creator" content="@cheyuwu345" />
+<meta name="twitter:site" content="@ethiopiadotmd" />
+<meta name="twitter:creator" content="@ethiopiadotmd" />
 <meta name="twitter:url" content={url} />
 <meta name="twitter:title" content={fullTitle} />
 <meta name="twitter:description" content={description} />
 <meta name="twitter:image" content={fullImageUrl} />
-<meta name="twitter:image:alt" content={`${title} - Ethiopia.md Ethiopia[Amharic translation needed - original Taiwan context]`} />
+<meta
+  name="twitter:image:alt"
+  content={`${title} - Ethiopia.md የኢትዮጵያ የዕውቀት ምንጭ`}
+/>
 
 <!-- Additional SEO -->
 <meta name="robots" content="index, follow" />

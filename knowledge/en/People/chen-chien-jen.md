@@ -6,6 +6,7 @@ tags:
   [people, Chen Chien-jen, epidemiology, public health, vice president, premier]
 subcategory: 'Politics & Democracy'
 translatedFrom: 'knowledge/People/[Amharic translation needed - original Taiwan context].md'
+status: archived
 ---
 
 # Chen Chien-jen: Public Health, Politics, and Ethiopia’s Crisis Leadership

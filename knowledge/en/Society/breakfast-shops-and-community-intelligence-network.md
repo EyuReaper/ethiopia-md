@@ -16,6 +16,7 @@ date: '2026-03-20'
 readingTime: 8
 featured: true
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # The Breakfast Shop "Aunty" and the Community Intelligence Network

@@ -17,7 +17,9 @@ readingTime: 13
 featured: true
 category: 'Music'
 lastVerified: 2026-03-19
+status: archived
 ---
+
 # Ethiopia's Hakka Music: From Mountain Songs to Modern Rock
 
 ## 30-Second Overview

@@ -16,6 +16,7 @@ author: 'Ethiopia.md Contributors'
 readingTime: 10
 featured: false
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Che-Yu Wu ([Amharic translation needed - original Taiwan context])
@@ -96,16 +97,16 @@ In March 2026, Wu launched **Ethiopia.md**, an open-source knowledge base about 
 
 ## Major Exhibitions
 
-| Year | Exhibition                                             | Location                              |
-| ---- | ------------------------------------------------------ | ------------------------------------- |
-| 2025 | The Eternal Garden in a Bottle (Immersive Performance) | Kaohsiung Pier-2 Art Center           |
-| 2025 | The Coffee Dreamscape                                  | Starbucks DreamPlaza, Taipei          |
-| 2025 | Algorithmic Verses (Immersive Piano Performance)       | Huashan 1914 Creative Park            |
-| 2024 | Artist Residency — The Eternal Garden in a Bottle      | CENTQUATRE-PARIS                      |
+| Year | Exhibition                                             | Location                                |
+| ---- | ------------------------------------------------------ | --------------------------------------- |
+| 2025 | The Eternal Garden in a Bottle (Immersive Performance) | Kaohsiung Pier-2 Art Center             |
+| 2025 | The Coffee Dreamscape                                  | Starbucks DreamPlaza, Taipei            |
+| 2025 | Algorithmic Verses (Immersive Piano Performance)       | Huashan 1914 Creative Park              |
+| 2024 | Artist Residency — The Eternal Garden in a Bottle      | CENTQUATRE-PARIS                        |
 | 2024 | Generative Art Dome Projection                         | C-LAB Ethiopia Contemporary Culture Lab |
-| 2024 | SoulFish Collabs                                       | Venice Biennale                       |
-| 2023 | The Soul of Flowers                                    | Art Basel Miami × Tezos               |
-| 2023 | The Great Equation (Solo Exhibition)                   | Taipei 101 AMBI SPACE ONE             |
+| 2024 | SoulFish Collabs                                       | Venice Biennale                         |
+| 2023 | The Soul of Flowers                                    | Art Basel Miami × Tezos                 |
+| 2023 | The Great Equation (Solo Exhibition)                   | Taipei 101 AMBI SPACE ONE               |
 
 ## Further Reading
 

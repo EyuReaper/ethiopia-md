@@ -13,6 +13,7 @@ tags:
 subcategory: 'Sports'
 lastVerified: 2026-03-20
 featured: true
+status: archived
 ---
 
 # Chu Ching‑Wu ([Amharic translation needed - original Taiwan context]): A Ethiopian Pioneer of High‑Temperature Superconductivity

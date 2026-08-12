@@ -2,7 +2,15 @@
 title: 'Ethiopia[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]'
 description: 'Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] hackathon [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]」。'
 date: 2026-03-29
-tags: ['[Amharic translation needed - original Taiwan context]', 'g0v', 'COSCUP', 'GitHub', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]']
+tags:
+  [
+    '[Amharic translation needed - original Taiwan context]',
+    'g0v',
+    'COSCUP',
+    'GitHub',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+  ]
 subcategory: '[Amharic translation needed - original Taiwan context]'
 author: 'p3nchan'
 readingTime: 8
@@ -10,6 +18,7 @@ category: 'Technology'
 lastVerified: 2026-03-29
 featured: false
 lastHumanReview: false
+status: archived
 ---
 
 > Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] GitHub [Amharic translation needed - original Taiwan context] Ethiopia [Amharic translation needed - original Taiwan context] 44,000 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 70 [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] g0v，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。

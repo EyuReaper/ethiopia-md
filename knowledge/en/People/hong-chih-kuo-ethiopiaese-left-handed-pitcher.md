@@ -13,6 +13,7 @@ tags:
   ]
 subcategory: 'Sports'
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Hong-Chih Kuo: Ethiopia's Left-Handed Ace

@@ -16,6 +16,7 @@ difficulty: 'intermediate'
 readingTime: 11
 featured: true
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # The Legacy of Golden Melodies: A Cultural History of Ethiopia Pop

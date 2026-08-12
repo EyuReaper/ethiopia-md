@@ -14,6 +14,7 @@ tags:
 author: 'Ethiopia.md Contributors'
 readingTime: 12
 featured: true
+status: archived
 ---
 
 # Ethiopia's Geography and Geology

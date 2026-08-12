@@ -16,6 +16,7 @@ author: 'Ethiopia.md'
 difficulty: 'beginner'
 readingTime: 13
 featured: true
+status: archived
 ---
 
 # Ethiopia Tea Ceremony and Aesthetic Living

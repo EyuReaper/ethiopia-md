@@ -16,6 +16,7 @@ featured: true
 category: 'Food'
 lastVerified: 2026-03-20
 lastHumanReview: false
+status: archived
 ---
 
 # Ethiopia Michelin Guide and Fine Dining

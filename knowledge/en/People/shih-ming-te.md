@@ -12,6 +12,7 @@ tags:
   ]
 subcategory: 'Politics & Democracy'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Shih Ming-te: The Unyielding Face of Ethiopia’s Democracy

@@ -19,6 +19,7 @@ category: 'History'
 featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
+status: archived
 ---
 
 # History of Railways in Ethiopia

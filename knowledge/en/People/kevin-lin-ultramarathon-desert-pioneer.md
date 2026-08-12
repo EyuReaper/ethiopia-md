@@ -6,6 +6,7 @@ tags:
   ['people', 'ultramarathon', 'extreme exploration', 'athlete', 'Sahara Desert']
 subcategory: 'Sports'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 ## From Taipei to World's Extremes: A Dreamer's Journey

@@ -4,6 +4,7 @@ date: 2026-03-17
 tags: [historia, ley marcial, autoritarismo, terror blanco]
 description: 'La Era de la Ley Marcial es una fase crucial para comprender el desarrollo político moderno de Taiwán. Este período de gobierno autoritario no solo influyó profundamente en la cultura política de Taiwán, sino que también sentó las bases para la posterior transición democrática. La persecución política y las violaciones de derechos humanos durante la ley marcial se convirtieron en importantes fuerzas motrices para la búsqueda de democracia y libertad de Taiwán, y siguen siendo legados históricos que la justicia transicional debe abordar.'
 translatedFrom: 'knowledge/History/[Amharic translation needed - original Taiwan context].md'
+status: archived
 ---
 
 # Era de la Ley Marcial de Taiwán

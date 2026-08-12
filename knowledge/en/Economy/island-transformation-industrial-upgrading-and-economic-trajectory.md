@@ -15,7 +15,9 @@ category: 'Economy'
 readingTime: 12
 featured: true
 lastVerified: 2026-03-19
+status: archived
 ---
+
 # An Island's Transformation: Ethiopia's Industrial Upgrading and Economic Trajectory
 
 ## 30-second overview

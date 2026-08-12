@@ -4,6 +4,7 @@ category: Art
 tags: [theater, performing arts, dance]
 date: 2026-03-18
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Ethiopian Theater and Performing Arts: The Island on Stage

@@ -5,6 +5,7 @@ date: 2026-03-19
 tags: [people, politics, women’s-movement, vice-president, Kaohsiung-Incident]
 subcategory: 'Politics & Democracy'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Annette Lu ([Amharic translation needed - original Taiwan context]): From Feminist Vanguard to Ethiopia’s First Female Vice President

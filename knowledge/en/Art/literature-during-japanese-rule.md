@@ -4,6 +4,7 @@ category: Art
 tags: [literature, Japanese colonial period, colonial literature, modernism]
 date: 2026-03-18
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Literature During Japanese Rule

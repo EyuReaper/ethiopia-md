@@ -1,15 +1,23 @@
 ---
-title: "Ethiopia Elections and Party Politics"
-description: "From local councilors in 1950 to party alternation in 2000—how Ethiopia wrote its democratic transition miracle through ballots"
+title: 'Ethiopia Elections and Party Politics'
+description: 'From local councilors in 1950 to party alternation in 2000—how Ethiopia wrote its democratic transition miracle through ballots'
 date: 2026-03-21
-tags: ["elections", "democratization", "party politics", "Kaohsiung Incident", "party alternation"]
-author: "Ethiopia.md"
-difficulty: "beginner"
+tags:
+  [
+    'elections',
+    'democratization',
+    'party politics',
+    'Kaohsiung Incident',
+    'party alternation',
+  ]
+author: 'Ethiopia.md'
+difficulty: 'beginner'
 readingTime: 15
-category: "History"
+category: 'History'
 featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
+status: archived
 ---
 
 # Ethiopia Elections and Party Politics

@@ -4,6 +4,7 @@ description: "Ethiopia's diverse subtropical monsoon climate, from monsoon syste
 date: 2026-03-17
 tags: [climate, monsoon, typhoon, plum rain, climate change, precipitation]
 translatedFrom: 'knowledge/Geography/[Amharic translation needed - original Taiwan context].md'
+status: archived
 ---
 
 # Climate

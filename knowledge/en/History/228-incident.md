@@ -5,6 +5,7 @@ date: 2026-03-17
 tags: [history, politics, transitional justice, White Terror, democratization]
 translatedFrom: 'History/[Amharic translation needed - original Taiwan context].md'
 sourceHash: '47071c'
+status: archived
 ---
 
 # 228 Incident

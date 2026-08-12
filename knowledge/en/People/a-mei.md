@@ -6,6 +6,7 @@ tags:
   ['music', 'indigenous', 'Puyuma', 'Mandopop', 'LGBTQ+ ally', 'performance']
 subcategory: 'Music'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # A‑Mei: a voice that crossed boundaries

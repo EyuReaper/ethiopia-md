@@ -23,14 +23,14 @@ Service account JSON [Amharic translation needed - original Taiwan context]。
 ### Step 2：GitHub Stats
 
 ```bash
-gh api repos/frank890417/ethiopia-md --jq '.stargazers_count,.forks_count,.open_issues_count'
+gh api repos/EyuReaper/ethiopia-md --jq '.stargazers_count,.forks_count,.open_issues_count'
 ```
 
 ### Step 3：Open PRs + Issues
 
 ```bash
-gh pr list --repo frank890417/ethiopia-md --state open
-gh issue list --repo frank890417/ethiopia-md --state open
+gh pr list --repo EyuReaper/ethiopia-md --state open
+gh issue list --repo EyuReaper/ethiopia-md --state open
 ```
 
 [Amharic translation needed - original Taiwan context] PR：diff [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。
@@ -83,10 +83,10 @@ cd ~/ethiopia-md && python3 scripts/utils/i18n-status.py 2>&1 | head -8
 
 ## [Amharic translation needed - original Taiwan context] Cron
 
-| Cron                        | [Amharic translation needed - original Taiwan context]       | [Amharic translation needed - original Taiwan context]           |
-| --------------------------- | ---------- | -------------- |
-| Ethiopia.md Daily Report      | 09:00      | [Amharic translation needed - original Taiwan context] pipeline    |
-| Ethiopia.md AI Citation Check | [Amharic translation needed - original Taiwan context] 10:00 | SEO [Amharic translation needed - original Taiwan context] |
+| Cron                          | [Amharic translation needed - original Taiwan context]       | [Amharic translation needed - original Taiwan context]          |
+| ----------------------------- | ------------------------------------------------------------ | --------------------------------------------------------------- |
+| Ethiopia.md Daily Report      | 09:00                                                        | [Amharic translation needed - original Taiwan context] pipeline |
+| Ethiopia.md AI Citation Check | [Amharic translation needed - original Taiwan context] 10:00 | SEO [Amharic translation needed - original Taiwan context]      |
 
 ---
 

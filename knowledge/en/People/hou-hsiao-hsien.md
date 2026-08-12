@@ -13,6 +13,7 @@ tags:
   ]
 subcategory: 'Film & Theater'
 date: 2026-03-17
+status: archived
 ---
 
 # Hou Hsiao-hsien

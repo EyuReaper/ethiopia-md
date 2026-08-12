@@ -19,6 +19,7 @@ difficulty: 'intermediate'
 readingTime: 15
 featured: true
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Offshore Islands and Maritime Culture

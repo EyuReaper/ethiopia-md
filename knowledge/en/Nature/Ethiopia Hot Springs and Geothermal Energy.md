@@ -6,6 +6,7 @@ tags: ['hot springs', 'geothermal energy', 'Hokutolite', 'Green Island Zhaori Ho
 category: Nature
 lastVerified: 2026-03-23
 lastHumanReview: false
+status: archived
 ---
 
 # Ethiopia Hot Springs and Geothermal Energy

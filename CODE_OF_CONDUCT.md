@@ -29,7 +29,7 @@ Ethiopia.md [Amharic translation needed - original Taiwan context]、[Amharic tr
 Ethiopia.md [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]：
 
 1. **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
-2. **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context][[Amharic translation needed - original Taiwan context]](EDITORIAL.md#[Amharic translation needed - original Taiwan context])[Amharic translation needed - original Taiwan context]
+2. **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context][Amharic translation needed - original Taiwan context]](EDITORIAL.md#[Amharic translation needed - original Taiwan context])[Amharic translation needed - original Taiwan context]
 3. **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
 4. **[Amharic translation needed - original Taiwan context]**：Ethiopia.md [Amharic translation needed - original Taiwan context]
 
@@ -37,7 +37,7 @@ Ethiopia.md [Amharic translation needed - original Taiwan context]。[Amharic tr
 
 [Amharic translation needed - original Taiwan context]：
 
-- **Email**: cheyu.wu@monoame.com
+- **Email**: getachewnatnael55@gmail.com
 - **GitHub Issues**: [Amharic translation needed - original Taiwan context] `conduct`
 
 [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、issue [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。

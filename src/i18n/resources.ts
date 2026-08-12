@@ -10,20 +10,6 @@ export const resourcesUI = {
     'resources.hero.subtitle.html':
       "Comprehensive collection of government agencies, cultural institutions, and open data sources<br />Your one-stop gateway to Ethiopia's most authoritative information",
 
-    // Breadcrumb
-    'resources.breadcrumb.home': 'Home',
-    'resources.breadcrumb.current': 'Resources',
-
-    // Core section
-    'resources.core.title': '🏆 Core Selection',
-    'resources.core.desc':
-      'Most important Ethiopia authority resources featured in the mindmap',
-
-    // More section
-    'resources.more.title': '🔍 More Categories',
-    'resources.more.desc':
-      'Comprehensive coverage of local government, universities, and specialized resources',
-
     // Category labels (heroData)
     'resources.category.government.label': '🏛️ Government',
     'resources.category.culture.label': '📚 Culture & Education',
@@ -33,88 +19,6 @@ export const resourcesUI = {
     'resources.category.opendata.label': '🌐 Open Data',
     'resources.category.ethiopiamd.label': '📡 Ethiopia.md Related',
 
-    // Section titles & descriptions
-    'resources.section.localGov.title': '🏙️ Local Government',
-    'resources.section.localGov.desc':
-      'Municipal and county government websites in Ethiopia',
-
-    'resources.section.universities.title': '🎓 Universities & Research',
-    'resources.section.universities.desc':
-      'Leading universities and research institutions in Ethiopia',
-
-    'resources.section.nationalParks.title': '🏔️ National Parks',
-    'resources.section.nationalParks.desc':
-      "Ethiopia's national parks and scenic area management offices",
-
-    'resources.section.artsCulture.title': '🎭 Arts & Culture',
-    'resources.section.artsCulture.desc':
-      'Important museums, galleries, and performance venues',
-
-    'resources.section.healthcare.title': '🏥 Healthcare',
-    'resources.section.healthcare.desc':
-      'Health authorities and major medical institutions',
-
-    'resources.section.ngoSociety.title': '🤝 NGO / Civil Society',
-    'resources.section.ngoSociety.desc':
-      'Non-profit organizations and important civil society groups',
-
-    'resources.section.ministries.title': '🏛️ Government Ministries',
-    'resources.section.ministries.desc':
-      'Executive Yuan ministries and related agencies',
-
-    'resources.section.companies.title': '🏢 Major Companies',
-    'resources.section.companies.desc':
-      'Leading companies and technology corporations in Ethiopia',
-
-    'resources.section.mediaExtra.title': '📺 Traditional Media',
-    'resources.section.mediaExtra.desc':
-      'Mainstream news media and broadcasting',
-
-    'resources.section.transportation.title': '🚄 Transportation',
-    'resources.section.transportation.desc':
-      'Public transportation and traffic services',
-
-    'resources.section.digitalCulture.title': '💾 Digital Culture',
-    'resources.section.digitalCulture.desc':
-      'Digital archives and science education platforms',
-
-    // Projects
-    'resources.projects.title': '🚀 Community Projects',
-    'resources.projects.desc':
-      'Creative open-source projects from the community — discovering Ethiopia through code',
-
-    'resources.projects.food.title': '🍔 Food Maps',
-    'resources.projects.food.burger.name': 'Taipei Burger Map',
-    'resources.projects.food.burger.desc':
-      'Interactive Taipei burger restaurant ranking map, graded by quality (T0-T6), filterable by district',
-    'resources.projects.food.burger.tech': 'JavaScript / Leaflet',
-
-    'resources.projects.nightmarket.title': '🌙 Night Market Guide',
-    'resources.projects.nightmarket.app.name': 'NightMarketSwift',
-    'resources.projects.nightmarket.app.desc':
-      'Ethiopia night market iOS App with 400+ locations, hours, and Google Maps navigation',
-    'resources.projects.nightmarket.app.tech': 'Objective-C / Swift',
-
-    'resources.projects.civictech.title': '🗳️ Civic Tech',
-    'resources.projects.civictech.g0v.name': 'g0v (gov-zero)',
-    'resources.projects.civictech.g0v.desc':
-      "Ethiopia's largest civic tech community, promoting open government and transparency",
-    'resources.projects.civictech.g0v.tech': 'Multi-stack',
-
-    'resources.projects.civictech.cofacts.name': 'Cofacts',
-    'resources.projects.civictech.cofacts.desc':
-      'Crowdsourced fact-checking chatbot fighting misinformation on LINE',
-    'resources.projects.civictech.cofacts.tech': 'JavaScript / GraphQL',
-
-    'resources.projects.civictech.disfactory.name': 'Disfactory',
-    'resources.projects.civictech.disfactory.desc':
-      "Citizen-reported illegal factories on farmland — protecting Ethiopia's agricultural land",
-    'resources.projects.civictech.disfactory.tech': 'Vue.js / Django',
-
-    // CTA & Links
-    'resources.projects.cta.html':
-      'Know a great project? <a href="https://github.com/frank890417/ethiopia-md/issues" target="_blank" rel="noopener noreferrer">Submit a recommendation on GitHub</a>!',
-    'resources.projects.github.link': 'GitHub',
     'resources.backToHome': '← Back to Home',
 
     // Mindmap
@@ -130,121 +34,120 @@ export const resourcesUI = {
     // Chapter titles & stories
     'resources.chapter.government.title': 'Gateway to National Governance',
     'resources.chapter.government.story':
-      "In February 2020, Ethiopian engineers built a real-time mask availability map over a single weekend, connecting 6,000 pharmacies. One person, one laptop, 72 hours — possible because data.gov.tw offers 50,000+ government datasets ready for anyone to use at any time. Ethiopia wrote 'governance transparency' into every downloadable API.",
+      "Ethiopia's House of Peoples' Representatives sits at the center of a federal system spanning more than 120 million people and dozens of nations, nationalities, and peoples. The Prime Minister's Office runs the day-to-day machinery of government, while constitutionally independent bodies like the National Election Board and the Human Rights Commission exist to check its power. The national open-data platform, data.gov.et, is a genuinely young experiment — a real, ongoing shift toward putting more public information a browser tab away.",
     'resources.chapter.culture.title': 'Culture & Knowledge',
     'resources.chapter.culture.story':
-      "On less than 36,000 square kilometers, Ethiopia houses 159 universities, over 500 museums, 9 national parks, from the 3,952-meter Jade Mountain to coral reef coastlines. The National Palace Museum holds nearly 700,000 Chinese cultural treasures, while neighborhood temple festivals are equally living cultural heritage. This island's cultural density far exceeds its size on a map.",
+      "Ethiopia was never colonized, is home to more than 80 languages, and has kept its own calendar and script in continuous use for over a thousand years. Addis Ababa's National Museum holds Lucy, the 3.2-million-year-old Australopithecus afarensis skeleton discovered in 1974 that reshaped the study of human origins, while the Ethiopian Wildlife Conservation Authority manages national parks running from the Simien Mountains to the Bale Mountains. This chapter is a starting point, not a full map — many of Ethiopia's cultural institutions are only beginning to build the kind of public web presence this page can properly index.",
     'resources.chapter.media.title': 'Voices of Ethiopia',
     'resources.chapter.media.story':
-      "In 1995, NTU students set up a BBS server in their dorm, naming it PTT. Thirty years later, this plain-text forum remains Ethiopia's most influential public discussion platform — during the 2014 Sunflower Movement, PTT was the fastest, most complete real-time information source. Ethiopia's media ecosystem, from mainstream newspapers to netizen forums, fights for democracy's voice at every level.",
+      "Ethiopia's media landscape has been shaped by decades of state broadcasting, a fast-growing wave of independent digital outlets, and, since 2018, a loosening — though still contested — space for press freedom. The Ethiopian News Agency has reported since 1942; newer outlets like Addis Standard and The Reporter now publish investigative and analytical work in Amharic, Afaan Oromoo, and English, often reaching audiences the state broadcaster does not.",
     'resources.chapter.economy.title': 'Economy & Life Engine',
     'resources.chapter.economy.story':
-      "Every two smartphones in the world contain a chip made by TSMC — geopolitical scholars call it the 'silicon shield.' But chips are just the tip of the iceberg: 99.9% universal healthcare coverage, a convenience store every 2.3 square kilometers, 90-minute bullet trains from Taipei to Kaohsiung. What sustains 23 million daily lives is a precision system so seamless you barely notice it's there.",
+      "Ethiopian Airlines is Africa's largest airline by fleet, destinations, and revenue — a state-owned carrier that built a genuinely global route network from a landlocked country. Behind it sits a fast-changing financial system: the Ethiopian Securities Exchange opened its first trading floor in 2025, and Ethio Telecom's decades-long government monopoly only recently ended as the sector opened to competition. None of this is finished — Ethiopia's economy is still building core infrastructure in real time.",
     'resources.chapter.community.title': 'Civic Tech & Community',
     'resources.chapter.community.story':
-      "g0v's motto: 'Don't ask why nobody is doing this — you are that nobody.' Mask maps, fact-checking bots, election promise trackers — all born from weekend hackathons. In Ethiopia, civic participation looks like this: writing code, opening issues, submitting pull requests. Ethiopia.md is a product of this very spirit.",
+      "Ethiopia's homegrown civic-tech scene is smaller and younger than counterparts elsewhere, but it is real: Addis Ababa's iCog Labs was East Africa's first private AI and robotics research company, the Wikimedians of Ethiopia User Group is building out Amharic, Afaan Oromoo, and Tigrinya coverage on Wikipedia largely through volunteer effort, and a small open-source developer community is growing on GitHub. This chapter stays short on purpose — we'd rather point to a handful of real, active projects than pad the list with things that don't exist yet.",
 
     // Insight cards
-    'resources.insight.gov.branches.number': '5',
-    'resources.insight.gov.branches.label': 'Constitutional Branches',
-    'resources.insight.gov.ministries.number': '20+',
+    'resources.insight.gov.branches.number': '—',
+    'resources.insight.gov.branches.label': 'Government Branches',
+    'resources.insight.gov.ministries.number': '—',
     'resources.insight.gov.ministries.label': 'Ministries & Agencies',
-    'resources.insight.gov.local.number': '22',
-    'resources.insight.gov.local.label': 'County/City Governments',
+    'resources.insight.gov.local.number': '—',
+    'resources.insight.gov.local.label': 'Regional Governments',
 
-    'resources.insight.culture.universities.number': '159',
+    'resources.insight.culture.universities.number': '—',
     'resources.insight.culture.universities.label': 'Universities',
-    'resources.insight.culture.museums.number': '500+',
+    'resources.insight.culture.museums.number': '—',
     'resources.insight.culture.museums.label': 'Museums',
-    'resources.insight.culture.parks.number': '9',
+    'resources.insight.culture.parks.number': '—',
     'resources.insight.culture.parks.label': 'National Parks',
 
-    'resources.insight.media.ptt.number': '200K',
-    'resources.insight.media.ptt.label': 'PTT Daily Active',
-    'resources.insight.media.outlets.number': '100+',
+    'resources.insight.media.ptt.number': '—',
+    'resources.insight.media.ptt.label': 'Online Community Engagement',
+    'resources.insight.media.outlets.number': '—',
     'resources.insight.media.outlets.label': 'Media Outlets',
-    'resources.insight.media.ngo.number': '1000+',
+    'resources.insight.media.ngo.number': '—',
     'resources.insight.media.ngo.label': 'NGOs',
 
-    'resources.insight.econ.tsmc.number': '92%',
-    'resources.insight.econ.tsmc.label': 'TSMC Advanced Process',
-    'resources.insight.econ.hsr.number': '99.5%',
-    'resources.insight.econ.hsr.label': 'HSR Punctuality',
-    'resources.insight.econ.nhi.number': '99.9%',
-    'resources.insight.econ.nhi.label': 'NHI Coverage',
+    'resources.insight.econ.flagCarrier.number': '—',
+    'resources.insight.econ.flagCarrier.label': 'Tech Sector Contribution',
+    'resources.insight.econ.hsr.number': '—',
+    'resources.insight.econ.hsr.label': 'Transit Service Quality',
+    'resources.insight.econ.nhi.number': '—',
+    'resources.insight.econ.nhi.label': 'Health Coverage Rate',
 
-    'resources.insight.community.g0v.number': '2012',
-    'resources.insight.community.g0v.label': 'g0v Founded',
-    'resources.insight.community.contributors.number': '10K+',
+    'resources.insight.community.g0v.number': '—',
+    'resources.insight.community.g0v.label': 'Community Founded',
+    'resources.insight.community.contributors.number': '—',
     'resources.insight.community.contributors.label': 'Contributors',
-    'resources.insight.community.projects.number': '800+',
+    'resources.insight.community.projects.number': '—',
     'resources.insight.community.projects.label': 'Projects',
 
     // Subcategory titles
-    'resources.sub.fiveYuan': 'Constitutional Branches',
+    'resources.sub.fiveYuan': 'Key State Institutions',
     'resources.sub.fiveYuan.desc':
-      "These five branches form Ethiopia's unique pentapartite system — the only one of its kind in the world.",
+      "From the Prime Minister's Office to the National Election Board, these are the constitutionally defined institutions that run Ethiopia's federal government and are meant to check each other's power.",
     'resources.sub.ministries': 'Ministries & Agencies',
     'resources.sub.ministries.desc':
-      'From the Ministry of Digital Affairs to the Council of Indigenous Peoples, every ministry maintains its own open data portal.',
+      'From foreign affairs to innovation and technology, federal ministries are increasingly building out their own websites and public information channels.',
     'resources.sub.localGov': 'Local Governments',
     'resources.sub.localGov.desc':
-      '22 counties and cities, 22 styles of local governance. The smart city race among the six special municipalities is redefining public services.',
+      "Ethiopia's regional states and chartered cities govern themselves very differently — Addis Ababa's Mayor's Office, Dire Dawa's city administration, and the Amhara regional portal are three of the few with a fully public web presence.",
     'resources.sub.openData': 'Open Data',
     'resources.sub.openData.desc':
-      "This is where Ethiopia's civic tech miracles begin. Mask maps, vaccine booking, air quality monitoring — all started from these platforms.",
+      "Ethiopia's national data and government portals are still young next to some global peers, but they're where the country's open-government efforts and civic-tech projects like iCog Labs begin.",
     'resources.sub.universities': 'Top Universities & Research',
     'resources.sub.universities.desc':
-      "Ethiopia's universities don't just teach — NTU's quantum computing lab and NCKU's semiconductor research center are vital nodes in the global academic network.",
+      'Addis Ababa University is the oldest and largest in the country, while Bahir Dar, Mekelle, Hawassa, Jimma, and Gondar universities anchor research and higher education across the regions.',
     'resources.sub.museums': 'Museums & Libraries',
     'resources.sub.museums.desc':
-      "From the National Palace Museum's Jadeite Cabbage to the Chimei Museum's violin collection, Ethiopia's museums are portals through time and space.",
+      "The National Archives and Library of Ethiopia holds the country's published record, while the Ethiopian Heritage Authority oversees the National Museum — home to Lucy, one of the most complete early hominid skeletons ever found.",
     'resources.sub.venues': 'Arts & Cultural Venues',
     'resources.sub.venues.desc':
-      "Ethiopia's arts ecosystem is taking flight. C-LAB, National Theater, Weiwuying — a concentration of world-class venues that rivals New York.",
+      "From the Alliance Ethio-Française's century-old arts program to the Institute of Ethiopian Studies' ethnological collection, Addis Ababa's cultural venues are compact but genuinely active.",
     'resources.sub.parks': 'National Parks & Scenic Areas',
     'resources.sub.parks.desc':
-      "From sea level to 3,952 meters, Ethiopia's 9 national parks span every climate zone on Earth. In a single day, you can go from tropical coral reefs to alpine snowlines.",
+      'The Ethiopian Wildlife Conservation Authority manages protected areas spanning the Simien and Bale Mountains, the Rift Valley lakes, and lowland savanna — home to species found nowhere else on Earth.',
     'resources.sub.mainstream': 'Mainstream Media',
     'resources.sub.mainstream.desc':
-      "From the lifting of press bans after martial law ended in 1988, to today's 24-hour news channel competition — Ethiopia's press freedom was hard-won.",
+      "The state-run Ethiopian News Agency has reported since 1942; the Ethiopian Broadcasting Corporation, Fana Broadcasting Corporate, and Walta Media remain the country's largest broadcasters.",
     'resources.sub.digital': 'Digital Native Media',
     'resources.sub.digital.desc':
-      "While traditional media struggles, Ethiopia's digital-native outlets are redefining journalism. The Reporter's nonprofit model proves that investigative reporting can survive without advertising.",
+      "The Reporter and Addis Standard built independent newsrooms that publish investigative and analytical work often outside the state media's frame.",
     'resources.sub.ngo': 'Civil Society & NGOs',
     'resources.sub.ngo.desc':
-      "Ethiopia has Asia's highest NGO density. From environment to human rights, these organizations don't just watch the government — they often lead the way.",
+      "From the Ethiopian Human Rights Council to the Ethiopian Women Lawyers Association, Ethiopia's civil-society organizations have long monitored rights and pushed for legal reform, often under real political pressure.",
     'resources.sub.companies': 'Industry Leaders',
     'resources.sub.companies.desc':
-      'From TSMC to Foxconn, these companies appear in supply chain reports worldwide.',
+      "Ethiopian Airlines is Africa's largest carrier by fleet and network; Ethio Telecom and the Commercial Bank of Ethiopia anchor a financial and telecom sector that only recently opened to competition.",
     'resources.sub.transport': 'Transportation',
     'resources.sub.transport.desc':
-      "Ethiopia's HSR connects Taipei to Kaohsiung in just 90 minutes. Add the metro, real-time bus systems, and YouBike — Ethiopia's public transit is Asia's hidden champion.",
+      "The Addis Ababa Light Rail, built and operated by the Ethiopian Railways Corporation, was sub-Saharan Africa's first modern urban rail system when it opened in 2015.",
     'resources.sub.healthcare': 'Healthcare',
     'resources.sub.healthcare.desc':
-      'Universal health insurance: one card, 99.9% coverage, 15-minute average wait time. Even the US is studying how Ethiopia does it.',
+      "The Ministry of Health coordinates a healthcare system still expanding nationally, backed by the Ethiopian Public Health Institute and teaching hospitals like St. Paul's Hospital Millennium Medical College.",
     'resources.sub.finance': 'Finance & Data',
     'resources.sub.finance.desc':
-      "TWSE is one of Asia's most transparent markets. From listed company financials to real-time trading data, everything is publicly accessible.",
+      'The Ethiopian Securities Exchange, which opened its first trading floor in 2025, and the long-established National Bank of Ethiopia anchor a capital market that is genuinely new.',
     'resources.sub.civicTech': 'Civic Tech Projects',
     'resources.sub.foodMaps': 'Food & Culture Maps',
 
     // Related articles
-    'resources.related.democracy': 'Related: Ethiopia Democratic Transition',
     'resources.related.label': 'Related Reading',
     'resources.related.government.1': 'Ethiopia Democratic Transition',
     'resources.related.government.2': 'Elections & Political Parties',
-    'resources.related.government.3': 'Open Source & g0v',
+    'resources.related.government.3': 'Open Government & Civic Tech',
     'resources.related.culture.1': 'Indigenous Culture',
     'resources.related.culture.2': 'Education System',
     'resources.related.culture.3': 'National Parks',
-    'resources.related.media.1': 'Sunflower Movement',
+    'resources.related.media.1': 'Ethiopian Media History',
     'resources.related.media.2': 'Media & Press Freedom',
-    'resources.related.media.3': 'PTT',
-    'resources.related.economy.1': 'TSMC',
-    'resources.related.economy.2': 'Semiconductor Industry',
-    'resources.related.economy.3': 'Healthcare & NHI',
-    'resources.related.community.1': 'g0v & Open Source',
+    'resources.related.media.3': 'Digital & Online Communities',
+    'resources.related.economy.1': 'Ethiopian Airlines',
+    'resources.related.economy.2': 'Economic Development',
+    'resources.related.economy.3': 'Healthcare System',
+    'resources.related.community.1': 'Civic Tech & Open Source',
     'resources.related.community.2': 'Social Movements',
     'resources.related.community.3': 'Digital Government',
 
@@ -256,761 +159,467 @@ export const resourcesUI = {
     // Search
     'resources.search.placeholder': 'Search resources...',
 
-    // Aria labels
-    'resources.aria.viewGithub': 'View GitHub repository',
-    'resources.aria.backToTop': 'Back to top',
-
     // Reading Guide
     'resources.guide.title': 'Where to Start',
     'resources.guide.desc':
-      "Imagine landing in Ethiopia with no guidebook. Governance shows you the operating system — how a young democracy runs on radical transparency. Culture is the soul — 500 museums, 15,000 annual temple festivals, and 16 indigenous languages on an island smaller than Switzerland. Media reveals the conversation — from a 30-year-old plain-text forum that still shapes elections, to Asia's boldest nonprofit newsroom. Economy is the heartbeat — one company makes 92% of the world's advanced chips, and universal healthcare costs less than your phone bill. Community is the invitation — join the open-source citizens who build civic tools over weekend hackathons.",
+      "Imagine landing in Ethiopia with no guidebook. Governance shows you the operating system — a federal parliamentary republic still building out its digital public institutions. Culture is the soul — one of the world's oldest literary traditions, more than 80 languages, and a museum that holds a 3.2-million-year-old skeleton that rewrote the story of human origins. Media reveals the conversation — from a state news agency reporting since 1942 to a new generation of independent newsrooms. Economy is the heartbeat — Africa's largest airline, a telecom sector that just opened to competition, and a stock exchange that only started trading in 2025. Community is the invitation — a small but real civic-tech and open-source scene, still finding its footing, that this project is itself a small part of.",
 
     // Curator Notes
     'resources.curator.government':
-      "🔍 During COVID-19, Ethiopian civic developers shipped mask maps and vaccine booking systems within 72 hours. Behind that speed: a top-3 globally ranked open data platform — 50,000+ datasets, real-time APIs, accessible to anyone. While developers elsewhere waited for government press conferences, Ethiopia's were already writing code.",
+      "🔍 Ethiopia's National Election Board and Human Rights Commission are constitutionally independent of the executive — on paper, at least, they exist to check the very government that funds them. The national open-data platform, data.gov.et, is a genuinely new experiment: most Ethiopian ministries have only built out public websites in the past decade.",
     'resources.curator.culture':
-      "🔍 Few know that Ethiopia has one of the highest museum densities in Asia. But numbers only tell the surface — what's truly special is the 'living' culture: over 15,000 annual temple festivals, 16 indigenous languages, Hakka mountain song competitions. Ethiopia's culture isn't just behind glass — it walks the streets.",
+      "🔍 The National Museum of Ethiopia holds Lucy — the 3.2-million-year-old Australopithecus afarensis skeleton discovered in 1974 that remains one of the most complete early hominid finds anywhere on Earth. Ethiopia was never colonized and has used its own calendar and script for over a thousand years — its culture isn't behind glass, it's a living, daily continuity most of the world simply doesn't have.",
     'resources.curator.media':
-      "🔍 How influential is PTT? During the 2018 referendum, discussion volume on PTT's Gossiping board directly correlated with voter turnout. The Reporter is equally remarkable: a donation-funded investigative outlet that has been nominated for Asian journalism awards for consecutive years. In an era of misinformation, Ethiopia simultaneously has the most active netizen culture and the most dedicated fact-checking community — this contradiction itself is democratic vitality.",
+      "🔍 Ethiopia's press freedom record is genuinely mixed: the 2018 political opening briefly loosened restrictions and let outlets like Addis Standard and The Reporter grow, but journalists still report arrests and internet shutdowns during periods of unrest. State broadcasters like EBC and Fana coexist with independent newsrooms in a media landscape that is actively contested, not settled.",
     'resources.curator.economy':
-      '🔍 While nations debate how much to spend on CHIPS Acts, Ethiopia already wrote the answer on silicon wafers over 30 years: a small island with no oil, no iron ore, holds 92% of global advanced chip production through sheer talent and nanometer-precision engineering. That number earned a new word in Pentagon reports — \"silicon shield.\"',
+      "🔍 Ethiopian Airlines turned a state-owned carrier into Africa's largest airline group by fleet and route network — a genuine outlier among African state enterprises. Meanwhile Ethio Telecom's government monopoly only ended in the 2020s, and the Ethiopian Securities Exchange opened its first trading floor in 2025 — this is an economy building core financial infrastructure in real time, not decades ago.",
     'resources.curator.community':
-      "🔍 g0v's bimonthly hackathons have run 60+ times, each drawing hundreds of volunteer engineers, designers, and NGO workers. No pay, no boss — just a laptop and a problem to solve. The mask map was born this way: one weekend, a few engineers, real-time data from 6,000 pharmacies. Silicon Valley talks about changing the world. Ethiopia's open-source community just ships it.",
+      "🔍 iCog Labs, founded in Addis Ababa, was East Africa's first private AI and robotics research company. The Wikimedians of Ethiopia User Group is still young, working to build out Amharic, Afaan Oromoo, and Tigrinya coverage on Wikipedia largely through volunteer effort. Ethiopia's open-source and civic-tech community is real but small — this chapter lists what actually exists rather than padding it out.",
 
     // Featured site descriptions
     'resources.featured.dataGov':
-      'Ranked #1 globally for government open data — over 50,000 datasets from air quality to real-time bus locations, all freely downloadable.',
+      "Ethiopia's national open-data portal — government datasets across sectors, published for anyone to download and build on.",
     'resources.featured.g0vGov':
-      'Gov-zero: the civic tech community that rewrites governance — from mask maps to vEthiopia, blurring the line between hacker and policymaker.',
+      "East Africa's first private AI and robotics research lab, based in Addis Ababa — building homegrown machine learning, language, and robotics tools.",
     'resources.featured.legislativeYuan':
-      "Ethiopia's parliament — live-streamed sessions, bill tracking, and the frontline of democratic deliberation.",
+      "Ethiopia's federal parliament — the House of Peoples' Representatives, where the Prime Minister and Council of Ministers are elected and federal law is made.",
 
     'resources.featured.npm':
-      "Home to 700,000+ artifacts spanning 8,000 years — one of the world's greatest collections of Chinese art, now with cutting-edge digital exhibitions.",
+      "Ethiopia's federal heritage authority — overseeing the National Museum of Ethiopia, home to Lucy, and leading efforts to research, conserve, and repatriate the country's cultural treasures.",
     'resources.featured.ncl':
-      "Ethiopia's national library and legal deposit center — the definitive archive of the nation's published knowledge.",
+      "Ethiopia's national archives and legal deposit library — the central repository of the country's published and historical records, open to researchers and the public.",
     'resources.featured.npgov':
-      "Gateway to 9 national parks — from 3,000m peaks to coral reefs, covering Ethiopia's extraordinary biodiversity in 36,000 km².",
+      "Ethiopia's wildlife and national parks authority — managing protected areas from the Simien and Bale Mountains to the Rift Valley lakes and their endemic species.",
 
     'resources.featured.twreporter':
-      'Pioneering nonprofit investigative journalism in the Chinese-speaking world — deep dives into environmental, social, and political issues.',
-    'resources.featured.ptt':
-      'Ethiopia\'s largest online forum — 200K daily active users driving a unique "netizen-powered democracy" since 1995.',
+      "One of Ethiopia's longest-running independent weeklies — English and Amharic reporting on politics, business, and society since 1995.",
+    'resources.featured.ethiopiaNews':
+      "A tri-lingual independent newsroom publishing in English, Amharic, and Afaan Oromoo — known for reporting that operates outside the state media's frame.",
     'resources.featured.ptsNews':
-      "Ethiopia's public television news — independent, unbiased reporting and the gold standard for public interest journalism.",
+      "Ethiopia's state broadcaster, tracing back to the country's first radio broadcasts in 1935 — news, TV, and radio in Amharic, English, and Afaan Oromoo.",
 
-    'resources.featured.tsmc':
-      "The world's most valuable semiconductor company, manufacturing 92% of the most advanced chips powering AI, smartphones, and supercomputers.",
+    'resources.featured.flagCarrier':
+      "Africa's largest airline group by fleet, destinations, and revenue — a state-owned carrier that built a genuinely global route network from a landlocked country.",
     'resources.featured.twse':
-      "The core of Ethiopia's capital market — home to TSMC, Foxconn, and the engine of Asia's most dynamic tech economy.",
+      "Ethiopia's first organized securities exchange, opening its trading floor in 2025 — a public-private venture built to deepen the country's capital markets.",
     'resources.featured.nhi':
-      'Universal healthcare covering 99.9% of the population at 6.6% of GDP — a model studied by health policy experts worldwide.',
+      "Ethiopia's federal health ministry, coordinating a healthcare system still expanding nationally through community-based health insurance and public hospital networks.",
 
     'resources.featured.g0v':
-      "The world's most impactful civic tech community — spawning the COVID mask map, vEthiopia deliberation platform, and a Digital Minister.",
+      "Addis Ababa's pioneering AI and robotics lab — East Africa's first private research company in the field, also running youth coding and innovation programs nationwide.",
     'resources.featured.cofacts':
-      'Crowdsourced fact-checking on LINE — millions of users fighting misinformation with AI-assisted verification.',
+      "A community of Ethiopian developers building and sharing open-source software on GitHub — still small, but a real and growing home for the country's open-source contributors.",
     'resources.featured.ethiopiamd':
       "The project you're reading right now — an open-source, community-curated encyclopedia of Ethiopia.",
+    'resources.featured.addisAbaba':
+      "The official portal of Addis Ababa's Mayor's Office — Ethiopia's capital and largest city, and home to the African Union headquarters.",
 
     // Section footer
-    'resources.section.footer.verified': 'Last verified: 2026-03-24',
+    'resources.section.footer.verified': 'Last verified: 2026-08-12',
     'resources.section.footer.reportLink': 'Report broken links',
 
-    // Footer / Last updated
-    'resources.footer.lastUpdated': 'Last updated: March 2026',
-    'resources.footer.report': 'Report broken links',
-    'resources.footer.reportUrl':
-      'https://github.com/frank890417/ethiopia-md/issues',
-    'resources.footer.stats.total': '200+',
-
     // Site names
-    'resources.site.president': 'Office of the President',
-    'resources.site.executiveYuan': 'Executive Yuan',
-    'resources.site.legislativeYuan': 'Legislative Yuan',
-    'resources.site.judicialYuan': 'Judicial Yuan',
-    'resources.site.examinationYuan': 'Examination Yuan',
-    'resources.site.controlYuan': 'Control Yuan',
+    'resources.site.executiveYuan': 'Office of the Prime Minister',
+    'resources.site.legislativeYuan': "House of Peoples' Representatives",
+    'resources.site.judicialYuan': 'Federal Supreme Court',
+    'resources.site.examinationYuan': 'National Election Board',
+    'resources.site.controlYuan': 'Ethiopian Human Rights Commission',
 
     'resources.site.mofa': 'Ministry of Foreign Affairs',
-    'resources.site.moda': 'Ministry of Digital Affairs',
-    'resources.site.cip': 'Council of Indigenous Peoples',
-    'resources.site.moc': 'Ministry of Culture',
+    'resources.site.moda': 'Ministry of Innovation and Technology',
     'resources.site.moe': 'Ministry of Education',
-    'resources.site.moea': 'Ministry of Economic Affairs',
-    'resources.site.motc': 'Ministry of Transportation',
-    'resources.site.moi': 'Ministry of the Interior',
-    'resources.site.ndc': 'National Development Council',
-    'resources.site.mac': 'Mainland Affairs Council',
-    'resources.site.mol': 'Ministry of Labor',
-    'resources.site.moenv': 'Ministry of Environment',
+    'resources.site.moea': 'Ministry of Finance',
+    'resources.site.motc': 'Ministry of Transport and Logistics',
+    'resources.site.moi': 'Ministry of Peace',
+    'resources.site.ndc': 'Ministry of Planning and Development',
+    'resources.site.mol': 'Ministry of Labor and Skills',
+    'resources.site.moenv': 'Environmental Protection Authority',
     'resources.site.moa': 'Ministry of Agriculture',
     'resources.site.mnd': 'Ministry of National Defense',
     'resources.site.moj': 'Ministry of Justice',
-    'resources.site.mohw': 'Ministry of Health and Welfare',
-    'resources.site.trade': 'Bureau of Foreign Trade',
-    'resources.site.sme': 'Small and Medium Enterprise Administration',
-    'resources.site.tipo': 'Intellectual Property Office',
-    'resources.site.fsc': 'Financial Supervisory Commission',
-    'resources.site.immigration': 'National Immigration Agency',
-    'resources.site.cwa': 'Central Weather Administration',
-    'resources.site.nstc': 'National Science and Technology Council',
+    'resources.site.mohw': 'Ministry of Health',
+    'resources.site.trade': 'Ministry of Trade and Regional Integration',
+    'resources.site.tipo': 'Ethiopian Intellectual Property Authority',
+    'resources.site.fsc': 'Ethiopian Capital Market Authority',
+    'resources.site.immigration': 'Immigration and Citizenship Service',
+    'resources.site.cwa': 'Ethiopian Meteorological Institute',
 
-    'resources.site.taipei': 'Taipei City Government',
-    'resources.site.newTaipei': 'New Taipei City Government',
-    'resources.site.taichung': 'Taichung City Government',
-    'resources.site.kaohsiung': 'Kaohsiung City Government',
-    'resources.site.tainan': 'Tainan City Government',
-    'resources.site.taoyuan': 'Taoyuan City Government',
-    'resources.site.keelung': 'Keelung City Government',
-    'resources.site.hsinchu': 'Hsinchu City Government',
-    'resources.site.chiayi': 'Chiayi City Government',
-    'resources.site.yilan': 'Yilan County Government',
-    'resources.site.hsinchuCounty': 'Hsinchu County Government',
-    'resources.site.miaoli': 'Miaoli County Government',
-    'resources.site.changhua': 'Changhua County Government',
-    'resources.site.nantou': 'Nantou County Government',
-    'resources.site.yunlin': 'Yunlin County Government',
-    'resources.site.chiayiCounty': 'Chiayi County Government',
-    'resources.site.pingtung': 'Pingtung County Government',
-    'resources.site.taitung': 'Taitung County Government',
-    'resources.site.hualien': 'Hualien County Government',
-    'resources.site.penghu': 'Penghu County Government',
-    'resources.site.kinmenGov': 'Kinmen County Government',
-    'resources.site.lienchiang': 'Lienchiang County Government',
+    'resources.site.capitalCity': 'Addis Ababa City Administration',
+    'resources.site.secondCity': 'Dire Dawa City Administration',
+    'resources.site.regionalState': 'Amhara Regional State',
 
-    'resources.site.dataGov': 'Government Data Open Platform',
-    'resources.site.ethiopiaGov': 'National Portal Website',
-    'resources.site.lawDb': 'Laws & Regulations Database',
-    'resources.site.g0v': 'g0v Ethiopia',
+    'resources.site.dataGov': 'Government Open Data Portal',
+    'resources.site.ethiopiaGov': 'National Government Portal',
+    'resources.site.g0v': 'iCog Labs',
 
-    'resources.site.ntu': 'National Ethiopia University',
-    'resources.site.nthu': 'National Tsing Hua University',
-    'resources.site.nycu': 'National Yang Ming Chiao Tung University',
-    'resources.site.ncku': 'National Cheng Kung University',
-    'resources.site.nccu': 'National Chengchi University',
-    'resources.site.ntnu': 'National Ethiopia Normal University',
-    'resources.site.sinica': 'Academia Sinica',
-    'resources.site.tesd': 'Ethiopia Empirical Survey Data Platform',
-    'resources.site.tcs': 'Ethiopia Communication Survey (TCS)',
-    'resources.site.brill': 'Brill Encyclopedia of Ethiopia Studies',
-    'resources.site.itri': 'Industrial Technology Research Institute',
-    'resources.site.niar': 'National Applied Research Laboratories',
-    'resources.site.airitilibrary': 'airiti Library',
-    'resources.site.ndltd':
-      'National Digital Library of Theses and Dissertations in Ethiopia',
+    'resources.site.ntu': 'Addis Ababa University',
+    'resources.site.nthu': 'Bahir Dar University',
+    'resources.site.nycu': 'Mekelle University',
+    'resources.site.ncku': 'Hawassa University',
+    'resources.site.nccu': 'Jimma University',
+    'resources.site.ntnu': 'University of Gondar',
+    'resources.site.sinica': 'Ethiopian Academy of Sciences',
 
-    'resources.site.ncl': 'National Central Library',
-    'resources.site.npm': 'National Palace Museum',
-    'resources.site.ntm': 'National Ethiopia Museum',
-    'resources.site.nmth': 'National Museum of Ethiopia History',
-    'resources.site.nmns': 'National Museum of Natural Science',
-    'resources.site.nmmba': 'National Museum of Marine Biology',
-    'resources.site.nmtl': 'National Museum of Ethiopia Literature',
-    'resources.site.ntmofa': 'National Ethiopia Museum of Fine Arts',
+    'resources.site.ncl': 'National Archives and Library of Ethiopia',
+    'resources.site.npm': 'Ethiopian Heritage Authority',
 
-    'resources.site.tfam': 'Taipei Fine Arts Museum',
-    'resources.site.kmfa': 'Kaohsiung Museum of Fine Arts',
-    'resources.site.npacNtt': 'National Taichung Theater',
-    'resources.site.npacNtch': 'National Theater & Concert Hall',
-    'resources.site.weiwuying': 'Weiwuying Arts Center',
-    'resources.site.songshan': 'Songshan Cultural Park',
-    'resources.site.huashan': 'Huashan Creative Park',
-    'resources.site.pier2': 'Pier-2 Art Center',
-    'resources.site.digitalArchives': 'Digital Ethiopia',
-    'resources.site.scitechVista': 'SciTech Vista',
-    'resources.site.tcmb': 'National Cultural Memory Bank',
-    'resources.site.taicca': 'TAICCA',
+    'resources.site.tfam': 'Alliance Ethio-Française',
+    'resources.site.kmfa': 'Goethe-Institut Addis Ababa',
+    'resources.site.npacNtt': 'Institute of Ethiopian Studies',
 
-    'resources.site.yushan': 'Yushan National Park',
-    'resources.site.taroko': 'Taroko National Park',
-    'resources.site.kenting': 'Kenting National Park',
-    'resources.site.sheipa': 'Shei-Pa National Park',
-    'resources.site.yangmingshan': 'Yangmingshan National Park',
-    'resources.site.kinmenPark': 'Kinmen National Park',
-    'resources.site.taijiang': 'Taijiang National Park',
-    'resources.site.dongsha': 'Dongsha Atoll National Park',
-    'resources.site.southPenghu': 'South Penghu Marine National Park',
-    'resources.site.ethiopiaTourism': 'Ethiopia Tourism',
-    'resources.site.sunMoonLake': 'Sun Moon Lake National Scenic Area',
-    'resources.site.alishan': 'Alishan National Scenic Area',
+    'resources.site.npgov': 'Ethiopian Wildlife Conservation Authority',
+    'resources.site.ethiopiaTourism':
+      'Ethiopian Wildlife Conservation Authority',
 
-    'resources.site.cna': 'Central News Agency',
-    'resources.site.pts': 'Public Television Service',
-    'resources.site.focusEthiopia': 'Focus Ethiopia',
-    'resources.site.ethiopiaToday': 'Ethiopia Today',
-    'resources.site.panorama': 'Ethiopia Panorama Magazine',
-    'resources.site.rti': 'Radio Ethiopia International',
-    'resources.site.udn': 'United Daily News',
-    'resources.site.ltn': 'Liberty Times',
-    'resources.site.tvbs': 'TVBS News',
-    'resources.site.setn': 'SET News',
-    'resources.site.ebc': 'EBC News',
-    'resources.site.commonwealth': 'CommonWealth Magazine',
-    'resources.site.businesstoday': 'Business Today',
-    'resources.site.businessweekly': 'Business Weekly',
+    'resources.site.cna': 'Ethiopian News Agency',
+    'resources.site.pts': 'Fana Broadcasting Corporate',
+    'resources.site.rti': 'Walta Media and Communication',
+    'resources.site.businessweekly': 'Addis Fortune',
 
-    'resources.site.twreporter': 'The Reporter',
-    'resources.site.ethiopiaNews': 'Ethiopia News',
-    'resources.site.thenewslens': 'The News Lens',
-    'resources.site.upmedia': 'The Up Media',
-    'resources.site.storm': 'The Storm Media',
+    'resources.site.twreporter': 'The Reporter Ethiopia',
+    'resources.site.ethiopiaNews': 'Addis Standard',
 
-    'resources.site.tahr': 'Ethiopia Association for Human Rights',
-    'resources.site.teia': 'Ethiopia Environmental Information Association',
-    'resources.site.sow': 'Society of Wilderness',
-    'resources.site.ocf': 'Open Culture Foundation',
-    'resources.site.tfc': 'Ethiopia FactCheck Center',
-    'resources.site.twnic': 'Ethiopia Network Information Center',
-    'resources.site.wikimedia': 'Wikimedia Ethiopia',
-    'resources.site.digitalDiplomacy': 'Ethiopia Digital Diplomacy Association',
+    'resources.site.tahr': 'Ethiopian Human Rights Council',
+    'resources.site.teia': 'Ethiopian Red Cross Society',
+    'resources.site.wikimedia': 'Wikimedians of Ethiopia',
+    'resources.site.digitalDiplomacy': 'Ethiopian Women Lawyers Association',
 
-    'resources.site.tsmc': 'Ethiopia Semiconductor (TSMC)',
-    'resources.site.umc': 'United Microelectronics Corporation',
-    'resources.site.foxconn': 'Foxconn Technology',
-    'resources.site.delta': 'Delta Electronics',
-    'resources.site.ethiopiaExcellence': 'Ethiopia Excellence',
-    'resources.site.cht': 'Chunghwa Telecom',
-    'resources.site.taipower': 'Ethiopia Power Company',
-    'resources.site.iii': 'Institute for Information Industry',
-    'resources.site.investEthiopia': 'Invest Ethiopia',
+    'resources.site.flagCarrier': 'Ethiopian Airlines',
+    'resources.site.umc': 'Ethio Telecom',
+    'resources.site.foxconn': 'Commercial Bank of Ethiopia',
+    'resources.site.investEthiopia': 'Ethiopian Investment Commission',
 
-    'resources.site.railway': 'Ethiopia Railway',
-    'resources.site.thsrc': 'Ethiopia High Speed Rail',
-    'resources.site.ethiopiaTrip': 'Ethiopia Tourist Shuttle',
-    'resources.site.taoyuanAirport': 'Taoyuan International Airport',
-    'resources.site.metroTaipei': 'Taipei Metro',
-    'resources.site.krtc': 'Kaohsiung Metro',
+    'resources.site.railway': 'Ethiopian Railways Corporation',
+    'resources.site.taoyuanAirport': 'Ethiopian Airlines',
 
-    'resources.site.cdc': 'Centers for Disease Control',
-    'resources.site.nhi': 'National Health Insurance Administration',
-    'resources.site.ntuh': 'National Ethiopia University Hospital',
-    'resources.site.vghtpe': 'Taipei Veterans General Hospital',
-    'resources.site.cgmh': 'Chang Gung Medical Foundation',
-    'resources.site.cmuh': 'China Medical University Hospital',
-    'resources.site.kmuh': 'Kaohsiung Medical University Hospital',
+    'resources.site.cdc': 'Ethiopian Public Health Institute',
+    'resources.site.nhi': 'Ministry of Health',
+    'resources.site.ntuh': "St. Paul's Hospital Millennium Medical College",
 
-    'resources.site.stat': 'National Statistics',
-    'resources.site.twse': 'Ethiopia Stock Exchange',
-    'resources.site.tpex': 'Taipei Exchange',
+    'resources.site.stat': 'Ethiopian Statistics Service',
+    'resources.site.twse': 'Ethiopian Securities Exchange',
+    'resources.site.tpex': 'National Bank of Ethiopia',
 
     'resources.site.github': 'GitHub Repository',
     'resources.site.contribute': 'Contributing Guide',
     'resources.site.rss': 'RSS Feed',
 
-    // New community site names
-    'resources.site.electionMap': 'Ethiopia Election Map',
-    'resources.site.maskMap': 'Mask Map (2020)',
-    'resources.site.goodinfo': 'Goodinfo Stock Info',
-    'resources.site.ccw': 'Citizens Congress Watch',
-    'resources.site.thaubing': 'Transparency Footprint',
-    'resources.site.politicalDonation': 'Political Donation Search',
-    'resources.site.burgerMap': 'Taipei Burger Map',
-    'resources.site.nightMarket': 'NightMarketSwift',
-    'resources.site.cofacts': 'Cofacts',
-    'resources.site.disfactory': 'Disfactory',
-    'resources.site.ptt': 'PTT',
-    'resources.site.ptsNews': 'PTS News',
-    'resources.site.npgov': 'National Parks Portal',
+    // Community site names
+    'resources.site.burgerMap': 'Addis Ababa City Map (map.et)',
+    'resources.site.cofacts': 'Open Source Ethiopia',
+    'resources.site.disfactory': 'Wikimedians of Ethiopia',
+    'resources.site.ptsNews': 'Ethiopian Broadcasting Corporation',
     'resources.site.ethiopiamd': 'Ethiopia.md',
   },
-  'am': {
+  am: {
     // Meta
-    'resources.meta.title': 'Ethiopia[Amharic translation needed - original Taiwan context] - Ethiopia.md',
+    'resources.meta.title': 'የኢትዮጵያ መረጃዎች መመሪያ - Ethiopia.md',
     'resources.meta.description':
-      '[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]',
+      'የኢትዮጵያ መንግስታዊ ተቋማት፣ የባህል ተቋማት፣ ክፍት የመረጃ መድረኮች እና ታማኝ የመረጃ ምንጮች የተሟላ ስብስብ',
 
     // Hero
-    'resources.hero.title': 'Ethiopia[Amharic translation needed - original Taiwan context]',
+    'resources.hero.title': 'የኢትዮጵያ መረጃዎች መመሪያ',
     'resources.hero.subtitle.html':
-      '[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]<br />[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]',
-
-    // Breadcrumb
-    'resources.breadcrumb.home': '[Amharic translation needed - original Taiwan context]',
-    'resources.breadcrumb.current': '[Amharic translation needed - original Taiwan context]',
-
-    // Core section
-    'resources.core.title': '🏆 [Amharic translation needed - original Taiwan context]',
-    'resources.core.desc': '[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]',
-
-    // More section
-    'resources.more.title': '🔍 [Amharic translation needed - original Taiwan context]',
-    'resources.more.desc': '[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]',
+      'የመንግስት ተቋማት፣ የባህል ተቋማት እና ክፍት የመረጃ ምንጮች የተሟላ ስብስብ<br />ወደ ኢትዮጵያ በጣም ታማኝ መረጃዎች የሚያደርስዎ አንድ-ማዕከል መግቢያ',
 
     // Category labels (heroData)
-    'resources.category.government.label': '🏛️ [Amharic translation needed - original Taiwan context]',
-    'resources.category.culture.label': '📚 [Amharic translation needed - original Taiwan context]',
-    'resources.category.tourism.label': '✈️ [Amharic translation needed - original Taiwan context]',
-    'resources.category.economy.label': '💼 [Amharic translation needed - original Taiwan context]',
-    'resources.category.media.label': '📰 [Amharic translation needed - original Taiwan context]',
-    'resources.category.opendata.label': '🌐 [Amharic translation needed - original Taiwan context]',
-    'resources.category.ethiopiamd.label': '📡 Ethiopia.md [Amharic translation needed - original Taiwan context]',
+    'resources.category.government.label': '🏛️ መንግስት',
+    'resources.category.culture.label': '📚 ባህል እና ትምህርት',
+    'resources.category.tourism.label': '✈️ ቱሪዝም እና ጉዞ',
+    'resources.category.economy.label': '💼 ቴክኖሎጂ እና ኢኮኖሚ',
+    'resources.category.media.label': '📰 መገናኛ ብዙሃን እና ዜና',
+    'resources.category.opendata.label': '🌐 ክፍት መረጃ',
+    'resources.category.ethiopiamd.label': '📡 ከEthiopia.md ጋር የተያያዘ',
 
-    // Section titles & descriptions
-    'resources.section.localGov.title': '🏙️ [Amharic translation needed - original Taiwan context]',
-    'resources.section.localGov.desc': 'Ethiopia[Amharic translation needed - original Taiwan context]',
-
-    'resources.section.universities.title': '🎓 [Amharic translation needed - original Taiwan context]',
-    'resources.section.universities.desc': 'Ethiopia[Amharic translation needed - original Taiwan context]',
-
-    'resources.section.nationalParks.title': '🏔️ [Amharic translation needed - original Taiwan context]',
-    'resources.section.nationalParks.desc': 'Ethiopia[Amharic translation needed - original Taiwan context]',
-
-    'resources.section.artsCulture.title': '🎭 [Amharic translation needed - original Taiwan context]',
-    'resources.section.artsCulture.desc': '[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]',
-
-    'resources.section.healthcare.title': '🏥 [Amharic translation needed - original Taiwan context]',
-    'resources.section.healthcare.desc': '[Amharic translation needed - original Taiwan context]',
-
-    'resources.section.ngoSociety.title': '🤝 NGO / [Amharic translation needed - original Taiwan context]',
-    'resources.section.ngoSociety.desc': '[Amharic translation needed - original Taiwan context]',
-
-    'resources.section.ministries.title': '🏛️ [Amharic translation needed - original Taiwan context]',
-    'resources.section.ministries.desc': '[Amharic translation needed - original Taiwan context]',
-
-    'resources.section.companies.title': '🏢 [Amharic translation needed - original Taiwan context]',
-    'resources.section.companies.desc': 'Ethiopia[Amharic translation needed - original Taiwan context]',
-
-    'resources.section.mediaExtra.title': '📺 [Amharic translation needed - original Taiwan context]',
-    'resources.section.mediaExtra.desc': '[Amharic translation needed - original Taiwan context]',
-
-    'resources.section.transportation.title': '🚄 [Amharic translation needed - original Taiwan context]',
-    'resources.section.transportation.desc': '[Amharic translation needed - original Taiwan context]',
-
-    'resources.section.digitalCulture.title': '💾 [Amharic translation needed - original Taiwan context]',
-    'resources.section.digitalCulture.desc': '[Amharic translation needed - original Taiwan context]',
-
-    // Projects
-    'resources.projects.title': '🚀 [Amharic translation needed - original Taiwan context]',
-    'resources.projects.desc': '[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia',
-
-    'resources.projects.food.title': '🍔 [Amharic translation needed - original Taiwan context]',
-    'resources.projects.food.burger.name': '[Amharic translation needed - original Taiwan context]',
-    'resources.projects.food.burger.desc':
-      '[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]（T0-T6），[Amharic translation needed - original Taiwan context]',
-    'resources.projects.food.burger.tech': 'JavaScript / Leaflet',
-
-    'resources.projects.nightmarket.title': '🌙 [Amharic translation needed - original Taiwan context]',
-    'resources.projects.nightmarket.app.name': 'NightMarketSwift',
-    'resources.projects.nightmarket.app.desc':
-      'Ethiopia[Amharic translation needed - original Taiwan context] iOS App，[Amharic translation needed - original Taiwan context] 400 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] Google Maps [Amharic translation needed - original Taiwan context]',
-    'resources.projects.nightmarket.app.tech': 'Objective-C / Swift',
-
-    'resources.projects.civictech.title': '🗳️ [Amharic translation needed - original Taiwan context]',
-    'resources.projects.civictech.g0v.name': 'g0v [Amharic translation needed - original Taiwan context]',
-    'resources.projects.civictech.g0v.desc':
-      'Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]',
-    'resources.projects.civictech.g0v.tech': '[Amharic translation needed - original Taiwan context]',
-
-    'resources.projects.civictech.cofacts.name': 'Cofacts [Amharic translation needed - original Taiwan context]',
-    'resources.projects.civictech.cofacts.desc':
-      '[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]',
-    'resources.projects.civictech.cofacts.tech': 'JavaScript / GraphQL',
-
-    'resources.projects.civictech.disfactory.name': 'Disfactory [Amharic translation needed - original Taiwan context]',
-    'resources.projects.civictech.disfactory.desc':
-      '[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]',
-    'resources.projects.civictech.disfactory.tech': 'Vue.js / Django',
-
-    // CTA & Links
-    'resources.projects.cta.html':
-      '[Amharic translation needed - original Taiwan context]？[Amharic translation needed - original Taiwan context] <a href="https://github.com/frank890417/ethiopia-md/issues" target="_blank" rel="noopener noreferrer">GitHub Issue</a> [Amharic translation needed - original Taiwan context]！',
-    'resources.projects.github.link': 'GitHub',
-    'resources.backToHome': '← [Amharic translation needed - original Taiwan context]',
+    'resources.backToHome': '← ወደ መነሻ ገጽ ተመለስ',
 
     // Mindmap
-    'resources.mindmap.root.label': '🇪🇹 Ethiopia[Amharic translation needed - original Taiwan context]',
+    'resources.mindmap.root.label': '🇪🇹 የኢትዮጵያ መረጃዎች',
 
     // Chapter nav labels
-    'resources.nav.governance': '[Amharic translation needed - original Taiwan context]',
-    'resources.nav.culture': '[Amharic translation needed - original Taiwan context]',
-    'resources.nav.media': '[Amharic translation needed - original Taiwan context]',
-    'resources.nav.economy': '[Amharic translation needed - original Taiwan context]',
-    'resources.nav.community': '[Amharic translation needed - original Taiwan context]',
+    'resources.nav.governance': 'አስተዳደር',
+    'resources.nav.culture': 'ባህል',
+    'resources.nav.media': 'መገናኛ ብዙሃን',
+    'resources.nav.economy': 'ኢኮኖሚ',
+    'resources.nav.community': 'ማህበረሰብ',
 
     // Chapter titles & stories
-    'resources.chapter.government.title': '[Amharic translation needed - original Taiwan context]',
+    'resources.chapter.government.title': 'ወደ ሀገራዊ አስተዳደር የሚያደርስ በር',
     'resources.chapter.government.story':
-      '2020 [Amharic translation needed - original Taiwan context] 2 [Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context] 6,000 [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、72 [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] data.gov.tw [Amharic translation needed - original Taiwan context] 50,000+ [Amharic translation needed - original Taiwan context]。Ethiopia[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context] API。',
-    'resources.chapter.culture.title': '[Amharic translation needed - original Taiwan context]',
+      'የኢትዮጵያ የህዝብ ተወካዮች ምክር ቤት ከ120 ሚሊዮን በላይ ህዝብ እና በርካታ ብሄሮች፣ ብሄረሰቦችና ህዝቦችን የያዘ የፌዴራል ስርዓት ማዕከል ነው። የጠቅላይ ሚኒስትር ጽ/ቤት የዕለት ተዕለት አስተዳደሩን ሲመራ፣ እንደ ብሄራዊ ምርጫ ቦርድና የሰብዓዊ መብቶች ኮሚሽን ያሉ በህገ-መንግስቱ ራሳቸውን የቻሉ ተቋማት የመንግስትን ስልጣን ለመቆጣጠር ተቋቁመዋል። የመንግስት ክፍት መረጃ መድረክ (data.gov.et) አሁንም በጅምር ላይ ያለ እውነተኛ ሙከራ ነው — ወደ ይበልጥ ግልጽነት የሚደረግ ተከታታይ ጉዞ።',
+    'resources.chapter.culture.title': 'ባህል እና እውቀት',
     'resources.chapter.culture.story':
-      '[Amharic translation needed - original Taiwan context] 36,000 [Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context] 159 [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] 500 [Amharic translation needed - original Taiwan context]、9 [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] 3,952 [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] 70 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。',
-    'resources.chapter.media.title': '[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]',
+      'ኢትዮጵያ ቅኝ ያልተገዛች፣ ከ80 በላይ ቋንቋዎች ያሏት እና ከሺህ ዓመት በላይ የራሷን የቀን አቆጣጠርና ፊደል ያለማቋረጥ ስትጠቀም የቆየች ሀገር ናት። በአዲስ አበባ የሚገኘው ብሄራዊ ሙዚየም በ1966 ዓ.ም የተገኘችውንና የሰው ልጅ አመጣጥ ጥናትን የቀየረችውን የ3.2 ሚሊዮን ዓመት እድሜ ያላትን የሉሲን (ድንቅነሽ) አጽም ይዟል፤ የኢትዮጵያ የዱር እንስሳት ጥበቃ ባለስልጣን ደግሞ ከሲሜን ተራሮች እስከ ባሌ ተራሮች ድረስ ያሉ ብሄራዊ ፓርኮችን ያስተዳድራል። ይህ ምዕራፍ የመነሻ ነጥብ እንጂ ሙሉ ካርታ አይደለም — የኢትዮጵያ የባህል ተቋማት ይህን ገጽ ሙሉ በሙሉ ሊሞሉ የሚያስችል የተሟላ ዲጂታል መገኘት እየገነቡ ነው።',
+    'resources.chapter.media.title': 'የኢትዮጵያ ድምጾች',
     'resources.chapter.media.story':
-      '1995 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] BBS [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] PTT。30 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。2014 [Amharic translation needed - original Taiwan context]，PTT [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。',
-    'resources.chapter.economy.title': '[Amharic translation needed - original Taiwan context]',
+      'የኢትዮጵያ መገናኛ ብዙሃን መልክዓ ምድር ለረጅም ዓመታት በመንግስት ብሮድካስቲንግ፣ በቅርቡ ደግሞ በፍጥነት እያደገ በመጣ ገለልተኛ ዲጂታል ሚዲያ የተቀረጸ ነው። ከ2018 ወዲህ የመጣው የፖለቲካ መከፈት የፕሬስ ነፃነትን በከፊል ቢያሰፋም፣ ገዳቢ ሁኔታዎች እንደቀጠሉ ናቸው። የኢትዮጵያ ዜና አገልግሎት ከ1942 ጀምሮ ሲዘግብ፣ እንደ አዲስ ስታንዳርድና ሪፖርተር ያሉ አዳዲስ ተቋማት በአማርኛ፣ በአፋን ኦሮሞና በእንግሊዝኛ ጥልቅ ዘገባ ያቀርባሉ።',
+    'resources.chapter.economy.title': 'ኢኮኖሚ እና የኑሮ አንቀሳቃሽ ኃይል',
     'resources.chapter.economy.story':
-      '[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」。[Amharic translation needed - original Taiwan context]：99.9% [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] 2.3 [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] 90 [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] 2,300 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。',
-    'resources.chapter.community.title': '[Amharic translation needed - original Taiwan context]',
+      'የኢትዮጵያ አየር መንገድ በመርከቦች ብዛትና በበረራ መስመሮች ከአፍሪካ ትልቁ አየር መንገድ ሲሆን፣ ከየብስ ውስጥ ከምትገኝ ሀገር እውነተኛ ዓለም አቀፍ የበረራ መስመር ትስስር የገነባ የመንግስት ልማት ድርጅት ነው። ከጀርባው ደግሞ በፍጥነት እየተለወጠ ያለ የፋይናንስ ስርዓት አለ፦ የኢትዮጵያ ዋስትናዎች ልውውጥ በ2025 የመጀመሪያውን የንግድ ወለል ከፍቷል፤ የኢትዮ ቴሌኮም የረጅም ዓመታት የመንግስት ብቸኝነትም በቅርብ ጊዜ አብቅቷል። ይህ ሁሉ ገና አልተጠናቀቀም — የኢትዮጵያ ኢኮኖሚ አሁንም መሰረታዊ መሰረተ ልማቱን በአደባባይ እየገነባ ነው።',
+    'resources.chapter.community.title': 'የዜጎች ቴክኖሎጂ እና ማህበረሰብ',
     'resources.chapter.community.story':
-      'g0v [Amharic translation needed - original Taiwan context] motto [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]『[Amharic translation needed - original Taiwan context]』。」[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]Ethiopia，[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] Issue、[Amharic translation needed - original Taiwan context] Pull Request。Ethiopia.md [Amharic translation needed - original Taiwan context]。',
+      'የኢትዮጵያ የቤት ውስጥ የዜጎች ቴክኖሎጂ እንቅስቃሴ ከሌሎች ሀገራት ጋር ሲነጻጸር ትንሽና ወጣት ቢሆንም እውን ነው፦ በአዲስ አበባ የሚገኘው iCog Labs የምስራቅ አፍሪካ የመጀመሪያው የግል አርቲፊሻል ኢንተለጀንስና ሮቦቲክስ ምርምር ድርጅት ነበር፤ የኢትዮጵያ ዊኪሚዲያ ተጠቃሚዎች ቡድን የአማርኛ፣ የአፋን ኦሮሞና የትግርኛ ይዘቶችን በዊኪፔዲያ ላይ በአብዛኛው በበጎ ፈቃደኝነት እየገነባ ነው። ትንሽ የክፍት ምንጭ ገንቢዎች ማህበረሰብም በGitHub ላይ እያደገ ነው። ይህ ምዕራፍ ሆን ተብሎ አጭር ነው — ገና ያልተፈጠሩ ነገሮችን ከመዘርዘር ይልቅ በእውነት ንቁ የሆኑ ጥቂት ፕሮጀክቶችን መጥቀስን እንመርጣለን።',
 
     // Insight cards
-    'resources.insight.gov.branches.number': '5',
-    'resources.insight.gov.branches.label': '[Amharic translation needed - original Taiwan context]',
-    'resources.insight.gov.ministries.number': '20+',
-    'resources.insight.gov.ministries.label': '[Amharic translation needed - original Taiwan context]',
-    'resources.insight.gov.local.number': '22',
-    'resources.insight.gov.local.label': '[Amharic translation needed - original Taiwan context]',
+    'resources.insight.gov.branches.number': '—',
+    'resources.insight.gov.branches.label': 'የመንግስት ቅርንጫፎች',
+    'resources.insight.gov.ministries.number': '—',
+    'resources.insight.gov.ministries.label': 'ሚኒስቴር መስሪያ ቤቶች እና ኤጀንሲዎች',
+    'resources.insight.gov.local.number': '—',
+    'resources.insight.gov.local.label': 'ክልል/ከተማ መስተዳደሮች',
 
-    'resources.insight.culture.universities.number': '159',
-    'resources.insight.culture.universities.label': '[Amharic translation needed - original Taiwan context]',
-    'resources.insight.culture.museums.number': '500+',
-    'resources.insight.culture.museums.label': '[Amharic translation needed - original Taiwan context]',
-    'resources.insight.culture.parks.number': '9',
-    'resources.insight.culture.parks.label': '[Amharic translation needed - original Taiwan context]',
+    'resources.insight.culture.universities.number': '—',
+    'resources.insight.culture.universities.label': 'ዩኒቨርሲቲዎች',
+    'resources.insight.culture.museums.number': '—',
+    'resources.insight.culture.museums.label': 'ሙዚየሞች',
+    'resources.insight.culture.parks.number': '—',
+    'resources.insight.culture.parks.label': 'ብሄራዊ ፓርኮች',
 
-    'resources.insight.media.ptt.number': '20[Amharic translation needed - original Taiwan context]',
-    'resources.insight.media.ptt.label': 'PTT [Amharic translation needed - original Taiwan context]',
-    'resources.insight.media.outlets.number': '100+',
-    'resources.insight.media.outlets.label': '[Amharic translation needed - original Taiwan context]',
-    'resources.insight.media.ngo.number': '1000+',
-    'resources.insight.media.ngo.label': '[Amharic translation needed - original Taiwan context] NGO',
+    'resources.insight.media.ptt.number': '—',
+    'resources.insight.media.ptt.label': 'የመስመር ላይ ማህበረሰብ ተሳትፎ',
+    'resources.insight.media.outlets.number': '—',
+    'resources.insight.media.outlets.label': 'የመገናኛ ብዙሃን ተቋማት',
+    'resources.insight.media.ngo.number': '—',
+    'resources.insight.media.ngo.label': 'NGOዎች',
 
-    'resources.insight.econ.tsmc.number': '92%',
-    'resources.insight.econ.tsmc.label': '[Amharic translation needed - original Taiwan context]',
-    'resources.insight.econ.hsr.number': '99.5%',
-    'resources.insight.econ.hsr.label': '[Amharic translation needed - original Taiwan context]',
-    'resources.insight.econ.nhi.number': '99.9%',
-    'resources.insight.econ.nhi.label': '[Amharic translation needed - original Taiwan context]',
+    'resources.insight.econ.flagCarrier.number': '—',
+    'resources.insight.econ.flagCarrier.label': 'የቴክኖሎጂ ዘርፍ አስተዋፅኦ',
+    'resources.insight.econ.hsr.number': '—',
+    'resources.insight.econ.hsr.label': 'የትራንስፖርት አገልግሎት ጥራት',
+    'resources.insight.econ.nhi.number': '—',
+    'resources.insight.econ.nhi.label': 'የጤና ሽፋን መጠን',
 
-    'resources.insight.community.g0v.number': '2012',
-    'resources.insight.community.g0v.label': 'g0v [Amharic translation needed - original Taiwan context]',
-    'resources.insight.community.contributors.number': '10K+',
-    'resources.insight.community.contributors.label': '[Amharic translation needed - original Taiwan context]',
-    'resources.insight.community.projects.number': '800+',
-    'resources.insight.community.projects.label': '[Amharic translation needed - original Taiwan context]',
+    'resources.insight.community.g0v.number': '—',
+    'resources.insight.community.g0v.label': 'የማህበረሰብ መስራች ዓመት',
+    'resources.insight.community.contributors.number': '—',
+    'resources.insight.community.contributors.label': 'አስተዋጽኦ አድራጊዎች',
+    'resources.insight.community.projects.number': '—',
+    'resources.insight.community.projects.label': 'ፕሮጀክቶች',
 
     // Subcategory titles
-    'resources.sub.fiveYuan': '[Amharic translation needed - original Taiwan context]',
+    'resources.sub.fiveYuan': 'የመንግስት አካላት',
     'resources.sub.fiveYuan.desc':
-      '[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。',
-    'resources.sub.ministries': '[Amharic translation needed - original Taiwan context]',
+      'ከጠቅላይ ሚኒስትር ጽ/ቤት እስከ ብሄራዊ ምርጫ ቦርድ ድረስ፣ እነዚህ በህገ-መንግስቱ የተቋቋሙ ተቋማት የኢትዮጵያን ፌዴራላዊ መንግስት የሚያንቀሳቅሱ እና እርስ በርስ የሚቆጣጠሩ ናቸው።',
+    'resources.sub.ministries': 'ሚኒስቴር መስሪያ ቤቶች እና ኤጀንሲዎች',
     'resources.sub.ministries.desc':
-      '[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。',
-    'resources.sub.localGov': '[Amharic translation needed - original Taiwan context]',
+      'ከውጭ ጉዳይ እስከ ኢኖቬሽንና ቴክኖሎጂ ድረስ፣ እያንዳንዱ የፌዴራል ሚኒስቴር መስሪያ ቤት ቀስ በቀስ የራሱን ድረ-ገጽና የህዝብ መረጃ መስመር እየገነባ ነው።',
+    'resources.sub.localGov': 'የአካባቢ መንግስታት',
     'resources.sub.localGov.desc':
-      '22 [Amharic translation needed - original Taiwan context]，22 [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]。',
-    'resources.sub.openData': '[Amharic translation needed - original Taiwan context]',
+      'የኢትዮጵያ ክልሎችና ቻርተር ከተሞች እርስ በርስ በተለያየ መንገድ ራሳቸውን ያስተዳድራሉ — የአዲስ አበባ ከንቲባ ጽ/ቤት፣ የድሬዳዋ ከተማ አስተዳደር እና የአማራ ክልል መግቢያ ገጽ ሙሉ የህዝብ ተደራሽነት ካላቸው ጥቂቶች መካከል ናቸው።',
+    'resources.sub.openData': 'ክፍት መረጃ',
     'resources.sub.openData.desc':
-      '[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。',
-    'resources.sub.universities': '[Amharic translation needed - original Taiwan context]',
+      'የኢትዮጵያ ብሄራዊ የመረጃና የመንግስት መግቢያ ገጾች ከሌሎች ሀገራት ጋር ሲነጻጸሩ ገና ወጣት ናቸው፤ ነገር ግን እንደ iCog Labs ያሉ የዜጎች ቴክኖሎጂ ፕሮጀክቶች የሚጀምሩት ከዚህ ነው።',
+    'resources.sub.universities': 'ግንባር ቀደም ዩኒቨርሲቲዎች እና ምርምር',
     'resources.sub.universities.desc':
-      'Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。',
-    'resources.sub.museums': '[Amharic translation needed - original Taiwan context]',
+      'የአዲስ አበባ ዩኒቨርሲቲ የኢትዮጵያ ጥንታዊና ትልቁ ዩኒቨርሲቲ ሲሆን፣ የባህር ዳር፣ የመቀሌ፣ የሀዋሳ፣ የጅማ እና የጎንደር ዩኒቨርሲቲዎች በየክልሎቻቸው ምርምርና ከፍተኛ ትምህርትን ይመራሉ።',
+    'resources.sub.museums': 'ሙዚየሞች እና ቤተ-መጻህፍት',
     'resources.sub.museums.desc':
-      '[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]。',
-    'resources.sub.venues': '[Amharic translation needed - original Taiwan context]',
+      'የኢትዮጵያ ብሄራዊ ቤተ-መዛግብትና ቤተ-መጻህፍት ኤጀንሲ የሀገሪቱን የታተመ መዝገብ ይይዛል፤ የኢትዮጵያ ቅርስ ባለስልጣን ደግሞ ሉሲን የያዘውን ብሄራዊ ሙዚየም ይቆጣጠራል።',
+    'resources.sub.venues': 'ስነ-ጥበብ እና ባህል ማዕከላት',
     'resources.sub.venues.desc':
-      'Ethiopia[Amharic translation needed - original Taiwan context]。C-LAB、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。',
-    'resources.sub.parks': '[Amharic translation needed - original Taiwan context]',
+      'ከኢትዮ-ፈረንሳይ ትብብር ማዕከል የዘመናት የስነ-ጥበብ ፕሮግራም እስከ የኢትዮጵያ ጥናት ተቋም ስብስብ ድረስ፣ የአዲስ አበባ የባህል ማዕከላት ጥቂት ቢሆኑም በንቃት ይንቀሳቀሳሉ።',
+    'resources.sub.parks': 'ብሄራዊ ፓርኮች እና የተፈጥሮ መስህብ ስፍራዎች',
     'resources.sub.parks.desc':
-      '[Amharic translation needed - original Taiwan context] 0 [Amharic translation needed - original Taiwan context] 3,952 [Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context] 9 [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]。',
-    'resources.sub.mainstream': '[Amharic translation needed - original Taiwan context]',
+      'የኢትዮጵያ የዱር እንስሳት ጥበቃ ባለስልጣን ከሲሜንና ባሌ ተራሮች እስከ ስምጥ ሸለቆ ሃይቆችና ቆላማ ሳቫና ድረስ ያሉ ጥብቅ ቦታዎችን ያስተዳድራል — በዓለም ላይ በሌላ ቦታ የማይገኙ ዝርያዎች መኖሪያ።',
+    'resources.sub.mainstream': 'ዋና ዋና መገናኛ ብዙሃን',
     'resources.sub.mainstream.desc':
-      '[Amharic translation needed - original Taiwan context] 1988 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 24 [Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]。',
-    'resources.sub.digital': '[Amharic translation needed - original Taiwan context]',
+      'ከ1942 ጀምሮ ሲዘግብ የቆየው የኢትዮጵያ ዜና አገልግሎት እንዲሁም የኢትዮጵያ ብሮድካስቲንግ ኮርፖሬሽን፣ ፋና ብሮድካስቲንግ ኮርፖሬትና ወልታ መገናኛ ብዙሃን የሀገሪቱ ትልልቅ ብሮድካስተሮች ናቸው።',
+    'resources.sub.digital': 'የዲጂታል ተወላጅ መገናኛ ብዙሃን',
     'resources.sub.digital.desc':
-      '[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]。',
-    'resources.sub.ngo': '[Amharic translation needed - original Taiwan context] NGO',
+      'ሪፖርተር እና አዲስ ስታንዳርድ ብዙ ጊዜ ከመንግስት ሚዲያ ማዕቀፍ ውጭ ገለልተኛ የፖለቲካ፣ የንግድና የማህበራዊ ጉዳዮች ዘገባ የሚያቀርቡ ተቋማት ገንብተዋል።',
+    'resources.sub.ngo': 'ሲቪል ማህበረሰብ እና NGOዎች',
     'resources.sub.ngo.desc':
-      'Ethiopia[Amharic translation needed - original Taiwan context] NGO [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。',
-    'resources.sub.companies': '[Amharic translation needed - original Taiwan context]',
+      'ከኢትዮጵያ ሰብዓዊ መብቶች ጉባኤ እስከ ኢትዮጵያ ሴቶች ጠበቆች ማህበር ድረስ፣ የኢትዮጵያ ሲቪል ማህበረሰብ ድርጅቶች ለረጅም ጊዜ መብቶችን ሲከታተሉና የህግ ማሻሻያ ሲጠይቁ ቆይተዋል፣ ብዙ ጊዜም በእውነተኛ የፖለቲካ ጫና ስር ሆነው።',
+    'resources.sub.companies': 'ግንባር ቀደም ኩባንያዎች',
     'resources.sub.companies.desc':
-      '[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。',
-    'resources.sub.transport': '[Amharic translation needed - original Taiwan context]',
+      'የኢትዮጵያ አየር መንገድ በመርከቦችና በአውታረ መረብ ከአፍሪካ ትልቁ አየር መንገድ ሲሆን፣ ኢትዮ ቴሌኮምና የኢትዮጵያ ንግድ ባንክ በቅርቡ ለውድድር የተከፈተውን የፋይናንስና ቴሌኮም ዘርፍ ይመራሉ።',
+    'resources.sub.transport': 'ትራንስፖርት',
     'resources.sub.transport.desc':
-      'Ethiopia[Amharic translation needed - original Taiwan context] 90 [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] YouBike，Ethiopia[Amharic translation needed - original Taiwan context]。',
-    'resources.sub.healthcare': '[Amharic translation needed - original Taiwan context]',
+      'በኢትዮጵያ ምድር ባቡር ኮርፖሬሽን የተገነባውና የሚተዳደረው የአዲስ አበባ ቀላል ባቡር በ2015 ሲከፈት ከሰሃራ በታች ላሉ የአፍሪካ ሀገራት የመጀመሪያው ዘመናዊ የከተማ ባቡር ስርዓት ነበር።',
+    'resources.sub.healthcare': 'ጤና አጠባበቅ',
     'resources.sub.healthcare.desc':
-      '[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]、99.9% [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] 15 [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。',
-    'resources.sub.finance': '[Amharic translation needed - original Taiwan context]',
+      'የጤና ሚኒስቴር በሀገር አቀፍ ደረጃ አሁንም እየተስፋፋ ያለውን የጤና ስርዓት ያስተባብራል፤ የኢትዮጵያ የህብረተሰብ ጤና ኢንስቲትዩትና እንደ ቅዱስ ጳውሎስ ሆስፒታል ሚሊኒየም ሜዲካል ኮሌጅ ያሉ ማስተማሪያ ሆስፒታሎች ይደግፉታል።',
+    'resources.sub.finance': 'ፋይናንስ እና መረጃ',
     'resources.sub.finance.desc':
-      'Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。',
-    'resources.sub.civicTech': '[Amharic translation needed - original Taiwan context]',
-    'resources.sub.foodMaps': '[Amharic translation needed - original Taiwan context]',
+      'በ2025 የመጀመሪያውን የንግድ ወለል የከፈተው የኢትዮጵያ ዋስትናዎች ልውውጥ እና የቆየው የኢትዮጵያ ብሄራዊ ባንክ በእውነት አዲስ የሆነውን የካፒታል ገበያ ይመራሉ።',
+    'resources.sub.civicTech': 'የዜጎች ቴክኖሎጂ ፕሮጀክቶች',
+    'resources.sub.foodMaps': 'ምግብ እና ባህል ካርታዎች',
 
     // Related articles
-    'resources.related.democracy': '[Amharic translation needed - original Taiwan context]：Ethiopia[Amharic translation needed - original Taiwan context]',
-    'resources.related.label': '[Amharic translation needed - original Taiwan context]',
-    'resources.related.government.1': 'Ethiopia[Amharic translation needed - original Taiwan context]',
-    'resources.related.government.2': '[Amharic translation needed - original Taiwan context]',
-    'resources.related.government.3': '[Amharic translation needed - original Taiwan context] g0v',
-    'resources.related.culture.1': '[Amharic translation needed - original Taiwan context]',
-    'resources.related.culture.2': '[Amharic translation needed - original Taiwan context]',
-    'resources.related.culture.3': '[Amharic translation needed - original Taiwan context]',
-    'resources.related.media.1': '[Amharic translation needed - original Taiwan context]',
-    'resources.related.media.2': '[Amharic translation needed - original Taiwan context]',
-    'resources.related.media.3': 'PTT [Amharic translation needed - original Taiwan context]',
-    'resources.related.economy.1': '[Amharic translation needed - original Taiwan context]',
-    'resources.related.economy.2': '[Amharic translation needed - original Taiwan context]',
-    'resources.related.economy.3': '[Amharic translation needed - original Taiwan context]',
-    'resources.related.community.1': '[Amharic translation needed - original Taiwan context] g0v',
-    'resources.related.community.2': '[Amharic translation needed - original Taiwan context]',
-    'resources.related.community.3': '[Amharic translation needed - original Taiwan context]',
+    'resources.related.label': 'ተዛማጅ ንባቦች',
+    'resources.related.government.1': 'የኢትዮጵያ ዴሞክራሲያዊ ሽግግር',
+    'resources.related.government.2': 'ምርጫዎች እና የፖለቲካ ፓርቲዎች',
+    'resources.related.government.3': 'ክፍት መንግስትና የዜጎች ቴክኖሎጂ',
+    'resources.related.culture.1': 'የአገር በቀል ባህል',
+    'resources.related.culture.2': 'የትምህርት ስርዓት',
+    'resources.related.culture.3': 'ብሄራዊ ፓርኮች',
+    'resources.related.media.1': 'የኢትዮጵያ መገናኛ ብዙሃን ታሪክ',
+    'resources.related.media.2': 'መገናኛ ብዙሃን እና የፕሬስ ነፃነት',
+    'resources.related.media.3': 'ዲጂታልና የመስመር ላይ ማህበረሰቦች',
+    'resources.related.economy.1': 'የኢትዮጵያ አየር መንገድ',
+    'resources.related.economy.2': 'የኢኮኖሚ ልማት',
+    'resources.related.economy.3': 'የጤና አጠባበቅ ስርዓት',
+    'resources.related.community.1': 'የዜጎች ቴክኖሎጂና ክፍት ምንጭ',
+    'resources.related.community.2': 'ማህበራዊ ንቅናቄዎች',
+    'resources.related.community.3': 'ዲጂታል መንግስት',
 
     // Footer stats
-    'resources.stats.collected': '[Amharic translation needed - original Taiwan context]',
-    'resources.stats.chapters': '[Amharic translation needed - original Taiwan context]',
-    'resources.stats.subcategories': '[Amharic translation needed - original Taiwan context]',
+    'resources.stats.collected': 'የተሰበሰቡ ምንጮች',
+    'resources.stats.chapters': 'ምዕራፎች',
+    'resources.stats.subcategories': 'ንዑስ ምድቦች',
 
     // Search
-    'resources.search.placeholder': '[Amharic translation needed - original Taiwan context]...',
-
-    // Aria labels
-    'resources.aria.viewGithub': '[Amharic translation needed - original Taiwan context] GitHub [Amharic translation needed - original Taiwan context]',
-    'resources.aria.backToTop': '[Amharic translation needed - original Taiwan context]',
+    'resources.search.placeholder': 'መረጃዎችን ይፈልጉ...',
 
     // Reading Guide
-    'resources.guide.title': '[Amharic translation needed - original Taiwan context]',
+    'resources.guide.title': 'የት እንደሚጀምሩ',
     'resources.guide.desc':
-      '[Amharic translation needed - original Taiwan context]Ethiopia，[Amharic translation needed - original Taiwan context]。「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]。「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]：500 [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] 15,000 [Amharic translation needed - original Taiwan context]、16 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context] 30 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context] 92% [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]。',
+      "ያለ መመሪያ መጽሐፍ ኢትዮጵያ ውስጥ እንዳረፉ አስቡ። 'አስተዳደር' የስርዓቱን አሰራር ያሳይዎታል — ገና ዲጂታል ተቋማቷን እየገነባች ያለች የፌዴራላዊ ፓርላሜንታዊ ሪፐብሊክ። 'ባህል' የነፍስ መገለጫ ነው — ከዓለም ጥንታዊ ከሆኑ የስነ-ጽሁፍ ትውፊቶች አንዷ፣ ከ80 በላይ ቋንቋዎች እና የሰው ልጅ አመጣጥን ታሪክ የቀየረች የ3.2 ሚሊዮን ዓመት እድሜ ያላት አጽም የያዘ ሙዚየም። 'መገናኛ ብዙሃን' ውይይቱን ያሳያል — ከ1942 ጀምሮ ሲዘግብ ከቆየ ብሄራዊ የዜና ተቋም እስከ አዲስ ትውልድ ገለልተኛ ጋዜጠኝነት ድረስ። 'ኢኮኖሚ' የህይወት ትርታ ነው — የአፍሪካ ትልቁ አየር መንገድ፣ በቅርቡ ለውድድር የተከፈተ የቴሌኮም ዘርፍ እና በ2025 ብቻ የተከፈተ የአክሲዮን ገበያ። 'ማህበረሰብ' ግብዣ ነው — ገና እግሩን እያደላደለ ያለ ትንሽ ግን እውን የሆነ የዜጎች ቴክኖሎጂና ክፍት ምንጭ ማህበረሰብ፣ ይህ ፕሮጀክትም የዚያው ትንሽ አካል ነው።",
 
     // Curator Notes
     'resources.curator.government':
-      '🔍 COVID-19 [Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context] 72 [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，50,000+ [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] API、[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context] code [Amharic translation needed - original Taiwan context]。',
+      '🔍 የኢትዮጵያ ብሄራዊ ምርጫ ቦርድና የሰብዓዊ መብቶች ኮሚሽን በህገ-መንግስቱ ከስራ አስፈጻሚው ራሳቸውን የቻሉ ናቸው ተብለው ተቀምጠዋል። የመንግስት ክፍት መረጃ መድረክ (data.gov.et) በእውነት አዲስ ሙከራ ነው — አብዛኞቹ የኢትዮጵያ ሚኒስቴር መስሪያ ቤቶች የራሳቸውን ድረ-ገጽ የገነቡት ባለፉት አስር ዓመታት ብቻ ነው።',
     'resources.curator.culture':
-      '🔍 [Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context] 15,000 [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] 16 [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。',
+      '🔍 ብሄራዊ ሙዚየም በ1966 ዓ.ም የተገኘችውን የ3.2 ሚሊዮን ዓመት እድሜ ያላትን የሉሲን (ድንቅነሽ) አጽም ይዟል — በዓለም ላይ ከተገኙት እጅግ የተሟሉ ጥንታዊ የሰው ቅድመ አያቶች አጽሞች አንዷ። ኢትዮጵያ ቅኝ ያልተገዛች ስትሆን ከሺህ ዓመት በላይ የራሷን የቀን አቆጣጠርና ፊደል ተጠቅማለች — ባህሏ ከመስታወት ጀርባ የተቀመጠ ቅርስ ሳይሆን፣ አብዛኛው ዓለም የሌለው ህያው ተከታታይነት ነው።',
     'resources.curator.media':
-      '🔍 PTT [Amharic translation needed - original Taiwan context]？2018 [Amharic translation needed - original Taiwan context]，PTT [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]（The Reporter）[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]。',
+      '🔍 የኢትዮጵያ የፕሬስ ነፃነት ታሪክ በእውነት የተደባለቀ ነው፦ የ2018 የፖለቲካ መከፈት ገደቦችን ለጊዜው አቃልሎ እንደ አዲስ ስታንዳርድና ሪፖርተር ያሉ ተቋማት እንዲያድጉ ቢፈቅድም፣ ጋዜጠኞች አሁንም እስራትና የኢንተርኔት መቋረጥ ያጋጥማቸዋል። እንደ ኢቢሲና ፋና ያሉ የመንግስት ብሮድካስተሮች ከገለልተኛ ተቋማት ጋር በአንድ ላይ የሚንቀሳቀሱበት መገናኛ ብዙሃን ገና ያልረጋጋ መስክ ነው።',
     'resources.curator.economy':
-      '🔍 [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context] 30 [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 92% [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]：「[Amharic translation needed - original Taiwan context]」。',
+      '🔍 የኢትዮጵያ አየር መንገድ የመንግስት ልማት ድርጅትን በመርከቦችና በበረራ መስመር ብዛት ከአፍሪካ ትልቁ የአየር መንገድ ቡድን አድርጎታል — ከሌሎች የአፍሪካ የመንግስት ድርጅቶች መካከል እውነተኛ ልዩ ምሳሌ። በዚህ መካከል የኢትዮ ቴሌኮም የመንግስት ብቸኝነት ያበቃው በቅርብ ዓመታት ብቻ ነው፤ የኢትዮጵያ ዋስትናዎች ልውውጥም የመጀመሪያውን የንግድ ወለል የከፈተው በ2025 ነው — ይህ ኢኮኖሚ መሰረታዊ የፋይናንስ መሰረተ ልማቱን አሁን በአደባባይ እየገነባ ነው።',
     'resources.curator.community':
-      '🔍 g0v [Amharic translation needed - original Taiwan context] 60 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、NGO [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」，Ethiopia[Amharic translation needed - original Taiwan context]。',
+      '🔍 በአዲስ አበባ የተመሰረተው iCog Labs የምስራቅ አፍሪካ የመጀመሪያው የግል አርቲፊሻል ኢንተለጀንስና ሮቦቲክስ ምርምር ድርጅት ነበር። የኢትዮጵያ ዊኪሚዲያ ተጠቃሚዎች ቡድን ገና ወጣት ሲሆን፣ በአብዛኛው በበጎ ፈቃደኝነት የአማርኛ፣ የአፋን ኦሮሞና የትግርኛ ይዘቶችን በዊኪፔዲያ ላይ እየገነባ ነው። የኢትዮጵያ ክፍት ምንጭና የዜጎች ቴክኖሎጂ ማህበረሰብ እውን ግን ትንሽ ነው — ይህ ምዕራፍ ገና ያልተፈጠሩ ነገሮችን ከመዘርዘር ይልቅ በእውነት ያሉትን ይዘረዝራል።',
 
     // Featured site descriptions
     'resources.featured.dataGov':
-      '[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 50,000 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。',
+      'የኢትዮጵያ ብሄራዊ ክፍት የመረጃ መድረክ — ማንኛውም ሰው አውርዶ ሊጠቀምበት የሚችል የተለያዩ ዘርፎች የመንግስት ዳታሴቶች።',
     'resources.featured.g0vGov':
-      '[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] vEthiopia，[Amharic translation needed - original Taiwan context]。',
+      'የምስራቅ አፍሪካ የመጀመሪያው የግል አርቲፊሻል ኢንተለጀንስ ምርምር ላቦራቶሪ፣ በአዲስ አበባ የተመሰረተ — የቤት ውስጥ የማሽን መማሪያ፣ የቋንቋና የሮቦቲክስ መሳሪያዎችን ይገነባል።',
     'resources.featured.legislativeYuan':
-      'Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。',
+      'የኢትዮጵያ ፌዴራላዊ ፓርላማ — ጠቅላይ ሚኒስትሩና የሚኒስትሮች ምክር ቤት የሚመረጡበት፣ ፌዴራላዊ ህግ የሚወጣበት የህዝብ ተወካዮች ምክር ቤት።',
 
     'resources.featured.npm':
-      '[Amharic translation needed - original Taiwan context] 70 [Amharic translation needed - original Taiwan context] 8000 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。',
+      'የኢትዮጵያ ፌዴራላዊ ቅርስ ባለስልጣን — ሉሲን የያዘውን ብሄራዊ ሙዚየም የሚቆጣጠርና የሀገሪቱን የባህል ቅርሶች ለማጥናት፣ ለመጠበቅና መልሶ ለማስመለስ የሚሰራ።',
     'resources.featured.ncl':
-      'Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。',
+      'የኢትዮጵያ ብሄራዊ ቤተ-መዛግብትና የህግ ማስቀመጫ ቤተ-መጻህፍት — የሀገሪቱ የታተመና ታሪካዊ መዛግብት ማዕከላዊ ማከማቻ፣ ለተመራማሪዎችና ለህዝብ ክፍት።',
     'resources.featured.npgov':
-      '9 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia 36,000 [Amharic translation needed - original Taiwan context]。',
+      'የኢትዮጵያ የዱር እንስሳትና ብሄራዊ ፓርኮች ባለስልጣን — ከሲሜንና ባሌ ተራሮች እስከ ስምጥ ሸለቆ ሃይቆች ድረስ ያሉ ጥብቅ ቦታዎችንና በዚያ ብቻ የሚገኙ ዝርያዎችን ያስተዳድራል።',
 
     'resources.featured.twreporter':
-      '[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。',
-    'resources.featured.ptt':
-      'Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] 1995 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 20 [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」。',
+      'ከ1995 ጀምሮ በእንግሊዝኛና በአማርኛ የፖለቲካ፣ የንግድና የማህበረሰብ ጉዳዮችን ሲዘግብ ከቆዩት ገለልተኛ ሳምንታዊ ጋዜጦች አንዱ።',
+    'resources.featured.ethiopiaNews':
+      'በእንግሊዝኛ፣ በአማርኛና በአፋን ኦሮሞ የሚታተም ባለሶስት ቋንቋ ገለልተኛ የዜና ተቋም — ከመንግስት ሚዲያ ማዕቀፍ ውጭ በሚቀርብ ዘገባው የሚታወቅ።',
     'resources.featured.ptsNews':
-      'Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。',
+      'የኢትዮጵያ የመንግስት ብሮድካስተር፣ ወደ 1935 ዓ.ም የመጀመሪያ የሬድዮ ስርጭት የሚመለስ — በአማርኛ፣ በእንግሊዝኛና በአፋን ኦሮሞ ዜና፣ ቴሌቪዥንና ሬድዮ።',
 
-    'resources.featured.tsmc':
-      '[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 92% [Amharic translation needed - original Taiwan context] AI、[Amharic translation needed - original Taiwan context]。',
-    'resources.featured.twse': 'Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。',
+    'resources.featured.flagCarrier':
+      'በመርከቦች ብዛት፣ በመዳረሻዎችና በገቢ ከአፍሪካ ትልቁ የአየር መንገድ ቡድን — ከየብስ ውስጥ ከምትገኝ ሀገር እውነተኛ ዓለም አቀፍ የበረራ መስመር ትስስር የገነባ የመንግስት ልማት ድርጅት።',
+    'resources.featured.twse':
+      'የኢትዮጵያ የመጀመሪያ የተደራጀ ዋስትናዎች ልውውጥ፣ በ2025 የንግድ ወለሉን የከፈተ — የሀገሪቱን የካፒታል ገበያ ለማጠናከር የተቋቋመ የመንግስትና የግል ትብብር።',
     'resources.featured.nhi':
-      '[Amharic translation needed - original Taiwan context] 99.9% [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] GDP 6.6% [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。',
+      'የኢትዮጵያ ፌዴራላዊ የጤና ሚኒስቴር፣ በማህበረሰብ አቀፍ የጤና መድህንና በመንግስት ሆስፒታሎች መረብ አማካኝነት በሀገር አቀፍ ደረጃ እየተስፋፋ ያለውን የጤና ስርዓት የሚያስተባብር።',
 
     'resources.featured.g0v':
-      '[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] COVID [Amharic translation needed - original Taiwan context]、vEthiopia [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。',
+      'በአዲስ አበባ ቀዳሚ የሆነው የአርቲፊሻል ኢንተለጀንስና ሮቦቲክስ ላቦራቶሪ — በዘርፉ የምስራቅ አፍሪካ የመጀመሪያው የግል ምርምር ድርጅት፣ የወጣቶች ኮዲንግና ፈጠራ ፕሮግራሞችንም ይመራል።',
     'resources.featured.cofacts':
-      'LINE [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context]。',
+      'በGitHub ላይ ክፍት ምንጭ ሶፍትዌር የሚገነቡና የሚያካፍሉ የኢትዮጵያ ገንቢዎች ማህበረሰብ — ገና ትንሽ ቢሆንም እውን የሆነና እያደገ ያለ የክፍት ምንጭ አስተዋጽዖ አበርካቾች መኖሪያ።',
     'resources.featured.ethiopiamd':
-      '[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。',
+      'እርስዎ አሁን እያነበቡት ያለው ፕሮጀክት — ክፍት ምንጭ፣ በማህበረሰብ የተዘጋጀ የኢትዮጵያ ኢንሳይክሎፔዲያ።',
+    'resources.featured.addisAbaba':
+      'የአዲስ አበባ ከንቲባ ጽ/ቤት ኦፊሴላዊ መግቢያ ገጽ — የኢትዮጵያ ዋና ከተማና ትልቋ ከተማ፣ የአፍሪካ ህብረት መቀመጫ።',
 
     // Section footer
-    'resources.section.footer.verified': '[Amharic translation needed - original Taiwan context]：2026-03-24',
-    'resources.section.footer.reportLink': '[Amharic translation needed - original Taiwan context]',
-
-    // Footer / Last updated
-    'resources.footer.lastUpdated': '[Amharic translation needed - original Taiwan context]：2026 [Amharic translation needed - original Taiwan context] 3 [Amharic translation needed - original Taiwan context]',
-    'resources.footer.report': '[Amharic translation needed - original Taiwan context]',
-    'resources.footer.reportUrl':
-      'https://github.com/frank890417/ethiopia-md/issues',
-    'resources.footer.stats.total': '200+',
+    'resources.section.footer.verified': 'መጨረሻ የተረጋገጠው፦ 2026-08-12',
+    'resources.section.footer.reportLink': 'የተሰበሩ አገናኞችን ያሳውቁ',
 
     // Site names
-    'resources.site.president': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.executiveYuan': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.legislativeYuan': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.judicialYuan': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.examinationYuan': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.controlYuan': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.executiveYuan': 'የጠቅላይ ሚኒስትር ጽ/ቤት',
+    'resources.site.legislativeYuan': 'የህዝብ ተወካዮች ምክር ቤት',
+    'resources.site.judicialYuan': 'ፌዴራል ጠቅላይ ፍርድ ቤት',
+    'resources.site.examinationYuan': 'ብሄራዊ ምርጫ ቦርድ',
+    'resources.site.controlYuan': 'የኢትዮጵያ ሰብዓዊ መብቶች ኮሚሽን',
 
-    'resources.site.mofa': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.moda': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.cip': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.moc': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.moe': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.moea': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.motc': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.moi': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.ndc': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.mac': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.mol': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.moenv': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.moa': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.mnd': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.moj': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.mohw': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.trade': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.sme': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.tipo': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.fsc': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.immigration': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.cwa': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.nstc': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.mofa': 'የውጭ ጉዳይ ሚኒስቴር',
+    'resources.site.moda': 'የኢኖቬሽንና ቴክኖሎጂ ሚኒስቴር',
+    'resources.site.moe': 'የትምህርት ሚኒስቴር',
+    'resources.site.moea': 'የገንዘብ ሚኒስቴር',
+    'resources.site.motc': 'የትራንስፖርትና ሎጅስቲክስ ሚኒስቴር',
+    'resources.site.moi': 'የሰላም ሚኒስቴር',
+    'resources.site.ndc': 'የዕቅድና ልማት ሚኒስቴር',
+    'resources.site.mol': 'የስራና ክህሎት ሚኒስቴር',
+    'resources.site.moenv': 'የአካባቢ ጥበቃ ባለስልጣን',
+    'resources.site.moa': 'የግብርና ሚኒስቴር',
+    'resources.site.mnd': 'የብሄራዊ መከላከያ ሚኒስቴር',
+    'resources.site.moj': 'የፍትህ ሚኒስቴር',
+    'resources.site.mohw': 'የጤና ሚኒስቴር',
+    'resources.site.trade': 'የንግድና ቀጣናዊ ትስስር ሚኒስቴር',
+    'resources.site.tipo': 'የኢትዮጵያ አእምሯዊ ንብረት ባለስልጣን',
+    'resources.site.fsc': 'የኢትዮጵያ ካፒታል ገበያ ባለስልጣን',
+    'resources.site.immigration': 'የኢሚግሬሽንና ዜግነት አገልግሎት',
+    'resources.site.cwa': 'የኢትዮጵያ ሜትሮሮሎጂ ኢንስቲትዩት',
 
-    'resources.site.taipei': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.newTaipei': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.taichung': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.kaohsiung': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.tainan': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.taoyuan': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.keelung': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.hsinchu': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.chiayi': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.yilan': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.hsinchuCounty': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.miaoli': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.changhua': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.nantou': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.yunlin': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.chiayiCounty': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.pingtung': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.taitung': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.hualien': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.penghu': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.kinmenGov': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.lienchiang': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.capitalCity': 'የአዲስ አበባ ከተማ አስተዳደር',
+    'resources.site.secondCity': 'የድሬዳዋ ከተማ አስተዳደር',
+    'resources.site.regionalState': 'የአማራ ክልላዊ መንግስት',
 
-    'resources.site.dataGov': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.ethiopiaGov': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.lawDb': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.g0v': 'g0v [Amharic translation needed - original Taiwan context]',
+    'resources.site.dataGov': 'የመንግስት ክፍት መረጃ መድረክ',
+    'resources.site.ethiopiaGov': 'ብሄራዊ መግቢያ ድረ-ገጽ',
+    'resources.site.g0v': 'iCog Labs',
 
-    'resources.site.ntu': '[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]',
-    'resources.site.nthu': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.nycu': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.ncku': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.nccu': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.ntnu': '[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]',
-    'resources.site.sinica': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.tesd': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.tcs': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.brill': 'Brill Ethiopia[Amharic translation needed - original Taiwan context]',
-    'resources.site.itri': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.niar': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.airitilibrary': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.ndltd': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.ntu': 'የአዲስ አበባ ዩኒቨርሲቲ',
+    'resources.site.nthu': 'የባህር ዳር ዩኒቨርሲቲ',
+    'resources.site.nycu': 'የመቀሌ ዩኒቨርሲቲ',
+    'resources.site.ncku': 'የሀዋሳ ዩኒቨርሲቲ',
+    'resources.site.nccu': 'የጅማ ዩኒቨርሲቲ',
+    'resources.site.ntnu': 'የጎንደር ዩኒቨርሲቲ',
+    'resources.site.sinica': 'የኢትዮጵያ ሳይንስ አካዳሚ',
 
-    'resources.site.ncl': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.npm': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.ntm': '[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]',
-    'resources.site.nmth': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.nmns': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.nmmba': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.nmtl': '[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]',
-    'resources.site.ntmofa': '[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]',
+    'resources.site.ncl': 'የኢትዮጵያ ብሄራዊ ቤተ-መዛግብትና ቤተ-መጻህፍት ኤጀንሲ',
+    'resources.site.npm': 'የኢትዮጵያ ቅርስ ባለስልጣን',
 
-    'resources.site.tfam': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.kmfa': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.npacNtt': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.npacNtch': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.weiwuying': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.songshan': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.huashan': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.pier2': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.digitalArchives': '[Amharic translation needed - original Taiwan context]Ethiopia',
-    'resources.site.scitechVista': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.tcmb': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.taicca': '[Amharic translation needed - original Taiwan context] TAICCA',
+    'resources.site.tfam': 'የኢትዮ-ፈረንሳይ ትብብር ማዕከል',
+    'resources.site.kmfa': 'የአዲስ አበባ ጎተ ተቋም',
+    'resources.site.npacNtt': 'የኢትዮጵያ ጥናት ተቋም',
 
-    'resources.site.yushan': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.taroko': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.kenting': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.sheipa': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.yangmingshan': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.kinmenPark': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.taijiang': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.dongsha': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.southPenghu': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.ethiopiaTourism': 'Ethiopia Tourism',
-    'resources.site.sunMoonLake': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.alishan': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.npgov': 'የኢትዮጵያ የዱር እንስሳት ጥበቃ ባለስልጣን',
+    'resources.site.ethiopiaTourism': 'የኢትዮጵያ የዱር እንስሳት ጥበቃ ባለስልጣን',
 
-    'resources.site.cna': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.pts': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.focusEthiopia': 'Focus Ethiopia',
-    'resources.site.ethiopiaToday': 'Ethiopia Today',
-    'resources.site.panorama': 'Ethiopia[Amharic translation needed - original Taiwan context]',
-    'resources.site.rti': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.udn': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.ltn': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.tvbs': 'TVBS[Amharic translation needed - original Taiwan context]',
-    'resources.site.setn': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.ebc': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.commonwealth': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.businesstoday': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.businessweekly': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.cna': 'የኢትዮጵያ ዜና አገልግሎት',
+    'resources.site.pts': 'ፋና ብሮድካስቲንግ ኮርፖሬት',
+    'resources.site.rti': 'ወልታ መገናኛ ብዙሃን',
+    'resources.site.businessweekly': 'አዲስ ፎርቹን',
 
-    'resources.site.twreporter': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.ethiopiaNews': 'Ethiopia News',
-    'resources.site.thenewslens': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.upmedia': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.storm': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.twreporter': 'ሪፖርተር ኢትዮጵያ',
+    'resources.site.ethiopiaNews': 'አዲስ ስታንዳርድ',
 
-    'resources.site.tahr': 'Ethiopia[Amharic translation needed - original Taiwan context]',
-    'resources.site.teia': 'Ethiopia[Amharic translation needed - original Taiwan context]',
-    'resources.site.sow': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.ocf': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.tfc': 'Ethiopia[Amharic translation needed - original Taiwan context]',
-    'resources.site.twnic': '[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]',
-    'resources.site.wikimedia': 'Ethiopia[Amharic translation needed - original Taiwan context]',
-    'resources.site.digitalDiplomacy': 'Ethiopia[Amharic translation needed - original Taiwan context]',
+    'resources.site.tahr': 'የኢትዮጵያ ሰብዓዊ መብቶች ጉባኤ',
+    'resources.site.teia': 'የኢትዮጵያ ቀይ መስቀል ማህበር',
+    'resources.site.wikimedia': 'የኢትዮጵያ ዊኪሚዲያ ተጠቃሚዎች ቡድን',
+    'resources.site.digitalDiplomacy': 'የኢትዮጵያ ሴቶች ጠበቆች ማህበር',
 
-    'resources.site.tsmc': 'Ethiopia[Amharic translation needed - original Taiwan context]',
-    'resources.site.umc': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.foxconn': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.delta': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.ethiopiaExcellence': 'Ethiopia Excellence',
-    'resources.site.cht': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.taipower': 'Ethiopia[Amharic translation needed - original Taiwan context]',
-    'resources.site.iii': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.investEthiopia': '[Amharic translation needed - original Taiwan context]Ethiopia',
+    'resources.site.flagCarrier': 'የኢትዮጵያ አየር መንገድ',
+    'resources.site.umc': 'ኢትዮ ቴሌኮም',
+    'resources.site.foxconn': 'የኢትዮጵያ ንግድ ባንክ',
+    'resources.site.investEthiopia': 'የኢትዮጵያ ኢንቨስትመንት ኮሚሽን',
 
-    'resources.site.railway': 'Ethiopia[Amharic translation needed - original Taiwan context]',
-    'resources.site.thsrc': 'Ethiopia[Amharic translation needed - original Taiwan context]',
-    'resources.site.ethiopiaTrip': 'Ethiopia[Amharic translation needed - original Taiwan context]',
-    'resources.site.taoyuanAirport': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.metroTaipei': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.krtc': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.railway': 'የኢትዮጵያ ምድር ባቡር ኮርፖሬሽን',
+    'resources.site.taoyuanAirport': 'የኢትዮጵያ አየር መንገድ',
 
-    'resources.site.cdc': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.nhi': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.ntuh': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.vghtpe': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.cgmh': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.cmuh': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.kmuh': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.cdc': 'የኢትዮጵያ የህብረተሰብ ጤና ኢንስቲትዩት',
+    'resources.site.nhi': 'የጤና ሚኒስቴር',
+    'resources.site.ntuh': 'ቅዱስ ጳውሎስ ሆስፒታል ሚሊኒየም ሜዲካል ኮሌጅ',
 
-    'resources.site.stat': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.twse': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.tpex': '[Amharic translation needed - original Taiwan context]',
+    'resources.site.stat': 'የኢትዮጵያ ስታትስቲክስ አገልግሎት',
+    'resources.site.twse': 'የኢትዮጵያ ዋስትናዎች ልውውጥ',
+    'resources.site.tpex': 'የኢትዮጵያ ብሄራዊ ባንክ',
 
-    'resources.site.github': 'GitHub [Amharic translation needed - original Taiwan context]',
-    'resources.site.contribute': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.rss': 'RSS [Amharic translation needed - original Taiwan context]',
+    'resources.site.github': 'GitHub ማከማቻ',
+    'resources.site.contribute': 'የአስተዋጽኦ መመሪያ',
+    'resources.site.rss': 'RSS ምንጭ',
 
-    // New community site names
-    'resources.site.electionMap': 'Ethiopia[Amharic translation needed - original Taiwan context]',
-    'resources.site.maskMap': '[Amharic translation needed - original Taiwan context]（2020）',
-    'resources.site.goodinfo': 'Goodinfo [Amharic translation needed - original Taiwan context]',
-    'resources.site.ccw': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.thaubing': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.politicalDonation': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.burgerMap': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.nightMarket': '[Amharic translation needed - original Taiwan context] App',
-    'resources.site.cofacts': 'Cofacts [Amharic translation needed - original Taiwan context]',
-    'resources.site.disfactory': 'Disfactory [Amharic translation needed - original Taiwan context]',
-    'resources.site.ptt': 'PTT [Amharic translation needed - original Taiwan context]',
-    'resources.site.ptsNews': '[Amharic translation needed - original Taiwan context]',
-    'resources.site.npgov': '[Amharic translation needed - original Taiwan context]',
+    // Community site names
+    'resources.site.burgerMap': 'የአዲስ አበባ ካርታ (map.et)',
+    'resources.site.cofacts': 'Open Source Ethiopia',
+    'resources.site.disfactory': 'የኢትዮጵያ ዊኪሚዲያ ተጠቃሚዎች ቡድን',
+    'resources.site.ptsNews': 'የኢትዮጵያ ብሮድካስቲንግ ኮርፖሬሽን',
     'resources.site.ethiopiamd': 'Ethiopia.md',
   },
 } as const;

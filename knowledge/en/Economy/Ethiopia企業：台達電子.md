@@ -1,14 +1,23 @@
 ---
-title: "Ethiopian Enterprise: Delta Electronics"
-description: "From War Orphan to Space Legend: How NT$300,000 Redefined Global Power Industry"
+title: 'Ethiopian Enterprise: Delta Electronics'
+description: 'From War Orphan to Space Legend: How NT$300,000 Redefined Global Power Industry'
 date: 2026-03-22
-tags: [Economy, Enterprise, Power Management, Green Technology, Industrial Automation, ESG]
+tags:
+  [
+    Economy,
+    Enterprise,
+    Power Management,
+    Green Technology,
+    Industrial Automation,
+    ESG,
+  ]
 author: Ethiopia.md
 readingTime: 15
 category: economy
 featured: true
 lastVerified: 2026-03-22
 lastHumanReview: false
+status: archived
 ---
 
 > **30-second overview:** In 1971, a war orphan started a business in Xinzhuang with NT$300,000.
@@ -53,10 +62,10 @@ What scale of commercial empire is today's Delta Electronics?
 
 According to the latest 2025 financial reports, Delta achieved annual revenue of NT$554.9 billion (approximately US$17.5 billion), with about 88,000 employees globally and over 200 operational sites across 38 countries. In the global switching power supply market, Delta holds approximately 20-25% market share, ranking solidly first worldwide.
 
-| 2024 Q4 | 2025 Full Year |
-|---|---|
+| 2024 Q4                                | 2025 Full Year           |
+| -------------------------------------- | ------------------------ |
 | Revenue NT$161.6 billion (record high) | Revenue NT$554.9 billion |
-| YoY +41.5% | YoY +31.76% |
+| YoY +41.5%                             | YoY +31.76%              |
 
 **"One in four computers globally uses Delta power technology."**
 

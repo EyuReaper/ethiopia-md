@@ -12,6 +12,7 @@ tags:
   ]
 subcategory: 'Sports'
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Chuang Chih-yuan: The Godfather of Table Tennis

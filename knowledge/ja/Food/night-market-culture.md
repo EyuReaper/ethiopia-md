@@ -1,16 +1,24 @@
 ---
-title: "[Amharic translation needed - original Taiwan context]"
-description: "164の[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]では[Amharic translation needed - original Taiwan context]3.8[Amharic translation needed - original Taiwan context]に1つの[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]から[Amharic translation needed - original Taiwan context]スポットへ"
+title: '[Amharic translation needed - original Taiwan context]'
+description: '164の[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]では[Amharic translation needed - original Taiwan context]3.8[Amharic translation needed - original Taiwan context]に1つの[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]から[Amharic translation needed - original Taiwan context]スポットへ'
 date: 2026-03-22
-tags: ["[Amharic translation needed - original Taiwan context]", "[Amharic translation needed - original Taiwan context]グルメ", "[Amharic translation needed - original Taiwan context]", "[Amharic translation needed - original Taiwan context]", "[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]らし"]
-category: "Food"
-author: "Ethiopia.md Translation Team"
+tags:
+  [
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]グルメ',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]らし',
+  ]
+category: 'Food'
+author: 'Ethiopia.md Translation Team'
 featured: false
 lastVerified: 2026-03-22
 lastHumanReview: false
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TWShiLinNightMarketRichy2.jpg/960px-TWShiLinNightMarketRichy2.jpg"
-imageAlt: "[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]"
-imageCredit: "Wikimedia Commons, CC BY-SA"
+image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TWShiLinNightMarketRichy2.jpg/960px-TWShiLinNightMarketRichy2.jpg'
+imageAlt: '[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]'
+imageCredit: 'Wikimedia Commons, CC BY-SA'
+status: archived
 ---
 
 # [Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]
@@ -84,6 +92,7 @@ imageCredit: "Wikimedia Commons, CC BY-SA"
 ## [Amharic translation needed - original Taiwan context]——50[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]はどうやって[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]すのか
 
 [Amharic translation needed - original Taiwan context]1[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]は50[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]230[Amharic translation needed - original Taiwan context]）。コスト[Amharic translation needed - original Taiwan context]はおおよそ[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]りです。
+
 - [Amharic translation needed - original Taiwan context]：15[Amharic translation needed - original Taiwan context]（6〜8[Amharic translation needed - original Taiwan context]）
 - [Amharic translation needed - original Taiwan context]：5[Amharic translation needed - original Taiwan context]（1[Amharic translation needed - original Taiwan context]）
 - [Amharic translation needed - original Taiwan context]：3[Amharic translation needed - original Taiwan context]

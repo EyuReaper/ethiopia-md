@@ -10,7 +10,7 @@ let commits: { hash: string; date: string; message: string; author: string }[] =
   [];
 try {
   const res = await fetch(
-    'https://api.github.com/repos/frank890417/ethiopia-md/commits?per_page=100',
+    'https://api.github.com/repos/EyuReaper/ethiopia-md/commits?per_page=100',
   );
   if (res.ok) {
     const data = await res.json();
@@ -61,6 +61,7 @@ const translations = {
   minutesAgo: t('changelog.time.minutes-ago'),
   hoursAgo: t('changelog.time.hours-ago'),
   daysAgo: t('changelog.time.days-ago'),
+  locale: t('changelog.locale'),
 };
 ---
 
@@ -76,12 +77,12 @@ const translations = {
         {t('changelog.header.subtitle')}
       </p>
       <p class="changelog-meta">
-        {lang === 'am' ? '[Amharic translation needed - original Taiwan context] ' : ''}{commits.length}
+        {lang === 'am' ? 'በድምሩ ' : ''}{commits.length}
         {t('changelog.header.meta.updates')} · {
           t('changelog.header.meta.synced')
         }
         <a
-          href="https://github.com/frank890417/ethiopia-md/commits/main"
+          href="https://github.com/EyuReaper/ethiopia-md/commits/main"
           target="_blank">GitHub</a
         >
       </p>
@@ -113,13 +114,16 @@ const translations = {
                       <div class="commit-meta">
                         <span class="commit-author">{commit.author}</span>
                         <span class="commit-time" data-date={commit.date}>
-                          {new Date(commit.date).toLocaleTimeString([], {
-                            hour: '2-digit',
-                            minute: '2-digit',
-                          })}
+                          {new Date(commit.date).toLocaleTimeString(
+                            t('changelog.locale'),
+                            {
+                              hour: '2-digit',
+                              minute: '2-digit',
+                            },
+                          )}
                         </span>
                         <a
-                          href={`https://github.com/frank890417/ethiopia-md/commit/${commit.hash}`}
+                          href={`https://github.com/EyuReaper/ethiopia-md/commit/${commit.hash}`}
                           target="_blank"
                           class="commit-hash"
                         >
@@ -156,7 +160,11 @@ const translations = {
         } else if (diffInSeconds < 2592000) {
           relativeTime = `${Math.floor(diffInSeconds / 86400)} ${translations.daysAgo}`;
         } else {
-          relativeTime = date.toLocaleDateString();
+          relativeTime = date.toLocaleDateString(translations.locale, {
+            year: 'numeric',
+            month: 'long',
+            day: 'numeric',
+          });
         }
 
         el.textContent = relativeTime;

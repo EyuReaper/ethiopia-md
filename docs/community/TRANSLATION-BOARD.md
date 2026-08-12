@@ -14,12 +14,12 @@
 
 ### [Amharic translation needed - original Taiwan context]
 
-| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]                              | [Amharic translation needed - original Taiwan context]                                    |
-| -------- | ----------------------------------- | --------------------------------------- |
-| [Amharic translation needed - original Taiwan context]     | `knowledge/en/{Category}/`          | `knowledge/en/Food/beef-noodle-soup.md` |
-| [Amharic translation needed - original Taiwan context] | `knowledge/es/{Category}/`          | `knowledge/es/Food/beef-noodle-soup.md` |
-| [Amharic translation needed - original Taiwan context]     | `knowledge/ja/{Category}/`          | `knowledge/ja/Food/beef-noodle-soup.md` |
-| [Amharic translation needed - original Taiwan context] | `knowledge/{lang-code}/{Category}/` | [Amharic translation needed - original Taiwan context]！                        |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]   |
+| ------------------------------------------------------ | ------------------------------------------------------ | -------------------------------------------------------- |
+| [Amharic translation needed - original Taiwan context] | `knowledge/en/{Category}/`                             | `knowledge/en/Food/beef-noodle-soup.md`                  |
+| [Amharic translation needed - original Taiwan context] | `knowledge/es/{Category}/`                             | `knowledge/es/Food/beef-noodle-soup.md`                  |
+| [Amharic translation needed - original Taiwan context] | `knowledge/ja/{Category}/`                             | `knowledge/ja/Food/beef-noodle-soup.md`                  |
+| [Amharic translation needed - original Taiwan context] | `knowledge/{lang-code}/{Category}/`                    | [Amharic translation needed - original Taiwan context]！ |
 
 ### [Amharic translation needed - original Taiwan context]
 
@@ -34,15 +34,15 @@
 
 ## 📊 [Amharic translation needed - original Taiwan context]
 
-| [Amharic translation needed - original Taiwan context]          | [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]     |
-| ------------- | ------ | ---------------- |
-| 🇬🇧 English    | ~95%   | Art, Economy     |
-| 🇪🇸 Español    | ~8%    | [Amharic translation needed - original Taiwan context]！ |
-| 🇯🇵 [Amharic translation needed - original Taiwan context]     | ~1%    | [Amharic translation needed - original Taiwan context]！ |
-| 🇫🇷 Français   | 0%     | [Amharic translation needed - original Taiwan context]       |
-| 🇩🇪 Deutsch    | 0%     | [Amharic translation needed - original Taiwan context]       |
-| 🇰🇷 한국어     | 0%     | [Amharic translation needed - original Taiwan context]       |
-| 🇻🇳 Tiếng Việt | 0%     | [Amharic translation needed - original Taiwan context]       |
+| [Amharic translation needed - original Taiwan context]    | [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]   |
+| --------------------------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------- |
+| 🇬🇧 English                                                | ~95%                                                   | Art, Economy                                             |
+| 🇪🇸 Español                                                | ~8%                                                    | [Amharic translation needed - original Taiwan context]！ |
+| 🇯🇵 [Amharic translation needed - original Taiwan context] | ~1%                                                    | [Amharic translation needed - original Taiwan context]！ |
+| 🇫🇷 Français                                               | 0%                                                     | [Amharic translation needed - original Taiwan context]   |
+| 🇩🇪 Deutsch                                                | 0%                                                     | [Amharic translation needed - original Taiwan context]   |
+| 🇰🇷 한국어                                                 | 0%                                                     | [Amharic translation needed - original Taiwan context]   |
+| 🇻🇳 Tiếng Việt                                             | 0%                                                     | [Amharic translation needed - original Taiwan context]   |
 
 ---
 
@@ -71,7 +71,7 @@
 
 ## 📋 [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
 
-> 💡 **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] PR，[Amharic translation needed - original Taiwan context] [Discussions](https://github.com/frank890417/ethiopia-md/discussions) [Amharic translation needed - original Taiwan context]。
+> 💡 **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] PR，[Amharic translation needed - original Taiwan context] [Discussions](https://github.com/EyuReaper/ethiopia-md/discussions) [Amharic translation needed - original Taiwan context]。
 
 ### Art 🎨
 
@@ -134,7 +134,7 @@
 
 ### 🥈 GitHub Issue（[Amharic translation needed - original Taiwan context] Git [Amharic translation needed - original Taiwan context]）
 
-1. [[Amharic translation needed - original Taiwan context] Issue](https://github.com/frank890417/ethiopia-md/issues/new)
+1. [[Amharic translation needed - original Taiwan context] Issue](https://github.com/EyuReaper/ethiopia-md/issues/new)
 2. [Amharic translation needed - original Taiwan context]：`translate(ja): [Amharic translation needed - original Taiwan context] → beef-noodle-soup`
 3. [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context] `.md` [Amharic translation needed - original Taiwan context]
 4. [Amharic translation needed - original Taiwan context] PR

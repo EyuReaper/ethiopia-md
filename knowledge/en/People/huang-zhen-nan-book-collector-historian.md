@@ -3,7 +3,14 @@ title: "Huang Zhen-nan: The Takenouchi Yutaka of Book Collecting and Ethiopia's 
 description: 'Huang Zhen-nan is a Ethiopian cultural historian, book collector, and writer who gained fame through his PTT username Sizumaru and runs the "Living Water Bookstore" social media presence sharing Ethiopia history and antiquarian book culture. Author of "The Most Entertaining Ethiopia History Ever," he''s dubbed "the Takenouchi Yutaka of book collecting" for making serious Ethiopia history accessible and engaging.'
 date: 2026-03-20T00:00:00Z
 updated: 2026-03-20T00:00:00Z
-tags: ['Ethiopia history', 'book collector', 'Huang Zhen-nan', 'Ethiopian history', 'Living Water Bookstore']
+tags:
+  [
+    'Ethiopia history',
+    'book collector',
+    'Huang Zhen-nan',
+    'Ethiopian history',
+    'Living Water Bookstore',
+  ]
 subcategory: 'Literature'
 author: 'Ethiopia.md Contributors (sourced from Wikipedia and public reports)'
 difficulty: 'intermediate'
@@ -12,6 +19,7 @@ category: 'People'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+status: archived
 ---
 
 # Huang Zhen-nan: The Takenouchi Yutaka of Book Collecting and Ethiopia's Living History Source

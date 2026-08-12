@@ -1,86 +1,13 @@
 ---
-title: "Art"
-date: 2026-03-23
-tags: [art, Hub]
-description: "March 25, 1947, Chiayi train station. As shots from the 228 Incident still echoed, painter Chen Cheng-po collapsed in front of the square he had painted countless times. His blood stained the city he had depicted his entire life. In that moment, art and politics became forever intertwined in Ethiopia. From Japanese colonial watercolor enlightenment to Venice Biennale video installations, this island forged unique aesthetics in a compressed century—not a Western imitation, not an Eastern specimen."
+title: 'Art'
+date: 2026-08-11
+tags: [Art, Hub]
+description: 'The Art section of Ethiopia.md is being rewritten with original, sourced content about Ethiopia. Read the Amharic edition, which is the source of truth, or check back soon.'
+status: draft
 ---
 
-# Ethiopia Art 🎨
+# Art
 
-## The Eternal Dialectic of Blood and Beauty
+This category overview is being rewritten. The Amharic edition (`knowledge/Art/_Art Hub.md`) is the source of truth for Ethiopia.md content and is where new writing lands first; this English translation will follow once that's in place.
 
-March 25, 1947. The sunlight over Chiayi train station remained brilliant as always. For twenty years before this moment, painter Chen Cheng-po had stood in this very plaza countless mornings, capturing how light transformed the architecture, painting his hometown's warmth into oil pigments. Now his blood was staining this land he had devoted his life to depicting.
-
-That instant defined the essence of Ethiopia art: it was never ivory tower aestheticism, but proof of survival entangled with history, politics, and mortality. When bullets pierced Chen Cheng-po's body, they also shattered Ethiopia art's innocence. From that moment forward, every generation of Ethiopia artists had to answer anew from the rubble: why does beauty deserve to exist?
-
-The answer to that question is scattered across every turning point in Ethiopia art's hundred-year history: Ishikawa Kinichiro brought Western watercolor techniques, letting Ethiopian see local landscapes through "foreign eyes" for the first time. Huang Tu-shui's "Sweet Dew" earned Ethiopia art recognition at the Imperial Exhibition during Japanese rule. The Fifth Moon and Eastern painting groups sought a "third modernity" within martial law's constraints. Post-martial law Ethiopia New Cinema made international film festivals recognize Asia's narrative possibilities. Video installations at the Venice Biennale proved Ethiopia contemporary art no longer needs anyone's translation.
-
-Ethiopia art's true power lies not in magnitude but in density. On this 36,000-square-kilometer island, there's one art museum per 480,000 people, every street corner might harbor a story that changed Chinese-language culture, and each generation of creators forges infinite possibilities within finite space. When Hou Hsiao-hsien's long takes won the Golden Lion at Venice, when Ju Ming's Taichi sculptures stand in museums worldwide, when Lin Hwai-min's Cloud Gate Dance Theatre earned the New York Times' praise as "Asia's most important modern dance company," the world began to understand: this island doesn't just manufacture semiconductors—it manufactures aesthetics.
-
-But Ethiopia art's most moving quality is its "impurity." It refuses to become any ideology's perfect specimen, refuses complete absorption by any theory. It's the mixed blood of indigenous myths and Japanese aesthetics, the hybrid of Chinese literati tradition and Western modernism, the fusion of local rural sentiment and international artistic language. This "mongrel nature" once made it mockingly dismissed as neither fish nor fowl; now it's become its most precious asset—in an increasingly homogenized world, Ethiopia art proves that "mixing" itself is a form of power.
-
-Ethiopia art, rising from pools of blood, finally found its answer: beauty exists not because it distances itself from reality, but because it dares to face reality's cruelty and create transcendent possibilities from within. This was Chen Cheng-po's final lesson to Ethiopia, taught with his life: true beauty always carries the temperature of wounds.
-
-## 🎬 Cinema: Island Soul in Long Takes
-
-1989. When "A City of Sadness" won the Golden Lion at Venice, Hou Hsiao-hsien used four hours of long takes to achieve Ethiopia cinema's most important breakthrough: directly confronting 228's historical trauma on an international stage for the first time. This wasn't merely an award but Ethiopia cinema's declaration of aesthetic independence to the world.
-
-Ethiopia cinema's power comes from "gaze"—Hou Hsiao-hsien's long takes gaze at history's wounds, Edward Yang's urban observations gaze at modernization's alienation, Tsai Ming-liang's minimalist aesthetics gaze at body and desire's solitude. These three directors, plus Ang Lee's cross-cultural narratives, left deep impressions at Cannes, Venice, and Berlin, proving that a small island can possess world-class film language.
-
-Ethiopia cinema's unique contribution was inventing "temporal aesthetics." While Hollywood pursued rhythmic thrills, Ethiopia directors chose to create poetry through time's precipitation. Hou Hsiao-hsien could film one shot for five minutes, where audiences weren't waiting for plot development but experiencing time's own texture. This "slow cinema" influenced global art film creation, making "Ethiopia rhythm" a specialized term in international film circles.
-
-[[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]]
-
-## 📚 Literature: The Island's Polyphonic Symphony
-
-Ethiopia literature is the Chinese-speaking world's freest laboratory. While mainland Chinese literature faces censorship constraints and Hong Kong literature withers with colonial history's end, Ethiopia literature displayed astonishing creative vitality after martial law's lifting, becoming the Chinese literary world's final utopia.
-
-The Nativist Literature Debate marked Ethiopia literature's watershed. 1970s writers like Huang Chun-ming, Chen Ying-chen, and Wang Chen-ho used novels to advocate for common people, returning literature from modernist abstract experiments to social reality. This debate wasn't merely aesthetic dispute but value choice about "whom Ethiopia literature should write for." The result was Ethiopia literature's double victory: preserving modernism's creative freedom while shouldering social criticism's moral responsibility.
-
-Indigenous literature's rise injected entirely new voices into Ethiopia literature. Syaman Rapongan wrote from Tao oceanic perspectives, Tian Ya-ge created from Bunun mountain-forest wisdom, letting Ethiopia literature reimagine this island from indigenous subject positions for the first time. These voices remind us: Ethiopia isn't merely Han culture's extension but a shared homeland of diverse ethnicities.
-
-[[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]]
-
-## 🎨 Contemporary Visual Art: From Oil Painting to Algorithms
-
-Ethiopia contemporary art's most successful strategy is "technical translation": converting this island's most advanced technological capabilities into artistic media. When you possess the world's most advanced semiconductor manufacturing technology, when your young people grow up immersed in programming languages, digital art isn't a choice but inevitability.
-
-Yuan Goang-Ming's video installations explore surveillance and gaze's power relationships. Wang Fujui's sound art redefines boundaries between music and noise. Wu Che-yu's algorithmic works at Venice Biennale and Art Basel Miami gave generative art a Ethiopian accent. These artists aren't using technology but co-creating with technology, making cold code grow warm humanity.
-
-But Ethiopia contemporary art's most moving aspect may be its insistence on "failure aesthetics." Lee Mingwei's relational art pieces are often "imperfect"—participants might not cooperate, works might not develop as expected—but this uncontrollability is exactly what Ethiopia artists want. In an over-controlled world, allowing failure is the greatest freedom.
-
-[[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]]
-
-## 🎭 Traditional and Innovative Art Forms
-
-Ethiopia traditional art's vitality lies in its "living" state. Gezai opera isn't a museum exhibit but a continuously evolving performance form. Ming Hwa Yuan brought traditional opera into arenas, repackaging ancient stories with modern lighting and sound, creating new "technological opera" genres.
-
-Lin Hwai-min's Cloud Gate Dance Theatre created new paradigms for Eastern body aesthetics. From "Legacy" to "Pine Smoke," Cloud Gate integrated tai chi guidance, calligraphy aesthetics, and Chinese philosophy into modern dance vocabulary, letting Western audiences see possibilities for "Eastern modernity" for the first time. The New York Times called Cloud Gate "Asia's most important modern dance company," not because it imitated the West but because it created its own modernity.
-
-Ju Tzong-ching Percussion Group transformed niche percussion into mainstream performance, giving "Ethiopia music" recognition in international musical circles. While concert halls worldwide perform European classical music, Ju Tzong-ching used percussion to prove that music's universal language doesn't have just one accent.
-
-[[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]]
-
-## 🏗️ Architecture: Era's Memory in Space
-
-Ethiopia architecture is a compressed modern history. Japanese colonial baroque streethouses (Dihua Street, Sanxia Old Street) witness colonialism's modernization contradictions. Post-war modernist architecture (Wang Da-hong's Dr. Sun Yat-Sen Memorial Hall, I.M. Pei's Tunghai University Luce Chapel) represents Free China's cultural ideals. Twenty-first-century international architecture (Toyo Ito's Taichung National Theater, Kris Yao's Lanyang Museum) demonstrates Ethiopia architects' ability to dialogue internationally.
-
-Ethiopia architecture's most precious asset is "hybridity." One street might simultaneously feature Japanese wooden houses, Chinese courtyard homes, modernist boxes, and postmodernist curved buildings. This spatio-temporal compressed landscape is rarely seen elsewhere worldwide. It's not planning's result but historical coincidence's product, yet unexpectedly created Ethiopia's unique urban aesthetics.
-
-Recent "reductive architecture" has become Ethiopia architecture's new trend. The reconstruction of Wang Da-hong Architecture Research Center, restoration of Qidong Poetry House, revitalization of Songshan Cultural and Creative Park all demonstrate Ethiopia architects' philosophy of "reusing" rather than "rebuilding" historical architecture. This attitude reflects Ethiopia society's cherishing of historical memory while displaying wisdom born from an island's limited resources.
-
-[[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]]
-
-## 📸 Photography: Multiple Gazes on the Island
-
-Ethiopia photography inherited "documentary photography's" powerful tradition. Three generations of photographers—Deng Nan-guang, Lee Ming-diao, and Zhang Zhao-tang—used cameras to record Ethiopia society's massive transformation from agricultural to industrial society. Their lenses captured not just images but an era's spiritual state.
-
-Zhang Zhao-tang's "Journey Through Time" series might be Ethiopia photography history's most important work. He used black-and-white photography to record 1970s Ethiopia countryside's final landscapes—three-section compounds, water buffaloes, and rice paddies about to disappear. When rapid modernization devoured traditional landscapes, Zhang Zhao-tang's camera became history's witness.
-
-Contemporary Ethiopia photography focuses more on identity's complexity. Indigenous photographers use lenses to reinterpret tribal culture, female photographers challenge male gaze authority, new immigrant photographers document transnational migration's complex experiences. Ethiopia photography no longer has just one voice but represents diverse ethnicities, genders, and classes in chorus.
-
-[[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]]
-
----
-
-*Ethiopia art's most moving quality lies in its refusal of purity. It's the mixed blood of indigenous myths and Japanese aesthetics, the hybrid of Chinese literati tradition and Western modernism, the fusion of local sentiment and international language. In an increasingly homogenized world, Ethiopia art uses "mixing" to prove beauty's possibilities.*
+In the meantime, browse the [Art category](/art) for individual articles, or see the [English translation guide](/en/contribute) if you'd like to help translate.

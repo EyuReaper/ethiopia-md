@@ -18,6 +18,7 @@ readingTime: 13
 featured: true
 category: 'Technology'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Digital ID and Digital Government

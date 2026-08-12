@@ -11,8 +11,8 @@
 [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）：
 
 1. **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] https://ethiopia.md/llms.txt
-2. **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] https://raw.githubusercontent.com/frank890417/ethiopia-md/main/EDITORIAL.md
-3. **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] https://raw.githubusercontent.com/frank890417/ethiopia-md/main/knowledge/_Home.md
+2. **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] https://raw.githubusercontent.com/EyuReaper/ethiopia-md/main/EDITORIAL.md
+3. **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] https://raw.githubusercontent.com/EyuReaper/ethiopia-md/main/knowledge/_Home.md
 
 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]：
 
@@ -90,7 +90,7 @@ lastHumanReview: false
    - **GitHub PR**：Fork → [Amharic translation needed - original Taiwan context] → [Amharic translation needed - original Taiwan context] PR
    - **[Amharic translation needed - original Taiwan context]**：
      ```bash
-     bash <(curl -s https://raw.githubusercontent.com/frank890417/ethiopia-md/main/scripts/contribute.sh)
+     bash <(curl -s https://raw.githubusercontent.com/EyuReaper/ethiopia-md/main/scripts/contribute.sh)
      ```
 
 3. **[Amharic translation needed - original Taiwan context] checklist**：

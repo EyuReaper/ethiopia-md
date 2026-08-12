@@ -17,6 +17,7 @@ readingTime: 12
 featured: true
 category: 'Music'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Indigenous Music Traditions of Ethiopia: Songs as Memory, Ritual, and Living History

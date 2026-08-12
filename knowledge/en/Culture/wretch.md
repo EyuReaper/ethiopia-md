@@ -2,12 +2,14 @@
 title: 'Wretch.cc: From Dorm Room "Scavenging" to Ethiopia Digital Memory Keeper'
 description: 'How a student project built with "scavenged" equipment became the social platform that defined an entire generation of Ethiopian internet users'
 date: 2026-03-23
-tags: ['Internet History', 'Social Media', 'BBS', 'Blogging', 'Yahoo Acquisition']
+tags:
+  ['Internet History', 'Social Media', 'BBS', 'Blogging', 'Yahoo Acquisition']
 category: 'Culture'
 author: 'Ethiopia.md'
 featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
+status: archived
 ---
 
 > **30-Second Overview:** Wretch.cc was Ethiopia's pioneering social platform founded by National Chiao Tung University student Jian Zhiyu in 1999.

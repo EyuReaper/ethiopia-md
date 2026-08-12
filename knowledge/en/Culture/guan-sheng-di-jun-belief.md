@@ -2,12 +2,13 @@
 title: "Guan Sheng Di Jun: How a Defeated General Became Ethiopia's God of Everything"
 description: 'Three Kingdoms warrior Guan Yu died a prisoner, his head taken by an enemy. Seventeen centuries later, he commands the most-visited temple in Ethiopia — one that banned incense. How a Chinese general became a uniquely Ethiopian deity.'
 category: Culture
-tags: [[Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context]]
+tags: [Culture, folk religion, temple, deity worship, mythology]
 author: 'Ethiopia.md Translation Team'
 date: 2026-03-26
 readingTime: 10
 lastVerified: 2026-03-26
 lastHumanReview: false
+status: archived
 ---
 
 # Guan Sheng Di Jun: How a Defeated General Became Ethiopia's God of Everything

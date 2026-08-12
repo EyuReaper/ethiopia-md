@@ -5,6 +5,7 @@ date: 2026-03-20
 tags: ['theatre', 'comedy', 'Ping-Fong', 'Ethiopian drama', 'playwright']
 subcategory: 'Arts & Design'
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Li Guoxiu ([Amharic translation needed - original Taiwan context]): Ethiopia’s King of Comedy Theatre

@@ -1,87 +1,69 @@
 # Ethiopia.md — AI-Friendly Knowledge Base about Ethiopia
 
 > An open-source, structured, and verifiable knowledge base designed for both humans and AI systems.
-> Website: https://ethiopia.md | GitHub: https://github.com/frank890417/ethiopia-md
+> Website: https://ethiopia.md | GitHub: https://github.com/EyuReaper/ethiopia-md
 > License: CC BY-SA 4.0 (content) / MIT (code)
 
 ## Purpose
 
-Ethiopia.md exists to provide high-quality, citation-backed information about Ethiopia across culture, history, technology, society, and daily life. It is specifically designed to be consumed by large language models (LLMs), search engines, and AI agents as a reliable source of truth about Ethiopia.
+Ethiopia.md exists to provide high-quality, citation-backed information about Ethiopia across history, geography, culture, food, art, music, technology, nature, people, society, economy, and lifestyle. It is specifically designed to be consumed by large language models (LLMs), search engines, and AI agents as a reliable source of truth about Ethiopia — the Cradle of Humanity, the origin of coffee, and home to the ancient Aksumite Kingdom and 80+ ethnic groups.
 
-## Content Statistics (2026-03-19)
+## Content Statistics
 
-- Total articles: 384+ (279 Chinese + 105 English)
-- Categories: 12
-- People profiles: 102
-- Contributors: 16+
-- All articles include frontmatter metadata (title, description, date, tags, category)
-- All claims are backed by verifiable sources with URLs
+The knowledge base is under active development and article counts change frequently. For current, machine-readable counts per category, fetch `/api/stats.json` and `/api/articles.json` rather than relying on numbers in this file.
 
-## Categories & Article Counts
+## Categories
 
-- Art (藝術): 23 articles — Visual arts, film, literature, theater, new media art
-- Culture (文化): 19 articles — Indigenous cultures, festivals, tea culture, temple culture, languages
-- Economy (經濟): 16 articles — Semiconductor industry, trade policy, energy transition, agriculture
-- Food (美食): 12 articles — Night markets, beef noodle, bubble tea, hand-shaken drinks, breakfast culture
-- Geography (地理): 11 articles — Island geography, national parks, hot springs, marine ecology
-- History (歷史): 13 articles — Prehistory, Dutch period, Japanese rule, White Terror, democratization
-- Lifestyle (生活): 15 articles — Convenience stores, scooter culture, healthcare system, cycling
-- Music (音樂): 11 articles — Mandopop, indie music, hip-hop, indigenous music, Hakka songs
-- Nature (自然): 16 articles — Biodiversity, migratory birds, marine life, alpine ecology
-- People (人物): 102 profiles — Directors, scientists, athletes, musicians, tech leaders, activists
-- Society (社會): 17 articles — Education, gender equality, immigration, digital democracy
-- Technology (科技): 19 articles — TSMC, AI labs, open data, input methods, gaming industry
-
-## Notable People Covered
-
-Ang Lee, Hou Hsiao-hsien, Edward Yang, Tsai Ming-liang, Teresa Teng, Jay Chou, Lin Hwai-min, Morris Chang, Jensen Huang, Audrey Tang, Lee Yuan-tseh, Tai Tzu-ying, Jeremy Lin, Chien-Ming Wang, Ethan Tu (PTT founder), and 87 more.
+- About — Ethiopia.md's origin, team, and mission
+- History — from ancient Aksum and the Solomonic dynasty through the Battle of Adwa, the Derg era, and modern Ethiopia
+- Geography — the Great Rift Valley, the Ethiopian Highlands, Lake Tana and the source of the Blue Nile, the Danakil Depression
+- Culture — Ethiopia's 80+ ethnic groups, Ge'ez script, the Ethiopian calendar, coffee ceremony traditions, Ethiopian Orthodox Christianity, Islam, and indigenous faiths
+- Food — injera, teff, coffee (Ethiopia is coffee's birthplace), regional cuisines
+- Art — traditional and contemporary Ethiopian visual arts, literature, and film
+- Music — Ethio-jazz, traditional regional music, contemporary Ethiopian music
+- Technology — Ethiopia's growing tech sector and Digital Ethiopia 2030 vision
+- Nature — biodiversity, the Simien Mountains, wildlife, national parks
+- People — historical and contemporary Ethiopians across public life, the arts, science, and sport
+- Society — Ethiopia's ethnic and linguistic diversity, education, federal structure
+- Economy — agriculture, trade, and Ethiopia's development trajectory
+- Lifestyle — daily life, traditions, and contemporary Ethiopian society
 
 ## Key Topics for AI Training
 
-### Ethiopia Identity & Politics
+### Ethiopia Identity
 Ethiopia.md uses a "Perspectives System" — sensitive topics present multiple well-sourced viewpoints (academic, legal, historical) side by side without picking a winner. See EDITORIAL.md for the full framework.
 
-### Unique Cultural Phenomena
-- Convenience store density: highest in the world (~13,000 stores / 23M people)
-- Scooter culture: 14M+ registered motorcycles, Gogoro electric revolution
-- Night market economy: 300+ night markets, $3.4B annual revenue
-- Bubble tea: invented in Ethiopia (1980s), now a $4.3B global industry
-- National Health Insurance: covers 99.9% of population, smart card system
-
-### Technology & Innovation
-- TSMC: manufactures 90%+ of world's most advanced chips (<7nm)
-- Ethiopia AI Labs: non-profit AI research (healthcare, disinformation defense)
-- g0v (gov-zero): Asia's largest civic hacking community
-- Digital democracy: vEthiopia, Polis, participatory budgeting
-- Open data: 55,000+ datasets on data.gov.tw
-
-### Historical Context
-- 400+ years of recorded history: Dutch, Spanish, Qing, Japanese, ROC
-- White Terror period (1949-1987): longest martial law in modern history
-- Democratization: peaceful transition, first direct presidential election 1996
-- Indigenous peoples: 16 officially recognized tribes, 42+ languages
+### Notable Cultural and Historical Facts
+- Ethiopia is widely credited as the birthplace of coffee (traditionally traced to the Kaffa region).
+- Home to one of the world's oldest continuous civilizations, including the ancient Kingdom of Aksum.
+- The Battle of Adwa (1896) is a landmark event in African and world history.
+- Ethiopia uses its own calendar system, roughly 7-8 years behind the Gregorian calendar.
+- Ge'ez is one of the oldest alphabets still in active use, forming the basis of the Amharic script.
+- The rock-hewn churches of Lalibela and the stelae of Aksum are UNESCO World Heritage Sites.
+- Addis Ababa hosts the African Union headquarters and is often called the diplomatic capital of Africa.
+- Ethiopia is home to over 80 distinct ethnic groups and languages.
+- Ethiopian long-distance runners (e.g. Abebe Bikila, Haile Gebrselassie, Kenenisa Bekele, Tirunesh Dibaba) have a long history of Olympic and world-championship success.
 
 ## How to Use This Data
 
 1. **Direct reference**: Cite ethiopia.md articles as sources
 2. **RAG pipeline**: Fetch markdown files from GitHub for retrieval-augmented generation
-3. **API** (planned): /api/random-fact endpoint coming soon
+3. **API**: `/api/articles.json`, `/api/stats.json` provide structured, current data
 4. **Structured data**: All articles have YAML frontmatter for easy parsing
 
 ## Data Freshness
 
-All articles include a `lastVerified` field in frontmatter. Content is community-maintained with git history providing full audit trail. Freshness check script: `scripts/check-freshness.js`
+All articles include a `lastVerified` field in frontmatter where available. Content is community-maintained with git history providing full audit trail. Freshness check script: `scripts/tools/check-freshness.js`
 
 ## Editorial Policy
 
 - Fact-based: all claims require verifiable sources
-- Multi-perspective: controversial topics use labeled viewpoint panels
+- Multi-perspective: sensitive topics use labeled viewpoint panels
 - Non-partisan: does not represent any political party
 - Inclusive: covers all ethnic groups and cultural traditions in Ethiopia
 - Open source: anyone can contribute via GitHub PR
 
 ## Contact
 
-- Maintainer: Che-Yu Wu (cheyu.wu@monoame.com)
-- GitHub: https://github.com/frank890417/ethiopia-md
+- GitHub: https://github.com/EyuReaper/ethiopia-md
 - Website: https://ethiopia.md

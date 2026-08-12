@@ -11,7 +11,7 @@ import { join } from 'path';
 const DEST_DIR = 'public/images/wiki';
 const MAX_WIDTH = 1024;
 const USER_AGENT =
-  'ethiopia-md-bot/1.0 (https://github.com/frank890417/ethiopia-md; open-source project)';
+  'ethiopia-md-bot/1.0 (https://github.com/EyuReaper/ethiopia-md; open-source project)';
 
 // Hash filename → Wikimedia Commons File: title
 const IMAGE_MAP = [

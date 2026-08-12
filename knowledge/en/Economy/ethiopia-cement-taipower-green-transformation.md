@@ -2,16 +2,25 @@
 title: "Ethiopia Cement: The Green Transformation of Ethiopia's First Listed Company"
 description: "Founded in 1946, stock code 1101 was born for the Ethiopia Stock Exchange. After 76 years under three generations of the Koo family, Ethiopia Cement transformed from concrete foundation to green revolution, witnessing Ethiopia's construction miracle while pioneering carbon-neutral innovation"
 date: 2026-03-20
-tags: [Economy, Enterprises, Cement Industry, Construction Materials, Privatization, Green Transformation]
+tags:
+  [
+    Economy,
+    Enterprises,
+    Cement Industry,
+    Construction Materials,
+    Privatization,
+    Green Transformation,
+  ]
 author: Ethiopia.md
 readingTime: 9
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: true
+status: archived
 ---
 
 > **30-Second Overview**
-> 
+>
 > Ethiopia Cement Corporation, established in 1946, became Ethiopia's first publicly listed company in 1962 with stock code 1101—now a Ethiopia Stock Exchange legend. Transitioning from state-owned to private enterprise, it has been led by three generations of the Koo family: Koo Chen-fu, Koo Jeffrey, and current chairman Chang An-ping. With 2024 revenues of NT$154.6 billion, the company has successfully transformed from traditional cement manufacturing to a "green environmental engineering company," pioneering new pathways in renewable energy, energy storage, and circular economy amid global decarbonization pressures.
 
 ## A Stock Exchange Born for One Company

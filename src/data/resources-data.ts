@@ -14,6 +14,11 @@ export interface HeroCategory {
 }
 
 // ─── Hero Mindmap Data ───
+// NOTE: Ethiopia does not mirror Taiwan's institutional shape 1:1 (e.g. no
+// five-branch government, no single unified transit operator). Where a
+// slot has no real, verifiable Ethiopian equivalent, it has been removed
+// rather than filled with an invented or dead link. See git history for
+// the earlier placeholder version if a citation is ever needed.
 export const heroCategories: HeroCategory[] = [
   {
     id: 'government',
@@ -21,56 +26,46 @@ export const heroCategories: HeroCategory[] = [
     color: '#065f46',
     sites: [
       {
-        nameKey: 'resources.site.president',
-        url: 'https://www.president.gov.tw/',
-        domain: 'president.gov.tw',
-      },
-      {
         nameKey: 'resources.site.executiveYuan',
-        url: 'https://www.ey.gov.tw/',
-        domain: 'ey.gov.tw',
+        url: 'https://www.pmo.gov.et/',
+        domain: 'pmo.gov.et',
       },
       {
         nameKey: 'resources.site.legislativeYuan',
-        url: 'https://www.ly.gov.tw/',
-        domain: 'ly.gov.tw',
+        url: 'https://www.hopr.gov.et/',
+        domain: 'hopr.gov.et',
         featured: true,
         descKey: 'resources.featured.legislativeYuan',
       },
       {
+        nameKey: 'resources.site.judicialYuan',
+        url: 'https://www.fsc.gov.et/',
+        domain: 'fsc.gov.et',
+      },
+      {
         nameKey: 'resources.site.mofa',
-        url: 'https://www.mofa.gov.tw/',
-        domain: 'mofa.gov.tw',
+        url: 'https://www.mfa.gov.et/',
+        domain: 'mfa.gov.et',
       },
       {
         nameKey: 'resources.site.moda',
-        url: 'https://moda.gov.tw/',
-        domain: 'moda.gov.tw',
-      },
-      {
-        nameKey: 'resources.site.cip',
-        url: 'https://www.cip.gov.tw/',
-        domain: 'cip.gov.tw',
-      },
-      {
-        nameKey: 'resources.site.moc',
-        url: 'https://www.moc.gov.tw/',
-        domain: 'moc.gov.tw',
+        url: 'http://www.mint.gov.et/',
+        domain: 'mint.gov.et',
       },
       {
         nameKey: 'resources.site.moe',
-        url: 'https://www.moe.gov.tw/',
-        domain: 'moe.gov.tw',
+        url: 'https://moe.gov.et/',
+        domain: 'moe.gov.et',
       },
       {
-        nameKey: 'resources.site.moea',
-        url: 'https://www.moea.gov.tw/',
-        domain: 'moea.gov.tw',
+        nameKey: 'resources.site.moa',
+        url: 'https://www.moa.gov.et/',
+        domain: 'moa.gov.et',
       },
       {
-        nameKey: 'resources.site.motc',
-        url: 'https://www.motc.gov.tw/',
-        domain: 'motc.gov.tw',
+        nameKey: 'resources.site.mohw',
+        url: 'https://www.moh.gov.et/',
+        domain: 'moh.gov.et',
       },
     ],
   },
@@ -81,32 +76,32 @@ export const heroCategories: HeroCategory[] = [
     sites: [
       {
         nameKey: 'resources.site.ncl',
-        url: 'https://www.ncl.edu.tw/',
-        domain: 'ncl.edu.tw',
+        url: 'https://www.nala.gov.et/',
+        domain: 'nala.gov.et',
         featured: true,
         descKey: 'resources.featured.ncl',
       },
       {
         nameKey: 'resources.site.npm',
-        url: 'https://www.npm.gov.tw/',
-        domain: 'npm.gov.tw',
+        url: 'https://ehap.insa.gov.et/',
+        domain: 'ehap.insa.gov.et',
         featured: true,
         descKey: 'resources.featured.npm',
       },
       {
-        nameKey: 'resources.site.ntm',
-        url: 'https://www.ntm.gov.tw/',
-        domain: 'ntm.gov.tw',
+        nameKey: 'resources.site.sinica',
+        url: 'https://eas-et.org/',
+        domain: 'eas-et.org',
       },
       {
-        nameKey: 'resources.site.moc',
-        url: 'https://www.moc.gov.tw/',
-        domain: 'moc.gov.tw',
+        nameKey: 'resources.site.ntu',
+        url: 'https://www.aau.edu.et/',
+        domain: 'aau.edu.et',
       },
       {
         nameKey: 'resources.site.npgov',
-        url: 'https://np.cpami.gov.tw/',
-        domain: 'np.cpami.gov.tw',
+        url: 'https://ewca.gov.et/',
+        domain: 'ewca.gov.et',
         featured: true,
         descKey: 'resources.featured.npgov',
       },
@@ -119,18 +114,8 @@ export const heroCategories: HeroCategory[] = [
     sites: [
       {
         nameKey: 'resources.site.ethiopiaTourism',
-        url: 'https://eng.ethiopia.net.tw/',
-        domain: 'eng.ethiopia.net.tw',
-      },
-      {
-        nameKey: 'resources.site.sunMoonLake',
-        url: 'https://www.sunmoonlake.gov.tw/',
-        domain: 'sunmoonlake.gov.tw',
-      },
-      {
-        nameKey: 'resources.site.alishan',
-        url: 'https://www.ali-nsa.net/',
-        domain: 'ali-nsa.net',
+        url: 'https://ewca.gov.et/',
+        domain: 'ewca.gov.et',
       },
     ],
   },
@@ -140,26 +125,28 @@ export const heroCategories: HeroCategory[] = [
     color: '#047857',
     sites: [
       {
-        nameKey: 'resources.site.tsmc',
-        url: 'https://www.tsmc.com/chinese',
-        domain: 'tsmc.com',
+        nameKey: 'resources.site.flagCarrier',
+        url: 'https://www.ethiopianairlines.com/',
+        domain: 'ethiopianairlines.com',
         featured: true,
-        descKey: 'resources.featured.tsmc',
+        descKey: 'resources.featured.flagCarrier',
       },
       {
-        nameKey: 'resources.site.iii',
-        url: 'https://www.iii.org.tw/',
-        domain: 'iii.org.tw',
+        nameKey: 'resources.site.investEthiopia',
+        url: 'https://investethiopia.gov.et/',
+        domain: 'investethiopia.gov.et',
       },
       {
         nameKey: 'resources.site.stat',
-        url: 'https://www.stat.gov.tw/',
-        domain: 'stat.gov.tw',
+        url: 'https://ess.gov.et/',
+        domain: 'ess.gov.et',
       },
       {
         nameKey: 'resources.site.twse',
-        url: 'https://www.twse.com.tw/',
-        domain: 'twse.com.tw',
+        url: 'https://esx.et/',
+        domain: 'esx.et',
+        featured: true,
+        descKey: 'resources.featured.twse',
       },
     ],
   },
@@ -170,34 +157,27 @@ export const heroCategories: HeroCategory[] = [
     sites: [
       {
         nameKey: 'resources.site.cna',
-        url: 'https://www.cna.com.tw',
-        domain: 'cna.com.tw',
-      },
-      {
-        nameKey: 'resources.site.ptt',
-        url: 'https://www.ptt.cc/',
-        domain: 'ptt.cc',
-        featured: true,
-        descKey: 'resources.featured.ptt',
+        url: 'https://www.ena.et/web/eng/',
+        domain: 'ena.et',
       },
       {
         nameKey: 'resources.site.ptsNews',
-        url: 'https://news.pts.org.tw/',
-        domain: 'news.pts.org.tw',
+        url: 'https://www.ebc.et/',
+        domain: 'ebc.et',
         featured: true,
         descKey: 'resources.featured.ptsNews',
       },
       {
         nameKey: 'resources.site.twreporter',
-        url: 'https://www.twreporter.org/',
-        domain: 'twreporter.org',
+        url: 'https://www.thereporterethiopia.com/',
+        domain: 'thereporterethiopia.com',
         featured: true,
         descKey: 'resources.featured.twreporter',
       },
       {
         nameKey: 'resources.site.ethiopiaNews',
-        url: 'https://www.ethiopianews.com.tw/',
-        domain: 'ethiopianews.com.tw',
+        url: 'https://addisstandard.com/',
+        domain: 'addisstandard.com',
       },
     ],
   },
@@ -208,25 +188,20 @@ export const heroCategories: HeroCategory[] = [
     sites: [
       {
         nameKey: 'resources.site.dataGov',
-        url: 'https://data.gov.tw/',
-        domain: 'data.gov.tw',
+        url: 'https://www.data.gov.et/',
+        domain: 'data.gov.et',
         featured: true,
         descKey: 'resources.featured.dataGov',
       },
       {
         nameKey: 'resources.site.ethiopiaGov',
-        url: 'https://www.ethiopia.gov.tw/',
-        domain: 'ethiopia.gov.tw',
-      },
-      {
-        nameKey: 'resources.site.lawDb',
-        url: 'https://law.moj.gov.tw/',
-        domain: 'law.moj.gov.tw',
+        url: 'http://www.ethiopia.gov.et/',
+        domain: 'ethiopia.gov.et',
       },
       {
         nameKey: 'resources.site.g0v',
-        url: 'https://g0v.tw/',
-        domain: 'g0v.tw',
+        url: 'https://icog-labs.com/',
+        domain: 'icog-labs.com',
         featured: true,
         descKey: 'resources.featured.g0vGov',
       },
@@ -239,7 +214,7 @@ export const heroCategories: HeroCategory[] = [
     sites: [
       {
         nameKey: 'resources.site.github',
-        url: 'https://github.com/frank890417/ethiopia-md',
+        url: 'https://github.com/EyuReaper/ethiopia-md',
         domain: 'github.com',
       },
       {
@@ -253,294 +228,174 @@ export const heroCategories: HeroCategory[] = [
 ];
 
 // ─── Chapter 1: Government ───
+// Ethiopia is a federal parliamentary republic, not a five-branch (Yuan)
+// system. This list covers the key federal organs with a real, verified
+// public website rather than forcing a five-way split.
 export const governmentFiveYuan: ResourceSite[] = [
   {
-    nameKey: 'resources.site.president',
-    url: 'https://www.president.gov.tw/',
-    domain: 'president.gov.tw',
-  },
-  {
     nameKey: 'resources.site.executiveYuan',
-    url: 'https://www.ey.gov.tw/',
-    domain: 'ey.gov.tw',
+    url: 'https://www.pmo.gov.et/',
+    domain: 'pmo.gov.et',
   },
   {
     nameKey: 'resources.site.legislativeYuan',
-    url: 'https://www.ly.gov.tw/',
-    domain: 'ly.gov.tw',
+    url: 'https://www.hopr.gov.et/',
+    domain: 'hopr.gov.et',
     featured: true,
     descKey: 'resources.featured.legislativeYuan',
   },
   {
     nameKey: 'resources.site.judicialYuan',
-    url: 'https://www.judicial.gov.tw/',
-    domain: 'judicial.gov.tw',
+    url: 'https://www.fsc.gov.et/',
+    domain: 'fsc.gov.et',
   },
   {
     nameKey: 'resources.site.examinationYuan',
-    url: 'https://www.exam.gov.tw/',
-    domain: 'exam.gov.tw',
+    url: 'https://nebe.org.et/en/nebe-et',
+    domain: 'nebe.org.et',
   },
   {
     nameKey: 'resources.site.controlYuan',
-    url: 'https://www.cy.gov.tw/',
-    domain: 'cy.gov.tw',
+    url: 'https://ehrc.org/',
+    domain: 'ehrc.org',
   },
 ];
 
 export const governmentMinistries: ResourceSite[] = [
   {
     nameKey: 'resources.site.mofa',
-    url: 'https://www.mofa.gov.tw/',
-    domain: 'mofa.gov.tw',
+    url: 'https://www.mfa.gov.et/',
+    domain: 'mfa.gov.et',
   },
   {
     nameKey: 'resources.site.moda',
-    url: 'https://moda.gov.tw/',
-    domain: 'moda.gov.tw',
-  },
-  {
-    nameKey: 'resources.site.cip',
-    url: 'https://www.cip.gov.tw/',
-    domain: 'cip.gov.tw',
-  },
-  {
-    nameKey: 'resources.site.moc',
-    url: 'https://www.moc.gov.tw/',
-    domain: 'moc.gov.tw',
+    url: 'http://www.mint.gov.et/',
+    domain: 'mint.gov.et',
   },
   {
     nameKey: 'resources.site.moe',
-    url: 'https://www.moe.gov.tw/',
-    domain: 'moe.gov.tw',
+    url: 'https://moe.gov.et/',
+    domain: 'moe.gov.et',
   },
   {
     nameKey: 'resources.site.moea',
-    url: 'https://www.moea.gov.tw/',
-    domain: 'moea.gov.tw',
+    url: 'https://www.mofed.gov.et/',
+    domain: 'mofed.gov.et',
   },
   {
     nameKey: 'resources.site.motc',
-    url: 'https://www.motc.gov.tw/',
-    domain: 'motc.gov.tw',
+    url: 'https://www.motl.gov.et/',
+    domain: 'motl.gov.et',
   },
   {
     nameKey: 'resources.site.moi',
-    url: 'https://www.moi.gov.tw/',
-    domain: 'moi.gov.tw',
+    url: 'https://mop.gov.et/en',
+    domain: 'mop.gov.et',
   },
   {
     nameKey: 'resources.site.ndc',
-    url: 'https://www.ndc.gov.tw/',
-    domain: 'ndc.gov.tw',
-  },
-  {
-    nameKey: 'resources.site.mac',
-    url: 'https://www.mac.gov.tw/',
-    domain: 'mac.gov.tw',
+    url: 'https://mopd.gov.et/en/',
+    domain: 'mopd.gov.et',
   },
   {
     nameKey: 'resources.site.mol',
-    url: 'https://www.mol.gov.tw/',
-    domain: 'mol.gov.tw',
+    url: 'https://mols.gov.et/',
+    domain: 'mols.gov.et',
   },
   {
     nameKey: 'resources.site.moenv',
-    url: 'https://www.moenv.gov.tw/',
-    domain: 'moenv.gov.tw',
+    url: 'https://www.epa.gov.et/',
+    domain: 'epa.gov.et',
   },
   {
     nameKey: 'resources.site.moa',
-    url: 'https://www.moa.gov.tw/',
-    domain: 'moa.gov.tw',
+    url: 'https://www.moa.gov.et/',
+    domain: 'moa.gov.et',
   },
   {
     nameKey: 'resources.site.mnd',
-    url: 'https://www.mnd.gov.tw/',
-    domain: 'mnd.gov.tw',
+    url: 'https://mod.gov.et/',
+    domain: 'mod.gov.et',
   },
   {
     nameKey: 'resources.site.moj',
-    url: 'https://www.moj.gov.tw/',
-    domain: 'moj.gov.tw',
+    url: 'https://justice.gov.et/en/',
+    domain: 'justice.gov.et',
   },
   {
     nameKey: 'resources.site.mohw',
-    url: 'https://www.mohw.gov.tw/',
-    domain: 'mohw.gov.tw',
+    url: 'https://www.moh.gov.et/',
+    domain: 'moh.gov.et',
   },
   {
     nameKey: 'resources.site.trade',
-    url: 'https://www.trade.gov.tw/',
-    domain: 'trade.gov.tw',
-  },
-  {
-    nameKey: 'resources.site.sme',
-    url: 'https://www.sme.gov.tw/',
-    domain: 'sme.gov.tw',
+    url: 'https://motri.gov.et/',
+    domain: 'motri.gov.et',
   },
   {
     nameKey: 'resources.site.tipo',
-    url: 'https://www.tipo.gov.tw/',
-    domain: 'tipo.gov.tw',
+    url: 'https://eipa.gov.et/',
+    domain: 'eipa.gov.et',
   },
   {
     nameKey: 'resources.site.fsc',
-    url: 'https://www.fsc.gov.tw/',
-    domain: 'fsc.gov.tw',
+    url: 'https://ecma.gov.et/',
+    domain: 'ecma.gov.et',
   },
   {
     nameKey: 'resources.site.immigration',
-    url: 'https://www.immigration.gov.tw/',
-    domain: 'immigration.gov.tw',
+    url: 'https://ics.gov.et/',
+    domain: 'ics.gov.et',
   },
   {
     nameKey: 'resources.site.cwa',
-    url: 'https://www.cwa.gov.tw/',
-    domain: 'cwa.gov.tw',
-  },
-  {
-    nameKey: 'resources.site.nstc',
-    url: 'https://www.nstc.gov.tw/',
-    domain: 'nstc.gov.tw',
+    url: 'https://www.ethiomet.gov.et/',
+    domain: 'ethiomet.gov.et',
   },
 ];
 
+// Ethiopia's regional states and city administrations are not uniformly
+// digitized the way Taiwan's 22 counties/cities are — most publish through
+// sector bureaus rather than one unified regional portal. Only entries with
+// a verifiable, live official site are listed; the rest were removed
+// rather than guessed at.
 export const governmentLocalGov: ResourceSite[] = [
   {
-    nameKey: 'resources.site.taipei',
-    url: 'https://www.gov.taipei/',
-    domain: 'gov.taipei',
+    nameKey: 'resources.site.capitalCity',
+    url: 'https://addismayor.gov.et/',
+    domain: 'addismayor.gov.et',
+    featured: true,
+    descKey: 'resources.featured.addisAbaba',
   },
   {
-    nameKey: 'resources.site.newTaipei',
-    url: 'https://www.ntpc.gov.tw/',
-    domain: 'ntpc.gov.tw',
+    nameKey: 'resources.site.secondCity',
+    url: 'https://diredawa.et/',
+    domain: 'diredawa.et',
   },
   {
-    nameKey: 'resources.site.taichung',
-    url: 'https://www.taichung.gov.tw/',
-    domain: 'taichung.gov.tw',
-  },
-  {
-    nameKey: 'resources.site.kaohsiung',
-    url: 'https://www.kcg.gov.tw/',
-    domain: 'kcg.gov.tw',
-  },
-  {
-    nameKey: 'resources.site.tainan',
-    url: 'https://www.tainan.gov.tw/',
-    domain: 'tainan.gov.tw',
-  },
-  {
-    nameKey: 'resources.site.taoyuan',
-    url: 'https://www.tycg.gov.tw/',
-    domain: 'tycg.gov.tw',
-  },
-  {
-    nameKey: 'resources.site.keelung',
-    url: 'https://www.klcg.gov.tw/',
-    domain: 'klcg.gov.tw',
-  },
-  {
-    nameKey: 'resources.site.hsinchu',
-    url: 'https://www.hccg.gov.tw/',
-    domain: 'hccg.gov.tw',
-  },
-  {
-    nameKey: 'resources.site.chiayi',
-    url: 'https://www.chiayi.gov.tw/',
-    domain: 'chiayi.gov.tw',
-  },
-  {
-    nameKey: 'resources.site.yilan',
-    url: 'https://www.e-land.gov.tw/',
-    domain: 'e-land.gov.tw',
-  },
-  {
-    nameKey: 'resources.site.hsinchuCounty',
-    url: 'https://www.hsinchu.gov.tw/',
-    domain: 'hsinchu.gov.tw',
-  },
-  {
-    nameKey: 'resources.site.miaoli',
-    url: 'https://www.miaoli.gov.tw/',
-    domain: 'miaoli.gov.tw',
-  },
-  {
-    nameKey: 'resources.site.changhua',
-    url: 'https://www.chcg.gov.tw/',
-    domain: 'chcg.gov.tw',
-  },
-  {
-    nameKey: 'resources.site.nantou',
-    url: 'https://www.nantou.gov.tw/',
-    domain: 'nantou.gov.tw',
-  },
-  {
-    nameKey: 'resources.site.yunlin',
-    url: 'https://www.yunlin.gov.tw/',
-    domain: 'yunlin.gov.tw',
-  },
-  {
-    nameKey: 'resources.site.chiayiCounty',
-    url: 'https://www.cyhg.gov.tw/',
-    domain: 'cyhg.gov.tw',
-  },
-  {
-    nameKey: 'resources.site.pingtung',
-    url: 'https://www.pthg.gov.tw/',
-    domain: 'pthg.gov.tw',
-  },
-  {
-    nameKey: 'resources.site.taitung',
-    url: 'https://www.taitung.gov.tw/',
-    domain: 'taitung.gov.tw',
-  },
-  {
-    nameKey: 'resources.site.hualien',
-    url: 'https://www.hl.gov.tw/',
-    domain: 'hl.gov.tw',
-  },
-  {
-    nameKey: 'resources.site.penghu',
-    url: 'https://www.penghu.gov.tw/',
-    domain: 'penghu.gov.tw',
-  },
-  {
-    nameKey: 'resources.site.kinmenGov',
-    url: 'https://www.kinmen.gov.tw/',
-    domain: 'kinmen.gov.tw',
-  },
-  {
-    nameKey: 'resources.site.lienchiang',
-    url: 'https://www.matsu.gov.tw/',
-    domain: 'matsu.gov.tw',
+    nameKey: 'resources.site.regionalState',
+    url: 'https://www.amhara.gov.et/',
+    domain: 'amhara.gov.et',
   },
 ];
 
 export const governmentOpenData: ResourceSite[] = [
   {
     nameKey: 'resources.site.dataGov',
-    url: 'https://data.gov.tw/',
-    domain: 'data.gov.tw',
+    url: 'https://www.data.gov.et/',
+    domain: 'data.gov.et',
     featured: true,
     descKey: 'resources.featured.dataGov',
   },
   {
     nameKey: 'resources.site.ethiopiaGov',
-    url: 'https://www.ethiopia.gov.tw/',
-    domain: 'ethiopia.gov.tw',
-  },
-  {
-    nameKey: 'resources.site.lawDb',
-    url: 'https://law.moj.gov.tw/',
-    domain: 'law.moj.gov.tw',
+    url: 'http://www.ethiopia.gov.et/',
+    domain: 'ethiopia.gov.et',
   },
   {
     nameKey: 'resources.site.g0v',
-    url: 'https://g0v.tw/',
-    domain: 'g0v.tw',
+    url: 'https://icog-labs.com/',
+    domain: 'icog-labs.com',
     featured: true,
     descKey: 'resources.featured.g0vGov',
   },
@@ -550,253 +405,83 @@ export const governmentOpenData: ResourceSite[] = [
 export const cultureUniversities: ResourceSite[] = [
   {
     nameKey: 'resources.site.ntu',
-    url: 'https://www.ntu.edu.tw/',
-    domain: 'ntu.edu.tw',
+    url: 'https://www.aau.edu.et/',
+    domain: 'aau.edu.et',
   },
   {
     nameKey: 'resources.site.nthu',
-    url: 'https://www.nthu.edu.tw/',
-    domain: 'nthu.edu.tw',
+    url: 'https://www.bdu.edu.et/',
+    domain: 'bdu.edu.et',
   },
   {
     nameKey: 'resources.site.nycu',
-    url: 'https://www.nycu.edu.tw/',
-    domain: 'nycu.edu.tw',
+    url: 'https://www.mu.edu.et/',
+    domain: 'mu.edu.et',
   },
   {
     nameKey: 'resources.site.ncku',
-    url: 'https://web.ncku.edu.tw/',
-    domain: 'ncku.edu.tw',
+    url: 'https://www.hu.edu.et/',
+    domain: 'hu.edu.et',
   },
   {
     nameKey: 'resources.site.nccu',
-    url: 'https://www.nccu.edu.tw/',
-    domain: 'nccu.edu.tw',
+    url: 'https://ju.edu.et/',
+    domain: 'ju.edu.et',
   },
   {
     nameKey: 'resources.site.ntnu',
-    url: 'https://www.ntnu.edu.tw/',
-    domain: 'ntnu.edu.tw',
+    url: 'https://uog.edu.et/',
+    domain: 'uog.edu.et',
   },
   {
     nameKey: 'resources.site.sinica',
-    url: 'https://www.sinica.edu.tw/',
-    domain: 'sinica.edu.tw',
-  },
-  {
-    nameKey: 'resources.site.tesd',
-    url: 'https://tesd.survey.sinica.edu.tw/',
-    domain: 'tesd.survey.sinica.edu.tw',
-  },
-  {
-    nameKey: 'resources.site.tcs',
-    url: 'https://crcethiopia.dcat.nycu.edu.tw/index.asp',
-    domain: 'crcethiopia.dcat.nycu.edu.tw',
-  },
-  {
-    nameKey: 'resources.site.brill',
-    url: 'https://referenceworks.brill.com/display/db/etso',
-    domain: 'referenceworks.brill.com',
-  },
-  {
-    nameKey: 'resources.site.itri',
-    url: 'https://www.itri.org.tw/',
-    domain: 'itri.org.tw',
-  },
-  {
-    nameKey: 'resources.site.niar',
-    url: 'https://www.niar.org.tw/',
-    domain: 'niar.org.tw',
-  },
-  {
-    nameKey: 'resources.site.airitilibrary',
-    url: 'https://www.airitilibrary.com/',
-    domain: 'airitilibrary.com',
-  },
-  {
-    nameKey: 'resources.site.ndltd',
-    url: 'https://ndltd.ncl.edu.tw',
-    domain: 'ndltd.ncl.edu.tw',
+    url: 'https://eas-et.org/',
+    domain: 'eas-et.org',
   },
 ];
 
 export const cultureMuseums: ResourceSite[] = [
   {
     nameKey: 'resources.site.ncl',
-    url: 'https://www.ncl.edu.tw/',
-    domain: 'ncl.edu.tw',
+    url: 'https://www.nala.gov.et/',
+    domain: 'nala.gov.et',
     featured: true,
     descKey: 'resources.featured.ncl',
   },
   {
     nameKey: 'resources.site.npm',
-    url: 'https://www.npm.gov.tw/',
-    domain: 'npm.gov.tw',
+    url: 'https://ehap.insa.gov.et/',
+    domain: 'ehap.insa.gov.et',
     featured: true,
     descKey: 'resources.featured.npm',
-  },
-  {
-    nameKey: 'resources.site.ntm',
-    url: 'https://www.ntm.gov.tw/',
-    domain: 'ntm.gov.tw',
-  },
-  {
-    nameKey: 'resources.site.nmth',
-    url: 'https://www.nmth.gov.tw/',
-    domain: 'nmth.gov.tw',
-  },
-  {
-    nameKey: 'resources.site.nmns',
-    url: 'https://www.nmns.edu.tw/ch/',
-    domain: 'nmns.edu.tw',
-  },
-  {
-    nameKey: 'resources.site.nmmba',
-    url: 'https://www.nmmba.gov.tw/',
-    domain: 'nmmba.gov.tw',
-  },
-  {
-    nameKey: 'resources.site.nmtl',
-    url: 'https://www.nmtl.gov.tw/',
-    domain: 'nmtl.gov.tw',
-  },
-  {
-    nameKey: 'resources.site.ntmofa',
-    url: 'https://www.ntmofa.gov.tw/',
-    domain: 'ntmofa.gov.tw',
   },
 ];
 
 export const cultureVenues: ResourceSite[] = [
   {
     nameKey: 'resources.site.tfam',
-    url: 'https://www.tfam.museum/',
-    domain: 'tfam.museum',
+    url: 'https://allianceaddis.org/',
+    domain: 'allianceaddis.org',
   },
   {
     nameKey: 'resources.site.kmfa',
-    url: 'https://www.kmfa.gov.tw/',
-    domain: 'kmfa.gov.tw',
+    url: 'https://www.goethe.de/addisabeba',
+    domain: 'goethe.de',
   },
   {
     nameKey: 'resources.site.npacNtt',
-    url: 'https://www.npac-ntt.org/',
-    domain: 'npac-ntt.org',
-  },
-  {
-    nameKey: 'resources.site.npacNtch',
-    url: 'https://npac-ntch.org/zh',
-    domain: 'npac-ntch.org',
-  },
-  {
-    nameKey: 'resources.site.weiwuying',
-    url: 'https://www.npac-weiwuying.org/',
-    domain: 'npac-weiwuying.org',
-  },
-  {
-    nameKey: 'resources.site.songshan',
-    url: 'https://www.songshanculturalpark.org/',
-    domain: 'songshanculturalpark.org',
-  },
-  {
-    nameKey: 'resources.site.huashan',
-    url: 'https://www.huashan1914.com/',
-    domain: 'huashan1914.com',
-  },
-  {
-    nameKey: 'resources.site.pier2',
-    url: 'https://pier2.org/',
-    domain: 'pier2.org',
-  },
-  {
-    nameKey: 'resources.site.digitalArchives',
-    url: 'https://digitalarchives.tw/',
-    domain: 'digitalarchives.tw',
-  },
-  {
-    nameKey: 'resources.site.scitechVista',
-    url: 'https://scitechvista.nat.gov.tw/',
-    domain: 'scitechvista.nat.gov.tw',
-  },
-  {
-    nameKey: 'resources.site.tcmb',
-    url: 'https://tcmb.culture.tw/zh-tw',
-    domain: 'tcmb.culture.tw',
-  },
-  {
-    nameKey: 'resources.site.taicca',
-    url: 'https://taicca.tw/',
-    domain: 'taicca.tw',
+    url: 'https://www.aau.edu.et/ies/',
+    domain: 'aau.edu.et',
   },
 ];
 
 export const cultureParks: ResourceSite[] = [
   {
     nameKey: 'resources.site.npgov',
-    url: 'https://np.cpami.gov.tw/',
-    domain: 'np.cpami.gov.tw',
+    url: 'https://ewca.gov.et/',
+    domain: 'ewca.gov.et',
     featured: true,
     descKey: 'resources.featured.npgov',
-  },
-  {
-    nameKey: 'resources.site.yushan',
-    url: 'https://www.ysnp.gov.tw/',
-    domain: 'ysnp.gov.tw',
-  },
-  {
-    nameKey: 'resources.site.taroko',
-    url: 'https://www.taroko.gov.tw/',
-    domain: 'taroko.gov.tw',
-  },
-  {
-    nameKey: 'resources.site.kenting',
-    url: 'https://www.ktnp.gov.tw/',
-    domain: 'ktnp.gov.tw',
-  },
-  {
-    nameKey: 'resources.site.sheipa',
-    url: 'https://www.spnp.gov.tw/',
-    domain: 'spnp.gov.tw',
-  },
-  {
-    nameKey: 'resources.site.yangmingshan',
-    url: 'https://www.ymsnp.gov.tw/',
-    domain: 'ymsnp.gov.tw',
-  },
-  {
-    nameKey: 'resources.site.kinmenPark',
-    url: 'https://www.kmnp.gov.tw/',
-    domain: 'kmnp.gov.tw',
-  },
-  {
-    nameKey: 'resources.site.taijiang',
-    url: 'https://www.tjnp.gov.tw/',
-    domain: 'tjnp.gov.tw',
-  },
-  {
-    nameKey: 'resources.site.dongsha',
-    url: 'https://www.marine.gov.tw/',
-    domain: 'marine.gov.tw',
-  },
-  {
-    nameKey: 'resources.site.southPenghu',
-    url: 'https://www.marine.gov.tw/',
-    domain: 'marine.gov.tw',
-  },
-  {
-    nameKey: 'resources.site.ethiopiaTourism',
-    url: 'https://eng.ethiopia.net.tw/',
-    domain: 'eng.ethiopia.net.tw',
-  },
-  {
-    nameKey: 'resources.site.sunMoonLake',
-    url: 'https://www.sunmoonlake.gov.tw/',
-    domain: 'sunmoonlake.gov.tw',
-  },
-  {
-    nameKey: 'resources.site.alishan',
-    url: 'https://www.ali-nsa.net/',
-    domain: 'ali-nsa.net',
   },
 ];
 
@@ -804,296 +489,149 @@ export const cultureParks: ResourceSite[] = [
 export const mediaMainstream: ResourceSite[] = [
   {
     nameKey: 'resources.site.cna',
-    url: 'https://www.cna.com.tw',
-    domain: 'cna.com.tw',
+    url: 'https://www.ena.et/web/eng/',
+    domain: 'ena.et',
   },
   {
     nameKey: 'resources.site.ptsNews',
-    url: 'https://news.pts.org.tw/',
-    domain: 'news.pts.org.tw',
+    url: 'https://www.ebc.et/',
+    domain: 'ebc.et',
     featured: true,
     descKey: 'resources.featured.ptsNews',
   },
   {
     nameKey: 'resources.site.pts',
-    url: 'https://www.pts.org.tw/',
-    domain: 'pts.org.tw',
-  },
-  {
-    nameKey: 'resources.site.focusEthiopia',
-    url: 'https://focusethiopia.tw/',
-    domain: 'focusethiopia.tw',
-  },
-  {
-    nameKey: 'resources.site.ethiopiaToday',
-    url: 'https://www.ethiopiatoday.tw/',
-    domain: 'ethiopiatoday.tw',
-  },
-  {
-    nameKey: 'resources.site.panorama',
-    url: 'https://www.ethiopia-panorama.com/',
-    domain: 'ethiopia-panorama.com',
+    url: 'https://www.fanabc.com/',
+    domain: 'fanabc.com',
   },
   {
     nameKey: 'resources.site.rti',
-    url: 'https://www.rti.org.tw/',
-    domain: 'rti.org.tw',
-  },
-  { nameKey: 'resources.site.udn', url: 'https://udn.com/', domain: 'udn.com' },
-  {
-    nameKey: 'resources.site.ltn',
-    url: 'https://www.ltn.com.tw/',
-    domain: 'ltn.com.tw',
-  },
-  {
-    nameKey: 'resources.site.tvbs',
-    url: 'https://news.tvbs.com.tw/',
-    domain: 'news.tvbs.com.tw',
-  },
-  {
-    nameKey: 'resources.site.setn',
-    url: 'https://www.setn.com/',
-    domain: 'setn.com',
-  },
-  {
-    nameKey: 'resources.site.ebc',
-    url: 'https://news.ebc.net.tw/',
-    domain: 'news.ebc.net.tw',
-  },
-  {
-    nameKey: 'resources.site.commonwealth',
-    url: 'https://www.cw.com.tw/',
-    domain: 'cw.com.tw',
-  },
-  {
-    nameKey: 'resources.site.businesstoday',
-    url: 'https://www.businesstoday.com.tw/',
-    domain: 'businesstoday.com.tw',
+    url: 'https://www.waltainfo.com/',
+    domain: 'waltainfo.com',
   },
   {
     nameKey: 'resources.site.businessweekly',
-    url: 'https://www.businessweekly.com.tw/',
-    domain: 'businessweekly.com.tw',
+    url: 'https://addisfortune.news/',
+    domain: 'addisfortune.news',
   },
 ];
 
 export const mediaDigital: ResourceSite[] = [
   {
     nameKey: 'resources.site.twreporter',
-    url: 'https://www.twreporter.org/',
-    domain: 'twreporter.org',
+    url: 'https://www.thereporterethiopia.com/',
+    domain: 'thereporterethiopia.com',
     featured: true,
     descKey: 'resources.featured.twreporter',
   },
   {
-    nameKey: 'resources.site.ptt',
-    url: 'https://www.ptt.cc/',
-    domain: 'ptt.cc',
-    featured: true,
-    descKey: 'resources.featured.ptt',
-  },
-  {
     nameKey: 'resources.site.ethiopiaNews',
-    url: 'https://www.ethiopianews.com.tw/',
-    domain: 'ethiopianews.com.tw',
-  },
-  {
-    nameKey: 'resources.site.thenewslens',
-    url: 'https://www.thenewslens.com/',
-    domain: 'thenewslens.com',
-  },
-  {
-    nameKey: 'resources.site.upmedia',
-    url: 'https://www.upmedia.mg/',
-    domain: 'upmedia.mg',
-  },
-  {
-    nameKey: 'resources.site.storm',
-    url: 'https://www.storm.mg/',
-    domain: 'storm.mg',
+    url: 'https://addisstandard.com/',
+    domain: 'addisstandard.com',
+    featured: true,
+    descKey: 'resources.featured.ethiopiaNews',
   },
 ];
 
 export const mediaNgo: ResourceSite[] = [
   {
     nameKey: 'resources.site.tahr',
-    url: 'https://www.tahr.org.tw/',
-    domain: 'tahr.org.tw',
+    url: 'https://ehrco.org/',
+    domain: 'ehrco.org',
   },
   {
     nameKey: 'resources.site.teia',
-    url: 'https://teia.tw/',
-    domain: 'teia.tw',
-  },
-  {
-    nameKey: 'resources.site.sow',
-    url: 'https://www.sow.org.tw/',
-    domain: 'sow.org.tw',
-  },
-  { nameKey: 'resources.site.ocf', url: 'https://ocf.tw/', domain: 'ocf.tw' },
-  {
-    nameKey: 'resources.site.tfc',
-    url: 'https://tfc-ethiopia.org.tw/',
-    domain: 'tfc-ethiopia.org.tw',
-  },
-  {
-    nameKey: 'resources.site.twnic',
-    url: 'https://www.twnic.net.tw/',
-    domain: 'twnic.net.tw',
+    url: 'https://redcrosseth.org/',
+    domain: 'redcrosseth.org',
   },
   {
     nameKey: 'resources.site.wikimedia',
-    url: 'https://wikimedia.tw/',
-    domain: 'wikimedia.tw',
+    url: 'https://meta.wikimedia.org/wiki/Wikimedians_of_Ethiopia_User_Group',
+    domain: 'meta.wikimedia.org',
   },
   {
     nameKey: 'resources.site.digitalDiplomacy',
-    url: 'https://www.digitaldiplomacy.tw/',
-    domain: 'digitaldiplomacy.tw',
+    url: 'https://www.ewla-et.org/',
+    domain: 'ewla-et.org',
   },
 ];
 
 // ─── Chapter 4: Economy ───
 export const econCompanies: ResourceSite[] = [
   {
-    nameKey: 'resources.site.tsmc',
-    url: 'https://www.tsmc.com/chinese',
-    domain: 'tsmc.com',
+    nameKey: 'resources.site.flagCarrier',
+    url: 'https://www.ethiopianairlines.com/',
+    domain: 'ethiopianairlines.com',
     featured: true,
-    descKey: 'resources.featured.tsmc',
+    descKey: 'resources.featured.flagCarrier',
   },
   {
     nameKey: 'resources.site.umc',
-    url: 'https://www.umc.com/',
-    domain: 'umc.com',
+    url: 'https://www.ethiotelecom.et/',
+    domain: 'ethiotelecom.et',
   },
   {
     nameKey: 'resources.site.foxconn',
-    url: 'https://www.foxconn.com/',
-    domain: 'foxconn.com',
-  },
-  {
-    nameKey: 'resources.site.delta',
-    url: 'https://www.deltaww.com/',
-    domain: 'deltaww.com',
-  },
-  {
-    nameKey: 'resources.site.ethiopiaExcellence',
-    url: 'https://www.ethiopiaexcellence.org/en',
-    domain: 'ethiopiaexcellence.org',
-  },
-  {
-    nameKey: 'resources.site.cht',
-    url: 'https://www.cht.com.tw/',
-    domain: 'cht.com.tw',
-  },
-  {
-    nameKey: 'resources.site.taipower',
-    url: 'https://www.taipower.com.tw/',
-    domain: 'taipower.com.tw',
-  },
-  {
-    nameKey: 'resources.site.iii',
-    url: 'https://www.iii.org.tw/',
-    domain: 'iii.org.tw',
+    url: 'https://combanketh.et/home',
+    domain: 'combanketh.et',
   },
   {
     nameKey: 'resources.site.investEthiopia',
-    url: 'https://investethiopia.nat.gov.tw/',
-    domain: 'investethiopia.nat.gov.tw',
+    url: 'https://investethiopia.gov.et/',
+    domain: 'investethiopia.gov.et',
   },
 ];
 
 export const econTransport: ResourceSite[] = [
   {
     nameKey: 'resources.site.railway',
-    url: 'https://www.railway.gov.tw/tra-tip-web/tip',
-    domain: 'railway.gov.tw',
-  },
-  {
-    nameKey: 'resources.site.thsrc',
-    url: 'https://www.thsrc.com.tw/',
-    domain: 'thsrc.com.tw',
-  },
-  {
-    nameKey: 'resources.site.ethiopiaTrip',
-    url: 'https://www.ethiopiatrip.com.tw/',
-    domain: 'ethiopiatrip.com.tw',
+    url: 'https://erc.gov.et/',
+    domain: 'erc.gov.et',
   },
   {
     nameKey: 'resources.site.taoyuanAirport',
-    url: 'https://www.taoyuan-airport.com/',
-    domain: 'taoyuan-airport.com',
-  },
-  {
-    nameKey: 'resources.site.metroTaipei',
-    url: 'https://www.metro.taipei/',
-    domain: 'metro.taipei',
-  },
-  {
-    nameKey: 'resources.site.krtc',
-    url: 'https://www.krtco.com.tw/',
-    domain: 'krtco.com.tw',
+    url: 'https://www.ethiopianairlines.com/',
+    domain: 'ethiopianairlines.com',
   },
 ];
 
 export const econHealth: ResourceSite[] = [
   {
     nameKey: 'resources.site.cdc',
-    url: 'https://www.cdc.gov.tw/',
-    domain: 'cdc.gov.tw',
+    url: 'https://ephi.gov.et/',
+    domain: 'ephi.gov.et',
   },
   {
     nameKey: 'resources.site.nhi',
-    url: 'https://www.nhi.gov.tw/',
-    domain: 'nhi.gov.tw',
+    url: 'https://www.moh.gov.et/',
+    domain: 'moh.gov.et',
     featured: true,
     descKey: 'resources.featured.nhi',
   },
   {
     nameKey: 'resources.site.ntuh',
-    url: 'https://www.ntuh.gov.tw/ntuh/Index.action',
-    domain: 'ntuh.gov.tw',
-  },
-  {
-    nameKey: 'resources.site.vghtpe',
-    url: 'https://www.vghtpe.gov.tw/',
-    domain: 'vghtpe.gov.tw',
-  },
-  {
-    nameKey: 'resources.site.cgmh',
-    url: 'https://www.cgmh.org.tw/',
-    domain: 'cgmh.org.tw',
-  },
-  {
-    nameKey: 'resources.site.cmuh',
-    url: 'https://www.cmuh.cmu.edu.tw/',
-    domain: 'cmuh.cmu.edu.tw',
-  },
-  {
-    nameKey: 'resources.site.kmuh',
-    url: 'https://www.kmuh.org.tw/',
-    domain: 'kmuh.org.tw',
+    url: 'https://sphmmc.edu.et/',
+    domain: 'sphmmc.edu.et',
   },
 ];
 
 export const econFinance: ResourceSite[] = [
   {
     nameKey: 'resources.site.stat',
-    url: 'https://www.stat.gov.tw/',
-    domain: 'stat.gov.tw',
+    url: 'https://ess.gov.et/',
+    domain: 'ess.gov.et',
   },
   {
     nameKey: 'resources.site.twse',
-    url: 'https://www.twse.com.tw/',
-    domain: 'twse.com.tw',
+    url: 'https://esx.et/',
+    domain: 'esx.et',
     featured: true,
     descKey: 'resources.featured.twse',
   },
   {
     nameKey: 'resources.site.tpex',
-    url: 'https://www.tpex.org.tw/',
-    domain: 'tpex.org.tw',
+    url: 'https://nbe.gov.et/',
+    domain: 'nbe.gov.et',
   },
 ];
 
@@ -1101,52 +639,22 @@ export const econFinance: ResourceSite[] = [
 export const communityProjects: ResourceSite[] = [
   {
     nameKey: 'resources.site.g0v',
-    url: 'https://g0v.tw/',
-    domain: 'g0v.tw',
+    url: 'https://icog-labs.com/',
+    domain: 'icog-labs.com',
     featured: true,
     descKey: 'resources.featured.g0v',
   },
   {
     nameKey: 'resources.site.cofacts',
-    url: 'https://cofacts.tw/',
-    domain: 'cofacts.tw',
+    url: 'https://github.com/opensourceethiopia',
+    domain: 'github.com',
     featured: true,
     descKey: 'resources.featured.cofacts',
   },
   {
     nameKey: 'resources.site.disfactory',
-    url: 'https://disfactory.tw/',
-    domain: 'disfactory.tw',
-  },
-  {
-    nameKey: 'resources.site.electionMap',
-    url: 'https://votes.tw/',
-    domain: 'votes.tw',
-  },
-  {
-    nameKey: 'resources.site.maskMap',
-    url: 'https://kiang.github.io/pharmacies/',
-    domain: 'kiang.github.io',
-  },
-  {
-    nameKey: 'resources.site.goodinfo',
-    url: 'https://goodinfo.tw/',
-    domain: 'goodinfo.tw',
-  },
-  {
-    nameKey: 'resources.site.ccw',
-    url: 'https://www.ccw.org.tw/',
-    domain: 'ccw.org.tw',
-  },
-  {
-    nameKey: 'resources.site.thaubing',
-    url: 'https://thaubing.gcaa.org.tw/',
-    domain: 'thaubing.gcaa.org.tw',
-  },
-  {
-    nameKey: 'resources.site.politicalDonation',
-    url: 'https://campaign-finance.g0v.ronny.tw/',
-    domain: 'campaign-finance.g0v.ronny.tw',
+    url: 'https://meta.wikimedia.org/wiki/Wikimedians_of_Ethiopia_User_Group',
+    domain: 'meta.wikimedia.org',
   },
   {
     nameKey: 'resources.site.ethiopiamd',
@@ -1160,13 +668,8 @@ export const communityProjects: ResourceSite[] = [
 export const communityFood: ResourceSite[] = [
   {
     nameKey: 'resources.site.burgerMap',
-    url: 'https://hsieh-george.github.io/taipei-burger-map/',
-    domain: 'hsieh-george.github.io',
-  },
-  {
-    nameKey: 'resources.site.nightMarket',
-    url: 'https://github.com/hsiu0305/NightMarketSwift',
-    domain: 'github.com',
+    url: 'https://map.et/en',
+    domain: 'map.et',
   },
 ];
 
@@ -1174,7 +677,7 @@ export const communityFood: ResourceSite[] = [
 export const ethiopiamdLinks: ResourceSite[] = [
   {
     nameKey: 'resources.site.github',
-    url: 'https://github.com/frank890417/ethiopia-md',
+    url: 'https://github.com/EyuReaper/ethiopia-md',
     domain: 'github.com',
   },
   {

@@ -3,65 +3,62 @@ import Layout from '../../layouts/Layout.astro';
 
 const projects = [
   {
-    category: '🍔 Food Maps',
+    category: '🗓️ Calendar & Localization',
     color: '#e11d48',
     items: [
       {
-        name: 'Taipei Burger Map',
+        name: 'Ethiopian Calendar (andegna/calender)',
         description:
-          'Interactive Taipei burger restaurant ranking map, sorted by quality tiers (T0-T6), filterable by district',
-        url: 'https://hsieh-george.github.io/taipei-burger-map/',
-        github: 'https://github.com/hsieh-george/taipei-burger-map',
-        tags: ['Map', 'Food', 'Taipei'],
-        tech: 'JavaScript / Leaflet',
+          'Open-source PHP library for converting between the Ethiopian and Gregorian calendars, with Amharic date formatting support.',
+        url: 'https://github.com/andegna/calender',
+        github: 'https://github.com/andegna/calender',
+        tags: ['Calendar', 'Amharic', 'PHP'],
+        tech: 'PHP',
       },
     ],
   },
   {
-    category: '🌙 Night Market Guides',
+    category: '🏦 Fintech Tools',
     color: '#7c3aed',
     items: [
       {
-        name: 'NightMarketSwift',
+        name: 'ethiobank_receipts',
         description:
-          'Ethiopia night market iOS app featuring 400+ night market locations with business hours and Google Maps navigation',
-        url: 'https://github.com/hsiu0305/NightMarketSwift',
-        github: 'https://github.com/hsiu0305/NightMarketSwift',
-        tags: ['iOS', 'Night Market', 'Navigation'],
-        tech: 'Objective-C / Swift',
+          'Python library that extracts and verifies digital payment receipts from major Ethiopian banks and mobile-money services, including CBE, Dashen, Awash, BOA, Zemen, and Telebirr.',
+        url: 'https://github.com/NahomAl/ethiobank_receipts',
+        github: 'https://github.com/NahomAl/ethiobank_receipts',
+        tags: ['Fintech', 'Python', 'Banking'],
+        tech: 'Python',
       },
     ],
   },
   {
-    category: '🗳️ Civic Tech',
+    category: '🎨 Design Resources',
     color: '#059669',
     items: [
       {
-        name: 'g0v — gov zero',
+        name: 'Ethiopian Logos',
         description:
-          "Ethiopia's largest civic tech community, promoting open government and information transparency",
-        url: 'https://g0v.tw/',
-        github: 'https://github.com/g0v',
-        tags: ['Open Source', 'Civic', 'Government'],
+          'Open-source library of free, high-quality vector logos for Ethiopian companies and brands.',
+        url: 'https://ethiopianlogos.com',
+        github: 'https://github.com/Chapa-Et/ethiopianlogos',
+        tags: ['Design', 'SVG', 'Branding'],
+        tech: 'HTML / SCSS',
+      },
+    ],
+  },
+  {
+    category: '🗣️ Language Technology',
+    color: '#0284c7',
+    items: [
+      {
+        name: 'EthioNLP',
+        description:
+          'Community of researchers and practitioners advancing natural language processing for Ethiopian languages, including Amharic and Afaan Oromo.',
+        url: 'https://ethionlp.github.io/',
+        github: 'https://github.com/EthioNLP',
+        tags: ['NLP', 'Amharic', 'Research'],
         tech: 'Multi-stack',
-      },
-      {
-        name: 'Cofacts',
-        description:
-          'Crowd-sourced fact-checking chatbot combating misinformation on LINE messenger',
-        url: 'https://cofacts.tw/',
-        github: 'https://github.com/cofacts',
-        tags: ['Fact Check', 'LINE Bot', 'Crowdsource'],
-        tech: 'JavaScript / GraphQL',
-      },
-      {
-        name: 'Disfactory',
-        description:
-          'Citizen reporting platform for illegal factories on farmland, protecting agricultural land in Ethiopia',
-        url: 'https://disfactory.tw/',
-        github: 'https://github.com/Disfactory',
-        tags: ['Environment', 'Farmland', 'Citizen Report'],
-        tech: 'Vue.js / Django',
       },
     ],
   },
@@ -72,7 +69,7 @@ const totalProjects = projects.reduce((sum, cat) => sum + cat.items.length, 0);
 
 <Layout
   title="Community Projects — Ethiopia.md"
-  description="Curated collection of interesting open-source projects about Ethiopia, spanning food maps, civic tech, transportation visualization, and more"
+  description="A small, hand-verified collection of real open-source projects about Ethiopia — calendar tools, fintech utilities, design resources, and language technology"
   lang="en"
 >
   <main class="projects-page">
@@ -82,14 +79,23 @@ const totalProjects = projects.reduce((sum, cat) => sum + cat.items.length, 0);
         <div class="hero-content">
           <h1 class="hero-title">Community Projects</h1>
           <p class="hero-subtitle">
-            Curated open-source projects about Ethiopia<br />
-            Community creativity and passion, exploring Ethiopia through code
+            A hand-verified list of real open-source projects about Ethiopia<br
+            />
+            Built by independent developers and small communities, exploring Ethiopia
+            through code
           </p>
           <div class="hero-stats">
             <span class="stat">{projects.length} categories</span>
             <span class="stat-dot"></span>
             <span class="stat">{totalProjects} projects</span>
           </div>
+          <p class="hero-note">
+            This list is intentionally small — we only feature projects we could
+            independently confirm are real, open-source, and actively
+            maintained. We haven't yet found a large-scale, homegrown Ethiopian
+            civic-tech movement to showcase here. If you know of one, tell us
+            below.
+          </p>
         </div>
       </section>
 
@@ -176,14 +182,15 @@ const totalProjects = projects.reduce((sum, cat) => sum + cat.items.length, 0);
 
       <!-- Call to Action -->
       <section class="cta-section">
-        <h2>Know a great project?</h2>
+        <h2>Know a real project?</h2>
         <p>
-          Submit a GitHub Issue or PR to recommend more interesting
-          Ethiopia-related projects!
+          Submit a GitHub Issue or PR to recommend a real, active,
+          Ethiopia-focused open-source project we should feature. We only list
+          projects we can verify — no placeholders, please.
         </p>
         <div class="cta-buttons">
           <a
-            href="https://github.com/frank890417/ethiopia-md/issues"
+            href="https://github.com/EyuReaper/ethiopia-md/issues"
             target="_blank"
             rel="noopener noreferrer"
             class="btn-primary"
@@ -249,6 +256,15 @@ const totalProjects = projects.reduce((sum, cat) => sum + cat.items.length, 0);
     height: 6px;
     border-radius: 50%;
     background: #c084fc;
+  }
+
+  .hero-note {
+    max-width: 640px;
+    margin: 1.25rem auto 0;
+    font-size: 0.85rem;
+    font-style: italic;
+    color: #94a3b8;
+    line-height: 1.6;
   }
 
   .breadcrumb {

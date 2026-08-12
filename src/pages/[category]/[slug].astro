@@ -142,6 +142,7 @@ export async function getStaticPaths() {
         const fileContent = await readFile(filePath, 'utf-8');
         const { data: frontmatter, content } = safeMatter(fileContent);
         const slug = basename(file, '.md');
+        if (frontmatter.status === 'draft') continue;
         let gitInfo = {
           contributors: [] as string[],
           lastModified: '',
@@ -229,6 +230,7 @@ try {
       if (articleSlug === slug) continue;
       const filePath = join(folderPath, file);
       const { data: fm } = safeMatter(await readFile(filePath, 'utf-8'));
+      if (fm.status === 'draft' || fm.status === 'archived') continue;
       relatedArticles.push({
         title: fm.title || articleSlug,
         slug: articleSlug,
@@ -255,6 +257,7 @@ try {
         const { data: fm } = safeMatter(
           await readFile(join(catPath, file), 'utf-8'),
         );
+        if (fm.status === 'draft' || fm.status === 'archived') continue;
         allArticles.push({
           title: fm.title || articleSlug,
           slug: articleSlug,
@@ -332,7 +335,7 @@ function processFootnotes(md: string): string {
     const num = order.indexOf(label) + 1;
     const id = `fn-${label}`;
     const refId = `fnref-${label}`;
-    return `<sup id="${refId}"><a href="#${id}" class="footnote-ref" aria-label="[Amharic translation needed - original Taiwan context] ${num}">${num}</a></sup>`;
+    return `<sup id="${refId}"><a href="#${id}" class="footnote-ref" aria-label="ወደ ማስታወሻ ${num} ሂድ">${num}</a></sup>`;
   });
 
   // Build footnotes section
@@ -343,11 +346,11 @@ function processFootnotes(md: string): string {
       const refId = `fnref-${label}`;
       // Process links inside footnote text via marked inline parser
       const defHtml = marked.parseInline(definitions[label]) as string;
-      return `<li id="${id}">${defHtml}<a href="#${refId}" class="footnote-backref" aria-label="[Amharic translation needed - original Taiwan context] ${num}">↩</a></li>`;
+      return `<li id="${id}">${defHtml}<a href="#${refId}" class="footnote-backref" aria-label="ወደ ማጣቀሻ ${num} ተመለስ">↩</a></li>`;
     });
     body =
       body.trimEnd() +
-      `\n\n<section class="footnotes" aria-label="[Amharic translation needed - original Taiwan context]"><ol>${items.join('')}</ol></section>`;
+      `\n\n<section class="footnotes" aria-label="ማስታወሻዎች"><ol>${items.join('')}</ol></section>`;
   }
 
   return body;
@@ -402,7 +405,7 @@ const encodedTitle = encodeURIComponent(title);
     <!-- ── Three-column body ─────────────────────────────────────── -->
     <div class="article-shell">
       <!-- Left: Table of Contents -->
-      <div class="col-toc" aria-label="[Amharic translation needed - original Taiwan context]">
+      <div class="col-toc" aria-label="ማውጫ">
         <TableOfContents content={processedContent} />
       </div>
 
@@ -449,7 +452,7 @@ const encodedTitle = encodeURIComponent(title);
         {
           frontmatter.source && frontmatter.source.length > 0 && (
             <div class="sources-block">
-              <h3 class="sources-heading">[Amharic translation needed - original Taiwan context]</h3>
+              <h3 class="sources-heading">ምንጮች</h3>
               <ul class="sources-list">
                 {frontmatter.source.map((url: string) => (
                   <li>
@@ -487,15 +490,16 @@ const encodedTitle = encodeURIComponent(title);
             >
           </div>
           <div class="disclaimer-text">
-            <strong>[Amharic translation needed - original Taiwan context]</strong>
-            [Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+            <strong>ስለዚህ ጽሑፍ</strong>
+            ይህ ጽሑፍ በ AI እገዛ የተዘጋጀ ሲሆን በማህበረሰቡ የተገመገመ ነው። ይዘቱ ትክክለኛ እንዲሆን ጥረት ተደርጓል፣
+            ስህተት ካገኙ እባክዎ ያሳውቁን።
           </div>
         </div>
 
         <!-- Contribution row -->
         <div class="contribute-row">
           <a
-            href={`https://github.com/frank890417/ethiopia-md/edit/main/knowledge/${categoryMapping[category as string]}/${slug}.md`}
+            href={`https://github.com/EyuReaper/ethiopia-md/edit/main/knowledge/${categoryMapping[category as string]}/${slug}.md`}
             target="_blank"
             rel="noopener noreferrer"
             class="contribute-btn contribute-btn--primary"
@@ -512,10 +516,10 @@ const encodedTitle = encodeURIComponent(title);
                 d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"
               ></path></svg
             >
-            [Amharic translation needed - original Taiwan context] GitHub [Amharic translation needed - original Taiwan context]
+            በGitHub ላይ ያርሙ
           </a>
           <a
-            href={`https://github.com/frank890417/ethiopia-md/issues/new?title=${encodeURIComponent(`Feedback: ${title}`)}`}
+            href={`https://github.com/EyuReaper/ethiopia-md/issues/new?title=${encodeURIComponent(`Feedback: ${title}`)}`}
             target="_blank"
             rel="noopener noreferrer"
             class="contribute-btn contribute-btn--ghost"
@@ -532,7 +536,7 @@ const encodedTitle = encodeURIComponent(title);
                 d="M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2z"
               ></path></svg
             >
-            [Amharic translation needed - original Taiwan context]
+            ችግር አሳውቅ
           </a>
         </div>
 
@@ -554,13 +558,13 @@ const encodedTitle = encodeURIComponent(title);
           }
 
           <div class="bottom-share">
-            <span class="share-label">[Amharic translation needed - original Taiwan context]</span>
+            <span class="share-label">አጋራ</span>
             <a
               href={`https://twitter.com/intent/tweet?text=${encodedTitle}&url=${encodedUrl}`}
               target="_blank"
               rel="noopener noreferrer"
               class="share-btn"
-              aria-label="[Amharic translation needed - original Taiwan context] X"
+              aria-label="X ላይ አጋራ"
             >
               <svg
                 width="15"
@@ -577,7 +581,7 @@ const encodedTitle = encodeURIComponent(title);
               target="_blank"
               rel="noopener noreferrer"
               class="share-btn"
-              aria-label="[Amharic translation needed - original Taiwan context] Facebook"
+              aria-label="Facebook ላይ አጋራ"
             >
               <svg
                 width="15"
@@ -594,7 +598,7 @@ const encodedTitle = encodeURIComponent(title);
               target="_blank"
               rel="noopener noreferrer"
               class="share-btn"
-              aria-label="[Amharic translation needed - original Taiwan context] LINE"
+              aria-label="LINE ላይ አጋራ"
             >
               <svg
                 width="15"
@@ -609,7 +613,7 @@ const encodedTitle = encodeURIComponent(title);
             <button
               class="share-btn copy-btn-bottom"
               type="button"
-              aria-label="[Amharic translation needed - original Taiwan context]"
+              aria-label="ሊንኩን ቅዳ"
             >
               <svg
                 width="15"
@@ -645,7 +649,7 @@ const encodedTitle = encodeURIComponent(title);
               aria-hidden="true"
               ><polyline points="15 18 9 12 15 6"></polyline></svg
             >
-            [Amharic translation needed - original Taiwan context]{categoryInfo.name}
+            ← ወደ {categoryInfo.name}
           </a>
           <a href="/" class="return-btn return-btn--ghost">
             <svg
@@ -659,7 +663,7 @@ const encodedTitle = encodeURIComponent(title);
               ><path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z"
               ></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg
             >
-            [Amharic translation needed - original Taiwan context]
+            መነሻ
           </a>
         </div>
       </article>
@@ -690,8 +694,8 @@ const encodedTitle = encodeURIComponent(title);
         <section class="related-section">
           <div class="related-inner">
             <div class="section-header">
-              <p class="section-kicker">[Amharic translation needed - original Taiwan context]</p>
-              <h2 class="section-title">[Amharic translation needed - original Taiwan context]</h2>
+              <p class="section-kicker">ተዛማጅ</p>
+              <h2 class="section-title">ተዛማጅ ጽሑፎች</h2>
             </div>
             <div class="related-grid">
               {relatedArticles.map((article) => (
@@ -713,7 +717,7 @@ const encodedTitle = encodeURIComponent(title);
                 class="view-all-btn"
                 style={`color:${categoryInfo.color}; border-color:${categoryInfo.color}30;`}
               >
-                [Amharic translation needed - original Taiwan context] {categoryInfo.name} [Amharic translation needed - original Taiwan context]
+                ሁሉንም የ{categoryInfo.name} ጽሑፎች ይመልከቱ
                 <svg
                   width="14"
                   height="14"
@@ -753,7 +757,7 @@ const encodedTitle = encodeURIComponent(title);
                 <line x1="15" y1="15" x2="21" y2="21" />
               </>
             </svg>
-            [Amharic translation needed - original Taiwan context]
+            የዘፈቀደ ጽሑፍ
           </button>
         </div>
       )
@@ -763,8 +767,8 @@ const encodedTitle = encodeURIComponent(title);
     <section class="explore-section">
       <div class="explore-inner">
         <div class="section-header">
-          <p class="section-kicker">[Amharic translation needed - original Taiwan context]Ethiopia</p>
-          <h2 class="section-title">[Amharic translation needed - original Taiwan context]</h2>
+          <p class="section-kicker">ስለ Ethiopia</p>
+          <h2 class="section-title">ሌሎች ምድቦችን ያስሱ</h2>
         </div>
         <div class="explore-grid">
           {
@@ -781,7 +785,7 @@ const encodedTitle = encodeURIComponent(title);
                   </span>
                   <p class="explore-cat-desc">{cat.description}</p>
                   <span class="explore-cta" style={`color:${cat.color};`}>
-                    [Amharic translation needed - original Taiwan context]
+                    አስስ
                     <svg
                       width="12"
                       height="12"
@@ -1114,7 +1118,7 @@ const encodedTitle = encodeURIComponent(title);
 
   /* ── Footnotes ──────────────────────────────────────────────────────────── */
 
-  /* Footnote section ([Amharic translation needed - original Taiwan context] section.footnotes) */
+  /* Footnote section (matches section.footnotes) */
   .prose :global(.footnotes) {
     margin-top: 3rem;
     padding-top: 1.5rem;

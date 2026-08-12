@@ -90,7 +90,7 @@ const t = useTranslations(lang);
               <li>{t('contribute.paths.medium.github')}</li>
             </ul>
             <a
-              href={`mailto:cheyu.wu@monoame.com?subject=Ethiopia.md ${lang === 'en' ? 'Content Contribution' : '[Amharic translation needed - original Taiwan context]'}`}
+              href={`mailto:getachewnatnael55@gmail.com?subject=Ethiopia.md ${lang === 'en' ? 'Content Contribution' : 'የይዘት አስተዋጽኦ'}`}
               class="path-btn secondary"
               >{t('contribute.paths.medium.button')}</a
             >
@@ -117,7 +117,7 @@ const t = useTranslations(lang);
               <li>{t('contribute.paths.ai.feature4')}</li>
             </ul>
             <a
-              href="https://github.com/frank890417/ethiopia-md/blob/main/docs/prompts/CONTRIBUTE_PROMPT.md"
+              href="https://github.com/EyuReaper/ethiopia-md/blob/main/docs/prompts/CONTRIBUTE_PROMPT.md"
               target="_blank"
               class="path-btn secondary"
               >{t('contribute.paths.ai.fullprompt')}</a
@@ -133,7 +133,7 @@ const t = useTranslations(lang);
               <li set:html={t('contribute.paths.dev.editorial.html')} />
             </ul>
             <a
-              href="https://github.com/frank890417/ethiopia-md"
+              href="https://github.com/EyuReaper/ethiopia-md"
               target="_blank"
               class="path-btn secondary">{t('contribute.paths.dev.button')}</a
             >
@@ -165,7 +165,7 @@ const t = useTranslations(lang);
             >{t('contribute.organism.readmore')}</a
           >
           <a href="/dashboard/" class="organism-dashboard-link">
-            🔬 {lang === 'en' ? 'Real-Time Dashboard' : '[Amharic translation needed - original Taiwan context]'} →
+            🔬 {lang === 'en' ? 'Real-Time Dashboard' : 'ቀጥታ ዳሽቦርድ'} →
           </a>
         </div>
       </div>
@@ -319,7 +319,9 @@ const t = useTranslations(lang);
             submittingText: t('contribute.form.submitting'),
             submitText: t('contribute.form.submit'),
             anonymousText:
-              lang === 'en' ? 'Anonymous Contributor' : '[Amharic translation needed - original Taiwan context]',
+              lang === 'en'
+                ? 'Anonymous Contributor'
+                : 'ማንነታቸው ያልታወቀ አስተዋጽዖ አድራጊ',
           }}
         >
           document
@@ -386,14 +388,14 @@ const t = useTranslations(lang);
               <p set:html={t('contribute.guides.writing.core.good')} />
               <p set:html={t('contribute.guides.writing.core.bad')} />
               <a
-                href="https://github.com/frank890417/ethiopia-md/blob/main/EDITORIAL.md"
+                href="https://github.com/EyuReaper/ethiopia-md/blob/main/EDITORIAL.md"
                 target="_blank"
                 class="guide-link"
               >
                 {
                   lang === 'en'
                     ? '→ Full EDITORIAL Guide'
-                    : '→ [Amharic translation needed - original Taiwan context]（EDITORIAL.md）'
+                    : '→ ሙሉ የአርትዖት መመሪያ（EDITORIAL.md）'
                 }
               </a>
             </div>
@@ -413,15 +415,11 @@ const t = useTranslations(lang);
                 >
               </div>
               <a
-                href="https://github.com/frank890417/ethiopia-md/blob/main/docs/prompts/TRANSLATE_PROMPT.md"
+                href="https://github.com/EyuReaper/ethiopia-md/blob/main/docs/prompts/TRANSLATE_PROMPT.md"
                 target="_blank"
                 class="guide-link"
               >
-                {
-                  lang === 'en'
-                    ? '→ Full AI Prompt'
-                    : '→ [Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context] Prompt'
-                }
+                {lang === 'en' ? '→ Full AI Prompt' : '→ ሙሉ AI Prompt'}
               </a>
             </div>
           </div>
@@ -457,11 +455,11 @@ const t = useTranslations(lang);
               </ul>
 
               <a
-                href="https://github.com/frank890417/ethiopia-md/blob/main/docs/community/TRANSLATION-BOARD.md"
+                href="https://github.com/EyuReaper/ethiopia-md/blob/main/docs/community/TRANSLATION-BOARD.md"
                 target="_blank"
                 class="guide-link"
               >
-                {lang === 'en' ? '→ Translation Board' : '→ [Amharic translation needed - original Taiwan context]'}
+                {lang === 'en' ? '→ Translation Board' : '→ የትርጉም ሰሌዳ'}
               </a>
             </div>
           </div>
@@ -480,7 +478,7 @@ const t = useTranslations(lang);
                 {
                   lang === 'en'
                     ? '⛔ No Unsplash, Google Images, or social media screenshots'
-                    : '⛔ [Amharic translation needed - original Taiwan context] Unsplash、Google [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]'
+                    : '⛔ Unsplash፣ Google ምስሎች ወይም የማህበራዊ ሚዲያ ስክሪንሾት አይፈቀድም'
                 }
               </p>
             </div>
@@ -535,7 +533,7 @@ const t = useTranslations(lang);
         set:html={t('contribute.token.subtitle.html')}
       />
 
-      <!-- AI [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]） -->
+      <!-- AI Translation Prompt (one-line copy) -->
       <div class="one-line-system">
         <h3>{t('contribute.token.oneline.title')}</h3>
         <p>{t('contribute.token.oneline.desc')}</p>
@@ -558,21 +556,21 @@ const t = useTranslations(lang);
         </div>
 
         <a
-          href="https://github.com/frank890417/ethiopia-md/blob/main/docs/prompts/TRANSLATE_PROMPT.md"
+          href="https://github.com/EyuReaper/ethiopia-md/blob/main/docs/prompts/TRANSLATE_PROMPT.md"
           target="_blank"
           class="path-btn secondary"
           >{t('contribute.token.oneline.fullprompt')}</a
         >
       </div>
 
-      <!-- [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context] -->
+      <!-- Advanced: manual script -->
       <div class="manual-process">
         <h3>{t('contribute.token.advanced.title')}</h3>
         <p>{t('contribute.token.advanced.desc')}</p>
         <div class="one-line-code">
           <code
             >bash &lt;(curl -s
-            https://raw.githubusercontent.com/frank890417/ethiopia-md/main/scripts/tools/translate.sh)</code
+            https://raw.githubusercontent.com/EyuReaper/ethiopia-md/main/scripts/tools/translate.sh)</code
           >
           <button class="copy-btn" data-copy="one-line-command"
             >{t('contribute.copy.button')}</button
@@ -616,42 +614,42 @@ const t = useTranslations(lang);
         {
           lang === 'en'
             ? '🖥️ CLI — Explore from Your Terminal'
-            : '🖥️ CLI — [Amharic translation needed - original Taiwan context]Ethiopia'
+            : '🖥️ CLI — ከተርሚናልዎ ኢትዮጵያን ያስሱ'
         }
       </h2>
       <p class="cli-desc">
         {
           lang === 'en'
             ? 'Search, read, and explore 900+ Ethiopia articles without leaving your terminal. Perfect for developers, AI workflows, and knowledge explorers.'
-            : '[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] 900+ [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]、AI [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。'
+            : 'ተርሚናልዎን ሳይለቁ ከ900+ በላይ የኢትዮጵያ ጽሑፎችን ይፈልጉ፣ ያንብቡ እና ያስሱ። ለገንቢዎች፣ ለAI ሂደቶች እና ለዕውቀት አፍቃሪዎች ተስማሚ።'
         }
       </p>
 
       <div class="cli-install">
-        <code>npx ethiopiamd@latest search [Amharic translation needed - original Taiwan context]</code>
+        <code>npx ethiopiamd@latest search ቡና</code>
       </div>
 
       <div class="cli-grid">
         <div class="cli-card">
           <div class="cli-card-icon">🔍</div>
-          <h3>{lang === 'en' ? 'Search & Read' : '[Amharic translation needed - original Taiwan context] & [Amharic translation needed - original Taiwan context]'}</h3>
+          <h3>{lang === 'en' ? 'Search & Read' : 'ፈልግ እና አንብብ'}</h3>
           <div class="cli-commands">
-            <code>ethiopiamd search [Amharic translation needed - original Taiwan context]</code>
-            <code>ethiopiamd read [Amharic translation needed - original Taiwan context] --en</code>
+            <code>ethiopiamd search ቡና</code>
+            <code>ethiopiamd read ethiopian-coffee-industry --en</code>
             <code>ethiopiamd explore</code>
           </div>
           <p>
             {
               lang === 'en'
                 ? 'Fuzzy search in Chinese & English. Interactive TUI. Read articles in 4 languages.'
-                : '[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] TUI、[Amharic translation needed - original Taiwan context]。'
+                : 'በአማርኛና በእንግሊዝኛ ተቀራራቢ ፍለጋ። መስተጋብራዊ TUI። ጽሑፎችን በ4 ቋንቋዎች ያንብቡ።'
             }
           </p>
         </div>
 
         <div class="cli-card">
           <div class="cli-card-icon">🎮</div>
-          <h3>{lang === 'en' ? 'Discover & Play' : '[Amharic translation needed - original Taiwan context] & [Amharic translation needed - original Taiwan context]'}</h3>
+          <h3>{lang === 'en' ? 'Discover & Play' : 'ያግኙ እና ይጫወቱ'}</h3>
           <div class="cli-commands">
             <code>ethiopiamd today</code>
             <code>ethiopiamd quiz</code>
@@ -661,41 +659,41 @@ const t = useTranslations(lang);
             {
               lang === 'en'
                 ? 'Daily picks, 5-question quiz, random discovery. Learn Ethiopia every day.'
-                : '[Amharic translation needed - original Taiwan context]、5 [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。'
+                : 'የቀን ምርጫዎች፣ የ5 ጥያቄ ፈተና፣ በዘፈቀደ ግኝት። በየቀኑ ስለ ኢትዮጵያ ይማሩ።'
             }
           </p>
         </div>
 
         <div class="cli-card">
           <div class="cli-card-icon">🤖</div>
-          <h3>{lang === 'en' ? 'AI-Native' : 'AI [Amharic translation needed - original Taiwan context]'}</h3>
+          <h3>{lang === 'en' ? 'AI-Native' : 'AI ተኮር'}</h3>
           <div class="cli-commands">
-            <code>ethiopiamd rag "[Amharic translation needed - original Taiwan context]" | llm</code>
-            <code>ethiopiamd read [Amharic translation needed - original Taiwan context] --raw</code>
-            <code>ethiopiamd search [Amharic translation needed - original Taiwan context] --json</code>
+            <code>ethiopiamd rag "የኢትዮጵያ ታሪክ" | llm</code>
+            <code>ethiopiamd read ethiopian-coffee-industry --raw</code>
+            <code>ethiopiamd search ቡና --json</code>
           </div>
           <p>
             {
               lang === 'en'
                 ? 'RAG-ready context for LLMs. Raw/JSON output for piping into any AI workflow.'
-                : 'RAG context [Amharic translation needed - original Taiwan context] pipe [Amharic translation needed - original Taiwan context] LLM。--raw / --json [Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context]。'
+                : 'ለLLM ዝግጁ የሆነ RAG context። ወደ ማንኛውም AI ሂደት ለማስተላለፍ Raw/JSON ውጤት።'
             }
           </p>
         </div>
 
         <div class="cli-card">
           <div class="cli-card-icon">✏️</div>
-          <h3>{lang === 'en' ? 'Contribute' : '[Amharic translation needed - original Taiwan context]'}</h3>
+          <h3>{lang === 'en' ? 'Contribute' : 'አስተዋጽኦ'}</h3>
           <div class="cli-commands">
-            <code>ethiopiamd contribute [Amharic translation needed - original Taiwan context]</code>
-            <code>ethiopiamd validate [Amharic translation needed - original Taiwan context]</code>
-            <code>ethiopiamd graph Ethiopia[Amharic translation needed - original Taiwan context]</code>
+            <code>ethiopiamd contribute "የቡና ስነ-ስርዓት"</code>
+            <code>ethiopiamd validate ethiopian-coffee-industry</code>
+            <code>ethiopiamd graph ethiopian-coffee-industry</code>
           </div>
           <p>
             {
               lang === 'en'
                 ? 'Create articles with guided wizard. Quality check with 6 metrics. Visualize knowledge links.'
-                : '[Amharic translation needed - original Taiwan context]、6 [Amharic translation needed - original Taiwan context]、ASCII [Amharic translation needed - original Taiwan context]。'
+                : 'በአጋዥ አዋቂ ጽሑፎችን ይፍጠሩ። በ6 መለኪያዎች ጥራት ያረጋግጡ። የዕውቀት ግንኙነቶችን በምስል ይመልከቱ።'
             }
           </p>
         </div>
@@ -710,18 +708,18 @@ const t = useTranslations(lang);
           📦 npm
         </a>
         <a
-          href="https://github.com/frank890417/ethiopia-md/tree/main/cli"
+          href="https://github.com/EyuReaper/ethiopia-md/tree/main/cli"
           target="_blank"
           class="cli-link"
         >
           🐙 GitHub
         </a>
         <a
-          href="https://github.com/frank890417/ethiopia-md/discussions/270"
+          href="https://github.com/EyuReaper/ethiopia-md/discussions/270"
           target="_blank"
           class="cli-link"
         >
-          💬 {lang === 'en' ? 'Discussion' : '[Amharic translation needed - original Taiwan context]'}
+          💬 {lang === 'en' ? 'Discussion' : 'ውይይት'}
         </a>
       </div>
     </div>
@@ -742,13 +740,12 @@ const t = useTranslations(lang);
     });
 </script>
 
-<script is:inline define:vars={{ copiedText: '✅ [Amharic translation needed - original Taiwan context]', copyText: '📋 [Amharic translation needed - original Taiwan context]' }}
->
+<script is:inline define:vars={{ copiedText: '✅ ተቀድቷል', copyText: '📋 ቅዳ' }}>
   const copyTextMap = {
     'translate-prompt':
-      '[Amharic translation needed - original Taiwan context] https://raw.githubusercontent.com/frank890417/ethiopia-md/main/docs/prompts/TRANSLATE_PROMPT.md [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] Ethiopia.md [Amharic translation needed - original Taiwan context]。',
+      'እባክዎ በ https://raw.githubusercontent.com/EyuReaper/ethiopia-md/main/docs/prompts/TRANSLATE_PROMPT.md ላይ ያለውን መመሪያ ያንብቡ፣ ከዚያም ለ Ethiopia.md የሚከተለውን ጽሑፍ ይተርጉሙ።',
     'one-line-command':
-      'bash <(curl -s https://raw.githubusercontent.com/frank890417/ethiopia-md/main/scripts/tools/translate.sh)',
+      'bash <(curl -s https://raw.githubusercontent.com/EyuReaper/ethiopia-md/main/scripts/tools/translate.sh)',
   };
 
   document.querySelectorAll('[data-copy]').forEach((button) => {
@@ -770,7 +767,7 @@ const t = useTranslations(lang);
 </script>
 
 <style>
-  /* [Amharic translation needed - original Taiwan context] - [Amharic translation needed - original Taiwan context] */
+  /* Base page styles */
   body {
     font-family: 'jf-jinxuanlatte', 'Noto Sans TC', sans-serif;
     font-weight: 600;
@@ -861,7 +858,7 @@ const t = useTranslations(lang);
     }
   }
 
-  /* [Amharic translation needed - original Taiwan context] */
+  /* Roles section */
   .roles-section {
     padding: 4rem 2rem;
     background: linear-gradient(to bottom, #e8f5e8, rgba(247, 243, 233, 0.5));
@@ -941,7 +938,7 @@ const t = useTranslations(lang);
     font-weight: 600;
   }
 
-  /* [Amharic translation needed - original Taiwan context] */
+  /* Organism section */
   .org-section {
     margin-top: 3rem;
     padding-top: 3rem;
@@ -1025,7 +1022,7 @@ const t = useTranslations(lang);
     margin-top: 0.5rem;
   }
 
-  /* [Amharic translation needed - original Taiwan context] */
+  /* Writing guides section */
   .writing-guides {
     padding: 4rem 2rem;
     background: rgba(232, 245, 232, 0.3);
@@ -1722,7 +1719,7 @@ const t = useTranslations(lang);
     line-height: 1.8;
   }
 
-  /* [Amharic translation needed - original Taiwan context] */
+  /* One-line AI translation system */
   .one-line-system {
     background: rgba(255, 255, 255, 0.95);
     border-radius: 16px;
@@ -1784,7 +1781,7 @@ const t = useTranslations(lang);
     line-height: 1.7;
   }
 
-  /* [Amharic translation needed - original Taiwan context] */
+  /* Manual translation process */
   .manual-process {
     border-top: 2px solid #a7c4a0;
     padding-top: 2rem;

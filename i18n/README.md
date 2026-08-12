@@ -5,6 +5,7 @@
 [Amharic translation needed - original Taiwan context] → reviewer [Amharic translation needed - original Taiwan context] → [Amharic translation needed - original Taiwan context] STYLE.md → [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
 
 [Amharic translation needed - original Taiwan context]：
+
 - **[EDITORIAL.md](../EDITORIAL.md)** — [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
 - **`i18n/{lang}/STYLE.md`** — [Amharic translation needed - original Taiwan context]
 
@@ -46,4 +47,4 @@ STYLE.md [Amharic translation needed - original Taiwan context]，[Amharic trans
 
 ## Token Donation [Amharic translation needed - original Taiwan context]
 
-[Amharic translation needed - original Taiwan context] [Discussion #137](https://github.com/frank890417/ethiopia-md/discussions/137)
+[Amharic translation needed - original Taiwan context] [Discussion #137](https://github.com/EyuReaper/ethiopia-md/discussions/137)

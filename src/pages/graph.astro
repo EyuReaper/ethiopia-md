@@ -35,18 +35,18 @@ const categoryColors: Record<string, string> = {
 };
 
 const categoryNames: Record<string, string> = {
-  history: '📜 [Amharic translation needed - original Taiwan context]',
-  geography: '🗺️ [Amharic translation needed - original Taiwan context]',
-  culture: '🎭 [Amharic translation needed - original Taiwan context]',
-  food: '🍜 [Amharic translation needed - original Taiwan context]',
-  art: '🎨 [Amharic translation needed - original Taiwan context]',
-  music: '🎵 [Amharic translation needed - original Taiwan context]',
-  technology: '💻 [Amharic translation needed - original Taiwan context]',
-  nature: '🌿 [Amharic translation needed - original Taiwan context]',
-  people: '👥 [Amharic translation needed - original Taiwan context]',
-  society: '⚖️ [Amharic translation needed - original Taiwan context]',
-  economy: '📈 [Amharic translation needed - original Taiwan context]',
-  lifestyle: '🏠 [Amharic translation needed - original Taiwan context]',
+  history: '📜 ታሪክ',
+  geography: '🗺️ ጂኦግራፊ',
+  culture: '🎭 ባህል',
+  food: '🍜 ምግብ',
+  art: '🎨 ጥበብ',
+  music: '🎵 ሙዚቃ',
+  technology: '💻 ቴክኖሎጂ',
+  nature: '🌿 ተፈጥሮ',
+  people: '👥 ሰዎች',
+  society: '⚖️ ማህበረሰብ',
+  economy: '📈 ኢኮኖሚ',
+  lifestyle: '🏠 አኗኗር',
 };
 
 // Build nodes and edges
@@ -130,7 +130,7 @@ nodes.push({ id: 'ethiopia', label: 'Ethiopia.md', group: 'center', size: 30 });
 // Special nodes
 nodes.push({
   id: 'about',
-  label: '📖 [Amharic translation needed - original Taiwan context]',
+  label: '📖 ስለ እኛ',
   group: 'special',
   color: '#6366f1',
   size: 14,
@@ -138,7 +138,7 @@ nodes.push({
 });
 nodes.push({
   id: 'contribute',
-  label: '✋ [Amharic translation needed - original Taiwan context]',
+  label: '✋ ተሳትፎ',
   group: 'special',
   color: '#22c55e',
   size: 14,
@@ -286,7 +286,7 @@ for (const [cat, folder] of Object.entries(categoryMapping)) {
             edges.push({ source: cat, target: matchNode.id });
           }
         }
-        // Cross-category Hub links (e.g. History Hub mentions [[[Amharic translation needed - original Taiwan context]]])
+        // Cross-category Hub links (e.g. History Hub mentions [[Article Title]])
         if (!matchNode) {
           for (const [otherCat] of Object.entries(categoryMapping)) {
             if (otherCat === cat) continue;
@@ -307,17 +307,17 @@ for (const [cat, folder] of Object.entries(categoryMapping)) {
 const graphData = JSON.stringify({ nodes, edges });
 ---
 
-<Layout title="🕸️ [Amharic translation needed - original Taiwan context] — Ethiopia.md">
+<Layout title="🕸️ የዕውቀት ግራፍ — Ethiopia.md">
   <main class="graph-page">
     <div class="graph-header">
-      <h1>🕸️ [Amharic translation needed - original Taiwan context] Knowledge Graph</h1>
-      <p>Ethiopia.md [Amharic translation needed - original Taiwan context]</p>
+      <h1>🕸️ የዕውቀት ግራፍ Knowledge Graph</h1>
+      <p>Ethiopia.md ውስጥ ያሉ ርዕሰ ጉዳዮች እርስ በርስ እንዴት እንደሚተሳሰሩ ይመልከቱ</p>
       <div class="search-box">
         <input
           id="graph-search"
           type="search"
-          placeholder="[Amharic translation needed - original Taiwan context]"
-          aria-label="[Amharic translation needed - original Taiwan context]"
+          placeholder="ርዕሶችን ፈልግ..."
+          aria-label="ርዕሶችን ፈልግ"
         />
         <span id="search-count" class="search-count"></span>
       </div>
@@ -539,7 +539,7 @@ const graphData = JSON.stringify({ nodes, edges });
 
       if (searchCount) {
         searchCount.textContent =
-          matchedIds.size > 0 ? `${matchedIds.size} [Amharic translation needed - original Taiwan context]` : '[Amharic translation needed - original Taiwan context]';
+          matchedIds.size > 0 ? `${matchedIds.size} ውጤቶች` : 'ውጤት አልተገኘም';
       }
     }
 

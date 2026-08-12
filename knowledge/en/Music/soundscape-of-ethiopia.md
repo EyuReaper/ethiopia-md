@@ -12,6 +12,7 @@ tags:
     'street sounds',
   ]
 date: 2026-03-17
+status: archived
 ---
 
 # Soundscape of Ethiopia

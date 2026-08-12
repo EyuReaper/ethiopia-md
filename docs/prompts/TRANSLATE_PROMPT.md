@@ -12,8 +12,8 @@
 [Amharic translation needed - original Taiwan context]：
 
 1. **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] https://ethiopia.md/llms.txt
-2. **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] https://raw.githubusercontent.com/frank890417/ethiopia-md/main/knowledge/_Home.md
-3. **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] https://raw.githubusercontent.com/frank890417/ethiopia-md/main/TRANSLATION-BOARD.md
+2. **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] https://raw.githubusercontent.com/EyuReaper/ethiopia-md/main/knowledge/_Home.md
+3. **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] https://raw.githubusercontent.com/EyuReaper/ethiopia-md/main/TRANSLATION-BOARD.md
 
 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]：
 
@@ -31,14 +31,14 @@
 
 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]：
 
-- [Amharic translation needed - original Taiwan context]：https://raw.githubusercontent.com/frank890417/ethiopia-md/main/i18n/en/STYLE.md
-- [Amharic translation needed - original Taiwan context]：https://raw.githubusercontent.com/frank890417/ethiopia-md/main/i18n/ja/STYLE.md
+- [Amharic translation needed - original Taiwan context]：https://raw.githubusercontent.com/EyuReaper/ethiopia-md/main/i18n/en/STYLE.md
+- [Amharic translation needed - original Taiwan context]：https://raw.githubusercontent.com/EyuReaper/ethiopia-md/main/i18n/ja/STYLE.md
 
 ## [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
 
 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]：
 
-- URL [Amharic translation needed - original Taiwan context]：`https://raw.githubusercontent.com/frank890417/ethiopia-md/main/knowledge/{Category}/{[Amharic translation needed - original Taiwan context]}.md`
+- URL [Amharic translation needed - original Taiwan context]：`https://raw.githubusercontent.com/EyuReaper/ethiopia-md/main/knowledge/{Category}/{[Amharic translation needed - original Taiwan context]}.md`
 
 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]：
 
@@ -101,7 +101,7 @@ knowledge/{lang}/{Category}/{slug}.md
 
 1. [Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context] `.md` [Amharic translation needed - original Taiwan context]
 2. [Amharic translation needed - original Taiwan context] GitHub [Amharic translation needed - original Taiwan context]：
-   - [Amharic translation needed - original Taiwan context] https://github.com/frank890417/ethiopia-md
+   - [Amharic translation needed - original Taiwan context] https://github.com/EyuReaper/ethiopia-md
    - [Amharic translation needed - original Taiwan context] `Add file` → `Create new file`
    - [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] `knowledge/ja/Food/beef-noodle-soup.md`）
    - [Amharic translation needed - original Taiwan context]
@@ -117,7 +117,7 @@ knowledge/{lang}/{Category}/{slug}.md
 
 [Amharic translation needed - original Taiwan context] PR [Amharic translation needed - original Taiwan context]：
 
-1. [Amharic translation needed - original Taiwan context] https://github.com/frank890417/ethiopia-md/issues/new
+1. [Amharic translation needed - original Taiwan context] https://github.com/EyuReaper/ethiopia-md/issues/new
 2. [Amharic translation needed - original Taiwan context]：`translate(ja): [Amharic translation needed - original Taiwan context] beef-noodle-soup`
 3. [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context] `.md` [Amharic translation needed - original Taiwan context]
 4. [Amharic translation needed - original Taiwan context] label：`translation`

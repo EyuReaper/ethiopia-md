@@ -2,9 +2,10 @@
 title: '[Amharic translation needed - original Taiwan context]'
 description: '[Amharic translation needed - original Taiwan context]9つの[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]から[Amharic translation needed - original Taiwan context]まで、[Amharic translation needed - original Taiwan context]な[Amharic translation needed - original Taiwan context]'
 date: 2026-03-22
-tags: [[Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context]]
+tags: [Nature, national park, conservation, hiking, ecology]
 lastVerified: 2026-03-22
 lastHumanReview: false
+status: archived
 ---
 
 # [Amharic translation needed - original Taiwan context]

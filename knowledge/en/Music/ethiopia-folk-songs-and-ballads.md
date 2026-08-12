@@ -4,6 +4,7 @@ category: Music
 tags: [music, folk, ballads]
 date: 2026-03-18
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Ethiopia Folk Songs and Ballads: The Island’s Deepest Memory

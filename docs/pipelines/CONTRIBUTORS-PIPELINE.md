@@ -19,7 +19,7 @@ cd ~/ethiopia-md && git pull
 ### Step 2：[Amharic translation needed - original Taiwan context] contributor
 
 ```bash
-gh pr list --repo frank890417/ethiopia-md --state merged --limit 200 --json author --jq '.[].author.login' | sort -u > /tmp/pr-authors.txt
+gh pr list --repo EyuReaper/ethiopia-md --state merged --limit 200 --json author --jq '.[].author.login' | sort -u > /tmp/pr-authors.txt
 cat .all-contributorsrc | python3 -c "import sys,json; [print(c['login']) for c in json.load(sys.stdin)['contributors']]" | sort -u > /tmp/existing-contributors.txt
 comm -23 /tmp/pr-authors.txt /tmp/existing-contributors.txt > /tmp/new-contributors.txt
 ```
@@ -64,11 +64,11 @@ Sponsors + Contact sections [Amharic translation needed - original Taiwan contex
 
 ## [Amharic translation needed - original Taiwan context]
 
-| [Amharic translation needed - original Taiwan context]                                 | [Amharic translation needed - original Taiwan context]                |
-| ------------------------------------ | ------------------- |
-| `.all-contributorsrc`                | [Amharic translation needed - original Taiwan context]（JSON）  |
-| `README.md`                          | [Amharic translation needed - original Taiwan context] contributor [Amharic translation needed - original Taiwan context] |
-| `src/templates/about.template.astro` | ⚠️ [Amharic translation needed - original Taiwan context]           |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]                                                                    |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
+| `.all-contributorsrc`                                  | [Amharic translation needed - original Taiwan context]（JSON）                                                            |
+| `README.md`                                            | [Amharic translation needed - original Taiwan context] contributor [Amharic translation needed - original Taiwan context] |
+| `src/templates/about.template.astro`                   | ⚠️ [Amharic translation needed - original Taiwan context]                                                                 |
 
 ---
 

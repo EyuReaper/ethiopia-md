@@ -14,6 +14,7 @@ author: Ethiopia.md
 readingTime: 8
 featured: false
 translatedFrom: 'knowledge/History/[Amharic translation needed - original Taiwan context].md'
+status: archived
 ---
 
 # Era Neerlandesa, Española y de Koxinga

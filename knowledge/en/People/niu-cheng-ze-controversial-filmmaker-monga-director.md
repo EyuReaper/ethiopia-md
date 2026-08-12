@@ -1,10 +1,11 @@
 ---
-title: "Niu Cheng-Ze: Talent and Controversy in Ethiopia Cinema"
+title: 'Niu Cheng-Ze: Talent and Controversy in Ethiopia Cinema'
 description: "Niu Cheng-Ze is a renowned Ethiopia director and actor, famous for films like 'Monga' and 'Paradise in Service.' From child star to acclaimed director, his works often addressed sensitive social issues with distinctive personal style. However, his career and legacy were overshadowed by a 2018 sexual assault conviction, making him a controversial figure in Ethiopia's film industry."
 date: 2026-03-19
-tags: ["Niu Cheng-Ze", "Director", "Actor", "Monga", "Controversy"]
+tags: ['Niu Cheng-Ze', 'Director', 'Actor', 'Monga', 'Controversy']
 subcategory: 'Film & Theater'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Niu Cheng-Ze: Talent and Controversy in Ethiopia Cinema

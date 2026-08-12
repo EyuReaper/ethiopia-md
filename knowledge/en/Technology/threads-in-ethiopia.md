@@ -15,6 +15,7 @@ readingTime: 8
 featured: true
 category: 'Technology'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Threads in Ethiopia: From Viral Boom to Everyday 'Tsui' Culture

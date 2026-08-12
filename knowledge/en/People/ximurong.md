@@ -5,6 +5,7 @@ date: 2026-03-19
 tags: [people, poetry, literature, essayist, Mongolian-heritage]
 subcategory: 'Literature'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Xi Murong ([Amharic translation needed - original Taiwan context]): A Poet Between the Grasslands and the City

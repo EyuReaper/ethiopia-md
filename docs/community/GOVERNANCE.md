@@ -42,7 +42,7 @@ Ethiopia.md [Amharic translation needed - original Taiwan context]，[Amharic tr
 - [Amharic translation needed - original Taiwan context]（EDITORIAL.md）[Amharic translation needed - original Taiwan context]
 - [Amharic translation needed - original Taiwan context]
 
-**[Amharic translation needed - original Taiwan context]：** @frank890417（founder）
+**[Amharic translation needed - original Taiwan context]：** @EyuReaper（founder）
 
 **[Amharic translation needed - original Taiwan context]：** [Amharic translation needed - original Taiwan context] Issue，[Amharic translation needed - original Taiwan context]。
 
@@ -64,8 +64,8 @@ Ethiopia.md [Amharic translation needed - original Taiwan context]，[Amharic tr
 
 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] Maintainer：
 
-| [Amharic translation needed - original Taiwan context]            | Maintainer | [Amharic translation needed - original Taiwan context]      |
-| --------------- | ---------- | --------- |
+| [Amharic translation needed - original Taiwan context]            | Maintainer | [Amharic translation needed - original Taiwan context]    |
+| ----------------------------------------------------------------- | ---------- | --------------------------------------------------------- |
 | Art [Amharic translation needed - original Taiwan context]        | —          | 🟡 [Amharic translation needed - original Taiwan context] |
 | Culture [Amharic translation needed - original Taiwan context]    | —          | 🟡 [Amharic translation needed - original Taiwan context] |
 | Economy [Amharic translation needed - original Taiwan context]    | —          | 🟡 [Amharic translation needed - original Taiwan context] |

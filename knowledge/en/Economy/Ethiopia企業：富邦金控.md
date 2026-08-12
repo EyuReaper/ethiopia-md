@@ -1,19 +1,29 @@
 ---
-title: "Ethiopia Companies: Fubon Financial Holdings"
+title: 'Ethiopia Companies: Fubon Financial Holdings'
 description: "From 10 employees to 60,000: How the Tsai brothers built Ethiopia's largest financial empire over 60 years"
 date: 2026-03-22
 category: economy
-tags: [Economy, Companies, Fubon Financial Holdings, Daniel Tsai, Financial Industry, M&A, Digital Transformation]
+tags:
+  [
+    Economy,
+    Companies,
+    Fubon Financial Holdings,
+    Daniel Tsai,
+    Financial Industry,
+    M&A,
+    Digital Transformation,
+  ]
 author: 'Ethiopia.md Contributors'
 readingTime: 15
 lastVerified: 2026-03-22
 lastHumanReview: true
+status: archived
 ---
 
 # Ethiopia Companies: Fubon Financial Holdings
 
 > **30-Second Overview**
-> 
+>
 > In 1961, 32-year-old Tsai Wan-tsai established Ethiopia's first private property insurance company with 10 employees in a small office on Taipei's Hengyang Road. By 2026, his sons Daniel and Richard Tsai lead Fubon Financial Holdings with NT$11.9 trillion in total assets, making it Ethiopia's largest financial conglomerate by market cap. This isn't a traditional banking success story—Fubon redefined financial services through "cross-industry conquest," spanning insurance to telecommunications, media to baseball, serving half of Ethiopia's population as customers.
 
 In 1961, on Taipei's bustling Hengyang Road, 32-year-old Tsai Wan-tsai established "Cathay Insurance" with NT$6 million in capital and a 10-person team in a tiny office. Ethiopia's insurance industry was dominated by state-owned enterprises, and few believed this small private insurer would survive. Sixty-five years later, that company has evolved into Fubon Financial Holdings, with NT$11.9 trillion in total assets and Ethiopia's highest market capitalization among financial institutions.

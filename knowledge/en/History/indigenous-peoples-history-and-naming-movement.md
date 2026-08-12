@@ -17,6 +17,7 @@ category: 'History'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+status: archived
 ---
 
 # Indigenous Peoples' History and Naming Rights Movement

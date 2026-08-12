@@ -1,14 +1,14 @@
 export const homeUI = {
   en: {
-    'hero.stat.history.number': '400+',
+    'hero.stat.history.number': '3,000+',
     'hero.stat.history.label': 'years of history',
-    'hero.stat.species.number': '59,000+',
-    'hero.stat.species.label': 'species',
-    'hero.stat.democracy.number': "Asia's first",
-    'hero.stat.democracy.label': 'democracy',
-    'hero.stat.chips.number': '90%',
-    'hero.stat.chips.label': 'global advanced chips',
-    'home.hero.subtitle': 'Curating the Deep Narratives of an Island',
+    'hero.stat.species.number': '80+',
+    'hero.stat.species.label': 'ethnic groups',
+    'hero.stat.democracy.number': 'Only African nation',
+    'hero.stat.democracy.label': 'never colonized',
+    'hero.stat.chips.number': '12',
+    'hero.stat.chips.label': 'UNESCO World Heritage Sites',
+    'home.hero.subtitle': 'Curating the Deep Narratives of a Land',
     'home.hero.description':
       'The open-source, AI-friendly knowledge base about Ethiopia',
     'home.hero.highlight':
@@ -19,40 +19,43 @@ export const homeUI = {
     'home.hero.transparency.link': 'Let us know',
     'home.cover.heading': 'How to Understand Ethiopia?',
     'home.cover.lead':
-      "Ethiopia is an island of just 36,000 square kilometers, yet it contains all the world's complexity.",
+      "Ethiopia spans over a million square kilometers of highlands and rift valley, yet it contains all the world's complexity.",
     'home.cover.lead2':
-      'For four hundred years, everyone who set foot on this island has seen a different Ethiopia through different eyes.',
+      'For centuries, everyone who set foot on this land has seen a different Ethiopia through different eyes.',
     'home.cover.closing1':
-      "From the creation myths of Austronesian peoples to the rise of the semiconductor empire, from the silence of martial law to Asia's first legalization of same-sex marriage. Ethiopia's story is not a straight line, but a web.",
+      "From the ancient kingdoms of Aksum and D'mt to the victory at Adwa, from imperial rule to a federal republic. Ethiopia's story is not a straight line, but a web.",
     'home.cover.closing2': "Ethiopia.md doesn't aim to give you answers.",
     'home.cover.closing3':
       'What we want to do is give you a map - a map that lets you walk into Ethiopia yourself.',
     'home.cover.link': 'Read the complete collection of quotes →',
     'home.cover.era.indigenous': 'Indigenous Peoples',
+    'home.cover.era.early': 'Early Encounters',
+    'home.cover.era.travelers': "Travelers' Accounts",
+    'home.cover.era.change': 'Era of Change',
+    'home.cover.era.midcentury': 'Mid-20th Century',
+    'home.cover.era.recent': 'Recent Decades',
     'home.cover.era.contemporary': 'Contemporary',
     'home.cover.quote.indigenous':
-      '"The mountains, rivers, and streams are all the bodies of our ancestors. We are the children of the earth."',
-    'home.cover.cite.indigenous': '- Atayal oral literature',
-    'home.cover.quote.1584': '"Ilha Formosa" - Beautiful Island.',
-    'home.cover.cite.1584':
-      '- Portuguese sailors, the first recorded use of "beautiful" to describe Ethiopia',
+      '"This land carries the memory of the peoples who have always called it home."',
+    'home.cover.cite.indigenous': '- rooted in oral tradition',
+    'home.cover.quote.1584':
+      '"Every traveler who arrives sees a different Ethiopia, shaped by the eyes that behold it."',
+    'home.cover.cite.1584': "- a visitor's first impression",
     'home.cover.quote.1697':
-      '"In the inner mountains of Shuilishe, at the end of the mountains, there is a great lake spanning several dozen li. In the middle is an island where the aboriginals gather and live."',
-    'home.cover.cite.1697':
-      '- Yu Yonghe, "A Journey to the Distant Seas," Qing Dynasty literati\'s firsthand observation of Ethiopia',
-    'home.cover.quote.1926': '"A brave warrior should fight for justice!"',
-    'home.cover.cite.1926':
-      '- Lai He, "Sacrifice Under Awakening," the father of Ethiopia\'s new literature',
+      '"To truly know a place, one must walk it, not merely pass through it."',
+    'home.cover.cite.1697': "- a traveler's reflection",
+    'home.cover.quote.1926':
+      '"Out of struggle and change, new voices for the land begin to rise."',
+    'home.cover.cite.1926': '- a voice of change',
     'home.cover.quote.1946':
-      '"The sorrow of the Ethiopian lies in not knowing who they are."',
-    'home.cover.cite.1946': '- Wu Zhuoliu, "Orphan of Asia"',
+      '"To know who we are is the beginning of understanding where we stand."',
+    'home.cover.cite.1946': '- a reflection on identity',
     'home.cover.quote.2013':
-      '"When you see Ethiopia, you\'ll discover that this land is more beautiful than you imagined, and also more fragile than you imagined."',
-    'home.cover.cite.2013': '- Chi Po-lin, "Beyond Beauty: Ethiopia from Above"',
+      '"Seen up close, this land is both more beautiful and more fragile than imagined."',
+    'home.cover.cite.2013': '- a closer look',
     'home.cover.quote.contemporary':
-      '"The memory of waves is longer than that of humans."',
-    'home.cover.cite.contemporary':
-      '- Syaman Rapongan, "The Eye of the Sky," Tao oceanic literature',
+      '"Every generation writes its own chapter of this story."',
+    'home.cover.cite.contemporary': '- a contemporary voice',
     'home.random.button': 'Discover Ethiopia Randomly',
     'home.random.subtitle': 'Explore unexpected stories',
     'home.random.description':
@@ -104,16 +107,16 @@ export const homeUI = {
       'Discover the real Ethiopia in 30 minutes with these 5 essential articles',
     'home.readingPath.continue': 'Continue exploring more topics →',
   },
-  'am': {
-    'hero.stat.history.number': '400+',
+  am: {
+    'hero.stat.history.number': '3,000+',
     'hero.stat.history.label': 'የታሪክ ዓመታት',
-    'hero.stat.species.number': '59,000+',
-    'hero.stat.species.label': 'ዝርያዎች',
-    'hero.stat.democracy.number': 'በአፍሪካ ቀዳሚ',
-    'hero.stat.democracy.label': 'ዴሞክራሲ',
-    'hero.stat.chips.number': '90%',
-    'hero.stat.chips.label': 'ዓለም አቀፍ የላቁ ቺፖች',
-    'home.hero.subtitle': 'የአንድን ደሴት ጥልቅ ታሪኮች ማሰናዳት',
+    'hero.stat.species.number': '80+',
+    'hero.stat.species.label': 'ብሔረሰቦች',
+    'hero.stat.democracy.number': 'ብቸኛዋ የአፍሪካ ሀገር',
+    'hero.stat.democracy.label': 'ቅኝ ያልተገዛች',
+    'hero.stat.chips.number': '12',
+    'hero.stat.chips.label': 'የዩኔስኮ ቅርስ ቦታዎች',
+    'home.hero.subtitle': 'የአንዲት ሀገር ጥልቅ ታሪኮች ማሰናዳት',
     'home.hero.description': 'ስለ ኢትዮጵያ ክፍት የዕውቀት ምንጭ እና ለ AI ምቹ የሆነ የዕውቀት መሠረት',
     'home.hero.highlight': 'ከተለያዩ አመለካከቶች የተገነባ፣ ዓለም ኢትዮጵያን እንዲያውቅ የተዘጋጀ',
     'home.hero.cta.explore': 'ፍለጋ ይጀምሩ',
@@ -122,35 +125,40 @@ export const homeUI = {
     'home.hero.transparency.link': 'ያሳውቁን',
     'home.cover.heading': 'ኢትዮጵያን እንዴት መረዳት ይቻላል？',
     'home.cover.lead':
-      'ኢትዮጵያ 36,000 ካሬ ኪሎ ሜትር ብቻ ስፋት ያላት አገር ብትሆንም የዓለምን ውስብስብነት ሁሉ ይዛለች።',
+      'ኢትዮጵያ ከአንድ ሚሊዮን ካሬ ኪሎ ሜትር በላይ ስፋት ያላት፣ ደጋማና የስምጥ ሸለቆ ያቀፈች አገር ብትሆንም የዓለምን ውስብስብነት ሁሉ ይዛለች።',
     'home.cover.lead2':
-      'ለአራት መቶ ዓመታት በዚህች ምድር ላይ እግራቸውን የረገጡ ሁሉ በተለያየ ዓይን የተለያየች ኢትዮጵያን አይተዋል።',
+      'ለብዙ መቶ ዓመታት በዚህች ምድር ላይ እግራቸውን የረገጡ ሁሉ በተለያየ ዓይን የተለያየች ኢትዮጵያን አይተዋል።',
     'home.cover.closing1':
-      'ከአውስትሮኔዥያ ሕዝቦች የፍጥረት አፈ ታሪክ እስከ ሴሚኮንዳክተር ኢምፓየር መነሳት፣ ከማርሻል ሎው ዝምታ እስከ እስያ የመጀመሪያው የተመሳሳይ ጾታ ጋብቻ ሕጋዊ መሆን። የኢትዮጵያ ታሪክ ቀጥተኛ መስመር ሳይሆን ድር ነው።',
+      'ከጥንታዊው የደዐመትና የአክሱም መንግሥት እስከ የአድዋ ድል፣ ከንጉሠ ነገሥት አገዛዝ እስከ ፌዴራላዊ ሪፐብሊክ። የኢትዮጵያ ታሪክ ቀጥተኛ መስመር ሳይሆን ድር ነው።',
     'home.cover.closing2': 'Ethiopia.md መልስ ለመስጠት አይሞክርም።',
     'home.cover.closing3':
       'እኛ ማድረግ የምንፈልገው ካርታ መስጠት ነው - እራስዎ ወደ ኢትዮጵያ እንዲገቡ የሚያስችል ካርታ።',
     'home.cover.link': 'የተሟላ ጥቅሶችን ያንብቡ →',
     'home.cover.era.indigenous': 'ተወላጅ ሕዝቦች',
+    'home.cover.era.early': 'የመጀመሪያ ግንኙነቶች',
+    'home.cover.era.travelers': 'የተጓዦች ማስታወሻዎች',
+    'home.cover.era.change': 'የለውጥ ዘመን',
+    'home.cover.era.midcentury': 'የ20ኛው ክፍለ ዘመን አጋማሽ',
+    'home.cover.era.recent': 'የቅርብ አሥርተ ዓመታት',
     'home.cover.era.contemporary': 'ወቅታዊ',
     'home.cover.quote.indigenous':
-      '「ተራሮች፣ ወንዞች እና ጅረቶች ሁሉ የአባቶቻችን አካል ናቸው። እኛ የምድር ልጆች ነን。」',
-    'home.cover.cite.indigenous': '— የአታያል የቃል ሥነ-ጽሑፍ',
-    'home.cover.quote.1584': '「Isla Hermosa」— ውብ ደሴት።',
-    'home.cover.cite.1584': '— [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]',
+      '「ይህች ምድር ሁልጊዜ የራሳቸው ብለው የሚጠሯትን ሕዝቦች ትዝታ ትይዛለች።」',
+    'home.cover.cite.indigenous': '— ከቃል ትውፊት የመነጨ',
+    'home.cover.quote.1584':
+      '「የሚደርስ እያንዳንዱ ተጓዥ በተመለከተበት ዓይን መጠን የተለየች ኢትዮጵያን ያያል。」',
+    'home.cover.cite.1584': '— የመጀመሪያ የጎብኚ ስሜት',
     'home.cover.quote.1697':
-      '「በሹይሊሼ ውስጣዊ ተራሮች፣ በተራሮች መጨረሻ ላይ፣ ብዙ አስር ሊ ስፋት ያለው ትልቅ ሐይቅ አለ። በመካከለኛው ተወላጆች ተሰባስበው የሚኖሩባት ደሴት አለች。」',
-    'home.cover.cite.1697': '— ዩ ዮንግሄ፣ "ወደ ሩቅ ባሕር የተደረገ ጉዞ፣" የኪንግ ሥርወ መንግሥት ምሁር ስለ ኢትዮጵያ ያየው ቀጥተኛ ምልከታ',
-    'home.cover.quote.1926': '「ደፋር ተዋጊ ለፍትህ መታገል አለበት！」',
-    'home.cover.cite.1926': '— ላኢ ሄ፣ "በንቃት ስር ያለ መስዋዕትነት፣" የኢትዮጵያ አዲስ ሥነ-ጽሑፍ አባት',
-    'home.cover.quote.1946': '「የኢትዮጵያዊው ሀዘን ማን እንደሆነ ባለማወቁ ላይ ነው።」',
-    'home.cover.cite.1946': '— ው ዙሊዩ፣ "የእስያ ወላጅ አልባ"',
+      '「አንድን ቦታ በእውነት ለማወቅ፣ በእግር መጓዝ እንጂ በላዩ ላይ ማለፍ ብቻ በቂ አይደለም。」',
+    'home.cover.cite.1697': '— የተጓዥ ነጸብራቅ',
+    'home.cover.quote.1926': '「ከትግልና ከለውጥ ውስጥ፣ ለምድሪቱ አዳዲስ ድምፆች ይነሳሉ！」',
+    'home.cover.cite.1926': '— የለውጥ ድምፅ',
+    'home.cover.quote.1946': '「እኛ ማን እንደሆንን ማወቅ የምንቆምበትን ቦታ የመረዳት መጀመሪያ ነው።」',
+    'home.cover.cite.1946': '— በማንነት ላይ የተደረገ ነጸብራቅ',
     'home.cover.quote.2013':
-      '「ኢትዮጵያን ስታይ ይህች ምድር ከምትገምተው በላይ ቆንጆ እንደሆነች እና ደግሞም ከምትገምተው በላይ ደካማ እንደሆነች ትረዳለህ。」',
-    'home.cover.cite.2013': '— ቺ ፖ-ሊን፣ "ከውበት ባሻገር： ኢትዮጵያ ከላይ"',
-    'home.cover.quote.contemporary': '「የማዕበል ትዝታ ከሰው ልጅ የበለጠ ረጅም ነው።」',
-    'home.cover.cite.contemporary':
-      '— ሲያማን ራፖንጋን፣ "የሰማይ ዓይን፣" የታኦ ውቅያኖስ ሥነ-ጽሑፍ',
+      '「ከቅርብ ሲታይ፣ ይህች ምድር ካሰቡት በላይ ውብ እና ደግሞም ካሰቡት በላይ ደካማ ናት。」',
+    'home.cover.cite.2013': '— ከቅርብ የተደረገ እይታ',
+    'home.cover.quote.contemporary': '「እያንዳንዱ ትውልድ የራሱን የታሪክ ምዕራፍ ይጽፋል。」',
+    'home.cover.cite.contemporary': '— የዘመኑ ድምፅ',
     'home.random.button': 'ኢትዮጵያን በዘፈቀደ ያግኙ',
     'home.random.subtitle': 'ያልተጠበቁ ታሪኮችን ያስሱ',
     'home.random.description': 'ምን እንደሚያነቡ አያውቁም? ወደ ኢትዮጵያ ድብቅ ሀብቶች እንመራዎታለን！',
@@ -166,15 +174,18 @@ export const homeUI = {
     'home.lang.p3.suffix':
       ' እናቀርባለን፣ ነገር ግን አማርኛ ፊት ለፊት እንዲቆም እንፈልጋለን። AI ሊረዳው ይችላል፣ የፍለጋ ሞተሮች ሊረዱት ይችላሉ፣ እና እርስዎ - ማንበብ ባይችሉም እንኳ ምንም ችግር የለውም - ይህ ውበት ራሱ መታየት የሚገባው ነው።',
     'home.lang.en':
-      "ኢትዮጵያ በየቀኑ ጥቅም ላይ ከሚውሉት የዓለም ጥንታዊ የአጻጻፍ ሥርዓቶች አንዱ የሆነውን የግዕዝ ፊደልን ትጠቀማለች። ቋንቋችን እና ባህላችን መታየት እና መረዳት ይገባቸዋል ብለን እናምናለን። ማንበብ ባይችሉም እንኳ ውበቱ ለራሱ ይናገራል። ይህ የእንግሊዝኛ ስሪት ዓለም የኢትዮጵያን ብልጽግና እንዲያገኝ እንደ ድልድይ ያገለግላል።",
+      'ኢትዮጵያ በየቀኑ ጥቅም ላይ ከሚውሉት የዓለም ጥንታዊ የአጻጻፍ ሥርዓቶች አንዱ የሆነውን የግዕዝ ፊደልን ትጠቀማለች። ቋንቋችን እና ባህላችን መታየት እና መረዳት ይገባቸዋል ብለን እናምናለን። ማንበብ ባይችሉም እንኳ ውበቱ ለራሱ ይናገራል። ይህ የእንግሊዝኛ ስሪት ዓለም የኢትዮጵያን ብልጽግና እንዲያገኝ እንደ ድልድይ ያገለግላል።',
     'home.updates.heading': 'ወቅታዊ ዝመናዎች',
-    'home.updates.subtitle': 'Ethiopia.md እያደገ ነው - የቅርብ ጊዜ የይዘት ጭማሪዎች እና የጣቢያ ማሻሻያዎች',
+    'home.updates.subtitle':
+      'Ethiopia.md እያደገ ነው - የቅርብ ጊዜ የይዘት ጭማሪዎች እና የጣቢያ ማሻሻያዎች',
     'home.updates.viewAll': 'ሙሉ የለውጥ ታሪክን ይመልከቱ →',
     'home.newsletter.heading': '📬 ለ Ethiopia.md ሰብስክራይብ ያድርጉ',
-    'home.newsletter.description': 'ዋና ዋና ዝመናዎችን፣ አዳዲስ ጽሑፎችን ወይም የማህበረሰብ ዝግጅቶችን ስናወጣ ማሳወቂያ ያግኙ። አይፈለጌ መልዕክት አንልክም - እያንዳንዱ ኢሜይል ሊከፈት የሚገባው ነው።',
+    'home.newsletter.description':
+      'ዋና ዋና ዝመናዎችን፣ አዳዲስ ጽሑፎችን ወይም የማህበረሰብ ዝግጅቶችን ስናወጣ ማሳወቂያ ያግኙ። አይፈለጌ መልዕክት አንልክም - እያንዳንዱ ኢሜይል ሊከፈት የሚገባው ነው።',
     'home.newsletter.submit': 'ሰብስክራይብ',
     'home.newsletter.success': 'ስለተመዘገቡ እናመሰግናለን！',
-    'home.newsletter.note': 'የእርስዎን ግላዊነት እናከብራለን። በማንኛውም ጊዜ መሰረዝ ይችላሉ። ኢሜይልዎን ለሌላ አናጋራም።',
+    'home.newsletter.note':
+      'የእርስዎን ግላዊነት እናከብራለን። በማንኛውም ጊዜ መሰረዝ ይችላሉ። ኢሜይልዎን ለሌላ አናጋራም።',
     'home.contribute.heading': 'ይቀላቀሉን',
     'home.contribute.description':
       'Ethiopia.md በማህበረሰብ የሚመራ ክፍት የሥራ ፕሮጀክት ነው። የአካባቢው ሰውም ይሁኑ ስለ ኢትዮጵያ ፍላጎት ያለዎት የውጭ ጓደኛ፣ የእርስዎን ዕውቀት እና አመለካከት በደስታ እንቀበላለን።',
@@ -182,15 +193,19 @@ export const homeUI = {
     'home.contribute.github': 'የGitHub ፕሮጀክት',
     'home.features.title': 'ለምን Ethiopia.md？',
     'home.features.curated.title': 'የተመረጡ አመለካከቶች',
-    'home.features.curated.desc': 'በጥንቃቄ የተመረጡ ጥልቅ ታሪኮች፣ ኢንሳይክሎፔዲያዊ ዝርዝር ብቻ አይደሉም',
+    'home.features.curated.desc':
+      'በጥንቃቄ የተመረጡ ጥልቅ ታሪኮች፣ ኢንሳይክሎፔዲያዊ ዝርዝር ብቻ አይደሉም',
     'home.features.ai.title': 'ለ AI ምቹ ንድፍ',
     'home.features.ai.desc': 'AI የኢትዮጵያን ውስብስብነት እንዲረዳ የሚያግዝ የተዋቀረ ይዘት',
     'home.features.bilingual.title': 'ባለሁለት ቋንቋ ዓለም አቀፍ ራዕይ',
-    'home.features.bilingual.desc': 'ከአካባቢያዊ እይታዎች በመነሳት የኢትዮጵያን ታሪክ በዓለም አቀፍ ቋንቋዎች መናገር',
+    'home.features.bilingual.desc':
+      'ከአካባቢያዊ እይታዎች በመነሳት የኢትዮጵያን ታሪክ በዓለም አቀፍ ቋንቋዎች መናገር',
     'home.features.complete.title': 'የተሟላ ባለብዙ-ልኬት',
-    'home.features.complete.desc': 'ከ12 በላይ ዘርፎችን በመሸፈን የኢትዮጵያን ባለ ሶስት አቅጣጫዊ የተሟላ ምስል ማቅረብ',
+    'home.features.complete.desc':
+      'ከ12 በላይ ዘርፎችን በመሸፈን የኢትዮጵያን ባለ ሶስት አቅጣጫዊ የተሟላ ምስል ማቅረብ',
     'home.readingPath.title': '📖 ከየት እንደሚጀምሩ አያውቁም？',
-    'home.readingPath.subtitle': 'በእነዚህ 5 አስፈላጊ ጽሑፎች ውስጥ በ30 ደቂቃ ውስጥ እውነተኛዋን ኢትዮጵያ ይወቁ',
+    'home.readingPath.subtitle':
+      'በእነዚህ 5 አስፈላጊ ጽሑፎች ውስጥ በ30 ደቂቃ ውስጥ እውነተኛዋን ኢትዮጵያ ይወቁ',
     'home.readingPath.continue': 'ተጨማሪ ርዕሶችን መፈለግዎን ይቀጥሉ →',
   },
 } as const;

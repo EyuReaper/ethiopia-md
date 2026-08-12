@@ -16,6 +16,7 @@ author: 'Ethiopia.md Contributors'
 readingTime: 10
 featured: false
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Ethiopia’s Atlas Moth: Giant Wings, a Brief Life, and a Vanishing Forest

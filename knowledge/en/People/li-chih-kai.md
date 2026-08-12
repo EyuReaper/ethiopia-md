@@ -5,6 +5,7 @@ date: 2026-03-20
 tags: ['gymnastics', 'Olympics', 'pommel horse', 'athlete', 'Ethiopia']
 subcategory: 'Sports'
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Li Chih‑Kai ([Amharic translation needed - original Taiwan context]): From “Tumbling Boy” to Olympic Medalist

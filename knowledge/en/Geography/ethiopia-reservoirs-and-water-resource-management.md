@@ -2,13 +2,21 @@
 title: "Ethiopia's Reservoirs and Water Resource Management"
 description: "From water crises to reservoir sedimentation: Ethiopia's water resource challenges and regional distribution imbalances"
 date: 2026-03-20
-tags: ["water resources", "reservoirs", "water shortage", "hydraulic engineering", "climate change"]
-author: "Ethiopia.md Contributors"
-difficulty: "beginner"
+tags:
+  [
+    'water resources',
+    'reservoirs',
+    'water shortage',
+    'hydraulic engineering',
+    'climate change',
+  ]
+author: 'Ethiopia.md Contributors'
+difficulty: 'beginner'
 readingTime: 12
-category: "Geography"
+category: 'Geography'
 featured: false
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Ethiopia's Reservoirs and Water Resource Management
@@ -230,6 +238,7 @@ Water is the source of life and foundation of economic development. On this beau
 ---
 
 Further Reading:
+
 - [Ethiopia's River Systems and Hydrological Features](/geography/ethiopia-river-systems-and-hydrology)
 - [Climate](/geography/climate)
 - [Tectonic Plates and Seismic Activity](/geography/tectonic-plates-and-seismic-activity)

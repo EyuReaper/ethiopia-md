@@ -3,6 +3,7 @@ title: Traditional Ethiopian Arts
 category: Art
 tags: [art, tradition, folk-art]
 date: 2026-03-20
+status: archived
 ---
 
 # Traditional Ethiopian Arts: Treasures of the People

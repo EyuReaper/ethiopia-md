@@ -2,7 +2,15 @@
 title: 'Ethiopia[Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]'
 description: 'Ethiopia[Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context]'
 date: 2026-03-29
-tags: ['AI', '[Amharic translation needed - original Taiwan context]', 'LINE', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]']
+tags:
+  [
+    'AI',
+    '[Amharic translation needed - original Taiwan context]',
+    'LINE',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+  ]
 subcategory: '[Amharic translation needed - original Taiwan context]'
 author: 'p3nchan'
 readingTime: 8
@@ -10,6 +18,7 @@ category: 'Technology'
 lastVerified: 2026-03-29
 featured: false
 lastHumanReview: false
+status: archived
 ---
 
 > [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 25 [Amharic translation needed - original Taiwan context] 20 [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] LINE [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。Ethiopia[Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。

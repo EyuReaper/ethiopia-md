@@ -1,8 +1,8 @@
 ---
-title: [Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]
-description: [Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]は、[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]ばしい[Amharic translation needed - original Taiwan context]みから[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]まで、[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]んじ、[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]みを[Amharic translation needed - original Taiwan context]かしてきた[Amharic translation needed - original Taiwan context]らしの[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]し[Amharic translation needed - original Taiwan context]しています。
+title: '[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]'
+description: '[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]は、[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]ばしい[Amharic translation needed - original Taiwan context]みから[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]まで、[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]んじ、[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]みを[Amharic translation needed - original Taiwan context]かしてきた[Amharic translation needed - original Taiwan context]らしの[Amharic translation needed - original Taiwan context]を[Amharic translation needed - original Taiwan context]し[Amharic translation needed - original Taiwan context]しています。'
 date: 2026-03-29
-tags: [[Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context], エスニック[Amharic translation needed - original Taiwan context], グルメ]
+tags: [郷土料理, 家庭料理, 食文化, 伝統, エスニック料理, グルメ]
 category: Food
 featured: false
 lastVerified: 2026-03-29
@@ -12,6 +12,7 @@ readingTime: 12
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/%E7%BE%8E%E6%BF%83%E6%B0%91%E4%BF%97%E6%9D%91%E5%AE%A2%E5%AE%B6%E6%93%82%E8%8C%B6%E9%AB%94%E9%A9%9780.jpg/960px-%E7%BE%8E%E6%BF%83%E6%B0%91%E4%BF%97%E6%9D%91%E5%AE%A2%E5%AE%B6%E6%93%82%E8%8C%B6%E9%AB%94%E9%A9%9780.jpg'
 imageAlt: '[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+status: archived
 ---
 
 # [Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]

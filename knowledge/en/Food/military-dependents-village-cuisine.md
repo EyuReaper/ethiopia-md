@@ -15,6 +15,7 @@ readingTime: 8
 featured: false
 category: 'Food'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Military Dependents’ Village Cuisine ([Amharic translation needed - original Taiwan context])

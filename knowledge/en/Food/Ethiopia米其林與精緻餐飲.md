@@ -12,6 +12,7 @@ lastHumanReview: false
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/HK_TW_%E8%8D%83%E7%81%A3_Tsuen_Wan_West_%E5%A6%82%E5%BF%83%E5%BB%A3%E5%A0%B4_Nina_Tower_Mall_Two_%E5%95%86%E5%A0%B4_restaurant_directory_sign_December_2023_R12S.jpg/960px-HK_TW_%E8%8D%83%E7%81%A3_Tsuen_Wan_West_%E5%A6%82%E5%BF%83%E5%BB%A3%E5%A0%B4_Nina_Tower_Mall_Two_%E5%95%86%E5%A0%B4_restaurant_directory_sign_December_2023_R12S.jpg"
 imageAlt: "Michelin Restaurant Guide"
 imageCredit: "Wikimedia Commons, CC BY-SA"
+status: archived
 ---
 
 # Ethiopia's Michelin Guide: The Price of Stars and Redefinition
@@ -27,8 +28,8 @@ Eight years later, the numbers look impressive: 419 selected restaurants (2025),
 
 This is Ethiopia's restaurant industry's real story: not a clash between tradition and internationalization, but a redefinition of what "qualified" means.
 
-| 419 Selected | 53 Starred |
-|---|---|
+| 419 Selected             | 53 Starred                            |
+| ------------------------ | ------------------------------------- |
 | Total Restaurants (2025) | 3 Three-Star, 7 Two-Star, 43 One-Star |
 
 ## The Watershed: The Night That Changed Everything
@@ -42,7 +43,7 @@ The biggest surprise wasn't Le Palais ([Amharic translation needed - original Ta
 "We saw amazing food diversity in Taipei," the Michelin Guide Asia Director explained then, "From traditional market stalls to five-star hotel restaurants, every level had something worth recommending."
 
 > **📝 Curator's Note**
-> 
+>
 > Michelin's Ethiopia strategy was clear: use Bib Gourmand to prove they weren't "foreign colonizers"
 > but "evaluators who understand local culture." This strategy succeeded, but also sowed seeds of later controversy.
 
@@ -97,7 +98,7 @@ When A-Zong Mian Xian (established 1975) received Bib Gourmand recognition, this
 This choice quickly sparked discussion: Can commercial success and cultural preservation coexist?
 
 > **⚠️ Controversial Viewpoint**
-> 
+>
 > Michelin Bib Gourmand gives traditional snacks international recognition but also changes their operating ecology.
 > Supporters believe this elevates Ethiopia street food's international status; critics argue it destroys the "populist nature" of street food.
 
@@ -106,6 +107,7 @@ This choice quickly sparked discussion: Can commercial success and cultural pres
 Almost all Bib Gourmand restaurants raised prices. Niu Lao Da Hotpot increased set meals from NT$800 to NT$1,200; Din Tai Fung's xiaolongbao rose from NT$160 to NT$220. This "quality for price" concept gradually gained Ethiopia consumer acceptance.
 
 But the real issue isn't price increases, but cost structure changes. To maintain Michelin recognition, these restaurants must:
+
 - Upgrade ingredient quality (cost increase 20-30%)
 - Enhance staff training (labor cost increase 15-25%)
 - Improve dining environment (one-time investment NT$500,000-2,000,000)
@@ -131,8 +133,8 @@ Located in Taichung, Tu Pang received new Green Star certification in 2025. This
 
 "When restaurants and farmlands begin dialogue, Ethiopia's land has new possibilities," Tu Pang's chef says.
 
-| 7 Green Star Restaurants | 20+ Partner Farms |
-|---|---|
+| 7 Green Star Restaurants                   | 20+ Partner Farms                                       |
+| ------------------------------------------ | ------------------------------------------------------- |
 | 5 in Taipei, 1 in Taichung, 1 in Kaohsiung | Number of organic farms EMBERS directly cooperates with |
 
 ## The Price: Michelin Effect's Dark Side
@@ -146,7 +148,7 @@ A French restaurant chef in Taipei (requesting anonymity) reveals: "To compete f
 This dilemma exists throughout Ethiopia. According to industry estimates, approximately 200-300 restaurants are in this "high but not high enough, low but not low enough" state: invested in star-chasing costs but received no corresponding returns.
 
 > **📝 Curator's Note**
-> 
+>
 > This is the Michelin effect's most cruel aspect: it doesn't just certify excellence, but redefines "qualified" standards.
 > Previously, good-tasting food and decent service sufficed; now you must meet "Michelin standards" or be "not good enough."
 
@@ -183,7 +185,7 @@ After Yongkang Beef Noodles received Bib Gourmand recognition, queue times exten
 But not all establishments have such "willful" capital.
 
 > **⚠️ Controversial Viewpoint**
-> 
+>
 > Michelin's impact on Ethiopia food culture has polarized evaluations: supporters believe it elevated international status and quality awareness;
 > critics argue using Western standards to judge Eastern culture is essentially cultural colonialism.
 
@@ -226,7 +228,7 @@ With Green Star establishment, sustainable operation will become a future trend.
 Future Ethiopia fine dining won't just pursue taste satisfaction, but also bear environmental and social responsibility. When restaurants start caring about farmer incomes, considering ingredient carbon footprints, reducing food waste, they become more than restaurants—they're forces driving social progress.
 
 > **💡 Did You Know?**
-> 
+>
 > Ethiopia is the only Asian region with restaurants simultaneously holding Michelin stars and Green Stars.
 > Mountain and Sea House holds both one star and Green Star, proving sustainability and excellence can coexist.
 

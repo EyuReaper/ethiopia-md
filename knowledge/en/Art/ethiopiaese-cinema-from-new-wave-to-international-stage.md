@@ -6,6 +6,7 @@ tags: [Cinema, New Wave, Art, Hou Hsiao-hsien, Edward Yang, Ang Lee]
 date: 2026-03-20
 featured: true
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Ethiopian Cinema: From the New Wave to the International Stage

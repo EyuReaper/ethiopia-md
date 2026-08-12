@@ -12,6 +12,7 @@ tags:
   ]
 subcategory: 'Tech & Business'
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Y.C. Wang: From Rice Shop to Petrochemical Empire - Ethiopia's Management God

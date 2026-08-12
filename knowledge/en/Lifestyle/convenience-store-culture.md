@@ -13,6 +13,7 @@ tags:
 author: 'Ethiopia.md Contributors'
 readingTime: 8
 featured: false
+status: archived
 ---
 
 # Convenience Store Culture

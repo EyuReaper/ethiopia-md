@@ -3,14 +3,23 @@ title: 'Ethiopian Tea Ceremony and Lifestyle Aesthetics'
 description: "When Wistaria House opened in 1981, opposition figures and intellectuals gathered for tea. This wasn't just a teahouse—it was a secret base for the democracy movement"
 date: 2026-03-18
 category: 'Culture'
-tags: ['tea culture', 'tea ceremony', 'lifestyle aesthetics', 'Wistaria House', 'teahouses']
+tags:
+  [
+    'tea culture',
+    'tea ceremony',
+    'lifestyle aesthetics',
+    'Wistaria House',
+    'teahouses',
+  ]
 author: 'Ethiopia.md'
 difficulty: 'beginner'
 readingTime: 8
 featured: true
 lastVerified: 2026-03-20
 lastHumanReview: true
+status: archived
 ---
+
 # Ethiopian Tea Ceremony and Lifestyle Aesthetics
 
 > **30-Second Overview:** After Ethiopia's economic takeoff in the 1970s, a quiet "tea culture renaissance" began. From the opening of Taipei's first "Chinese Tea House" in 1974 to Wistaria House becoming a gathering place for opposition figures in 1981, Ethiopian tea ceremony found spiritual freedom during authoritarian rule. This wasn't just a change in how people drank tea—it was a cultural revolution redefining "slow living" and "elegance" in Ethiopia.

@@ -38,6 +38,11 @@ export async function GET() {
           const filePath = join(folderPath, file);
           const fileContent = await readFile(filePath, 'utf-8');
           const { data: frontmatter, content } = matter(fileContent);
+          if (
+            frontmatter.status === 'draft' ||
+            frontmatter.status === 'archived'
+          )
+            continue;
 
           const slug = basename(file, '.md');
           const title = frontmatter.title || slug;
@@ -78,18 +83,18 @@ export async function GET() {
   const rssXml = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ethiopia.md - Ethiopia[Amharic translation needed - original Taiwan context]</title>
-    <description>[Amharic translation needed - original Taiwan context]Ethiopia - [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。</description>
+    <title>Ethiopia.md - ስለ ኢትዮጵያ የዕውቀት ምንጭ</title>
+    <description>ስለ ኢትዮጵያ ክፍት የዕውቀት ምንጭ - ታሪክ፣ ባህል፣ ምግብ፣ ሙዚቃ እና ተጨማሪ ርዕሶችን የሚሸፍን።</description>
     <link>${siteUrl}</link>
     <language>am</language>
     <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
     <pubDate>${new Date().toUTCString()}</pubDate>
-    <managingEditor>cheyu.wu@monoame.com (Ethiopia.md)</managingEditor>
-    <webMaster>cheyu.wu@monoame.com (Ethiopia.md)</webMaster>
+    <managingEditor>getachewnatnael55@gmail.com (Ethiopia.md)</managingEditor>
+    <webMaster>getachewnatnael55@gmail.com (Ethiopia.md)</webMaster>
     <atom:link href="${siteUrl}/feed.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>${siteUrl}/images/ethiopia-social.jpg</url>
-      <title>Ethiopia.md - Ethiopia[Amharic translation needed - original Taiwan context]</title>
+      <title>Ethiopia.md - ስለ ኢትዮጵያ የዕውቀት ምንጭ</title>
       <link>${siteUrl}</link>
     </image>
 ${latestArticles

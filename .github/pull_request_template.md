@@ -1,6 +1,5 @@
 ## 📝 ይህ PR ምን አደረገ?
 
-
 ## 📁 ዓይነት ለውጥ
 
 - [ ] 📄 አዲስ ጽሑፍ ያክሉ
@@ -11,6 +10,7 @@
 - [ ] 📚 የፋይል ዝማኔዎች (README፣ CONTRIBUTING፣ ወዘተ.)
 
 ## ✅ ራስን መመርመር
+
 - [ ] ጽሑፉ የተሟላ የፊት ጉዳይ አለው (ርዕስ፣ መግለጫ፣ ቀን፣ መለያዎች፣ ምድብ)
 - [ ] `featured: false`(ተለይቶ የቀረበ በጠባቂዎች ነው የሚተዳደረው፣ እባክዎን ወደ እውነት አያስቀምጡት)，
 - [ ] ይዘቱ ከተረጋገጡ የማጣቀሻ ምንጮች ጋር አብሮ ነው.
@@ -19,9 +19,8 @@
 
 ## 🔗 ተዛማጅ ጉዳዮች Issue
 
-
 Closes #
 
 ## 📸 ቅጽበታዊ ገጽ እይታዎች (የእይታ ለውጦች ከሆኑ)
 
-<!-- [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context] -->
+<!-- Drag and drop screenshots here, or paste image links -->

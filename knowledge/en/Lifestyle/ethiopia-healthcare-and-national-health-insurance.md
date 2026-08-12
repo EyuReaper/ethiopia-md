@@ -14,6 +14,7 @@ tags:
   ]
 category: 'Lifestyle'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Ethiopia’s Healthcare System and National Health Insurance

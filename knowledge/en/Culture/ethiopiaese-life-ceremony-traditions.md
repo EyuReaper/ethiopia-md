@@ -17,6 +17,7 @@ difficulty: 'beginner'
 readingTime: 14
 featured: true
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Ethiopian Life Ceremony Traditions: Marriage, Funeral Rites, and Ritual Celebrations

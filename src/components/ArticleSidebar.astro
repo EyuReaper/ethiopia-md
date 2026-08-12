@@ -5,6 +5,7 @@
  */
 import { useTranslatedPath, useTranslations } from '../i18n/utils';
 import type { Locale } from '../i18n/ui';
+import { formatDate } from '../utils/dateFormat';
 
 interface Props {
   title: string;
@@ -44,41 +45,30 @@ const articleUrl = `https://ethiopia.md${langPrefix}/${category}/${slug}`;
 const encodedUrl = encodeURIComponent(articleUrl);
 const encodedTitle = encodeURIComponent(title);
 
-// Locale-aware date formatting
-const dateLocale = lang === 'am' ? 'am' : 'en-US';
-const dateOpts: Intl.DateTimeFormatOptions = {
-  year: 'numeric',
-  month: 'long',
-  day: 'numeric',
-};
-
-const displayDate = date
-  ? new Date(date).toLocaleDateString(dateLocale, dateOpts)
-  : null;
-const displayModified = lastModified
-  ? new Date(lastModified).toLocaleDateString(dateLocale, dateOpts)
-  : null;
+// Locale-aware date formatting (Ethiopian calendar for 'am', Gregorian for 'en')
+const displayDate = date ? formatDate(date, lang) : null;
+const displayModified = lastModified ? formatDate(lastModified, lang) : null;
 
 // i18n labels
 const readingTimeLabel =
-  lang === 'am' ? `${readingTime} [Amharic translation needed - original Taiwan context]` : `${readingTime} min read`;
+  lang === 'am' ? `${readingTime} ደቂቃ ንባብ` : `${readingTime} min read`;
 
-const updatedLabel = lang === 'am' ? '[Amharic translation needed - original Taiwan context]' : 'Updated';
-const keywordsLabel = lang === 'am' ? '[Amharic translation needed - original Taiwan context]' : 'Tags';
+const updatedLabel = lang === 'am' ? 'የተዘመነው' : 'Updated';
+const keywordsLabel = lang === 'am' ? 'መለያዎች' : 'Tags';
 const shareLabel = t('article.share');
 const copyLinkLabel = t('article.copyLink');
 const copiedLabel = t('article.copied');
 
 const revisionLabel =
-  lang === 'am' ? `[Amharic translation needed - original Taiwan context] ${revisionCount} [Amharic translation needed - original Taiwan context]` : `${revisionCount} Revisions`;
+  lang === 'am' ? `ጠቅላላ ${revisionCount} ክለሳዎች` : `${revisionCount} Revisions`;
 const hashLabel =
   lang === 'am'
-    ? `[Amharic translation needed - original Taiwan context] ${commitHash.substring(0, 7)}`
+    ? `ኮሚት ${commitHash.substring(0, 7)}`
     : `Commit ${commitHash.substring(0, 7)}`;
 
-const shareXLabel = lang === 'am' ? '[Amharic translation needed - original Taiwan context] X' : 'Share on X';
-const shareFBLabel = lang === 'am' ? '[Amharic translation needed - original Taiwan context] Facebook' : 'Share on Facebook';
-const shareLINELabel = lang === 'am' ? '[Amharic translation needed - original Taiwan context] LINE' : 'Share on LINE';
+const shareXLabel = lang === 'am' ? 'በX ላይ አጋራ' : 'Share on X';
+const shareFBLabel = lang === 'am' ? 'በFacebook ላይ አጋራ' : 'Share on Facebook';
+const shareLINELabel = lang === 'am' ? 'በLINE ላይ አጋራ' : 'Share on LINE';
 ---
 
 <aside class="article-sidebar">
@@ -193,7 +183,7 @@ const shareLINELabel = lang === 'am' ? '[Amharic translation needed - original T
             </>
           </svg>
           <a
-            href={`https://github.com/frank890417/ethiopia-md/commit/${commitHash}`}
+            href={`https://github.com/EyuReaper/ethiopia-md/commit/${commitHash}`}
             target="_blank"
             rel="noopener noreferrer"
             class="commit-link"
@@ -204,10 +194,24 @@ const shareLINELabel = lang === 'am' ? '[Amharic translation needed - original T
       )
     }
     <div class="meta-row meta-row--subtle">
-      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
-        <circle cx="12" cy="12" r="10" /><line x1="2" y1="12" x2="22" y2="12" /><path d="M12 2a15.3 15.3 0 014 10 15.3 15.3 0 01-4 10 15.3 15.3 0 01-4-10 15.3 15.3 0 014-10z" />
+      <svg
+        width="14"
+        height="14"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="2"
+        aria-hidden="true"
+      >
+        <circle cx="12" cy="12" r="10"></circle><line
+          x1="2"
+          y1="12"
+          x2="22"
+          y2="12"></line><path
+          d="M12 2a15.3 15.3 0 014 10 15.3 15.3 0 01-4 10 15.3 15.3 0 01-4-10 15.3 15.3 0 014-10z"
+        ></path>
       </svg>
-      <span>{lang === 'am' ? '[Amharic translation needed - original Taiwan context]' : 'English'}</span>
+      <span>{lang === 'am' ? 'አማርኛ' : 'English'}</span>
     </div>
   </div>
 
@@ -319,7 +323,7 @@ const shareLINELabel = lang === 'am' ? '[Amharic translation needed - original T
   {
     contributors.length > 0 && (
       <div class="sidebar-block">
-        <p class="sidebar-label">[Amharic translation needed - original Taiwan context]</p>
+        <p class="sidebar-label">አስተዋፅዖ አድራጊዎች</p>
         <div class="contributor-list">
           {contributors.map((name) => (
             <a
@@ -477,10 +481,10 @@ const shareLINELabel = lang === 'am' ? '[Amharic translation needed - original T
       navigator.clipboard
         .writeText(window.location.href)
         .then(() => {
-          if (textEl) textEl.textContent = '[Amharic translation needed - original Taiwan context]';
+          if (textEl) textEl.textContent = 'ተቀድቷል!';
           btn.style.color = '#006D77';
           setTimeout(() => {
-            if (textEl) textEl.textContent = '[Amharic translation needed - original Taiwan context]';
+            if (textEl) textEl.textContent = 'ሊንኩን ቅዳ';
             btn.style.color = '';
           }, 2200);
         })
@@ -491,9 +495,9 @@ const shareLINELabel = lang === 'am' ? '[Amharic translation needed - original T
           ta.select();
           document.execCommand('copy');
           document.body.removeChild(ta);
-          if (textEl) textEl.textContent = '[Amharic translation needed - original Taiwan context]';
+          if (textEl) textEl.textContent = 'ተቀድቷል!';
           setTimeout(() => {
-            if (textEl) textEl.textContent = '[Amharic translation needed - original Taiwan context]';
+            if (textEl) textEl.textContent = 'ሊንኩን ቅዳ';
           }, 2200);
         });
     });

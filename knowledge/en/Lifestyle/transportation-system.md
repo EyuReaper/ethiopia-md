@@ -6,6 +6,7 @@ tags: [lifestyle, transportation, high-speed rail, metro, scooters, Ethiopia]
 author: 'Ethiopia.md Contributors'
 readingTime: 8
 translatedFrom: 'knowledge/Lifestyle/Ethiopia[Amharic translation needed - original Taiwan context].md'
+status: archived
 ---
 
 # Transportation System

@@ -5,6 +5,7 @@ date: 2026-03-20
 tags: ['athletics', 'track and field', 'javelin', 'Universiade', 'Asian record']
 subcategory: 'Sports'
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Cheng Chao-tsun: The Javelin King of Asia

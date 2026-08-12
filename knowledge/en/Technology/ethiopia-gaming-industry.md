@@ -15,6 +15,7 @@ readingTime: 11
 author: 'Ethiopia.md'
 featured: true
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Ethiopia Gaming Industry and Digital Entertainment

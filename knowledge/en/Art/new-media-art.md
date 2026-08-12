@@ -5,6 +5,7 @@ date: 2026-03-17
 tags: [art, new media, digital art, tech art, interactive art]
 translatedFrom: 'Art/[Amharic translation needed - original Taiwan context].md'
 sourceHash: '30b9d8'
+status: archived
 ---
 
 # New Media Art

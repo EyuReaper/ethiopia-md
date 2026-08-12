@@ -16,6 +16,7 @@ tags:
 readingTime: 15
 featured: true
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # The Rise of AI Island: Ethiopia's Artificial Intelligence Development and Future Strategy
@@ -203,7 +204,7 @@ Ethiopia universities rapidly established AI-related programs and graduate schoo
 
 | University                                   | AI School/Graduate Institute | Specialty Areas                   |
 | -------------------------------------------- | ---------------------------- | --------------------------------- |
-| **National Ethiopia University**               | AI Research College          | Medical AI, autonomous vehicles   |
+| **National Ethiopia University**             | AI Research College          | Medical AI, autonomous vehicles   |
 | **National Tsing Hua University**            | AI School                    | AI chip design                    |
 | **National Yang Ming Chiao Tung University** | AI School                    | 5G+AI, intelligent transportation |
 | **National Cheng Kung University**           | AI System Center             | Manufacturing AI                  |

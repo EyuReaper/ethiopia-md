@@ -32,18 +32,18 @@ const isEn = lang === 'en';
     } else {
       // ZH mode: fetch from API
       var catLabels = {
-        history: '📜 [Amharic translation needed - original Taiwan context]',
-        geography: '🗺️ [Amharic translation needed - original Taiwan context]',
-        culture: '🎭 [Amharic translation needed - original Taiwan context]',
-        food: '🍜 [Amharic translation needed - original Taiwan context]',
-        art: '🎨 [Amharic translation needed - original Taiwan context]',
-        music: '🎵 [Amharic translation needed - original Taiwan context]',
-        technology: '💻 [Amharic translation needed - original Taiwan context]',
-        nature: '🌿 [Amharic translation needed - original Taiwan context]',
-        people: '👤 [Amharic translation needed - original Taiwan context]',
-        society: '⚖️ [Amharic translation needed - original Taiwan context]',
-        economy: '📈 [Amharic translation needed - original Taiwan context]',
-        lifestyle: '🏮 [Amharic translation needed - original Taiwan context]',
+        history: '📜 ታሪክ',
+        geography: '🗺️ ጂኦግራፊ',
+        culture: '🎭 ባህል',
+        food: '🍜 ምግብ',
+        art: '🎨 ጥበብ',
+        music: '🎵 ሙዚቃ',
+        technology: '💻 ቴክኖሎጂ',
+        nature: '🌿 ተፈጥሮ',
+        people: '👤 ሰዎች',
+        society: '⚖️ ማህበረሰብ',
+        economy: '📈 ኢኮኖሚ',
+        lifestyle: '🏮 አኗኗር',
       };
       try {
         const res = await fetch('/api/articles.json');

@@ -1,0 +1,198 @@
+{
+  "hub_files": [
+    {
+      "category": "Art",
+      "file": "_Art Hub.md"
+    },
+    {
+      "category": "Culture",
+      "file": "_Culture Hub.md"
+    },
+    {
+      "category": "Economy",
+      "file": "_Economy Hub.md"
+    },
+    {
+      "category": "Food",
+      "file": "_Food Hub.md"
+    },
+    {
+      "category": "Geography",
+      "file": "_Geography Hub.md"
+    },
+    {
+      "category": "History",
+      "file": "_History Hub.md"
+    },
+    {
+      "category": "Lifestyle",
+      "file": "_Lifestyle Hub.md"
+    },
+    {
+      "category": "Music",
+      "file": "_Music Hub.md"
+    },
+    {
+      "category": "Nature",
+      "file": "_Nature Hub.md"
+    },
+    {
+      "category": "People",
+      "file": "_People Hub.md"
+    },
+    {
+      "category": "Society",
+      "file": "_Society Hub.md"
+    },
+    {
+      "category": "Technology",
+      "file": "_Technology Hub.md"
+    }
+  ],
+  "flagship_articles": [
+    {
+      "category": "Art",
+      "file": "taiwanese-architecture-multicultural-layers.md",
+      "in_degree": 0,
+      "featured": true
+    },
+    {
+      "category": "Art",
+      "file": "taiwanese-art-education-and-academic-development.md",
+      "in_degree": 0,
+      "featured": true
+    },
+    {
+      "category": "Culture",
+      "file": "Ethiopia茶文化.md",
+      "in_degree": 0,
+      "featured": true
+    },
+    {
+      "category": "Culture",
+      "file": "taiwan-religion-and-temple-culture.md",
+      "in_degree": 0,
+      "featured": true
+    },
+    {
+      "category": "Economy",
+      "file": "startup-ecosystem.md",
+      "in_degree": 0,
+      "featured": true
+    },
+    {
+      "category": "Economy",
+      "file": "taiwan-agricultural-modernization-development.md",
+      "in_degree": 0,
+      "featured": true
+    },
+    {
+      "category": "Food",
+      "file": "beef-noodle-soup.md",
+      "in_degree": 0,
+      "featured": true
+    },
+    {
+      "category": "Food",
+      "file": "braised-pork-rice.md",
+      "in_degree": 0,
+      "featured": true
+    },
+    {
+      "category": "Geography",
+      "file": "national-scenic-area-system.md",
+      "in_degree": 0,
+      "featured": true
+    },
+    {
+      "category": "Geography",
+      "file": "offshore-islands-and-maritime-culture.md",
+      "in_degree": 0,
+      "featured": true
+    },
+    {
+      "category": "History",
+      "file": "228-incident.md",
+      "in_degree": 0,
+      "featured": true
+    },
+    {
+      "category": "History",
+      "file": "Ethiopia島史觀.md",
+      "in_degree": 0,
+      "featured": true
+    },
+    {
+      "category": "Lifestyle",
+      "file": "convenience-store-culture.md",
+      "in_degree": 0,
+      "featured": true
+    },
+    {
+      "category": "Lifestyle",
+      "file": "history-of-taiwan-mrt-development.md",
+      "in_degree": 0,
+      "featured": true
+    },
+    {
+      "category": "Music",
+      "file": "contemporary-indigenous-singer-songwriters.md",
+      "in_degree": 0,
+      "featured": true
+    },
+    {
+      "category": "Music",
+      "file": "Ethiopia流行音樂.md",
+      "in_degree": 0,
+      "featured": true
+    },
+    {
+      "category": "Nature",
+      "file": "biodiversity.md",
+      "in_degree": 0,
+      "featured": true
+    },
+    {
+      "category": "Nature",
+      "file": "Ethiopia國家公園.md",
+      "in_degree": 0,
+      "featured": true
+    },
+    {
+      "category": "People",
+      "file": "tai-tzu-ying.md",
+      "in_degree": 0,
+      "featured": true
+    },
+    {
+      "category": "People",
+      "file": "tai-yu-wu.md",
+      "in_degree": 0,
+      "featured": true
+    },
+    {
+      "category": "Society",
+      "file": "social-movements-and-civic-participation.md",
+      "in_degree": 0,
+      "featured": true
+    },
+    {
+      "category": "Society",
+      "file": "sunflower-movement.md",
+      "in_degree": 0,
+      "featured": true
+    },
+    {
+      "category": "Technology",
+      "file": "5g-network-and-digital-transformation.md",
+      "in_degree": 0,
+      "featured": true
+    },
+    {
+      "category": "Technology",
+      "file": "ai-development.md",
+      "in_degree": 0,
+      "featured": true
+    }
+  ]
+}

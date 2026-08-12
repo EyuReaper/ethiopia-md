@@ -16,6 +16,7 @@ readingTime: 15
 featured: true
 category: 'Music'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Ethiopia’s Music Industry in the Streaming Era: From Record Stores to Platforms

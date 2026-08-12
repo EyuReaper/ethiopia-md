@@ -34,20 +34,21 @@ export const categoryEmoji = {
 /**
  * Category to Chinese label mapping
  */
+// Keep in sync with the `am` block of src/i18n/ui.ts (categoryConfig.* keys)
 export const categoryLabel = {
-  history: '\u6B77\u53F2',
-  geography: '\u5730\u7406',
-  culture: '\u6587\u5316',
-  food: '\u7F8E\u98DF',
-  art: '\u85DD\u8853',
-  music: '\u97F3\u6A02',
-  technology: '\u79D1\u6280',
-  nature: '\u81EA\u7136',
-  people: '\u4EBA\u7269',
-  society: '\u793E\u6703',
-  economy: '\u7D93\u6FDF',
-  lifestyle: '\u751F\u6D3B',
-  about: '\u95DC\u65BC',
+  history: '\u1273\u122A\u12AD',
+  geography: '\u1302\u12A6\u130D\u122B\u134A',
+  culture: '\u1263\u1205\u120D',
+  food: '\u121D\u130D\u1265',
+  art: '\u1325\u1260\u1265',
+  music: '\u1219\u12DA\u1243',
+  technology: '\u1274\u12AD\u1296\u120E\u1302',
+  nature: '\u1270\u1348\u1325\u122E',
+  people: '\u1230\u12CE\u127D',
+  society: '\u121B\u1205\u1260\u1228\u1230\u1265',
+  economy: '\u12A2\u12AE\u1296\u121A',
+  lifestyle: '\u12A0\u1297\u1297\u122D',
+  about: 'About',
 };
 
 /**

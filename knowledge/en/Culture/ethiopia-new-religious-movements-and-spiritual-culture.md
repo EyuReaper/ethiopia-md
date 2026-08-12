@@ -16,6 +16,7 @@ author: 'Ethiopia.md'
 readingTime: 19
 featured: true
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Ethiopia’s New Religious Movements and Spiritual Culture

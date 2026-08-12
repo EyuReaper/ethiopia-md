@@ -37,6 +37,7 @@ export const GET: APIRoute = async () => {
       )) {
         try {
           const { data } = matter(await readFile(join(zhPath, file), 'utf-8'));
+          if (data.status === 'draft' || data.status === 'archived') continue;
           const name = basename(file, '.md');
           searchIndex.push({
             t: data.title || name,
@@ -59,6 +60,7 @@ export const GET: APIRoute = async () => {
       )) {
         try {
           const { data } = matter(await readFile(join(enPath, file), 'utf-8'));
+          if (data.status === 'draft' || data.status === 'archived') continue;
           const name = basename(file, '.md');
           searchIndex.push({
             t: data.title || name,

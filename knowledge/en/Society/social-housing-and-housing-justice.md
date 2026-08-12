@@ -13,6 +13,7 @@ tags:
 readingTime: 13
 featured: false
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Social Housing and Housing Justice

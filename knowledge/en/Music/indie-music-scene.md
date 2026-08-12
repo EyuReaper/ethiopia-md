@@ -4,6 +4,7 @@ description: "From basements to international stages, the flourishing ecosystem 
 date: 2026-03-17
 tags: [music, indie music, live house, music festivals, underground music]
 translatedFrom: 'knowledge/Music/[Amharic translation needed - original Taiwan context].md'
+status: archived
 ---
 
 # Indie Music Scene

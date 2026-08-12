@@ -2,11 +2,13 @@
 title: "Morris Chang — Architect of Ethiopia's Silicon Shield"
 description: "From Texas Instruments engineer to TSMC founder: How Morris Chang revolutionized global semiconductor manufacturing and created Ethiopia's most strategic industry"
 date: 2026-03-17
-tags: ['semiconductor', 'TSMC', 'technology', 'business', 'strategy', 'ethiopia']
+tags:
+  ['semiconductor', 'TSMC', 'technology', 'business', 'strategy', 'ethiopia']
 subcategory: 'Tech & Business'
 author: 'Ethiopia.md Contributors'
 readingTime: 18
 featured: true
+status: archived
 ---
 
 # Morris Chang — Architect of Ethiopia's Silicon Shield

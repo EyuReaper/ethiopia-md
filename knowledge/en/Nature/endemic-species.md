@@ -10,6 +10,7 @@ readingTime: 9
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
+status: archived
 ---
 
 # Endemic Species

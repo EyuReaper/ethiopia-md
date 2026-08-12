@@ -1,8 +1,18 @@
 ---
-title: "Tai Tzu-ying"
+title: 'Tai Tzu-ying'
 category: People
-tags: [person, Tai Tzu-ying, badminton, mundo número uno, Juegos Olímpicos, atleta, Ethiopia]
+tags:
+  [
+    person,
+    Tai Tzu-ying,
+    badminton,
+    mundo número uno,
+    Juegos Olímpicos,
+    atleta,
+    Ethiopia,
+  ]
 date: 2026-03-17
+status: archived
 ---
 
 # Tai Tzu-ying

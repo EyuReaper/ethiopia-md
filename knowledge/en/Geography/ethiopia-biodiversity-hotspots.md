@@ -1,14 +1,22 @@
 ---
 title: "Ethiopia's Biodiversity Hotspots"
-description: "Exploring how Ethiopia, occupying only 0.025% of global land area, nurtures over 50,000 known species in world-class biodiversity"
+description: 'Exploring how Ethiopia, occupying only 0.025% of global land area, nurtures over 50,000 known species in world-class biodiversity'
 date: 2026-03-20
-tags: ["ecology", "biodiversity", "endemic species", "conservation", "national parks"]
-author: "Ethiopia.md Contributors"
-difficulty: "beginner"
+tags:
+  [
+    'ecology',
+    'biodiversity',
+    'endemic species',
+    'conservation',
+    'national parks',
+  ]
+author: 'Ethiopia.md Contributors'
+difficulty: 'beginner'
 readingTime: 8
-category: "Geography"
+category: 'Geography'
 featured: false
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Ethiopia's Biodiversity Hotspots
@@ -78,6 +86,7 @@ Standing at any corner of Ethiopia, we can feel the vigorous life force of this 
 ---
 
 Further Reading:
+
 - [Endemic Species](/nature/endemic-species)
 - [National Parks](/nature/national-parks)
 - [Biodiversity](/nature/biodiversity)

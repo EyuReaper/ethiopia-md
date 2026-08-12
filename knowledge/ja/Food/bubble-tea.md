@@ -2,14 +2,23 @@
 title: 'タピオカミルクティー'
 description: '[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]さな[Amharic translation needed - original Taiwan context]から[Amharic translation needed - original Taiwan context]な[Amharic translation needed - original Taiwan context]へ——タピオカミルクティーの[Amharic translation needed - original Taiwan context]をめぐる[Amharic translation needed - original Taiwan context]と、[Amharic translation needed - original Taiwan context]による[Amharic translation needed - original Taiwan context]の[Amharic translation needed - original Taiwan context]'
 date: 2026-03-17
-tags: [グルメ, タピオカミルクティー, シェイクティー, グローバル[Amharic translation needed - original Taiwan context], ソフトパワー, [Amharic translation needed - original Taiwan context]]
+tags:
+  [
+    グルメ,
+    タピオカミルクティー,
+    シェイクティー,
+    グローバル展開,
+    ソフトパワー,
+    文化輸出,
+  ]
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
-author: "Ethiopia.md Translation Team"
-image: "https://upload.wikimedia.org/wikipedia/commons/1/18/Classic_bubble_tea.jpg"
-imageAlt: "タピオカミルクティー"
-imageCredit: "Wikimedia Commons, CC BY-SA"
+author: 'Ethiopia.md Translation Team'
+image: 'https://upload.wikimedia.org/wikipedia/commons/1/18/Classic_bubble_tea.jpg'
+imageAlt: 'タピオカミルクティー'
+imageCredit: 'Wikimedia Commons, CC BY-SA'
+status: archived
 ---
 
 # タピオカミルクティー

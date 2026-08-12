@@ -1,38 +1,38 @@
 #!/bin/bash
-# Ethiopia.md [Amharic translation needed - original Taiwan context]
-# [Amharic translation needed - original Taiwan context]：knowledge/ SSOT → src/content/ + frontmatter [Amharic translation needed - original Taiwan context]
-# [Amharic translation needed - original Taiwan context]：bash scripts/sync.sh
+# Ethiopia.md sync script
+# Purpose: knowledge/ SSOT → src/content/ + frontmatter fix
+# Usage: bash scripts/sync.sh
 
-set -e  # [Amharic translation needed - original Taiwan context]
+set -e  # Exit on error
 
-echo "🚀 Ethiopia.md [Amharic translation needed - original Taiwan context]..."
+echo "🚀 Ethiopia.md sync starting..."
 echo "================================================="
 
-# 1. [Amharic translation needed - original Taiwan context] knowledge/ SSOT [Amharic translation needed - original Taiwan context] src/content/ [Amharic translation needed - original Taiwan context]
+# 1. Sync knowledge/ SSOT into src/content/
 echo ""
-echo "🔄 [Amharic translation needed - original Taiwan context] 1/2: [Amharic translation needed - original Taiwan context] knowledge/ → src/content/..."
+echo "🔄 Step 1/2: syncing knowledge/ → src/content/..."
 
-# [Amharic translation needed - original Taiwan context]
-echo "📁 [Amharic translation needed - original Taiwan context]..."
+# Create target directories
+echo "📁 Creating directories..."
 mkdir -p src/content/am/{about,art,culture,economy,food,geography,history,lifestyle,music,nature,people,society,technology,resources}
 mkdir -p src/content/en/{about,art,culture,economy,food,geography,history,lifestyle,music,nature,people,society,technology,resources}
 
-# [Amharic translation needed - original Taiwan context]
+# Count files
 KNOWLEDGE_COUNT=$(find knowledge/ -name "*.md" | wc -l)
 CONTENT_BEFORE=$(find src/content/ -name "*.md" | wc -l)
 
-echo "📊 knowledge/ [Amharic translation needed - original Taiwan context]: $KNOWLEDGE_COUNT"
-echo "📊 [Amharic translation needed - original Taiwan context] src/content/ [Amharic translation needed - original Taiwan context]: $CONTENT_BEFORE"
+echo "📊 knowledge/ file count: $KNOWLEDGE_COUNT"
+echo "📊 src/content/ file count before sync: $CONTENT_BEFORE"
 
-# [Amharic translation needed - original Taiwan context]
-echo "📄 [Amharic translation needed - original Taiwan context]..."
+# Sync homepage
+echo "📄 Syncing homepage..."
 if [ -f "knowledge/_Home.md" ]; then
     cp "knowledge/_Home.md" "src/content/am/_Home.md"
     echo "  ✅ _Home.md"
 fi
 
-# [Amharic translation needed - original Taiwan context]
-echo "🇪🇹 [Amharic translation needed - original Taiwan context]..."
+# Sync Amharic (SSOT) articles
+echo "🇪🇹 Syncing Amharic (SSOT) articles..."
 SYNCED_COUNT=0
 for category in About Art Culture Economy Food Geography History Lifestyle Music Nature People Society Technology; do
   if [ -d "knowledge/$category" ]; then
@@ -41,8 +41,8 @@ for category in About Art Culture Economy Food Geography History Lifestyle Music
       if [ -f "$file" ]; then
         filename=$(basename "$file")
         target_file="src/content/am/$lowercase_category/$filename"
-        
-        # [Amharic translation needed - original Taiwan context]（SSOT [Amharic translation needed - original Taiwan context]）
+
+        # Copy file (knowledge/ is the SSOT — always overwrite)
         cp "$file" "$target_file"
         echo "  ✅ $category/$filename"
         ((SYNCED_COUNT++))
@@ -51,8 +51,8 @@ for category in About Art Culture Economy Food Geography History Lifestyle Music
   fi
 done
 
-# [Amharic translation needed - original Taiwan context] resources [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
-echo "📚 [Amharic translation needed - original Taiwan context] resources [Amharic translation needed - original Taiwan context]..."
+# Sync resources articles (shared across languages)
+echo "📚 Syncing resources articles..."
 for resource_dir in "knowledge/resources" "knowledge/am/resources"; do
   if [ -d "$resource_dir" ]; then
     for file in $resource_dir/*.md; do
@@ -67,8 +67,8 @@ for resource_dir in "knowledge/resources" "knowledge/am/resources"; do
   fi
 done
 
-# [Amharic translation needed - original Taiwan context]
-echo "🇺🇸 [Amharic translation needed - original Taiwan context]..."
+# Sync English translations
+echo "🇺🇸 Syncing English translations..."
 if [ -d "knowledge/en" ]; then
   for category in About Art Culture Economy Food Geography Lifestyle Music People History Nature Society Technology; do
     if [ -d "knowledge/en/$category" ]; then
@@ -84,8 +84,8 @@ if [ -d "knowledge/en" ]; then
       done
     fi
   done
-  
-  # [Amharic translation needed - original Taiwan context] resources
+
+  # Sync English resources
   if [ -d "knowledge/en/resources" ]; then
     for file in knowledge/en/resources/*.md; do
       if [ -f "$file" ]; then
@@ -99,44 +99,44 @@ if [ -d "knowledge/en" ]; then
   fi
 fi
 
-# [Amharic translation needed - original Taiwan context]
+# Post-sync count
 CONTENT_AFTER_SYNC=$(find src/content/ -name "*.md" | wc -l)
 
 echo ""
-echo "🎉 [Amharic translation needed - original Taiwan context] 1 [Amharic translation needed - original Taiwan context]！[Amharic translation needed - original Taiwan context]"
-echo "📊 [Amharic translation needed - original Taiwan context] src/content/ [Amharic translation needed - original Taiwan context]: $CONTENT_AFTER_SYNC"
-echo "📊 [Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]: $((CONTENT_AFTER_SYNC - CONTENT_BEFORE))"
+echo "🎉 Step 1 done! knowledge/ synced into src/content/"
+echo "📊 src/content/ file count now: $CONTENT_AFTER_SYNC"
+echo "📊 files added/changed: $((CONTENT_AFTER_SYNC - CONTENT_BEFORE))"
 
-# 2. [Amharic translation needed - original Taiwan context] frontmatter
+# 2. Fix frontmatter
 echo ""
-echo "🔧 [Amharic translation needed - original Taiwan context] 2/2: [Amharic translation needed - original Taiwan context] frontmatter..."
+echo "🔧 Step 2/2: fixing frontmatter..."
 
-# [Amharic translation needed - original Taiwan context] Python [Amharic translation needed - original Taiwan context] frontmatter
+# Run the Python frontmatter fixer
 if [ -f "scripts/utils/fix-all-frontmatter.py" ]; then
-    echo "🐍 [Amharic translation needed - original Taiwan context] frontmatter [Amharic translation needed - original Taiwan context]..."
+    echo "🐍 Running frontmatter fixer..."
     python3 scripts/utils/fix-all-frontmatter.py
-    echo "  ✅ frontmatter [Amharic translation needed - original Taiwan context]"
+    echo "  ✅ frontmatter fixed"
 else
-    echo "  ⚠️  [Amharic translation needed - original Taiwan context] fix-all-frontmatter.py，[Amharic translation needed - original Taiwan context] frontmatter [Amharic translation needed - original Taiwan context]"
+    echo "  ⚠️  fix-all-frontmatter.py not found, skipping frontmatter fix"
 fi
 
-# [Amharic translation needed - original Taiwan context]
+# Final count
 CONTENT_FINAL=$(find src/content/ -name "*.md" | wc -l)
 
 echo ""
-echo "🎊 Ethiopia.md [Amharic translation needed - original Taiwan context]！"
+echo "🎊 Ethiopia.md sync complete!"
 echo "================================================="
-echo "📊 knowledge/ [Amharic translation needed - original Taiwan context]: $KNOWLEDGE_COUNT"
-echo "📊 [Amharic translation needed - original Taiwan context] src/content/ [Amharic translation needed - original Taiwan context]: $CONTENT_FINAL"
-echo "🔄 [Amharic translation needed - original Taiwan context]: $SYNCED_COUNT"
+echo "📊 knowledge/ file count: $KNOWLEDGE_COUNT"
+echo "📊 src/content/ file count: $CONTENT_FINAL"
+echo "🔄 files synced: $SYNCED_COUNT"
 echo ""
-echo "✨ knowledge/ SSOT → src/content/ [Amharic translation needed - original Taiwan context]"
-echo "🔧 frontmatter [Amharic translation needed - original Taiwan context]"
+echo "✨ knowledge/ SSOT → src/content/ sync complete"
+echo "🔧 frontmatter fixed"
 
-# 3. [Amharic translation needed - original Taiwan context]
+# 3. Check images
 echo ""
-echo "🖼️ [Amharic translation needed - original Taiwan context] 3: [Amharic translation needed - original Taiwan context]..."
-node scripts/utils/check-images.mjs || echo "  ⚠️  [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] npm run check-images [Amharic translation needed - original Taiwan context]"
+echo "🖼️ Step 3: checking images..."
+node scripts/utils/check-images.mjs || echo "  ⚠️  image check found issues — run npm run check-images for details"
 
 echo ""
-echo "▶️  [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context] npm run build [Amharic translation needed - original Taiwan context]"
+echo "▶️  Next: run npm run build"

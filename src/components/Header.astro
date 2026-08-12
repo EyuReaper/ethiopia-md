@@ -21,9 +21,7 @@ const isHome = normalizedPath === '/' || normalizedPath === '/en';
 const navConfig = [
   { path: '/about', label: t('nav.about') },
   { path: '/#categories', label: t('nav.explore') },
-  { path: '/map', label: t('nav.map') },
   { path: '/data', label: t('nav.data') },
-  { path: '/soundscape', label: t('nav.soundscape') },
   { path: '/resources', label: t('nav.resources') },
   { path: '/dashboard', label: t('nav.dashboard') },
   { path: '/contribute', label: t('nav.contribute') },
@@ -123,13 +121,15 @@ const categoryList = [
             width="24"
             height="24"
           />
-          <span class="logo-text">Ethiopia<span class="logo-dot">.md</span></span>
+          <span class="logo-text"
+            >Ethiopia<span class="logo-dot">.md</span></span
+          >
         </a>
 
         <nav class="nav-desktop" aria-label={t('nav.aria-main-navigation')}>
           {
             navConfig.map((item, index) => {
-              const showSep = index === 3 || index === 6;
+              const showSep = index === 2 || index === 4;
 
               if (item.path === '/about') {
                 return (
@@ -147,31 +147,31 @@ const categoryList = [
                           href={`${translatePath('/about')}#story`}
                           class="dropdown-item"
                         >
-                          📖 {lang === 'en' ? 'Our Story' : '[Amharic translation needed - original Taiwan context]'}
+                          📖 {lang === 'en' ? 'Our Story' : 'የእኛ ታሪክ'}
                         </a>
                         <a
                           href={`${translatePath('/about')}#organism`}
                           class="dropdown-item"
                         >
-                          🧬 {lang === 'en' ? 'Digital Organism' : '[Amharic translation needed - original Taiwan context]'}
+                          🧬 {lang === 'en' ? 'Digital Organism' : 'ዲጂታል ፍጡር'}
                         </a>
                         <a
                           href={`${translatePath('/about')}#team`}
                           class="dropdown-item"
                         >
-                          👥 {lang === 'en' ? 'Team' : '[Amharic translation needed - original Taiwan context]'}
+                          👥 {lang === 'en' ? 'Team' : 'ቡድን'}
                         </a>
                         <a
                           href={`${translatePath('/about')}#faq`}
                           class="dropdown-item"
                         >
-                          ❓ {lang === 'en' ? 'FAQ' : '[Amharic translation needed - original Taiwan context]'}
+                          ❓ {lang === 'en' ? 'FAQ' : 'ተደጋጋሚ ጥያቄዎች'}
                         </a>
                         <a
                           href={translatePath('/changelog')}
                           class="dropdown-item"
                         >
-                          📝 {lang === 'en' ? 'Changelog' : '[Amharic translation needed - original Taiwan context]'}
+                          📝 {lang === 'en' ? 'Changelog' : 'የለውጥ ታሪክ'}
                         </a>
                       </div>
                     </div>
@@ -195,12 +195,6 @@ const categoryList = [
                           class="dropdown-item dropdown-section-header"
                         >
                           🕸️ {t('nav.graph-view')}
-                        </a>
-                        <a
-                          href={translatePath('/terminology')}
-                          class="dropdown-item dropdown-section-header"
-                        >
-                          📖 {t('nav.terminology')}
                         </a>
                         <div class="dropdown-divider" />
                         {categoryList.map((category) => (
@@ -230,31 +224,13 @@ const categoryList = [
                           class="dropdown-item"
                         >
                           🌏{' '}
-                          {lang === 'en' ? 'Ethiopia vs World' : 'Ethiopia vs [Amharic translation needed - original Taiwan context]'}
+                          {lang === 'en' ? 'Ethiopia vs World' : 'ኢትዮጵያ vs ዓለም'}
                         </a>
                         <a
                           href={`${translatePath('/data')}#shape`}
                           class="dropdown-item"
                         >
-                          🗺️ {lang === 'en' ? "Ethiopia's Shape" : 'Ethiopia[Amharic translation needed - original Taiwan context]'}
-                        </a>
-                        <a
-                          href={`${translatePath('/data')}#democracy`}
-                          class="dropdown-item"
-                        >
-                          📡 {lang === 'en' ? 'Digital Democracy' : '[Amharic translation needed - original Taiwan context]'}
-                        </a>
-                        <a
-                          href={`${translatePath('/data')}#opendata`}
-                          class="dropdown-item"
-                        >
-                          📊 {lang === 'en' ? 'Open Data' : '[Amharic translation needed - original Taiwan context]'}
-                        </a>
-                        <a
-                          href={`${translatePath('/data')}#enterprise`}
-                          class="dropdown-item"
-                        >
-                          🏢 {lang === 'en' ? 'Enterprise Map' : '[Amharic translation needed - original Taiwan context]'}
+                          🗺️ {lang === 'en' ? "Ethiopia's Shape" : 'የኢትዮጵያ ቅርጽ'}
                         </a>
                       </div>
                     </div>
@@ -277,58 +253,59 @@ const categoryList = [
                           href={`${translatePath('/dashboard')}#vitals`}
                           class="dropdown-item"
                         >
-                          💓 {lang === 'en' ? 'Vital Signs' : '[Amharic translation needed - original Taiwan context]'}
+                          💓 {lang === 'en' ? 'Vital Signs' : 'ወሳኝ ምልክቶች'}
                         </a>
                         <a
                           href={`${translatePath('/dashboard')}#registry`}
                           class="dropdown-item"
                         >
-                          📋 {lang === 'en' ? 'Article Registry' : '[Amharic translation needed - original Taiwan context]'}
+                          📋 {lang === 'en' ? 'Article Registry' : 'የጽሑፍ መዝገብ'}
                         </a>
                         <a
                           href={`${translatePath('/dashboard')}#health`}
                           class="dropdown-item"
                         >
                           📊{' '}
-                          {lang === 'en' ? 'Health Distribution' : '[Amharic translation needed - original Taiwan context]'}
+                          {lang === 'en' ? 'Health Distribution' : 'የጤና ስርጭት'}
                         </a>
                         <a
                           href={`${translatePath('/dashboard')}#organism`}
                           class="dropdown-item"
                         >
-                          🧬 {lang === 'en' ? 'Organ Anatomy' : '[Amharic translation needed - original Taiwan context]'}
+                          🧬 {lang === 'en' ? 'Organ Anatomy' : 'የአካላት አወቃቀር'}
                         </a>
                         <a
                           href={`${translatePath('/dashboard')}#translation`}
                           class="dropdown-item"
                         >
                           🌐{' '}
-                          {lang === 'en' ? 'Translation Coverage' : '[Amharic translation needed - original Taiwan context]'}
+                          {lang === 'en' ? 'Translation Coverage' : 'የትርጉም ሽፋን'}
                         </a>
                         <a
                           href={`${translatePath('/dashboard')}#immune`}
                           class="dropdown-item"
                         >
-                          🛡️ {lang === 'en' ? 'Immune System' : '[Amharic translation needed - original Taiwan context]'}
+                          🛡️{' '}
+                          {lang === 'en' ? 'Immune System' : 'የበሽታ መከላከያ ሥርዓት'}
                         </a>
                         <a
                           href={`${translatePath('/dashboard')}#growth`}
                           class="dropdown-item"
                         >
-                          📈 {lang === 'en' ? 'Growth Timeline' : '[Amharic translation needed - original Taiwan context]'}
+                          📈{' '}
+                          {lang === 'en' ? 'Growth Timeline' : 'የዕድገት የጊዜ መስመር'}
                         </a>
                         <a
                           href={`${translatePath('/dashboard')}#content-analysis`}
                           class="dropdown-item"
                         >
-                          📊{' '}
-                          {lang === 'en' ? 'Content Analysis' : '[Amharic translation needed - original Taiwan context]'}
+                          📊 {lang === 'en' ? 'Content Analysis' : 'የይዘት ትንተና'}
                         </a>
                         <a
                           href={`${translatePath('/dashboard')}#analytics`}
                           class="dropdown-item"
                         >
-                          📡 {lang === 'en' ? 'Live Pulse' : '[Amharic translation needed - original Taiwan context]'}
+                          📡 {lang === 'en' ? 'Live Pulse' : 'ቀጥታ ምት'}
                         </a>
                       </div>
                     </div>
@@ -351,31 +328,30 @@ const categoryList = [
                           href={`${translatePath('/contribute')}#form`}
                           class="dropdown-item"
                         >
-                          📝 {lang === 'en' ? 'Submit Article' : '[Amharic translation needed - original Taiwan context]'}
+                          📝 {lang === 'en' ? 'Submit Article' : 'ጽሑፍ አስገባ'}
                         </a>
                         <a
                           href={`${translatePath('/contribute')}#token-donation`}
                           class="dropdown-item"
                         >
                           🪙{' '}
-                          {lang === 'en'
-                            ? 'Donate AI Tokens'
-                            : '[Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context]'}
+                          {lang === 'en' ? 'Donate AI Tokens' : 'የ AI ቶከን ይለግሱ'}
                         </a>
                         <a
                           href={`${translatePath('/contribute')}#organism`}
                           class="dropdown-item"
                         >
-                          🧬 {lang === 'en' ? 'Why Contribute' : '[Amharic translation needed - original Taiwan context]'}
+                          🧬{' '}
+                          {lang === 'en' ? 'Why Contribute' : 'ለምን አስተዋፅኦ ያድርጉ'}
                         </a>
                         <a
                           href={`${translatePath('/contribute')}#cli`}
                           class="dropdown-item"
                         >
-                          🖥️ {lang === 'en' ? 'CLI Tool' : 'CLI [Amharic translation needed - original Taiwan context]'}
+                          🖥️ {lang === 'en' ? 'CLI Tool' : 'CLI መሳሪያ'}
                         </a>
                         <a
-                          href="https://github.com/frank890417/ethiopia-md"
+                          href="https://github.com/EyuReaper/ethiopia-md"
                           target="_blank"
                           class="dropdown-item"
                         >
@@ -427,7 +403,7 @@ const categoryList = [
 
         <!-- GitHub -->
         <a
-          href="https://github.com/frank890417/ethiopia-md"
+          href="https://github.com/EyuReaper/ethiopia-md"
           target="_blank"
           class="gh-link"
           aria-label="GitHub"
@@ -459,7 +435,7 @@ const categoryList = [
               'lang-btn',
               { active: !currentPath.startsWith('/en') },
             ]}
-            aria-label={t('nav.aria-switch-to-zh-tw')}>[Amharic translation needed - original Taiwan context]</a
+            aria-label={t('nav.aria-switch-to-zh-tw')}>አማ</a
           >
           <a
             href={enLink}
@@ -490,20 +466,13 @@ const categoryList = [
                   >
                     🕸️ {t('nav.graph-view')}
                   </a>
-                  <a
-                    href={translatePath('/terminology')}
-                    class="nav-link nav-sub-link"
-                    onclick="document.querySelector('.nav-mobile').classList.remove('open')"
-                  >
-                    📖 {t('nav.terminology')}
-                  </a>
                 </div>
               )}
             </Fragment>
           ))
         }
         <a
-          href="https://github.com/frank890417/ethiopia-md"
+          href="https://github.com/EyuReaper/ethiopia-md"
           target="_blank"
           class="nav-link"
           onclick="document.querySelector('.nav-mobile').classList.remove('open')"
@@ -521,7 +490,7 @@ const categoryList = [
                 { active: !currentPath.startsWith('/en') },
               ]}
               onclick="document.querySelector('.nav-mobile').classList.remove('open')"
-              >[Amharic translation needed - original Taiwan context]</a
+              >አማርኛ</a
             >
             <a
               href={enLink}

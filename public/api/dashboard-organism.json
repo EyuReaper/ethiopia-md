@@ -1,51 +1,51 @@
 {
-  "lastUpdated": "2026-03-28T14:58:58.111Z",
+  "lastUpdated": "2026-08-11T21:38:12.770Z",
   "organs": [
     {
       "id": "heart",
       "name": "Heart",
-      "nameZh": "[Amharic translation needed - original Taiwan context]",
-      "metaphor": "[Amharic translation needed - original Taiwan context]",
+      "nameZh": "心臟",
+      "metaphor": "內容引擎",
       "emoji": "🫀",
-      "score": 90,
-      "trend": "up",
+      "score": 30,
+      "trend": "down",
       "metrics": {
-        "articlesLast7Days": 153,
-        "articlesLast30Days": 409,
-        "totalArticles": 413
+        "articlesLast7Days": 1,
+        "articlesLast30Days": 1,
+        "totalArticles": 419
       }
     },
     {
       "id": "immune",
       "name": "Immune",
-      "nameZh": "[Amharic translation needed - original Taiwan context]",
-      "metaphor": "[Amharic translation needed - original Taiwan context]",
+      "nameZh": "免疫系統",
+      "metaphor": "品質防禦",
       "emoji": "🛡️",
       "score": 13,
       "trend": "stable",
       "metrics": {
         "humanReviewedCount": 55,
-        "totalArticles": 413,
-        "humanReviewedPercent": 13.3
+        "totalArticles": 419,
+        "humanReviewedPercent": 13.1
       }
     },
     {
       "id": "dna",
       "name": "DNA",
-      "nameZh": "[Amharic translation needed - original Taiwan context]",
-      "metaphor": "[Amharic translation needed - original Taiwan context]",
+      "nameZh": "遺傳密碼",
+      "metaphor": "品質基因",
       "emoji": "🧬",
-      "score": 95,
-      "trend": "up",
+      "score": 60,
+      "trend": "stable",
       "metrics": {
-        "editorialLastModified": "2026-03-28T14:58:16.000Z"
+        "editorialLastModified": "2026-03-29T23:15:33.000Z"
       }
     },
     {
       "id": "skeleton",
       "name": "Skeleton",
-      "nameZh": "[Amharic translation needed - original Taiwan context]",
-      "metaphor": "[Amharic translation needed - original Taiwan context]",
+      "nameZh": "骨骼系統",
+      "metaphor": "技術架構",
       "emoji": "🦴",
       "score": 90,
       "trend": "stable",
@@ -54,8 +54,8 @@
     {
       "id": "breath",
       "name": "Breath",
-      "nameZh": "[Amharic translation needed - original Taiwan context]",
-      "metaphor": "[Amharic translation needed - original Taiwan context]",
+      "nameZh": "呼吸系統",
+      "metaphor": "自動化循環",
       "emoji": "🫁",
       "score": 85,
       "trend": "stable",
@@ -66,20 +66,20 @@
     {
       "id": "reproduce",
       "name": "Reproduce",
-      "nameZh": "[Amharic translation needed - original Taiwan context]",
-      "metaphor": "[Amharic translation needed - original Taiwan context]",
+      "nameZh": "繁殖系統",
+      "metaphor": "社群繁殖力",
       "emoji": "🧫",
-      "score": 85,
-      "trend": "up",
+      "score": 15,
+      "trend": "stable",
       "metrics": {
-        "recentContributors": 48
+        "recentContributors": 0
       }
     },
     {
       "id": "senses",
       "name": "Senses",
-      "nameZh": "[Amharic translation needed - original Taiwan context]",
-      "metaphor": "[Amharic translation needed - original Taiwan context]",
+      "nameZh": "感知器官",
+      "metaphor": "外部感知",
       "emoji": "👁️",
       "score": 90,
       "trend": "stable",
@@ -91,17 +91,17 @@
     {
       "id": "translation",
       "name": "Translation",
-      "nameZh": "[Amharic translation needed - original Taiwan context]",
-      "metaphor": "[Amharic translation needed - original Taiwan context]",
+      "nameZh": "語言器官",
+      "metaphor": "多語言複製",
       "emoji": "🌐",
       "score": 100,
       "trend": "up",
       "metrics": {
         "languageCoverage": {
-          "am": 413,
-          "en": 479,
+          "am": 419,
+          "en": 484,
           "es": 34,
-          "ja": 12
+          "ja": 13
         },
         "translationPct": 116
       }

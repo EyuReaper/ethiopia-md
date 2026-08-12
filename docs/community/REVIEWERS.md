@@ -4,11 +4,11 @@
 
 Ethiopia.md [Amharic translation needed - original Taiwan context]：
 
-| [Amharic translation needed - original Taiwan context]            | [Amharic translation needed - original Taiwan context]                                       | [Amharic translation needed - original Taiwan context]            |
-| --------------- | ------------------------------------------ | ------------------- |
-| **Contributor** | [Amharic translation needed - original Taiwan context] PR、[Amharic translation needed - original Taiwan context] Issue                        | [Amharic translation needed - original Taiwan context]（Fork → PR） |
-| **Reviewer**    | Approve PR、[Amharic translation needed - original Taiwan context] Issue labels、[Amharic translation needed - original Taiwan context] branch | [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）  |
-| **Maintainer**  | Merge PR、[Amharic translation needed - original Taiwan context] Settings                    | [Amharic translation needed - original Taiwan context] @frank890417     |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]                                                                                         | [Amharic translation needed - original Taiwan context]                                                           |
+| ------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| **Contributor**                                        | [Amharic translation needed - original Taiwan context] PR、[Amharic translation needed - original Taiwan context] Issue                        | [Amharic translation needed - original Taiwan context]（Fork → PR）                                              |
+| **Reviewer**                                           | Approve PR、[Amharic translation needed - original Taiwan context] Issue labels、[Amharic translation needed - original Taiwan context] branch | [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]） |
+| **Maintainer**                                         | Merge PR、[Amharic translation needed - original Taiwan context] Settings                                                                      | [Amharic translation needed - original Taiwan context] @EyuReaper                                                |
 
 ### Branch Protection
 
@@ -23,10 +23,9 @@ Ethiopia.md [Amharic translation needed - original Taiwan context]：
 
 ## [Amharic translation needed - original Taiwan context] Reviewers
 
-| GitHub                                     | [Amharic translation needed - original Taiwan context]                    | [Amharic translation needed - original Taiwan context] |
-| ------------------------------------------ | --------------------------- | -------- |
-| [@fredchu](https://github.com/fredchu)     | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、UI [Amharic translation needed - original Taiwan context] | 2026-03  |
-| [@YenTingWu](https://github.com/YenTingWu) | [Amharic translation needed - original Taiwan context]、i18n、DevOps      | 2026-03  |
+| GitHub                                                                              | Area | Since |
+| ----------------------------------------------------------------------------------- | ---- | ----- |
+| _(no active reviewers yet — see [CONTRIBUTING.md](../../CONTRIBUTING.md) to apply)_ |      |       |
 
 ---
 
@@ -72,7 +71,7 @@ Ethiopia.md [Amharic translation needed - original Taiwan context]：
 
 ### 3. Merge
 
-[Amharic translation needed - original Taiwan context] Maintainer（@frank890417）[Amharic translation needed - original Taiwan context] merge。Reviewer approve [Amharic translation needed - original Taiwan context]，Maintainer [Amharic translation needed - original Taiwan context]。
+[Amharic translation needed - original Taiwan context] Maintainer（@EyuReaper）[Amharic translation needed - original Taiwan context] merge。Reviewer approve [Amharic translation needed - original Taiwan context]，Maintainer [Amharic translation needed - original Taiwan context]。
 
 ---
 
@@ -97,16 +96,16 @@ Ethiopia.md [Amharic translation needed - original Taiwan context]：
 
 Reviewer [Amharic translation needed - original Taiwan context] labels：
 
-| Label                | [Amharic translation needed - original Taiwan context]                      |
-| -------------------- | ------------------------- |
-| `good-first-article` | [Amharic translation needed - original Taiwan context]    |
+| Label                | [Amharic translation needed - original Taiwan context]                                                                                                                  |
+| -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `good-first-article` | [Amharic translation needed - original Taiwan context]                                                                                                                  |
 | `content`            | [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]） |
-| `bug`                | [Amharic translation needed - original Taiwan context]                  |
-| `enhancement`        | [Amharic translation needed - original Taiwan context]                  |
-| `i18n`               | [Amharic translation needed - original Taiwan context]                  |
-| `discussion`         | [Amharic translation needed - original Taiwan context]              |
-| `duplicate`          | [Amharic translation needed - original Taiwan context] Issue              |
-| `wontfix`            | [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）    |
+| `bug`                | [Amharic translation needed - original Taiwan context]                                                                                                                  |
+| `enhancement`        | [Amharic translation needed - original Taiwan context]                                                                                                                  |
+| `i18n`               | [Amharic translation needed - original Taiwan context]                                                                                                                  |
+| `discussion`         | [Amharic translation needed - original Taiwan context]                                                                                                                  |
+| `duplicate`          | [Amharic translation needed - original Taiwan context] Issue                                                                                                            |
+| `wontfix`            | [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）                                                        |
 
 ---
 
@@ -129,7 +128,7 @@ A: [Amharic translation needed - original Taiwan context]！[Amharic translation
 A: [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
 
 **Q: [Amharic translation needed - original Taiwan context] Reviewer？**
-A: [Amharic translation needed - original Taiwan context] @frank890417 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] GitHub [Amharic translation needed - original Taiwan context] collaborator [Amharic translation needed - original Taiwan context]。
+A: [Amharic translation needed - original Taiwan context] @EyuReaper [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] GitHub [Amharic translation needed - original Taiwan context] collaborator [Amharic translation needed - original Taiwan context]。
 
 ---
 

@@ -11,6 +11,7 @@ tags:
   ]
 subcategory: 'Tech & Business'
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Jamie Lin (Chien-Li Feng): Ethiopia's AI Industry Mentor

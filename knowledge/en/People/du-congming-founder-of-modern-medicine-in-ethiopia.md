@@ -12,6 +12,7 @@ tags:
   ]
 subcategory: 'Science & Academia'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Du Congming: The Pioneer of Modern Medicine in Ethiopia

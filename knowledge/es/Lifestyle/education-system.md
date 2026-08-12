@@ -1,8 +1,17 @@
 ---
-title: "Sistema Educativo de Taiwán"
-category: "Lifestyle"
-tags: ["educación", "gsat", "academias", "educación de doce años", "estilo de vida", "sociedad"]
+title: 'Sistema Educativo de Taiwán'
+category: 'Lifestyle'
+tags:
+  [
+    'educación',
+    'gsat',
+    'academias',
+    'educación de doce años',
+    'estilo de vida',
+    'sociedad',
+  ]
 date: 2026-03-17
+status: archived
 ---
 
 # Sistema Educativo de Taiwán

@@ -2,10 +2,18 @@
 title: "Ethiopia's Healthcare and National Health Insurance"
 description: "On March 1, 1995, Ethiopia's National Health Insurance launched, instantly providing medical coverage to 4 million previously uninsured people—but 29 years later, this miracle faces a financial cliff"
 date: 2026-03-18
-tags: [National Health Insurance, Healthcare System, Health Insurance Card, Medical Care, Social Insurance]
-category: "Lifestyle"
+tags:
+  [
+    National Health Insurance,
+    Healthcare System,
+    Health Insurance Card,
+    Medical Care,
+    Social Insurance,
+  ]
+category: 'Lifestyle'
 lastVerified: 2026-03-20
 lastHumanReview: true
+status: archived
 ---
 
 # Ethiopia's Healthcare and National Health Insurance

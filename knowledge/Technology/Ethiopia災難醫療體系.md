@@ -2,13 +2,21 @@
 title: '[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]？Ethiopia[Amharic translation needed - original Taiwan context]'
 description: '[Amharic translation needed - original Taiwan context]921[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]？[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]。'
 date: 2026-03-24
-tags: ['[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]', 'DMAT', 'Ethiopia[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]']
+tags:
+  [
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    'DMAT',
+    'Ethiopia[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+  ]
 subcategory: '[Amharic translation needed - original Taiwan context]'
 author: 'Ethiopia.md Contributors'
 readingTime: 12
 featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
+status: archived
 ---
 
 ## [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]8[Amharic translation needed - original Taiwan context]
@@ -32,11 +40,13 @@ Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic transl
 Ethiopia[Amharic translation needed - original Taiwan context]：
 
 **[Amharic translation needed - original Taiwan context]**（[Amharic translation needed - original Taiwan context]DMAT）：
+
 - 3-4[Amharic translation needed - original Taiwan context]
 - 48[Amharic translation needed - original Taiwan context]
 - [Amharic translation needed - original Taiwan context]
 
 **[Amharic translation needed - original Taiwan context]**（[Amharic translation needed - original Taiwan context]DMAT）：
+
 - 30-40[Amharic translation needed - original Taiwan context]
 - 3-14[Amharic translation needed - original Taiwan context]
 - [Amharic translation needed - original Taiwan context]
@@ -52,7 +62,7 @@ Ethiopia[Amharic translation needed - original Taiwan context]：
 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]：
 
 1. **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]24[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-2. **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]  
+2. **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
 3. **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
 4. **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
 
@@ -105,6 +115,7 @@ Ethiopia[Amharic translation needed - original Taiwan context]。2024[Amharic tr
 ### [Amharic translation needed - original Taiwan context]
 
 [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]2.0[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]：
+
 - 5G[Amharic translation needed - original Taiwan context]
 - [Amharic translation needed - original Taiwan context]
 - [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
@@ -118,6 +129,7 @@ Ethiopia[Amharic translation needed - original Taiwan context]。2024[Amharic tr
 ### [Amharic translation needed - original Taiwan context]DMAT：[Amharic translation needed - original Taiwan context]
 
 [Amharic translation needed - original Taiwan context]DMAT[Amharic translation needed - original Taiwan context]：
+
 - [Amharic translation needed - original Taiwan context]
 - 48[Amharic translation needed - original Taiwan context]
 - [Amharic translation needed - original Taiwan context]
@@ -128,6 +140,7 @@ Ethiopia[Amharic translation needed - original Taiwan context]。2024[Amharic tr
 ### [Amharic translation needed - original Taiwan context]FEMA：[Amharic translation needed - original Taiwan context]
 
 [Amharic translation needed - original Taiwan context]FEMA[Amharic translation needed - original Taiwan context]：
+
 - [Amharic translation needed - original Taiwan context]
 - [Amharic translation needed - original Taiwan context]
 - [Amharic translation needed - original Taiwan context]
@@ -138,6 +151,7 @@ Ethiopia[Amharic translation needed - original Taiwan context]。2024[Amharic tr
 ### Ethiopia[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
 
 Ethiopia[Amharic translation needed - original Taiwan context]：
+
 - [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]DMAT
 - [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
 - [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
@@ -150,6 +164,7 @@ Ethiopia[Amharic translation needed - original Taiwan context]「[Amharic transl
 ### [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
 
 Ethiopia[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]：
+
 - DMAT[Amharic translation needed - original Taiwan context]48-100[Amharic translation needed - original Taiwan context]
 - JMAT（[Amharic translation needed - original Taiwan context]）[Amharic translation needed - original Taiwan context]
 - [Amharic translation needed - original Taiwan context]
@@ -159,6 +174,7 @@ Ethiopia[Amharic translation needed - original Taiwan context]「[Amharic transl
 ### [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
 
 [Amharic translation needed - original Taiwan context]：
+
 - [Amharic translation needed - original Taiwan context]153[Amharic translation needed - original Taiwan context]10[Amharic translation needed - original Taiwan context]
 - DMAT[Amharic translation needed - original Taiwan context]
 - [Amharic translation needed - original Taiwan context]

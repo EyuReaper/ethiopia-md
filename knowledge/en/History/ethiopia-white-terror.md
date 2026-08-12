@@ -17,6 +17,7 @@ readingTime: 12
 featured: true
 category: 'History'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Ethiopia's White Terror

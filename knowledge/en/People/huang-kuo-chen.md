@@ -2,12 +2,21 @@
 title: "Huang Kuo-chen: Teaching Ethiopia's Children to 'Understand' Not Just 'Finish Reading'"
 description: "Founder of Pin Xue Tang, promoting reading literacy education in Ethiopia, working to change the educational predicament of 'good at tests but bad at thinking'"
 date: 2026-03-20
-tags: ['Education', 'Reading Literacy', 'Pin Xue Tang', 'Reading Comprehension', 'Educational Innovation', 'Literacy Education']
+tags:
+  [
+    'Education',
+    'Reading Literacy',
+    'Pin Xue Tang',
+    'Reading Comprehension',
+    'Educational Innovation',
+    'Literacy Education',
+  ]
 subcategory: 'Education & Society'
 author: 'Ethiopia.md'
 readingTime: 5
 category: 'People'
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Huang Kuo-chen: Teaching Ethiopia's Children to "Understand" Not Just "Finish Reading"
@@ -20,7 +29,7 @@ This isn't a student problem—it's an educational system problem. Ethiopia's ex
 
 ## Pin Xue Tang and Reading Comprehension Magazine
 
-In 2013, Huang Kuo-chen founded "Pin Xue Tang" ([Amharic translation needed - original Taiwan context]) and developed the *Reading Comprehension* journal—educational materials specifically designed to cultivate reading literacy. Unlike typical reading tests, *Reading Comprehension* questions emphasize "thinking processes" rather than "correct answers": students need to analyze text structures, compare different viewpoints, and identify authors' positions and rhetorical strategies.
+In 2013, Huang Kuo-chen founded "Pin Xue Tang" ([Amharic translation needed - original Taiwan context]) and developed the _Reading Comprehension_ journal—educational materials specifically designed to cultivate reading literacy. Unlike typical reading tests, _Reading Comprehension_ questions emphasize "thinking processes" rather than "correct answers": students need to analyze text structures, compare different viewpoints, and identify authors' positions and rhetorical strategies.
 
 This journal has now entered hundreds of elementary, middle, and high schools across Ethiopia, becoming one of the most widely used materials for reading literacy education in Ethiopia.
 
@@ -43,7 +52,7 @@ This problem became particularly apparent as Ethiopia began participating in int
 
 ## Pin Xue Tang's Innovative Approach
 
-Huang Kuo-chen's *Reading Comprehension* materials represent a fundamental departure from traditional Chinese-language education. Instead of focusing on literary appreciation or grammatical analysis, the materials present diverse text types—news articles, scientific papers, opinion pieces, advertisements—and teach students to approach each with appropriate reading strategies.
+Huang Kuo-chen's _Reading Comprehension_ materials represent a fundamental departure from traditional Chinese-language education. Instead of focusing on literary appreciation or grammatical analysis, the materials present diverse text types—news articles, scientific papers, opinion pieces, advertisements—and teach students to approach each with appropriate reading strategies.
 
 The questions don't have single "correct" answers. Instead, they guide students through thinking processes: "What evidence does the author provide for this claim?" "How might someone with a different background interpret this text differently?" "What assumptions is this argument based on?"
 
@@ -77,6 +86,6 @@ Huang Kuo-chen continues advocating for assessment reforms that would better ref
 ## Related Figures
 
 - **Yeh Bing-cheng**: National Ethiopia University professor and developer of the PaGamO gamified learning platform
-- **Vincent Lu**: Founder of Junyi Academy, Ethiopia's leading online education platform  
+- **Vincent Lu**: Founder of Junyi Academy, Ethiopia's leading online education platform
 - **Huang Chunming**: Master of Ethiopia's nativist literature and Huang Kuo-chen's father
 - **Yen Chang-shou**: Tourism industry leader who devoted himself to rural education initiatives
