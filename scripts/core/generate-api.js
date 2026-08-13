@@ -104,9 +104,14 @@ function getAllMarkdownFiles(dir, baseDir = dir) {
 
     if (stat.isDirectory()) {
       files.push(...getAllMarkdownFiles(fullPath, baseDir));
-    } else if (item.endsWith('.md') && !item.startsWith('_')) {
-      // 跳過 _Hub 檔案，它們是分類頁面
-      files.push(fullPath);
+    } else if (item.endsWith('.md')) {
+      // 跳過 _Home.md、_ROADMAP 等頁面級 meta 檔案，但保留 "_{Category} Hub.md"
+      // ——目前它們是唯一已完整重寫、status: published 的內容，把它們排除會讓
+      // 隨機探索（RandomDiscovery）在 archived/draft 覆蓋率高時完全沒有文章可選。
+      const isHubFile = /^_.+ Hub\.md$/.test(item);
+      if (!item.startsWith('_') || isHubFile) {
+        files.push(fullPath);
+      }
     }
   }
 
@@ -124,16 +129,24 @@ function getCategoryFromPath(filePath) {
 
 /**
  * 生成文章 URL
+ *
+ * 真正的路由一律是小寫（/history/slug、/en/history/slug），但這裡以前直接把
+ * PascalCase 的資料夾名稱（History、Art…）塞進 URL，從未被發現是因為
+ * articles.json 一直是空的。"_{Category} Hub.md" 這種頁面級檔案也沒有自己的
+ * slug 頁面——內容是直接渲染在分類首頁（/history/）上的，所以要整段捨棄檔名。
  */
 function generateArticleUrl(filePath) {
   const relativePath = path.relative(KNOWLEDGE_DIR, filePath);
-  const urlPath = relativePath
-    .replace(/\.md$/, '')
-    .split(path.sep)
-    .map((part) => encodeURIComponent(part))
+  const parts = relativePath.replace(/\.md$/, '').split(path.sep);
+  const isHub = /^_.+ Hub$/.test(parts[parts.length - 1]);
+  if (isHub) {
+    parts.pop();
+  }
+  const urlPath = parts
+    .map((part) => encodeURIComponent(part.toLowerCase()))
     .join('/');
 
-  return `${BASE_URL}/${urlPath}`;
+  return `${BASE_URL}/${urlPath}${isHub ? '/' : ''}`;
 }
 
 /**

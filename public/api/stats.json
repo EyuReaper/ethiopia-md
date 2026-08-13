@@ -1,13 +1,119 @@
 {
-  "totalArticles": 0,
-  "totalCategories": 0,
-  "estimatedContributors": 0,
-  "totalTags": 0,
-  "categories": [],
-  "topTags": [],
+  "totalArticles": 24,
+  "totalCategories": 13,
+  "estimatedContributors": 2,
+  "totalTags": 13,
+  "categories": [
+    {
+      "name": "Music",
+      "count": 1
+    },
+    {
+      "name": "Society",
+      "count": 1
+    },
+    {
+      "name": "Food",
+      "count": 1
+    },
+    {
+      "name": "People",
+      "count": 1
+    },
+    {
+      "name": "Culture",
+      "count": 1
+    },
+    {
+      "name": "Nature",
+      "count": 1
+    },
+    {
+      "name": "History",
+      "count": 1
+    },
+    {
+      "name": "Technology",
+      "count": 1
+    },
+    {
+      "name": "Lifestyle",
+      "count": 1
+    },
+    {
+      "name": "Economy",
+      "count": 1
+    },
+    {
+      "name": "Geography",
+      "count": 1
+    },
+    {
+      "name": "Art",
+      "count": 1
+    },
+    {
+      "name": "en",
+      "count": 12
+    }
+  ],
+  "topTags": [
+    {
+      "name": "Hub",
+      "count": 24
+    },
+    {
+      "name": "Music",
+      "count": 2
+    },
+    {
+      "name": "Society",
+      "count": 2
+    },
+    {
+      "name": "Food",
+      "count": 2
+    },
+    {
+      "name": "People",
+      "count": 2
+    },
+    {
+      "name": "Culture",
+      "count": 2
+    },
+    {
+      "name": "Nature",
+      "count": 2
+    },
+    {
+      "name": "History",
+      "count": 2
+    },
+    {
+      "name": "Technology",
+      "count": 2
+    },
+    {
+      "name": "Lifestyle",
+      "count": 2
+    },
+    {
+      "name": "Economy",
+      "count": 2
+    },
+    {
+      "name": "Geography",
+      "count": 2
+    },
+    {
+      "name": "Art",
+      "count": 2
+    }
+  ],
   "languageDistribution": {
-    "am": 0,
+    "am": 24,
     "en": 0
   },
-  "lastUpdated": "2026-08-11T21:38:10.870Z"
+  "lastUpdated": "2026-08-13T11:50:50.299Z"
 }

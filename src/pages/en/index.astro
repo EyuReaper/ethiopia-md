@@ -40,18 +40,27 @@ for (const cat of categories) {
   try {
     const folderPath = resolve(process.cwd(), 'knowledge', 'en', cat.folder);
     const files = await readdir(folderPath);
+    // Keep "_{Category} Hub.md" (the only fully-rewritten, published content
+    // right now) but drop other underscore-prefixed meta files like _Home.md.
     const mdFiles = files.filter(
-      (f) => f.endsWith('.md') && !f.startsWith('_'),
+      (f) => f.endsWith('.md') && (!f.startsWith('_') || / Hub\.md$/.test(f)),
     );
 
     for (const file of mdFiles) {
       try {
         const content = await readFile(join(folderPath, file), 'utf-8');
         const { data: frontmatter } = matter(content);
+        if (
+          frontmatter.status === 'archived' ||
+          frontmatter.status === 'draft'
+        ) {
+          continue;
+        }
+        const isHub = / Hub\.md$/.test(file);
         const slug = basename(file, '.md');
         allArticles.push({
           title: frontmatter.title || slug,
-          url: `/en/${cat.id}/${slug}`,
+          url: isHub ? `/en/${cat.id}` : `/en/${cat.id}/${slug}`,
           category: cat.name,
         });
       } catch {

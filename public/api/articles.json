@@ -1,1 +1,266 @@
-[]
+[
+  {
+    "title": "ሙዚቃ",
+    "description": "ከቅኝት ስልትና ባህላዊ መሳሪያዎች እስከ ኢትዮ ጃዝና ወርቃማው ዘመን፣ እንዲሁም ዘመናዊው የአዲስ አበባ ሙዚቃ ትዕይንት ድረስ የሚዘልቅ የኢትዮጵያ ሙዚቃ አጠቃላይ ዳሰሳ።",
+    "category": "Music",
+    "tags": ["Music", "Hub"],
+    "url": "https://ethiopia.md/music/",
+    "readingTime": 19,
+    "featured": false,
+    "date": "2026-08-11",
+    "path": "Music/_Music Hub.md"
+  },
+  {
+    "title": "ማህበረሰብ",
+    "description": "የኢትዮጵያ ብሔር ብሔረሰቦችና ሕዝቦች ላይ የተመሠረተው ፌዴራላዊ አወቃቀር፣ የአፍሪካ ኅብረት መቀመጫ ሀገር እንደመሆኗ ያላት ዲፕሎማሲያዊ ሚና፣ እና የስነ-ሕዝብና የከተሜነት ለውጦች አጭር ዳሰሳ።",
+    "category": "Society",
+    "tags": ["Society", "Hub"],
+    "url": "https://ethiopia.md/society/",
+    "readingTime": 18,
+    "featured": false,
+    "date": "2026-08-11",
+    "path": "Society/_Society Hub.md"
+  },
+  {
+    "title": "ምግብ",
+    "description": "የኢትዮጵያ ምግብ በእንጀራና ጤፍ፣ በበርበሬ ወጥ፣ በቡና ሥነ ሥርዓትና በኦርቶዶክሳዊ የጾም ልማድ ላይ የተመሠረተ ሲሆን፣ ከክልል ወደ ክልል በሚለያይ ሀብታም ጣዕም ይታወቃል።",
+    "category": "Food",
+    "tags": ["Food", "Hub"],
+    "url": "https://ethiopia.md/food/",
+    "readingTime": 19,
+    "featured": false,
+    "date": "2026-08-11",
+    "path": "Food/_Food Hub.md"
+  },
+  {
+    "title": "ሰዎች",
+    "description": "ከዐድዋ ጦርነት ጀግኖች እስከ ዓለምን ያስደመሙ የረጅም ርቀት ሯጮች፣ ከኢትዮ-ጃዝ አባት እስከ ቅሪተ አካል ሳይንቲስት ድረስ ኢትዮጵያን የቀረጹ ግለሰቦች።",
+    "category": "People",
+    "tags": ["People", "Hub"],
+    "url": "https://ethiopia.md/people/",
+    "readingTime": 21,
+    "featured": false,
+    "date": "2026-08-11",
+    "path": "People/_People Hub.md"
+  },
+  {
+    "title": "ባህል",
+    "description": "የኢትዮጵያን ብሔሮች፣ ቋንቋዎች፣ ሃይማኖቶች፣ የቀን አቆጣጠርና ቡናን ጨምሮ የባህል ብዝሃነት የሚያስተዋውቅ አጠቃላይ መግቢያ።",
+    "category": "Culture",
+    "tags": ["Culture", "Hub"],
+    "url": "https://ethiopia.md/culture/",
+    "readingTime": 17,
+    "featured": false,
+    "date": "2026-08-11",
+    "path": "Culture/_Culture Hub.md"
+  },
+  {
+    "title": "ተፈጥሮ",
+    "description": "ከሴሜንና ከባሌ ተራሮች ብርቅዬ የዱር አራዊት እስከ ስምጥ ሸለቆ ሐይቆችና ዳናኪል ድብርት ድረስ፣ የኢትዮጵያ ተፈጥሮአዊ ብዝሃ ሕይወት እና ልዩ መልክዓ ምድር ቅኝት።",
+    "category": "Nature",
+    "tags": ["Nature", "Hub"],
+    "url": "https://ethiopia.md/nature/",
+    "readingTime": 18,
+    "featured": false,
+    "date": "2026-08-11",
+    "path": "Nature/_Nature Hub.md"
+  },
+  {
+    "title": "ታሪክ",
+    "description": "ከአክሱም መንግሥት እስከ አድዋ ድል፣ ከደርግ ወታደራዊ ዘመን እስከ ዘመናዊው የፌዴራል ሥርዓት፦ የኢትዮጵያን ረዥም ታሪክ የሚዳስስ አጠቃላይ መግቢያ።",
+    "category": "History",
+    "tags": ["History", "Hub"],
+    "url": "https://ethiopia.md/history/",
+    "readingTime": 18,
+    "featured": false,
+    "date": "2026-08-11",
+    "path": "History/_History Hub.md"
+  },
+  {
+    "title": "ቴክኖሎጂ",
+    "description": "ከዲጂታል ኢትዮጵያ 2030 ስትራቴጂ እስከ ቴሌብር ሞባይል ገንዘብ እና በአዲስ አበባ የሚያድገው ስታርትአፕ ምህዳር ድረስ፣ የኢትዮጵያ ቴክኖሎጂ ዘርፍ በፍጥነት እየተለወጠ ነው።",
+    "category": "Technology",
+    "tags": ["Technology", "Hub"],
+    "url": "https://ethiopia.md/technology/",
+    "readingTime": 19,
+    "featured": false,
+    "date": "2026-08-11",
+    "path": "Technology/_Technology Hub.md"
+  },
+  {
+    "title": "አኗኗር",
+    "description": "የቡና ሥነ ሥርዓት፣ የሃይማኖታዊ ልማድና የግዕዝ ቀን አቆጣጠር፣ የቤተሰብ ትስስርና በገጠርና በከተማ መካከል ያለውን የአኗኗር ልዩነት የሚዳስስ አጭር ዳሰሳ።",
+    "category": "Lifestyle",
+    "tags": ["Lifestyle", "Hub"],
+    "url": "https://ethiopia.md/lifestyle/",
+    "readingTime": 17,
+    "featured": false,
+    "date": "2026-08-11",
+    "path": "Lifestyle/_Lifestyle Hub.md"
+  },
+  {
+    "title": "ኢኮኖሚ",
+    "description": "ግብርና-ተኮር የኢትዮጵያ ኢኮኖሚ፣ የቡናና የጤፍ ሚና፣ የመንግሥት መር ልማት ስትራቴጂ፣ ከኢትዮጵያ አየር መንገድ እስከ ታላቁ የሕዳሴ ግድብ ያሉ ዋና ዋና ምሰሶዎችን የሚዳስስ አጭር መግቢያ።",
+    "category": "Economy",
+    "tags": ["Economy", "Hub"],
+    "url": "https://ethiopia.md/economy/",
+    "readingTime": 18,
+    "featured": false,
+    "date": "2026-08-11",
+    "path": "Economy/_Economy Hub.md"
+  },
+  {
+    "title": "ጂኦግራፊ",
+    "description": "የኢትዮጵያን ደጋማ መልክአ ምድር፣ ታላቁን የስምጥ ሸለቆ፣ ወደብ አልባነትና ብዝሃ ሕይወት የሚያስቃኝ የጂኦግራፊ አጠቃላይ እይታ።",
+    "category": "Geography",
+    "tags": ["Geography", "Hub"],
+    "url": "https://ethiopia.md/geography/",
+    "readingTime": 17,
+    "featured": false,
+    "date": "2026-08-11",
+    "path": "Geography/_Geography Hub.md"
+  },
+  {
+    "title": "ጥበብ",
+    "description": "ከመካከለኛው ዘመን የብራና ሥዕልና የላሊበላ ውቅር አብያተ ክርስቲያናት እስከ ዘመናዊ ሥዕልና ሲኒማ ድረስ የሚዘልቅ የኢትዮጵያ የጥበብ ትውፊት አጠቃላይ ዳሰሳ።",
+    "category": "Art",
+    "tags": ["Art", "Hub"],
+    "url": "https://ethiopia.md/art/",
+    "readingTime": 20,
+    "featured": false,
+    "date": "2026-08-11",
+    "path": "Art/_Art Hub.md"
+  },
+  {
+    "title": "Art",
+    "description": "A comprehensive survey of Ethiopia's artistic tradition, spanning from medieval illuminated manuscripts and the rock-hewn churches of Lalibela to modern painting and cinema.",
+    "category": "en",
+    "tags": ["Art", "Hub"],
+    "url": "https://ethiopia.md/en/art/",
+    "readingTime": 28,
+    "featured": false,
+    "date": "2026-08-11",
+    "path": "en/Art/_Art Hub.md"
+  },
+  {
+    "title": "Culture",
+    "description": "An overview introducing Ethiopia's cultural diversity, including its nations and nationalities, languages, religions, calendar, and coffee.",
+    "category": "en",
+    "tags": ["Culture", "Hub"],
+    "url": "https://ethiopia.md/en/culture/",
+    "readingTime": 27,
+    "featured": false,
+    "date": "2026-08-11",
+    "path": "en/Culture/_Culture Hub.md"
+  },
+  {
+    "title": "Economy",
+    "description": "A brief introduction exploring Ethiopia's agriculture-driven economy, the role of coffee and teff, the state-led development strategy, and major pillars from Ethiopian Airlines to the Grand Renaissance Dam.",
+    "category": "en",
+    "tags": ["Economy", "Hub"],
+    "url": "https://ethiopia.md/en/economy/",
+    "readingTime": 27,
+    "featured": false,
+    "date": "2026-08-11",
+    "path": "en/Economy/_Economy Hub.md"
+  },
+  {
+    "title": "Food",
+    "description": "Ethiopian food is built on injera and teff, berbere-spiced stews, the coffee ceremony, and Orthodox fasting traditions, known for its rich flavors that vary from region to region.",
+    "category": "en",
+    "tags": ["Food", "Hub"],
+    "url": "https://ethiopia.md/en/food/",
+    "readingTime": 28,
+    "featured": false,
+    "date": "2026-08-11",
+    "path": "en/Food/_Food Hub.md"
+  },
+  {
+    "title": "Geography",
+    "description": "A geography overview surveying Ethiopia's highland terrain, the Great Rift Valley, its landlocked status, and its biodiversity.",
+    "category": "en",
+    "tags": ["Geography", "Hub"],
+    "url": "https://ethiopia.md/en/geography/",
+    "readingTime": 25,
+    "featured": false,
+    "date": "2026-08-11",
+    "path": "en/Geography/_Geography Hub.md"
+  },
+  {
+    "title": "History",
+    "description": "From the Kingdom of Aksum to the Victory of Adwa, from the Derg military era to the modern federal system: a comprehensive introduction surveying Ethiopia's long history.",
+    "category": "en",
+    "tags": ["History", "Hub"],
+    "url": "https://ethiopia.md/en/history/",
+    "readingTime": 27,
+    "featured": false,
+    "date": "2026-08-11",
+    "path": "en/History/_History Hub.md"
+  },
+  {
+    "title": "Lifestyle",
+    "description": "A brief overview exploring the coffee ceremony, religious practices and the Ge'ez calendar, family ties, and the differences in lifestyle between rural and urban areas.",
+    "category": "en",
+    "tags": ["Lifestyle", "Hub"],
+    "url": "https://ethiopia.md/en/lifestyle/",
+    "readingTime": 27,
+    "featured": false,
+    "date": "2026-08-11",
+    "path": "en/Lifestyle/_Lifestyle Hub.md"
+  },
+  {
+    "title": "Music",
+    "description": "A comprehensive survey of Ethiopian music, spanning from the qenet modal system and traditional instruments to Ethio-jazz and the Golden Age, as well as today's Addis Ababa music scene.",
+    "category": "en",
+    "tags": ["Music", "Hub"],
+    "url": "https://ethiopia.md/en/music/",
+    "readingTime": 28,
+    "featured": false,
+    "date": "2026-08-11",
+    "path": "en/Music/_Music Hub.md"
+  },
+  {
+    "title": "Nature",
+    "description": "From the rare wildlife of the Simien and Bale Mountains to the Rift Valley lakes and the Danakil Depression, a survey of Ethiopia's natural biodiversity and distinctive landscape.",
+    "category": "en",
+    "tags": ["Nature", "Hub"],
+    "url": "https://ethiopia.md/en/nature/",
+    "readingTime": 26,
+    "featured": false,
+    "date": "2026-08-11",
+    "path": "en/Nature/_Nature Hub.md"
+  },
+  {
+    "title": "People",
+    "description": "From the heroes of the Battle of Adwa to long-distance runners who amazed the world, from the father of Ethio-jazz to a fossil scientist — the individuals who shaped Ethiopia.",
+    "category": "en",
+    "tags": ["People", "Hub"],
+    "url": "https://ethiopia.md/en/people/",
+    "readingTime": 31,
+    "featured": false,
+    "date": "2026-08-11",
+    "path": "en/People/_People Hub.md"
+  },
+  {
+    "title": "Society",
+    "description": "A brief survey of Ethiopia's federal structure built on its nations, nationalities, and peoples, its diplomatic role as host country of the African Union, and its demographic and urbanization trends.",
+    "category": "en",
+    "tags": ["Society", "Hub"],
+    "url": "https://ethiopia.md/en/society/",
+    "readingTime": 27,
+    "featured": false,
+    "date": "2026-08-11",
+    "path": "en/Society/_Society Hub.md"
+  },
+  {
+    "title": "Technology",
+    "description": "From the Digital Ethiopia 2030 strategy to Telebirr mobile money and the growing startup ecosystem in Addis Ababa, Ethiopia's technology sector is changing rapidly.",
+    "category": "en",
+    "tags": ["Technology", "Hub"],
+    "url": "https://ethiopia.md/en/technology/",
+    "readingTime": 27,
+    "featured": false,
+    "date": "2026-08-11",
+    "path": "en/Technology/_Technology Hub.md"
+  }
+]
