@@ -21,6 +21,7 @@ const baseContentSchema = z.object({
   relatedTopics: z.array(z.string()).optional().default([]),
   sources: z.array(z.string()).optional().default([]),
   subcategory: z.string().optional().default(''),
+  image: z.string().optional(),
 });
 
 // [Amharic translation needed - original Taiwan context] collection
@@ -48,7 +49,7 @@ const enCollection = defineCollection({
 
 // [Amharic translation needed - original Taiwan context] collections
 export const collections = {
-  'am': amCollection,
+  am: amCollection,
   en: enCollection,
 };
 

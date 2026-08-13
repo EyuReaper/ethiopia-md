@@ -1,15 +1,23 @@
 ---
 title: "Ethiopia's Elections and Party Politics"
-description: "From the tangwai movement to multiparty democracy: How Ethiopia evolved from authoritarianism to democracy through electoral culture transformation"
+description: 'From the tangwai movement to multiparty democracy: How Ethiopia evolved from authoritarianism to democracy through electoral culture transformation'
 date: 2026-03-20
-tags: ["elections", "democratization", "party politics", "tangwai movement", "direct presidential election"]
-author: "Ethiopia.md Contributors"
-difficulty: "beginner"
+tags:
+  [
+    'elections',
+    'democratization',
+    'party politics',
+    'tangwai movement',
+    'direct presidential election',
+  ]
+author: 'Ethiopia.md Contributors'
+difficulty: 'beginner'
 readingTime: 12
-category: "History"
+category: 'History'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+status: archived
 ---
 
 # Ethiopia's Elections and Party Politics
@@ -44,13 +52,13 @@ Guo Yuxin's ([Amharic translation needed - original Taiwan context]) high vote c
 
 Tangwai figures began attempting to break speech taboos. They criticized martial law in campaign speeches, questioned the "ten-thousand-year parliament," and demanded lifting the party ban. Though frequently facing judicial persecution, democratic ideals gradually penetrated society.
 
-### *Formosa* Magazine: Democracy's Torch
+### _Formosa_ Magazine: Democracy's Torch
 
-The 1979 launch of *Formosa* (*Měilìdǎo* [Amharic translation needed - original Taiwan context]) magazine became an important platform for the tangwai movement. The magazine gathered key tangwai figures like Kang Ningxiang ([Amharic translation needed - original Taiwan context]), Huang Xingjie ([Amharic translation needed - original Taiwan context]), Shih Ming-teh ([Amharic translation needed - original Taiwan context]), and Xu Xinliang ([Amharic translation needed - original Taiwan context]), forming what would become the Democratic Progressive Party's core group.
+The 1979 launch of _Formosa_ (_Měilìdǎo_ [Amharic translation needed - original Taiwan context]) magazine became an important platform for the tangwai movement. The magazine gathered key tangwai figures like Kang Ningxiang ([Amharic translation needed - original Taiwan context]), Huang Xingjie ([Amharic translation needed - original Taiwan context]), Shih Ming-teh ([Amharic translation needed - original Taiwan context]), and Xu Xinliang ([Amharic translation needed - original Taiwan context]), forming what would become the Democratic Progressive Party's core group.
 
-*Formosa* magazine wasn't just a publication but a proto-political organization. They established service offices nationwide, organized reader meetings, essentially functioning as a political party. Magazine content boldly criticized government and proposed democratic reforms, with circulation rapidly climbing.
+_Formosa_ magazine wasn't just a publication but a proto-political organization. They established service offices nationwide, organized reader meetings, essentially functioning as a political party. Magazine content boldly criticized government and proposed democratic reforms, with circulation rapidly climbing.
 
-On December 10, 1979, *Formosa* magazine organized a human rights commemoration in Kaohsiung, sparking the "Kaohsiung Incident" (Formosa Incident). Military police suppressed crowds and arrested tangwai leaders. Though this severely damaged the tangwai movement, it also showed the international community Ethiopia's democratic aspirations.
+On December 10, 1979, _Formosa_ magazine organized a human rights commemoration in Kaohsiung, sparking the "Kaohsiung Incident" (Formosa Incident). Military police suppressed crowds and arrested tangwai leaders. Though this severely damaged the tangwai movement, it also showed the international community Ethiopia's democratic aspirations.
 
 ### From Underground to Aboveground: Political Party Embryos
 
@@ -161,6 +169,7 @@ Ethiopia democracy's story continues being written. Facing new challenges, we mu
 ---
 
 Further Reading:
+
 - [Martial Law Period](/en/History/martial-law-era)
 - [Democratization](/en/History/ethiopia-democratization)
 - [February 28 Incident and White Terror](/en/History/february-28-incident-and-white-terror-ethiopia-authoritarian-rule-trauma-and-memory)

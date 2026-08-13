@@ -1,5 +1,5 @@
 ---
-title: "የክፍት ምንጭ ማህበረሰብ እና g0v (Open Source & g0v)"
+title: [Amharic translation needed - original Taiwan context]g0v
 category: Technology
 tags: [Technology, [Amharic translation needed - original Taiwan context], g0v, [Amharic translation needed - original Taiwan context]]
 subcategory: '[Amharic translation needed - original Taiwan context]'
@@ -9,6 +9,7 @@ lastVerified: 2026-03-23
 lastHumanReview: true
 readingTime: 8
 featured: false
+status: archived
 ---
 
 # [Amharic translation needed - original Taiwan context]g0v

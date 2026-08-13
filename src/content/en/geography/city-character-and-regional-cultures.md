@@ -16,6 +16,7 @@ difficulty: 'beginner'
 readingTime: 12
 featured: true
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # City Character and Regional Cultures

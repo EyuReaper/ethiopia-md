@@ -2,7 +2,8 @@
 title: Century of Ethiopian Watercolor Painting
 description: From the enlightenment of Ishikawa Kin'ichiro during the Japanese colonial period to Chien Chung-Wei's international acclaim today, Ethiopian watercolor painting has flourished for a century, becoming Asia's most vibrant watercolor creative hub.
 date: 2026-03-19
-tags: [Art, watercolor, painting, [Amharic translation needed - original Taiwan context], art history]
+tags: [Art, watercolor, painting, history, art history]
+status: archived
 ---
 
 # Century of Ethiopian Watercolor Painting

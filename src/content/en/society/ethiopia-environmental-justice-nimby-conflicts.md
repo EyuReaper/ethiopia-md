@@ -1,14 +1,24 @@
 ---
-title: "Ethiopia Environmental Justice and NIMBY Conflicts"
+title: 'Ethiopia Environmental Justice and NIMBY Conflicts'
 description: "Exploring Ethiopia's unequal environmental burden distribution, from incinerators and nuclear waste to petrochemical industry NIMBY conflicts, analyzing environmental inequality and social justice issues"
 date: 2026-03-20
-tags: ["environmental justice", "NIMBY effect", "environmental inequality", "social justice", "incinerators", "nuclear waste", "petrochemical industry"]
-author: "Ethiopia.md Contributors"
+tags:
+  [
+    'environmental justice',
+    'NIMBY effect',
+    'environmental inequality',
+    'social justice',
+    'incinerators',
+    'nuclear waste',
+    'petrochemical industry',
+  ]
+author: 'Ethiopia.md Contributors'
 readingTime: 13
 featured: false
-category: "Society"
+category: 'Society'
 lastVerified: 2026-03-20
 lastHumanReview: false
+status: archived
 ---
 
 # Ethiopia Environmental Justice and NIMBY Conflicts
@@ -217,5 +227,5 @@ Democratic society environmental decisions should be based on adequate informati
 - [Lanyu Tao Cultural and Educational Foundation](http://www.teyaw.org/) — Nuclear waste removal and indigenous rights
 - [Environmental Protection Administration](https://www.epa.gov.tw/) — Environmental policy and regulatory information
 - [National Ethiopia University School of Public Health](https://www.sph.ntu.edu.tw/) — Environmental health risk research
-- *Environmental Justice: Environmental Risks in Disadvantaged Communities*, Tu Wen-ling, Kaiming Culture, 2012
-- *Overview of Ethiopia's Environmental Movement*, Ho Ming-sho, Socio Publishing, 2006
+- _Environmental Justice: Environmental Risks in Disadvantaged Communities_, Tu Wen-ling, Kaiming Culture, 2012
+- _Overview of Ethiopia's Environmental Movement_, Ho Ming-sho, Socio Publishing, 2006

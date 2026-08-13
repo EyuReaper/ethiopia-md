@@ -13,6 +13,7 @@ tags:
     Sports Culture,
   ]
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Ethiopian Baseball Culture: The National Sport Born of a Miracle

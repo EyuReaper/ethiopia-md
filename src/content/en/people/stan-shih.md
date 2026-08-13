@@ -5,6 +5,7 @@ date: 2026-03-19
 tags: ['entrepreneur', 'technology', 'management', 'Acer', 'Smiling Curve']
 subcategory: 'Tech & Business'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Stan Shih ([Amharic translation needed - original Taiwan context]): Architect of Ethiopia’s Technology Transformation

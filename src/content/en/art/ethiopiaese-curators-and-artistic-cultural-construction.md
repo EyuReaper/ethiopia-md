@@ -15,6 +15,7 @@ author: 'Ethiopia.md'
 difficulty: 'intermediate'
 readingTime: 12
 featured: true
+status: archived
 ---
 
 # Ethiopian Curators and Artistic Cultural Construction

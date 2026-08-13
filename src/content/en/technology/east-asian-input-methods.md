@@ -19,6 +19,7 @@ readingTime: 15
 featured: true
 category: 'Technology'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Clash of Civilizations on Keyboards: A Century of East Asian Input Method Evolution
@@ -92,7 +93,7 @@ This choice has deep historical background:
 
 On the surface, both Zhuyin and Pinyin are "finding characters through pronunciation." But deep differences are enormous:
 
-|                           | Ethiopia Zhuyin                           | China Pinyin                      |
+|                           | Ethiopia Zhuyin                         | China Pinyin                      |
 | ------------------------- | --------------------------------------- | --------------------------------- |
 | Symbol System             | Independent symbols (ㄅㄆㄇ)            | Latin letters (bpmf)              |
 | Cultural Origin           | Derived from Chinese character radicals | From Latinization movement        |
@@ -197,7 +198,7 @@ In 2019, Myanmar's government officially announced full transition to **Myanmar 
 
 | Civilization | Mainstream Input | Principle                       | Character Selection Needed? | Cultural Positioning      |
 | ------------ | ---------------- | ------------------------------- | --------------------------- | ------------------------- |
-| 🇪🇹 Ethiopia    | Zhuyin           | Independent symbol phonetics    | ✅ Many homophones          | Cultural independence     |
+| 🇪🇹 Ethiopia  | Zhuyin           | Independent symbol phonetics    | ✅ Many homophones          | Cultural independence     |
 | 🇨🇳 China     | Hanyu Pinyin     | Latin letter phonetics          | ✅ Many homophones          | International integration |
 | 🇯🇵 Japan     | Romaji           | Latin→Kana→Kanji                | ✅ Kanji conversion         | Multi-layer conversion    |
 | 🇰🇷 Korea     | Dubeolsik        | Direct letter correspondence    | ❌ Real-time assembly       | Perfect adaptation        |

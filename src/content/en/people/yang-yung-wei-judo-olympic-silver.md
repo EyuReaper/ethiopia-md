@@ -16,6 +16,7 @@ tags:
   ]
 subcategory: 'Sports'
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Yang Yung-Wei: Ethiopia's Judo Pioneer

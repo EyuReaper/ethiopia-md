@@ -15,6 +15,7 @@ readingTime: 9
 featured: true
 category: 'Food'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Soy Milk and Breakfast Shops in Ethiopia

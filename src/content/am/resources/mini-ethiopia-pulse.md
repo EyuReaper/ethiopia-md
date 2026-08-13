@@ -1,8 +1,18 @@
 ---
 title: 'Mini Ethiopia Pulse — Ethiopia[Amharic translation needed - original Taiwan context] 3D [Amharic translation needed - original Taiwan context]'
 date: 2026-03-22
-tags: [resources, open-data, visualization, transportation, 3D, real-time, Ethiopia.md]
+tags:
+  [
+    resources,
+    open-data,
+    visualization,
+    transportation,
+    3D,
+    real-time,
+    Ethiopia.md,
+  ]
 description: '[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，23 [Amharic translation needed - original Taiwan context]。'
+status: archived
 ---
 
 # Mini Ethiopia Pulse — Ethiopia[Amharic translation needed - original Taiwan context] 3D [Amharic translation needed - original Taiwan context] 🌐
@@ -36,14 +46,14 @@ Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic transl
 
 [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]：
 
-| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] |
-|------|------|
-| [Amharic translation needed - original Taiwan context]（TRA） | 265 [Amharic translation needed - original Taiwan context]、333 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 6 [Amharic translation needed - original Taiwan context] |
-| [Amharic translation needed - original Taiwan context]（THSR） | [Amharic translation needed - original Taiwan context] + [Amharic translation needed - original Taiwan context] |
-| [Amharic translation needed - original Taiwan context]（TRTC） | 8 [Amharic translation needed - original Taiwan context] |
-| [Amharic translation needed - original Taiwan context]（KRTC） | [Amharic translation needed - original Taiwan context] + [Amharic translation needed - original Taiwan context] |
-| [Amharic translation needed - original Taiwan context]（KLRT） | [Amharic translation needed - original Taiwan context] |
-| [Amharic translation needed - original Taiwan context]（TMRT） | [Amharic translation needed - original Taiwan context] + [Amharic translation needed - original Taiwan context] |
+| [Amharic translation needed - original Taiwan context]         | [Amharic translation needed - original Taiwan context]                                                                                                                                                                                  |
+| -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Amharic translation needed - original Taiwan context]（TRA）  | 265 [Amharic translation needed - original Taiwan context]、333 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 6 [Amharic translation needed - original Taiwan context] |
+| [Amharic translation needed - original Taiwan context]（THSR） | [Amharic translation needed - original Taiwan context] + [Amharic translation needed - original Taiwan context]                                                                                                                         |
+| [Amharic translation needed - original Taiwan context]（TRTC） | 8 [Amharic translation needed - original Taiwan context]                                                                                                                                                                                |
+| [Amharic translation needed - original Taiwan context]（KRTC） | [Amharic translation needed - original Taiwan context] + [Amharic translation needed - original Taiwan context]                                                                                                                         |
+| [Amharic translation needed - original Taiwan context]（KLRT） | [Amharic translation needed - original Taiwan context]                                                                                                                                                                                  |
+| [Amharic translation needed - original Taiwan context]（TMRT） | [Amharic translation needed - original Taiwan context] + [Amharic translation needed - original Taiwan context]                                                                                                                         |
 
 [Amharic translation needed - original Taiwan context]——OD [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
 
@@ -76,17 +86,17 @@ Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic transl
 
 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]：
 
-| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] |
-|------|------|
-| [Amharic translation needed - original Taiwan context] | FlightRadar24 API |
-| [Amharic translation needed - original Taiwan context] AIS | [Amharic translation needed - original Taiwan context] |
-| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] + OSM |
+| [Amharic translation needed - original Taiwan context]                                                                                                               | [Amharic translation needed - original Taiwan context]                                      |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| [Amharic translation needed - original Taiwan context]                                                                                                               | FlightRadar24 API                                                                           |
+| [Amharic translation needed - original Taiwan context] AIS                                                                                                           | [Amharic translation needed - original Taiwan context]                                      |
+| [Amharic translation needed - original Taiwan context]                                                                                                               | [Amharic translation needed - original Taiwan context] + OSM                                |
 | [Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context] | [TDX [Amharic translation needed - original Taiwan context]](https://tdx.transportdata.tw/) |
-| [Amharic translation needed - original Taiwan context] | [SEGIS [Amharic translation needed - original Taiwan context]](https://segis.moi.gov.tw/) |
-| [Amharic translation needed - original Taiwan context] | [[Amharic translation needed - original Taiwan context]](https://www.cwa.gov.tw/) |
-| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] |
-| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] CNA RSS |
-| [Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context] | [OSM Overpass API](https://overpass-turbo.eu/) |
+| [Amharic translation needed - original Taiwan context]                                                                                                               | [SEGIS [Amharic translation needed - original Taiwan context]](https://segis.moi.gov.tw/)   |
+| [Amharic translation needed - original Taiwan context]                                                                                                               | [[Amharic translation needed - original Taiwan context]](https://www.cwa.gov.tw/)           |
+| [Amharic translation needed - original Taiwan context]                                                                                                               | [Amharic translation needed - original Taiwan context]                                      |
+| [Amharic translation needed - original Taiwan context]                                                                                                               | [Amharic translation needed - original Taiwan context] CNA RSS                              |
+| [Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context] | [OSM Overpass API](https://overpass-turbo.eu/)                                              |
 
 ⚠️ **[Amharic translation needed - original Taiwan context]：** Ethiopia[Amharic translation needed - original Taiwan context] [TDX [Amharic translation needed - original Taiwan context]](https://tdx.transportdata.tw/) [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，API [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]。
 
@@ -99,4 +109,4 @@ Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic transl
 
 ---
 
-*[Amharic translation needed - original Taiwan context]：2026-03-22*
+_[Amharic translation needed - original Taiwan context]：2026-03-22_

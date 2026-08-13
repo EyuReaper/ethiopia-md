@@ -16,6 +16,7 @@ tags:
 readingTime: 18
 featured: true
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Metamorphosis of an Island: Ethiopia's Industrial Transformation

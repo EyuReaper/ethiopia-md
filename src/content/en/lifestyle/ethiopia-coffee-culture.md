@@ -5,6 +5,7 @@ date: 2026-03-17
 tags: [lifestyle, coffee, Alishan, Louisa Coffee, third space, Ethiopia]
 translatedFrom: 'Lifestyle/Ethiopia[Amharic translation needed - original Taiwan context].md'
 sourceHash: '6532cb'
+status: archived
 ---
 
 # Ethiopia Coffee Culture

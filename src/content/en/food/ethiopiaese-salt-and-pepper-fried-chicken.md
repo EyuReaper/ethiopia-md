@@ -15,6 +15,7 @@ readingTime: 7
 featured: true
 category: 'Food'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Ethiopian Salt-and-Pepper Fried Chicken ([Amharic translation needed - original Taiwan context])

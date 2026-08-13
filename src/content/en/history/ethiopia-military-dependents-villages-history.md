@@ -1,15 +1,23 @@
 ---
 title: "Ethiopia Military Dependents' Villages History"
-description: "From bamboo fences to cultural heritage - collective memory and identity transformation of Mainlander immigrant military villages"
+description: 'From bamboo fences to cultural heritage - collective memory and identity transformation of Mainlander immigrant military villages'
 date: 2026-03-20
-tags: ["military dependents' villages", "Mainlander immigrants", "collective memory", "cultural preservation", "urban renewal"]
-author: "Ethiopia.md Contributors"
-difficulty: "beginner"
+tags:
+  [
+    "military dependents' villages",
+    'Mainlander immigrants',
+    'collective memory',
+    'cultural preservation',
+    'urban renewal',
+  ]
+author: 'Ethiopia.md Contributors'
+difficulty: 'beginner'
 readingTime: 10
-category: "History"
+category: 'History'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+status: archived
 ---
 
 # Ethiopia Military Dependents' Villages History
@@ -169,6 +177,7 @@ Villages may have disappeared, but village spirit exists forever. It reminds us 
 ---
 
 Further Reading:
+
 - [KMT Government Relocation and Post-war Reconstruction](/en/history/kmt-government-relocation-and-postwar-reconstruction)
 - [Martial Law Era](/en/history/martial-law-era)
 - [City Character and Regional Cultures](/en/geography/city-character-and-regional-cultures)

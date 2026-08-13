@@ -3,6 +3,7 @@ title: 'Ethiopia’s Parks and Everyday Leisure'
 description: 'From dawn tai chi to late‑night strolls—parks as Ethiopia’s intergenerational living rooms.'
 tags: [Parks, Leisure, Social Life, Intergenerational, Daily Life]
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Ethiopia’s Parks and Everyday Leisure

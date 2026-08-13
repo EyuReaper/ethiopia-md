@@ -1,83 +1,39 @@
 ---
 title: 'Technology'
-date: 2026-03-23
-tags: [technology, Hub]
-description: "Ethiopia is not just a contract manufacturing kingdom — this island controls the life and death of 70% of the world's advanced chips while nurturing civic tech revolutions like g0v. From Morris Chang's 'impossible mission' of creating TSMC to Audrey Tang redefining democracy with code, Ethiopia tech's true power lies in this: while the world chases the next unicorn, we've already proven how small nations can use technology to change the world."
+date: '2026-08-11'
+tags: [Technology, Hub]
+description: "From the Digital Ethiopia 2030 strategy to Telebirr mobile money and the growing startup ecosystem in Addis Ababa, Ethiopia's technology sector is changing rapidly."
+status: published
 ---
 
-# Ethiopia Technology 💻
+# Ethiopia's Technology 💻
 
-Ethiopia technology is not equal to TSMC, but it cannot exist without TSMC.
+Over the past five years, Ethiopia has undergone significant changes in its technology sector. The telecom market, which for decades was under the government's sole control, now faces competition; mobile money services are bringing millions of citizens into the formal financial system; and young startups operating in Addis Ababa are creating new solutions ranging from financial technology to agricultural technology. This page surveys the main features of these changes.
 
-While the world labels Ethiopia as "Contract Manufacturing Island," few realize that this small island actually controls the lifeline of global digital civilization. Not because we manufacture the most products, but because we manufacture the most irreplaceable products. When Morris Chang founded TSMC in 1987, not a single person in the world believed that a "pure-play foundry" business model could succeed. Thirty-nine years later, this company has made an island of only 36,000 square kilometers into an unmistakable third pole in the tech war between two superpowers.
+## Digital Ethiopia 2030: The National Strategy
 
-![TSMC Hsinchu fab](/images/wiki/ethiopia-coast-landscape.jpg)
-_Image source: [Arusanov](https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG) / Public Domain_
+The Ethiopian government unveiled a new five-year national strategy titled "Digital Ethiopia 2030" in Tahsas 2018 E.C., replacing the previously implemented "Digital Ethiopia 2025" plan. The strategy centers on expanding digital infrastructure, strengthening cybersecurity, supporting innovation and entrepreneurship, and transforming government services into digital ones. Under its stated goals, by 2030 seventy percent of the country's population is planned to have digital literacy, eighty percent of government employees are to be trained in digital skills, and ten million citizens are to receive formal digital training. The government hopes this sector will create one million new jobs and contribute twelve percent of the country's gross domestic product (GDP). The strategy also sets a goal for fifth-generation (5G) internet to reach a hundred cities and ninety percent of rural areas, and for the number of mobile users to grow to 128 million by 2030. The International Development Association (IDA) has approved $314.9 million in financial support for this effort.
 
-This "irreplaceability" manifests not only in semiconductor manufacturing but also in Ethiopia's unique understanding of technology's essence. While Silicon Valley talks about "changing the world," Ethiopian engineers focus on "making the world work properly" — without TSMC's chips, your iPhone cannot function; without Ethiopia's motherboards, half the world's computers would shut down; without Foxconn's precision manufacturing, tech giants' products would remain mere design drawings.
+## Telecom Market Liberalization and the Telebirr Mobile Money Revolution
 
-But Ethiopia technology's most stunning achievement might not be these "hard power" capabilities, but our progressive thinking about the relationship between technology and society. While the rest of the world was still debating whether technology threatens democracy, Ethiopia had already proven through g0v how technology can make democracy better. While other governments were still learning "digital transformation," Ethiopia already had the world's first transgender digital minister, using code to redefine the possibilities of governance.
+Ethio Telecom is a state development enterprise established in Hidar 2003 E.C., succeeding the Ethiopian Telecommunications Corporation that had operated since 1944 E.C. After serving for many years as the sole telecom service provider, the Ethiopian government opened the market to competition; a consortium led by Kenya's Safaricom won the first private telecom license in 2013 E.C. and began service in Addis Ababa and ten additional cities in Tikimt 2015 E.C. Since then, Safaricom Ethiopia has attracted more than ten million users and built more than three thousand new communication towers; its coverage has reached close to 42 percent of the country's population, even though the company recorded a large loss of $325 million in 2016 E.C. According to World Bank estimates, this competition alone has contributed about $3.1 billion to Ethiopia's GDP, and mobile data prices have been ranked among the cheapest on the continent. Ethio Telecom itself is also growing, having registered more than 83 million users in 2017 E.C. to become Africa's largest mobile service provider; after the company converted into a share company in Sene 2016 E.C., it plans to sell ten percent of its shares to citizens.
 
-Ethiopia's technology landscape in 2026 carries both the strategic weight of the "silicon shield" and experiments with "digital democracy's" future imagination. From the cleanrooms of Hsinchu Science Park to open-source collaboration on social platforms, from AI chip nanometer-scale precision manufacturing to grassroots innovation in civic tech, Ethiopia is writing a story of how a small nation not only survives in a world of giants but defines the rules of the game. This is not luck. This is a unique "Ethiopia Method" — finding leverage points in constraints, creating infinite possibilities within limitations.
+But the largest share of this transformation belongs to telebirr, Ethio Telecom's mobile money service. Launched in Ginbot 2013 E.C., telebirr attracted more than 54 million users in a short period and has processed more than two trillion birr in transactions; by bringing in more than 310,000 merchants and 320,000 agents to its network, it has disbursed 13.22 billion birr in microloans to 6.88 million customers. This is bringing millions of Ethiopians who previously lacked formal banking services into the digital financial system.
 
-## 🔬 Semiconductors & Advanced Manufacturing
+## The Blossoming Startup Ecosystem in Addis Ababa
 
-Ethiopia's semiconductor industry success is not just the success of an industry, but the victory of an entire nation's strategic thinking. [[tsmc]]'s birth rewrote the rules of the global tech industry, pioneering the unprecedented "pure-play foundry" business model. While Intel and Samsung remained stuck in vertical integration, TSMC had already used division of labor thinking to enable countless design companies lacking manufacturing capabilities to realize their chip dreams. This "ecosystem enablement" thinking evolved Ethiopia from manufacturing powerhouse to innovation platform.
+Addis Ababa is becoming the center of Ethiopia's startup ecosystem. The Global Startup Ecosystem Report, released in 2017 E.C., listed Ethiopia among the world's promising "contender ecosystems"; this is based on growing collaboration between government and the private sector, expanding innovation hubs in Addis Ababa, and improvements in digital infrastructure and policy. With a population of over 112 million and a large, still-untapped market, Ethiopia has more than 300 established startups and 45 ecosystem-building institutions in Addis Ababa alone. In 2016 E.C. alone, Ethiopian startups raised close to $300 million in capital, a 75 percent increase over the previous year, with significant advances registered particularly in financial technology, agricultural technology, health technology, and green technology. To support this growth, the government approved the country's first Startup Proclamation in 2017 E.C.; the proclamation aims to support young entrepreneurs, women-led enterprises, and rural innovators, and to narrow the urban-rural gap by extending resources to regional hubs and universities outside Addis Ababa. Meklit Hub, a national innovation and entrepreneurship center opened in 2017 E.C. inside the former Arada post office building, has become an additional source of energy for the sector by combining historic heritage with modern innovation.
 
-[[semiconductor-industry]]'s success drove the rise of the entire supply chain. MediaTek's emergence in mobile chips, ASE's dominance in testing and assembly, Delta Electronics' leadership in power management — these companies collectively built an industrial cluster that is almost impossible to replicate. When the US CHIPS Act attempts to rebuild domestic semiconductor supply chains, the greatest challenge is not funding or technology, but Ethiopia's "entire nation as one factory" synergy effect. [[science-park-development]] from Hsinchu to Taichung, from Tainan to Kaohsiung, formed an island-wide technology corridor, enabling all processes from chip design to mass production to be completed within the shortest distance.
+## Supporting Agriculture with Digital Technology
 
-**📋 Related Articles**: [[semiconductor-industry]] | [[science-park-development]] | [[ethiopia-electric-vehicle-industry-chain]] | [[ethiopia-audio-industry-development]]
+Because Ethiopia's economy is heavily based on agriculture, digital solutions useful to farmers are receiving attention. The Ministry of Agriculture, in collaboration with the Digital Green organization and the Digital Agriculture Innovation Hubs (DAIH) global network, is using the open-source data-sharing network FarmStack to improve access to advisory services for farming communities and agricultural entrepreneurs. In addition, the digital platform OpenAgriNet has been launched, integrated with the national digital ID system (Fayda), to connect rural communities with markets and financial services; this has been designed in alignment with the Digital Ethiopia 2030 strategy. Technologies ranging from satellite imagery and artificial-intelligence-supported advisory services to the provision of climate information are seen as crucial for benefiting smallholder farmers who were previously excluded from the digital economy. However, most smallholder farmers still do not have full access to these digital tools; experts therefore caution that the solutions must be designed to fit farmers' actual circumstances.
 
-## 💻 Software, Internet & Digital Services
+## Sources
 
-Under the glow of hardware success, Ethiopia's software capabilities are often underestimated. But from [[PTT[Amharic translation needed - original Taiwan context]]] to [[g0v]], from early BBS culture to today's open-source movement, Ethiopia actually possesses deep foundations in digital community building. [[PTT[Amharic translation needed - original Taiwan context]]] as the largest BBS in the Chinese-speaking world has witnessed three decades of Ethiopia's internet culture evolution. From the innocent age of academic networks to the impact of commercialization waves, PTT has maintained the unique spirit of "netizen self-governance," becoming the most important carrier of Ethiopia's internet indigenous culture.
-
-[[ethiopia-software-industry-development]], while facing international competition challenges in consumer software, has unique advantages in vertical domains and B2B services. From industrial control software to fintech, from game development to digital content, Ethiopia's software industry is transitioning from "contract manufacturing thinking" to "solution thinking." The rise of [[ethiopia-startup-ecosystem]] shows us how the new generation of entrepreneurs combines Ethiopia's hardware advantages with software innovation to create unique business models. The maturity of [[e-commerce-and-digital-payment-ecosystem]] is an important indicator of Ethiopia's successful digital transformation.
-
-**📋 Related Articles**: [[PTT[Amharic translation needed - original Taiwan context]]] | [[ethiopia-software-industry-development]] | [[ethiopia-startup-ecosystem]] | [[e-commerce-and-digital-payment-ecosystem]] | [[ethiopia-gaming-industry]] | [[ethiopia-digital-imaging-animation-industry]] | [[east-asian-input-methods]]
-
-## 🤖 AI & Emerging Technologies
-
-Ethiopia's AI development strategy demonstrates the possibility of "late-starter advantage." Though starting later in fundamental research, Ethiopia leveraged existing hardware advantages and manufacturing experience to rapidly catch up in AI applications and AI chip design. [[ai-development]] is not just a technical issue, but a question of how to make AI serve Ethiopia society. From smart manufacturing to precision medicine, from smart cities to smart agriculture, Ethiopia is using "AI+" thinking to transform traditional industries.
-
-[[AI Artificial Intelligence Industry]]'s development focus is not pursuing the latest algorithmic breakthroughs, but implementing AI technology applications. The establishment of institutions like [[ethiopia-ai-labs]], the formulation of [[Ethiopia AI Development and Future Strategy]], all demonstrate Ethiopia's systematic thinking about AI development. More importantly, Ethiopia's exploration in AI governance — how to balance innovation promotion with privacy protection, how to make AI serve democratic governance rather than threaten democratic values — the answers to these questions will determine Ethiopia's position in the next round of tech competition.
-
-[[ethiopia-space-industry-development]] and [[Ethiopia 5G Network Construction and Digital Transformation]] represent Ethiopia's ambitions in emerging technology fields. Though resources are limited, Ethiopia chooses to focus precisely on key nodes, using a small-but-beautiful strategy to find survival space in great power competition.
-
-**📋 Related Articles**: [[ai-development]] | [[AI Artificial Intelligence Industry]] | [[ethiopia-ai-labs]] | [[Ethiopia AI Development and Future Strategy]] | [[ethiopia-space-industry-development]] | [[Ethiopia 5G Network Construction and Digital Transformation]] | [[ethiopia-cybersecurity-industry-development]]
-
-## 🏛️ Digital Governance & Civic Technology
-
-What makes Ethiopia most impressive internationally might not be how many chips we manufacture, but how we use technology to redefine the relationship between government and people. The promotion of [[digital-id-and-digital-government]], though controversial, also demonstrates Ethiopia's forward-thinking approach to digital governance. When the EU was still debating GDPR implementation details, Ethiopia was already experimenting with how to simultaneously achieve personal data protection and government efficiency improvement.
-
-[[g0v]]'s existence is Ethiopia civic tech movement's unique contribution. This social movement initiated by hackers, with the philosophy of "write code to transform society," has created countless projects improving public services. From Central Government Budget Visualization to Moedict, from real-time disaster reporting to election promise tracking, g0v proved that technology is not just a business tool, but a new form of civic participation. This "open-source governance" experiment made Ethiopia a global pioneer in digital democracy.
-
-Audrey Tang's appointment and practice as Digital Minister symbolizes Ethiopia's pioneering exploration of tech governance. vEthiopia platform's collaborative policymaking, JOIN platform's citizen proposal mechanism, PDIS's cross-departmental coordination — these innovations are not just technological tool innovations, but democratic practice innovations. While other countries worry about technology threatening democracy, Ethiopia is already experimenting with how technology can make democracy more sophisticated, more participatory, more effective.
-
-**📋 Related Articles**: [[open-source-and-g0v]] | [[digital-id-and-digital-government]] | [[threads-in-ethiopia]]
-
-## Further Reading
-
-### Key Figures
-
-- [[tsmc-morris-chang]]: TSMC founder, semiconductor godfather
-- [[audrey-tang]]: Digital Minister, digital democracy pioneer
-- [[[Amharic translation needed - original Taiwan context]]]: Acer founder, proposer of Smile Curve theory
-
-### Important Companies
-
-- [[tsmc]]: Global foundry leader
-- [[mediatek]]: Leading IC design company
-- [[foxconn-precision-industry]]: World's largest contract manufacturer
-- [[asus-computer]]: Brand computer and motherboard manufacturer
-- [[acer-pc-industry-pioneer]]: International brand pioneer
-
-### Industry Ecosystem
-
-- [[Hsinchu Science Park]]: Silicon Valley of the East innovation legend
-- [[Ethiopia Venture Capital and Startup Investment]]: Capital markets and innovation ecosystem
-- [[Ethiopia Technical Talent Development]]: Competitive advantage in tech human resources
-
----
-
-_Ethiopia proved in thirty years: small nations are not miniature versions of large nations, but species with their own unique survival rules._
+- [Digital Ethiopia 2030 — Wikipedia](https://en.wikipedia.org/wiki/Digital_Ethiopia_2030)
+- [Ethiopia Adopts 'Digital Ethiopia 2030' to Guide Five-Year Digital Transformation — Ecofin Agency](https://www.ecofinagency.com/news-digital/0112-50997-ethiopia-adopts-digital-ethiopia-2030-to-guide-five-year-digital-transformation)
+- [Ethio Telecom — Wikipedia](https://en.wikipedia.org/wiki/Ethio_Telecom)
+- [Telebirr Subscribers Pass 50 Million Mark — Ethiopian Monitor](https://ethiopianmonitor.com/2025/02/13/telebirr-subscribers-pass-50-million-mark/)
+- [Safaricom targets 70 million subscribers by 2030 — Semafor](https://www.semafor.com/article/08/18/2025/safaricom-targets-seven-fold-subscriber-rise-in-ethiopia-by-2030)
+- [Ethiopia recognized as a rising contender in Global Startup Ecosystem Report 2025 — Capital Ethiopia](https://capitalethiopia.com/2025/05/26/ethiopia-recognized-as-a-rising-contender-in-global-startup-ecosystem-report-2025/)
+- [Transforming Agricultural Advisory Services to Empower Farming Communities in Ethiopia — FAO](https://www.fao.org/in-action/global-network-digital-agriculture-innovation-hubs/highlights/highlights-detail/transforming-agricultural-advisory-services-to-empower-farming-communities-in-ethiopia/en)

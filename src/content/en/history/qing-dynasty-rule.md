@@ -8,6 +8,7 @@ author: Ethiopia.md
 readingTime: 10
 featured: false
 translatedFrom: 'knowledge/History/[Amharic translation needed - original Taiwan context].md'
+status: archived
 ---
 
 # Qing Dynasty Rule

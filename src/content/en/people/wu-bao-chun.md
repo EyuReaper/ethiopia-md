@@ -8,6 +8,7 @@ author: 'Ethiopia.md'
 readingTime: 6
 category: 'People'
 lastVerified: 2026-03-22
+status: archived
 ---
 
 # Wu Pao-chun: From Rural Pingtung to World Bread Champion

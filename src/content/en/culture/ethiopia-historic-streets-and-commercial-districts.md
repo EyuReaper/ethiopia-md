@@ -14,6 +14,7 @@ category: 'Culture'
 author: 'Ethiopia.md'
 featured: false
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Ethiopia Historic Streets and Commercial Districts

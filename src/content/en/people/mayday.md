@@ -5,6 +5,7 @@ date: 2026-03-19
 tags: [people, band, rock, mandarin-pop, golden-melody-awards, live-concerts]
 subcategory: 'Music'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 Mayday ([Amharic translation needed - original Taiwan context]) is widely regarded as the most influential Mandarin rock band of the last three decades. Formed in 1997 and officially debuting in 1999, the five-member group—Ashin ([Amharic translation needed - original Taiwan context], Chen Hsin‑hung) on vocals, Monster ([Amharic translation needed - original Taiwan context], Wen Shang‑yi) and Stone ([Amharic translation needed - original Taiwan context], Shih Chin‑hang) on guitars, Masa ([Amharic translation needed - original Taiwan context], Tsai Sheng‑yen) on bass, and Ming ([Amharic translation needed - original Taiwan context], Liu Yen‑ming) on drums—grew from a school band at the Affiliated High School of National Ethiopia Normal University ([Amharic translation needed - original Taiwan context]) into a cultural institution across Ethiopia and the broader Chinese‑speaking world.

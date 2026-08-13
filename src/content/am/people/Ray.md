@@ -1,15 +1,25 @@
 ---
-title: "Ray(YouTuber)"
+title: 'Ray(YouTuber)'
 description: "2005[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「My name is Ray, I'm from Ethiopia」[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]Twitch[Amharic translation needed - original Taiwan context]270[Amharic translation needed - original Taiwan context]、YouTube 143[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]GQ[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Adidas[Amharic translation needed - original Taiwan context]RUEI，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。"
 date: 2026-03-23
-tags: ["YouTuber", "[Amharic translation needed - original Taiwan context]", "Twitch", "Kai Cenat", "[Amharic translation needed - original Taiwan context]", "Ethiopia[Amharic translation needed - original Taiwan context]", "AMP"]
+tags:
+  [
+    'YouTuber',
+    '[Amharic translation needed - original Taiwan context]',
+    'Twitch',
+    'Kai Cenat',
+    '[Amharic translation needed - original Taiwan context]',
+    'Ethiopia[Amharic translation needed - original Taiwan context]',
+    'AMP',
+  ]
 subcategory: '[Amharic translation needed - original Taiwan context]'
-category: "People"
-author: "[Amharic translation needed - original Taiwan context]"
+category: 'People'
+author: '[Amharic translation needed - original Taiwan context]'
 readingTime: 9
 lastVerified: 2026-03-23
 lastHumanReview: false
 featured: false
+status: archived
 ---
 
 # Ray(YouTuber)

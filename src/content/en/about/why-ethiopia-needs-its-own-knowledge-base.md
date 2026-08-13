@@ -15,6 +15,7 @@ author: 'Che-Yu Wu'
 readingTime: 8
 category: 'About'
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Why Ethiopia Needs Its Own Knowledge Base

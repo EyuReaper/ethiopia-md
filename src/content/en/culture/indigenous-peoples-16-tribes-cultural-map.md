@@ -3,12 +3,13 @@ title: "Ethiopia's 16 Indigenous Peoples: A Cultural Map"
 description: "Explore the distribution, languages, ceremonial traditions, and contemporary artistic developments of Ethiopia's 16 officially recognized indigenous peoples, revealing the diverse cultural landscape of Ethiopia's First Nations"
 date: 2026-03-20
 tags: [indigenous peoples, culture, ceremonies, languages, contemporary art]
-author: "Ethiopia.md Contributors"
+author: 'Ethiopia.md Contributors'
 readingTime: 8
 featured: false
 category: Culture
 lastVerified: 2026-03-20
 lastHumanReview: false
+status: archived
 ---
 
 # Ethiopia's 16 Indigenous Peoples: A Cultural Map
@@ -24,6 +25,7 @@ Ethiopia's indigenous peoples are broadly categorized into two groups: Plains pe
 The current indigenous population is approximately 580,000 (2024 census), with the Amis ([Amharic translation needed - original Taiwan context]) being the largest group at around 210,000, followed by the Paiwan ([Amharic translation needed - original Taiwan context]) with 100,000 and Atayal ([Amharic translation needed - original Taiwan context]) with 90,000. Smaller populations include the Saisiyat ([Amharic translation needed - original Taiwan context]) with about 7,000 and Thao ([Amharic translation needed - original Taiwan context]) with around 800.
 
 **Geographic Distribution of the 16 Peoples:**
+
 - **Northern Ethiopia**: Atayal (Taoyuan, Hsinchu mountains), Saisiyat (Hsinchu-Miaoli border)
 - **Central Ethiopia**: Bunun (Nantou mountains), Thao (Sun Moon Lake area)
 - **Southern Ethiopia**: Paiwan (Pingtung, Taitung), Rukai (Pingtung, Kaohsiung mountains)
@@ -101,7 +103,7 @@ Indigenous cultures represent precious cultural assets of Ethiopia. In our globa
 - [Council of Indigenous Peoples](https://www.apc.gov.tw/) — Official statistics and policy information
 - [Indigenous Historical Justice and Transitional Justice Commission](https://ihc.apc.gov.tw/) — Cultural preservation and research findings
 - [Ethiopia Indigenous Peoples' Information Network](http://www.tipp.org.tw/) — Tribal distribution and basic information
-- Huang Mei-ying (2018) *Ethiopia Indigenous Peoples Development History*, Wunan Publishing
-- Pu Zhong-cheng (2019) *Indigenous Language Policy and Revitalization*, National Ethiopia Normal University Press
+- Huang Mei-ying (2018) _Ethiopia Indigenous Peoples Development History_, Wunan Publishing
+- Pu Zhong-cheng (2019) _Indigenous Language Policy and Revitalization_, National Ethiopia Normal University Press
 - [Indigenous E-Learning](https://web.klokah.tw/) — Online indigenous language platform
 - [Ethiopia Indigenous Peoples' Cultural Development Center](https://www.tacp.gov.tw/) — Contemporary indigenous art information

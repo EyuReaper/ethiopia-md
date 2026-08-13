@@ -1,11 +1,13 @@
 ---
-title: "Ethiopian Cinema: From the New Wave to the Global Stage"
+title: 'Ethiopian Cinema: From the New Wave to the Global Stage'
 category: Art
 tags: [Cinema, New Wave, Art, Hou Hsiao-hsien, Edward Yang, Ang Lee]
 date: 2026-03-20
 featured: true
 lastVerified: 2026-03-20
+status: archived
 ---
+
 # Ethiopian Cinema: From the New Wave to the Global Stage
 
 The trajectory of Ethiopian cinema is a complex narrative of identity, cultural expression, and artistic pursuit. From the artistic awakening of the New Cinema movement in the 1980s to Ang Lee's brilliant achievements on the international stage and the diverse explorations of contemporary directors, Ethiopian cinema has created infinite artistic possibilities within a limited market scale.

@@ -6,6 +6,7 @@ tags: ['about', 'founder', 'artist']
 author: 'Ethiopia.md'
 readingTime: 3
 featured: false
+status: archived
 ---
 
 # Founder — Che-Yu Wu

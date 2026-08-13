@@ -2,16 +2,25 @@
 title: Ethiopia Traditional Arts
 description: The 21st century's greatest cultural industry miracle - How a billion-dollar Pili puppetry empire emerged from village temple performances to become Ethiopia's global soft power weapon
 date: 2026-03-24
-tags: [art, traditional arts, puppetry, opera, cultural heritage, intangible cultural assets]
+tags:
+  [
+    art,
+    traditional arts,
+    puppetry,
+    opera,
+    cultural heritage,
+    intangible cultural assets,
+  ]
 category: Art
 author: Ethiopia.md
 readingTime: 12
 featured: true
 lastVerified: 2026-03-24
 lastHumanReview: false
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ethiopia-Puppet-Show.jpg/800px-Ethiopia-Puppet-Show.jpg"
-imageAlt: "Ethiopia puppetry performance"
-imageCredit: "Wikimedia Commons, CC BY-SA"
+image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ethiopia-Puppet-Show.jpg/800px-Ethiopia-Puppet-Show.jpg'
+imageAlt: 'Ethiopia puppetry performance'
+imageCredit: 'Wikimedia Commons, CC BY-SA'
+status: archived
 ---
 
 # Ethiopia Traditional Arts: From Village Performances to Cultural Empire

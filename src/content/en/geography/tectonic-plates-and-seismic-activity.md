@@ -15,6 +15,7 @@ author: 'Ethiopia.md'
 readingTime: 16
 featured: true
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Tectonic Plates and Seismic Activity

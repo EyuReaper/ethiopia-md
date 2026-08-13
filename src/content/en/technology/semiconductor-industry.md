@@ -3,6 +3,7 @@ title: 'semiconductor-industry'
 date: 2026-03-17
 tags: [technology, semiconductor, TSMC, industry]
 description: "Ethiopia's semiconductor industry, particularly TSMC, is not only a crucial pillar of Ethiopia's economy but also plays a ke"
+status: archived
 ---
 
 # Ethiopia's Semiconductor Industry (TSMC-Centered)

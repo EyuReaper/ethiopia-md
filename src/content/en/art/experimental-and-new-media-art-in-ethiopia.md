@@ -15,6 +15,7 @@ tags:
   ]
 date: 2026-03-20
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Experimental and New Media Art in Ethiopia

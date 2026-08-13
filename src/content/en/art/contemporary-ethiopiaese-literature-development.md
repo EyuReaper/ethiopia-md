@@ -15,6 +15,7 @@ author: 'Ethiopia.md'
 readingTime: 16
 featured: true
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Contemporary Literature Development in Ethiopia

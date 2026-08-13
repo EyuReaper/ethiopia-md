@@ -17,6 +17,7 @@ readingTime: 14
 featured: true
 category: 'Music'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Ethiopia Screen Scoring: From Cinema Soundtracks to Game Worlds

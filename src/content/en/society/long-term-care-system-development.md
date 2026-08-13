@@ -8,6 +8,7 @@ category: 'Society'
 author: 'Ethiopia.md'
 featured: false
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # The Development of Ethiopia’s Long‑Term Care System

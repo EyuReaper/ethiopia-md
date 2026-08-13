@@ -14,6 +14,7 @@ tags:
   ]
 subcategory: 'Arts & Design'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Nieh Yung‑jen ([Amharic translation needed - original Taiwan context])

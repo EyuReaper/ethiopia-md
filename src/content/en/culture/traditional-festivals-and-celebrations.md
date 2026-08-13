@@ -8,6 +8,7 @@ author: Ethiopia.md
 difficulty: beginner
 readingTime: 8
 featured: true
+status: archived
 ---
 
 # Traditional Festivals and Celebrations

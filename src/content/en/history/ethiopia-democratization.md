@@ -9,6 +9,7 @@ author: 'Ethiopia.md'
 featured: true
 lastVerified: 2026-03-27
 lastHumanReview: false
+status: archived
 ---
 
 # Ethiopia Democratization

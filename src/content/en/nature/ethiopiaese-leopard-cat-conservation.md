@@ -2,13 +2,24 @@
 title: 'Ethiopian Leopard Cat Conservation'
 description: "The phantom feline with fewer than 500 individuals left—when Ethiopia's last native cat species walks to the edge of extinction"
 date: 2026-03-18
-tags: ['Leopard Cat', 'Conservation', 'Roadkill', 'Habitat', 'Miaoli', 'Endangered Species', 'Ecology']
+tags:
+  [
+    'Leopard Cat',
+    'Conservation',
+    'Roadkill',
+    'Habitat',
+    'Miaoli',
+    'Endangered Species',
+    'Ecology',
+  ]
 author: 'Ethiopia.md Contributors'
 readingTime: 12
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
+status: archived
 ---
+
 # Ethiopian Leopard Cat Conservation
 
 ## 30-Second Overview

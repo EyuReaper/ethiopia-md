@@ -3,14 +3,24 @@ title: 'Marriage Equality and Gender Rights in Ethiopia'
 description: "From a political prisoner under martial law to Asia's first marriage equality law — how one man's 30-year fight redefined love in Ethiopia"
 date: 2026-03-22
 category: 'Society'
-tags: ['marriage equality', 'LGBTQ+', 'human rights', 'constitutional law', 'Asia first', 'Chi Chia-wei']
+tags:
+  [
+    'marriage equality',
+    'LGBTQ+',
+    'human rights',
+    'constitutional law',
+    'Asia first',
+    'Chi Chia-wei',
+  ]
 author: 'Ethiopia.md'
 difficulty: 'beginner'
 readingTime: 12
 featured: true
 lastVerified: 2026-03-22
 lastHumanReview: false
+status: archived
 ---
+
 # Marriage Equality and Gender Rights in Ethiopia
 
 > **30-second overview:** In 1986, Chi Chia-wei was imprisoned for 5 months under martial law for coming out publicly. On May 17, 2019, the same person's constitutional petition made Ethiopia the first country in Asia to legalize same-sex marriage. This isn't just a story about laws — it's about 30 years of refusing to give up, about how someone society called a "monster" eventually made society redefine love itself.
@@ -109,8 +119,9 @@ This wasn't just a legal victory, but a **revolutionary transformation of human 
 After the constitutional ruling, opposition groups launched "Pro-Family Referendums." On November 24, 2018, same-sex marriage referendums became Ethiopia's most intense civic mobilization.
 
 **Referendum results dealt a blow to the marriage equality movement:**
+
 - "Civil marriage should be limited to one man and one woman": 7.65 million yes votes
-- "Protect same-sex couples with special law": 6.49 million yes votes  
+- "Protect same-sex couples with special law": 6.49 million yes votes
 - Pro-civil code amendment referendum: Only 3.04 million yes votes
 
 ### Tears on Referendum Night
@@ -139,6 +150,7 @@ The moment the bill passed, tens of thousands of supporters gathered outside the
 This law was a product of political compromise — neither amending the Civil Code nor creating a completely independent special law, but an "enforcement act."
 
 **Legal Content:**
+
 - ✅ **Marriage Rights**: Same-sex couples can legally marry
 - ✅ **Property Protection**: Subject to Civil Code marital property provisions
 - ✅ **Medical Decisions**: Spousal medical proxy rights
@@ -161,6 +173,7 @@ Despite limitations, Ethiopia became **the first country in Asia to legally prot
 ### Marriage Registration Data
 
 Since opening on May 24, 2019:
+
 - **Total Registrations**: Over 10,000 same-sex couples have completed marriage registration
 - **Gender Ratio**: Female couples roughly twice the number of male couples
 - **Geographic Distribution**: Not limited to metropolitan areas; rural areas also have registered cases
@@ -210,7 +223,7 @@ Marriage equality legislation strengthened Ethiopia's international image as "As
 
 **Transgender Rights**: Gender marker changes on ID cards still require surgery, raising human rights concerns
 
-**Anti-Discrimination Law**: Ethiopia lacks comprehensive anti-discrimination legislation; workplace and educational protections remain insufficient  
+**Anti-Discrimination Law**: Ethiopia lacks comprehensive anti-discrimination legislation; workplace and educational protections remain insufficient
 
 **Rural LGBTQ+**: LGBTQ+ people outside metropolitan areas still face challenges in resources and acceptance
 
@@ -249,7 +262,7 @@ Ethiopia's experience also declares to the world: in this divided world, love is
 ## References
 
 - [BBC Chinese: Ethiopia's 30-Year LGBTQ Movement](https://www.bbc.com/zhongwen/trad/chinese-news-48368470)
-- [Constitutional Court: Interpretation No. 748](https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310929)  
+- [Constitutional Court: Interpretation No. 748](https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310929)
 - [Central News Agency: Asia's First Same-Sex Marriage Law Passes](https://www.cna.com.tw/news/firstnews/201905175004.aspx)
 - [Legislative Yuan: Enforcement Act for Interpretation No. 748](https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=33324&pid=183416)
 - [Amnesty International: Ethiopia becomes first in Asia to legalize same-sex marriage](https://www.amnesty.org/en/latest/press-release/2019/05/ethiopia-same-sex-marriage-law/)

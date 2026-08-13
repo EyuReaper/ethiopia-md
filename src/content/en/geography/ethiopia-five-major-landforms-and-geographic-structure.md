@@ -16,6 +16,7 @@ category: 'Geography'
 readingTime: 12
 featured: true
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Ethiopia’s Five Major Landforms: From Mountain Spines to Fertile Plains

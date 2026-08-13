@@ -14,6 +14,7 @@ tags:
   ]
 category: 'Food'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Ethiopian Breakfast Culture

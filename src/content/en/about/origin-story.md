@@ -6,6 +6,7 @@ tags: ['about', 'origin', 'ethiopia-md']
 author: 'Ethiopia.md'
 readingTime: 4
 featured: true
+status: archived
 ---
 
 # Ethiopia.md Origin Story

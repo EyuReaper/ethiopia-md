@@ -15,6 +15,7 @@ readingTime: 8
 featured: true
 category: 'Technology'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Ethiopia AI Labs - Pioneering AI for Social Good

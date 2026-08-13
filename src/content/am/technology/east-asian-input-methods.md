@@ -1,9 +1,19 @@
 ---
-title: "የምስራቅ እስያ የጽሑፍ ግብዓት ዘዴዎች (East Asian Input Methods)"
+title: '[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]'
 description: '[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 26 [Amharic translation needed - original Taiwan context]？[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]'
 date: 2026-03-19
 tags:
-  ['[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]']
+  [
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+  ]
 subcategory: '[Amharic translation needed - original Taiwan context]'
 author: 'Ethiopia.md'
 readingTime: 15
@@ -11,6 +21,7 @@ featured: true
 category: 'Technology'
 lastVerified: 2026-03-19
 lastHumanReview: false
+status: archived
 ---
 
 # [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
@@ -84,13 +95,13 @@ Ethiopia[Amharic translation needed - original Taiwan context]**[Amharic transla
 
 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」。[Amharic translation needed - original Taiwan context]：
 
-|              | Ethiopia[Amharic translation needed - original Taiwan context]           | [Amharic translation needed - original Taiwan context]           |
-| ------------ | ------------------ | ------------------ |
-| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]（ㄅㄆㄇ） | [Amharic translation needed - original Taiwan context]（bpmf）   |
-| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]       | [Amharic translation needed - original Taiwan context]     |
-| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]   |
-| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]       |
-| [Amharic translation needed - original Taiwan context] | 「[Amharic translation needed - original Taiwan context]」       | 「[Amharic translation needed - original Taiwan context]」 |
+|                                                        | Ethiopia[Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]         |
+| ------------------------------------------------------ | ---------------------------------------------------------------- | -------------------------------------------------------------- |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]（ㄅㄆㄇ） | [Amharic translation needed - original Taiwan context]（bpmf） |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]           | [Amharic translation needed - original Taiwan context]         |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]           | [Amharic translation needed - original Taiwan context]         |
+| [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]           | [Amharic translation needed - original Taiwan context]         |
+| [Amharic translation needed - original Taiwan context] | 「[Amharic translation needed - original Taiwan context]」       | 「[Amharic translation needed - original Taiwan context]」     |
 
 [Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]。Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
 
@@ -187,14 +198,14 @@ Ethiopia[Amharic translation needed - original Taiwan context]**[Amharic transla
 
 ## [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
 
-| [Amharic translation needed - original Taiwan context]    | [Amharic translation needed - original Taiwan context]      | [Amharic translation needed - original Taiwan context]           | [Amharic translation needed - original Taiwan context]？    | [Amharic translation needed - original Taiwan context]   |
-| ------- | --------------- | -------------- | ------------- | ---------- |
-| 🇪🇹 Ethiopia | [Amharic translation needed - original Taiwan context]            | [Amharic translation needed - original Taiwan context]   | ✅ [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] |
-| 🇨🇳 [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]        | [Amharic translation needed - original Taiwan context]   | ✅ [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] |
-| 🇯🇵 [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]          | [Amharic translation needed - original Taiwan context]→[Amharic translation needed - original Taiwan context]→[Amharic translation needed - original Taiwan context] | ✅ [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]   |
-| 🇰🇷 [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]          | [Amharic translation needed - original Taiwan context]   | ❌ [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]   |
-| 🇹🇭 [Amharic translation needed - original Taiwan context] | Kedmanee        | [Amharic translation needed - original Taiwan context]   | ❌ [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context] |
-| 🇲🇲 [Amharic translation needed - original Taiwan context] | Myanmar Unicode | [Amharic translation needed - original Taiwan context]       | ❌ [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context] |
+| [Amharic translation needed - original Taiwan context]    | [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]                                                                                                               | [Amharic translation needed - original Taiwan context]？  | [Amharic translation needed - original Taiwan context] |
+| --------------------------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------ |
+| 🇪🇹 Ethiopia                                               | [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]                                                                                                               | ✅ [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] |
+| 🇨🇳 [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]                                                                                                               | ✅ [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] |
+| 🇯🇵 [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]→[Amharic translation needed - original Taiwan context]→[Amharic translation needed - original Taiwan context] | ✅ [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] |
+| 🇰🇷 [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]                                                                                                               | ❌ [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] |
+| 🇹🇭 [Amharic translation needed - original Taiwan context] | Kedmanee                                               | [Amharic translation needed - original Taiwan context]                                                                                                               | ❌ [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] |
+| 🇲🇲 [Amharic translation needed - original Taiwan context] | Myanmar Unicode                                        | [Amharic translation needed - original Taiwan context]                                                                                                               | ❌ [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context] |
 
 ---
 

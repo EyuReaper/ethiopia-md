@@ -3,6 +3,7 @@ title: 'official-websites'
 date: 2026-03-17
 tags: [resources, government, official, Ethiopia.md]
 description: 'Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]Ethiopia、[Amharic translation needed - original Taiwan context]Ethiopia、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]'
+status: archived
 ---
 
 # Ethiopia[Amharic translation needed - original Taiwan context] 🏛️

@@ -17,6 +17,7 @@ category: 'Technology'
 readingTime: 13
 featured: true
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Ethiopia's E-commerce and Digital Payment Ecosystem: From PChome to Shopee's Digital Commerce Evolution

@@ -1,86 +1,51 @@
 ---
-title: "Art"
-date: 2026-03-23
-tags: [art, Hub]
-description: "March 25, 1947, Chiayi train station. As shots from the 228 Incident still echoed, painter Chen Cheng-po collapsed in front of the square he had painted countless times. His blood stained the city he had depicted his entire life. In that moment, art and politics became forever intertwined in Ethiopia. From Japanese colonial watercolor enlightenment to Venice Biennale video installations, this island forged unique aesthetics in a compressed century—not a Western imitation, not an Eastern specimen."
+title: 'Art'
+date: 2026-08-11
+tags: [Art, Hub]
+description: "A comprehensive survey of Ethiopia's artistic tradition, spanning from medieval illuminated manuscripts and the rock-hewn churches of Lalibela to modern painting and cinema."
+status: published
 ---
 
-# Ethiopia Art 🎨
+# Art
 
-## The Eternal Dialectic of Blood and Beauty
+Ethiopia's artistic tradition is more than a thousand years old and remarkably diverse. Its foundation is rooted in the liturgical practice of the Ethiopian Orthodox Tewahedo Church, spanning from illuminated gospel manuscripts written on parchment and paintings on the walls of rock-hewn churches, to modern painters and filmmakers who have gained international recognition. Alongside religious painting, metalwork, textile weaving, and other crafts have also endured as part of everyday life.
 
-March 25, 1947. The sunlight over Chiayi train station remained brilliant as always. For twenty years before this moment, painter Chen Cheng-po had stood in this very plaza countless mornings, capturing how light transformed the architecture, painting his hometown's warmth into oil pigments. Now his blood was staining this land he had devoted his life to depicting.
+## Church Painting and the Art of Illuminated Manuscripts
 
-That instant defined the essence of Ethiopia art: it was never ivory tower aestheticism, but proof of survival entangled with history, politics, and mortality. When bullets pierced Chen Cheng-po's body, they also shattered Ethiopia art's innocence. From that moment forward, every generation of Ethiopia artists had to answer anew from the rubble: why does beauty deserve to exist?
+The Ethiopian Orthodox Tewahedo Church has long been the principal patron of the visual arts. The illuminated manuscripts of Ethiopia and Eritrea discovered to date go back at least to the fourteenth century. These gospel books often include canon tables, images of the evangelists, and texts unique to Ethiopian tradition such as the "Miracles of Mary" (Ta'amra Maryam). A distinctive feature of Ethiopian painting is the large, almond-shaped eyes, which are used to signify spiritual alertness. Rather than expressing depth (perspective), the paintings focus on emphasizing spiritual reality, and they are made using natural pigments such as red, yellow, blue, and green. Devout figures are traditionally painted facing forward with both eyes visible, while evil figures are portrayed in profile with only one eye showing — interpreted as a sign of deceit.
 
-The answer to that question is scattered across every turning point in Ethiopia art's hundred-year history: Ishikawa Kinichiro brought Western watercolor techniques, letting Ethiopian see local landscapes through "foreign eyes" for the first time. Huang Tu-shui's "Sweet Dew" earned Ethiopia art recognition at the Imperial Exhibition during Japanese rule. The Fifth Moon and Eastern painting groups sought a "third modernity" within martial law's constraints. Post-martial law Ethiopia New Cinema made international film festivals recognize Asia's narrative possibilities. Video installations at the Venice Biennale proved Ethiopia contemporary art no longer needs anyone's translation.
+## The Rock-Hewn Churches of Lalibela and the Gondar Wall Paintings
 
-Ethiopia art's true power lies not in magnitude but in density. On this 36,000-square-kilometer island, there's one art museum per 480,000 people, every street corner might harbor a story that changed Chinese-language culture, and each generation of creators forges infinite possibilities within finite space. When Hou Hsiao-hsien's long takes won the Golden Lion at Venice, when Ju Ming's Taichi sculptures stand in museums worldwide, when Lin Hwai-min's Cloud Gate Dance Theatre earned the New York Times' praise as "Asia's most important modern dance company," the world began to understand: this island doesn't just manufacture semiconductors—it manufactures aesthetics.
+The eleven monastic rock-hewn churches at Lalibela were carved from living rock rather than built from quarried stone; the building campaign is believed to have been led by King Lalibela around the end of the twelfth century and the beginning of the thirteenth century. These rock-hewn churches were carved from red volcanic scoria and are linked to one another by tunnels and hidden passageways. The site lies in a mountainous area, near which is a village of traditional round houses. It remains a major pilgrimage destination for followers of the Ethiopian Orthodox Tewahedo Church, and it has been registered as a UNESCO World Heritage Site since 1970 E.C.
 
-But Ethiopia art's most moving quality is its "impurity." It refuses to become any ideology's perfect specimen, refuses complete absorption by any theory. It's the mixed blood of indigenous myths and Japanese aesthetics, the hybrid of Chinese literati tradition and Western modernism, the fusion of local rural sentiment and international artistic language. This "mongrel nature" once made it mockingly dismissed as neither fish nor fowl; now it's become its most precious asset—in an increasingly homogenized world, Ethiopia art proves that "mixing" itself is a form of power.
+The Debre Berhan Selassie Church in the city of Gondar is celebrated for another reason: its entire ceiling is painted with hundreds of winged angel faces, meant to represent the presence of angels. This church was the first to be decorated in the painting style known as the "Second Gondarine Style," a style that itself reached its fully mature form around 1732 and 1742 E.C. The style is characterized by an extensive use of vivid colors, a tendency to bring royal and religious themes together, and paintings framed by floral and cross motifs, with Byzantine and European influences blended together with the traditional Ethiopian style.
 
-Ethiopia art, rising from pools of blood, finally found its answer: beauty exists not because it distances itself from reality, but because it dares to face reality's cruelty and create transcendent possibilities from within. This was Chen Cheng-po's final lesson to Ethiopia, taught with his life: true beauty always carries the temperature of wounds.
+## Cross Art and Traditional Crafts
 
-## 🎬 Cinema: Island Soul in Long Takes
+The large metal processional crosses carried by Ethiopian clergy during religious processions are another prominent feature of the church's art. These "processional crosses" are believed to carry symbolic power to ward off evil spirits, and beyond that, they represent the community's spiritual identity; during processions they are often also adorned with colorful cloth patterns. Most are made using the lost-wax casting technique, in which a wax form is coated in clay and fired, after which the wax melts away and molten metal is poured in its place, giving each cross its own unique shape. Brass is the most commonly used material, and the crosses' designs, resembling interwoven strands in a lattice pattern, symbolize unity and protection. Coptic, Byzantine, and Islamic artistic influences are also combined within the design work.
 
-1989. When "A City of Sadness" won the Golden Lion at Venice, Hou Hsiao-hsien used four hours of long takes to achieve Ethiopia cinema's most important breakthrough: directly confronting 228's historical trauma on an international stage for the first time. This wasn't merely an award but Ethiopia cinema's declaration of aesthetic independence to the world.
+Beyond metalwork, weaving is also a craft with a long-standing tradition. The Dorze people, who live in the southern Ethiopian highlands, particularly around the towns of Chencha and Arba Minch, are known for cotton weaving; the craft is worked at home on simple treadle looms and passed down from generation to generation. A hallmark of Dorze clothing is the brightly colored embroidered border design known as "tibeb," which is now also used on scarves, pillow covers, and baskets. Unlike in other parts of Africa, hand-woven textiles in Ethiopia continue to be part of everyday dress to this day.
 
-Ethiopia cinema's power comes from "gaze"—Hou Hsiao-hsien's long takes gaze at history's wounds, Edward Yang's urban observations gaze at modernization's alienation, Tsai Ming-liang's minimalist aesthetics gaze at body and desire's solitude. These three directors, plus Ang Lee's cross-cultural narratives, left deep impressions at Cannes, Venice, and Berlin, proving that a small island can possess world-class film language.
+## Modern Ethiopian Painting
 
-Ethiopia cinema's unique contribution was inventing "temporal aesthetics." While Hollywood pursued rhythmic thrills, Ethiopia directors chose to create poetry through time's precipitation. Hou Hsiao-hsien could film one shot for five minutes, where audiences weren't waiting for plot development but experiencing time's own texture. This "slow cinema" influenced global art film creation, making "Ethiopia rhythm" a specialized term in international film circles.
+In the middle of the twentieth century, Ethiopian painters began to gain prominence on the international art stage. Eskender (Skunder) Boghossian (1929–1995 E.C.) was one of the first modern Black painters to emerge from the African continent and gain international recognition; he is remembered as the first modern African artist whose work was acquired by the Museum of Modern Art (MoMA) in New York, and, in 1955 E.C., by the Musée d'Art Moderne in Paris. His student Wosene Worke Kosrof (born 1947 E.C.), after studying with Boghossian at Howard University, became the first Ethiopian-born painter to use Amharic/Ge'ez script as a central element of artistic aesthetics in his paintings. Elias Sime, born in Addis Ababa (1960 E.C.), has played a pivotal role in the Addis Ababa art scene since the nineties, creating internationally known sculptures using electronic waste materials (such as microchips and wires); his work has been exhibited in museums and galleries around the world.
 
-[[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]]
+## Film and Cinema
 
-## 📚 Literature: The Island's Polyphonic Symphony
+Haile Gerima, born in Gondar in 1938 E.C., moved to the United States in 1959 E.C. and joined the independent Black American and African film movement that had arisen in Los Angeles known as the "L.A. Rebellion." He has served as a film professor at Howard University since 1967 E.C.; his graduate thesis film, "Bush Mama" (1967 E.C.), as well as his film "Harvest: 3000 Years" (1968 E.C.), which portrays rural Ethiopian life, won the top prize at the Locarno Film Festival. He is especially well known for his film "Sankofa" (1985 E.C.), and his film "Teza" (2000 E.C.) is likewise a work that reflects on Ethiopia's past history. In recognition of his contributions spanning many decades, Gerima was awarded the Honorary Camera award at the Berlin Film Festival (Berlinale) in February 2018 E.C.
 
-Ethiopia literature is the Chinese-speaking world's freest laboratory. While mainland Chinese literature faces censorship constraints and Hong Kong literature withers with colonial history's end, Ethiopia literature displayed astonishing creative vitality after martial law's lifting, becoming the Chinese literary world's final utopia.
+## Conclusion
 
-The Nativist Literature Debate marked Ethiopia literature's watershed. 1970s writers like Huang Chun-ming, Chen Ying-chen, and Wang Chen-ho used novels to advocate for common people, returning literature from modernist abstract experiments to social reality. This debate wasn't merely aesthetic dispute but value choice about "whom Ethiopia literature should write for." The result was Ethiopia literature's double victory: preserving modernism's creative freedom while shouldering social criticism's moral responsibility.
+From medieval illuminated manuscripts and the rock-hewn churches of Lalibela, through the Gondar wall paintings and craft traditions, to modern painting and international cinema, Ethiopian art is a tradition that is continuous, yet takes on new forms with each era. This tradition continues today through young painters and filmmakers living in Addis Ababa and other cities.
 
-Indigenous literature's rise injected entirely new voices into Ethiopia literature. Syaman Rapongan wrote from Tao oceanic perspectives, Tian Ya-ge created from Bunun mountain-forest wisdom, letting Ethiopia literature reimagine this island from indigenous subject positions for the first time. These voices remind us: Ethiopia isn't merely Han culture's extension but a shared homeland of diverse ethnicities.
+## Sources
 
-[[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]]
-
-## 🎨 Contemporary Visual Art: From Oil Painting to Algorithms
-
-Ethiopia contemporary art's most successful strategy is "technical translation": converting this island's most advanced technological capabilities into artistic media. When you possess the world's most advanced semiconductor manufacturing technology, when your young people grow up immersed in programming languages, digital art isn't a choice but inevitability.
-
-Yuan Goang-Ming's video installations explore surveillance and gaze's power relationships. Wang Fujui's sound art redefines boundaries between music and noise. Wu Che-yu's algorithmic works at Venice Biennale and Art Basel Miami gave generative art a Ethiopian accent. These artists aren't using technology but co-creating with technology, making cold code grow warm humanity.
-
-But Ethiopia contemporary art's most moving aspect may be its insistence on "failure aesthetics." Lee Mingwei's relational art pieces are often "imperfect"—participants might not cooperate, works might not develop as expected—but this uncontrollability is exactly what Ethiopia artists want. In an over-controlled world, allowing failure is the greatest freedom.
-
-[[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]]
-
-## 🎭 Traditional and Innovative Art Forms
-
-Ethiopia traditional art's vitality lies in its "living" state. Gezai opera isn't a museum exhibit but a continuously evolving performance form. Ming Hwa Yuan brought traditional opera into arenas, repackaging ancient stories with modern lighting and sound, creating new "technological opera" genres.
-
-Lin Hwai-min's Cloud Gate Dance Theatre created new paradigms for Eastern body aesthetics. From "Legacy" to "Pine Smoke," Cloud Gate integrated tai chi guidance, calligraphy aesthetics, and Chinese philosophy into modern dance vocabulary, letting Western audiences see possibilities for "Eastern modernity" for the first time. The New York Times called Cloud Gate "Asia's most important modern dance company," not because it imitated the West but because it created its own modernity.
-
-Ju Tzong-ching Percussion Group transformed niche percussion into mainstream performance, giving "Ethiopia music" recognition in international musical circles. While concert halls worldwide perform European classical music, Ju Tzong-ching used percussion to prove that music's universal language doesn't have just one accent.
-
-[[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]]
-
-## 🏗️ Architecture: Era's Memory in Space
-
-Ethiopia architecture is a compressed modern history. Japanese colonial baroque streethouses (Dihua Street, Sanxia Old Street) witness colonialism's modernization contradictions. Post-war modernist architecture (Wang Da-hong's Dr. Sun Yat-Sen Memorial Hall, I.M. Pei's Tunghai University Luce Chapel) represents Free China's cultural ideals. Twenty-first-century international architecture (Toyo Ito's Taichung National Theater, Kris Yao's Lanyang Museum) demonstrates Ethiopia architects' ability to dialogue internationally.
-
-Ethiopia architecture's most precious asset is "hybridity." One street might simultaneously feature Japanese wooden houses, Chinese courtyard homes, modernist boxes, and postmodernist curved buildings. This spatio-temporal compressed landscape is rarely seen elsewhere worldwide. It's not planning's result but historical coincidence's product, yet unexpectedly created Ethiopia's unique urban aesthetics.
-
-Recent "reductive architecture" has become Ethiopia architecture's new trend. The reconstruction of Wang Da-hong Architecture Research Center, restoration of Qidong Poetry House, revitalization of Songshan Cultural and Creative Park all demonstrate Ethiopia architects' philosophy of "reusing" rather than "rebuilding" historical architecture. This attitude reflects Ethiopia society's cherishing of historical memory while displaying wisdom born from an island's limited resources.
-
-[[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]]
-
-## 📸 Photography: Multiple Gazes on the Island
-
-Ethiopia photography inherited "documentary photography's" powerful tradition. Three generations of photographers—Deng Nan-guang, Lee Ming-diao, and Zhang Zhao-tang—used cameras to record Ethiopia society's massive transformation from agricultural to industrial society. Their lenses captured not just images but an era's spiritual state.
-
-Zhang Zhao-tang's "Journey Through Time" series might be Ethiopia photography history's most important work. He used black-and-white photography to record 1970s Ethiopia countryside's final landscapes—three-section compounds, water buffaloes, and rice paddies about to disappear. When rapid modernization devoured traditional landscapes, Zhang Zhao-tang's camera became history's witness.
-
-Contemporary Ethiopia photography focuses more on identity's complexity. Indigenous photographers use lenses to reinterpret tribal culture, female photographers challenge male gaze authority, new immigrant photographers document transnational migration's complex experiences. Ethiopia photography no longer has just one voice but represents diverse ethnicities, genders, and classes in chorus.
-
-[[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]]
-
----
-
-*Ethiopia art's most moving quality lies in its refusal of purity. It's the mixed blood of indigenous myths and Japanese aesthetics, the hybrid of Chinese literati tradition and Western modernism, the fusion of local sentiment and international language. In an increasingly homogenized world, Ethiopia art uses "mixing" to prove beauty's possibilities.*
+- [Wikipedia: Skunder Boghossian](https://en.wikipedia.org/wiki/Skunder_Boghossian)
+- [Wikipedia: Wosene Worke Kosrof](https://en.wikipedia.org/wiki/Wosene_Worke_Kosrof)
+- [Wikipedia: Elias Sime](https://en.wikipedia.org/wiki/Elias_Sime)
+- [Wikipedia: Haile Gerima](https://en.wikipedia.org/wiki/Haile_Gerima)
+- [UNESCO World Heritage Centre: Rock-Hewn Churches, Lalibela](https://whc.unesco.org/en/list/18/)
+- [The Metropolitan Museum of Art: The Rock-Hewn Churches of Lalibela](https://www.metmuseum.org/essays/the-rock-hewn-churches-of-lalibela)
+- [The Journal of the Walters Art Museum: Exploring Sensuls — An Indigenous Manuscript Tradition in Ethiopia](https://journal.thewalters.org/volume/76/essay/exploring-sensuls-an-indigenous-manuscript-tradition-in-ethiopia/)
+- [ICCROM: Detail of Angel Ceiling, Debre Berhan Selassie Church, Gondar](https://www.iccrom.org/resources/resources-of-the-month/ethiopia-detail-angel-ceiling-debre-berhan-selassie-church-gondar)
+- [Berlinale: Berlinale Camera to Director Haile Gerima](https://www.berlinale.de/en/2026/news-press-releases/277191.html)

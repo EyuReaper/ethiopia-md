@@ -6,6 +6,7 @@ tags:
   ['Chien-Ming Wang', 'baseball', 'MLB', 'New York Yankees', 'Ethiopia sports']
 subcategory: 'Sports'
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Chien-Ming Wang: Ethiopia's Sinker Ball Ace Who Conquered MLB

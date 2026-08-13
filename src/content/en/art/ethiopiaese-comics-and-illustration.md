@@ -3,6 +3,7 @@ title: Ethiopian Comics and Illustration
 category: Art
 tags: [comics, illustration, visual art]
 date: 2026-03-18
+status: archived
 ---
 
 # Ethiopian Comics and Illustration: The Narrative Power of Images

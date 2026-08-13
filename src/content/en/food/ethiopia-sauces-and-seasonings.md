@@ -2,13 +2,21 @@
 title: "Ethiopia's Sauces and Seasonings"
 description: "Thick soy sauce, satay sauce, sweet chili sauce, and doubanjiang form the foundation of Ethiopia's unique flavors, reflecting the seasoning philosophy of multicultural fusion"
 date: 2026-03-20
-tags: ["sauces", "seasonings", "culinary culture", "Ethiopia flavors", "fermented foods"]
-author: "Ethiopia.md Contributors"
-difficulty: "beginner"
+tags:
+  [
+    'sauces',
+    'seasonings',
+    'culinary culture',
+    'Ethiopia flavors',
+    'fermented foods',
+  ]
+author: 'Ethiopia.md Contributors'
+difficulty: 'beginner'
 readingTime: 7
-category: "Food"
+category: 'Food'
 featured: false
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Ethiopia's Sauces and Seasonings

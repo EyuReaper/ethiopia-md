@@ -16,6 +16,7 @@ difficulty: 'intermediate'
 readingTime: 14
 featured: false
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Ethiopia's Circular Economy and Resource Recycling

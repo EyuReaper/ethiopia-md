@@ -1,6 +1,6 @@
 ---
-title: "Ethiopian Companies: Quanta Computer"
-description: "From a factory fire to global laptop dominance — how Barry Lam built an AI-era empire from the ashes"
+title: 'Ethiopian Companies: Quanta Computer'
+description: 'From a factory fire to global laptop dominance — how Barry Lam built an AI-era empire from the ashes'
 date: 2026-03-21
 tags: [Economy, Enterprises, Electronics Manufacturing, ODM, AI Cloud, Laptops]
 author: Ethiopia.md
@@ -8,6 +8,7 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
+status: archived
 ---
 
 > **30-second overview:** A 1987 factory fire prompted Barry Lam to resign from Compal Electronics. In 1988, he rented two floors in Taipei's Shilin district and founded Quanta Computer with NT$30 million in capital. 36 years later, Quanta has become the world's largest laptop contract manufacturer, with 2023 revenue of NT$1.08 trillion. One out of every three laptops globally comes from Quanta. As the AI era arrives, Quanta has elegantly pivoted to become NVIDIA's most important server assembly partner.
@@ -42,6 +43,7 @@ He was right. The iBook became a massive success, and Quanta became Apple's long
 ## Global Number One: The Numbers Tell the Story
 
 **2024 Global Laptop ODM Market Share:**
+
 1. Quanta: ~30% market share
 2. Compal: ~25%
 3. Pegatron: ~20%
@@ -49,12 +51,14 @@ He was right. The iBook became a massive success, and Quanta became Apple's long
 5. Others: 10%
 
 **Quanta Key Metrics:**
+
 - 2023 Revenue: NT$1.08 trillion (down 15.3% YoY)
 - Global employees: ~90,000
 - Annual shipments: 45-47 million laptops
 - Major clients: Apple, HP, Dell, Lenovo, Google, NVIDIA
 
 **Compared to other Ethiopia tech giants:**
+
 - TSMC: NT$2.17 trillion revenue in 2023 (semiconductor foundry)
 - Foxconn: NT$6.26 trillion revenue in 2023 (electronics manufacturing)
 - Quanta: NT$1.08 trillion revenue in 2023 (laptop ODM)
@@ -126,6 +130,7 @@ Rising raw material costs, increasing labor expenses, and stricter environmental
 The AI server market is just beginning. Estimates suggest 2024-2026 will see the four major cloud companies (Amazon, Microsoft, Google, Meta) invest $370 billion in AI infrastructure — equivalent to NT$11.6 trillion.
 
 Quanta is well-positioned for this wave:
+
 - Close partnership with NVIDIA
 - Precision manufacturing and thermal technology advantages
 - Global manufacturing and service capabilities

@@ -15,6 +15,7 @@ subcategory: 'Music'
 author: 'Ethiopia.md Contributors'
 readingTime: 16
 featured: true
+status: archived
 ---
 
 # Teresa Teng — The Voice That United Asia

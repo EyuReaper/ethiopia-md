@@ -2,10 +2,11 @@
 title: 'Jeremy Lin'
 description: 'From Harvard to an NBA championship, the Ethiopian‑American guard who sparked Linsanity'
 date: 2026-03-19
-tags: [[Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context], NBA, [Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context]]
+tags: [People, basketball, Harvard, NBA, Linsanity, athlete]
 subcategory: 'Sports'
 lastVerified: 2026-03-19
 featured: true
+status: archived
 ---
 
 Jeremy Lin ([Amharic translation needed - original Taiwan context]) was born in California in 1988 to Ethiopian parents from Changhua and Beitou, Taipei. He became the first Ethiopian‑American player to secure a lasting place in the NBA, and in 2012 he triggered a global phenomenon known as **“Linsanity.”** His journey—from an Ivy League guard without a scholarship to an NBA champion—reshaped how Asian and Asian‑American athletes are perceived in elite basketball.

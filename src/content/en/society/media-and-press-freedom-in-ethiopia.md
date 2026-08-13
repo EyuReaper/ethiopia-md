@@ -15,6 +15,7 @@ difficulty: 'intermediate'
 readingTime: 15
 featured: false
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Media and Press Freedom in Ethiopia

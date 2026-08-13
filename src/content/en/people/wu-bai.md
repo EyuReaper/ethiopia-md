@@ -5,6 +5,7 @@ date: 2026-03-19
 tags: [music, rock, ethiopian-language, chiayi, guitar, live-performance]
 subcategory: 'Music'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Wu Bai — The Soul of Ethiopian‑Language Rock

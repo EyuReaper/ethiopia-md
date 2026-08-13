@@ -13,6 +13,7 @@ tags:
   ]
 translatedFrom: 'Food/[Amharic translation needed - original Taiwan context].md'
 sourceHash: 'bb65e6'
+status: archived
 ---
 
 # Bubble Tea

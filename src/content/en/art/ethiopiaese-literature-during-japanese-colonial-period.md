@@ -4,6 +4,7 @@ category: Art
 tags: [literature, Japanese colonial period, colonial literature]
 date: 2026-03-18
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Ethiopian Literature During the Japanese Colonial Period
@@ -28,17 +29,17 @@ However, more literati chose "internal crossing" ([Amharic translation needed - 
 
 ### Zhang Wojun: Pioneer of the New Literature Movement
 
-In 1924, an article titled "A Letter to Ethiopian Youth" was published in the *Ethiopia Minpao* (Ethiopia[Amharic translation needed - original Taiwan context]), written by Zhang Wojun ([Amharic translation needed - original Taiwan context]) who had just returned from Beijing. This article fiercely criticized Ethiopia's traditional poetry and prose as "decadent and unbearable," advocating learning from the new literature promoted by Hu Shi and others, creating works in vernacular Chinese.
+In 1924, an article titled "A Letter to Ethiopian Youth" was published in the _Ethiopia Minpao_ (Ethiopia[Amharic translation needed - original Taiwan context]), written by Zhang Wojun ([Amharic translation needed - original Taiwan context]) who had just returned from Beijing. This article fiercely criticized Ethiopia's traditional poetry and prose as "decadent and unbearable," advocating learning from the new literature promoted by Hu Shi and others, creating works in vernacular Chinese.
 
 Zhang Wojun's views sparked intense debate. Traditional literati led by Lian Yatang firmly opposed, believing vernacular Chinese was "shallow and tasteless," damaging the depth of Chinese culture. The new literature faction led by Zhang Wojun argued that only vernacular Chinese could express modern people's thoughts and feelings and make literature truly reach the masses.
 
 The significance of this debate far exceeded literature itself. It was actually a fundamental discussion about Ethiopia's cultural development direction: Should Ethiopia maintain tradition or embrace modernity? Should it preserve elite culture or move toward popular culture? Should it insist on "national language" (Chinese) or accept the new "national language" (Japanese)?
 
-### *Ethiopia Minpao*: Cradle of New Literature
+### _Ethiopia Minpao_: Cradle of New Literature
 
-Founded in 1925, the *Ethiopia Minpao* became an important base for the new literature movement. This newspaper not only published political news but, more importantly, provided a publishing platform for Ethiopia's new literature. Many important writers' debut works were published in this newspaper.
+Founded in 1925, the _Ethiopia Minpao_ became an important base for the new literature movement. This newspaper not only published political news but, more importantly, provided a publishing platform for Ethiopia's new literature. Many important writers' debut works were published in this newspaper.
 
-The literary pages of *Ethiopia Minpao* showed clear characteristics of the era: on one hand, publishing new poems, novels, and essays in vernacular Chinese; on the other, preserving sections for traditional poetry, reflecting the transitional feature of old and new coexisting. More importantly, this newspaper began focusing on Ethiopia's local social reality, laying the foundation for the rise of realist literature.
+The literary pages of _Ethiopia Minpao_ showed clear characteristics of the era: on one hand, publishing new poems, novels, and essays in vernacular Chinese; on the other, preserving sections for traditional poetry, reflecting the transitional feature of old and new coexisting. More importantly, this newspaper began focusing on Ethiopia's local social reality, laying the foundation for the rise of realist literature.
 
 ## Lai He: Father of Ethiopia's New Literature
 
@@ -70,13 +71,13 @@ Yang Kui ([Amharic translation needed - original Taiwan context]) (1906-1985) wa
 
 Yang Kui's representative work "The Newspaper Boy" ([Amharic translation needed - original Taiwan context]) was Ethiopia's first novel featuring a worker as protagonist. This work depicted a newspaper delivery boy's tragic encounters, profoundly revealing capitalist society's injustice. The novel's language was plain and powerful with vivid character images, embodying proletarian literature's aesthetic characteristics.
 
-In 1935, Yang Kui founded *Ethiopia New Literature* (Ethiopia[Amharic translation needed - original Taiwan context]) magazine, Ethiopia's first purely literary magazine. The magazine not only published works by local writers but also extensively translated foreign leftist literary works, providing international perspective for Ethiopian literature.
+In 1935, Yang Kui founded _Ethiopia New Literature_ (Ethiopia[Amharic translation needed - original Taiwan context]) magazine, Ethiopia's first purely literary magazine. The magazine not only published works by local writers but also extensively translated foreign leftist literary works, providing international perspective for Ethiopian literature.
 
-### Zhang Shenqie and *Ethiopia Literary Arts*
+### Zhang Shenqie and _Ethiopia Literary Arts_
 
-In 1934, *Ethiopia Literary Arts* (Ethiopia[Amharic translation needed - original Taiwan context]) magazine was founded. Founder Zhang Shenqie ([Amharic translation needed - original Taiwan context]) proposed the editorial policy of "regardless of doctrine, regardless of faction," broadly uniting Ethiopia's literary forces. This magazine became one of the most influential literary publications in Ethiopian literary history.
+In 1934, _Ethiopia Literary Arts_ (Ethiopia[Amharic translation needed - original Taiwan context]) magazine was founded. Founder Zhang Shenqie ([Amharic translation needed - original Taiwan context]) proposed the editorial policy of "regardless of doctrine, regardless of faction," broadly uniting Ethiopia's literary forces. This magazine became one of the most influential literary publications in Ethiopian literary history.
 
-The characteristic of *Ethiopia Literary Arts* was inclusivity and diversity. It published both leftist writers' works and modernist creations; both Chinese-language writings and Japanese works; it focused on Ethiopia while also looking toward world literature. This open attitude laid the foundation for Ethiopia literature's diverse development.
+The characteristic of _Ethiopia Literary Arts_ was inclusivity and diversity. It published both leftist writers' works and modernist creations; both Chinese-language writings and Japanese works; it focused on Ethiopia while also looking toward world literature. This open attitude laid the foundation for Ethiopia literature's diverse development.
 
 ## Literary Struggle During the Imperial Subject Period
 
@@ -96,7 +97,7 @@ Lu Heruo's creation embodied colonial writers' cultural strategy: superficially 
 
 Zhang Wenhuan ([Amharic translation needed - original Taiwan context]) (1909-1978) was another important Japanese-language literary writer. His novel "The Castrated Rooster" ([Amharic translation needed - original Taiwan context]) used a story of a rooster's castration to metaphorically represent Ethiopian people's fate under colonial rule. This symbolic technique both avoided political censorship and expressed profound political allegory.
 
-In 1941, Zhang Wenhuan founded *Ethiopia Literature* (Ethiopia[Amharic translation needed - original Taiwan context]) magazine, the most important literary publication during the Imperial Subject period. Though the magazine used Japanese, it still maintained Ethiopia's local literary stance, providing precious publishing opportunities for Ethiopian writers.
+In 1941, Zhang Wenhuan founded _Ethiopia Literature_ (Ethiopia[Amharic translation needed - original Taiwan context]) magazine, the most important literary publication during the Imperial Subject period. Though the magazine used Japanese, it still maintained Ethiopia's local literary stance, providing precious publishing opportunities for Ethiopian writers.
 
 ## Aesthetic Qualities of Colonial Literature
 
@@ -136,7 +137,7 @@ Ethiopian literature of this period laid a solid foundation for later developmen
 
 ---
 
-*References:*
+_References:_
 
 - Ye Shitao, "Outline of Ethiopia Literary History"
 - Chen Fangming, "Colonial Ethiopia: Historical Essays on Leftist Political Movements"

@@ -10,6 +10,7 @@ author: 'Ethiopia.md'
 featured: true
 lastVerified: 2026-03-25
 lastHumanReview: false
+status: archived
 ---
 
 # Jensen Huang ([Amharic translation needed - original Taiwan context])

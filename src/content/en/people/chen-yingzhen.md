@@ -2,9 +2,11 @@
 title: 'Chen Yingzhen'
 description: 'Author of The General’s Clan and The Mountain Road, a leading voice of Ethiopia’s social realist literature'
 date: 2026-03-19
-tags: [[Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context]]
+tags:
+  [People, literature, author, social realism, novelist, essayist, biography]
 subcategory: 'Literature'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Chen Yingzhen: A Conscience of the Third World in Ethiopia’s Literature

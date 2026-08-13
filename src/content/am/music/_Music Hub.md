@@ -1,84 +1,54 @@
 ---
-title: 'Music'
-date: 2026-03-23
-tags: [[Amharic translation needed - original Taiwan context], Hub]
-description: '[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]？[Amharic translation needed - original Taiwan context] Live House [Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]。'
+title: 'ሙዚቃ'
+date: 2026-08-11
+tags: [Music, Hub]
+description: 'ከቅኝት ስልትና ባህላዊ መሳሪያዎች እስከ ኢትዮ ጃዝና ወርቃማው ዘመን፣ እንዲሁም ዘመናዊው የአዲስ አበባ ሙዚቃ ትዕይንት ድረስ የሚዘልቅ የኢትዮጵያ ሙዚቃ አጠቃላይ ዳሰሳ።'
+status: published
 ---
 
-# Ethiopia[Amharic translation needed - original Taiwan context] 🎵
+# ሙዚቃ
 
-[Amharic translation needed - original Taiwan context]○○[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]：「[Amharic translation needed - original Taiwan context]。」[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+የኢትዮጵያ ሙዚቃ በራሱ ልዩ በሆነ የስልት (ቅኝት) ሥርዓት ላይ የተመሠረተ ነው፤ ይህ ሥርዓት ከቤተ ክርስቲያን ዝማሬ እስከ ገጠራዊ የአዝማሪ ወግ፣ እስከ ከተማዊ ወርቃማ ዘመን ሙዚቃና ዓለም አቀፍ ዕውቅና ወዳገኘው ኢትዮ ጃዝ፣ እንዲሁም ባህላዊና ኤሌክትሮኒክ ድምጾችን ወደሚያዋህድ ወቅታዊ ትዕይንት ድረስ ይዘልቃል። እያንዳንዱ ክልልና ብሔረሰብ የራሱ የመሳሪያና የዜማ ልዩ መገለጫ ቢኖረውም፣ የጋራ የስልት መሠረት አገሪቱን ከሌላው የአፍሪካ ቀንድ ክፍል ለየት ባለ ድምጻዊ ማንነት ያስተሳስራታል።
 
-[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] The Wall [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+## ቅኝት፡ የኢትዮጵያ ሙዚቃ የስልት ሥርዓት
 
-[Amharic translation needed - original Taiwan context]Ethiopia，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]○[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]？[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+"ቅኝት" (qenet) የተባለው ሥርዓት የኢትዮጵያ ደጋማ አካባቢዎች ባህላዊ ሙዚቃ የሚገነባበት መሠረታዊ የስልት ማዕቀፍ ነው። አራት ዋና ዋና ቅኝቶች ይታወቃሉ፦ ትዝታ፣ ባቲ፣ አምባሰል እና አንቺሆዬ፤ ከእነዚህም በተጨማሪ እንደ ትዝታ ጠባብ (minor) እና ባቲ ሜጀርና ማይነር የመሳሰሉ ተጓዳኝ ልዩነቶች አሉ። እነዚህ ቅኝቶች በአምስት ኖታ (ፔንታቶኒክ) ላይ የተመሠረቱ ቢሆኑም፣ በአፈጻጸም ወቅት ማይክሮቶናዊ ተለዋዋጭነት ስለሚታይባቸው ጥብቅ ሚዛን (scale) ብቻ ሳይሆኑ እንደ ስሜታዊና ባህላዊ ትርጉም ያለው ማዕቀፍ ሆነው ያገለግላሉ። እያንዳንዱ ቅኝት የራሱ የሆነ ስሜታዊ ገጽታ አለው፤ ይህ የቅኝት ሥርዓት ደግሞ ከቤተ ክርስቲያን ዝማሬ ጀምሮ እስከ ገጠራዊ ባህላዊ ዘፈን እና እስከ ዘመናዊው ኢትዮ ጃዝ ድረስ የተዘረጋውን የኢትዮጵያን ሙዚቃ በሙሉ ያስተሳስራል። በአጠቃላይ የኢትዮጵያ ባህላዊ ሙዚቃ ነጠላ ወይም ተመሳሳይ-ዜማ ላይ የተመሠረተ አወቃቀር ያለው ሲሆን፣ በተወሰኑ የክልል ስልቶች ውስጥ ግን ተደራራቢ ዜማ የያዙ ልዩ ገጽታዎችም ይታያሉ።
 
-[Amharic translation needed - original Taiwan context] Spotify [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]《[Amharic translation needed - original Taiwan context]》[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]？[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]。
+## ባህላዊ የሙዚቃ መሳሪያዎች
 
-Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」（[Amharic translation needed - original Taiwan context]），[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] Live House [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] StreetVoice [Amharic translation needed - original Taiwan context] KKBOX [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+የኢትዮጵያ ባህላዊ የሙዚቃ መሳሪያዎች በአራት ዋና ዋና ምድቦች ይከፈላሉ፦ የገመድ መሳሪያዎች (ኮርዶፎን)፣ የንፋስ መሳሪያዎች (ኤሮፎን)፣ በራሳቸው ድምጽ የሚያሰሙ መሳሪያዎች (ኢዲዮፎን) እና የከበሮ ዓይነት መሳሪያዎች (ሜምብራኖፎን) ናቸው፤ እነዚህ ምድቦች ለሃይማኖታዊ ሥርዓት፣ ለመዝናኛና ለማህበራዊ ስብሰባዎች የተለያየ ዓላማ ያገለግላሉ። ክራር ባለ አምስት ወይም ስድስት ገመድ የሳህን ቅርጽ ያለው መሰንቆ (ሊየር) ሲሆን በፔንታቶኒክ ስልት ይስተካከላል። መሰንቆ ደግሞ ባለ አንድ ገመድ በቀስት የሚጫወት የሙዚቃ መሳሪያ ሲሆን፣ በተለይ "አዝማሪ" ተብለው በሚጠሩ ባህላዊ ዘፋኞች ዘንድ ተመራጭ መሳሪያ ነው። ዋሽንት ከቀርከሃ ወይም ከእንጨት የሚሠራ፣ ከአራት እስከ ስድስት ቀዳዳዎች ያሉት፣ በተለምዶ በእረኞች የሚጫወት ዋሽንት ነው። ከበሮ ደግሞ በሁለቱም ጫፎቹ በእንስሳት ቆዳ የተጎነጎነ የከበሮ ዓይነት ሲሆን፣ ትልቁ ዓይነቱ በኦርቶዶክስ ተዋሕዶ ቤተ ክርስቲያን ሥርዓተ ዝማሬ ውስጥ፣ ትንሹ ደግሞ በዓለማዊ በዓላት ላይ ያገለግላል።
 
-![[Amharic translation needed - original Taiwan context]](/images/wiki/ddb5b26935ba.jpg)
-_[Amharic translation needed - original Taiwan context]：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mayday_on_Mercuries_Life_press_conference_at_Red_House_Theater_20131125.jpg) | CC BY-SA 3.0_
+በገና የተባለው ትልቅ ባለ አሥር ገመድ መሰንቆም ልዩ ቦታ አለው፤ በትውፊት እንደሚነገረው ንጉሥ ዳዊት ንጉሥ ሳኦልን ለማረጋጋት ይጫወተው ከነበረው መሰንቆ ጋር የተያያዘ ሲሆን፣ ወደ ኢትዮጵያ የመጣውም በምኒልክ አንደኛ እንደሆነ ይተረካል። ዐሥሩ ገመዶቹም ዐሥርቱ ትእዛዛትን ያመለክታሉ ተብሎ ይታመናል። በገና ለጸሎትና ለማሰላሰል ብቻ የተዘጋጀ "ዜማ" ተብሎ የሚጠራውን መንፈሳዊ ሙዚቃ ብቻውን የሚያገለግል ብቸኛ መሳሪያ ሲሆን፣ በተለይ በዐቢይ ጾም ወቅት በአብያተ ክርስቲያናት ዙሪያና በሬዲዮ በስፋት ይሰማል።
 
-## 🎤 [Amharic translation needed - original Taiwan context]
+## አዝማሪና ባህላዊ የቃል ግጥም ትውፊት
 
-[Amharic translation needed - original Taiwan context]○○○[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」。[[Amharic translation needed - original Taiwan context]](/people/[Amharic translation needed - original Taiwan context])[Amharic translation needed - original Taiwan context] R&B [Amharic translation needed - original Taiwan context]，「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] Urban [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]。[[Amharic translation needed - original Taiwan context]](/people/[Amharic translation needed - original Taiwan context])[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]《[Amharic translation needed - original Taiwan context]》[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+አዝማሪ በኢትዮጵያ ክርስቲያን አካባቢዎች እየተዘዋወረ የሚጫወት ባህላዊ ዘፋኝና ገጣሚ ነው፤ ከአውሮፓ የመካከለኛው ዘመን ትሩባዱር ወይም ከምዕራብ አፍሪካ ግሪዮት ጋር ይመሳሰላል። አዝማሪዎች መሰንቆ ወይም ክራር እየተጫወቱ አልፎ አልፎ ግጥማቸውን በቅጽበት እየፈጠሩ ይዘፍናሉ፤ ይህም ችሎታ "ሰምና ወርቅ" ተብሎ የሚጠራውን ድርብ ትርጉም ያለው የግጥም ስልት መጠቀምን ይጠይቃል። በባህላዊ የአዝማሪ ትርኢት አቀራረብም በተጫዋችና በተመልካች መካከል ግልጽ ድንበር የለም፤ ተመልካቹ በጭብጨባ፣ በዳንኪራና ራሱ ግጥም በመጨመር ትርኢቱን አብሮ ይመራል።
 
-[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]○[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+## ኢትዮ ጃዝና ወርቃማው ዘመን
 
-[[[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]]
+ከ1950ዎቹ እስከ 1967 ዓ.ም. ድረስ የነበረው ወቅት "የአዲስ አበባ ወርቃማ ዘመን" ተብሎ ይታወሳል፤ በዚህ ወቅት በአዲስ አበባ የግል ሆቴል ባንዶች ይንቀሳቀሱ ነበር፤ የሌሊት ሕይወትም እያደገ መጣ። በዚህ ዘመን ማዕከላዊ ሰው ሙላቱ አስታጥቄ (የተወለደው በ1936 ዓ.ም. በጅማ) ነው፤ ለንደን፣ ኒው ዮርክና ቦስተን ውስጥ የተማረ ሲሆን፣ ከበርክሌ ሙዚቃ ኮሌጅ የተመረቀ የመጀመሪያው አፍሪካዊ ተማሪ ሆኗል። አስታጥቄ የኢትዮጵያን ፔንታቶኒክ ዜማ ከምዕራባዊ ጃዝ ስምረትና ከላቲን ምት ጋር በማዋሃድ "ኢትዮ ጃዝ" የተባለውን አዲስ ዘውግ ፈጠረ። በ1965 ዓ.ም. ዱክ ኤሊንግተንና ባንዱ ኢትዮጵያን ሲጎበኙ አብሮ ተጫውቷል፤ ሙዚቃውም በ1997 ዓ.ም. በጂም ጃርሙሽ "Broken Flowers" በተሰኘው ፊልም ሰባት ዘፈኖቹ ጥቅም ላይ ከዋሉ በኋላ ለምዕራባውያን ተመልካቾች ይበልጥ ተዋወቀ።
 
-## 🎸 [Amharic translation needed - original Taiwan context]
+ይህ ወርቃማ ዘመን በ1967 ዓ.ም. በተካሄደው መፈንቅለ መንግሥት ተከትሎ በደርግ አገዛዝ ወዲያውኑ ተቋረጠ፤ ሰዓት እላፊ ታውጆ ብዙ ሙዚቃ ከሬዲዮ ገበያ ውጪ ሆነ ወይም ለፕሮፓጋንዳ ብቻ ተወሰነ፤ ብዙ ሙዚቀኞችም ወደ ስደት ተገደዱ። ከዓመታት በኋላ የፈረንሳዊው ፍራንሲስ ፋልሴቶ በ1988 ዓ.ም. ከቡዳ ሙዚክ ጋር በመተባበር “Éthiopiques” የተባለውን ተከታታይ ሲዲ ማውጣት የጀመረ ሲሆን፣ ከ1940ዎቹ እስከ 1967 ዓ.ም. ድረስ የነበሩ የአምሃ ሬከርድስንና የካይፋ ሬከርድስን የመሳሰሉ ድርጅቶች ውጤቶችን ዳግም አሳትሟል። ከ1990 እስከ 1995 ዓ.ም. የወጡት ዋና ዋና 1-15ኛ ጥራዞች ከመቶ አምሳ በላይ ዘፈኖችን ዳግም ያስተዋወቁ ሲሆን፣ አራተኛው ጥራዝ ለአንድ ሙዚቀኛ ብቻ የተዘጋጀ የመጀመሪያው ሆኖ ለሙላቱ አስታጥቄ ተሰጥቷል፤ ስምንተኛው ጥራዝ "Swinging Addis" ተብሎ ተሰይሞ ከ1960 እስከ 1967 ዓ.ም. የነበሩ ዘፈኖችን ይዟል።
 
-[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]○[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]○[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+## ዘመናዊ የኢትዮጵያ ሙዚቃ ትዕይንት
 
-[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「Ethiopia[Amharic translation needed - original Taiwan context]」。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] StreetVoice、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+ዛሬ ላይ እንደ ቴዲ አፍሮ (ትውልድ ስሙ ቴዎድሮስ ካሳሁን፣ የተወለደው 1968 ዓ.ም. በአዲስ አበባ) ያሉ ድምጻውያን ባህላዊ ስልትን ከዘመናዊ ፖፕ ጋር በማዋሃድ ይታወቃሉ፤ በ1993 ዓ.ም. በ"አቡጊዳ" አልበሙ ብቅ ካለ በኋላ፣ በ1997 ዓ.ም. የወጣው "ያስተሰርያል" አልበም ውስጥ የነበረው ተመሳሳይ ስም ያለው ዘፈን በመንግሥት ሙስና ላይ የሚያነሳው ትችት ከፍተኛ ውዝግብ ፈጥሮ ነበር። ሮፍናን የተባለው ዲጄና አቀናባሪ ደግሞ በ2010 ዓ.ም. ባህላዊ የኢትዮጵያ ሙዚቃ ንጥረ ነገሮችን ከኤሌክትሮኒክ ዳንስ ሙዚቃ ጋር ያዋሃደ የራሱን ዘውግ በማስተዋወቅ የዓመቱ ምርጥ አልበም ሽልማት አግኝቷል፤ ይህም የአገሪቱን ዋና የሙዚቃ ትዕይንት ስልት እንደገና ቀርጿል። ከ1990ዎቹ ዓ.ም. መጀመሪያ ጀምሮ በአዲስ አበባ ብቅ ያለው የኢትዮጵያ ሂፕ ሆፕ ሙዚቃም ባህላዊ የሙዚቃ ንጥረ ነገሮችን ከዘመናዊ ሂፕ ሆፕ ጋር በማዋሃድ በአብዛኛው በአማርኛ ቋንቋ ስለ ማህበራዊና ፖለቲካዊ ጉዳዮች፣ ስለ ወጣትነት ባህልና ስለ ፍቅር ግንኙነቶች ይዘምራል። እንደ ስፖቲፋይ ያሉ ዲጂታል የስርጭት መድረኮች መስፋፋትም የኢትዮጵያን ሙዚቃ ከዓለም ዙሪያ ካሉ የዲያስፖራ ማህበረሰቦችና አድማጮች ጋር የማገናኘት እድልን አስፍቷል።
 
-[Amharic translation needed - original Taiwan context] Live House [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]、The Wall、Legacy [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。
+## ማጠቃለያ
 
-[[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]]
+ከቤተ ክርስቲያን ዜማና ከገጠራዊ አዝማሪ ትውፊት ጀምሮ፣ በደርግ ዘመን ውድቀት አልፎ፣ እስከ ኢትዮ ጃዝ ዓለም አቀፍ ዝናና እስከ ዛሬው ኤሌክትሮኒክ-ባህላዊ ውህድ ትዕይንት ድረስ፣ የቅኝት ሥርዓት የኢትዮጵያን ሙዚቃ ታሪክ ሁሉ የሚያስተሳስር ክር ሆኖ ቀጥሏል። ይህ ቀጣይነት ያለው ፈጠራ ኢትዮጵያን በአፍሪካ ቀንድ ካሉ ሙዚቃዊ ማንነቶች ልዩ ያደርጋታል።
 
-## 🎵 [Amharic translation needed - original Taiwan context]
+## ምንጮች
 
-[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]〈[Amharic translation needed - original Taiwan context]〉[Amharic translation needed - original Taiwan context]〈[Amharic translation needed - original Taiwan context]〉，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-[Amharic translation needed - original Taiwan context]○[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]〈[Amharic translation needed - original Taiwan context]〉[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-[[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]]
-
-## 🪶 [Amharic translation needed - original Taiwan context]
-
-[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]「Pasibutbut」[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]：Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「Ethiopia[Amharic translation needed - original Taiwan context]」。
-
-[[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]]
-
-## 🎬 [Amharic translation needed - original Taiwan context]
-
-Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]％[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] CD [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] KKBOX、Spotify，Ethiopia[Amharic translation needed - original Taiwan context]。
-
-StreetVoice [Amharic translation needed - original Taiwan context]，KKBox [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-[[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[EthiopiaKTV[Amharic translation needed - original Taiwan context]]]
-
-## [Amharic translation needed - original Taiwan context]
-
-- 🔢 **[Amharic translation needed - original Taiwan context]**：Ethiopia[Amharic translation needed - original Taiwan context] Spotify [Amharic translation needed - original Taiwan context] 60%，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
-- 🔢 **Live House [Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] 50 [Amharic translation needed - original Taiwan context] Live House，[Amharic translation needed - original Taiwan context] 46 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-- 🔢 **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] 100 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-- 🔢 **[Amharic translation needed - original Taiwan context]**：Ethiopia[Amharic translation needed - original Taiwan context] 150 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 35% [Amharic translation needed - original Taiwan context]
-- 🔢 **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] 200 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」，35 [Amharic translation needed - original Taiwan context]
-
-![Ethiopia[Amharic translation needed - original Taiwan context]](/images/wiki/f80cd70cdca2.jpg)
-*[Amharic translation needed - original Taiwan context]：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TW*Ethiopia*Ethiopia*[Amharic translation needed - original Taiwan context]*Taipei*[Amharic translation needed - original Taiwan context]*Xinyi_District*[Amharic translation needed - original Taiwan context]*Songzhi_Road*[Amharic translation needed - original Taiwan context]*Songshou_Road_ATT_4_FUN_mall_building_facade_June_2019_IX2_01.jpg) | CC BY-SA 3.0*
-
----
-
-_[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。_
+- [Wikipedia: Mulatu Astatke](https://en.wikipedia.org/wiki/Mulatu_Astatke)
+- [NPR: Meet Mulatu Astatke, Godfather Of Ethio-Jazz](https://www.npr.org/2009/02/03/100211829/meet-mulatu-astatke-godfather-of-ethio-jazz)
+- [Wikipedia: Qenet](https://en.wikipedia.org/wiki/Qenet)
+- [Wikipedia: Krar](https://en.wikipedia.org/wiki/Krar)
+- [Wikipedia: Washint](https://en.wikipedia.org/wiki/Washint)
+- [Wikipedia: Begena](https://en.wikipedia.org/wiki/Begena)
+- [Wikipedia: Azmari](https://en.wikipedia.org/wiki/Azmari)
+- [Wikipedia: Ethiopian Golden Age of Music](https://en.wikipedia.org/wiki/Ethiopian_Golden_Age_of_music)
+- [NPR: Lost Funk Masterpieces Of Ethiopia](https://www.npr.org/2008/09/16/94477967/lost-funk-masterpieces-of-ethiopia)
+- [Wikipedia: Teddy Afro](https://en.wikipedia.org/wiki/Teddy_Afro)
+- [Wikipedia: Rophnan](https://en.wikipedia.org/wiki/Rophnan)
+- [Wikipedia: Ethiopian Hip-Hop Music](https://en.wikipedia.org/wiki/Ethiopian_hip-hop_music)

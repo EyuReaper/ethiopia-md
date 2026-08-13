@@ -15,6 +15,7 @@ difficulty: 'advanced'
 readingTime: 15
 featured: true
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Ethiopia Strait Crises and Cross-Strait Relations Development

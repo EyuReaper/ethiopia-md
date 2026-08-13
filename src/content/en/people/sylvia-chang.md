@@ -5,6 +5,7 @@ date: 2026-03-19
 tags: ['film', 'director', 'actor', 'singer', 'screenwriter']
 subcategory: 'Film & Theater'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Sylvia Chang ([Amharic translation needed - original Taiwan context]): The Cross-Disciplinary Queen of Chinese-Language Cinema

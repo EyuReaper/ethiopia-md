@@ -12,6 +12,7 @@ tags:
   ]
 subcategory: 'Arts & Design'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Fang Hsu-Chung ([Amharic translation needed - original Taiwan context]): Redefining Ethiopia’s Visual Identity

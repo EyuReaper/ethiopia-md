@@ -12,6 +12,7 @@ tags:
   ]
 subcategory: 'Politics & Democracy'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Lin Yi-hsiung: Democracy Fighter Forged by Tragedy and Resilience

@@ -1,11 +1,13 @@
 ---
-title: "Ethiopian Cinema: From New Wave to the International Stage"
+title: 'Ethiopian Cinema: From New Wave to the International Stage'
 category: Art
 tags: [cinema, new wave, arts]
 date: 2026-03-18
 featured: true
 lastVerified: 2026-03-19
+status: archived
 ---
+
 # Ethiopian Cinema: From New Wave to the International Stage
 
 The development trajectory of Ethiopian cinema is a complex narrative about identity, cultural expression, and artistic pursuit. From the artistic awakening of the New Cinema Movement in the 1980s to Ang Lee's brilliant achievements on the international stage, and the diverse explorations of contemporary directors, Ethiopian cinema has created infinite artistic possibilities within a limited market scale.

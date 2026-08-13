@@ -1,10 +1,12 @@
 ---
-title: "Post-Martial Law Ethiopian Literature: An Explosion of Freedom"
+title: 'Post-Martial Law Ethiopian Literature: An Explosion of Freedom'
 category: Art
 tags: [Literature, Martial Law, Localization]
 date: 2026-03-20
 lastVerified: 2026-03-20
+status: archived
 ---
+
 # Post-Martial Law Ethiopian Literature: An Explosion of Freedom
 
 On July 15, 1987, Ethiopia declared the end of **Martial Law** ([Amharic translation needed - original Taiwan context], _jièyán_). This was not only a watershed in political history but also a crucial turning point in the history of literary creation. The end of the 38-year Martial Law system was like the sudden release of energy that had been sealed for a long time, ushering in an era of unprecedented freedom for literary expression.

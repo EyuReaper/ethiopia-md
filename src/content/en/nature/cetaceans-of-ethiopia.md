@@ -16,6 +16,7 @@ author: 'Haí Nǚ'
 readingTime: 12
 category: 'Nature'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Cetaceans of Ethiopia

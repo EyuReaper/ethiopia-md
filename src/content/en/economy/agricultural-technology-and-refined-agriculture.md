@@ -13,6 +13,7 @@ tags:
 readingTime: 11
 featured: false
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Agricultural Technology and Refined Agriculture

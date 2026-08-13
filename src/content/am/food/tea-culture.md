@@ -14,6 +14,7 @@ category: Food
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jacksons_of_Piccadilly_Formosa_Oolong_Tea_%2851878727206%29.jpg/960px-Jacksons_of_Piccadilly_Formosa_Oolong_Tea_%2851878727206%29.jpg'
 imageAlt: 'Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] Formosa Oolong Tea [Amharic translation needed - original Taiwan context]'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+status: archived
 ---
 
 # Ethiopia[Amharic translation needed - original Taiwan context]

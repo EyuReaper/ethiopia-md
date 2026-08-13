@@ -1,13 +1,39 @@
 ---
 title: 'Society'
-date: 2026-08-11
+date: '2026-08-11'
 tags: [Society, Hub]
-description: 'The Society section of Ethiopia.md is being rewritten with original, sourced content about Ethiopia. Read the Amharic edition, which is the source of truth, or check back soon.'
-status: draft
+description: "A brief survey of Ethiopia's federal structure built on its nations, nationalities, and peoples, its diplomatic role as host country of the African Union, and its demographic and urbanization trends."
+status: published
 ---
 
-# Society
+# Society 🏛️
 
-This category overview is being rewritten. The Amharic edition (`knowledge/Society/_Society Hub.md`) is the source of truth for Ethiopia.md content and is where new writing lands first; this English translation will follow once that's in place.
+Ethiopia is a country home to more than 80 nations, nationalities, and peoples, and this diversity has been established as the foundation of its political and administrative structure within its constitution. In addition, Ethiopia holds a special place in the continent's diplomacy as the host country of the African Union headquarters. This page briefly surveys Ethiopia's social structure through the lens of its federal system, its diplomatic role, and its demographic and urbanization trends.
 
-In the meantime, browse the [Society category](/society) for individual articles, or see the [English translation guide](/en/contribute) if you'd like to help translate.
+## Federal Structure: Nations, Nationalities, and Peoples
+
+Ethiopia is one of the few ethnicity-based federal systems in the world. The transitional government established after the fall of the Derg in 1983 E.C. began the process of dividing the country into regions based on language and settlement patterns, and the constitution ratified in 1987 E.C. formally incorporated the concept of "nations, nationalities, and peoples" in Article 39, enshrining the right to self-administration and self-determination up to and including secession. This day (Tahsas 8) has been celebrated annually as "Nations, Nationalities, and Peoples Day" since 2006. ([Wikipedia](https://en.wikipedia.org/wiki/Nations,_Nationalities_and_Peoples_of_Ethiopia))
+
+Based on this constitutional principle, the country was long divided into nine regions and two self-governing city administrations (Addis Ababa and Dire Dawa). In recent years, however, additional regions have been created: the Sidama Region in Sene 2012 E.C., the South West Ethiopia Peoples' Region in Hidar 2014 E.C., and, following the division of the former Southern Nations, Nationalities, and Peoples' Region (SNNPR), the South Ethiopia and Central Ethiopia regions, established in Nehase 2015 E.C. The country currently comprises 12 regions and 2 chartered city administrations. ([Wikipedia: Regions of Ethiopia](https://en.wikipedia.org/wiki/Regions_of_Ethiopia))
+
+The federal government comprises two chambers: the House of Peoples' Representatives and the House of Federation; the latter holds representation for the nations and nationalities and also has the power to interpret the constitution. Every nation and nationality is constitutionally guaranteed at least one seat, with an additional seat added for every one million people for groups exceeding one million in population; the House of Federation currently has 112 members. ([House of Federation, Wikipedia](https://en.wikipedia.org/wiki/House_of_Federation)) While this structure was designed to accommodate diversity at an institutional level, its practical implementation remains the subject of varied analyses and debates among scholars and politicians.
+
+## Ethiopia and the African Union: A Center of Diplomacy
+
+Addis Ababa is the seat of the headquarters of the African Union. This tradition began with Emperor Haile Selassie I's leading role in the founding of the Organisation of African Unity (OAU) in 1955 E.C., an organization that was transformed into the African Union in 1994 E.C. As a result, Addis Ababa has been given the title "Diplomatic Capital of Africa"; close to 500 embassies, consulates, and international institutions are based in the city, placing it on a par with New York, Geneva, Brussels, and Washington, D.C. ([Institute of Foreign Affairs Ethiopia](https://www.ifa.gov.et/2026/05/14/when-the-world-comes-to-addis-ababa-converting-diplomatic-convergence-into-strategic-influence/))
+
+The African Union's annual summit of leaders draws an average of about 7,000 delegates to Addis Ababa, including more than 40 heads of state. This hosting role has enabled Ethiopia to hold significant diplomatic weight by shaping continental discussions and serving as a bridge between African and international actors. In addition to the African Union, Addis Ababa has also served as the seat of the United Nations Economic Commission for Africa (UNECA) since 1950 E.C., one of the United Nations' five regional commissions. ([UNECA](https://www.uneca.org/contact-office-location/addis-ababa-headquarters)) The presence of these two major institutions in a single city places Addis Ababa among the significant centers of diplomacy not only in Africa but at the global level.
+
+## Demographics: Diversity, Language, and Education
+
+Ethiopia is Africa's second most populous country after Nigeria. United Nations estimates put its population at close to 132 million in 2016 E.C., while Ethiopia's national statistics service places the figure at around 109 million; the difference is based on differing methodologies. ([Demographics of Ethiopia, Wikipedia](https://en.wikipedia.org/wiki/Demographics_of_Ethiopia))
+
+More than 80 ethnic groups are officially recognized, and close to 100 languages are spoken, classified into four main language families: Semitic, Cushitic, Omotic, and Nilo-Saharan. Oromo (33.8%), Amharic (29.3%), Somali (6.2%), and Tigrinya (5.9%) are among the most widely spoken languages. ([Britannica: Ethnic groups and languages](https://www.britannica.com/place/Ethiopia/Ethnic-groups-and-languages))
+
+There have been improvements in education, but challenges remain. In the 2013/14 E.C. academic year, overall primary school enrollment reached 88.7%, while only 33.1% of students go on to transition to secondary education. There is also significant variation among regions; for example, pre-primary school enrollment reaches as high as 93% in Addis Ababa, but only 14–18% in the Afar Region. Adult literacy rates, according to various estimates, rose from about 47% to about 60% between 2008 and 2014 E.C. Beyond this, learning outcomes themselves are a major concern; World Bank analysis shows that, based on pre-pandemic data, close to 90% of Ethiopian children are unable to read and understand an age-appropriate short text by age 10, a rate that, measured against what is called the "learning poverty" indicator, is higher than the average for Sub-Saharan African countries. ([World Bank: Ethiopia Learning Poverty Brief](https://documents1.worldbank.org/curated/en/099062624135522075/pdf/P1792091d3bd9308519cdf1354887c45a1d.pdf))
+
+## Urbanization: From Rural to Urban
+
+Although Ethiopia remains predominantly a rural country, it is undergoing rapid urbanization. World Bank data shows that the share of the urban population reached 23.66% in 2016 E.C., with the annual urban population growth rate exceeding 4.7%. ([Trading Economics, citing World Bank data](https://tradingeconomics.com/ethiopia/urban-population-percent-of-total-population-wb-data.html)) This growth is driven mainly by rural-to-urban migration, and according to the United Nations Human Settlements Programme (UN-Habitat), Ethiopia's urban population is growing at a rate of more than 5% per year. ([UN-Habitat Ethiopia](https://unhabitat.org/ethiopia))
+
+Addis Ababa itself is one of the fastest-growing cities in Africa, with its population (depending on the source and the definition of administrative boundaries) estimated at somewhere between 3.6 and 5.7 million. ([World Population Review](https://worldpopulationreview.com/cities/ethiopia/addis-ababa)) This change has placed particular strain on large cities like Addis Ababa, with growing demand for housing, infrastructure, and employment opportunities. More than 75% of the population still lives in rural areas dependent on agriculture, with an average farm holding size of under two hectares. This rural-urban divide, in terms of income, access to education, and infrastructure provision, remains one of the central issues in Ethiopian social policy.

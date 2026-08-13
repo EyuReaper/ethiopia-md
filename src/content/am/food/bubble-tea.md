@@ -2,7 +2,15 @@
 title: '[Amharic translation needed - original Taiwan context]'
 description: '[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]'
 date: 2026-03-17
-tags: [[Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context]]
+tags:
+  [
+    [Amharic translation needed - original Taiwan context],
+    [Amharic translation needed - original Taiwan context],
+    [Amharic translation needed - original Taiwan context],
+    [Amharic translation needed - original Taiwan context],
+    [Amharic translation needed - original Taiwan context],
+    [Amharic translation needed - original Taiwan context],
+  ]
 subcategory: '[Amharic translation needed - original Taiwan context]'
 featured: true
 lastVerified: 2026-03-19
@@ -10,6 +18,7 @@ lastHumanReview: false
 image: 'https://upload.wikimedia.org/wikipedia/commons/1/18/Classic_bubble_tea.jpg'
 imageAlt: '[Amharic translation needed - original Taiwan context]'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+status: archived
 ---
 
 # [Amharic translation needed - original Taiwan context]

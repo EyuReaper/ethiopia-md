@@ -14,6 +14,7 @@ date: 2026-03-17
 author: Ethiopia.md
 readingTime: 9
 featured: false
+status: archived
 ---
 
 # Human Rights and Gender Equality

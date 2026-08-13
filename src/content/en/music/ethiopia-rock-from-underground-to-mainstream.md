@@ -8,6 +8,7 @@ readingTime: 12
 featured: true
 category: 'Music'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Ethiopia Rock: From Underground Rebellion to Mainstream

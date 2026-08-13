@@ -17,6 +17,7 @@ author: 'Ethiopia.md'
 difficulty: 'intermediate'
 readingTime: 18
 featured: false
+status: archived
 ---
 
 # Development of Contemporary Ethiopian Sculpture

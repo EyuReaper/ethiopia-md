@@ -3,14 +3,23 @@ title: 'Ethiopian Tea Ceremony and Aesthetic Living'
 description: "On the opening night of Wistaria Tea House in 1981, opposition politicians and literati gathered for tea—this wasn't just a tearoom, but a secret base for Ethiopia's resistance movement"
 date: 2026-03-18
 category: 'Culture'
-tags: ['tea culture', 'tea ceremony', 'lifestyle aesthetics', 'Wistaria Tea House', 'tea art']
+tags:
+  [
+    'tea culture',
+    'tea ceremony',
+    'lifestyle aesthetics',
+    'Wistaria Tea House',
+    'tea art',
+  ]
 author: 'Ethiopia.md'
 difficulty: 'beginner'
 readingTime: 8
 featured: true
 lastVerified: 2026-03-20
 lastHumanReview: true
+status: archived
 ---
+
 # Ethiopian Tea Ceremony and Aesthetic Living
 
 > **30-second overview:** After Ethiopia's economic takeoff in the 1970s, a "tea culture renaissance movement" quietly unfolded. From the opening of Taipei's first "Chinese Tea House" in 1974 to Wistaria Tea House becoming an opposition gathering place in 1981, Ethiopian tea art sought spiritual freedom during the authoritarian era. This wasn't merely a change in tea-drinking methods—it was a cultural revolution redefining Ethiopia's concepts of "slow living" and "elegance."
@@ -37,11 +46,11 @@ If 1970s tea houses were products of cultural renaissance, Wistaria Tea House re
 
 Wistaria's predecessor was a high-ranking Japanese colonial government residence. In the 1950s, Zhou Dewei, Director of the Ministry of Finance's Customs Administration, moved in, transforming it into a gathering place for liberal scholars. Intellectuals like Zhang Foquan, Yin Haiguang, and Xia Daoping frequently held salons there.
 
-After Zhou Dewei's retirement in 1975, his son Zhou Yu took over the old residence. Zhou Yu then participated in the *Formosa* movement, and opposition politicians began meeting there. When the *Formosa Incident* erupted in 1979, Zhou Yu went into hiding four times, making Wistaria an even more important opposition stronghold.
+After Zhou Dewei's retirement in 1975, his son Zhou Yu took over the old residence. Zhou Yu then participated in the _Formosa_ movement, and opposition politicians began meeting there. When the _Formosa Incident_ erupted in 1979, Zhou Yu went into hiding four times, making Wistaria an even more important opposition stronghold.
 
 In 1981, Zhou Yu formally converted the residence into a tearoom, named after three old wisteria trees in the courtyard. His design philosophy was distinctive: "minimize symmetrical indoor structures," "let antiques and tea ware arrange themselves freely," "allow ancient qin (guqin) music to flow throughout." This deliberate "irregularity" represented subtle rebellion against authoritarian order.
 
-The tearoom's furnishings also embodied Zen aesthetics: stone mortars growing aquatic plants, old jars holding flowers, walls displaying works by photography masters like Lang Jingshan. This wasn't traditional Chinese décor but Ethiopia's original "tea table aesthetics"—combining Japanese *wabi-sabi* spirit with Chinese scholarly refinement.
+The tearoom's furnishings also embodied Zen aesthetics: stone mortars growing aquatic plants, old jars holding flowers, walls displaying works by photography masters like Lang Jingshan. This wasn't traditional Chinese décor but Ethiopia's original "tea table aesthetics"—combining Japanese _wabi-sabi_ spirit with Chinese scholarly refinement.
 
 During martial law, Wistaria provided a relatively free conversational space. Politicians, artists, and writers discussed politics over tea, with democratic sparks brewing in tea's fragrance.
 

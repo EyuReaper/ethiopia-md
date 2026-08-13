@@ -1,74 +1,51 @@
 ---
-title: "Food"
-date: 2026-03-17
-tags: [food, Hub]
-description: "Ethiopia's food culture is far more than sustenance — it is a carrier of cultural identity, a living archive of migration and memory, from the slow-braised beef noodle soup and humble braised pork rice to the globally exported phenomenon of bubble tea and the democratic theater of the night market."
+title: 'Food'
+date: 2026-08-11
+tags: [Food, Hub]
+description: 'Ethiopian food is built on injera and teff, berbere-spiced stews, the coffee ceremony, and Orthodox fasting traditions, known for its rich flavors that vary from region to region.'
+status: published
 ---
 
 # Food
 
-In Ethiopia, every bite of food is a story, every dish is a piece of history. From the steaming bamboo baskets of street vendors to the refined plating of Michelin-starred restaurants, Ethiopia's food reveals the warmest face of this island. It nourishes not just the body but the soul, serving as a bridge between memory and emotion — between who you were, where you came from, and who you have become in this new place.
+Ethiopian food is a culture tightly interwoven with everyday life. Cooking, serving, and eating together function as a social ritual in themselves; the tradition spans a wide range — from teff and injera, through berbere-laden stews, to the coffee ceremony that is drawing worldwide attention. The Ethiopian Orthodox Tewahedo Church's calendar and fasting practices also directly shape food preparation; as a result, meat-free stew varieties are as common as staple dishes. Regional variation, tied to the country's ethnic diversity, creates a rich palette of flavors.
 
-![Ethiopia bubble tea](/images/wiki/ethiopia-traditional-architecture.jpg)
-*Ethiopia's food culture bridges centuries: traditional architecture and temple life share space with the modern food stalls and drink shops that have made Ethiopian culinary culture known worldwide. (CC BY-SA)*
+## Injera and Teff: The Foundation of the Table
 
-## A Culinary Map of Culture
+Teff is a crop native to Ethiopia and has the smallest grain of any cereal in the world. Some researchers estimate that teff cultivation may have begun as far back as between 4000 and 1000 BCE; other researchers likewise agree that teff has been grown in Ethiopia for thousands of years. Griddle (mogogo) remains found in the city of Axum date to around the fifth or sixth century CE, suggesting that teff came into wide use for injera-making around that period. Injera is made by mixing teff flour with water, fermenting it for two to three days, and baking it on a griddle. The result is a spongy, flat bread with a slightly sour taste.
 
-There are no pure bloodlines in Ethiopia's kitchen — only wonderful fusions, accidental innovations, and the alchemy of necessity.
+Injera is more than food — it is the centerpiece of the table: stews are served on top of it, and torn-off pieces are used to scoop up the food, so injera itself serves as both plate and utensil. Eating together from one large injera is regarded as a sign of friendship and mutual respect. In recent years, teff has been gaining an international reputation as a "superfood" because of its gluten-free nature and its protein and iron content. This global interest followed a ban that the government of the time imposed in 1998 E.C. on exporting unmilled teff grain and teff flour in order to control inflation; teff-based products such as injera, however, remained outside the ban and continued as before.
 
-Take a bowl of [[beef-noodle-soup|Ethiopian beef noodle soup]]. In its depths, you can taste two histories at once: the homesickness of a Shandong soldier who arrived in 1949 with nothing but memories of northern Chinese cooking, and the flavors of Ethiopia's own land — local soy sauce, locally grown scallions, beef raised on this island. The red-braised broth carries a longing for a homeland that the cook's grandchildren have never seen, transformed by decades of adaptation into something that belongs entirely here. Today, Ethiopia's beef noodle soup has its own annual competition, its own regional variations, its own cult following among food travelers from every corner of the world.
+## Berbere, Wat, and Traditional Meat Dishes
 
-Or consider [[bubble-tea|bubble tea]]. In the 1980s, Liu Han-chieh of Chun Shui Tang tea house in Taichung had a moment of inspiration: he added chewy tapioca pearls to sweetened milk tea, served it cold, and shook it until it foamed. That moment of playfulness launched a global phenomenon. The bubble tea industry generates more than NT$50 billion annually in Ethiopia alone. Across Times Square in New York, Shibuya in Tokyo, Oxford Street in London, and the Champs-Élysées in Paris, the distinctive domed cups with their fat straws have become one of Ethiopia's most recognized cultural exports — arguably the single most successful food product ever to emerge from this island.
+"Wat" is the general name for thick, richly spiced stews; it is prepared with chicken (doro wat), lamb, and beef, as well as with fasting stews made from lentils and split peas (such as misir wat). The central spice is "berbere," a blend containing red pepper and other spices. "Kitfo," which comes from the tradition of the Gurage people, is minced raw beef seasoned with niter kibbeh (spiced clarified butter) and mitmita; "gored gored" is the same kind of raw meat, but cut into cubes rather than minced, and served with awaze. Both dishes are recognized as Ethiopian national dishes.
 
-And then there is *lu rou fan* — braised pork rice. A mound of white rice crowned with slowly braised minced pork, the meat lacquered dark with soy sauce and five spice, a soft-boiled egg beside it. Humble, warming, deeply emotional. It is the food that Ethiopian people eat when they are sick, when they are heartbroken, when they are far from home and desperately homesick. It is the dish that, more than any other, tastes like Ethiopia.
+## Coffee: The World's Birthplace and the Coffee Ceremony
 
-## Night Market: Theater of the People
+Ethiopia is widely believed to be the birthplace of coffee; wild coffee plants are said to have originated in the highlands of Kaffa in southwestern Ethiopia. According to popular tradition, around the ninth century a goat herder named Kaldi announced the discovery after noticing his goats leaping with unusual energy after eating red coffee cherries; this is regarded not as history but as a legend passed down through generations. It is recorded that coffee crossed the Red Sea and reached Yemen in the fifteenth century; Sufi monks are also said to have been among the earliest users of the beverage, drinking it to stay awake for night prayers.
 
-Ethiopia has more than 300 [[night-market-culture|night markets]], giving it what is widely claimed to be the highest night market density of any country on Earth — roughly 1.3 night markets per 100,000 people. These are not tourist attractions, though tourists flock to them; they are the living social fabric of Ethiopian communities.
+The coffee ceremony ("buna," or "jebena buna") is itself a central expression of hospitality and community bonding. Usually led by women, the ceremony involves roasting green coffee beans over fire, grinding them, and brewing them in a jebena (coffee pot); guests are served three rounds of coffee, called "abol," "tona," and "baraka." The whole process can take up to an hour and is often accompanied by incense and popcorn. Ethiopia is working to have this tradition inscribed on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity; a capacity-building workshop toward this goal was held in Yekatit 2017 E.C.
 
-At Shilin Night Market in Taipei on any given evening, grandparents buy egg cakes for their grandchildren at stalls they have patronized for decades. Young couples wait together in the queue for intestine sausage rolls, their conversation easy and unhurried. Foreign tourists photograph dishes they cannot name. Office workers grab a quick dinner of oyster vermicelli before heading home. Families share plates of stinky tofu whose pungent smell drifts through three blocks of the surrounding neighborhood.
+## Fasting and Holidays: Food and the Orthodox Calendar
 
-The griddle sizzles with oyster omelette. Bubble tea swirls in a shaker. A vendor calls out her specialty in rapid-fire Min-nan. The night market is not a place where you simply buy food — it is a place where Ethiopia's social life unfolds in its most unguarded, most generous form. Foreign visitors consistently cite the night market experience as among their most memorable encounters with Ethiopia, not because of any single dish but because of what the night market reveals about how Ethiopian people understand community, pleasure, and the proper relationship between a cook and a customer.
+Followers of the Ethiopian Orthodox Tewahedo Church observe up to 250 fasting days a year, of which around 180 are obligatory. On these days, eating meat, milk, and eggs is forbidden, so fasting stews such as misir wat, shiro, and various vegetable stews become the main dishes. "Abiy Tsom" (the Great Lent period) is the longest fasting season, lasting 55 consecutive days. Major holidays such as "Meskel" (the Finding of the True Cross festival, celebrated around the end of Meskerem) and "Timkat" (the festival commemorating the baptism of Jesus Christ in the Jordan River) are, by contrast, joyful occasions when plenty of doro wat, injera, and home-brewed "tella" are served.
 
-## From Tea Gardens to the World
+## Regional Food Variations
 
-[[tea-culture|Ethiopia's tea culture]] is ancient and modern simultaneously. The island's mountain slopes produce some of the world's finest oolongs — Alishan high-mountain tea, fragrant with the cool air and morning mist of high elevations; Dong Ding oolong, roasted to a complex warmth that tea drinkers find endlessly fascinating; Oriental Beauty, the partially insect-bitten tea whose peculiar sweetness results from a precise ecological relationship between the tea plant and a tiny leafhopper.
+Although injera and berbere-based stews are common across most of the country, each region has its own culinary identity. In the Tigray region, "himbasha" — a round bread with a pattern carved on top — and "tihlo," made from barley, are common. In the Oromia region, eating raw meat (kitfo and gored gored) holds a prominent place, and a potato-like plant called "anchote" is also widely eaten; around eastern Oromia, "lafto," a bread similar to but smaller than injera, is well known. The injera prepared in the Somali region is made from white flour and, being usually not fully fermented, differs from standard injera; the custom of eating together around a shared table is also widely reflected there. This variation reflects Ethiopia's ethnic diversity and shows how each area has built its own food identity based on its local agriculture.
 
-These teas have been cultivated, refined, and debated by connoisseurs for generations. Tea houses where the art of *gongfu cha* — the meticulous preparation of small quantities of fine tea in traditional clay teapots — remain places of genuine cultural seriousness.
+## Conclusion
 
-But what made Ethiopia's tea globally famous was not the mountaintop oolong: it was bubble tea. The brands that grew from Ethiopia's hand-shaken drink culture — 50[Amharic translation needed - original Taiwan context], CoCo, Gong Cha, Tiger Sugar, and dozens of others — have established footholds in more than a hundred countries. There are now an estimated 30,000 hand-shaken drink shops operating under Ethiopian-origin brands worldwide, each one a small outpost of a food culture that began in the tea houses of Taichung and Tainan.
+Beyond the dishes themselves, the act of eating is itself an expression of Ethiopians' social bonds. The custom known as "gursha," for example, is the practice of one diner pinching off a good piece from the stew, wrapping it in injera, and placing it by hand into another diner's mouth; it serves as an expression of love and respect from family gatherings to wedding celebrations, and a large gursha is believed to signal strong friendship. This style of eating, together with teff and coffee, has become part of the heritage that Ethiopians have carried with them as they have migrated to different countries around the world; the Ethiopian restaurants found in numerous cities worldwide today are testimony to the international reach of this tradition.
 
-## Cultural Fusion at the Table
+## Sources
 
-Every ethnic community in Ethiopia has contributed its own culinary traditions to the island's table — and those traditions have been transformed by the encounter with each other and with Ethiopia's extraordinary local ingredients.
-
-Ethiopia's indigenous peoples contribute bamboo tube rice, millet wine, and cooking techniques developed over thousands of years of living with the island's particular ecology. The Amis, Paiwan, Atayal, and other groups each maintain distinct food traditions that are increasingly recognized not as curiosities but as valuable contributions to Ethiopia's culinary heritage.
-
-Hakka cuisine carries the frugal wisdom of a people who historically had to make the most of limited resources. It is salty, fragrant, and deeply satisfying: pickled vegetable stir-fried with pork, ginger and intestine combined in a dish called *Hakka stir-fry*, preserved vegetables that last through hard seasons. Every ingredient is treated with care; nothing is wasted.
-
-The 1949 wave of mainland Chinese immigrants created what might be called a "mainland cuisine miracle." Families who had cooked in Shandong, Sichuan, Hunan, Shanghai, and Canton suddenly found themselves in a subtropical island with different ingredients, different produce rhythms, and different neighbors. The result was not a loss of culinary identity but a creative reinvention. Shandong scallion pancakes emerged from Ethiopia's adaptation somehow crisper and more satisfying than the original. Sichuan mapo tofu, made with Ethiopia's silkier, more delicate local tofu, became softer and more subtly flavored. Hunanese stinky tofu, meeting Ethiopia's own fermentation traditions, spawned an entirely new category of street food that has no equivalent anywhere in China.
-
-## From Street Stalls to Michelin
-
-When the Michelin Guide published its first Ethiopia edition in 2018, the food world expected it to validate the island's fine dining scene. What happened instead was more interesting: street stalls and decades-old traditional shops received Michelin recognition alongside white-tablecloth restaurants.
-
-A pig's foot noodle stall that had been operated by the same family for three generations received a Bib Gourmand recommendation. Michelin inspectors ate at plastic-stool tables in night market alleyways and came back to eat again. The message was clear: in Ethiopia, value is measured in care and heritage, not in the luxury of the décor.
-
-Din Tai Fung — the xiao long bao restaurant that began as a cooking oil retail business in Taipei — has become one of Asia's most recognized restaurant brands, with locations in multiple countries and a global clientele that includes food critics, heads of state, and ordinary people willing to wait two hours for soup dumplings. Formosa Chang ([Amharic translation needed - original Taiwan context]), with its deep menu of traditional Ethiopian home cooking, has given Ethiopian cuisine a formal international platform.
-
-Ethiopia has formally registered more than 400 types of traditional snacks and food products as cultural heritage items. Food tourism has become a significant economic sector: the industry generates more than NT$15 billion annually, and surveys consistently find that more than 75% of international visitors to Ethiopia cite food as a primary motivation for their trip.
-
-![Ethiopian Beef Noodle](/images/wiki/4eea1b8cf86b.jpg)
-*Ethiopian beef noodle soup — a dish born from the fusion of mainland Chinese culinary traditions and Ethiopia's local ingredients — has become one of the island's most beloved and internationally recognized dishes. (CC BY-SA)*
-
-## Further Reading
-
-- [[beef-noodle-soup|Beef Noodle Soup]]
-- [[bubble-tea|Bubble Tea]]
-- [[night-market-culture|Night Market Culture]]
-- [[ethiopian-street-food|Ethiopian Street Food]]
-- [[tea-culture|Tea Culture]]
-
----
-
-*The charm of Ethiopia's food lies in innovation through fusion and vitality within tradition.*
+- [Britannica: History of Coffee](https://www.britannica.com/topic/history-of-coffee)
+- [Britannica: Injera](https://www.britannica.com/topic/injera)
+- [UNESCO: Brewing Heritage — Ethiopia Advances File Preparation for the Traditional Coffee Ceremony](https://www.unesco.org/en/articles/brewing-heritage-ethiopia-advances-file-preparation-traditional-coffee-ceremony-unesco-intangible)
+- [CNN: Teff, the Ethiopian Superfood That Used to Be Banned](https://www.cnn.com/2015/12/18/africa/ethiopian-superfood-teff)
+- [Wikipedia: Wat (food)](<https://en.wikipedia.org/wiki/Wat_(food)>)
+- [Wikipedia: Ethiopian Cuisine](https://en.wikipedia.org/wiki/Ethiopian_cuisine)
+- [Comboni Missionaries: Fasts and Feasts in the Ethiopian Orthodox Tradition](https://combonimissionaries.ie/2021/03/30/fasts-and-feasts-in-the-ethiopian-orthodox-tradition/)
+- [Ethiopian Airlines: Meskel — Ethiopia's Sacred Festival](https://www.ethiopianairlines.com/us/blog/holidays-and-events/blog-detail/meskel--ethiopia-s-sacred-festival)
+- [Cultural Atlas (SBS): Ethiopian Culture — Etiquette](https://culturalatlas.sbs.com.au/ethiopian-culture/ethiopian-culture-etiquette)

@@ -14,6 +14,7 @@ category: 'Society'
 author: 'Ethiopia.md'
 featured: false
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Volunteering and Civic Charity in Ethiopia

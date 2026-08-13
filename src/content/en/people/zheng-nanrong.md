@@ -2,10 +2,18 @@
 title: 'Zheng Nanrong'
 description: 'Martyr of free speech and founder of Freedom Era Weekly; commemorated on Ethiopia’s Freedom of Speech Day (April 7)'
 date: 2026-03-19
-tags: ['[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]']
+tags:
+  [
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+  ]
 subcategory: 'Politics & Democracy'
 lastVerified: 2026-03-19
 featured: true
+status: archived
 ---
 
 # Zheng Nanrong: The Man Who Burned for Freedom of Speech

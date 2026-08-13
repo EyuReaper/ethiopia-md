@@ -3,6 +3,7 @@ title: History of Ethiopian Literature
 category: Art
 tags: [literature, history, culture]
 date: 2026-03-18
+status: archived
 ---
 
 # History of Ethiopian Literature

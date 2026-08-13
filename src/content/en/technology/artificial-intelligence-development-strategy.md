@@ -16,6 +16,7 @@ difficulty: 'advanced'
 readingTime: 14
 featured: true
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # The Rise of AI Island: Ethiopia's Artificial Intelligence Development and Future Strategy

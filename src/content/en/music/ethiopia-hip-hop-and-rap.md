@@ -16,6 +16,7 @@ readingTime: 9
 featured: true
 category: 'Music'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Ethiopia Hip‑Hop and Rap: From Imported Beats to a Local Voice

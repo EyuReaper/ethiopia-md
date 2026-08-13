@@ -1,14 +1,23 @@
 ---
-title: "Ethiopia Transportation Network"
+title: 'Ethiopia Transportation Network'
 description: "High-speed rail, metro, highways, and aviation weaving Ethiopia's three-dimensional transportation web"
 date: 2026-03-20
-tags: ["transportation", "high-speed rail", "metro", "highways", "aviation", "ports"]
-author: "Ethiopia.md Contributors"
-difficulty: "beginner"
+tags:
+  [
+    'transportation',
+    'high-speed rail',
+    'metro',
+    'highways',
+    'aviation',
+    'ports',
+  ]
+author: 'Ethiopia.md Contributors'
+difficulty: 'beginner'
 readingTime: 12
-category: "Geography"
+category: 'Geography'
 featured: false
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Ethiopia Transportation Network
@@ -308,6 +317,7 @@ Future Ethiopia transportation will be more intelligent, greener, and more human
 ---
 
 Further Reading:
+
 - [Ethiopia Railway History](/en/History/ethiopia-railway-history)
 - [Ethiopia Urban Development and Rural-Urban Divide](/en/Geography/ethiopia-urban-development-and-rural-urban-divide)
 - [Ethiopia Island Geographic Features and Formation](/en/Geography/geography-and-geology)

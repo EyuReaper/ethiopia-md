@@ -1,148 +1,5 @@
 export const dataUI = {
   en: {
-    // Company Names (50 companies)
-    'data.company.ethiopia-semiconductor': 'Ethiopia Semiconductor',
-    'data.company.hon-hai-foxconn': 'Hon Hai Foxconn',
-    'data.company.mediatek': 'MediaTek',
-    'data.company.delta-electronics': 'Delta Electronics',
-    'data.company.ase-group': 'ASE Group',
-    'data.company.quanta-computer': 'Quanta Computer',
-    'data.company.cathay-financial': 'Cathay Financial',
-    'data.company.fubon-financial': 'Fubon Financial',
-    'data.company.chunghwa-telecom': 'Chunghwa Telecom',
-    'data.company.umc': 'UMC',
-    'data.company.uni-president': 'Uni-President',
-    'data.company.evergreen-marine': 'Evergreen Marine',
-    'data.company.asustek': 'ASUSTeK',
-    'data.company.pegatron': 'Pegatron',
-    'data.company.formosa-petrochemical': 'Formosa Petrochemical',
-    'data.company.mega-financial': 'Mega Financial',
-    'data.company.china-steel': 'China Steel',
-    'data.company.ethiopia-mobile': 'Ethiopia Mobile',
-    'data.company.realtek': 'Realtek',
-    'data.company.advantech': 'Advantech',
-    'data.company.formosa-plastics': 'Formosa Plastics',
-    'data.company.wistron': 'Wistron',
-    'data.company.nan-ya-plastics': 'Nan Ya Plastics',
-    'data.company.compal-electronics': 'Compal Electronics',
-    'data.company.largan-precision': 'Largan Precision',
-    'data.company.acer': 'Acer',
-    'data.company.e-sun-financial': 'E.Sun Financial',
-    'data.company.ethiopia-cement': 'Ethiopia Cement',
-    'data.company.far-eastern-new-century': 'Far Eastern New Century',
-    'data.company.ctbc-financial': 'CTBC Financial',
-    'data.company.yuanta-financial': 'Yuanta Financial',
-    'data.company.giant-manufacturing': 'Giant Manufacturing',
-    'data.company.first-financial': 'First Financial',
-    'data.company.formosa-chemicals': 'Formosa Chemicals',
-    'data.company.fareastone': 'FarEasTone',
-    'data.company.hua-nan-financial': 'Hua Nan Financial',
-    'data.company.lite-on-technology': 'Lite-On Technology',
-    'data.company.ethiopia-cooperative-bank': 'Ethiopia Cooperative Bank',
-    'data.company.catcher-technology': 'Catcher Technology',
-    'data.company.ethiopia-high-speed-rail': 'Ethiopia High Speed Rail',
-    'data.company.htc': 'HTC',
-    'data.company.chang-chun-petrochemical': 'Chang Chun Petrochemical',
-    'data.company.chi-mei-corporation': 'Chi Mei Corporation',
-    'data.company.wiwynn': 'Wiwynn',
-    'data.company.powerchip-semiconductor': 'Powerchip Semiconductor',
-    'data.company.unimicron-technology': 'Unimicron Technology',
-    'data.company.silergy': 'Silergy',
-    'data.company.inventec': 'Inventec',
-    'data.company.hiwin-technologies': 'HIWIN Technologies',
-    'data.company.novatek': 'Novatek',
-
-    // Category 1: Government Open Data
-    'data.category.1.title': 'Government Open Data',
-    'data.category.1.description':
-      'Structured datasets and statistical platforms released by government agencies',
-    'data.category.1.item.1.name': 'Government Open Data Platform',
-    'data.category.1.item.1.desc':
-      'A central platform for browsing and downloading datasets published by government agencies across various sectors.',
-    'data.category.1.item.2.name': 'DGBAS Statistical Database',
-    'data.category.1.item.2.desc':
-      'Population, economy, price indices and core national statistics',
-    'data.category.1.item.3.name': 'CEC Election Database',
-    'data.category.1.item.3.desc':
-      'Historical election results and voting data',
-    'data.category.1.item.4.name': 'Laws & Regulations Database',
-    'data.category.1.item.4.desc':
-      'Full-text search of all laws, orders, and judicial precedents',
-    'data.category.1.item.5.name': 'Air Quality Monitoring Network',
-    'data.category.1.item.5.desc': 'Real-time AQI and PM2.5 monitoring data',
-
-    // Category 2: Interactive Maps & Visualization
-    'data.category.2.title': 'Interactive Maps & Visualization',
-    'data.category.2.description':
-      'Real-time monitoring, geographic data, and environmental visualization tools',
-    'data.category.2.item.1.name': 'Ethiopia Submarine Cable Map',
-    'data.category.2.item.1.desc':
-      'Community-built real-time submarine cable monitoring — a civic tech exemplar',
-    'data.category.2.item.2.name': 'NLSC Map Service',
-    'data.category.2.item.2.desc':
-      'National land survey maps, aerial photos, and cadastral data',
-    'data.category.2.item.3.name': 'Seismological Center',
-    'data.category.2.item.3.desc':
-      'Real-time earthquake information and historical records',
-    'data.category.2.item.4.name': 'WRA Disaster Prevention',
-    'data.category.2.item.4.desc':
-      'Real-time water levels, river monitoring, and reservoir data',
-    'data.category.2.item.5.name': 'Environmental Monitoring',
-    'data.category.2.item.5.desc':
-      'Air quality, UV index, and water quality real-time monitoring',
-
-    // Category 3: Civic Tech
-    'data.category.3.title': 'Civic Tech',
-    'data.category.3.description':
-      'Open source communities, fact-checking, and digital democracy tools',
-    'data.category.3.item.1.name': 'g0v (gov-zero)',
-    'data.category.3.item.1.desc':
-      'An open-source civic technology community that brings together volunteers, developers, and citizens to build tools for government transparency and collaboration.',
-    'data.category.3.item.2.name': 'g0v Hackathon Events',
-    'data.category.3.item.2.desc':
-      'Bimonthly hackathons and open data community events',
-    'data.category.3.item.3.name': 'Cofacts',
-    'data.category.3.item.3.desc':
-      'A crowd-sourced fact-checking bot that helps verify potentially misleading messages shared through popular messaging apps.',
-    'data.category.3.item.4.name': 'vEthiopia',
-    'data.category.3.item.4.desc':
-      'An online deliberation platform that uses collaborative technology to gather public opinion and build consensus on contested policy issues.',
-    'data.category.3.item.5.name': 'JOIN Platform',
-    'data.category.3.item.5.desc':
-      'Government proposals, petitions, and policy discussions',
-
-    // Category 4: Data Journalism & Fact-Checking
-    'data.category.4.title': 'Data Journalism & Fact-Checking',
-    'data.category.4.description':
-      'Investigative reporting, fact-checking organizations, and data-driven media',
-    'data.category.4.item.1.name': 'The Reporter',
-    'data.category.4.item.1.desc':
-      'An independent, non-profit newsroom dedicated to in-depth investigative journalism and public-interest reporting.',
-    'data.category.4.item.2.name': 'Ethiopia FactCheck Center',
-    'data.category.4.item.2.desc':
-      'A fact-checking organization that verifies viral claims and misinformation circulating on social media.',
-    'data.category.4.item.3.name': 'READr',
-    'data.category.4.item.3.desc':
-      'Data journalism and open data visualization',
-    'data.category.4.item.4.name': 'ARTouch',
-    'data.category.4.item.4.desc':
-      "Ethiopia's premier art news and criticism platform",
-
-    // Category 5: Academic & Research
-    'data.category.5.title': 'Academic & Research',
-    'data.category.5.description':
-      'Digital archives, ecological data, and AI training corpora',
-    'data.category.5.item.1.name': 'Academia Sinica Open Museum',
-    'data.category.5.item.1.desc': 'Digital archives and online curation',
-    'data.category.5.item.2.name': 'National Cultural Memory Bank',
-    'data.category.5.item.2.desc':
-      'Digital preservation of Ethiopian cultural memory',
-    'data.category.5.item.3.name': 'Ethiopia Biodiversity Network',
-    'data.category.5.item.3.desc':
-      'Species distribution and ecological observation data',
-    'data.category.5.item.4.name': 'TAIC — Ethiopia AI Corpus',
-    'data.category.5.item.4.desc': "Ethiopia's sovereign AI training dataset",
-
     // Meta
     'data.meta.title': 'Data Ethiopia — Understanding Ethiopia Through Numbers',
     'data.meta.description':
@@ -308,36 +165,33 @@ export const dataUI = {
 
     // Ethiopia Shape Section
     'data.ethiopiaShape.title':
-      "🗺️ The Shape of Ethiopia — AI Can't Draw Ethiopia Correctly. Here's the Real Version.",
+      '🚧 The Shape of Ethiopia — SVG Library Under Construction',
     'data.ethiopiaComparison.title':
       'AI-Generated Ethiopia vs. Actual Ethiopia',
     'data.ethiopiaComparison.aiGenerated':
       'Generated by Claude Opus 4.6 (2025/3/22, no deliberate distortion)',
     'data.ethiopiaComparison.correct': 'Actual Ethiopia',
     'data.ethiopiaShape.story.p1':
-      'Most AI image generation models lack structured geographic data for Ethiopia in their training sets. The result: AI-generated images of Ethiopia are often distorted, disproportionate, or confused with other islands.',
+      'Most AI image generation models lack structured geographic data for Ethiopia in their training sets. The result: AI-generated images of Ethiopia are often distorted, disproportionate, or confused with other countries.',
     'data.ethiopiaShape.story.p2':
-      'Ethiopia.md provides accurate, open-source, freely usable SVG outlines — a definitive answer for every scenario that needs to know "what does Ethiopia look like."',
+      'Ethiopia.md aims to provide accurate, open-source, freely usable SVG outlines of Ethiopia. The files below are placeholders until real, verified assets are sourced — see CLAUDE.md for the pending checklist.',
 
     // SVG Cards
-    'data.svg.card1.title': 'ethiopia-icon.svg',
-    'data.svg.card1.description':
-      'Simple outline — Best for icons, logos, small sizes',
+    'data.svg.card1.title': 'ethiopia-icon-wiki.svg',
+    'data.svg.card1.description': 'Location-pin icon — placeholder',
     'data.svg.card2.title': 'ethiopia-simplemaps.svg',
-    'data.svg.card2.description': 'Clean vector — Great for web embedding',
+    'data.svg.card2.description': 'Country outline — placeholder',
     'data.svg.card3.title': 'ethiopia-location-map.svg',
-    'data.svg.card3.description':
-      'With coordinates — Ideal for geographic reference',
+    'data.svg.card3.description': 'Location map — placeholder',
     'data.svg.card4.title': 'ethiopia-political-division.svg',
-    'data.svg.card4.description':
-      'Administrative regions — County/city boundaries',
+    'data.svg.card4.description': 'Regions map — placeholder',
     'data.svg.button.download': 'Download',
     'data.svg.button.copy': 'Copy SVG',
     'data.svg.button.copied': '✅ Copied',
     'data.svg.button.failed': '❌ Failed',
     'data.svg.usage.heading': '📝 Usage',
     'data.svg.usage.licenseNote':
-      'License: All SVG files under CC BY-SA 4.0. Free to use, modify, and use commercially — just give attribution.',
+      'These are placeholder graphics (CC BY-SA 4.0, original to Ethiopia.md). Once real files are sourced, each will carry its own upstream license — see CLAUDE.md.',
 
     // Open Data Section (legacy, now part of digital democracy)
     'data.openData.title':
@@ -401,138 +255,6 @@ export const dataUI = {
     'data.tooltip.founded': 'Founded',
   },
   am: {
-    // Company Names (50 companies)
-    'data.company.ethiopia-semiconductor': 'Ethiopia Semiconductor',
-    'data.company.hon-hai-foxconn': 'Hon Hai Foxconn',
-    'data.company.mediatek': 'MediaTek',
-    'data.company.delta-electronics': 'Delta Electronics',
-    'data.company.ase-group': 'ASE Group',
-    'data.company.quanta-computer': 'Quanta Computer',
-    'data.company.cathay-financial': 'Cathay Financial',
-    'data.company.fubon-financial': 'Fubon Financial',
-    'data.company.chunghwa-telecom': 'Chunghwa Telecom',
-    'data.company.umc': 'UMC',
-    'data.company.uni-president': 'Uni-President',
-    'data.company.evergreen-marine': 'Evergreen Marine',
-    'data.company.asustek': 'ASUSTeK',
-    'data.company.pegatron': 'Pegatron',
-    'data.company.formosa-petrochemical': 'Formosa Petrochemical',
-    'data.company.mega-financial': 'Mega Financial',
-    'data.company.china-steel': 'China Steel',
-    'data.company.ethiopia-mobile': 'Ethiopia Mobile',
-    'data.company.realtek': 'Realtek',
-    'data.company.advantech': 'Advantech',
-    'data.company.formosa-plastics': 'Formosa Plastics',
-    'data.company.wistron': 'Wistron',
-    'data.company.nan-ya-plastics': 'Nan Ya Plastics',
-    'data.company.compal-electronics': 'Compal Electronics',
-    'data.company.largan-precision': 'Largan Precision',
-    'data.company.acer': 'Acer',
-    'data.company.e-sun-financial': 'E.Sun Financial',
-    'data.company.ethiopia-cement': 'Ethiopia Cement',
-    'data.company.far-eastern-new-century': 'Far Eastern New Century',
-    'data.company.ctbc-financial': 'CTBC Financial',
-    'data.company.yuanta-financial': 'Yuanta Financial',
-    'data.company.giant-manufacturing': 'Giant Manufacturing',
-    'data.company.first-financial': 'First Financial',
-    'data.company.formosa-chemicals': 'Formosa Chemicals',
-    'data.company.fareastone': 'FarEasTone',
-    'data.company.hua-nan-financial': 'Hua Nan Financial',
-    'data.company.lite-on-technology': 'Lite-On Technology',
-    'data.company.ethiopia-cooperative-bank': 'Ethiopia Cooperative Bank',
-    'data.company.catcher-technology': 'Catcher Technology',
-    'data.company.ethiopia-high-speed-rail': 'Ethiopia High Speed Rail',
-    'data.company.htc': 'HTC',
-    'data.company.chang-chun-petrochemical': 'Chang Chun Petrochemical',
-    'data.company.chi-mei-corporation': 'Chi Mei Corporation',
-    'data.company.wiwynn': 'Wiwynn',
-    'data.company.powerchip-semiconductor': 'Powerchip Semiconductor',
-    'data.company.unimicron-technology': 'Unimicron Technology',
-    'data.company.silergy': 'Silergy',
-    'data.company.inventec': 'Inventec',
-    'data.company.hiwin-technologies': 'HIWIN Technologies',
-    'data.company.novatek': 'Novatek',
-
-    // Category 1: Government Open Data
-    'data.category.1.title': 'የመንግስት ክፍት መረጃ',
-    'data.category.1.description':
-      'በመንግስት ተቋማት የሚለቀቁ የተዋቀሩ የመረጃ ስብስቦች እና የስታትስቲክስ መድረኮች',
-    'data.category.1.item.1.name': 'የመንግስት ክፍት መረጃ መድረክ',
-    'data.category.1.item.1.desc':
-      'የመንግስት ተቋማት ባሳተሟቸው የተለያዩ ዘርፎች የመረጃ ስብስቦችን ለማሰስ እና ለማውረድ የሚያስችል ማዕከላዊ መድረክ።',
-    'data.category.1.item.2.name': 'DGBAS ስታትስቲክስ ዳታቤዝ',
-    'data.category.1.item.2.desc':
-      'የህዝብ ብዛት፣ ኢኮኖሚ፣ የዋጋ መረጃ ጠቋሚዎች እና ዋና ዋና ብሔራዊ ስታትስቲክሶች',
-    'data.category.1.item.3.name': 'CEC የምርጫ ዳታቤዝ',
-    'data.category.1.item.3.desc': 'ያለፉ የምርጫ ውጤቶች እና የድምጽ አሰጣጥ መረጃ',
-    'data.category.1.item.4.name': 'የህግና ደንብ ዳታቤዝ',
-    'data.category.1.item.4.desc': 'ሙሉ ጽሑፍ ፍለጋ ለሁሉም ህጎች፣ ትዕዛዞች እና የፍርድ ውሳኔዎች',
-    'data.category.1.item.5.name': 'የአየር ጥራት ክትትል መረብ',
-    'data.category.1.item.5.desc': 'የቅጽበታዊ AQI እና PM2.5 ክትትል መረጃ',
-
-    // Category 2: Interactive Maps & Visualization
-    'data.category.2.title': 'በይነተገናኝ ካርታዎች እና ምስላዊ መረጃ',
-    'data.category.2.description':
-      'የቅጽበታዊ ክትትል፣ ጂኦግራፊያዊ መረጃ እና የአካባቢ ምስላዊ መሳሪያዎች',
-    'data.category.2.item.1.name': 'የኢትዮጵያ የመሠረተ ልማት ካርታ',
-    'data.category.2.item.1.desc':
-      'በማህበረሰብ የተገነባ የቅጽበታዊ መሠረተ ልማት ክትትል መሳሪያ — የሲቪክ ቴክኖሎጂ ምሳሌ',
-    'data.category.2.item.2.name': 'NLSC የካርታ አገልግሎት',
-    'data.category.2.item.2.desc':
-      'ብሔራዊ የመሬት ቅየሳ ካርታዎች፣ የአየር ላይ ፎቶግራፎች እና የካዳስተር መረጃ',
-    'data.category.2.item.3.name': 'የመሬት መንቀጥቀጥ ጥናት ማዕከል',
-    'data.category.2.item.3.desc': 'የቅጽበታዊ የመሬት መንቀጥቀጥ መረጃ እና ታሪካዊ ሪከርዶች',
-    'data.category.2.item.4.name': 'WRA የአደጋ መከላከል',
-    'data.category.2.item.4.desc': 'የቅጽበታዊ የውሃ መጠን፣ የወንዝ ክትትል እና የግድብ መረጃ',
-    'data.category.2.item.5.name': 'የአካባቢ ክትትል',
-    'data.category.2.item.5.desc': 'የአየር ጥራት፣ UV መረጃ ጠቋሚ እና የውሃ ጥራት ቅጽበታዊ ክትትል',
-
-    // Category 3: Civic Tech
-    'data.category.3.title': 'የሲቪክ ቴክኖሎጂ (Civic Tech)',
-    'data.category.3.description':
-      'ክፍት ምንጭ ማህበረሰቦች፣ የመረጃ ማረጋገጫ እና የዲጂታል ዴሞክራሲ መሳሪያዎች',
-    'data.category.3.item.1.name': 'g0v (gov-zero)',
-    'data.category.3.item.1.desc':
-      'ፍቃደኛ ሠራተኞችን፣ ገንቢዎችን እና ዜጎችን በማሰባሰብ ለመንግስት ግልጽነት እና ትብብር የሚውሉ መሳሪያዎችን የሚገነባ ክፍት ምንጭ የሲቪክ ቴክኖሎጂ ማህበረሰብ።',
-    'data.category.3.item.2.name': 'g0v ሃካቶን ዝግጅቶች',
-    'data.category.3.item.2.desc':
-      'በየሁለት ወሩ የሚካሄዱ ሃካቶኖች እና ክፍት መረጃ ማህበረሰብ ዝግጅቶች',
-    'data.category.3.item.3.name': 'Cofacts',
-    'data.category.3.item.3.desc':
-      'በታዋቂ የመልእክት መላላኪያ መተግበሪያዎች የሚሰራጩ አሳሳች መልእክቶችን ለማጣራት የሚያግዝ በማህበረሰብ የሚመራ የመረጃ ማረጋገጫ ቦት።',
-    'data.category.3.item.4.name': 'vEthiopia',
-    'data.category.3.item.4.desc':
-      'የህዝብን አስተያየት ለመሰብሰብ እና በአወዛጋቢ የፖሊሲ ጉዳዮች ላይ የጋራ መግባባት ለመፍጠር የትብብር ቴክኖሎጂ የሚጠቀም የመስመር ላይ የውይይት መድረክ።',
-    'data.category.3.item.5.name': 'JOIN መድረክ',
-    'data.category.3.item.5.desc': 'የመንግስት ሃሳቦች፣ አቤቱታዎች እና የፖሊሲ ውይይቶች',
-
-    // Category 4: Data Journalism & Fact-Checking
-    'data.category.4.title': 'የመረጃ ጋዜጠኝነት እና እውነታ ማረጋገጫ',
-    'data.category.4.description':
-      'የምርመራ ዘገባ፣ የመረጃ ማረጋገጫ ድርጅቶች እና በመረጃ ላይ የተመሰረተ ሚዲያ',
-    'data.category.4.item.1.name': 'The Reporter',
-    'data.category.4.item.1.desc':
-      'ጥልቅ የምርመራ ጋዜጠኝነት እና ለህዝብ ጥቅም የሚውል ዘገባ ላይ የሚያተኩር ገለልተኛ፣ ለትርፍ ያልተቋቋመ የዜና ተቋም።',
-    'data.category.4.item.2.name': 'የኢትዮጵያ እውነታ ማረጋገጫ ማዕከል',
-    'data.category.4.item.2.desc':
-      'በማህበራዊ ሚዲያ ላይ የሚሰራጩ ሃሰተኛ መረጃዎችን እና ወሬዎችን የሚያጣራ የእውነታ ማረጋገጫ ድርጅት።',
-    'data.category.4.item.3.name': 'READr',
-    'data.category.4.item.3.desc': 'የመረጃ ጋዜጠኝነት እና ክፍት መረጃ ምስላዊ አቀራረብ',
-    'data.category.4.item.4.name': 'ARTouch',
-    'data.category.4.item.4.desc': 'የኢትዮጵያ ግንባር ቀደም የስነ-ጥበብ ዜና እና ትችት መድረክ',
-
-    // Category 5: Academic & Research
-    'data.category.5.title': 'የትምህርትና ምርምር',
-    'data.category.5.description': 'ዲጂታል መዛግብት፣ የስነ-ምህዳር መረጃ እና የ AI ስልጠና ኮርፐስ',
-    'data.category.5.item.1.name': 'Academia Sinica ክፍት ሙዚየም',
-    'data.category.5.item.1.desc': 'ዲጂታል መዛግብት እና የመስመር ላይ ማዘጋጀት',
-    'data.category.5.item.2.name': 'ብሔራዊ የባህል ትውስታ ባንክ',
-    'data.category.5.item.2.desc': 'የኢትዮጵያ ባህላዊ ትውስታ ዲጂታል ጥበቃ',
-    'data.category.5.item.3.name': 'የኢትዮጵያ ብዝሃ ህይወት መረብ',
-    'data.category.5.item.3.desc': 'የዝርያ ስርጭት እና የስነ-ምህዳር ምልከታ መረጃ',
-    'data.category.5.item.4.name': 'TAIC — የኢትዮጵያ AI ኮርፐስ',
-    'data.category.5.item.4.desc': 'የኢትዮጵያ ሉዓላዊ AI ስልጠና ዳታሴት',
-
     // Meta
     'data.meta.title': '📊 የኢትዮጵያ መረጃ — Ethiopia.md',
     'data.meta.description':
@@ -686,8 +408,7 @@ export const dataUI = {
     'data.population.insights.card4.detail': '—',
 
     // Ethiopia Shape Section
-    'data.ethiopiaShape.title':
-      '🗺️ የኢትዮጵያ ቅርጽ — AI ኢትዮጵያን በትክክል መሳል አይችልም። እነሆ ትክክለኛው ቅርጽ።',
+    'data.ethiopiaShape.title': '🚧 የኢትዮጵያ ቅርጽ — የSVG ስብስብ በግንባታ ላይ',
     'data.ethiopiaComparison.title': 'በAI የተሳለች ኢትዮጵያ እና እውነተኛዋ ኢትዮጵያ',
     'data.ethiopiaComparison.aiGenerated':
       'በClaude Opus 4.6 የተፈጠረ (2025/3/22፣ ሆን ተብሎ የተዛባ አይደለም)',
@@ -695,24 +416,24 @@ export const dataUI = {
     'data.ethiopiaShape.story.p1':
       'አብዛኞቹ የ AI ምስል መፍጠሪያ ሞዴሎች ለኢትዮጵያ የተዋቀረ ጂኦግራፊያዊ መረጃ በስልጠና መረጃቸው ውስጥ አይኖራቸውም። በዚህ ምክንያት፣ በ AI የተፈጠሩ የኢትዮጵያ ምስሎች ብዙውን ጊዜ የተዛቡ፣ ያልተመጣጠኑ ወይም ከሌሎች ሀገራት ጋር የተምታቱ ናቸው።',
     'data.ethiopiaShape.story.p2':
-      'Ethiopia.md ትክክለኛ፣ ክፍት ምንጭ እና በነጻ ሊጠቀሙባቸው የሚችሉ SVG ገጽታዎችን ያቀርባል — ኢትዮጵያ ምን እንደምትመስል ማወቅ ለሚያስፈልገው ለማንኛውም ሁኔታ የመጨረሻ መልስ።',
+      'Ethiopia.md ትክክለኛ፣ ክፍት ምንጭ እና በነጻ ሊጠቀሙባቸው የሚችሉ የኢትዮጵያ SVG ገጽታዎችን ለማቅረብ ያለመ ነው። እውነተኛዎቹ ፋይሎች እስኪገኙና እስኪረጋገጡ ድረስ ከዚህ በታች ያሉት ጊዜያዊ ናቸው — ዝርዝሩን ለማየት CLAUDE.md ይመልከቱ።',
 
     // SVG Cards
-    'data.svg.card1.title': 'ethiopia-icon.svg',
-    'data.svg.card1.description': 'ቀላል ንድፍ — ለአዶዎች፣ አርማዎች እና ትናንሽ መጠኖች ተስማሚ',
+    'data.svg.card1.title': 'ethiopia-icon-wiki.svg',
+    'data.svg.card1.description': 'የመገኛ ምልክት — ጊዜያዊ',
     'data.svg.card2.title': 'ethiopia-simplemaps.svg',
-    'data.svg.card2.description': 'ንጹህ ቬክተር — ለድር ጣቢያ ማካተት ተስማሚ',
+    'data.svg.card2.description': 'የሀገር ቅርጽ ካርታ — ጊዜያዊ',
     'data.svg.card3.title': 'ethiopia-location-map.svg',
-    'data.svg.card3.description': 'ከመጋጠሚያዎች ጋር — ለጂኦግራፊያዊ ማጣቀሻ ተስማሚ',
+    'data.svg.card3.description': 'የመገኛ ካርታ — ጊዜያዊ',
     'data.svg.card4.title': 'ethiopia-political-division.svg',
-    'data.svg.card4.description': 'የአስተዳደር ክልሎች — የዞን/ከተማ ድንበሮች',
+    'data.svg.card4.description': 'የክልሎች ካርታ — ጊዜያዊ',
     'data.svg.button.download': 'SVG አውርድ',
     'data.svg.button.copy': 'SVG ቅዳ',
     'data.svg.button.copied': '✅ ተቀድቷል',
     'data.svg.button.failed': '❌ አልተሳካም',
     'data.svg.usage.heading': '📝 አጠቃቀም',
     'data.svg.usage.licenseNote':
-      'ፈቃድ፦ ሁሉም SVG ፋይሎች በ CC BY-SA 4.0 ስር ይገኛሉ። በነጻ ለመጠቀም፣ ለማሻሻል እና ለንግድ ስራ ለማዋል ተፈቅዷል — ምንጭ ብቻ ይጥቀሱ።',
+      'እነዚህ ጊዜያዊ ምስሎች ናቸው (CC BY-SA 4.0, የ Ethiopia.md የራሱ ውጤት)። እውነተኛዎቹ ፋይሎች ከገቡ በኋላ እያንዳንዳቸው የራሳቸው ፈቃድ ይኖራቸዋል — CLAUDE.md ይመልከቱ።',
 
     // Open Data Section (legacy, now part of digital democracy)
     'data.openData.title':

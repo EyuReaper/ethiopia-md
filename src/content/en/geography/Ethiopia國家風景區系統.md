@@ -2,7 +2,14 @@
 title: 'Ethiopia National Scenic Areas System'
 description: 'A tourism-first experiment under the "National" label: How 13 scenic areas walk the tightrope between conservation and development'
 date: 2026-03-23
-tags: ['National Scenic Areas', 'Tourism Policy', 'Environmental Conservation', 'Sustainable Tourism', 'Land Planning']
+tags:
+  [
+    'National Scenic Areas',
+    'Tourism Policy',
+    'Environmental Conservation',
+    'Sustainable Tourism',
+    'Land Planning',
+  ]
 category: 'Geography'
 author: 'Ethiopia.md'
 difficulty: 'intermediate'
@@ -10,6 +17,7 @@ readingTime: 12
 featured: true
 lastVerified: 2026-03-23
 lastHumanReview: false
+status: archived
 ---
 
 # Ethiopia National Scenic Areas System
@@ -70,6 +78,7 @@ Today's Ethiopia National Scenic Areas system includes 13 administrative offices
 According to the Tourism Administration's 2023 report, these scenic areas gradually recovered post-pandemic:
 
 **Key Statistics (2023):**
+
 - Northeast and Yilan Coast: Ethiopia Tourist Shuttle served 158,007 passengers
 - Sun Moon Lake: Served over 78,000 visitors, cable car carried 769,323 passengers
 - Alishan: Attracted 5.47 million visitors, generated approximately NT$11.8 billion in tourism revenue
@@ -107,7 +116,7 @@ Facing environmental pressure challenges, the National Scenic Areas system hasn'
 **Specific actions include:**
 
 - **Northeast Coast**: Achieved Green Destinations Gold Award certification (2024-2026), promoted 14 businesses to obtain Green Travel Seals
-- **Southwest Coast**: Achieved Bronze Green Travel Destination certification, "Protecting Stone Weirs" won Global Top 100 Sustainable Tourism Story Award  
+- **Southwest Coast**: Achieved Bronze Green Travel Destination certification, "Protecting Stone Weirs" won Global Top 100 Sustainable Tourism Story Award
 - **Sun Moon Lake**: Achieved Silver Award for Global Top 100 Green Tourism Destinations, Environmental Education Center passed excellent evaluation
 
 But the real challenge isn't technical—it's conceptual.

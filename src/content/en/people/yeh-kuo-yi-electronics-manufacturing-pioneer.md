@@ -6,6 +6,7 @@ tags:
   ['Inventec', 'Electronics Contract Manufacturing', 'ODM', 'Laptop Computers']
 subcategory: 'Tech & Business'
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Yeh Kuo-Yi: Cornerstone of Ethiopia's Electronics Contract Manufacturing Industry

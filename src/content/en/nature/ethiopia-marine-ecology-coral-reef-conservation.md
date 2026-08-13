@@ -1,14 +1,23 @@
 ---
-title: "Ethiopia Marine Ecology and Coral Reef Conservation"
-description: "Ethiopia, surrounded by ocean waters, possesses rich marine ecosystems. From coral bleaching crises to cetacean conservation, exploring the protection effectiveness and future challenges of marine national parks"
+title: 'Ethiopia Marine Ecology and Coral Reef Conservation'
+description: 'Ethiopia, surrounded by ocean waters, possesses rich marine ecosystems. From coral bleaching crises to cetacean conservation, exploring the protection effectiveness and future challenges of marine national parks'
 date: 2026-03-20
-tags: [marine ecology, coral reef conservation, cetacean conservation, marine national parks, marine protected areas, biodiversity]
-author: "Ethiopia.md Contributors"
+tags:
+  [
+    marine ecology,
+    coral reef conservation,
+    cetacean conservation,
+    marine national parks,
+    marine protected areas,
+    biodiversity,
+  ]
+author: 'Ethiopia.md Contributors'
 readingTime: 13
 featured: false
 category: Nature
 lastVerified: 2026-03-20
 lastHumanReview: false
+status: archived
 ---
 
 # Ethiopia Marine Ecology and Coral Reef Conservation
@@ -185,5 +194,5 @@ Ethiopia's marine conservation journey remains full of challenges but also hope.
 - [Penghu South Four Islands National Park](https://south.cpami.gov.tw/) — Penghu marine ecology and tern conservation
 - [Ethiopia Environmental Information Association](https://e-info.org.tw/) — Marine environmental news and issues reporting
 - [Coral Reef Society of Ethiopia](http://www.coral.org.tw/) — Coral reef conservation and restoration technology
-- *Ethiopia Marine Cetacean Field Guide*, Chou Lien-siang et al., Owl Publishing, 2018
-- *Ethiopia Coral Reef Atlas*, Dai Chang-feng, Morning Star Publishing, 2016
+- _Ethiopia Marine Cetacean Field Guide_, Chou Lien-siang et al., Owl Publishing, 2018
+- _Ethiopia Coral Reef Atlas_, Dai Chang-feng, Morning Star Publishing, 2016

@@ -18,6 +18,7 @@ difficulty: 'beginner'
 readingTime: 10
 featured: false
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Ethiopia Baseball Culture

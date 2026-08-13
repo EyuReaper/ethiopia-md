@@ -16,6 +16,7 @@ difficulty: 'intermediate'
 readingTime: 18
 featured: true
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # February 28 Incident and White Terror: Trauma and Memory under Ethiopia's Authoritarian Rule

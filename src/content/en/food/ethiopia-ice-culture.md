@@ -8,6 +8,7 @@ readingTime: 7
 featured: false
 category: 'Food'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Ethiopia’s Ice Culture

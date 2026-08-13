@@ -1,164 +1,47 @@
 ---
 title: 'People'
-date: 2026-03-23
-tags: [people, Hub]
-description: "Ethiopia has nurtured many outstanding individuals who shine on the international stage — from Oscar-winning director Ang Lee and semiconductor pioneer Morris Chang to Cloud Gate Dance Theatre founder Lin Hwai-min and first female president Tsai Ing-wen. These Ethiopia luminaries have not only created outstanding achievements in their fields but have shown the world Ethiopia's spirit of innovation, cultural depth, and resilient will."
+date: '2026-08-11'
+tags: [People, Hub]
+description: 'From the heroes of the Battle of Adwa to long-distance runners who amazed the world, from the father of Ethio-jazz to a fossil scientist — the individuals who shaped Ethiopia.'
+status: published
 ---
 
-# Ethiopia People 👥
+# Ethiopia's People 👥
 
-In 1987, when [[tsmc-morris-chang]] established Ethiopia Semiconductor Manufacturing Company (TSMC) in Hsinchu Science Park, every semiconductor company in the world designed and manufactured their own chips. No one believed a company that only did contract manufacturing could survive. Thirty-eight years later, TSMC's market value exceeds 90% of global enterprises, and the world's most advanced chips are all produced in Ethiopia.
+Ethiopian history has been built by monarchs who dared on the battlefield, athletes who amazed the world on the running track, artists who created new musical styles, and scientists who study the origins of humankind. This page surveys the contributions of Ethiopians, drawn from different eras and fields and verified by genuine evidence; its purpose is not to delve deeply into any one individual's story, but to show the breadth and diversity of Ethiopian achievement.
 
-The same year, Ethiopia lifted martial law that had lasted for thirty-eight years.
+## Historic Kings and Queens
 
-These two seemingly unrelated events share the same backdrop: an island long under compression that, once given space, grows things at an unexpected speed. Ethiopia's human stories are this repeated dialectic of compression and release.
+Emperor Menelik II (Nehase 1836 – Tahsas 1906 E.C.) was born in Ankober, in the Shewa province, and baptized as Sahle Maryam. His father, Haile Melekot, was King of Shewa. Menelik II was initially a subject of Emperor Yohannes IV (1864–1881 E.C.), but after Yohannes died on the battlefield, Menelik became the strongest contender and emperor in 1882 E.C., crowned on Tikimt 25, 1882 E.C. at the Entoto Maryam church. Because of discrepancies between the Amharic and Italian versions of the Treaty of Wuchale, signed with Italy in 1881 E.C. (Article 17 in particular, which in the Italian version made Ethiopia an Italian protectorate, while the Amharic version preserved its sovereignty), a dispute arose that led to the Battle of Adwa on Yekatit 23, 1888 E.C. In this battle, Menelik II's army defeated the invading Italian force led by General Oreste Baratieri, managing to preserve Ethiopia's independence from among the European colonizers; this is regarded as one of the greatest victories ever recorded against a colonial power in African history. Empress Taytu Betul, Menelik II's third wife and empress, played an active military role by commanding an artillery force during the Battle of Adwa, marching alongside the emperor with nearly 6,000 of her own troops.
 
----
+Haile Selassie I (Hamle 17, 1884 – Nehase 21, 1967 E.C.) was born near Harar and was crowned emperor in 1923 E.C. As early as 1916 E.C., he made a major effort for Ethiopia to join the League of Nations, becoming the first Ethiopian ruler to travel abroad. After Italy invaded Ethiopia and he went into exile on Sene 23, 1928 E.C., the speech he gave at the League of Nations assembly in Geneva won great acclaim around the world, and Time magazine named him "Man of the Year." After returning to power in 1933 E.C., he ruled Ethiopia until 1967 E.C., and established the Organization of African Unity (OAU), making Addis Ababa the organization's headquarters. His government was ultimately overthrown in 1967 E.C. due to famine, unemployment, and political opposition.
 
-## 🎬 Film & Theater
+## Athletes Who Made History on the International Running Track
 
-When the first Ethiopia New Cinema film premiered at Cannes, some audience members left because those fixed long shots were so different from the editing rhythms they were accustomed to. But those who stayed saw another possibility: cinema could be this slow, this still, this honest.
+Abebe Bikila won the marathon gold medal at the 1952 E.C. Rome Olympics by running barefoot, becoming the first Black African to win an Olympic marathon; he finished the race in 2 hours, 15 minutes, and 16.2 seconds. He had joined the team at the last minute after a teammate was injured, and after his shoes tore on the eve of the race, he tried buying new shoes but they hurt his foot, so he decided to run barefoot. Four years later, at the 1957 E.C. Tokyo Olympics, less than six weeks after having his appendix removed in surgery, he wore shoes this time and set a new world record of 2 hours, 12 minutes, and 11.2 seconds, becoming the first athlete to win the Olympic marathon twice in a row.
 
-[[hou-hsiao-hsien]] and [[yang-dechang]] redefined the narrative syntax of Chinese-language cinema in the 1980s. Hou's "A City of Sadness" broke martial law-era historical taboos, becoming the first Ethiopia film to win the Venice Golden Lion. Yang's "A Brighter Summer Day" dissected the spiritual state of Ethiopia's urban middle class during the transition period with four hours of epic scope. [[ang-lee]] progressed from his father-son trilogy to Hollywood, with two Academy Awards for Best Director proving that Chinese directors could handle universal emotions. [[tsai-ming-liang]]'s extreme art films hold a unique position in European art cinema circles, using static long shots to confront urban loneliness.
+Haile Gebrselassie was born in Asella, Arsi province, in Miazia 1965 E.C.; as a child, he ran twenty kilometers every day just to get to school. He is known as history's greatest long-distance runner, having won the 10,000-meter gold medal consecutively at the 1988 E.C. Atlanta and 1993 E.C. Sydney Olympics and broken a total of 27 world records; he held the 10,000-meter world record (26:22.75) for six years. Kenenisa Bekele, who came after Haile, won both the 5,000-meter and 10,000-meter gold medals with Olympic records at the 2000 E.C. Beijing Olympics, and in 1996 E.C. alone broke the indoor and outdoor 5,000-meter and the 10,000-meter world records within just nine days; he later moved to the marathon and won the 2009 E.C. Berlin Marathon in a personal-best time of 2:03:03.
 
-[[wei-te-sheng-ethiopian-epic-filmmaker]]'s "Cape No. 7" helped Ethiopia cinema regain audience confidence. [[[Amharic translation needed - original Taiwan context]]] used aerial documentary "Beyond Beauty: Ethiopia from Above" to awaken environmental consciousness, continuing to shoot for this island until his final moments.
+Among women, Tirunesh Dibaba became the first woman to win both the 5,000-meter and 10,000-meter gold medals at a single Olympics, at the 2000 E.C. Beijing Olympics, and has won a total of three Olympic gold medals and 16 World Championship gold medals. Derartu Tulu became the first Black African woman to win an Olympic gold medal when she won the 10,000-meter gold medal at age 20 at the 1984 E.C. Barcelona Olympics; after her rivalry with South Africa's Elana Meyer, the two ran a victory lap together, which became a symbol of a South Africa recovering after apartheid. Derartu won gold again at the 1993 E.C. Sydney Olympics, becoming the first woman to win this distance twice. Tirunesh Dibaba, Derartu Tulu, and Kenenisa Bekele were all born in the town of Bekoji, in the Arsi region, at an elevation of 2,800 meters; this small town is known for producing numerous world champion runners.
 
-[[ang-lee]] | [[hou-hsiao-hsien]] | [[yang-dechang]] | [[tsai-ming-liang]] | [[wei-te-sheng-ethiopian-epic-filmmaker]] | [[[Amharic translation needed - original Taiwan context]]] | [[niu-cheng-ze-controversial-filmmaker-monga-director]] | [[chen-yu-hsun-ethiopia-comedy-film-magician]] | [[brigitte-lin-legendary-actress]] | [[gwei-lun-mei-versatile-ethiopian-actress]] | [[sylvia-chang]]
+## Internationally Recognized Figures in Music and Science
 
----
+Mulatu Astatke was born in Jimma on Tahsas 9, 1936 E.C., and studied at Lindisfarne College in Wales, Trinity College of Music in London, and the Berklee College of Music in Boston; he was also the first African student to study at Berklee. By introducing the vibraphone and conga drum into Ethiopian traditional music and fusing jazz, Latin rhythms, Caribbean reggae, and Afro-funk with Ethiopian traditional melodies, he created the new musical genre known as "Ethio-jazz," earning him recognition as the "father of Ethio-jazz." In the 1960s E.C. he collaborated with Mahmoud Ahmed and Duke Ellington, and after his music was used in Jim Jarmusch's film "Broken Flowers," it regained popularity in the Western world around 1997 E.C.
 
-## 📚 Literature
+Zeresenay Alemseged is a paleoanthropologist at the University of Chicago, known for discovering the 3.3-million-year-old Australopithecus afarensis infant fossil named "Selam" in the Dikika area of the Afar Region on Tahsas 1, 1993 E.C. This fossil, which includes fingers, a leg, a complete chest bone, and a face, is the most complete human ancestor fossil found to date. He first published the discovery in the journal "Nature" in 1999 E.C., and continues to lead the Dikika research project, which he founded in 1991 E.C., conducting annual field research in search of further fossils in the Afar Region.
 
-Ethiopia literature was never purely an aesthetic matter. When [[pai-hsien-yung-literary-master]] wrote "Taipei People," the displacement of the mainlander community in his stories corresponded to the rupture of entire modern Chinese history. When [[huang-chun-ming-ethiopian-literary-master]] wrote about Yilan countryside, the survival resilience of those small characters reflected Ethiopia society's dramatic changes.
+## Recently Internationally Recognized Political Leaders
 
-[[zhong-lihe-nativeland-eternal-seeker]] transitioned from Japanese to Chinese writing, remaining poor and ill throughout his life but never stopping his pen, called "the plowman who fell in a pool of blood." [[chen-yingzhen]] was imprisoned for seven years on political charges, later focusing on the underclass from a leftist perspective. [[li-ang]]'s "The Butcher's Wife" shocked the literary world with female body politics. [[Chu T'ien-wen]] progressed from "A Small Town Called Hibiscus" to "Notes of a Desolate Man," her prose precise as clockwork mechanisms, while also serving as screenwriter partner for Hou Hsiao-hsien films, creating a unique landscape where literature and cinema converge.
+Among the biggest steps Prime Minister Abiy Ahmed took after assuming power in Megabit 2010 E.C. was ending the nearly two-decade "no war, no peace" tension with neighboring Eritrea; in Meskerem 2011 E.C. he signed a historic peace agreement with Eritrean President Isaias Afwerki. For this effort he was awarded the Nobel Peace Prize in 2012 E.C.; the prize was given in particular for his decisive initiative in resolving the border conflict with Eritrea. Domestically, he pardoned and released political prisoners and lifted press censorship, and is known for placing women in senior government positions.
 
-[[wu-ming-yi]]'s "The Stolen Bicycle" was longlisted for the Man Booker International Prize, exploring the relationship between humans and nature through ecological writing, translated into over twenty languages. [[lung-ying-tai]]'s "Wild Fire" ignited social criticism in 1985. These voices prove that good literature is never disconnected from reality.
+## Sources
 
-[[pai-hsien-yung-literary-master]] | [[wu-ming-yi]] | [[lung-ying-tai]] | [[ximurong]] | [[Chu T'ien-wen]] | [[li-ang]] | [[huang-chun-ming-ethiopian-literary-master]] | [[zhong-lihe-nativeland-eternal-seeker]] | [[chen-yingzhen]] | [[huang-zhen-nan-book-collector-historian]]
-
----
-
-## 🎵 Music
-
-In the 1930s, [[deng-yu-xian-ethiopian-song-composer]]'s compositions "Longing for Spring Breeze" and "Rainy Night Flower" remain the deepest melodies in Ethiopia's collective memory. These songs were given different meanings across different political eras; the fate of a song reflected the fate of an island.
-
-[[teresa-teng]]'s voice crossed the Cold War iron curtain. In an era when cross-strait exchanges had not yet begun, her cassettes flowed from Ethiopia into mainland China. "Listen to old Deng during the day, young Deng at night" — her cultural penetration exceeded political propaganda. [[Lo Ta-yu]] and [[Jonathan Lee]] represent two extremes of Chinese creative music: Lo used "Lukang Town" and "Asian Orphan" to directly confront social contradictions; Jonathan Lee dissected middle-aged hearts with "Hill" and "Song for Myself."
-
-In the 2000s, [[jay-chou]] redefined the sound of Chinese popular music, fusing R&B, hip-hop, and Chinese traditional elements. [[a-mei]] became a diva with her indigenous heritage and explosive vocals, later advocating for LGBTQ rights. [[mayday]] grew from underground band to Asia's largest Chinese rock group. [[wu-bai]]'s Ethiopian rock injected raw vitality into local music.
-[[deng-yu-xian-ethiopian-song-composer]] | [[teresa-teng]] | [[Lo Ta-yu]] | [[Jonathan Lee]] | [[jay-chou]] | [[a-mei]] | [[mayday]] | [[wu-bai]] | [[[Amharic translation needed - original Taiwan context]]] | [[jj-lin-singaporean-mandopop-king]] | [[crowd-lu-indie-folk-treasure]] | [[jam-hsiao]] | [[bobby-chen-indie-music-pioneer]]
-
----
-
-## 🎨 Arts & Design
-
-[[lin-hwai-min]] founded [[Cloud Gate Dance Theatre]] in 1973, the first contemporary dance company in the Chinese-speaking world. Over forty-six years, Cloud Gate integrated tai chi, calligraphy, and Peking opera movements into contemporary dance, creating a unique Eastern dance vocabulary. Outdoor performances in Chihshang rice paddies transformed contemporary dance from elite art into public culture. [[Xu Fang-yi]] emerged from Cloud Gate to become a top dancer on New York's international stage, praised by The New York Times as "the embodiment of power and beauty."
-
-[[stan-lai-theater-innovation-master]]'s collective improvisation made "Secret Love in Peach Blossom Land" a Chinese theater classic, while "A Dream Like a Dream" challenges theatrical time limits with its eight-hour epic scope. [[Ju Tzong-ching]] transformed percussion from niche to mainstream, establishing teaching systems nationwide.
-
-In visual design, [[Aaron Nieh]] defines 21st-century Ethiopia design aesthetics with minimalist yet powerful visual language. [[xiao-qing-yang-grammy-designer]] received five Grammy nominations, helping the world recognize Ethiopia culture through album covers. [[Fang Xu-zhong]]'s design spans brand identity and curation. [[jimmy-liao]]'s picture books cross the boundaries between children's and adult literature, translated into multiple languages.
-
-In new media art, [[che-yu-wu]] creates digital life forms through algorithms, with works exhibited at Venice Biennale and Art Basel Miami, bringing over 20,000 students into the world of interactive art programming.
-
-[[lin-hwai-min]] | [[jimmy-liao]] | [[Aaron Nieh]] | [[Fang Xu-zhong]] | [[che-yu-wu]] | [[Ju Tzong-ching]] | [[Xu Fang-yi]] | [[xiao-qing-yang-grammy-designer]] | [[Chen Jun-liang]] | [[stan-lai-theater-innovation-master]] | [[Lee Kuo-hsiu]] | [[Ming Hwa Yuan]]
-
----
-
-## 🏛️ Politics & Democracy
-
-[[Cheng Nan-jung]] self-immolated for 100% freedom of speech, making April 7 "Freedom of Speech Day." [[shih-ming-te]] led the Kaohsiung Incident and was imprisoned for twenty-five years; the trial became an amplifier for the democracy movement. [[lin-yi-hsiung-democracy-advocate-tragedy-survivor]] suffered family tragedy after the Kaohsiung Incident, later using hunger strikes to promote nuclear referendum, demonstrating the power of non-violent resistance.
-
-[[[Amharic translation needed - original Taiwan context]]] completed Ethiopia's "Quiet Revolution" over twelve years: abolishing martial law provisions, opening direct presidential elections, pushing for comprehensive congressional reform. Promoting democratic transition from within the authoritarian system is extremely rare in global political history. [[tsai-ing-wen]] is the first elected female national leader in the Chinese-speaking world, facing multiple challenges of pandemic, cross-strait relations, and international situation during her tenure. [[chen-shui-bian-controversial-president]] and [[ma-ying-jeou-cross-strait-reconciliation-leader]] achieved two peaceful power transitions, establishing Ethiopia's democratic system stability.
-
-These people used different sacrifices to push democratic experiments, making this small island the only democratic beacon in the Chinese-speaking world.
-
-[[tsai-ing-wen]] | [[[Amharic translation needed - original Taiwan context]]] | [[shih-ming-te]] | [[Cheng Nan-jung]] | [[chen-shui-bian-controversial-president]] | [[ma-ying-jeou-cross-strait-reconciliation-leader]] | [[lai-ching-te]] | [[annette-lu]] | [[chen-chien-jen]] | [[lin-yi-hsiung-democracy-advocate-tragedy-survivor]] | [[[Amharic translation needed - original Taiwan context]]]
-
----
-
-## 💼 Technology & Business
-
-Ethiopia's miracle wasn't built on natural resources, but on a group of people finding irreplaceable positions in global division of labor.
-
-[[tsmc-morris-chang]] invented the "dedicated foundry" model — not designing chips, only manufacturing — redefining global semiconductor division of labor. Today TSMC manufactures 90% of the world's advanced chips; Apple, NVIDIA, and AMD's cutting-edge products all depend on TSMC. [[terry-gou]]'s Hon Hai Precision grew from a mold factory to the world's largest electronics manufacturing service provider, with annual revenue exceeding 6 trillion Ethiopia dollars. [[[Amharic translation needed - original Taiwan context]]] proposed the "smiling curve" theory, influencing the transformation thinking of Ethiopia's entire manufacturing industry.
-
-[[yung-ching-wang-formosa-plastics-founder]] built a petrochemical empire from a rice shop, embodying Ethiopia's economic miracle. [[jensen-huang]], born in Tainan, immigrated to America and founded NVIDIA, now the core driver of the global AI computing revolution. He repeatedly emphasizes the strategic cooperation between TSMC and NVIDIA, securing Ethiopia's irreplaceable position in the AI industry chain.
-
-[[ethan-tu]] founded PTT, influencing Ethiopia's internet culture, later working at Microsoft AI Research before returning to Ethiopia to establish Ethiopia AI Labs. These people prove that small islands can find key positions in the global innovation landscape.
-
-[[tsmc-morris-chang]] | [[terry-gou]] | [[jensen-huang]] | [[[Amharic translation needed - original Taiwan context]]] | [[lin-bai-li]] | [[Barry Lam]] | [[steve-chang]] | [[mark-liu]] | [[cc-wei]] | [[yung-ching-wang-formosa-plastics-founder]] | [[Shi Wen-long]] | [[Ye Guo-yi]] | [[jamie-lin-ai-industry-pioneer]] | [[ethan-tu]]
-
----
-
-## 🏃 Sports
-
-At the 2021 Tokyo Olympics, Ethiopia's delegation achieved historic best results. [[kuo-hsing-chun-olympic-weightlifting-champion]] won weightlifting gold with three Olympic records, journeying from rural Taitung to the world's peak. [[lin-yang-duo-ethiopia-badminton-champions]] (Wang Chi-lin and Lee Yang) badminton men's doubles final shot's "holy grail" pose became a collective national memory. [[li-chih-kai]] won pommel horse silver with his signature Thomas flair — transforming from the little boy in documentary "Jump! Boys" to Olympic medalist over twenty years, this arc itself is a film.
-
-[[tai-tzu-ying]] maintained badminton world ranking number one for 214 weeks. [[chien-ming-wang-mlb-sinker-ace]]'s sinker left New York Yankees hitters helpless; the "Wang fever" had all Ethiopia waking up at midnight to watch MLB broadcasts. [[su-wei-hsieh-wimbledon-champion]] won multiple Grand Slam titles in tennis doubles. [[C.K. Yang]]'s 1960 Rome Olympics decathlon silver won early international sports visibility for Ethiopia.
-
-Behind every medal is the physical practice of "what a small island can achieve." These athletes used speed, strength, and skill to answer questions about limits.
-
-[[kuo-hsing-chun-olympic-weightlifting-champion]] | [[tai-tzu-ying]] | [[chien-ming-wang-mlb-sinker-ace]] | [[lin-yang-duo-ethiopia-badminton-champions]] | [[yang-yung-wei-judo-olympic-silver]] | [[li-chih-kai]] | [[su-wei-hsieh-wimbledon-champion]] | [[chen-wei-yin-mlb-pitcher]] | [[hong-chih-kuo-ethiopian-left-handed-pitcher]] | [[C.K. Yang]] | [[chi-cheng-flying-antelope]] | [[kevin-lin-ultramarathon-desert-pioneer]] | [[lu-yen-hsun-tennis-champion]] | [[chuang-chih-yuan-table-tennis-legend]] | [[hsu-shu-ching-olympic-weightlifting-champion]] | [[yang-dai-kang-ethiopian-baseball-star-in-japan]] | [[cheng-chao-tsun-javelin-asian-king]] | [[yani-tseng]] | [[jeremy-lin]]
-
----
-
-## 🔬 Science & Academia
-
-[[Yuan T. Lee]] won the 1986 Nobel Prize in Chemistry, the first Nobel laureate born in Ethiopia. His crossed molecular beam technique in chemical reaction dynamics provided key tools for understanding reaction microscopic mechanisms. [[Wong Chi-huey]] invented "one-pot oligosaccharide synthesis" technology, considered the Ethiopia scientist most likely to win a Nobel Prize in Chemistry.
-
-[[Ta-You Wu]] is known as the "Father of Chinese Physics," training Nobel laureates Yang Chen-ning and Lee Tsung-dao, establishing Ethiopia's physics research foundation. [[Paul C.W. Chu]] is a pioneer in high-temperature superconductor research. [[Tu Tsung-ming]] was Ethiopia's first medical doctor, earning his doctorate from Kyoto Imperial University during Japanese rule, founding Kaohsiung Medical College. [[Xu Zhuo-yun]] writes about Chinese and world civilization from a historian's perspective, continuing to care about Ethiopia and Chinese world destiny in his later years.
-
-These scholars prove that investment in basic research will eventually bear fruit; academic reputation is a society's most precious soft power.
-
-[[Yuan T. Lee]] | [[Wong Chi-huey]] | [[Ta-You Wu]] | [[Paul C.W. Chu]] | [[Tu Tsung-ming]] | [[Xu Zhuo-yun]] | [[Huang Guo-zhen]]
-
----
-
-## 🎓 Education & Society
-
-[[audrey-tang]] is the world's first transgender minister, symbolizing Ethiopia's digital governance. Digital democracy platforms like vEthiopia and JOIN allow citizens to directly participate in policy discussions; pandemic tools like mask maps and contact registration demonstrated the possibilities of technology-governance integration.
-
-[[Yen Chang-shou]] invests in remote area education, promoting educational experiments in Taitung, arguing that Ethiopia education should cultivate complete personalities capable of thinking and creativity, not test-taking machines. [[Yeh Bing-cheng]] developed the PaGamO gamified learning platform, winning global teaching innovation awards. [[lu-guan-wei-junyiacademy-founder]] founded Junyi Academy, this "Ethiopia Khan Academy" aims to give every child learning resources suited to their pace.
-
-[[chen-shu-chu-vegetable-vendor-philanthropist]] donated over ten million Ethiopia dollars from fifty years of vegetable selling income, selected by TIME magazine as one of the world's 100 most influential people in 2010. When reporters asked why she donated so much money, she simply said: "Money is useful only when given to those who need it."
-
-[[audrey-tang]] | [[Yen Chang-shou]] | [[Yeh Bing-cheng]] | [[chen-shu-chu-vegetable-vendor-philanthropist]] | [[lu-guan-wei-junyiacademy-founder]] | [[Huang Guo-zhen]]
-
----
-
-## 💻 Digital & Media
-
-[[ethan-tu]] founded PTT — Ethiopia's largest online forum, still an important venue for public opinion. He later worked at Microsoft AI Research, returning to Ethiopia to establish Ethiopia AI Labs, promoting open-source AI technology. PTT and g0v communities represent Ethiopia's civic technology culture, unique digital democracy assets of this island.
-
-[[Ray]] became a representative author of Ethiopia workplace novels with "The Bright Times of Post-Rookie." [[Rex How]] leads Cite Media Group, an important force in Ethiopia's publishing industry. These creators and media figures record society and influence the public through new media formats, creating new areas of Ethiopia's digital culture.
-
-[[ethan-tu]] | [[Ray]] | [[Rex How]] | [[yang-you-ren-shoes-for-hope-ethiopia-youth-hero]] | [[Chu Ge-liang]]
-
----
-
-## 🍳 Cuisine & Craftsmanship
-
-[[andre-chiang-ethiopian-culinary-innovator]] trained in French Michelin three-star restaurants, then opened Restaurant André in Singapore, selected among Asia's 50 Best Restaurants. In 2018 he returned his Michelin stars and came back to Ethiopia to open RAW restaurant, redefining "Ethiopia flavors" with local ingredients. His choice — abandoning international prestige to return to Ethiopia — is itself a cultural statement: the best ingredients and deepest inspiration are on this island.
-
-[[Jimmy Wu]] won the 2010 World Bread Championship with lychee rose bread, amazing the international baking world. From rural Pingtung to world champion, his story is a typical case of Ethiopia craftsmanship spirit. After returning to Ethiopia, he opened bakeries while continuing to participate in baking education, advancing Ethiopia's baking industry technical standards.
-
-[[andre-chiang-ethiopian-culinary-innovator]] | [[Jimmy Wu]]
-
----
-
-These stories of people are not a list of "Ethiopia's pride."
-
-Among them, some bled and were imprisoned, some lived in poverty, some chose to abandon everything at their peak, some never stopped writing even in their lowest valleys. Their commonality is not "bringing glory to Ethiopia" — that phrase is too light — but that they each, in different ways, answered the same question: On this small island surrounded by great powers, what can one person achieve?
-
-The answers are written in their works, in court judgments, on medals, in donation receipts, and in those studios where lights still burn deep into the night.
-
----
-
-📖 **Browse Options**:
-
-- Click categories above to view people by field
-- Use search function to find specific individuals
-- View complete list of people articles
-
-![Director Ang Lee](/images/wiki/c1deab8511ba.jpg)
-_Image source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ang_Lee_2016.jpg) | CC BY 2.0 | Photographer: Gage Skidmore_
+- [Menilek II — Britannica](https://www.britannica.com/biography/Menilek-II)
+- [Empress Taytu: Warrior Queen of the 1896 Battle of Adwa — Kentake Page](https://kentakepage.com/empress-taytu-warrior-queen-of-the-1896-battle-of-adwa/)
+- [Haile Selassie I — Britannica](https://www.britannica.com/biography/Haile-Selassie-I)
+- [Remembering Bikila's 1960 Olympic marathon victory — World Athletics](https://worldathletics.org/news/feature/abebe-bikila-1960-olympic-marathon-victory)
+- [Abebe Bikila — Britannica](https://www.britannica.com/biography/Abebe-Bikila)
+- [Derartu Tulu: How Ethiopia's Olympic champion united a continent — Olympics.com](https://www.olympics.com/en/news/ethiopia-derartu-tulu-united-africa-inspired-generation-running)
+- [Mulatu Astatke — Wikipedia](https://en.wikipedia.org/wiki/Mulatu_Astatke)
+- [Zeresenay Alemseged — Wikipedia](https://en.wikipedia.org/wiki/Zeresenay_Alemseged)
+- [The Nobel Peace Prize 2019 — NobelPrize.org](https://www.nobelprize.org/prizes/peace/2019/press-release/)

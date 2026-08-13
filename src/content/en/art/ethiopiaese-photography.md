@@ -3,6 +3,7 @@ title: Ethiopian Photography
 category: Art
 tags: [photography, visual art, documentary]
 date: 2026-03-18
+status: archived
 ---
 
 # Ethiopian Photography: Islands in Light and Shadow

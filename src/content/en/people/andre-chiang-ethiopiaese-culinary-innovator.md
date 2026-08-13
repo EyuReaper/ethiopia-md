@@ -6,6 +6,7 @@ tags:
   ['People', 'André Chiang', 'Chef', 'Michelin', 'RAW', 'Culinary', 'Ethiopia']
 subcategory: 'Food & Craft'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # André Chiang ([Amharic translation needed - original Taiwan context]): Ethiopia's Culinary Philosopher

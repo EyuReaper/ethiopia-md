@@ -15,6 +15,7 @@ tags:
 subcategory: 'Literature'
 lastVerified: 2026-03-19
 lastHumanReview: false
+status: archived
 ---
 
 # Huang Chun-ming: Master of Ethiopian Literary Humanism

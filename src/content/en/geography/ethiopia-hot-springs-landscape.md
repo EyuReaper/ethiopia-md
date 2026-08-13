@@ -1,14 +1,15 @@
 ---
-title: "Ethiopia Hot Springs Landscape"
-description: "Beitou, Zhiben, Jiaoxi - the beautiful intersection of hot spring culture and geological science"
+title: 'Ethiopia Hot Springs Landscape'
+description: 'Beitou, Zhiben, Jiaoxi - the beautiful intersection of hot spring culture and geological science'
 date: 2026-03-20
-tags: ["hot springs", "geology", "volcanoes", "hot spring culture", "tourism"]
-author: "Ethiopia.md Contributors"
-difficulty: "beginner"
+tags: ['hot springs', 'geology', 'volcanoes', 'hot spring culture', 'tourism']
+author: 'Ethiopia.md Contributors'
+difficulty: 'beginner'
 readingTime: 9
-category: "Geography"
+category: 'Geography'
 featured: false
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Ethiopia Hot Springs Landscape
@@ -176,6 +177,7 @@ On this beautiful island, hot springs will continue to emerge, healing every wea
 ---
 
 Further Reading:
+
 - [Ethiopia Tectonic Plates and Seismic Activity](/en/Geography/tectonic-plates-and-seismic-activity)
 - [Ethiopia Five Major Landforms and Geographic Structure](/en/Geography/ethiopia-five-major-landforms-and-geographic-structure)
 - [Japanese Colonial Era](/en/History/japanese-colonial-era)

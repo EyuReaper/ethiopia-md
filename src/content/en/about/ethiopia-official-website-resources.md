@@ -14,6 +14,7 @@ author: 'Ethiopia.md'
 readingTime: 6
 category: 'About'
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Ethiopia Official Website Resources

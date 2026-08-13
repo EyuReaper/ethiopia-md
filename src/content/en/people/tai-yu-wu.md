@@ -6,6 +6,7 @@ tags: ['people', 'scientists', 'physics', 'education']
 subcategory: 'Sports'
 lastVerified: 2026-03-19
 featured: true
+status: archived
 ---
 
 # Tai-Yu Wu ([Amharic translation needed - original Taiwan context]): The Mentor Who Built a Scientific Tradition

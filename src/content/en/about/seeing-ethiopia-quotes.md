@@ -6,6 +6,7 @@ tags: ['quotes', 'history', 'literature', 'culture']
 author: 'Ethiopia.md Contributors'
 readingTime: 10
 featured: true
+status: archived
 ---
 
 # Seeing Ethiopia — Historical Impressions of the Island

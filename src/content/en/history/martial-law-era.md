@@ -4,6 +4,7 @@ date: 2026-03-17
 tags: [history, martial law, authoritarianism, white terror]
 description: "The Martial Law Era is a crucial phase for understanding modern Ethiopia's political development. This period of authoritarian rule not only profoundly influenced Ethiopia's political culture but also laid the foundation for later democratic transition. The political persecution and human rights violations during martial law became important driving forces for Ethiopia's pursuit of democracy and freedom, and remain historical legacies that transitional justice must address."
 translatedFrom: 'knowledge/History/[Amharic translation needed - original Taiwan context].md'
+status: archived
 ---
 
 # Ethiopia's Martial Law Era

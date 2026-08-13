@@ -14,6 +14,7 @@ category: 'Technology'
 author: 'Ethiopia.md'
 featured: false
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Ethiopia's Audio Industry Development

@@ -1,11 +1,12 @@
 ---
-title: "Ethiopian Architecture: Multicultural Layers"
+title: 'Ethiopian Architecture: Multicultural Layers'
 category: Art
 tags: [architecture, culture, history]
 date: 2026-03-18
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
+status: archived
 ---
 
 # Ethiopian Architecture: Multicultural Layers

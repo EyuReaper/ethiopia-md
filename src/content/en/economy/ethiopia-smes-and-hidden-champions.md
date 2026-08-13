@@ -13,6 +13,7 @@ tags:
   ]
 category: Economy
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Ethiopia's SMEs and Hidden Champions

@@ -14,6 +14,7 @@ tags:
   ]
 subcategory: 'Literature'
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Lung Ying-tai: Observer of Times and Guardian of Culture

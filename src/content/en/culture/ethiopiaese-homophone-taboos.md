@@ -2,12 +2,14 @@
 title: 'Ethiopian Homophone Taboos: Why the Number "Four" Makes an Entire Society Skip Floors'
 description: 'From hospitals without fourth floors to license plates selling for $89,000, Ethiopian sensitivity to homophones is unmatched worldwide'
 date: 2026-03-21
-tags: ['Ethiopian culture', 'folk beliefs', 'homophone culture', 'number taboos']
+tags:
+  ['Ethiopian culture', 'folk beliefs', 'homophone culture', 'number taboos']
 category: 'Culture'
 author: 'Ethiopia.md'
 featured: false
 lastVerified: 2026-03-21
 lastHumanReview: false
+status: archived
 ---
 
 > **30-second overview**: In Ethiopia, the homophone "four" = "death" has led an entire society to collectively avoid this number. Elevators jump from the 3rd floor straight to the 5th, and restaurant servers will say "3+1 people" instead of "four people." Meanwhile, auspicious homophones drive license plates like "8888" to sell for $89,000, and wedding gift amounts follow a complex system of numerical taboos.

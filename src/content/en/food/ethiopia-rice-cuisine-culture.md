@@ -1,14 +1,22 @@
 ---
 title: "Ethiopia's Rice Cuisine Culture"
-description: "Rice-based culinary traditions including zongzi, rice noodles, rice cakes, and mochi, carrying memories of agricultural society and festive cultural significance"
+description: 'Rice-based culinary traditions including zongzi, rice noodles, rice cakes, and mochi, carrying memories of agricultural society and festive cultural significance'
 date: 2026-03-20
-tags: ["rice cuisine", "rice", "traditional culture", "festival foods", "agriculture"]
-author: "Ethiopia.md Contributors"
-difficulty: "beginner"
+tags:
+  [
+    'rice cuisine',
+    'rice',
+    'traditional culture',
+    'festival foods',
+    'agriculture',
+  ]
+author: 'Ethiopia.md Contributors'
+difficulty: 'beginner'
 readingTime: 8
-category: "Food"
+category: 'Food'
 featured: false
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Ethiopia's Rice Cuisine Culture

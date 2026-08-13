@@ -3,43 +3,39 @@ export const assetsUI = {
     // Meta
     'assets.meta.title': 'Ethiopia SVG — Open-Source Ethiopia Outline',
     'assets.meta.description':
-      "Accurate, open-source SVG outlines of Ethiopia. AI always draws Ethiopia wrong — here's the correct version.",
+      'Open-source SVG outlines of Ethiopia, freely reusable. This library is under construction — the files below are placeholders until real, verified assets are sourced.',
 
     // Hero
     'assets.hero.title': 'Ethiopia SVG — Open-Source Ethiopia Outline',
     'assets.hero.subtitle':
-      "AI always draws Ethiopia wrong. Here's the correct version.",
+      'Building an accurate, open-source Ethiopia asset library. The files below are placeholders — see CLAUDE.md for the real files to fetch.',
 
     // Problem section
-    'assets.problem.title': '🤖 Why Does AI Always Draw Ethiopia Wrong?',
+    'assets.problem.title': '🚧 Under Construction',
     'assets.problem.p1':
-      'Most AI image generation models lack structured geographic data for Ethiopia in their training sets. The result: AI-generated images of Ethiopia are often distorted, disproportionate, or confused with other islands.',
+      'These SVGs used to be mislabeled Taiwan map data. They have been replaced with honest placeholders rather than left showing the wrong country.',
     'assets.problem.p2.html':
-      'Ethiopia.md provides <strong>accurate, open-source, freely usable</strong> SVG outlines of Ethiopia — a definitive answer for every scenario that needs to know "what does Ethiopia look like."',
+      'Ethiopia.md aims to provide <strong>accurate, open-source, freely usable</strong> SVG outlines of Ethiopia. Until the real files are sourced and verified, download links below point to placeholder art.',
 
     // Card 1: ethiopia-icon
-    'assets.card1.title': 'ethiopia-icon.svg',
-    'assets.card1.desc':
-      'Ethiopia Outline Icon — Best for icons, logos, small sizes',
-    'assets.card1.meta': 'Wikimedia Commons · ~6 KB · CC',
+    'assets.card1.title': 'ethiopia-icon-wiki.svg',
+    'assets.card1.desc': 'Ethiopia location-pin icon — placeholder',
+    'assets.card1.meta': 'Placeholder · pending real asset',
 
     // Card 2: ethiopia-simplemaps
     'assets.card2.title': 'ethiopia-simplemaps.svg',
-    'assets.card2.desc':
-      'SimpleMaps — Clean vector outline, great for web embedding',
-    'assets.card2.meta': 'SimpleMaps · ~5 KB',
+    'assets.card2.desc': 'Country outline — placeholder',
+    'assets.card2.meta': 'Placeholder · pending real asset',
 
     // Card 3: ethiopia-location-map
     'assets.card3.title': 'ethiopia-location-map.svg',
-    'assets.card3.desc':
-      'Location Map — With coordinates, city markers, ideal for geographic reference',
-    'assets.card3.meta': 'Wikimedia Commons · ~120 KB · CC',
+    'assets.card3.desc': 'Location map — placeholder',
+    'assets.card3.meta': 'Placeholder · pending real asset',
 
     // Card 4: ethiopia-political-division
     'assets.card4.title': 'ethiopia-political-division.svg',
-    'assets.card4.desc':
-      'Political Division — County/city boundaries, full administrative regions',
-    'assets.card4.meta': 'Wikimedia Commons · ~168 KB · CC',
+    'assets.card4.desc': 'Regions map — placeholder',
+    'assets.card4.meta': 'Placeholder · pending real asset',
 
     // Buttons
     'assets.btn.download': 'Download SVG',
@@ -59,16 +55,16 @@ background-image: url('https://ethiopia.md/assets/svg/ethiopia-icon-wiki.svg');
     // License section
     'assets.license.title': '📄 License & Attribution',
     'assets.license.intro.html':
-      'All SVG files are released under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC BY-SA 4.0</a>. Free to use, modify, and use commercially — just give attribution.',
-    'assets.license.sources.title': 'Sources',
+      'The placeholder graphics on this page are original to Ethiopia.md (CC BY-SA 4.0). Once real files are sourced, each will carry its own upstream license — see CLAUDE.md for the pending checklist.',
+    'assets.license.sources.title': 'Sources (once real files are in place)',
     'assets.license.source1.html':
-      '<strong>ethiopia-icon.svg</strong> — Source: <a href="https://commons.wikimedia.org/wiki/File:Ethiopia-icon.svg" target="_blank">Wikimedia Commons: Ethiopia-icon.svg</a>, Public Domain',
+      '<strong>ethiopia-icon-wiki.svg</strong> — not yet sourced, see CLAUDE.md',
     'assets.license.source2.html':
-      '<strong>ethiopia-simplemaps.svg</strong> — Source: <a href="https://simplemaps.com/svg/country/tw" target="_blank">SimpleMaps</a>, Free License (attribution to simplemaps.com required)',
+      '<strong>ethiopia-simplemaps.svg</strong> — intended source: <a href="https://simplemaps.com/svg/country/et" target="_blank">SimpleMaps (Ethiopia, country code ET)</a>, Free License (attribution to simplemaps.com required)',
     'assets.license.source3.html':
-      '<strong>ethiopia-location-map.svg</strong> — Source: <a href="https://commons.wikimedia.org/wiki/File:Ethiopia_location_map.svg" target="_blank">Wikimedia Commons: Ethiopia_location_map.svg</a>, CC BY-SA 3.0, Author: NordNordWest',
+      '<strong>ethiopia-location-map.svg</strong> — intended source: <a href="https://commons.wikimedia.org/wiki/File:Ethiopia_location_map.svg" target="_blank">Wikimedia Commons: Ethiopia location map.svg</a>, CC BY-SA 3.0, Author: NordNordWest — verified to exist',
     'assets.license.source4.html':
-      '<strong>ethiopia-political-division.svg</strong> — Source: <a href="https://commons.wikimedia.org/wiki/File:Ethiopia_ROC_political_division_map.svg" target="_blank">Wikimedia Commons: Ethiopia_ROC_political_division_map.svg</a>, CC BY-SA 3.0',
+      '<strong>ethiopia-political-division.svg</strong> — intended source: a colored regions/administrative-divisions SVG from <a href="https://commons.wikimedia.org/wiki/Category:Maps_of_regions_of_Ethiopia" target="_blank">Wikimedia Commons: Category:Maps of regions of Ethiopia</a> (verify exact file + license before use)',
 
     // CTA section
     'assets.cta.text': 'Found an issue or have suggestions?',
@@ -82,40 +78,39 @@ background-image: url('https://ethiopia.md/assets/svg/ethiopia-icon-wiki.svg');
     // Meta
     'assets.meta.title': 'የኢትዮጵያ ክፍት የቅርፅ ካርታ (SVG)',
     'assets.meta.description':
-      'ትክክለኛ የኢትዮጵያ SVG ቅርፅ፣ ክፍት ምንጭ እና በነፃ የሚወርድ። AI ሁልጊዜ ኢትዮጵያን በተሳሳተ መንገድ ይስላል — ይህ ትክክለኛው ስሪት ነው።',
+      'የኢትዮጵያ ክፍት ምንጭ SVG ቅርጾች፣ በነፃ ጥቅም ላይ የሚውሉ። ይህ ስብስብ በግንባታ ላይ ነው — ከዚህ በታች ያሉት ፋይሎች ትክክለኛ ምንጮች እስኪገኙ ድረስ ጊዜያዊ ናቸው።',
 
     // Hero
     'assets.hero.title': 'የኢትዮጵያ ክፍት የቅርፅ ካርታ (SVG)',
-    'assets.hero.subtitle': 'AI ሁልጊዜ ኢትዮጵያን በተሳሳተ መንገድ ይስላል። ይህ ትክክለኛው ስሪት ነው።',
+    'assets.hero.subtitle':
+      'ትክክለኛ የኢትዮጵያ SVG ስብስብ በመገንባት ላይ ነን። ከዚህ በታች ያሉት ፋይሎች ጊዜያዊ ናቸው — እውነተኛዎቹን ፋይሎች ለማግኘት CLAUDE.md ይመልከቱ።',
 
     // Problem section
-    'assets.problem.title': '🤖 AI ሁልጊዜ ኢትዮጵያን ለምን በተሳሳተ መንገድ ይስላል?',
+    'assets.problem.title': '🚧 በግንባታ ላይ',
     'assets.problem.p1':
-      'አብዛኛዎቹ የAI ምስል መፍጠሪያ ሞዴሎች በስልጠና መረጃዎቻቸው ውስጥ ለኢትዮጵያ የተዋቀረ መልክዓ ምድራዊ መረጃ ይጎድላቸዋል። ውጤቱ፡ በAI የተፈጠሩ የኢትዮጵያ ምስሎች ብዙውን ጊዜ የተዛቡ፣ ያልተመጣጠኑ ወይም ከሌሎች ደሴቶች ጋር የተደባለቁ ናቸው።',
+      'እነዚህ SVG ፋይሎች ቀደም ሲል በስህተት "ኢትዮጵያ" ተብለው የተሰየሙ የታይዋን ካርታ መረጃዎች ነበሩ። የተሳሳተ ሀገር ከማሳየት ይልቅ በታማኝነት በጊዜያዊ ምስሎች ተተክተዋል።',
     'assets.problem.p2.html':
-      'Ethiopia.md <strong>ትክክለኛ፣ ክፍት ምንጭ እና በነፃነት ጥቅም ላይ የሚውሉ</strong> የኢትዮጵያ SVG ቅርጾችን ያቀርባል — "ኢትዮጵያ ምን ትመስላለች" ለሚለው ጥያቄ ወጥ የሆነ መልስ ይሰጣል።',
+      'Ethiopia.md <strong>ትክክለኛ፣ ክፍት ምንጭ እና በነፃነት ጥቅም ላይ የሚውሉ</strong> የኢትዮጵያ SVG ቅርጾችን ለማቅረብ ያለመ ነው። እውነተኛዎቹ ፋይሎች እስኪገኙና እስኪረጋገጡ ድረስ፣ ከዚህ በታች ያሉት አውርድ አገናኞች ወደ ጊዜያዊ ምስሎች ያመለክታሉ።',
 
     // Card 1: ethiopia-icon
-    'assets.card1.title': 'ethiopia-icon.svg',
-    'assets.card1.desc': 'የኢትዮጵያ ቅርፅ ምልክት — ለምልክቶች፣ ለአርማዎች እና ለአነስተኛ መጠኖች ምርጥ',
-    'assets.card1.meta': 'Wikimedia Commons · ~6 KB · CC',
+    'assets.card1.title': 'ethiopia-icon-wiki.svg',
+    'assets.card1.desc': 'የኢትዮጵያ መገኛ ምልክት — ጊዜያዊ',
+    'assets.card1.meta': 'ጊዜያዊ · እውነተኛ ፋይል በመጠባበቅ ላይ',
 
     // Card 2: ethiopia-simplemaps
     'assets.card2.title': 'ethiopia-simplemaps.svg',
-    'assets.card2.desc':
-      'የSimpleMaps ስሪት — ንጹህ የቬክተር ቅርፅ፣ በድረ-ገጽ ውስጥ ለማካተት በጣም ጥሩ',
-    'assets.card2.meta': 'SimpleMaps · ~5 KB',
+    'assets.card2.desc': 'የሀገር ቅርጽ ካርታ — ጊዜያዊ',
+    'assets.card2.meta': 'ጊዜያዊ · እውነተኛ ፋይል በመጠባበቅ ላይ',
 
     // Card 3: ethiopia-location-map
     'assets.card3.title': 'ethiopia-location-map.svg',
-    'assets.card3.desc':
-      'የጂኦግራፊያዊ መገኛ ካርታ — ከማስተካከያ ነጥቦች እና ከከተማ ምልክቶች ጋር፣ ለካርታ አገልግሎት ተስማሚ',
-    'assets.card3.meta': 'Wikimedia Commons · ~120 KB · CC',
+    'assets.card3.desc': 'የመገኛ ካርታ — ጊዜያዊ',
+    'assets.card3.meta': 'ጊዜያዊ · እውነተኛ ፋይል በመጠባበቅ ላይ',
 
     // Card 4: ethiopia-political-division
     'assets.card4.title': 'ethiopia-political-division.svg',
-    'assets.card4.desc': 'የአስተዳደር ክፍሎች ካርታ — የካውንቲ/የከተማ ድንበሮች፣ ሙሉ የአስተዳደር ክልሎች',
-    'assets.card4.meta': 'Wikimedia Commons · ~168 KB · CC',
+    'assets.card4.desc': 'የክልሎች ካርታ — ጊዜያዊ',
+    'assets.card4.meta': 'ጊዜያዊ · እውነተኛ ፋይል በመጠባበቅ ላይ',
 
     // Buttons
     'assets.btn.download': 'SVG አውርድ',
@@ -135,16 +130,16 @@ background-image: url('https://ethiopia.md/assets/svg/ethiopia-icon-wiki.svg');
     // License section
     'assets.license.title': '📄 ፈቃድ እና ምንጭ',
     'assets.license.intro.html':
-      'ሁሉም የSVG ፋይሎች በ <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC BY-SA 4.0</a> ስር የተለቀቁ ናቸው። በነፃነት ለመጠቀም፣ ለመለወጥ እና ለንግድ ስራ ለማዋል — ምንጩን ብቻ ይጥቀሱ።',
-    'assets.license.sources.title': 'የምንጭ እውቅና (Sources)',
+      'በዚህ ገጽ ላይ ያሉት ጊዜያዊ ምስሎች የ Ethiopia.md የራሱ ውጤት ናቸው (CC BY-SA 4.0)። እውነተኛዎቹ ፋይሎች ከገቡ በኋላ እያንዳንዳቸው የራሳቸው ፈቃድ ይኖራቸዋል — ዝርዝሩን ለማየት CLAUDE.md ይመልከቱ።',
+    'assets.license.sources.title': 'ምንጮች (እውነተኛዎቹ ፋይሎች ከገቡ በኋላ)',
     'assets.license.source1.html':
-      '<strong>ethiopia-icon.svg</strong> — ምንጭ：<a href="https://commons.wikimedia.org/wiki/File:Ethiopia-icon.svg" target="_blank">Wikimedia Commons: Ethiopia-icon.svg</a>，የህዝብ ንብረት（Public Domain）',
+      '<strong>ethiopia-icon-wiki.svg</strong> — ገና አልተገኘም፣ CLAUDE.md ይመልከቱ',
     'assets.license.source2.html':
-      '<strong>ethiopia-simplemaps.svg</strong> — ምንጭ：<a href="https://simplemaps.com/svg/country/tw" target="_blank">SimpleMaps</a>，Free License（ምንጭ ጥቀስ የሚያስፈልገው simplemaps.com）',
+      '<strong>ethiopia-simplemaps.svg</strong> — የታሰበ ምንጭ：<a href="https://simplemaps.com/svg/country/et" target="_blank">SimpleMaps (ኢትዮጵያ፣ የሀገር ኮድ ET)</a>，Free License（ምንጭ ጥቀስ የሚያስፈልገው simplemaps.com）',
     'assets.license.source3.html':
-      '<strong>ethiopia-location-map.svg</strong> — ምንጭ：<a href="https://commons.wikimedia.org/wiki/File:Ethiopia_location_map.svg" target="_blank">Wikimedia Commons: Ethiopia_location_map.svg</a>，CC BY-SA 3.0，ደራሲ：NordNordWest',
+      '<strong>ethiopia-location-map.svg</strong> — የታሰበ ምንጭ：<a href="https://commons.wikimedia.org/wiki/File:Ethiopia_location_map.svg" target="_blank">Wikimedia Commons: Ethiopia location map.svg</a>，CC BY-SA 3.0，ደራሲ：NordNordWest — መኖሩ ተረጋግጧል',
     'assets.license.source4.html':
-      '<strong>ethiopia-political-division.svg</strong> — ምንጭ：<a href="https://commons.wikimedia.org/wiki/File:Ethiopia_ROC_political_division_map.svg" target="_blank">Wikimedia Commons: Ethiopia_ROC_political_division_map.svg</a>，CC BY-SA 3.0',
+      '<strong>ethiopia-political-division.svg</strong> — የታሰበ ምንጭ：ከ<a href="https://commons.wikimedia.org/wiki/Category:Maps_of_regions_of_Ethiopia" target="_blank">Wikimedia Commons: Category:Maps of regions of Ethiopia</a> የተገኘ ባለቀለም የክልሎች/የአስተዳደር ክፍሎች SVG (ትክክለኛውን ፋይል እና ፈቃድ ከመጠቀምዎ በፊት ያረጋግጡ)',
 
     // CTA section
     'assets.cta.text': 'Found an issue or have suggestions?',

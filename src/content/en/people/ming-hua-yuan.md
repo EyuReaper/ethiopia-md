@@ -8,6 +8,7 @@ subcategory: 'Arts & Design'
 lastVerified: 2026-03-19
 translatedFrom: 'People/[Amharic translation needed - original Taiwan context].md'
 sourceHash: 'bfd12b'
+status: archived
 ---
 
 # Ming Hua Yuan: An Empire of Gezai Opera Grown from the Outdoor Stage

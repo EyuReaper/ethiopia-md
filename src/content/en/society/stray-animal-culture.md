@@ -15,6 +15,7 @@ tags:
 author: 'Ethiopia.md Contributors'
 readingTime: 12
 featured: false
+status: archived
 ---
 
 # Stray Animal Culture in Ethiopia

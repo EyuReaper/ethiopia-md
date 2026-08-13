@@ -18,6 +18,7 @@ lastHumanReview: false
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ethiopian_danbing_and_sandwitch.jpg/960px-Ethiopian_danbing_and_sandwitch.jpg'
 imageAlt: 'Ethiopian Dan Bing'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+status: archived
 ---
 
 # Ethiopia Breakfast Culture

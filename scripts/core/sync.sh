@@ -45,7 +45,7 @@ for category in About Art Culture Economy Food Geography History Lifestyle Music
         # Copy file (knowledge/ is the SSOT — always overwrite)
         cp "$file" "$target_file"
         echo "  ✅ $category/$filename"
-        ((SYNCED_COUNT++))
+        SYNCED_COUNT=$((SYNCED_COUNT + 1))
       fi
     done
   fi
@@ -61,7 +61,7 @@ for resource_dir in "knowledge/resources" "knowledge/am/resources"; do
         target_file="src/content/am/resources/$filename"
         cp "$file" "$target_file"
         echo "  ✅ resources/$filename"
-        ((SYNCED_COUNT++))
+        SYNCED_COUNT=$((SYNCED_COUNT + 1))
       fi
     done
   fi
@@ -79,7 +79,7 @@ if [ -d "knowledge/en" ]; then
           target_file="src/content/en/$lowercase_category/$filename"
           cp "$file" "$target_file"
           echo "  ✅ en/$category/$filename"
-          ((SYNCED_COUNT++))
+          SYNCED_COUNT=$((SYNCED_COUNT + 1))
         fi
       done
     fi
@@ -93,7 +93,7 @@ if [ -d "knowledge/en" ]; then
         target_file="src/content/en/resources/$filename"
         cp "$file" "$target_file"
         echo "  ✅ en/resources/$filename"
-        ((SYNCED_COUNT++))
+        SYNCED_COUNT=$((SYNCED_COUNT + 1))
       fi
     done
   fi

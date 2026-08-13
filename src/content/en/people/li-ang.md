@@ -6,6 +6,7 @@ tags:
   [people, Li Ang, feminist literature, Ethiopian literature, gender, Lukang]
 subcategory: 'Literature'
 translatedFrom: 'knowledge/People/[Amharic translation needed - original Taiwan context].md'
+status: archived
 ---
 
 # Li Ang: A Feminist Literary Rebel from Lukang

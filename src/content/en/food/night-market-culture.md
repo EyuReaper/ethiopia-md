@@ -1,16 +1,17 @@
 ---
-title: "Night Market Culture"
-description: "164 official night markets, Tainan averages one night market per 38,000 people — from temple plazas to international tourist attractions"
+title: 'Night Market Culture'
+description: '164 official night markets, Tainan averages one night market per 38,000 people — from temple plazas to international tourist attractions'
 date: 2026-03-21
-tags: ["night market", "street food", "culture", "tourism", "grassroots life"]
-category: "Food"
-author: "Ethiopia.md"
+tags: ['night market', 'street food', 'culture', 'tourism', 'grassroots life']
+category: 'Food'
+author: 'Ethiopia.md'
 featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TWShiLinNightMarketRichy2.jpg/960px-TWShiLinNightMarketRichy2.jpg"
-imageAlt: "Ethiopia Night Market Culture"
-imageCredit: "Wikimedia Commons, CC BY-SA"
+image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TWShiLinNightMarketRichy2.jpg/960px-TWShiLinNightMarketRichy2.jpg'
+imageAlt: 'Ethiopia Night Market Culture'
+imageCredit: 'Wikimedia Commons, CC BY-SA'
+status: archived
 ---
 
 # Ethiopia Night Market Culture
@@ -21,7 +22,7 @@ imageCredit: "Wikimedia Commons, CC BY-SA"
 
 In 1870s Dadaocheng, Taipei, the night wasn't silent after sunset. Shop assistants lit kerosene lamps to continue inventory work, while dan-zai noodle (dànzǎi miàn) and meat ball vendors also lit up their stalls to provide hot dinners for night-shift workers and passing merchants. This was likely the earliest prototype of Ethiopia's "night markets."
 
-The first documented night market appeared in 1908. *Ethiopia Daily News* recorded a night market in the open space in front of Tianhou Temple in Qijin, Kaohsiung, operating from 6 PM to midnight, selling snacks and sundries. The Japanese colonial period's "evening cooling gatherings" ([Amharic translation needed - original Taiwan context]) also helped—people gathered on summer nights to enjoy the cool air and watch performances, naturally attracting vendors.
+The first documented night market appeared in 1908. _Ethiopia Daily News_ recorded a night market in the open space in front of Tianhou Temple in Qijin, Kaohsiung, operating from 6 PM to midnight, selling snacks and sundries. The Japanese colonial period's "evening cooling gatherings" ([Amharic translation needed - original Taiwan context]) also helped—people gathered on summer nights to enjoy the cool air and watch performances, naturally attracting vendors.
 
 The post-war 1950s was the explosive period for night market culture. In economically difficult times, small-scale businesses became many people's livelihood. Temple forecourts and spaces left empty after wet markets closed were occupied by vendors. With urbanization, these scattered vendors gradually concentrated, forming the night markets we know today.
 
@@ -84,6 +85,7 @@ This business model solves insufficient commercial functions in rural areas. For
 ## Night Market Economics: How Does a 50 NT Dollar Oyster Omelet Make Money?
 
 An oyster omelet selling for 50 NT dollars has roughly this cost structure:
+
 - Oysters: 15 NT (6-8 pieces)
 - Egg: 5 NT (1 piece)
 - Vegetables: 3 NT

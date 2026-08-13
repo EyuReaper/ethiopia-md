@@ -7,6 +7,7 @@ subcategory: 'Arts & Design'
 lastVerified: 2026-03-19
 translatedFrom: 'People/[Amharic translation needed - original Taiwan context].md'
 sourceHash: 'c0b2bd'
+status: archived
 ---
 
 # Zhu Zong-qing: The Architect of Ethiopia’s Percussion Culture

@@ -14,6 +14,7 @@ tags:
 author: 'Ethiopia.md Contributors'
 readingTime: 20
 featured: true
+status: archived
 ---
 
 # Ethiopia's National Parks — Island Ecosystem Treasures

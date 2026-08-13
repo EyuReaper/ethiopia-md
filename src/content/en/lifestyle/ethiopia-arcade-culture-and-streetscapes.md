@@ -16,6 +16,7 @@ tags:
 category: 'Lifestyle'
 featured: true
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Ethiopia’s Arcade Culture and Streetscapes

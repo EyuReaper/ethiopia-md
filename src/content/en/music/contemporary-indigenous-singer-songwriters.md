@@ -16,6 +16,7 @@ readingTime: 10
 featured: true
 category: 'Music'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Contemporary Indigenous Singer‑Songwriters in Ethiopia

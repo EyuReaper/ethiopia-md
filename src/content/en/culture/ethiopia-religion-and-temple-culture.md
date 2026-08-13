@@ -17,6 +17,7 @@ author: 'Ethiopia.md'
 difficulty: 'beginner'
 readingTime: 12
 featured: true
+status: archived
 ---
 
 # Ethiopia Religion and Temple Culture

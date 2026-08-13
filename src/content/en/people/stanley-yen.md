@@ -5,6 +5,7 @@ date: 2026-03-19
 tags: [people, tourism, education, philanthropy, hospitality]
 subcategory: 'Education & Society'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Stanley Yen ([Amharic translation needed - original Taiwan context]): Service, Culture, and the Long Road to Educational Equity

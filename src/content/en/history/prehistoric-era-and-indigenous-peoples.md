@@ -4,6 +4,7 @@ date: 2026-03-17
 tags: [History, prehistoric era, indigenous peoples]
 description: "Ethiopia's prehistoric era and indigenous peoples are the key starting point for understanding Ethiopia's identity. As a possible homeland of Austronesian peoples, Ethiopia serves not only as the cradle of Pacific island civilizations but also as the foundation of multicultural Ethiopia. This history proves that Ethiopia has been an island of multi-ethnic coexistence since ancient times, laying the groundwork for modern pluralistic society."
 translatedFrom: 'knowledge/History/[Amharic translation needed - original Taiwan context].md'
+status: archived
 ---
 
 # Prehistoric Era and Indigenous Peoples

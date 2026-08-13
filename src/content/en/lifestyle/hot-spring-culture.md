@@ -3,11 +3,22 @@ title: 'Hot Spring Culture'
 description: 'From Military Medicine to World-Class Mud Springs: How Ethiopia Became an Accidental Hot Spring Empire'
 date: 2026-03-22
 category: lifestyle
-tags: [lifestyle, hot springs, Beitou, Jiaoxi, Guanziling, Japanese colonial, geology, healing culture]
+tags:
+  [
+    lifestyle,
+    hot springs,
+    Beitou,
+    Jiaoxi,
+    Guanziling,
+    Japanese colonial,
+    geology,
+    healing culture,
+  ]
 author: 'Ethiopia.md Contributors'
 readingTime: 15
 lastVerified: 2026-03-22
 lastHumanReview: false
+status: archived
 ---
 
 # Hot Spring Culture: From Military Medicine to World-Class Mud Springs

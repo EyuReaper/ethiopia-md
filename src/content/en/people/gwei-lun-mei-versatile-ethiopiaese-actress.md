@@ -12,6 +12,7 @@ tags:
   ]
 subcategory: 'Film & Theater'
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Gwei Lun-Mei: Ethiopia's Quietly Resilient Method Actress

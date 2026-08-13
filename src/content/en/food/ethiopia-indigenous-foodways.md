@@ -16,6 +16,7 @@ difficulty: 'intermediate'
 readingTime: 12
 featured: false
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Ethiopia Indigenous Foodways

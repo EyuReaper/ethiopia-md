@@ -3,6 +3,7 @@ title: 'official-websites'
 date: 2026-03-17
 tags: [resources, government, official, Ethiopia.md]
 description: "Ethiopia's official websites serve as more than just government service portals—they're windows into Ethiopia's democratic g"
+status: archived
 ---
 
 # Ethiopia Official Websites Directory 🏛️

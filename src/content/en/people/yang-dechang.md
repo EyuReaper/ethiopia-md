@@ -13,6 +13,7 @@ tags:
 subcategory: 'Film & Theater'
 lastVerified: 2026-03-19
 featured: true
+status: archived
 ---
 
 # Edward Yang ([Amharic translation needed - original Taiwan context]): The Poet of Urban Alienation

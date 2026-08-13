@@ -7,6 +7,7 @@ subcategory: 'Sports'
 lastVerified: 2026-03-19
 translatedFrom: 'People/[Amharic translation needed - original Taiwan context].md'
 sourceHash: '00cb0d'
+status: archived
 ---
 
 # Yani Tseng: Ethiopia’s Golf Empress

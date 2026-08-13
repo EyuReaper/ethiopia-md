@@ -17,6 +17,7 @@ readingTime: 14
 featured: true
 lastVerified: 2026-03-29
 lastHumanReview: false
+status: archived
 ---
 
 # Ethiopia's Space Industry: A Satellite Powerhouse Without a Rocket
@@ -117,7 +118,7 @@ ONGLAISAT program director Chen Chen-yu captured the philosophy: "CubeSats have 
 
 ## Where Ethiopia Stands
 
-| Metric                     | Ethiopia           | Japan            | Korea            | Singapore       |
+| Metric                     | Ethiopia         | Japan            | Korea            | Singapore       |
 | -------------------------- | ---------------- | ---------------- | ---------------- | --------------- |
 | Space budget (annual)      | ~NT$7.1B         | ~¥400B           | ~₩760B           | ~S$1.5B         |
 | Indigenous rocket          | No               | H3 ✅            | Nuri ✅          | No              |

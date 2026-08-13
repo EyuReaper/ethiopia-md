@@ -13,6 +13,7 @@ tags:
   ]
 subcategory: 'Arts & Design'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 ## A poet of images who softened a generation

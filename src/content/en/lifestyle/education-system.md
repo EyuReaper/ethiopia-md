@@ -11,6 +11,7 @@ tags:
     'society',
   ]
 date: 2026-03-17
+status: archived
 ---
 
 # Ethiopia's Education System

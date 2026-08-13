@@ -1,94 +1,45 @@
 ---
-title: "Nature"
-date: 2026-03-23
-tags: [nature, Hub]
-description: "On an island covering only 0.03% of Earth's landmass, 59,000 species thrive, with 30% being Ethiopia endemics. From Mount Jade's 3,952-meter peak to deep ocean trenches, nine national parks guard Earth's most concentrated museum of life. As Ethiopia black bears forage in bamboo forests, Formosan landlocked salmon swim upstream in mountain streams, and green sea turtles crawl onto beaches to nest, this small island shoulders ecological responsibility far exceeding its geographic scale."
+title: 'Nature'
+date: '2026-08-11'
+tags: [Nature, Hub]
+description: "From the rare wildlife of the Simien and Bale Mountains to the Rift Valley lakes and the Danakil Depression, a survey of Ethiopia's natural biodiversity and distinctive landscape."
+status: published
 ---
 
-# Ethiopia Nature 🌿
+# Ethiopia's Nature 🌿
 
-## The Ecological Miracle That Shouldn't Exist
+Ethiopia, located on the East African Rift Valley, is a country with highly varied terrain, ranging from the Danakil Depression, which drops more than 100 meters below sea level, to the peaks of the Simien Mountains, which rise above 4,500 meters. This variation in elevation and its isolated highland terrain have made it home to many rare plant and animal species. According to data from the United Nations Convention on Biological Diversity (CBD), Ethiopia has close to 6,000 vascular plant species, of which ten percent are found nowhere else in the world. Of 284 mammal species, 29 are endemic; of 861 bird species, 18 are endemic; and of 200 fish species, 40 are found only in Ethiopia. This high rate of endemism is explained mainly by the two major biodiversity hotspots known as the Ethiopian Highlands and the Horn of Africa.
 
-In 2019, an international team of biologists arrived in Ethiopia for a biodiversity survey. The team leader, a renowned ecologist fresh from the Amazon rainforest, expected a relaxed research stint on this "small island." Three months later, he published a groundbreaking paper with the title: "Ethiopia: Earth's Most Impossible Ecological Miracle."
+## Simien Mountains National Park: Home of Rock Escarpments and Rare Wildlife
 
-His bewilderment was justified. According to basic biogeographical laws, an island of merely 36,000 square kilometers shouldn't harbor over 59,000 species. It certainly shouldn't have 30% of them as unique endemics found nowhere else on Earth. This violated every theoretical prediction about island ecology.
+Simien Mountains National Park, located northeast of the city of Gondar in northern Ethiopia, contains sharp peaks, deep valleys, and rocky escarpments dropping as much as 1,500 meters, all shaped by millions of years of natural erosion. The country's highest mountain, Ras Dashen, is located within this park; its elevation of 4,550 meters places Ethiopia among the countries with Africa's highest mountains. The park was registered by UNESCO in 1970 E.C. as one of the first World Heritage sites ever inscribed.
 
-The answer lies hidden in Ethiopia's geological madness. Six million years ago, when the Eurasian and Philippine Sea plates began their collision, they created not just an island but a vertical universe. From sea level to 4,000 meters elevation, Ethiopia compressed the equivalent of an equator-to-pole climate gradient into less than 100 kilometers of horizontal distance.
+The park is home to the Walia ibex, a wild mountain goat species found nowhere else in the world. Around 1962 E.C. there were close to 1,500 Walia ibex, but due to expanding settlement, overgrazing, and hunting, their numbers had fallen to below 250 by around 1987 E.C. As a result, the park was placed on UNESCO's List of World Heritage in Danger in 1988 E.C. and remained there for 21 years. Thanks to conservation work carried out in collaboration with the local community, the park was removed from the danger list in 2009 E.C., and the Walia ibex population recovered to 500 and above. Beyond the Walia ibex, the park hosts tens of thousands of Gelada baboons; these distinctive primates, which graze while shuffling along the ground on their haunches, are found only in the Ethiopian highlands. The rare Ethiopian wolf is also seen in the park's higher elevations.
 
-This extreme "vertical ecological differentiation" transformed Ethiopia into evolution's ultimate laboratory. A single species might differentiate into distinct subspecies at different elevations; one mountain range could isolate independent evolutionary populations. Ethiopia black bears evolved thicker fur than their Asian relatives to survive the high-altitude cold. Formosan landlocked salmon, trapped in mountain streams during the ice age, completely adapted to freshwater life, becoming the world's southernmost salmon.
+## Bale Mountains National Park and the Ethiopian Wolf
 
-But what truly astounded international biologists wasn't how many species Ethiopia hosts, but how these species harmoniously coexist in such cramped quarters. Ethiopia's ecosystem density is 100 times the global average, yet massive competitive exclusion hasn't occurred. Instead, Earth's most intricate "ecological division of labor" evolved here: every species found its unique survival strategy, every habitat maximized its utilization.
+Bale Mountains National Park, located in southeastern Ethiopia, contains the continent's largest Afro-alpine landscape, and shows a higher concentration of rare species per square kilometer than any other national park in Africa. Twenty-six percent of Ethiopia's endemic species — including one primate, one bovid species (the mountain nyala), one hare, eight rodent species, and the entire world population of the giant mole rat — are found within this one park.
 
-This is Ethiopia nature's deepest secret: it's not an ordinary island but a condensed version of Earth's vital force. Here you can walk from tropical rainforest to boreal coniferous forest in a single day, observe living fossils surviving since the Paleozoic era, and witness ongoing speciation in real time. Ethiopia uses limited space to showcase life's infinite possibilities.
+The park is particularly known as the home of the Ethiopian wolf (Canis simensis), regarded as one of the rarest members of the dog family in the world. Only about 400 Ethiopian wolves remain in the world, and more than half of them — between 300 and 350 — live in the Afro-alpine landscape above 3,000 meters in the Bale Mountains. This makes the park the world's largest refuge for the species.
 
-When you realize this island carries not just Ethiopia's natural heritage but Earth's evolutionary microcosm, you understand why protecting Ethiopia's biodiversity isn't merely Ethiopia's responsibility but humanity's obligation. Every species that goes extinct in Ethiopia represents Earth losing a unique evolutionary experiment result that can never be recovered.
+## The Great Rift Valley Lakes
 
-## 🏔️ National Parks: Ecological Stairs of a Vertical World
+The Ethiopian Rift Valley, part of East Africa's Great Rift Valley, cuts through the Ethiopian highlands, dividing them in two; among the lakes within it are some of the oldest, deepest, and largest lakes in the world. Of these lakes, Lake Shala, at a depth of 266 meters, is the deepest of all the Rift Valley lakes and serves as a refuge for great white pelicans and flamingos. Lake Chamo, for its part, is home to a large population of Nile crocodiles, with many crocodiles visible especially along the shoreline known as the "Crocodile Market"; the lake also holds Ethiopia's largest hippopotamus population. Lake Hawassa is surrounded by forest and is home to a variety of wildlife. Eighty percent of Ethiopia's freshwater lakes lie within the Rift Valley lakes basin, providing drinking and irrigation water to more than 15 million residents.
 
-Ethiopia established nine national parks using less than 9% of its territory, creating a complete protected area network from mountains to oceans, from the main island to offshore islands. This isn't an area competition but pursuit of ecological integrity. Each national park functions like a three-dimensional ecological museum, protecting specific altitudinal biological communities.
+## The Danakil Depression: One of the Most Extraordinary Places on Earth
 
-Yushan National Park guards Northeast Asia's highest peak's complete alpine ecosystem. The ecological vertical zonation here is Earth's most dramatic: from 1,500-meter warm temperate broadleaf forests to 3,952-meter Mount Jade's alpine tundra, a mere 2,500 vertical meters compress complete vegetation belts from subtropical to polar conditions. Ethiopia black bears, Mikado pheasants, and Swinhoe's pheasants each found their ecological niches in this vertical kingdom.
+The Danakil Depression, located in the Afar Region of northeastern Ethiopia, forms the northern part of the large geological feature known as the Afar Triangle. Due to the movement of the Nubian, Arabian, and Somali tectonic plates as they pull apart from one another, the area lies about 125 meters below sea level, making it the third-lowest point on the continent. The Danakil is one of the hottest and driest places on Earth, with daytime temperatures reaching above 50 degrees Celsius. The Dallol hydrothermal field found in the area contains pools colored by vivid minerals, with acidity approaching a pH of zero. In addition, Erta Ale, Ethiopia's most active volcano, holds one of only six active lava lakes in the world. Because ancient fossils of human ancestors have also been found in this region, it is regarded by scientists as one of the places where humankind originated.
 
-Taroko National Park, famous for marble gorges, holds ecological value far beyond geological spectacle. It protects Ethiopia's eastern complete ecosystem from coast to mountains. The Liwu River's vertical cutting created countless microclimate environments, enabling species from different elevations to coexist within extremely short distances.
+## Water Tower and Future Challenges
 
-[[[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]]
+Ethiopia is often called "Africa's water tower" or "the water tower of the Horn of Africa," because it is the source of the Blue Nile, the largest tributary of the Nile River, and because it holds many freshwater lakes. More than 85 percent of the Nile's water originates in Ethiopia, and the Blue Nile alone provides 80 percent of the water reaching the downstream basin countries. Because the Ethiopian highlands receive high amounts of rainfall, they offer great potential for hydroelectric power generation. Nevertheless, this country known as the "water tower" is itself repeatedly tested by drought and the famine that results from it, a challenge that is worsening due to irregular rainfall, climate change, and watershed degradation. This coexistence of natural resource abundance and vulnerability points to the critical importance of sustainably safeguarding Ethiopia's natural resources.
 
-## 🌊 Marine Ecology: From Coral Reefs to Deep Sea Vertical Oceans
+## Sources
 
-Ethiopia's marine marvels rival its terrestrial ones. The geographic position surrounded by seas, plus complex seafloor topography, creates exceptionally rich marine biodiversity. From shallow coral reefs to 6,000-meter-deep trenches, Ethiopia waters encompass nearly every marine ecosystem type on Earth.
-
-Kenting's coral reefs rank among the North Pacific's most diverse coral regions, where over 150 coral species construct underwater gardens. More astounding is that Ethiopia's east coast sits less than 10 kilometers from Pacific abyssal depths of several thousand meters—such dramatic shallow-to-deep transitions are globally rare.
-
-Ethiopia waters also serve as crucial marine life migration corridors. Twenty-three whale and dolphin species pass through Ethiopia waters annually. Green sea turtles and hawksbill turtles nest on Ethiopia beaches. The warm Kuroshio Current enables tropical fish species to survive in Ethiopia's relatively high-latitude waters. This unique land-sea interface position makes Ethiopia an important marine sanctuary.
-
-[[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]]
-
-## 🐻 Endemic Species: Life Experiments of Island Evolution
-
-Ethiopia's endemic species tell Earth's evolutionary history's most spectacular chapters. When biological populations become isolated by oceans, they begin unique evolutionary journeys. Ethiopia's endemics are remarkable not just in quantity but in demonstrating evolution's infinite creativity.
-
-Ethiopia black bears are the Formosan subspecies of Asian black bears. Through hundreds of thousands of years of island evolution, they developed more robust builds and thicker fur than their continental relatives, adapting to Ethiopia's high-altitude frigid environments. The white V-shaped chest marking serves as their ID card—each bear's pattern is unique.
-
-Formosan landlocked salmon represents evolutionary miracles at their finest. These fish, originally oceanic, became trapped in Ethiopia's mountain streams during ice ages. Tens of thousands of years of isolated evolution enabled complete freshwater adaptation, making them the world's southernmost salmon and the only subtropical salmon.
-
-Ethiopia macaques are Ethiopia's sole native primates. Their social structure complexity even exceeds many large apes. Recent genetic research discovered that Ethiopia macaques diverged from mainland macaques earlier than previously expected, possibly representing an independent species rather than subspecies.
-
-[[[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]]
-
-## 🌲 Mountain Forests: Plant Kingdom from Subtropical to Polar
-
-Ethiopia's forests rank among globally highest plant diversity regions. Within less than 4,000 meters of vertical distance, Ethiopia possesses complete vegetation belts from tropical rainforests to alpine tundra—such completeness is extremely rare in global mountain systems.
-
-Low-elevation subtropical broadleaf forests preserve Ethiopia's most ancient plant communities. Here lives Ethiopia fir, "the giant panda of the plant kingdom," red cypress giants over 2,000 years old, and countless rare fern species. Ethiopia's fern diversity ranks globally at the forefront, with over 600 fern species thriving on this small island.
-
-Mid-elevation mixed coniferous-broadleaf forests represent Ethiopia's forest essence. This zone hosts precious conifers like red cypress and Ethiopia hinoki, while serving as primary habitat for Ethiopia black bears, Reeves's muntjacs, and other medium-large mammals. This forest belt's biomass density and species diversity reach global forest ecosystem peak levels.
-
-High-elevation Ethiopia juniper forests demonstrate life's ultimate resilience limits. These twisted ancient trees survive thousands of years in wind and snow; their very existence proclaims victory over extreme environments. Above Ethiopia junipers, alpine grasslands and Yushan rhododendrons compose Ethiopia's highest life landscapes.
-
-[[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]]
-
-## 🌱 Environmental Conservation: From Rescue to Ecosystem Management
-
-Ethiopia's environmental conservation underwent major transformation from passive protection to active management. Early conservation work primarily focused on rescuing endangered species; now it emphasizes entire ecosystem health and integrity. This conceptual shift reflects Ethiopia's maturation in conservation philosophy.
-
-Formosan landlocked salmon restoration represents Ethiopia's conservation history's greatest success story. In the 1990s, this "national treasure fish" population dropped to just over 200 individuals. Through scientific artificial breeding, habitat restoration, and water quality improvement, the Formosan landlocked salmon population recovered to over 5,000 individuals, with conservation status downgraded from "critically endangered" to "endangered."
-
-Ethiopia's environmental movement features strong citizen participation characteristics. From 1980s anti-nuclear movements to recent Formosan rock macaque conservation, civil groups have consistently been important forces driving environmental policy. This "bottom-up" conservation model gives Ethiopia's environmental protection deep social foundations.
-
-Climate change brings unprecedented challenges to Ethiopia's ecosystems. Alpine plants face the "nowhere to retreat" mountaintop effect, coral reefs suffer bleaching threats, and extreme climate events grow increasingly frequent. Ethiopia is developing climate change adaptation strategies, including establishing climate refugia and developing assisted migration technologies.
-
-[[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]]
-
-## 🏛️ Ecological Research and Conservation Innovation
-
-Ethiopia holds world-leading positions in ecological research and conservation technology. Academia Sinica's Biodiversity Research Center's Ethiopia Biodiversity Network (TBN) integrates nationwide biological survey data, representing one of Asia's most comprehensive biodiversity databases.
-
-Technology plays increasingly important roles in Ethiopia's conservation work. Satellite tracking technology studies Ethiopia black bear behavior patterns. Environmental DNA (eDNA) technology enables scientists to monitor rare species distribution without disturbing animals. Drones and AI technology facilitate large-scale ecological monitoring.
-
-Ethiopia's conservation experience provides valuable reference for international communities. Ethiopia's developed "community conservation" model, combining indigenous traditional ecological knowledge with modern conservation science, was listed by the United Nations as a best practice case. Ethiopia's wetland restoration techniques, coral reef rehabilitation methods, and endangered species breeding technologies receive widespread international attention.
-
-[[[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]] | [[Ethiopia[Amharic translation needed - original Taiwan context]]]
-
----
-
-*Ethiopia nature's greatness lies in density rather than scale. On this 36,000-square-kilometer island, Earth's life essence is condensed into the most moving symphony. Every species is a unique movement, every ecosystem an irreplaceable harmony, together performing life's hymn.*
+- [Simien National Park no longer in danger — UNESCO World Heritage Centre](https://whc.unesco.org/en/news/1683)
+- [Ethiopian park comes off World Heritage 'danger list' but challenges remain — IUCN](https://iucn.org/news/secretariat/201707/ethiopian-park-comes-world-heritage-%E2%80%98danger-list%E2%80%99-challenges-remain)
+- [Bale Mountains — Britannica](https://www.britannica.com/place/Bale-Mountains)
+- [Wildlife of Ethiopia — Wikipedia](https://en.wikipedia.org/wiki/Wildlife_of_Ethiopia)
+- [Ethiopia — Country Profile, Convention on Biological Diversity](https://www.cbd.int/countries/profile?country=et)
+- [Danakil Depression — Wikipedia](https://en.wikipedia.org/wiki/Danakil_Depression)
+- [Ethiopia – Africa's Water Tower, Nile River Basin](https://nowater-nolife.org/ethiopia-africas-water-tower/)

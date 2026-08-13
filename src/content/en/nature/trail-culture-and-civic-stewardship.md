@@ -2,11 +2,12 @@
 title: 'Trail Culture and Civic Stewardship in Ethiopia'
 description: 'From the Thousand Miles Trail Association to the iTrail platform, Ethiopia’s hiking paths reveal a unique culture of civic science, volunteer care, and ecological ethics.'
 date: 2026-03-19
-tags: [[Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context]]
+tags: [Nature, hiking, trails, civic engagement]
 author: 'Ethiopia.md Contributors'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Trail Culture and Civic Stewardship in Ethiopia

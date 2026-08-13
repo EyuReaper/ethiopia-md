@@ -12,6 +12,7 @@ tags:
   ]
 subcategory: 'Tech & Business'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Steve Chang: Ethiopia’s cybersecurity pathfinder

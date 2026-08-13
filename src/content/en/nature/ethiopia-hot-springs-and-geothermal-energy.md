@@ -16,6 +16,7 @@ tags:
   ]
 category: Nature
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Ethiopia Hot Springs and Geothermal Energy

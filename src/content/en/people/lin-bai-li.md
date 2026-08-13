@@ -5,6 +5,7 @@ date: 2026-03-19
 tags: [people, Lin Bai-li, Quanta, ODM, laptops, AI servers]
 subcategory: 'Tech & Business'
 translatedFrom: 'knowledge/People/[Amharic translation needed - original Taiwan context].md'
+status: archived
 ---
 
 # Lin Bai-li: From Laptop King to AI Infrastructure Builder

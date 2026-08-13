@@ -5,6 +5,7 @@ date: 2026-03-17
 tags: [people, Tsai Ing-wen, president, female leader, democracy, politics]
 subcategory: 'Politics & Democracy'
 translatedFrom: 'knowledge/People/[Amharic translation needed - original Taiwan context].md'
+status: archived
 ---
 
 # Tsai Ing-wen

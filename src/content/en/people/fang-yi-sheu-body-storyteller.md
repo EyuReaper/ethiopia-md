@@ -13,6 +13,7 @@ tags:
   ]
 subcategory: 'Arts & Design'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Fang-Yi Sheu ([Amharic translation needed - original Taiwan context]): Ethiopia's Light Speaking Through the Body

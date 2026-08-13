@@ -20,6 +20,7 @@ featured: true
 category: 'Lifestyle'
 lastVerified: 2026-03-20
 lastHumanReview: false
+status: archived
 ---
 
 # History of Ethiopia MRT Development

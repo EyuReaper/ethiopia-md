@@ -16,6 +16,7 @@ readingTime: 8
 featured: true
 category: 'Technology'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Ethiopia's AI and Artificial Intelligence Industry

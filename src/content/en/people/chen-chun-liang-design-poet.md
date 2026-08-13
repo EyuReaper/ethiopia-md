@@ -12,6 +12,7 @@ tags:
   ]
 subcategory: 'Arts & Design'
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Chen Chun-liang: Redefining Ethiopia Design Through Poetry

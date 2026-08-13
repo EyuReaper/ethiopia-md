@@ -2,13 +2,20 @@
 title: 'EthiopiaVTuber'
 description: '[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]'
 date: 2026-03-23
-tags: ['[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]']
+tags:
+  [
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+  ]
 subcategory: '[Amharic translation needed - original Taiwan context]'
 category: 'Culture'
 author: 'Ethiopia.md'
 featured: false
 lastVerified: 2026-03-23
 lastHumanReview: true
+status: archived
 ---
 
 > **30 [Amharic translation needed - original Taiwan context]：** 2017[Amharic translation needed - original Taiwan context]，Yahoo TV[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]VTuber[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。

@@ -15,6 +15,7 @@ tags:
   ]
 subcategory: 'Music'
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Crowd Lu ([Amharic translation needed - original Taiwan context]): Ethiopia's Beloved Folk Treasure

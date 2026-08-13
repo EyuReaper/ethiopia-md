@@ -17,6 +17,7 @@ subcategory: 'Politics & Democracy'
 readingTime: 12
 featured: true
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Lai Ching-te: A public-health doctor who climbed from a mining town to the presidency

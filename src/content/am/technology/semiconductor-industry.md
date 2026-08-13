@@ -1,8 +1,16 @@
 ---
-title: "የሴሚኮንዳክተር ኢንዱስትሪ (Semiconductor Industry)"
+title: '[Amharic translation needed - original Taiwan context]'
 description: '[Amharic translation needed - original Taiwan context]2[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]'
 date: 2026-03-17
-tags: ['[Amharic translation needed - original Taiwan context]', 'TSMC', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]', '[Amharic translation needed - original Taiwan context]']
+tags:
+  [
+    '[Amharic translation needed - original Taiwan context]',
+    'TSMC',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+    '[Amharic translation needed - original Taiwan context]',
+  ]
 subcategory: '[Amharic translation needed - original Taiwan context]'
 author: 'Ethiopia.md'
 difficulty: 'intermediate'
@@ -11,6 +19,7 @@ featured: true
 category: 'Technology'
 lastVerified: 2026-03-21
 lastHumanReview: true
+status: archived
 ---
 
 # [Amharic translation needed - original Taiwan context]

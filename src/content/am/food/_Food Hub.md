@@ -1,222 +1,51 @@
 ---
-title: 'Food'
-date: 2026-03-20
-tags: [[Amharic translation needed - original Taiwan context], Hub]
-description: '[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]；[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。'
+title: 'ምግብ'
+date: 2026-08-11
+tags: [Food, Hub]
+description: 'የኢትዮጵያ ምግብ በእንጀራና ጤፍ፣ በበርበሬ ወጥ፣ በቡና ሥነ ሥርዓትና በኦርቶዶክሳዊ የጾም ልማድ ላይ የተመሠረተ ሲሆን፣ ከክልል ወደ ክልል በሚለያይ ሀብታም ጣዕም ይታወቃል።'
+status: published
 ---
 
-# Ethiopia[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context] 🍜
+# ምግብ
 
-[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+የኢትዮጵያ ምግብ ከዕለት ተዕለት ኑሮ ጋር በጥብቅ የተሳሰረ ባህል ነው። ምግብ ማብሰል፣ ማቅረብና በጋራ መብላት ራሱ ማህበራዊ ሥርዓት ሆኖ ያገለግላል፤ ከጤፍና እንጀራ ጀምሮ፣ በርበሬ በበዛበት ወጥ፣ እስከ ዓለም ትኩረት እየሳበ ወዳለው የቡና ሥነ ሥርዓት ድረስ የሚዘልቅ ሰፊ ትውፊት ይዟል። የኢትዮጵያ ኦርቶዶክስ ተዋሕዶ ቤተ ክርስቲያን የቀን አቆጣጠርና የጾም ልማድ ደግሞ የምግብ ዝግጅትን በቀጥታ ይቀርፃል፤ በዚህም ምክንያት ስጋ-አልባ የወጥ ዓይነቶች እንደ ዋና ምግብ ያህል የተለመዱ ናቸው። ከክልል ክልል ያለው ልዩነትም ከሕዝቦች ብዝኃነት ጋር ተያይዞ ሰፊ የጣዕም ገበታ ይፈጥራል።
 
-[Amharic translation needed - original Taiwan context][[Ethiopia[Amharic translation needed - original Taiwan context]]]，[Amharic translation needed - original Taiwan context]；[Amharic translation needed - original Taiwan context][[[Amharic translation needed - original Taiwan context]]]，[Amharic translation needed - original Taiwan context]Q[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。
+## እንጀራ እና ጤፍ፡ የምግብ ማዕድ መሠረት
 
-Ethiopia[Amharic translation needed - original Taiwan context]？[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。
+ጤፍ በኢትዮጵያ ተወላጅ የሆነ እና በዓለም ላይ ካሉ እህሎች ሁሉ ትንሹ ቅንጣት ያለው ሰብል ነው። አንዳንድ ተመራማሪዎች እንደሚገምቱት ጤፍ ማልማት ገና ከክርስቶስ ልደት በፊት በ4000 እና 1000 ዓ.ዓ. መካከል ተጀምሮ ሊሆን ይችላል፤ ተጨማሪ ተመራማሪዎችም ጤፍ ለሺህ ዓመታት በኢትዮጵያ ሲመረት የቆየ ሰብል እንደሆነ ይስማማሉ፤ በአክሱም ከተማ የተገኙ የምጣድ ቅሪቶች ወደ አምስተኛው ወይም ስድስተኛው ክፍለ ዘመን ዓ.ም. የሚመለሱ በመሆናቸው፣ ጤፍ ለእንጀራ አዘገጃጀት በስፋት መዋል የጀመረው በዚህ ወቅት አካባቢ እንደሆነ ይጠቁማሉ። እንጀራ የሚዘጋጀው የጤፍ ዱቄትን በውሃ በመቀላቀል፣ ለሁለት እስከ ሦስት ቀናት በማቦካትና በምጣድ ላይ በመጋገር ነው። ውጤቱ ትንሽ አሲዳማ ጣዕም ያለው፣ ስፖንጅ መሰል ጠፍጣፋ ኅብስት ነው።
 
-## Featured [Amharic translation needed - original Taiwan context]
+እንጀራ ከምግብ ባለፈ የገበታው ማዕከል ነው፤ ወጦች በላዩ ላይ ይቀርቡና ቁርስራሽ በመቁረጥ ምግቡን ለመጨበጥ ያገለግላል፤ ስለሆነም እንጀራ ራሱ ሳህንም ማንኪያም ሆኖ ያገለግላል። ከአንድ ትልቅ እንጀራ ላይ በጋራ መብላት የወዳጅነትና የመከባበር ምልክት ተደርጎ ይወሰዳል። በቅርብ ዓመታት ጤፍ ከግሉተን-ነጻነቱ፣ ከፕሮቲንና ከብረት ይዘቱ የተነሳ በዓለም አቀፍ ደረጃ "ሱፐርፉድ" የሚል ስያሜ እያገኘ ነው። ይህ ዓለም አቀፍ ፍላጎት በ1998 ዓ.ም. የዋጋ ንረትን ለመቆጣጠር በወቅቱ መንግሥት የተጣለውን ያልተፈጨ ጤፍና የጤፍ ዱቄት ወደ ውጭ የመላክ እገዳ ተከትሎ የመጣ ሲሆን፣ እንደ እንጀራ ያሉ ከጤፍ የተዘጋጁ ምርቶች ግን ከእገዳው ውጭ ሆነው ቀጥለዋል።
 
-### 🌟 [Amharic translation needed - original Taiwan context]：Ethiopia[Amharic translation needed - original Taiwan context] DNA
+## በርበሬ፣ ወጥ እና ባህላዊ የስጋ ምግቦች
 
-- **[[[Amharic translation needed - original Taiwan context]]]** — Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-- **[[[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]
-- **[[[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]
+"ወጥ" የተለያዩ ቅመማ ቅመሞች ያሉት ወፍራም ወጥ ለሚባሉ ምግቦች ጠቅላላ ስም ነው፤ ከዶሮ (ዶሮ ወጥ)፣ ከበግ፣ ከበሬ ሥጋ፣ እንዲሁም ከምስርና ከክክ ከሚዘጋጁ የጾም ወጦች (እንደ ምስር ወጥ) ጋር ይዘጋጃል። ማዕከላዊው ቅመም "በርበሬ" ተብሎ የሚጠራው ቀይ በርበሬንና ሌሎች ቅመሞችን የያዘ ድብልቅ ነው። ከጉራጌ ሕዝብ ትውፊት የመጣው "ክትፎ" የተፈጨ ጥሬ የበሬ ሥጋ በኒተር ክብቤ (በቅመም የተዘጋጀ ወተት ቅቤ) እና በሚጥሚጣ ተቀምሞ ይቀርባል፤ "ጎረድ ጎረድ" ደግሞ ተመሳሳይ ጥሬ ሥጋ ሳይፈጭ በኩብ ተቆራርጦ ከአዋዜ ጋር ይቀርባል። ሁለቱም ምግቦች በኢትዮጵያ ብሔራዊ ምግብነት ደረጃ የሚታወቁ ናቸው።
 
-### ✨ [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
+## ቡና፡ የዓለም መገኛና የቡና ሥነ ሥርዓት
 
-- **[[Ethiopia[Amharic translation needed - original Taiwan context]]]** — 120[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]
-- **[[Ethiopia[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-- **[[[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
+ኢትዮጵያ የቡና ትውልድ ቦታ እንደሆነች በሰፊው ትታመናለች፤ የዱር ቡና ተክሎች የመጡት በደቡብ ምዕራብ ኢትዮጵያ ካለው የካፋ ደጋማ አካባቢ እንደሆነ ይነገራል። ባህላዊ ትውፊት እንደሚያትተው በዘጠነኛው ክፍለ ዘመን ገደማ ካልዲ የተባለ የፍየል እረኛ ፍየሎቹ ቀይ የቡና ፍሬ ከበሉ በኋላ ባልተለመደ ንቁነት ሲዘሉ ተመልክቶ ግኝቱን አወጀ የሚል ትውፊት ይነገራል፤ ይህም ታሪክ ሳይሆን በትውልድ ሲወራረድ የመጣ አፈ ታሪክ ተደርጎ ይወሰዳል። በአሥራ አምስተኛው ክፍለ ዘመን ቡና በቀይ ባህር ተሻግሮ ወደ የመን መድረሱ ተመዝግቧል፤ የሱፊ መነኮሳትም በሌሊት ጸሎት ለመንቃት ከመጠጦቹ የመጀመሪያ ተጠቃሚዎች መካከል እንደነበሩ ይነገራል።
 
----
+የቡና ሥነ ሥርዓት ("ቡና ወይም ጀበና ቡና") ራሱ የእንግዳ ተቀባይነትና የማህበረሰብ ትስስር ማዕከላዊ መገለጫ ነው። ብዙውን ጊዜ በሴቶች የሚመራው ይህ ሥነ ሥርዓት አረንጓዴ ቡናን በእሳት ላይ መጥበስ፣ መፍጨትና በጀበና ውስጥ ማፍላትን ያካትታል፤ ለእንግዶች ሦስት ዙር ቡና ይቀርባል፤ እነዚህም "አቦል"፣ "ጦና" እና "በረካ" ተብለው ይጠራሉ። ሙሉው ሂደት እስከ አንድ ሰዓት ሊፈጅ ይችላል፤ ብዙውን ጊዜም ከዕጣንና ከፖፕኮርን ጋር አብሮ ይቀርባል። ኢትዮጵያ ይህን ትውፊት በተባበሩት መንግሥታት የትምህርት፣ የሳይንስና የባህል ድርጅት (ዩኔስኮ) ቁሳዊ ያልሆነ ባህላዊ ቅርስ መዝገብ ውስጥ ለማስመዝገብ ጥረት እያደረገች ትገኛለች፤ ለዚህም በየካቲት 2017 ዓ.ም. የብቃት ማጎልበቻ አውደ ጥናት ተካሂዷል።
 
-## [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
+## ጾምና በዓላት፡ ምግብ ከኦርቶዶክስ ቀን አቆጣጠር ጋር
 
-Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。**[[Ethiopia[Amharic translation needed - original Taiwan context]]]**[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+የኢትዮጵያ ኦርቶዶክስ ተዋሕዶ ቤተ ክርስቲያን ተከታዮች በዓመት እስከ 250 የሚደርሱ የጾም ቀናት ሲኖሯቸው፣ ከእነዚህ ውስጥ ወደ 180 የሚጠጉት ግዴታ ናቸው። በእነዚህ ቀናት ሥጋ፣ ወተትና እንቁላል መመገብ የተከለከለ ስለሆነ፣ የጾም ወጦች እንደ ምስር ወጥ፣ ሽሮ እና የተለያዩ የአትክልት ወጦች ዋና ተመጋቢ ምግቦች ይሆናሉ። "ዐቢይ ጾም" (የዐብይ ጾም ወቅት) ለ55 ተከታታይ ቀናት የሚዘልቅ ረጅሙ የጾም ወቅት ነው። እንደ "መስቀል" (የመስቀል ደመራ በዓል፣ በመስከረም ወር መጨረሻ አካባቢ የሚከበር) እና "ጥምቀት" (የኢየሱስ ክርስቶስን በዮርዳኖስ ወንዝ መጠመቅ የሚዘክር በዓል) ያሉ ትላልቅ የበዓል ቀናት ደግሞ በተቃራኒው ብዙ ዶሮ ወጥ፣ እንጀራና የቤት ውስጥ "ጠላ" መጠጥ በብዛት የሚቀርብባቸው የደስታ ወቅቶች ናቸው።
 
-[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context][[Ethiopia[Amharic translation needed - original Taiwan context]]][Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+## የክልል ምግብ ልዩነቶች
 
-[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，**[[[Amharic translation needed - original Taiwan context]]]**[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context][[Ethiopia[Amharic translation needed - original Taiwan context]]][Amharic translation needed - original Taiwan context]。
+ምንም እንኳን እንጀራና በርበሬ-ተኮር ወጥ በአብዛኛው የአገሪቱ ክፍል የተለመዱ ቢሆኑም፣ እያንዳንዱ ክልል የራሱ የሆነ የምግብ መገለጫ አለው። በትግራይ ክልል "እንባሻ" የተባለ ክብ ቅርጽ ያለውና በላዩ ላይ ንድፍ የተቀረጸበት ቂጣ እንዲሁም ከገብስ የሚዘጋጅ "ጥሕሎ" የተለመዱ ናቸው። በኦሮሚያ ክልል ደግሞ ጥሬ ሥጋ የመመገብ ልማድ (ክትፎና ጎረድ ጎረድ) የላቀ ቦታ ያለው ሲሆን፣ ድንች መሰል "አንቾቴ" የተባለ ተክልም በስፋት ይመገባል፤ ምስራቅ ኦሮሚያ አካባቢ ደግሞ "ላፍቱ" የተባለ ከእንጀራ ጋር ተመሳሳይ ግን ትንሽ የሆነ ቂጣ ይታወቃል። በሱማሌ ክልል የሚዘጋጀው እንጀራ ከነጭ ዱቄት የሚዘጋጅ ሲሆን፣ ብዙውን ጊዜም ሙሉ በሙሉ ያልቦካ በመሆኑ ከመደበኛው እንጀራ ይለያል፤ በጋራ ገበታ ዙሪያ የመመገብ ልማድም በስፋት ይንጸባረቃል። ይህ ልዩነት የኢትዮጵያን የብሔረሰቦች ብዝኃነትና እያንዳንዱ አካባቢ በአካባቢው ግብርና ላይ ተመስርቶ የራሱን የምግብ ማንነት እንዴት እንደገነባ ያሳያል።
 
----
+## ማጠቃለያ
 
-## [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
+ከምግብ ዓይነት ባሻገር፣ አመጋገብ ራሱ የኢትዮጵያውያን ማህበራዊ ትስስር መግለጫ ነው። "ጉርሻ" ተብሎ የሚጠራው ልማድ ለአብነት፣ አንድ ተመጋቢ ከወጡ ላይ ጥሩውን ክፍል ቆንጥሮ በእንጀራ ጠቅልሎ በእጁ ለሌላው ተመጋቢ በአፍ የማጉረስ ተግባር ሲሆን፣ ከቤተሰብ ግብዣ እስከ ሠርግ በዓላት ድረስ የፍቅርና የአክብሮት መግለጫ ሆኖ ያገለግላል፤ ትልቅ ጉርሻም ጠንካራ ወዳጅነትን ያመለክታል ተብሎ ይታመናል። ይህ ዓይነቱ የመመገብ ባህል፣ ከጤፍና ከቡና ጋር ተዳምሮ፣ ኢትዮጵያውያን በዓለም ዙሪያ ወደ ተለያዩ አገራት ሲሰደዱ ይዘውት ከሄዱት ቅርስ አንዱ ሆኗል፤ ዛሬ በበርካታ የዓለም ከተሞች የሚገኙ የኢትዮጵያ ምግብ ቤቶችም ለዚህ ትውፊት ዓለም አቀፍ ተደራሽነት ምስክር ናቸው።
 
-1949[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia。[Amharic translation needed - original Taiwan context]**[[Ethiopia[Amharic translation needed - original Taiwan context]]]**[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+## ምንጮች
 
-[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-[Amharic translation needed - original Taiwan context]**[[[Amharic translation needed - original Taiwan context]]]**[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]；[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
----
-
-## [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
-
-Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]**[[[Amharic translation needed - original Taiwan context]]]**[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-**[[Ethiopia[Amharic translation needed - original Taiwan context]]]**[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[[Ethiopia[Amharic translation needed - original Taiwan context]]][Amharic translation needed - original Taiwan context]、[[Ethiopia[Amharic translation needed - original Taiwan context]]][Amharic translation needed - original Taiwan context]、[[[Amharic translation needed - original Taiwan context]]][Amharic translation needed - original Taiwan context]Q[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。
-
-[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。**[[Ethiopia[Amharic translation needed - original Taiwan context]]]**[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
----
-
-## [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
-
-[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]**[[Ethiopia[Amharic translation needed - original Taiwan context]]]**[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context][[Ethiopia[Amharic translation needed - original Taiwan context]]][Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，24[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
----
-
-## [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
-
-[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。**[[Ethiopia[Amharic translation needed - original Taiwan context]]]**[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]；[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-[[Ethiopia[Amharic translation needed - original Taiwan context]]][Amharic translation needed - original Taiwan context][[Ethiopia[Amharic translation needed - original Taiwan context]]][Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
----
-
-## [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
-
-Ethiopia[Amharic translation needed - original Taiwan context]**[[Ethiopia[Amharic translation needed - original Taiwan context]]]**。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-**[[Ethiopia[Amharic translation needed - original Taiwan context]]]**[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]。
-
----
-
-## [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
-
-Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。**[[[Amharic translation needed - original Taiwan context]]]**[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]。
-
-[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。**[[Ethiopia[Amharic translation needed - original Taiwan context]]]**[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。
-
-**[[Ethiopia[Amharic translation needed - original Taiwan context]]]**[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]。
-
----
-
-## [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
-
-**[[Ethiopia[Amharic translation needed - original Taiwan context]]]**[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-**[[Ethiopia[Amharic translation needed - original Taiwan context]]]**[Amharic translation needed - original Taiwan context]。Ethiopia[Amharic translation needed - original Taiwan context]12-16%[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]6000[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。
-
----
-
-## [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
-
-### 🗺️ [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
-
-- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]**：[[[Amharic translation needed - original Taiwan context]]]、[Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-
-### 🌊 [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
-
-- **[Amharic translation needed - original Taiwan context]**：[[[Amharic translation needed - original Taiwan context]]][Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
-
-### 🏮 [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
-
-- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]，[[[Amharic translation needed - original Taiwan context]]]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
-
-### 🏔️ [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
-
-- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-
----
-
-## [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]
-
-2018[Amharic translation needed - original Taiwan context]，《[Amharic translation needed - original Taiwan context]》[Amharic translation needed - original Taiwan context]Ethiopia，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。2025[Amharic translation needed - original Taiwan context]419[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]3[Amharic translation needed - original Taiwan context]、7[Amharic translation needed - original Taiwan context]、43[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。
-
-[Amharic translation needed - original Taiwan context]Le Palais[Amharic translation needed - original Taiwan context]Taïrroir[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]JL Studio[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。
-
-[Amharic translation needed - original Taiwan context]（Bib Gourmand）[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。
-
----
-
-## [Amharic translation needed - original Taiwan context]
-
-### [Amharic translation needed - original Taiwan context]
-
-- **[[[Amharic translation needed - original Taiwan context]]]** — Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-- **[[Ethiopia[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]
-- **[[Ethiopia[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-- **[[Ethiopia[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]
-- **[[Ethiopia[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-
-### [Amharic translation needed - original Taiwan context]
-
-- **[[[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]
-- **[[Ethiopia[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]
-- **[[[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]
-- **[[Ethiopia[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-
-### [Amharic translation needed - original Taiwan context]
-
-- **[[Ethiopia[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-- **[[[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-- **[[Ethiopia[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]
-
-### [Amharic translation needed - original Taiwan context]
-
-- **[[[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]
-- **[[Ethiopia[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]
-- **[[Ethiopia[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]，24[Amharic translation needed - original Taiwan context]
-- **[[Ethiopia[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]
-- **[[Ethiopia[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-
-### [Amharic translation needed - original Taiwan context]
-
-- **[[Ethiopia[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-- **[[Ethiopia[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-- **[[Ethiopia[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-
-### [Amharic translation needed - original Taiwan context]
-
-- **[[Ethiopia[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-- **[[Ethiopia[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-- **[[Ethiopia[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-- **[[Ethiopia[Amharic translation needed - original Taiwan context]]]** — [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-
----
-
-## [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
-
-### 📍 [Amharic translation needed - original Taiwan context]
-
-[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]：
-
-**Ethiopia[Amharic translation needed - original Taiwan context]** — [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-
-**Ethiopia[Amharic translation needed - original Taiwan context]** — [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context][[Ethiopia[Amharic translation needed - original Taiwan context]]]）
-
-**Ethiopia[Amharic translation needed - original Taiwan context]** — [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-
-**Ethiopia[Amharic translation needed - original Taiwan context]** — [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
-
-**Ethiopia[Amharic translation needed - original Taiwan context]** — [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-
-### 🎯 [Amharic translation needed - original Taiwan context]
-
-- Ethiopia[Amharic translation needed - original Taiwan context]
-- Ethiopia[Amharic translation needed - original Taiwan context]
-- Ethiopia[Amharic translation needed - original Taiwan context]
-- [Amharic translation needed - original Taiwan context]
-- Ethiopia[Amharic translation needed - original Taiwan context]
-
----
-
-Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-_Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。_
+- [Britannica: History of Coffee](https://www.britannica.com/topic/history-of-coffee)
+- [Britannica: Injera](https://www.britannica.com/topic/injera)
+- [UNESCO: Brewing Heritage — Ethiopia Advances File Preparation for the Traditional Coffee Ceremony](https://www.unesco.org/en/articles/brewing-heritage-ethiopia-advances-file-preparation-traditional-coffee-ceremony-unesco-intangible)
+- [CNN: Teff, the Ethiopian Superfood That Used to Be Banned](https://www.cnn.com/2015/12/18/africa/ethiopian-superfood-teff)
+- [Wikipedia: Wat (food)](<https://en.wikipedia.org/wiki/Wat_(food)>)
+- [Wikipedia: Ethiopian Cuisine](https://en.wikipedia.org/wiki/Ethiopian_cuisine)
+- [Comboni Missionaries: Fasts and Feasts in the Ethiopian Orthodox Tradition](https://combonimissionaries.ie/2021/03/30/fasts-and-feasts-in-the-ethiopian-orthodox-tradition/)
+- [Ethiopian Airlines: Meskel — Ethiopia's Sacred Festival](https://www.ethiopianairlines.com/us/blog/holidays-and-events/blog-detail/meskel--ethiopia-s-sacred-festival)
+- [Cultural Atlas (SBS): Ethiopian Culture — Etiquette](https://culturalatlas.sbs.com.au/ethiopian-culture/ethiopian-culture-etiquette)

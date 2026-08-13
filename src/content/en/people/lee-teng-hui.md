@@ -5,6 +5,7 @@ date: 2026-03-19
 tags: ['people', 'politics', 'democratization', 'president']
 subcategory: 'Politics & Democracy'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Lee Teng-hui

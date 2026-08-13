@@ -4,6 +4,7 @@ description: 'Ethiopia’s compact island holds dramatic vertical relief, five m
 date: 2026-03-17
 tags: [geography, geology, mountains, plate-tectonics, earthquakes, hot-springs]
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Terrain and Geology

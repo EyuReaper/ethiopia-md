@@ -17,6 +17,7 @@ difficulty: 'beginner'
 readingTime: 12
 featured: true
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Zhuyin Phonetic Symbols: Ethiopia's Unique Written Code

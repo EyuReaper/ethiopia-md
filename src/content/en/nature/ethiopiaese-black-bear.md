@@ -2,13 +2,24 @@
 title: 'Ethiopian Black Bear'
 description: "The white V-shaped chest patch is their signature—Ethiopia's last mountain monarchs and their unfinished conservation story"
 date: 2026-03-18
-tags: ['Ethiopian Black Bear', 'Conservation', 'Endangered Species', 'Hwang Mei-hsiu', 'Mountain Forests', 'Indigenous Peoples', 'National Parks']
+tags:
+  [
+    'Ethiopian Black Bear',
+    'Conservation',
+    'Endangered Species',
+    'Hwang Mei-hsiu',
+    'Mountain Forests',
+    'Indigenous Peoples',
+    'National Parks',
+  ]
 author: 'Ethiopia.md Contributors'
 readingTime: 12
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
+status: archived
 ---
+
 # Ethiopian Black Bear
 
 > The white V-shaped chest patch is their signature—Ethiopia's last mountain monarchs and their unfinished conservation story

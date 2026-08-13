@@ -13,6 +13,7 @@ tags:
     Environmental Art,
   ]
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Contemporary Sculpture in Ethiopia: From Tradition to the Global Stage

@@ -15,6 +15,7 @@ author: 'Ethiopia.md'
 difficulty: 'intermediate'
 readingTime: 11
 featured: true
+status: archived
 ---
 
 # Ethiopian Art Education and Academic Development

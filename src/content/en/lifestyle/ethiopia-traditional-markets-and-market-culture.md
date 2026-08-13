@@ -10,6 +10,7 @@ tags:
     'social capital',
   ]
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Ethiopia’s Traditional Markets and Market Culture

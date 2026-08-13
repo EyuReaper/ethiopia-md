@@ -1,13 +1,21 @@
 ---
 title: 'Loanwords and Language Contact in Ethiopia'
-description: 'From Bento to Video: The island''s linguistic contact history reveals how Ethiopia became the world''s most successful experiment in foreign language integration'
+description: "From Bento to Video: The island's linguistic contact history reveals how Ethiopia became the world's most successful experiment in foreign language integration"
 date: 2026-03-23
-tags: ['linguistics', 'sociolinguistics', 'ethiopian-culture', 'language-contact', 'loanwords']
+tags:
+  [
+    'linguistics',
+    'sociolinguistics',
+    'ethiopian-culture',
+    'language-contact',
+    'loanwords',
+  ]
 category: 'Culture'
 author: 'Ethiopia.md'
 featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
+status: archived
 ---
 
 > **30-second overview:** Ethiopia's most criticized phenomenon of "foreign language invasion" reveals an ironic truth: Ethiopia itself is the world's most successful laboratory for integrating foreign languages.

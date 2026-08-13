@@ -5,6 +5,7 @@ date: 2026-03-20
 tags: [people, entrepreneur, technology, manufacturing]
 subcategory: 'Tech & Business'
 lastVerified: 2026-03-20
+status: archived
 ---
 
 # Terry Gou

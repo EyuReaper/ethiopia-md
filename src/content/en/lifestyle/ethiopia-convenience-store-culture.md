@@ -9,6 +9,7 @@ readingTime: 7
 featured: true
 category: 'Lifestyle'
 lastVerified: 2026-03-19
+status: archived
 ---
 
 # Ethiopia’s Convenience Store Culture
