@@ -1,8 +1,8 @@
 ---
 import Layout from '../../layouts/Layout.astro';
-import { getCollection } from 'astro:content';
 import { readdir, readFile } from 'fs/promises';
 import { resolve, join } from 'path';
+import matter from 'gray-matter';
 
 const categories = [
   'history',
@@ -49,76 +49,90 @@ const categoryNames: Record<string, string> = {
   lifestyle: '🏠 Lifestyle',
 };
 
+const categoryMapping: Record<string, string> = {
+  history: 'History',
+  geography: 'Geography',
+  culture: 'Culture',
+  food: 'Food',
+  art: 'Art',
+  music: 'Music',
+  technology: 'Technology',
+  nature: 'Nature',
+  people: 'People',
+  society: 'Society',
+  economy: 'Economy',
+  lifestyle: 'Lifestyle',
+};
+
 // Build nodes and edges
 const nodes: any[] = [];
 const edges: any[] = [];
 const tagMap: Record<string, string[]> = {};
 
-// Pre-fetch all collections
-let allZhArticles: any[] = [];
-let allEnArticles: any[] = [];
-try {
-  allZhArticles = await getCollection('am');
-} catch (e) {
-  console.log('am collection error:', e);
-}
-try {
-  allEnArticles = await getCollection('en');
-} catch (e) {
-  console.log('en collection error:', e);
+// Read straight from the knowledge/ SSOT (not src/content/, which is a
+// synced mirror that scripts/core/sync.sh only ever adds to and never
+// prunes — reading it directly would surface stale orphaned files that no
+// longer exist in knowledge/, on top of not knowing about `status` at all).
+// Many archived/corrupted files have malformed YAML (unescaped commas or
+// brackets from the placeholder-corruption text) that gray-matter can't
+// parse at all. Falling back to `{}` on a parse error would make `status`
+// undefined — i.e. NOT 'archived', so the file would silently bypass the
+// filter below. Returning null instead lets the caller skip it outright.
+const safeMatter = (fileContent: string) => {
+  try {
+    return matter(fileContent);
+  } catch {
+    return null;
+  }
+};
+
+// Some archived files have unquoted `title: [placeholder text]` in YAML,
+// which parses as a one-element array rather than a string.
+function coerceTitle(value: unknown, fallback: string): string {
+  if (typeof value === 'string' && value.trim()) return value;
+  if (Array.isArray(value) && value.length) return String(value[0]);
+  return fallback;
 }
 
-// Fallback: scan filesystem if collections are empty
-if (allZhArticles.length === 0) {
+async function loadCategoryArticles(lang: 'am' | 'en', cat: string) {
+  const folder = categoryMapping[cat];
+  const dir = resolve(
+    process.cwd(),
+    'knowledge',
+    ...(lang === 'en' ? ['en', folder] : [folder]),
+  );
+  const articles: { id: string; data: { title: string; tags: string[] } }[] =
+    [];
   try {
-    for (const cat of categories) {
-      const catDir = resolve('src/content/am', cat);
-      try {
-        const files = await readdir(catDir);
-        for (const file of files) {
-          if (file.endsWith('.md') && !file.startsWith('_')) {
-            const slug = file.replace(/\.md$/, '');
-            const content = await readFile(join(catDir, file), 'utf-8');
-            const titleMatch = content.match(/^title:\s*["']?(.+?)["']?\s*$/m);
-            const tagsMatch = content.match(/^tags:\s*\[(.+?)\]/m);
-            const title = titleMatch ? titleMatch[1] : slug;
-            const tags = tagsMatch
-              ? tagsMatch[1]
-                  .split(',')
-                  .map((t) => t.trim().replace(/["']/g, ''))
-              : [];
-            allZhArticles.push({ id: `${cat}/${slug}`, data: { title, tags } });
-          }
-        }
-      } catch {}
+    const files = await readdir(dir);
+    for (const file of files) {
+      if (!file.endsWith('.md') || file.startsWith('_')) continue;
+      const slug = file.replace(/\.md$/, '');
+      const raw = await readFile(join(dir, file), 'utf-8');
+      const parsed = safeMatter(raw);
+      if (!parsed) continue;
+      const frontmatter = parsed.data;
+      if (frontmatter.status === 'archived' || frontmatter.status === 'draft')
+        continue;
+      articles.push({
+        id: `${cat}/${slug}`,
+        data: {
+          title: coerceTitle(frontmatter.title, slug),
+          tags: Array.isArray(frontmatter.tags) ? frontmatter.tags : [],
+        },
+      });
     }
   } catch {}
-}
-if (allEnArticles.length === 0) {
-  try {
-    for (const cat of categories) {
-      const catDir = resolve('src/content/en', cat);
-      try {
-        const files = await readdir(catDir);
-        for (const file of files) {
-          if (file.endsWith('.md') && !file.startsWith('_')) {
-            const slug = file.replace(/\.md$/, '');
-            const content = await readFile(join(catDir, file), 'utf-8');
-            const titleMatch = content.match(/^title:\s*["']?(.+?)["']?\s*$/m);
-            const title = titleMatch ? titleMatch[1] : slug;
-            allEnArticles.push({
-              id: `${cat}/${slug}`,
-              data: { title, tags: [] },
-            });
-          }
-        }
-      } catch {}
-    }
-  } catch {}
+  return articles;
 }
 
 // Center node
-nodes.push({ id: 'ethiopia', label: '🇪🇹 Ethiopia.md', group: 'center', size: 30 });
+nodes.push({
+  id: 'ethiopia',
+  label: '🇪🇹 Ethiopia.md',
+  group: 'center',
+  size: 30,
+});
 
 // SSOT concept node
 nodes.push({
@@ -191,11 +205,7 @@ for (const cat of categories) {
   });
   edges.push({ source: 'ethiopia', target: cat });
 
-  // Chinese article nodes
-  const catArticles = allZhArticles.filter((a) => {
-    const parts = a.id.split('/');
-    return parts[0] === cat && !parts[parts.length - 1].startsWith('_');
-  });
+  const catArticles = await loadCategoryArticles('am', cat);
   for (const article of catArticles) {
     const slug = article.id.split('/').slice(1).join('/').replace(/\.md$/, '');
     const nodeId = `${cat}/${slug}`;
@@ -218,11 +228,7 @@ for (const cat of categories) {
     }
   }
 
-  // English article nodes
-  const enCatArticles = allEnArticles.filter((a) => {
-    const parts = a.id.split('/');
-    return parts[0] === cat && !parts[parts.length - 1].startsWith('_');
-  });
+  const enCatArticles = await loadCategoryArticles('en', cat);
   for (const article of enCatArticles) {
     const slug = article.id.split('/').slice(1).join('/').replace(/\.md$/, '');
     const nodeId = `en/${cat}/${slug}`;
@@ -254,20 +260,6 @@ for (const [tag, articleIds] of Object.entries(tagMap)) {
 }
 
 // Parse Hub wikilinks to create Hub→article edges
-const categoryMapping: Record<string, string> = {
-  history: 'History',
-  geography: 'Geography',
-  culture: 'Culture',
-  food: 'Food',
-  art: 'Art',
-  music: 'Music',
-  technology: 'Technology',
-  nature: 'Nature',
-  people: 'People',
-  society: 'Society',
-  economy: 'Economy',
-  lifestyle: 'Lifestyle',
-};
 const nodeIds = new Set(nodes.map((n) => n.id));
 
 for (const [cat, folder] of Object.entries(categoryMapping)) {
@@ -497,8 +489,12 @@ const graphData = JSON.stringify({ nodes, edges });
       const matched = new Set();
       data.nodes.forEach((n) => {
         if (
-          n.label.toLowerCase().includes(query) ||
-          n.id.toLowerCase().includes(query)
+          String(n.label || '')
+            .toLowerCase()
+            .includes(query) ||
+          String(n.id || '')
+            .toLowerCase()
+            .includes(query)
         ) {
           matched.add(n.id);
         }

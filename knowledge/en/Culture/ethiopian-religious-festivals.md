@@ -1,0 +1,38 @@
+---
+title: 'The Ethiopian Orthodox Tewahedo Church and Its Major Festivals'
+description: 'An introduction to the Ethiopian Orthodox Tewahedo Church — founded in the 4th century in the Kingdom of Aksum — and its major festivals, including Timkat, Meskel, Genna and Fasika.'
+date: '2026-08-24'
+tags:
+  - Culture
+  - religion
+featured: true
+lastVerified: '2026-08-24'
+lastHumanReview: false
+status: published
+---
+
+# The Ethiopian Orthodox Tewahedo Church and Its Major Festivals
+
+The Ethiopian Orthodox Tewahedo Church is one of the oldest Christian churches in the world and has played a central role in Ethiopian life since the 4th century. The church's yearly festivals — Timkat (Epiphany), Meskel, Genna and Fasika — are not only acts of worship but gatherings of family, neighbors and nation; two of them, Timkat and Meskel, are inscribed on UNESCO's Representative List of Intangible Cultural Heritage. This article introduces the church's origins and how its major festivals are celebrated.
+
+## Origins: From the Kingdom of Aksum
+
+Christianity became the state religion of the Kingdom of Aksum in the 4th century. According to traditional history, Frumentius (Abba Salama) and Aedesius, who came from Tyre, gained standing at the Aksumite royal court; Frumentius then baptized the succeeding King Ezana, leading to Christianity becoming the state religion. Frumentius went on to become Aksum's first bishop and gave the young church its structure. [Britannica: Ethiopian Orthodox Tewahedo Church](https://www.britannica.com/topic/Ethiopian-Orthodox-Tewahedo-Church) "Tewahedo" is a Ge'ez word meaning "unity" or "being made one," expressing the church's doctrine of the union of Christ's two natures. In the late 5th century, nine monks from Syria introduced monasticism and translated the Scriptures into Ge'ez; Ge'ez remains the liturgical language to this day. [Britannica: Ethiopian Orthodox Tewahedo Church](https://www.britannica.com/topic/Ethiopian-Orthodox-Tewahedo-Church)
+
+## Fasting and the Calendar
+
+The church year moves through a rhythm of fasts and feasts. Although there are around 250 fasting days a year, only about 180 are obligatory for the ordinary believer; during fasting periods animal products — meat, dairy and eggs — are abstained from. [Ethiopian Orthodox Tewahedo Church (official site)](https://www.ethiopianorthodox.org/english/ethiopian/worship.html) The church lists seven official fasting periods; the greatest, Abiy Tsom (Hudade), lasts 55 days before Fasika (Easter). In addition, Wednesdays and Fridays are fast days throughout the year, except for the 50 days after Easter. [Ethiopian Orthodox Tewahedo Church (official site)](https://www.ethiopianorthodox.org/english/ethiopian/worship.html) The feasts fall on Ethiopia's own calendar, which divides the year into 13 months: twelve months of thirty days each, plus Pagume, a thirteenth month of five days (six in leap years). The new year (Enkutatash) begins in Meskerem on September 11 or 12 Gregorian, and the Ethiopian calendar runs seven to eight years behind the Gregorian one. [CNN: The story behind Ethiopia's unique calendar](https://www.cnn.com/travel/ethiopian-unique-calendar-year)
+
+## Timkat
+
+Timkat commemorates the baptism of Jesus by John the Baptist in the Jordan River and falls on Ter 11 — January 19 Gregorian, or January 20 in leap years. [Wikipedia: Timkat](https://en.wikipedia.org/wiki/Timkat) On Ketera, the eve of Timkat whose name refers to blocking the flow of water, each parish carries its tabot — a replica of the Ark of the Covenant kept at every Ethiopian church — wrapped in rich cloth on a priest's head in solemn procession to a pool, river or reservoir called Timkete-Bahir, where crowds spend the night in prayer, hymns and the Divine Liturgy. [UNESCO: Ethiopian epiphany](https://ich.unesco.org/en/RL/ethiopian-epiphany-01491) The next day hundreds of thousands gather as rituals performed before sunrise culminate in the sprinkling of blessed water over the congregation; some immerse themselves in the water to renew their baptismal vows. [Wikipedia: Timkat](https://en.wikipedia.org/wiki/Timkat) In Gondar, the principal celebration takes place at the historic bath of Emperor Fasilides, built in the 17th century, where the city's parishes bring their tabots together; around 10 a.m. the tabots return to their churches with song and ceremony. [Wikipedia: Timkat](https://en.wikipedia.org/wiki/Timkat) In 2019 Timkat was inscribed on UNESCO's Representative List of Intangible Cultural Heritage. [UNESCO: Ethiopian epiphany](https://ich.unesco.org/en/RL/ethiopian-epiphany-01491)
+
+## Meskel and Demera
+
+Meskel celebrates the 4th-century finding of the True Cross by Empress Helena and falls on Meskerem 17 — September 27 Gregorian. [Mahibere Kidusan: The Holy Cross and its Celebration](https://eotcmk.org/e/the-holy-cross-and-its-celebration/) At Meskel Square in Addis Ababa, a conical pyre of poles called Demera is built before the feast and decorated with green grass and Abyssinian daisies symbolizing the new year; hundreds of thousands gather in colorful traditional dress while priests chant and perform rhythmic dances, and the patriarch lights the bonfire. [UNESCO: Commemoration feast of the finding of the True Holy Cross of Christ](https://ich.unesco.org/en/RL/commemoration-feast-of-the-finding-of-the-true-holy-cross-of-christ-00858) Tradition holds that Empress Helena was told in a dream to make a bonfire whose smoke would reveal where the Cross was buried, and that the smoke rose and fell back to earth toward the burial place. [Mahibere Kidusan: The Holy Cross and its Celebration](https://eotcmk.org/e/the-holy-cross-and-its-celebration/) The Demera is usually lit on the evening of September 26, the day before the feast; small torches (chibo) are lit at homes, and priests bless Demera fires before people use the ashes to mark crosses on themselves. [Mahibere Kidusan: The Holy Cross and its Celebration](https://eotcmk.org/e/the-holy-cross-and-its-celebration/) Meskel is celebrated across all of Ethiopia regardless of age, gender, language or ethnicity, and it carries an accepted teaching that personal and communal quarrels should be resolved beforehand, making the feast a time of reconciliation and peace. It was inscribed by UNESCO in 2013. [UNESCO: Commemoration feast of the finding of the True Holy Cross of Christ](https://ich.unesco.org/en/RL/commemoration-feast-of-the-finding-of-the-true-holy-cross-of-christ-00858)
+
+## Genna, Fasika and the Cycle of Feasts
+
+Genna (Christmas) falls on Tahsas 29 — January 7 Gregorian — and is marked by an all-night church service that extends into the early hours of the morning. [Wikipedia: Ethiopian Christmas](https://en.wikipedia.org/wiki/Gena) A field-hockey-like game also called gena, played with a curved stick driving a wooden ball into a small hole in the ground, takes its name from the feast and is played especially in rural areas on Christmas Day. [Wikipedia: Ethiopian Christmas](https://en.wikipedia.org/wiki/Gena) Fasika (Easter), which commemorates the resurrection of Jesus, is the most important festival of the church year and follows the 55-day Great Lent; afterward households break the long fast with festive foods. [Wikipedia: Fasika](https://en.wikipedia.org/wiki/Fasika)
+
+Taken together, the festivals of the Ethiopian Orthodox Tewahedo Church are not only worship but rituals that bind communities together; with Timkat and Meskel recognized at world level, they have made Ethiopia's living traditions known far beyond its borders. Alongside them, the coffee ceremony and festive foods anchor family gatherings; see [[ethiopian-coffee-culture]] for coffee culture.

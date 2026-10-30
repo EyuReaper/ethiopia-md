@@ -1,394 +1,51 @@
 ---
-title: 'AI[Amharic translation needed - original Taiwan context]：Ethiopia[Amharic translation needed - original Taiwan context]'
-description: '[Amharic translation needed - original Taiwan context]AlphaGo[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]'
-category: 'Technology'
-date: '2026-03-19'
-author: 'Ethiopia.md'
+title: 'የአርቴፊሻል ኢንተለጀንስ ልማት በኢትዮጵያ'
+description: 'ከiCog ላብስ የሰው መልክ ሮቦት ሶፊያ አስተዋጽኦ እስከ ብሔራዊ የAI ፖሊሲ፣ ከፋይዳ ዲጂታል መታወቂያ እስከ በግብርና ውስጥ ያሉ የማሽን ትምህርት መፍትሔዎች ድረስ፣ የኢትዮጵያ የአርቴፊሻል ኢንተለጀንስ ጉዞ ታሪክ።'
+date: '2026-08-24'
 tags:
-  [
-    '[Amharic translation needed - original Taiwan context]',
-    'AI[Amharic translation needed - original Taiwan context]',
-    '[Amharic translation needed - original Taiwan context]',
-    '[Amharic translation needed - original Taiwan context]',
-    '[Amharic translation needed - original Taiwan context]',
-    '[Amharic translation needed - original Taiwan context]',
-  ]
-subcategory: '[Amharic translation needed - original Taiwan context]'
-readingTime: 15
+  - Technology
+  - Artificial Intelligence
 featured: true
-lastVerified: 2026-03-19
+lastVerified: '2026-08-24'
 lastHumanReview: false
-status: draft
+status: published
 ---
 
-# AI[Amharic translation needed - original Taiwan context]：Ethiopia[Amharic translation needed - original Taiwan context]
+# የአርቴፊሻል ኢንተለጀንስ ልማት በኢትዮጵያ
 
-## 30[Amharic translation needed - original Taiwan context]
+ኢትዮጵያ በዓለም አቀፍ የአርቴፊሻል ኢንተለጀንስ (AI) ዜናዎች ውስጥ በተደጋጋሚ የምትጠቀስበት ሀገር ባይሆንም፣ በዘርፉ ውስጥ እውነተኛና ልዩ ታሪኮች አሏት። በአዲስ አበባ የተመሠረተ ኩባንያ ለዓለም ከሚታወቁት የሰው መልክ ሮቦቶች አንዷ ለሆነችው ሶፊያ (Sophia) የ«አእምሮ» ክፍሎች ላይ አስተዋጽኦ አድርጓል፤ ብሔራዊ ኢንስቲትዩትና የመጀመሪያው የAI ፖሊሲ ተቋቁመዋል፤ የማሽን ትምህርት (machine learning) መሣሪያዎችም በገጠር አርሶ አደሮች የስንዴ ምርታማነትን እያሳደጉ ይገኛሉ። ይህ ጽሑፍ ከiCog ላብስ እስከ ብሔራዊ የAI ፖሊሲ፣ ከፋይዳ ዲጂታል መታወቂያ እስከ ወደ ገጠር ማኅበረሰቦች የሚደርሱ ተግባራዊ አጠቃቀሞች ያለውን ጉዞ ወሳኝ ምዕራፎች ይከታተላል።
 
-Ethiopia[Amharic translation needed - original Taiwan context]「AI[Amharic translation needed - original Taiwan context]」，[Amharic translation needed - original Taiwan context]ICT[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]2016[Amharic translation needed - original Taiwan context]AlphaGo[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「AI[Amharic translation needed - original Taiwan context]2.0」，[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]。
+## iCog ላብስ እና ሶፊያ ሮቦቷ
 
-**[Amharic translation needed - original Taiwan context]**：AI[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
+በ2005 ዓ.ም. (2013) በአዲስ አበባ የተመሠረተው iCog ላብስ፣ በኮምፒውተር ሳይንቲስቱ ጌትነት አሰፋ እና በአሜሪካዊው የAI ተመራማሪ ቤን ጎርቴዝል (Ben Goertzel) በጋራ ሥራ የተጀመረ ነው፤ ኩባንያው የኢትዮጵያ የመጀመሪያው እና ትልቁ የAI ድርጅት ተብሎ ይገለጻል ([CB Insights](https://www.cbinsights.com/company/icog-labs))። iCog ላብስ በሆንግ ኮንግ የሚገኘው ከሃንሰን ሮቦቲክስ ጋር ለአራት ዓመታት ያህል በመተባበር፣ በዓለም ከሚታወቁት የሰው መልክ ሮቦቶች አንዷ በሆነችው ሶፊያ የአእምሮ ክፍሎች ላይ ተሳትፏል። የኩባንያው መስራች ጌትነት አሰፋ ለሲንሁዋ እንዳሉት፣ ቡድናቸው ሶፊያ ስሜቷን እንድታሳይና እንድትመካ የሚያስችሏትን የ«አእምሮ ክፍሎች» ሥራ እንዲሁም የኮግኒቲቭ ኢንጀኑን አካቷል ([Xinhua](http://www.xinhuanet.com/english/2018-07/03/c_137299219.htm))። ሶፊያ በ2015 የተነቃቃረች ቢሆንም፣ ዝናዋ ከዚያ በኋላ ሲበራ ቆየ፤ በሰኔ 2010 ዓ.ም. (July 2018) ወደ አዲስ አበባ በመጣችው ጊዜ ጠቅላላ ሚኒስትር አብይ አሕመድን በመስማት፣ በአማርኛ ምስጋና በመግለጽና በICT Expo ላይ ከ200 ሺህ በላይ ወጣት አድማሾችን በመማከር ሲንሁዋ ዘግቧል።
 
-## AlphaGo[Amharic translation needed - original Taiwan context]：EthiopiaAI[Amharic translation needed - original Taiwan context]
+iCog ላብስ በአካባቢውም ብቁ ሰው ኃይል ማፍራት ላይ ኢንቨስት አድርጓል። ኩባንያው በ2007–2011 ዓ.ም. (2015–2019) ሮቦሳፒየንዝ (RoboSapiens) የተባለውን ተነሳሽነት በማካሄድ፣ የኢትዮጵያ ዩኒቨርሲቲ ተማሪዎችን AIን በኳስ በሚጫወቱ ሮቦቶች በኩል አስተዋውቋል፤ ውድድሮቹም የኢትዮጵያ፣ የኬንያ እና የናይጀሪያ ዩኒቨርሲቲዎችን ያካትታሉ ([CB Insights](https://www.cbinsights.com/company/icog-labs))።
 
-### 2016[Amharic translation needed - original Taiwan context]
+## ብሔራዊ ተቋም እና የመጀመሪያው የAI ፖሊሲ
 
-2016[Amharic translation needed - original Taiwan context]3[Amharic translation needed - original Taiwan context]，Google DeepMind[Amharic translation needed - original Taiwan context]AlphaGo[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]EthiopiaAI[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」。
+የኢትዮጵያ አርቴፊሻል ኢንተለጀንስ ኢንስቲትዩት (EAII) በ2012 ዓ.ም. (2020) በሚኒስትሮች ምክር ቤት ደንብ ቁጥር 463/2020 መሠረት ተቋቁሟል ([Ethiopian Artificial Intelligence Institute](https://aii.et/about))። አራት ዓመታት በኋላም መንግሥቱ የመጀመሪያውን ብሔራዊ የAI ፖሊሲ አጽድቋል፤ ፖሊሲው በሚኒስትሮች ምክር ቤት በሰኔ 2016 ዓ.ም. (June 27, 2024) ከጸደቀ ጀምሮ በ49 ገጽ የተዘጋጀ ሲሆን፣ በመዘጋጀቱ ወቅት ከቶኒ ብሌር ኢንስቲትዩት (Tony Blair Institute) እና ከAI for Good Foundation ግብዓት ተቀብሏል። ፖሊሲው ለርቀት ጤና አገልግሎት ቴሌሜዲሲንን፣ በተማሪ ላይ የተመሠረተ ዲጂታል ትምህርትን እንዲሁም ትክክለኛ ግብርናን (precision agriculture) እንደ ቅድሚያ መስኮች ይገልጻል ([Birr Metrics](https://birrmetrics.com/ethiopia-unveils-first-national-ai-strategy/))።
 
-**AlphaGo[Amharic translation needed - original Taiwan context]：**
+ይህ ተቋማዊ እርምጃ AIን ከግል ትኩረት ዓለታዊ ሆኖ በሀገሪቱ የልማት አጀንዳ አካል ማድረጉን ያሳያል።
 
-- [Amharic translation needed - original Taiwan context]
-- [Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-- [Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-- [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]「AI[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]
+## ፋይዳ እና የዲጂታል መሠረተ ልማት
 
-### Ethiopia[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
+የAI ልማት በኢትዮጵያ ከሰፊው የዲጂታል መሠረተ ልማት ግንባታ ጋር የተሳሰረ ነው። የዓለም ባንክ በታኅሣሥ 2016 ዓ.ም. (December 13, 2023) ፋይዳ ተብሎ በሚጠራው ብሔራዊ የዲጂታል መታወቂያ ሥርዓት ድጋፍ ለመስጠት 350 ሚሊዮን ዶላር የ«Digital ID for Inclusion and Services» ፕሮጀክት አጽድቋል፤ ፕሮጀክቱ ከስደተኞች ጨምሮ ቢያንስ 90 ሚሊዮን ኢትዮጵያውያንን ምዝገባ ላይ ማድረስ ነው የሚያለመው። በወቅቱ ሚሊዮኖች ዜጎች ኦፊሴላዊ መታወቂያ ስለሌላቸው አገልግሎቶችን ማግኘት አልቻሉም፣ የናሙና ምዝገባውም ወደ 3.5 ሚሊዮን ሰዎች ብቻ ደርሶ ነበር። ፕሮጀክቱ በተጨማሪም የግል መረጃ ጥበቃ ኮሚሽን መመሥረትን ይደግፋል፤ በመረጃ ልውውጥና በዲጂታል ክፍያ መሠረተ ልማት ላይም ኢንቨስት ያደርጋል ([World Bank](https://www.worldbank.org/en/news/press-release/2023/12/13/world-bank-supports-afe-ethiopias-digital-id-project-to-increase-access-to-services-and-economic-opportunities))። ምዝገባው ከዚያን ጊዜ ጀምሮ በተረጋጋ ሁኔታ አድጓል፦ በመጋቢት 2018 ዓ.ም. (March 2026) ምዝገባው ወደ 37.5 ሚሊዮን ደርሶ፣ በየሳምንቱ ወደ አንድ ሚሊዮን የሚጠጉ ሰዎች እየተመዘገቡ ይገኛሉ ([New Business Ethiopia](https://newbusinessethiopia.com/technology/ethiopia-national-digital-id-users-surpass-37-million))።
 
-AlphaGo[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]：**Ethiopia[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]**。2017[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「EthiopiaAI[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]：Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+## ከዩኒቨርሲቲ ላቦራቶሪ እስከ የስንዴ እርሻ
 
-## EthiopiaAI[Amharic translation needed - original Taiwan context]：「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]
+ተግባራዊ አጠቃቀሞች ከዋና ከተማዋ በላይ እየተስፋፉ ይገኛሉ። በየካቲት 2018 ዓ.ም. (February 16, 2026) የኢትዮጵያ አርቴፊሻል ኢንተለጀንስ ኢንስቲትዩት ከዩናይትድ ኔሽነስ ዴቬሎፕመንት ፕሮግራም (UNDP) እና ከአዲስ አበባ ዩኒቨርሲቲ ጋር በመተባበር AI UniPod የተባለውን መንግሥትን፣ ከፍተኛ ትምህርት ተቋማትን፣ ኢንዱስትሪን እና ወጣት ፈጣሪዎችን የሚያገናኝ ብሔራዊ ማዕከል ከፈቷል ([UNDP](https://www.undp.org/ethiopia/press-releases/ethiopia-launches-ai-unipod))።
 
-### [Amharic translation needed - original Taiwan context]
+እስካሁን ካለው ተጽዕኖ በጣም ግልጹ ምሳሌ ግን ግብርና ነው። ከኢትዮጵያ የግብርና ምርምር ኢንስቲትዩት (EIAR) ጋር በመተባበር፣ Alliance of Bioversity International እና CIAT NextGen Decision Support Tool የተባለውን የማሽን ትምህርትን ተጠቅሞ በቦታ ደረጃ የሚስማማ የማዳበሪያ ምክር የሚያመነጭ መሣሪያ ገንብተዋል። በ2023 በሰባት ወረዳዎች በ25 የገጠር ጣቢያዎች ላይ የተረጋገጠው መሣሪያ የስንዴ አርሶ አደሮች እስከ 38 በመቶ በላይ ምርት እንዲያገኙ አስቻሏል። የምክር አገልግሎቱ ወደ አርሶ አደሮች በድምፅ መልእክት (IVR)፣ በSMS እና በቴሌግራም ቻትቦት በኩል ይደርሳል፤ የDigital Green በAI የተደገፈው FarmerChat መተግበሪያ ተመሳሳይ ምክር ያቀርባል፤ Lersha የተባለው ስታርትአፕም ምክሮቹን ከብድና ከኢንሹራንስ አገልግሎቶች ጋር በማጣመር ያቀርባል ([Alliance of Bioversity International and CIAT](https://alliancebioversityciat.org/stories/wheat-farmers-ethiopia-achieve-38-higher-yields-machine-learning-based-fertilizer))።
 
-EthiopiaAI[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。**[Amharic translation needed - original Taiwan context]（TSMC）**[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]：
+የኢትዮጵያ የAI ጉዞ አሁንም በመጀመሪያዎቹ ምዕራፎች ላይ ነው፤ ነገር ግን አቅጣጫው ቀድሞ ይታያል፦ በአገር ውስጥ የመጡ የምህንድስና ብቁ ሰው ኃይል፣ በዕቅድ የተደገፈ የመንግሥት ተቋማት ግንባታ፣ ዓለም አቀፍ ኅብረት ሥራ እና የሀገሪቱን ትልልቅ የኢኮኖሚ ዘርፎች ማነጣጠፍ የታሰቡ ተግባራዊ አጠቃቀሞች። በ[[telebirr-digital-payments]] ውስጥ የተገለጸው የክፍያ አብዮት እና በ[[startup-ecosystem]] ውስጥ የሚታዩት ሥራ ፈጣሪዎች በተመሳሳይ የዲጂታል ኢኮኖሚ መስክ ውስጥ ሲገኙ፣ እያንዳቸው ለሌላኛው እድገት ሁኔታዎችን ይጠናክራሉ።
 
-**[Amharic translation needed - original Taiwan context]×AI[Amharic translation needed - original Taiwan context]：**
+## ምንጮች
 
-- **AI[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]NVIDIA、Google、Apple[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-- **AIoT[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]
-- **5G+AI[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-
-### [Amharic translation needed - original Taiwan context]ICT[Amharic translation needed - original Taiwan context]
-
-Ethiopia[Amharic translation needed - original Taiwan context]ICT（[Amharic translation needed - original Taiwan context]）[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]：
-
-| [Amharic translation needed - original Taiwan context]     | [Amharic translation needed - original Taiwan context]                                                                                                                 | AI[Amharic translation needed - original Taiwan context]                                                         |
-| ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| **[Amharic translation needed - original Taiwan context]** | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]                                                         | AI[Amharic translation needed - original Taiwan context]、NPU                                                    |
-| **[Amharic translation needed - original Taiwan context]** | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]                                                         | [Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]   |
-| **[Amharic translation needed - original Taiwan context]** | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]                                                         | AI[Amharic translation needed - original Taiwan context]                                                         |
-| **[Amharic translation needed - original Taiwan context]** | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] | AI[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] |
-| **[Amharic translation needed - original Taiwan context]** | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]                                                         | AI[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context] |
-
-## [Amharic translation needed - original Taiwan context]：「AI[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]
-
-### [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]（2017-2020）
-
-**EthiopiaAI[Amharic translation needed - original Taiwan context]（2018-2021）**
-
-- **[Amharic translation needed - original Taiwan context]**：100.7[Amharic translation needed - original Taiwan context]（4[Amharic translation needed - original Taiwan context]）
-- **[Amharic translation needed - original Taiwan context]**：AI[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
-
-**[Amharic translation needed - original Taiwan context]：**
-
-1. **Ethiopia[Amharic translation needed - original Taiwan context]**（2018[Amharic translation needed - original Taiwan context]）
-   - [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]GoogleEthiopia[Amharic translation needed - original Taiwan context]）
-   - 4[Amharic translation needed - original Taiwan context]7,000[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-   - [Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-
-2. **AI[Amharic translation needed - original Taiwan context]**
-   - [Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-   - [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-   - [Amharic translation needed - original Taiwan context]
-
-3. **AI[Amharic translation needed - original Taiwan context]**
-   - [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
-   - [Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-
-### [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]（2021-2024）
-
-**AI[Amharic translation needed - original Taiwan context]2.0**
-
-- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]200[Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
-
-**[Amharic translation needed - original Taiwan context]：**
-
-1. **AI[Amharic translation needed - original Taiwan context]**
-   - [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-   - [Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-
-2. **[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]**
-   - [Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-   - [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-
-3. **[Amharic translation needed - original Taiwan context]**
-   - [Amharic translation needed - original Taiwan context]
-   - AI[Amharic translation needed - original Taiwan context]
-   - [Amharic translation needed - original Taiwan context]
-
-## EthiopiaAI[Amharic translation needed - original Taiwan context]
-
-### 1. [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-
-Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]：
-
-**[Amharic translation needed - original Taiwan context]：**
-
-- **DeepQ[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]95%
-- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]**：COVID-19 AI[Amharic translation needed - original Taiwan context]
-
-**[Amharic translation needed - original Taiwan context]：**
-
-- [Amharic translation needed - original Taiwan context]（2,300[Amharic translation needed - original Taiwan context]23[Amharic translation needed - original Taiwan context]）
-- [Amharic translation needed - original Taiwan context]
-- [Amharic translation needed - original Taiwan context]
-
-### 2. [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]4.0[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]
-
-Ethiopia[Amharic translation needed - original Taiwan context]，AI[Amharic translation needed - original Taiwan context]：
-
-**[Amharic translation needed - original Taiwan context]：**
-
-- **[Amharic translation needed - original Taiwan context]**：AI[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]**：AI[Amharic translation needed - original Taiwan context]
-
-**[Amharic translation needed - original Taiwan context]：**
-
-- [Amharic translation needed - original Taiwan context]
-- [Amharic translation needed - original Taiwan context]
-- [Amharic translation needed - original Taiwan context]
-
-### 3. [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
-
-Ethiopia[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]：
-
-**[Amharic translation needed - original Taiwan context]：**
-
-- **[Amharic translation needed - original Taiwan context]**：AI[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]30%[Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]**：AI[Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]**：AI[Amharic translation needed - original Taiwan context]
-
-### 4. [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
-
-Ethiopia[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]FinTech[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]：
-
-**[Amharic translation needed - original Taiwan context]：**
-
-- **AI[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
-
-### 5. [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]
-
-[Amharic translation needed - original Taiwan context]IoT[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]：
-
-**[Amharic translation needed - original Taiwan context]：**
-
-- **AI[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
-
-## [Amharic translation needed - original Taiwan context]：EthiopiaAI[Amharic translation needed - original Taiwan context]
-
-### Ethiopia[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
-
-[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]+AI」[Amharic translation needed - original Taiwan context]：
-
-**[Amharic translation needed - original Taiwan context]：**
-
-- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]**：70%[Amharic translation needed - original Taiwan context]，30%[Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
-
-**4[Amharic translation needed - original Taiwan context]（2018-2022）：**
-
-- [Amharic translation needed - original Taiwan context]7,000[Amharic translation needed - original Taiwan context]
-- [Amharic translation needed - original Taiwan context]300[Amharic translation needed - original Taiwan context]
-- [Amharic translation needed - original Taiwan context]85%
-
-### [Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-
-Ethiopia[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]：
-
-| [Amharic translation needed - original Taiwan context]             | AI[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]                                                           |
-| ------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| **Ethiopia[Amharic translation needed - original Taiwan context]** | AI[Amharic translation needed - original Taiwan context]                                                        | [Amharic translation needed - original Taiwan context]AI、[Amharic translation needed - original Taiwan context] |
-| **[Amharic translation needed - original Taiwan context]**         | AI[Amharic translation needed - original Taiwan context]                                                        | AI[Amharic translation needed - original Taiwan context]                                                         |
-| **[Amharic translation needed - original Taiwan context]**         | AI[Amharic translation needed - original Taiwan context]                                                        | 5G+AI、[Amharic translation needed - original Taiwan context]                                                    |
-| **[Amharic translation needed - original Taiwan context]**         | AI[Amharic translation needed - original Taiwan context]                                                        | [Amharic translation needed - original Taiwan context]AI                                                         |
-
-### [Amharic translation needed - original Taiwan context]
-
-Ethiopia[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]：
-
-- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-
-## [Amharic translation needed - original Taiwan context]：AI[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]
-
-### AI[Amharic translation needed - original Taiwan context]
-
-EthiopiaAI[Amharic translation needed - original Taiwan context]2016[Amharic translation needed - original Taiwan context]50[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]2024[Amharic translation needed - original Taiwan context]400[Amharic translation needed - original Taiwan context]：
-
-**[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]：**
-
-1. **Appier（[Amharic translation needed - original Taiwan context]）**
-   - [Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-   - 2021[Amharic translation needed - original Taiwan context]
-   - AI[Amharic translation needed - original Taiwan context]
-
-2. **KKCompany**
-   - [Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-   - [Amharic translation needed - original Taiwan context]
-   - [Amharic translation needed - original Taiwan context]
-
-3. **[Amharic translation needed - original Taiwan context]**
-   - [Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-   - [Amharic translation needed - original Taiwan context]
-   - [Amharic translation needed - original Taiwan context]FDA[Amharic translation needed - original Taiwan context]
-
-4. **Viscovery（[Amharic translation needed - original Taiwan context]）**
-   - [Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-   - [Amharic translation needed - original Taiwan context]
-   - [Amharic translation needed - original Taiwan context]
-
-### [Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-
-Ethiopia[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]：
-
-**[Amharic translation needed - original Taiwan context]：**
-
-- **[Amharic translation needed - original Taiwan context]**：AI[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]30%[Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]**：AI[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]20%[Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]**：AI[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]15%
-
-**[Amharic translation needed - original Taiwan context]：**
-
-- **[Amharic translation needed - original Taiwan context]**：AI[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]**：AI[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]**：AI[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
-
-## [Amharic translation needed - original Taiwan context]：EthiopiaAI[Amharic translation needed - original Taiwan context]
-
-### [Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-
-**[Amharic translation needed - original Taiwan context]：**
-
-- **[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]AI**：[Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]AI**：FDA[Amharic translation needed - original Taiwan context]
-
-### [Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-
-**[Amharic translation needed - original Taiwan context]：**
-
-- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]、Panasonic[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]AI**：[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
-
-### [Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-
-Ethiopia[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]。
-
-## [Amharic translation needed - original Taiwan context]：2024-2030[Amharic translation needed - original Taiwan context]
-
-### [Amharic translation needed - original Taiwan context]
-
-1. **[Amharic translation needed - original Taiwan context]**
-   - [Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-   - [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
-
-2. **[Amharic translation needed - original Taiwan context]**
-   - [Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-   - [Amharic translation needed - original Taiwan context]
-
-3. **[Amharic translation needed - original Taiwan context]**
-   - [Amharic translation needed - original Taiwan context]
-   - [Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-
-4. **[Amharic translation needed - original Taiwan context]**
-   - [Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-   - [Amharic translation needed - original Taiwan context]
-
-### [Amharic translation needed - original Taiwan context]
-
-1. **[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]**
-   - ChatGPT[Amharic translation needed - original Taiwan context]
-   - Ethiopia[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-
-2. **[Amharic translation needed - original Taiwan context]**
-   - 5G+AI[Amharic translation needed - original Taiwan context]
-   - IoT[Amharic translation needed - original Taiwan context]
-
-3. **[Amharic translation needed - original Taiwan context]**
-   - [Amharic translation needed - original Taiwan context]（Friend-shoring）[Amharic translation needed - original Taiwan context]
-   - Ethiopia[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-
-4. **[Amharic translation needed - original Taiwan context]**
-   - AI[Amharic translation needed - original Taiwan context]
-   - [Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-
-## 2030[Amharic translation needed - original Taiwan context]：AIEthiopia[Amharic translation needed - original Taiwan context]
-
-### 「AIEthiopia」[Amharic translation needed - original Taiwan context]
-
-**[Amharic translation needed - original Taiwan context]（2030[Amharic translation needed - original Taiwan context]）：**
-
-- AI[Amharic translation needed - original Taiwan context]1[Amharic translation needed - original Taiwan context]
-- AI[Amharic translation needed - original Taiwan context]10[Amharic translation needed - original Taiwan context]
-- AI[Amharic translation needed - original Taiwan context]10[Amharic translation needed - original Taiwan context]
-- [Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]5[Amharic translation needed - original Taiwan context]
-
-**[Amharic translation needed - original Taiwan context]：**
-
-1. **[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-2. **AI[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-3. **AI+[Amharic translation needed - original Taiwan context]**：Ethiopia[Amharic translation needed - original Taiwan context]+AI[Amharic translation needed - original Taiwan context]
-4. **AI[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-
-### [Amharic translation needed - original Taiwan context]
-
-1. **AI[Amharic translation needed - original Taiwan context]**
-   - [Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-   - [Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-
-2. **AI[Amharic translation needed - original Taiwan context]**
-   - AI[Amharic translation needed - original Taiwan context]
-   - [Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-
-3. **[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]**
-   - [Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-   - [Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-
-4. **[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]**
-   - AI[Amharic translation needed - original Taiwan context]
-   - [Amharic translation needed - original Taiwan context]
-
-## EthiopiaAI[Amharic translation needed - original Taiwan context]
-
-### 「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]
-
-EthiopiaAI[Amharic translation needed - original Taiwan context]：**[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]**。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]。
-
-### [Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]
-
-Ethiopia[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]**[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]**[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]。
-
-### [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]
-
-[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]**[Amharic translation needed - original Taiwan context]+[Amharic translation needed - original Taiwan context]**[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-## [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
-
-[Amharic translation needed - original Taiwan context]2016[Amharic translation needed - original Taiwan context]AlphaGo[Amharic translation needed - original Taiwan context]2024[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]3.6[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]。
-
-EthiopiaAI[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]**[Amharic translation needed - original Taiwan context]**。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]。
-
-[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]21[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]；[Amharic translation needed - original Taiwan context]；[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-[Amharic translation needed - original Taiwan context]AIEthiopia：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-## [Amharic translation needed - original Taiwan context]
-
-- [Amharic translation needed - original Taiwan context]「EthiopiaAI[Amharic translation needed - original Taiwan context]2.0」[Amharic translation needed - original Taiwan context]](https://digi.nstc.gov.tw/File/7C71629D702E2D89)（2021-2024）
-- [[Amharic translation needed - original Taiwan context]](https://www.nstc.gov.tw/)AI[Amharic translation needed - original Taiwan context]
-- [Ethiopia[Amharic translation needed - original Taiwan context]](https://aiacademy.tw/)[Amharic translation needed - original Taiwan context]
-- 《[Amharic translation needed - original Taiwan context]Ethiopia》，AI Academy[Amharic translation needed - original Taiwan context]
-- [Amharic translation needed - original Taiwan context]
-- [Amharic translation needed - original Taiwan context]「EthiopiaAI[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]](https://ieknet.iek.org.tw/)
-- IDC[「EthiopiaAI[Amharic translation needed - original Taiwan context]2024-2030」](https://www.idc.com/)
+- [CB Insights — iCog Labs company profile](https://www.cbinsights.com/company/icog-labs)
+- [Xinhua — Ethiopia's iCog Lab helped give world-famous robot Sophia her brain](http://www.xinhuanet.com/english/2018-07/03/c_137299219.htm)
+- [Ethiopian Artificial Intelligence Institute — About](https://aii.et/about)
+- [Birr Metrics — Ethiopia Unveils First National AI Strategy](https://birrmetrics.com/ethiopia-unveils-first-national-ai-strategy/)
+- [World Bank — World Bank Supports Ethiopia's Digital ID Project](https://www.worldbank.org/en/news/press-release/2023/12/13/world-bank-supports-afe-ethiopias-digital-id-project-to-increase-access-to-services-and-economic-opportunities)
+- [New Business Ethiopia — Ethiopia National Digital ID Users Surpass 37 Million](https://newbusinessethiopia.com/technology/ethiopia-national-digital-id-users-surpass-37-million)
+- [Alliance of Bioversity International and CIAT — Wheat Farmers in Ethiopia Achieve 38% Higher Yields](https://alliancebioversityciat.org/stories/wheat-farmers-ethiopia-achieve-38-higher-yields-machine-learning-based-fertilizer)
+- [UNDP — Ethiopia Launches AI UniPod](https://www.undp.org/ethiopia/press-releases/ethiopia-launches-ai-unipod)
