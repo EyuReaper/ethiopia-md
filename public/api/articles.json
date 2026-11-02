@@ -66,6 +66,28 @@
     "path": "Nature/_Nature Hub.md"
   },
   {
+    "title": "ታላቁ የስምጥ ሸለቆ፦ የኢትዮጵያ ጂኦሎጂያዊና ሥነ-ሕይወታዊ ድንቅ",
+    "description": "ኢትዮጵያን በሰያፍ ከዳናኪል ዝቅተኛ ስፍራዎች እስከ ደቡብ ሐይቆች ድረስ ለሁለት የሚከፍለው ታላቁ የስምጥ ሸለቆ፣ የፕሌት ቴክቶኒክስ እንቅስቃሴ ማዕከልና የሰው ዘር መገኛ ቅሪተ-አካል መገኛ ምድር ነው።",
+    "category": "Geography",
+    "tags": [],
+    "url": "https://ethiopia.md/geography/great-rift-valley",
+    "readingTime": 10,
+    "featured": true,
+    "date": "2026-11-03",
+    "path": "Geography/great-rift-valley.md"
+  },
+  {
+    "title": "ታላቁ የኢትዮጵያ ህዳሴ ግድብ (GERD)፦ የኃይልና የልማት ሉዓላዊነት",
+    "description": "በዓባይ ወንዝ ላይ የተገነባውና በአፍሪካ ግዙፉ የውኃ ኃይል ማመንጫ የሆነው ታላቁ የኢትዮጵያ ህዳሴ ግድብ፣ በሕዝብ ቦንድና በራስ አቅም የተገነባ የኢኮኖሚና የታዳሽ ኃይል ድንቅ ፕሮጀክት ነው።",
+    "category": "Economy",
+    "tags": [],
+    "url": "https://ethiopia.md/economy/grand-ethiopian-renaissance-dam",
+    "readingTime": 9,
+    "featured": true,
+    "date": "2026-11-03",
+    "path": "Economy/grand-ethiopian-renaissance-dam.md"
+  },
+  {
     "title": "ታሪክ",
     "description": "ከአክሱም መንግሥት እስከ አድዋ ድል፣ ከደርግ ወታደራዊ ዘመን እስከ ዘመናዊው የፌዴራል ሥርዓት፦ የኢትዮጵያን ረዥም ታሪክ የሚዳስስ አጠቃላይ መግቢያ።",
     "category": "History",
@@ -75,6 +97,17 @@
     "featured": false,
     "date": "2026-08-11",
     "path": "History/_History Hub.md"
+  },
+  {
+    "title": "ቴሌብር እና የዲጂታል ክፍያ አብዮቱ",
+    "description": "ቴሌብር በግንቦች 2013 ዓ.ም. ከተጀመረ ጀምሮ በአጭር ጊዜ ውስጥ ከ54 ሚሊዮን በላይ ተጠቃሚዎችን በማፍራት የኢትዮጵያን የፋይናንስ ሥርዓት በመቀየር ላይ ነው። ይህ ጽሑፍ የቴሌብርን ጉዞ፣ ከባንኮች ጋር ያለውን ግንኙነት እና የወደፊት ፈተነዎችን ይመረምራል።",
+    "category": "Technology",
+    "tags": [],
+    "url": "https://ethiopia.md/technology/telebirr-digital-payments",
+    "readingTime": 18,
+    "featured": true,
+    "date": "2026-08-24",
+    "path": "Technology/telebirr-digital-payments.md"
   },
   {
     "title": "ቴክኖሎጂ",
@@ -88,6 +121,17 @@
     "path": "Technology/_Technology Hub.md"
   },
   {
+    "title": "አበበ ቢቂላ እና የኢትዮጵያ የማራቶን አርበኝነት",
+    "description": "በ1960 እ.ኤ.አ. በሮም ኦሎምፒክ በባዶ እግሩ ሮጦ በማሸነፍ የመጀመሪያው ጥቁር አፍሪካዊ የኦሎምፒክ የወርቅ ሜዳሊያ አሸናፊ የሆነው አበበ ቢቂላ እና የኢትዮጵያ የረጅም ርቀት ሩጫ ገድል።",
+    "category": "People",
+    "tags": [],
+    "url": "https://ethiopia.md/people/abebe-bikila-marathon-legacy",
+    "readingTime": 9,
+    "featured": true,
+    "date": "2026-11-03",
+    "path": "People/abebe-bikila-marathon-legacy.md"
+  },
+  {
     "title": "አኗኗር",
     "description": "የቡና ሥነ ሥርዓት፣ የሃይማኖታዊ ልማድና የግዕዝ ቀን አቆጣጠር፣ የቤተሰብ ትስስርና በገጠርና በከተማ መካከል ያለውን የአኗኗር ልዩነት የሚዳስስ አጭር ዳሰሳ።",
     "category": "Lifestyle",
@@ -99,6 +143,17 @@
     "path": "Lifestyle/_Lifestyle Hub.md"
   },
   {
+    "title": "ኢትዮ-ጃዝ እና ሙላቱ አስታጥቄ፦ የድምፅ ፈጠራ ጥበብ",
+    "description": "በ1960ዎቹ መገባደጃ በአዲስ አበባ የተወለደው ኢትዮ-ጃዝ፣ ጥንታዊ የኢትዮጵያን ቅኝቶች (ትዝታ፣ ባቲ፣ አምባሰል፣ አንቺሆዬ) ከምዕራቡ የጃዝ ስልትና ከአፍሮ-ላቲን ምቶች ጋር ያዋሃደ ድንቅ የሙዚቃ ፈጠራ ነው።",
+    "category": "Music",
+    "tags": [],
+    "url": "https://ethiopia.md/music/ethio-jazz-mulatu-astatke",
+    "readingTime": 9,
+    "featured": true,
+    "date": "2026-11-03",
+    "path": "Music/ethio-jazz-mulatu-astatke.md"
+  },
+  {
     "title": "ኢኮኖሚ",
     "description": "ግብርና-ተኮር የኢትዮጵያ ኢኮኖሚ፣ የቡናና የጤፍ ሚና፣ የመንግሥት መር ልማት ስትራቴጂ፣ ከኢትዮጵያ አየር መንገድ እስከ ታላቁ የሕዳሴ ግድብ ያሉ ዋና ዋና ምሰሶዎችን የሚዳስስ አጭር መግቢያ።",
     "category": "Economy",
@@ -108,6 +163,215 @@
     "featured": false,
     "date": "2026-08-11",
     "path": "Economy/_Economy Hub.md"
+  },
+  {
+    "title": "እንጀራ እና የጤፍ እርሻ፦ የኢትዮጵያ የምግብ አምድ",
+    "description": "በኢትዮጵያ ብቻ ለዘመናት በቆየው የጤፍ እህል የሚዘጋጀው ለስላሳና ቀዳዳማው እንጀራ፣ የሀገሪቱ የምግብ ባህል መሰረት፣ የጋራ መተሳሰቢያና የጤና ምንጭ ነው።",
+    "category": "Food",
+    "tags": [],
+    "url": "https://ethiopia.md/food/injera-and-teff",
+    "readingTime": 8,
+    "featured": true,
+    "date": "2026-11-03",
+    "path": "Food/injera-and-teff.md"
+  },
+  {
+    "title": "ዕድር እና ዕቁብ፦ የኢትዮጵያ ማህበራዊና የፋይናንስ መረዳጃ ተቋማት",
+    "description": "ባንኮችና የኢንሹራንስ ተቋማት ከመምጣታቸው ከረጅም ዘመን በፊት፣ የኢትዮጵያ ማህበረሰብ በጋራ መተሳሰብና መተማመን ላይ የመሰረታቸው አገር በቀል የማህበራዊ ዋስትናና የቁጠባ ተቋማት።",
+    "category": "Society",
+    "tags": [],
+    "url": "https://ethiopia.md/society/iddir-and-iqub-mutual-aid",
+    "readingTime": 9,
+    "featured": true,
+    "date": "2026-11-03",
+    "path": "Society/iddir-and-iqub-mutual-aid.md"
+  },
+  {
+    "title": "የላሊበላ ውቅር አብያተ ክርስቲያናት፦ የምድር ድንቅ ምህንድስና",
+    "description": "በ12ኛው እና 13ኛው ክፍለ ዘመን በቅዱስ ላሊበላ ዘመን ከወጥ ድንጋይ ተፈልፍለው የታነጹት 11ዱ አብያተ ክርስቲያናት፣ የሰው ልጅ የምህንድስና እና የመንፈሳዊ ጥበብ ታላቅ ቁንጮ ናቸው።",
+    "category": "Art",
+    "tags": [],
+    "url": "https://ethiopia.md/art/lalibela-rock-hewn-churches",
+    "readingTime": 8,
+    "featured": true,
+    "date": "2026-11-03",
+    "path": "Art/lalibela-rock-hewn-churches.md"
+  },
+  {
+    "title": "የሐበሻ ቀሚስ እና የሸማ ጥበብ ባህል",
+    "description": "ከጥጥ ፈትል ተዘጋጅቶ በሸማኔዎች እጅ በሚሰራው ጥበብ የሚደምቀው የሐበሻ ቀሚስ፣ ነጠላና ጋቢ፣ የኢትዮጵያ ሴቶች የቁንጅና፣ የክብርና የባህል መገለጫ ነው።",
+    "category": "Lifestyle",
+    "tags": [],
+    "url": "https://ethiopia.md/lifestyle/habesha-kemis-and-handwoven-textiles",
+    "readingTime": 6,
+    "featured": true,
+    "date": "2026-11-03",
+    "path": "Lifestyle/habesha-kemis-and-handwoven-textiles.md"
+  },
+  {
+    "title": "የሰሜን ተራሮች ብሔራዊ ፓርክ፦ የአፍሪካ ጣሪያና የዱር አራዊት መጠለያ",
+    "description": "የኢትዮጵያን ከፍተኛ ጫፍ ራስ ደጀንን (4,550 ሜትር) በጉያው የያዘው የሰሜን ተራሮች ብሔራዊ ፓርክ፣ አስደናቂ የተራራ ገደሎችና ዋልያ አይቤክስ፣ ጭላዳ ዝንጀሮና ቀይ ቀበሮን የመሳሰሉ ብርቅዬ እንስሳት መኖሪያ ነው።",
+    "category": "Geography",
+    "tags": [],
+    "url": "https://ethiopia.md/geography/simien-mountains",
+    "readingTime": 9,
+    "featured": true,
+    "date": "2026-11-03",
+    "path": "Geography/simien-mountains.md"
+  },
+  {
+    "title": "የባሌ ተራሮች ብሔራዊ ፓርክ እና የአፍሮ-አልፓይን ሥነ-ምህዳር",
+    "description": "በ2023 እ.ኤ.አ. በዩኔስኮ የዓለም ቅርስነት የተመዘገበው የባሌ ተራሮች ብሔራዊ ፓርክ፣ በአፍሪካ ትልቁን የአፍሮ-አልፓይን ከፍታ፣ የሐረና ደንና የደቡብ-ምስራቅ ኢትዮጵያን የውኃ ማማ በጉያው የያዘ የተፈጥሮ ገነት ነው።",
+    "category": "Nature",
+    "tags": [],
+    "url": "https://ethiopia.md/nature/bale-mountains-ecosystem",
+    "readingTime": 9,
+    "featured": true,
+    "date": "2026-11-03",
+    "path": "Nature/bale-mountains-ecosystem.md"
+  },
+  {
+    "title": "የአርቴፊሻል ኢንተለጀንስ ልማት በኢትዮጵያ",
+    "description": "ከiCog ላብስ የሰው መልክ ሮቦት ሶፊያ አስተዋጽኦ እስከ ብሔራዊ የAI ፖሊሲ፣ ከፋይዳ ዲጂታል መታወቂያ እስከ በግብርና ውስጥ ያሉ የማሽን ትምህርት መፍትሔዎች ድረስ፣ የኢትዮጵያ የአርቴፊሻል ኢንተለጀንስ ጉዞ ታሪክ።",
+    "category": "Technology",
+    "tags": [],
+    "url": "https://ethiopia.md/technology/ai-development",
+    "readingTime": 18,
+    "featured": true,
+    "date": "2026-08-24",
+    "path": "Technology/ai-development.md"
+  },
+  {
+    "title": "የአክሱም መንግሥት፦ የጥንታዊቷ ኢትዮጵያ ዓለም አቀፍ ሥልጣኔ",
+    "description": "ከ1ኛው እስከ 8ኛው ክፍለ ዘመን ዓ.ም. የተንሰራፋው የአክሱም መንግሥት በቀይ ባሕርና በህንድ ውቅያኖስ የንግድ መስመሮች ላይ ተጽዕኖ ያሳደረ፣ የራሱን ሳንቲም የቀረጸና ግዙፍ ሐውልቶችን የተከለ ታላቅ የዓለም ኃያል መንግሥት ነበር።",
+    "category": "History",
+    "tags": [],
+    "url": "https://ethiopia.md/history/aksumite-empire",
+    "readingTime": 11,
+    "featured": true,
+    "date": "2026-11-03",
+    "path": "History/aksumite-empire.md"
+  },
+  {
+    "title": "የአዲስ አበባ ካፌ ባህልና የማኪያቶ ቅርስ",
+    "description": "ከቶሞካ ጥንታዊ ቅርስ እስከ ዘመናዊ የከተማ መገናኛዎች፡ የአዲስ አበባ ካፌዎች ማህበራዊ ውይይት፣ የንግድ ስራ እና የባህል ልውውጥ ማዕከል የሆኑበት መንገድ ጥልቅ ዳሰሳ።",
+    "category": "Lifestyle",
+    "tags": ["አዲስ አበባ", "ካፌ ባህል", "ማኪያቶ", "ቶሞካ", "የከተማ ኑሮ", "ማህበራዊ ሕይወት"],
+    "url": "https://ethiopia.md/lifestyle/addis-ababa-cafe-culture",
+    "readingTime": 9,
+    "featured": true,
+    "date": "2026-03-31",
+    "path": "Lifestyle/addis-ababa-cafe-culture.md"
+  },
+  {
+    "title": "የአድዋ ድል፦ የኢትዮጵያ ሉዓላዊነትና የፀረ-ቅኝ አገዛዝ ተምሳሌት",
+    "description": "በ1888 ዓ.ም. (1896) ዳግማዊ አጼ ምኒልክ እና እቴጌ ጣይቱ ብጡል የመሩት የኢትዮጵያ ሠራዊት የጣሊያንን ቅኝ ገዢ ጦር ድል በማድረግ የሀገሪቱን ነፃነት ያስጠበቀበትና ለመላው ጥቁር ሕዝብ የነፃነት ፋና የሆነበት ታሪካዊ ክስተት።",
+    "category": "History",
+    "tags": [],
+    "url": "https://ethiopia.md/history/battle-of-adwa",
+    "readingTime": 10,
+    "featured": true,
+    "date": "2026-11-03",
+    "path": "History/battle-of-adwa.md"
+  },
+  {
+    "title": "የኢትዮጵያ ባህላዊ የሙዚቃ መሣሪያዎች፦ ክራር፣ ማሲንቆና ዋሽንት",
+    "description": "የኢትዮጵያ ሙዚቃ ነፍስ የሆኑት ማሲንቆ፣ ክራር፣ ዋሽንትና ከበሮ፣ የአዝማሪዎችን የግጥም ጥበብና የመንፈሳዊ ዜማዎችን ታሪክ የሚወክሉ ጥንታዊ የድምፅ መሳሪያዎች ናቸው።",
+    "category": "Music",
+    "tags": [],
+    "url": "https://ethiopia.md/music/traditional-instruments-krar-masenqo",
+    "readingTime": 8,
+    "featured": true,
+    "date": "2026-11-03",
+    "path": "Music/traditional-instruments-krar-masenqo.md"
+  },
+  {
+    "title": "የኢትዮጵያ ብርቅዬ የዱር እንስሳት፦ የተፈጥሮ ብዝሃ-ሕይወት ሀብት",
+    "description": "በከፍተኛ ተራራማ መልክዓ-ምድሯ ምክንያት በዓለም ላይ በሌላ በየትኛውም ስፍራ የማይገኙ ከ30 በላይ አጥቢ እንስሳት መገኛ የሆነችው የኢትዮጵያ ድንቅ የዱር አራዊት ዓለም።",
+    "category": "Nature",
+    "tags": [],
+    "url": "https://ethiopia.md/nature/ethiopian-endemic-wildlife",
+    "readingTime": 9,
+    "featured": true,
+    "date": "2026-11-03",
+    "path": "Nature/ethiopian-endemic-wildlife.md"
+  },
+  {
+    "title": "የኢትዮጵያ አየር መንገድ፦ የአፍሪካ የአቪዬሽን ኩራት",
+    "description": "በ1938 ዓ.ም. (1945) የተመሰረተው የኢትዮጵያ አየር መንገድ፣ አዲስ አበባን የአህጉሪቱ ዋና የመተላለፊያ ማዕከል በማድረግ በአፍሪካ ግዙፉና አትራፊው አየር መንገድ የሆነበት የስኬት ጉዞ።",
+    "category": "Economy",
+    "tags": [],
+    "url": "https://ethiopia.md/economy/ethiopian-airlines-aviation-hub",
+    "readingTime": 8,
+    "featured": true,
+    "date": "2026-11-03",
+    "path": "Economy/ethiopian-airlines-aviation-hub.md"
+  },
+  {
+    "title": "የኢትዮጵያ ኦርቶዶክስ ተዋሕዶ ቤተ ክርስቲያንና ታላላቅ በዓላት",
+    "description": "ከ4ኛው ክፍለ ዘመን ጀምሮ ከአክሱም መንግሥት የመነጨውን የኢትዮጵያ ኦርቶዶክስ ተዋሕዶ ቤተ ክርስቲያን ታሪክና ጥምቀት፣ መስቀል፣ ገናና ፋሲካን ጨምሮ ታላላቅ በዓላቷን የሚያስተዋውቅ ጽሑፍ።",
+    "category": "Culture",
+    "tags": [],
+    "url": "https://ethiopia.md/culture/ethiopian-religious-festivals",
+    "readingTime": 19,
+    "featured": true,
+    "date": "2026-08-24",
+    "path": "Culture/ethiopian-religious-festivals.md"
+  },
+  {
+    "title": "የኢትዮጵያ የቡና ባህልና የቡና ሥነ ሥርዓት",
+    "description": "ኢትዮጵያ የአረቢካ ቡና የትውልድ መገኛ ሆና የቡና ሥነ ሥርዓቱን — ከጀበና እስከ አቦል፣ ቶናና በረካ — እንደ ማህበራዊ ትስስርም እንደ ኢኮኖሚያዊ አምድ የሚመረምር ጽሑፍ።",
+    "category": "Culture",
+    "tags": [],
+    "url": "https://ethiopia.md/culture/ethiopian-coffee-culture",
+    "readingTime": 22,
+    "featured": true,
+    "date": "2026-08-24",
+    "path": "Culture/ethiopian-coffee-culture.md"
+  },
+  {
+    "title": "የዶሮ ወጥ እና የበዓላት ማዕድ ባህል",
+    "description": "የኢትዮጵያ ባህላዊ ምግቦች ቁንጮ የሆነው የዶሮ ወጥ፣ በ12 ብልቶች ተከፋፍሎ፣ በበርበሬና በቅቤ ተሰርቶ በገና፣ ፋሲካና አረፋ በዓላት የሚቀርብ የታላቅ ክብር ማዕድ ነው።",
+    "category": "Food",
+    "tags": [],
+    "url": "https://ethiopia.md/food/doro-wat-and-festive-dining",
+    "readingTime": 7,
+    "featured": true,
+    "date": "2026-11-03",
+    "path": "Food/doro-wat-and-festive-dining.md"
+  },
+  {
+    "title": "የገዳ ሥርዓት፦ ጥንታዊው የኦሮሞ ዲሞክራሲ",
+    "description": "ከአምስት ክፍለ ዘመናት በላይ ሲሰራበት የቆየውና በ2016 እ.ኤ.አ. በዩኔስኮ የተመዘገበው የኦሮሞ ሕዝብ ባህላዊ የገዳ ሥርዓት፣ የስልጣን ሽግግር፣ ፍትህና እኩልነት የተረጋገጡበት አገር በቀል ዲሞክራሲ ነው።",
+    "category": "Society",
+    "tags": [],
+    "url": "https://ethiopia.md/society/gadaa-system",
+    "readingTime": 9,
+    "featured": true,
+    "date": "2026-11-03",
+    "path": "Society/gadaa-system.md"
+  },
+  {
+    "title": "የግዕዝ ብራና ሥዕሎች እና ዘመናዊው የኢትዮጵያ ስነ-ጥበብ",
+    "description": "ከመካከለኛው ዘመን የብራና መጻሕፍትና የአብያተ ክርስቲያናት ምስሎች ጀምሮ እስከ ሜትር አርቲስት አፈወርቅ ተክሌ ዘመናዊ የጥበብ ሥራዎች ድረስ የኢትዮጵያ የስነ-ስዕል ጥበብ ታሪክና ዝግመተ-ለውጥ።",
+    "category": "Art",
+    "tags": [],
+    "url": "https://ethiopia.md/art/ethiopian-illuminations-modern-art",
+    "readingTime": 10,
+    "featured": true,
+    "date": "2026-11-03",
+    "path": "Art/ethiopian-illuminations-modern-art.md"
+  },
+  {
+    "title": "ዳግማዊ አጼ ምኒልክ እና እቴጌ ጣይቱ ብጡል፦ የዘመናዊት ኢትዮጵያ ፈር ቀዳጆች",
+    "description": "የዘመናዊት ኢትዮጵያን የግዛት አንድነት ያጠናከሩት፣ አዲስ አበባን የመሰረቱትና የአድዋን ታላቅ ድል የመሩት ዳግማዊ አጼ ምኒልክ እና እቴጌ ጣይቱ ብጡል ታሪክና አስተዋጽኦ።",
+    "category": "People",
+    "tags": [],
+    "url": "https://ethiopia.md/people/menelik-ii-and-taytu-betul",
+    "readingTime": 8,
+    "featured": true,
+    "date": "2026-11-03",
+    "path": "People/menelik-ii-and-taytu-betul.md"
   },
   {
     "title": "ጂኦግራፊ",
@@ -132,6 +396,35 @@
     "path": "Art/_Art Hub.md"
   },
   {
+    "title": "Abebe Bikila and the Marathon Legacy: The Barefoot Pioneer of African Athletics",
+    "description": "Running barefoot over the cobblestones of Rome in 1960, Abebe Bikila became the first Black African to win an Olympic gold medal, inaugurating East Africa’s global distance-running dynasty.",
+    "category": "en",
+    "tags": [],
+    "url": "https://ethiopia.md/en/people/abebe-bikila-marathon-legacy",
+    "readingTime": 15,
+    "featured": true,
+    "date": "2026-11-03",
+    "path": "en/People/abebe-bikila-marathon-legacy.md"
+  },
+  {
+    "title": "Addis Ababa Café Culture and the Macchiato Heritage",
+    "description": "From historic Tomoca to modern urban meeting spaces: an in-depth exploration of how Addis Ababa's cafés became vibrant hubs of social dialogue, commerce, and creative life.",
+    "category": "en",
+    "tags": [
+      "Addis Ababa",
+      "Cafe Culture",
+      "Macchiato",
+      "Tomoca",
+      "Urban Life",
+      "Social Hubs"
+    ],
+    "url": "https://ethiopia.md/en/lifestyle/addis-ababa-cafe-culture",
+    "readingTime": 15,
+    "featured": true,
+    "date": "2026-03-31",
+    "path": "en/Lifestyle/addis-ababa-cafe-culture.md"
+  },
+  {
     "title": "Art",
     "description": "A comprehensive survey of Ethiopia's artistic tradition, spanning from medieval illuminated manuscripts and the rock-hewn churches of Lalibela to modern painting and cinema.",
     "category": "en",
@@ -141,6 +434,28 @@
     "featured": false,
     "date": "2026-08-11",
     "path": "en/Art/_Art Hub.md"
+  },
+  {
+    "title": "Artificial Intelligence Development in Ethiopia",
+    "description": "From iCog Labs' contribution to the robot Sophia to Ethiopia's first national AI policy, the Fayda digital ID, and machine-learning tools reaching wheat farmers, this article traces the development of artificial intelligence in Ethiopia.",
+    "category": "en",
+    "tags": [],
+    "url": "https://ethiopia.md/en/technology/ai-development",
+    "readingTime": 23,
+    "featured": true,
+    "date": "2026-08-24",
+    "path": "en/Technology/ai-development.md"
+  },
+  {
+    "title": "Bale Mountains National Park: Africa’s Largest Afroalpine Plateau and Water Tower",
+    "description": "Inscribed as a UNESCO World Heritage site in 2023, the Bale Mountains encompass the continent’s most extensive afroalpine plateau, the primordial Harenna cloud forest, and the hydrological lifeline of 12 million people.",
+    "category": "en",
+    "tags": [],
+    "url": "https://ethiopia.md/en/nature/bale-mountains-ecosystem",
+    "readingTime": 14,
+    "featured": true,
+    "date": "2026-11-03",
+    "path": "en/Nature/bale-mountains-ecosystem.md"
   },
   {
     "title": "Culture",
@@ -154,6 +469,17 @@
     "path": "en/Culture/_Culture Hub.md"
   },
   {
+    "title": "Doro Wat and Festive Dining: The Crown of Ethiopian Culinary Tradition",
+    "description": "Considered the national dish of Ethiopia, Doro Wat is a slow-cooked spicy chicken stew prepared with caramelized red onions, berbere, spiced clarified butter, and hard-boiled eggs for major religious holidays.",
+    "category": "en",
+    "tags": [],
+    "url": "https://ethiopia.md/en/food/doro-wat-and-festive-dining",
+    "readingTime": 13,
+    "featured": true,
+    "date": "2026-11-03",
+    "path": "en/Food/doro-wat-and-festive-dining.md"
+  },
+  {
     "title": "Economy",
     "description": "A brief introduction exploring Ethiopia's agriculture-driven economy, the role of coffee and teff, the state-led development strategy, and major pillars from Ethiopian Airlines to the Grand Renaissance Dam.",
     "category": "en",
@@ -165,6 +491,61 @@
     "path": "en/Economy/_Economy Hub.md"
   },
   {
+    "title": "Emperor Menelik II and Empress Taytu Betul: Architects of Modern Ethiopia",
+    "description": "Emperor Menelik II and Empress Taytu Betul unified modern Ethiopia, founded the capital Addis Ababa, introduced modernization infrastructure, and defended national sovereignty at the Battle of Adwa.",
+    "category": "en",
+    "tags": [],
+    "url": "https://ethiopia.md/en/people/menelik-ii-and-taytu-betul",
+    "readingTime": 13,
+    "featured": true,
+    "date": "2026-11-03",
+    "path": "en/People/menelik-ii-and-taytu-betul.md"
+  },
+  {
+    "title": "Endemic Wildlife of Ethiopia: Evolutionary Speciation on the High Plateau",
+    "description": "Isolated by extreme altitude, Ethiopia harbors more than 30 endemic mammal species and over 20 endemic birds, including the Walia Ibex, Gelada Baboon, Ethiopian Wolf, and Mountain Nyala.",
+    "category": "en",
+    "tags": [],
+    "url": "https://ethiopia.md/en/nature/ethiopian-endemic-wildlife",
+    "readingTime": 15,
+    "featured": true,
+    "date": "2026-11-03",
+    "path": "en/Nature/ethiopian-endemic-wildlife.md"
+  },
+  {
+    "title": "Ethio-Jazz and Mulatu Astatke: The Alchemical Fusion of Highland Modes",
+    "description": "Forged in late-1960s Addis Ababa, Ethio-Jazz fused ancient Ethiopian pentatonic modes (Tizita, Bati, Ambassel, Anchihoye) with Western jazz harmonies and Afro-Latin percussion.",
+    "category": "en",
+    "tags": [],
+    "url": "https://ethiopia.md/en/music/ethio-jazz-mulatu-astatke",
+    "readingTime": 15,
+    "featured": true,
+    "date": "2026-11-03",
+    "path": "en/Music/ethio-jazz-mulatu-astatke.md"
+  },
+  {
+    "title": "Ethiopian Airlines: Africa’s Global Aviation Powerhouse and Transit Crossroads",
+    "description": "Founded in 1945, Ethiopian Airlines is Africa’s largest and most profitable airline carrier, transforming Addis Ababa into the premier continental transit crossroads connecting five continents.",
+    "category": "en",
+    "tags": [],
+    "url": "https://ethiopia.md/en/economy/ethiopian-airlines-aviation-hub",
+    "readingTime": 15,
+    "featured": true,
+    "date": "2026-11-03",
+    "path": "en/Economy/ethiopian-airlines-aviation-hub.md"
+  },
+  {
+    "title": "Ethiopian Coffee Culture and the Coffee Ceremony",
+    "description": "Ethiopia is the birthplace of Arabica coffee, and this piece explores the Ethiopian coffee ceremony — from jebena to Abol, Tona and Baraka — as both a social bond and an economic pillar.",
+    "category": "en",
+    "tags": [],
+    "url": "https://ethiopia.md/en/culture/ethiopian-coffee-culture",
+    "readingTime": 30,
+    "featured": true,
+    "date": "2026-08-24",
+    "path": "en/Culture/ethiopian-coffee-culture.md"
+  },
+  {
     "title": "Food",
     "description": "Ethiopian food is built on injera and teff, berbere-spiced stews, the coffee ceremony, and Orthodox fasting traditions, known for its rich flavors that vary from region to region.",
     "category": "en",
@@ -174,6 +555,17 @@
     "featured": false,
     "date": "2026-08-11",
     "path": "en/Food/_Food Hub.md"
+  },
+  {
+    "title": "Ge’ez Illuminations and Modern Art: From Parchment Icons to Modern Masters",
+    "description": "From medieval illuminated manuscripts and winged cherubim to the stained-glass masterpieces of Afewerk Tekle and Skunder Boghossian, explore the continuous visual art tradition of Ethiopia.",
+    "category": "en",
+    "tags": [],
+    "url": "https://ethiopia.md/en/art/ethiopian-illuminations-modern-art",
+    "readingTime": 17,
+    "featured": true,
+    "date": "2026-11-03",
+    "path": "en/Art/ethiopian-illuminations-modern-art.md"
   },
   {
     "title": "Geography",
@@ -196,6 +588,28 @@
     "featured": false,
     "date": "2026-08-11",
     "path": "en/History/_History Hub.md"
+  },
+  {
+    "title": "Iddir and Iqub: Indigenous Social Safety Nets and Rotating Credit",
+    "description": "Long before modern insurance and commercial banking arrived in Ethiopia, indigenous grassroots institutions—Iddir (funeral mutual aid) and Iqub (rotating savings)—anchored social solidarity and community finance.",
+    "category": "en",
+    "tags": [],
+    "url": "https://ethiopia.md/en/society/iddir-and-iqub-mutual-aid",
+    "readingTime": 15,
+    "featured": true,
+    "date": "2026-11-03",
+    "path": "en/Society/iddir-and-iqub-mutual-aid.md"
+  },
+  {
+    "title": "Injera and Teff Agronomy: The Foundation of Ethiopian Cuisine",
+    "description": "Injera, the sourdough flatbread made from the ancient endemic grain teff (Eragrostis tef), forms the nutritional, cultural, and communal core of Ethiopian life.",
+    "category": "en",
+    "tags": [],
+    "url": "https://ethiopia.md/en/food/injera-and-teff",
+    "readingTime": 15,
+    "featured": true,
+    "date": "2026-11-03",
+    "path": "en/Food/injera-and-teff.md"
   },
   {
     "title": "Lifestyle",
@@ -262,5 +676,126 @@
     "featured": false,
     "date": "2026-08-11",
     "path": "en/Technology/_Technology Hub.md"
+  },
+  {
+    "title": "Telebirr and the Digital Payments Revolution",
+    "description": "Launched in Ginbot 2013 E.C., telebirr has attracted more than 54 million users in a short period and is reshaping Ethiopia's financial system. This article examines the platform's origins and growth, its relationship with banks, and the challenges that remain.",
+    "category": "en",
+    "tags": [],
+    "url": "https://ethiopia.md/en/technology/telebirr-digital-payments",
+    "readingTime": 24,
+    "featured": true,
+    "date": "2026-08-24",
+    "path": "en/Technology/telebirr-digital-payments.md"
+  },
+  {
+    "title": "The Aksumite Empire: Ancient Ethiopia’s Global Mercantile Power",
+    "description": "Flourishing between the 1st and 8th centuries CE, the Aksumite Empire commanded Red Sea trade routes, minted its own gold coinage, and erected towering monolithic stelae as one of the ancient world’s great powers.",
+    "category": "en",
+    "tags": [],
+    "url": "https://ethiopia.md/en/history/aksumite-empire",
+    "readingTime": 17,
+    "featured": true,
+    "date": "2026-11-03",
+    "path": "en/History/aksumite-empire.md"
+  },
+  {
+    "title": "The Battle of Adwa: Sovereign Defense and the Icon of Anti-Colonial Resistance",
+    "description": "In 1896, Ethiopian forces led by Emperor Menelik II and Empress Taytu Betul routed an invading Italian army at the Battle of Adwa, preserving national independence and igniting global Pan-African resistance.",
+    "category": "en",
+    "tags": [],
+    "url": "https://ethiopia.md/en/history/battle-of-adwa",
+    "readingTime": 17,
+    "featured": true,
+    "date": "2026-11-03",
+    "path": "en/History/battle-of-adwa.md"
+  },
+  {
+    "title": "The Ethiopian Orthodox Tewahedo Church and Its Major Festivals",
+    "description": "An introduction to the Ethiopian Orthodox Tewahedo Church — founded in the 4th century in the Kingdom of Aksum — and its major festivals, including Timkat, Meskel, Genna and Fasika.",
+    "category": "en",
+    "tags": [],
+    "url": "https://ethiopia.md/en/culture/ethiopian-religious-festivals",
+    "readingTime": 25,
+    "featured": true,
+    "date": "2026-08-24",
+    "path": "en/Culture/ethiopian-religious-festivals.md"
+  },
+  {
+    "title": "The Gadaa System: The Indigenous Democratic Heritage of the Oromo",
+    "description": "Practiced for over five centuries and inscribed by UNESCO in 2016, the Gadaa system is an indigenous egalitarian socio-political democratic governance system structuring generational leadership, human rights, and environmental ethics.",
+    "category": "en",
+    "tags": [],
+    "url": "https://ethiopia.md/en/society/gadaa-system",
+    "readingTime": 16,
+    "featured": true,
+    "date": "2026-11-03",
+    "path": "en/Society/gadaa-system.md"
+  },
+  {
+    "title": "The Grand Ethiopian Renaissance Dam (GERD): Energy Sovereignty and Regional Integration",
+    "description": "Constructed on the Blue Nile through domestic public bond financing without external loans, the 5,150 MW GERD is Africa’s largest hydroelectric installation and green energy engine.",
+    "category": "en",
+    "tags": [],
+    "url": "https://ethiopia.md/en/economy/grand-ethiopian-renaissance-dam",
+    "readingTime": 17,
+    "featured": true,
+    "date": "2026-11-03",
+    "path": "en/Economy/grand-ethiopian-renaissance-dam.md"
+  },
+  {
+    "title": "The Great Rift Valley: Geological Rupture and the Cradle of Humankind",
+    "description": "Bisecting Ethiopia diagonally from the hyper-arid Danakil Depression to lush southern lakes, the Ethiopian Rift Valley is a dynamic tectonic laboratory and the world’s preeminent paleoanthropological landscape.",
+    "category": "en",
+    "tags": [],
+    "url": "https://ethiopia.md/en/geography/great-rift-valley",
+    "readingTime": 15,
+    "featured": true,
+    "date": "2026-11-03",
+    "path": "en/Geography/great-rift-valley.md"
+  },
+  {
+    "title": "The Habesha Kemis and Shema Weaving: The Living Art of Ethiopian Dress",
+    "description": "Handwoven from spun cotton on wooden pit looms and bordered with intricate colorful geometric tibeb embroidery, the Habesha Kemis and netela scarf represent the pinnacle of Ethiopian sartorial grace.",
+    "category": "en",
+    "tags": [],
+    "url": "https://ethiopia.md/en/lifestyle/habesha-kemis-and-handwoven-textiles",
+    "readingTime": 13,
+    "featured": true,
+    "date": "2026-11-03",
+    "path": "en/Lifestyle/habesha-kemis-and-handwoven-textiles.md"
+  },
+  {
+    "title": "The Rock-Hewn Churches of Lalibela: Medieval Monolithic Engineering",
+    "description": "Carved directly downward out of solid red volcanic tuff during the 12th and 13th centuries under King Lalibela, the eleven medieval churches of Roha represent a pinnacle of world monolithic architecture.",
+    "category": "en",
+    "tags": [],
+    "url": "https://ethiopia.md/en/art/lalibela-rock-hewn-churches",
+    "readingTime": 15,
+    "featured": true,
+    "date": "2026-11-03",
+    "path": "en/Art/lalibela-rock-hewn-churches.md"
+  },
+  {
+    "title": "The Simien Mountains: The Roof of Africa and High-Altitude Wildlife Sanctuary",
+    "description": "Home to Ethiopia’s highest peak, Ras Dejen (4,550m), Simien Mountains National Park is a UNESCO World Heritage landscape of dramatic volcanic escarpments and endemic biodiversity.",
+    "category": "en",
+    "tags": [],
+    "url": "https://ethiopia.md/en/geography/simien-mountains",
+    "readingTime": 14,
+    "featured": true,
+    "date": "2026-11-03",
+    "path": "en/Geography/simien-mountains.md"
+  },
+  {
+    "title": "Traditional Ethiopian Instruments: Masenqo, Krar, and Washint",
+    "description": "The acoustic bedrock of Ethiopian music, the single-stringed masenqo lute, the krar bowl-lyre, and the washint flute represent centuries of melodic storytelling and spiritual resonance.",
+    "category": "en",
+    "tags": [],
+    "url": "https://ethiopia.md/en/music/traditional-instruments-krar-masenqo",
+    "readingTime": 14,
+    "featured": true,
+    "date": "2026-11-03",
+    "path": "en/Music/traditional-instruments-krar-masenqo.md"
   }
 ]

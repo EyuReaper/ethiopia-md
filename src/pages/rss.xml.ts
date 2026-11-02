@@ -4,11 +4,11 @@ import path from 'path';
 import matter from 'gray-matter';
 
 export async function GET(context) {
-  // [Amharic translation needed - original Taiwan context] knowledge/ [Amharic translation needed - original Taiwan context]
+  // Scan knowledge/ directory for published articles
   const knowledgeDir = path.join(process.cwd(), 'knowledge');
   const articles = [];
 
-  // [Amharic translation needed - original Taiwan context]
+  // Recursive directory scanner
   function scanDir(dir, category = '') {
     const files = fs.readdirSync(dir);
     for (const file of files) {
@@ -45,7 +45,7 @@ export async function GET(context) {
 
   scanDir(knowledgeDir);
 
-  // [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 50 [Amharic translation needed - original Taiwan context]
+  // Sort by publish date descending, limit to recent 50 articles
   articles.sort((a, b) => b.pubDate - a.pubDate);
 
   return rss({

@@ -225,9 +225,9 @@ export const aboutUI = {
       "Ethiopia.md is built and maintained by a community of contributors, writers, translators, and AI collaborators. There is no single founder story to tell yet — every article, translation, and correction is written by someone who believes Ethiopia's story should be told by the people who know it best. TODO: if this project settles around a named maintainer or founding team, replace this with their real bio.",
 
     // Founder links
-    'about.team.founder.link.website': 'cheyuwu.com',
+    'about.team.founder.link.website': 'https://ethiopia.md',
     'about.team.founder.link.github': '@EyuReaper',
-    'about.team.founder.link.instagram': '@cheyuwu345',
+    'about.team.founder.link.instagram': '@ethiopiadotmd',
 
     // Team cards
     'about.team.muse.icon': '🫧',
@@ -286,9 +286,6 @@ export const aboutUI = {
     'about.sponsors.tier.curation.perks':
       'Logo on About page・"Curated by" credit on articles・README acknowledgment・Co-branded content series',
     'about.sponsors.tier.curation.placeholder': 'Be the First Curation Partner',
-    'about.sponsors.nmth.story.title': 'TODO — Institutional Partner Story',
-    'about.sponsors.nmth.story.desc':
-      'No confirmed institutional partnership exists yet. This card is a placeholder for if and when Ethiopia.md forms a real collaboration with a museum, university, or research institution — the kind of partner who could help fact-check and deepen content with primary sources.',
     'about.sponsors.tier.professional.name': '🔧 Professional Partner',
     'about.sponsors.tier.professional.desc':
       "Directly enhancing Ethiopia.md's quality and experience through professional capabilities or services",
@@ -309,15 +306,6 @@ export const aboutUI = {
     'about.sponsors.tier.individual.perks': 'README thank-you list',
     'about.sponsors.tier.individual.placeholder':
       'Be the First Individual Supporter',
-
-    // Sponsor stories
-    'about.sponsors.justfont.story.title': 'TODO — Typography Partner Story',
-    'about.sponsors.justfont.story.desc':
-      "No confirmed typography or font sponsor exists yet. This card is a placeholder for when Ethiopia.md secures a design or typography partnership — ideally one that gives Ge'ez and Ethiopic script the same care as Latin type.",
-    'about.sponsors.protico.text.html':
-      '<strong>TODO</strong> — no confirmed technology partner yet.',
-    'about.sponsors.howie.text.html':
-      '<strong>TODO</strong> — no confirmed individual sponsor yet.',
 
     // Sponsor CTA
     'about.sponsors.cta.title': 'Want to Help the World Know Ethiopia?',
@@ -587,9 +575,9 @@ export const aboutUI = {
       'Ethiopia.md የሚገነባውና የሚተዳደረው በአስተዋጽዖ አበርካቾች፣ ጸሐፊዎች፣ ተርጓሚዎች እና የ AI ተባባሪዎች ማህበረሰብ ነው። እስካሁን የተነገረ ነጠላ የመስራች ታሪክ የለም — እያንዳንዱ ጽሑፍ፣ ትርጉም እና እርማት የተጻፈው የኢትዮጵያ ታሪክ በሚያውቋት ሰዎች መነገር አለበት ብሎ በሚያምን ሰው ነው። TODO: ይህ ፕሮጀክት በስም በሚታወቅ አስተዳዳሪ ወይም መስራች ቡድን ዙሪያ ከረጋ፣ ይህንን በእውነተኛ የሕይወት ታሪካቸው ይተኩ።',
 
     // Founder links
-    'about.team.founder.link.website': 'cheyuwu.com',
+    'about.team.founder.link.website': 'https://ethiopia.md',
     'about.team.founder.link.github': '@EyuReaper',
-    'about.team.founder.link.instagram': '@cheyuwu345',
+    'about.team.founder.link.instagram': '@ethiopiadotmd',
 
     // Team cards
     'about.team.muse.icon': '🫧',
@@ -648,9 +636,6 @@ export const aboutUI = {
     'about.sponsors.tier.curation.perks':
       'ሎጎ በ About ገጽ ላይ ・ በጽሑፎች ላይ "የተሰናዳው በ" እውቅና ・ በ README ላይ ምስጋና ・ የጋራ ይዘቶች',
     'about.sponsors.tier.curation.placeholder': 'የመጀመሪያው የይዘት ዝግጅት አጋር ይሁኑ',
-    'about.sponsors.nmth.story.title': 'TODO — የተቋም አጋር ታሪክ',
-    'about.sponsors.nmth.story.desc':
-      'እስካሁን የተረጋገጠ ተቋማዊ ትብብር የለም። ይህ ካርድ Ethiopia.md ከሙዚየም፣ ዩኒቨርሲቲ ወይም የምርምር ተቋም ጋር እውነተኛ ትብብር ቢፈጥር ለሚያገለግል ቦታ መያዣ ነው — ይዘትን በዋና ምንጮች ለማጣራት እና ለማበልጸግ ሊረዳ የሚችል አጋር።',
     'about.sponsors.tier.professional.name': '🔧 ፕሮፌሽናል አጋር',
     'about.sponsors.tier.professional.desc':
       'በሙያዊ ችሎታዎች ወይም አገልግሎቶች የ Ethiopia.md ጥራት እና ተሞክሮ በቀጥታ የሚያሻሽሉ',
@@ -667,15 +652,6 @@ export const aboutUI = {
     'about.sponsors.tier.individual.desc': 'በግል አስተዋጽዖ የፕሮጀክቱን ዘላቂነት የሚደግፉ',
     'about.sponsors.tier.individual.perks': 'በ README ላይ የምስጋና ዝርዝር',
     'about.sponsors.tier.individual.placeholder': 'የመጀመሪያው የግል ደጋፊ ይሁኑ',
-
-    // Sponsor stories
-    'about.sponsors.justfont.story.title': 'TODO — የፊደል ጥበብ አጋር ታሪክ',
-    'about.sponsors.justfont.story.desc':
-      'እስካሁን የተረጋገጠ የፊደል ወይም ፎንት ስፖንሰር የለም። ይህ ካርድ Ethiopia.md የንድፍ ወይም የፊደል ጥበብ ትብብር ቢያገኝ ለሚያገለግል ቦታ መያዣ ነው — በተለይ ለግዕዝ ፊደል ገበታ ልክ እንደ ላቲን ፊደላት ተመሳሳይ ትኩረት የሚሰጥ።',
-    'about.sponsors.protico.text.html':
-      '<strong>TODO</strong> — እስካሁን የተረጋገጠ የቴክኖሎጂ አጋር የለም።',
-    'about.sponsors.howie.text.html':
-      '<strong>TODO</strong> — እስካሁን የተረጋገጠ የግል ስፖንሰር የለም።',
 
     // Sponsor CTA
     'about.sponsors.cta.title': 'ዓለም ኢትዮጵያን እንዲያውቅ መርዳት ይፈልጋሉ?',

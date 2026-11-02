@@ -52,139 +52,139 @@
   "flagship_articles": [
     {
       "category": "Art",
-      "file": "taiwanese-architecture-multicultural-layers.md",
+      "file": "lalibela-rock-hewn-churches.md",
       "in_degree": 0,
       "featured": true
     },
     {
       "category": "Art",
-      "file": "taiwanese-art-education-and-academic-development.md",
+      "file": "ethiopian-illuminations-modern-art.md",
       "in_degree": 0,
       "featured": true
     },
     {
       "category": "Culture",
-      "file": "Ethiopia茶文化.md",
+      "file": "ethiopian-coffee-culture.md",
       "in_degree": 0,
       "featured": true
     },
     {
       "category": "Culture",
-      "file": "taiwan-religion-and-temple-culture.md",
+      "file": "ethiopian-religious-festivals.md",
       "in_degree": 0,
       "featured": true
     },
     {
       "category": "Economy",
-      "file": "startup-ecosystem.md",
+      "file": "ethiopian-airlines-aviation-hub.md",
       "in_degree": 0,
       "featured": true
     },
     {
       "category": "Economy",
-      "file": "taiwan-agricultural-modernization-development.md",
+      "file": "grand-ethiopian-renaissance-dam.md",
       "in_degree": 0,
       "featured": true
     },
     {
       "category": "Food",
-      "file": "beef-noodle-soup.md",
+      "file": "injera-and-teff.md",
       "in_degree": 0,
       "featured": true
     },
     {
       "category": "Food",
-      "file": "braised-pork-rice.md",
+      "file": "doro-wat-and-festive-dining.md",
       "in_degree": 0,
       "featured": true
     },
     {
       "category": "Geography",
-      "file": "national-scenic-area-system.md",
+      "file": "great-rift-valley.md",
       "in_degree": 0,
       "featured": true
     },
     {
       "category": "Geography",
-      "file": "offshore-islands-and-maritime-culture.md",
+      "file": "simien-mountains.md",
       "in_degree": 0,
       "featured": true
     },
     {
       "category": "History",
-      "file": "228-incident.md",
+      "file": "battle-of-adwa.md",
       "in_degree": 0,
       "featured": true
     },
     {
       "category": "History",
-      "file": "Ethiopia島史觀.md",
+      "file": "aksumite-empire.md",
       "in_degree": 0,
       "featured": true
     },
     {
       "category": "Lifestyle",
-      "file": "convenience-store-culture.md",
+      "file": "habesha-kemis-and-handwoven-textiles.md",
       "in_degree": 0,
       "featured": true
     },
     {
       "category": "Lifestyle",
-      "file": "history-of-taiwan-mrt-development.md",
+      "file": "addis-ababa-cafe-culture.md",
       "in_degree": 0,
       "featured": true
     },
     {
       "category": "Music",
-      "file": "contemporary-indigenous-singer-songwriters.md",
+      "file": "ethio-jazz-mulatu-astatke.md",
       "in_degree": 0,
       "featured": true
     },
     {
       "category": "Music",
-      "file": "Ethiopia流行音樂.md",
+      "file": "traditional-instruments-krar-masenqo.md",
       "in_degree": 0,
       "featured": true
     },
     {
       "category": "Nature",
-      "file": "biodiversity.md",
+      "file": "ethiopian-endemic-wildlife.md",
       "in_degree": 0,
       "featured": true
     },
     {
       "category": "Nature",
-      "file": "Ethiopia國家公園.md",
+      "file": "bale-mountains-ecosystem.md",
       "in_degree": 0,
       "featured": true
     },
     {
       "category": "People",
-      "file": "tai-tzu-ying.md",
+      "file": "menelik-ii-and-taytu-betul.md",
       "in_degree": 0,
       "featured": true
     },
     {
       "category": "People",
-      "file": "tai-yu-wu.md",
+      "file": "abebe-bikila-marathon-legacy.md",
       "in_degree": 0,
       "featured": true
     },
     {
       "category": "Society",
-      "file": "social-movements-and-civic-participation.md",
+      "file": "gadaa-system.md",
       "in_degree": 0,
       "featured": true
     },
     {
       "category": "Society",
-      "file": "sunflower-movement.md",
+      "file": "iddir-and-iqub-mutual-aid.md",
       "in_degree": 0,
       "featured": true
     },
     {
       "category": "Technology",
-      "file": "5g-network-and-digital-transformation.md",
+      "file": "telebirr-digital-payments.md",
       "in_degree": 0,
       "featured": true
     },

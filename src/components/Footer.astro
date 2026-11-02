@@ -92,22 +92,6 @@ const translatePath = useTranslatedPath(lang);
         >
       </div>
     </div>
-    <div class="footer-font-credit">
-      <span>{t('footer.font-sponsor-prefix')}</span>
-      <a
-        href="https://justfont.com"
-        target="_blank"
-        rel="noopener noreferrer"
-        class="justfont-link"
-      >
-        <img
-          src="/images/justfont-logo.svg"
-          alt="justfont"
-          class="justfont-logo"
-        />
-      </a>
-      <span>{t('footer.font-sponsor-suffix')}</span>
-    </div>
     <div class="footer-bottom">
       &copy; 2026 Ethiopia.md — {t('footer.desc')}
     </div>
@@ -208,32 +192,6 @@ const translatePath = useTranslatedPath(lang);
     height: 1px;
     background: #a7c7a7;
     opacity: 0.7;
-  }
-  .footer-font-credit {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 0.5rem;
-    padding: 0.8rem 0;
-    font-size: 0.78rem;
-    color: #94a3b8;
-  }
-  .justfont-link {
-    display: inline-flex;
-    align-items: center;
-    border: none !important;
-    padding: 0 !important;
-  }
-  .justfont-logo {
-    height: 16px;
-    width: auto;
-    opacity: 0.7;
-    transition: opacity 0.2s;
-    filter: brightness(0) invert(0.7);
-  }
-  .justfont-link:hover .justfont-logo {
-    opacity: 1;
-    filter: brightness(0) invert(0.85);
   }
   .footer-bottom {
     text-align: center;

@@ -38,7 +38,7 @@ function buildMap() {
         const name = basename(file, '.md');
         try {
           const { data } = matter(readFileSync(join(dir, file), 'utf-8'));
-          if (data.status === 'draft') continue; // archived stays resolvable
+          if (data.status === 'draft' || data.status === 'archived') continue; // only published participates
         } catch {}
         titleToUrl.set(name, `/${slug}/${encodeURIComponent(name)}`);
       }

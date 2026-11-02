@@ -1,60 +1,60 @@
 {
-  "totalArticles": 24,
+  "totalArticles": 72,
   "totalCategories": 13,
-  "estimatedContributors": 2,
-  "totalTags": 13,
+  "estimatedContributors": 5,
+  "totalTags": 25,
   "categories": [
     {
       "name": "Music",
-      "count": 1
+      "count": 3
     },
     {
       "name": "Society",
-      "count": 1
+      "count": 3
     },
     {
       "name": "Food",
-      "count": 1
+      "count": 3
     },
     {
       "name": "People",
-      "count": 1
+      "count": 3
     },
     {
       "name": "Culture",
-      "count": 1
+      "count": 3
     },
     {
       "name": "Nature",
-      "count": 1
-    },
-    {
-      "name": "History",
-      "count": 1
-    },
-    {
-      "name": "Technology",
-      "count": 1
-    },
-    {
-      "name": "Lifestyle",
-      "count": 1
-    },
-    {
-      "name": "Economy",
-      "count": 1
+      "count": 3
     },
     {
       "name": "Geography",
-      "count": 1
+      "count": 3
+    },
+    {
+      "name": "Economy",
+      "count": 3
+    },
+    {
+      "name": "History",
+      "count": 3
+    },
+    {
+      "name": "Technology",
+      "count": 3
+    },
+    {
+      "name": "Lifestyle",
+      "count": 3
     },
     {
       "name": "Art",
-      "count": 1
+      "count": 3
     },
     {
       "name": "en",
-      "count": 12
+      "count": 36
     }
   ],
   "topTags": [
@@ -109,11 +109,39 @@
     {
       "name": "Art",
       "count": 2
+    },
+    {
+      "name": "አዲስ አበባ",
+      "count": 1
+    },
+    {
+      "name": "ካፌ ባህል",
+      "count": 1
+    },
+    {
+      "name": "ማኪያቶ",
+      "count": 1
+    },
+    {
+      "name": "ቶሞካ",
+      "count": 1
+    },
+    {
+      "name": "የከተማ ኑሮ",
+      "count": 1
+    },
+    {
+      "name": "ማህበራዊ ሕይወት",
+      "count": 1
+    },
+    {
+      "name": "Addis Ababa",
+      "count": 1
     }
   ],
   "languageDistribution": {
-    "am": 24,
+    "am": 72,
     "en": 0
   },
-  "lastUpdated": "2026-08-13T11:50:50.299Z"
+  "lastUpdated": "2026-11-02T21:49:03.131Z"
 }

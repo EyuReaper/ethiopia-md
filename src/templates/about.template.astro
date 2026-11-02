@@ -9,7 +9,7 @@ const t = useTranslations(lang);
 
 <Layout title={t('about.meta.title')} description={t('about.meta.description')}>
   <div class="about-page">
-    <!-- Section 1: [Amharic translation needed - original Taiwan context] Ethiopia.md？ -->
+    <!-- Section 1: Why Ethiopia.md? -->
     <section class="naming-section" id="story">
       <div class="section-inner">
         <h1 class="section-title">{t('about.naming.title')}</h1>
@@ -80,7 +80,7 @@ const t = useTranslations(lang);
       </div>
     </section>
 
-    <!-- Section 2: Ethiopia.md [Amharic translation needed - original Taiwan context] -->
+    <!-- Section 2: Ethiopia.md Mission & Architecture -->
     <section class="origin-section">
       <div class="section-inner">
         <h2 class="section-title">{t('about.origin.title')}</h2>
@@ -160,7 +160,7 @@ const t = useTranslations(lang);
             <div class="timeline-content">
               <h3>{t('about.timeline.2026-03-18-2.title')}</h3>
               <p set:html={t('about.timeline.2026-03-18-2.desc.html')} />
-              <!-- [Amharic translation needed - original Taiwan context] -->
+              <!-- Architecture & Principles -->
               <div class="timeline-press-grid">
                 <a
                   href="https://www.cna.com.tw/news/ait/202603195002.aspx"
@@ -284,19 +284,19 @@ const t = useTranslations(lang);
       </div>
     </section>
 
-    <!-- Section 2.5: Ethiopia.md [Amharic translation needed - original Taiwan context] -->
+    <!-- Section 2.5: Ethiopia.md Living Knowledge Base -->
     <section class="organism-section" id="organism">
       <div class="section-inner">
         <h2 class="section-title">{t('about.organism.title')}</h2>
         <p class="section-subtitle">{t('about.organism.subtitle')}</p>
 
-        <!-- [Amharic translation needed - original Taiwan context] -->
+        <!-- Architecture & Principles -->
         <div class="organism-intro">
           <p>{t('about.organism.intro.p1')}</p>
           <p class="organism-highlight">{t('about.organism.intro.p2')}</p>
         </div>
 
-        <!-- [Amharic translation needed - original Taiwan context] -->
+        <!-- Architecture & Principles -->
         <div class="organism-facts">
           <h3>{t('about.organism.facts.title')}</h3>
           <div class="fact-item">
@@ -313,7 +313,7 @@ const t = useTranslations(lang);
           </div>
         </div>
 
-        <!-- [Amharic translation needed - original Taiwan context] -->
+        <!-- Architecture & Principles -->
         <div class="organism-traits">
           <h3>{t('about.organism.characteristics.title')}</h3>
           <div class="traits-grid">
@@ -376,7 +376,7 @@ const t = useTranslations(lang);
           </div>
         </div>
 
-        <!-- [Amharic translation needed - original Taiwan context] -->
+        <!-- Architecture & Principles -->
         <div class="organism-reef">
           <h3>{t('about.organism.reef.title')}</h3>
           <div class="reef-grid">
@@ -403,19 +403,19 @@ const t = useTranslations(lang);
           </div>
         </div>
 
-        <!-- [Amharic translation needed - original Taiwan context] -->
+        <!-- Architecture & Principles -->
         <div class="organism-art">
           <p>{t('about.organism.art.desc')}</p>
         </div>
 
-        <!-- [Amharic translation needed - original Taiwan context] -->
+        <!-- Architecture & Principles -->
         <blockquote class="organism-quote">
           <p>{t('about.organism.ending.p1')}</p>
           <p>{t('about.organism.ending.p2')}</p>
           <p class="quote-future">{t('about.organism.ending.p3')}</p>
         </blockquote>
 
-        <!-- [Amharic translation needed - original Taiwan context] CTA -->
+        <!-- Knowledge Base CTA -->
         <div class="organism-dashboard-cta">
           <a href="/dashboard/" class="dashboard-btn">
             <span class="dashboard-btn-icon">🔬</span>
@@ -435,7 +435,7 @@ const t = useTranslations(lang);
       </div>
     </section>
 
-    <!-- Section 3: [Amharic translation needed - original Taiwan context] -->
+    <!-- Section 3: Community & Team -->
     <section class="team-section" id="team">
       <div class="section-inner">
         <h2 class="section-title">{t('about.team.title')}</h2>
@@ -785,7 +785,7 @@ const t = useTranslations(lang);
   }
 
   .section-title {
-    font-family: var(--font-title, 'Noto Serif TC', serif);
+    font-family: var(--font-title);
     font-size: 2.5rem;
     font-weight: 900;
     color: #1a3c34;
@@ -802,13 +802,13 @@ const t = useTranslations(lang);
     line-height: 1.6;
   }
 
-  /* ===== Section 1: [Amharic translation needed - original Taiwan context] Ethiopia.md？ ===== */
+  /* ===== Section 1: Why Ethiopia.md? ===== */
   .naming-section {
     padding: 4rem 0 3rem;
   }
 
   .naming-section .section-title {
-    font-family: var(--font-title, 'Noto Serif TC', serif);
+    font-family: var(--font-title);
     font-size: 3.5rem;
     font-weight: 900;
     color: #1a3c34;
@@ -894,7 +894,7 @@ const t = useTranslations(lang);
     color: #1f2937 !important;
   }
 
-  /* ===== Section 2: Ethiopia.md [Amharic translation needed - original Taiwan context] ===== */
+  /* ===== Section 2: Ethiopia.md Mission & Architecture ===== */
   .origin-section {
     padding: 4rem 0;
     background: #f9fafb;
@@ -1006,7 +1006,7 @@ const t = useTranslations(lang);
     text-decoration: underline;
   }
 
-  /* [Amharic translation needed - original Taiwan context] */
+  /* Content Styles */
   .timeline-press-grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -1098,7 +1098,7 @@ const t = useTranslations(lang);
     border-radius: 12px;
   }
 
-  /* ===== Section 2.5: Ethiopia.md [Amharic translation needed - original Taiwan context] (Organism) — [Amharic translation needed - original Taiwan context] ===== */
+  /* ===== Section 2.5: Ethiopia.md Living Knowledge Base ===== */
   .organism-section {
     padding: 4rem 0;
     background: linear-gradient(135deg, #0a2e2e 0%, #0d3b3b 50%, #0a2e2e 100%);
@@ -1332,7 +1332,7 @@ const t = useTranslations(lang);
     }
   }
 
-  /* ===== Section 3: [Amharic translation needed - original Taiwan context] ===== */
+  /* ===== Section 3: Community & Team ===== */
   .founder-section {
     background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
     padding: 4rem 0;
@@ -1490,7 +1490,7 @@ const t = useTranslations(lang);
     font-size: 0.95rem;
   }
 
-  /* Founder Links - [Amharic translation needed - original Taiwan context] inline [Amharic translation needed - original Taiwan context] */
+  /* Founder Links - inline list */
   .founder-links-inline {
     display: flex;
     flex-wrap: nowrap;
@@ -1527,7 +1527,7 @@ const t = useTranslations(lang);
     color: #1f2937;
   }
 
-  /* ===== Section 4: [Amharic translation needed - original Taiwan context] ===== */
+  /* ===== Section 4: Milestones & Roadmap ===== */
   .team-section {
     padding: 4rem 0;
     margin: 0;
@@ -1535,7 +1535,7 @@ const t = useTranslations(lang);
     padding-right: 1rem;
   }
 
-  /* [Amharic translation needed - original Taiwan context] */
+  /* Content Styles */
   .team-philosophy {
     background: white;
     border-radius: 16px;
@@ -1630,7 +1630,7 @@ const t = useTranslations(lang);
     color: #1d4ed8;
   }
 
-  /* [Amharic translation needed - original Taiwan context] */
+  /* Content Styles */
   .contributors-in-team {
     background: #f8fafc;
     border-radius: 16px;
@@ -1767,7 +1767,7 @@ const t = useTranslations(lang);
     color: #6b8e23;
   }
 
-  /* ===== Section 5: [Amharic translation needed - original Taiwan context] ===== */
+  /* ===== Section 5: How to Contribute ===== */
   .contact-section {
     padding: 4rem 0 3rem;
     background: #f9fafb;
@@ -1873,7 +1873,7 @@ const t = useTranslations(lang);
     transform: translateY(-1px);
   }
 
-  /* ===== Section 6: [Amharic translation needed - original Taiwan context] ===== */
+  /* ===== Section 6: Sponsors & Supporters ===== */
   .sponsors-section {
     padding: 4rem 2rem;
     background: linear-gradient(135deg, #fef9f0, #fdf4e8);

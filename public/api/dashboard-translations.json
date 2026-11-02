@@ -2,20 +2,20 @@
   "languages": ["am", "en", "es", "ja"],
   "summary": {
     "am": {
-      "total": 419,
+      "total": 442,
       "percentage": 100
     },
     "en": {
-      "total": 484,
-      "percentage": 115.5
+      "total": 507,
+      "percentage": 114.7
     },
     "es": {
       "total": 34,
-      "percentage": 8.1
+      "percentage": 7.7
     },
     "ja": {
       "total": 13,
-      "percentage": 3.1
+      "percentage": 2.9
     }
   },
   "matrix": {
@@ -26,81 +26,105 @@
       "ja": 0
     },
     "art": {
-      "am": 24,
-      "en": 58,
+      "am": 26,
+      "en": 60,
       "es": 1,
       "ja": 0
     },
     "culture": {
-      "am": 36,
-      "en": 40,
+      "am": 38,
+      "en": 42,
       "es": 0,
       "ja": 2
     },
     "economy": {
-      "am": 48,
-      "en": 53,
+      "am": 50,
+      "en": 55,
       "es": 0,
       "ja": 1
     },
     "food": {
-      "am": 27,
-      "en": 34,
+      "am": 29,
+      "en": 36,
       "es": 5,
       "ja": 6
     },
     "geography": {
-      "am": 18,
-      "en": 25,
+      "am": 20,
+      "en": 27,
       "es": 0,
       "ja": 0
     },
     "history": {
-      "am": 24,
-      "en": 20,
+      "am": 26,
+      "en": 22,
       "es": 8,
       "ja": 1
     },
     "lifestyle": {
-      "am": 17,
-      "en": 22,
+      "am": 19,
+      "en": 24,
       "es": 5,
       "ja": 1
     },
     "music": {
-      "am": 19,
-      "en": 22,
+      "am": 21,
+      "en": 24,
       "es": 0,
       "ja": 0
     },
     "nature": {
-      "am": 25,
-      "en": 26,
+      "am": 27,
+      "en": 28,
       "es": 0,
       "ja": 1
     },
     "people": {
-      "am": 124,
-      "en": 124,
+      "am": 126,
+      "en": 126,
       "es": 10,
       "ja": 0
     },
     "society": {
-      "am": 26,
-      "en": 27,
+      "am": 28,
+      "en": 29,
       "es": 3,
       "ja": 0
     },
     "technology": {
-      "am": 25,
-      "en": 27,
+      "am": 26,
+      "en": 28,
       "es": 2,
       "ja": 1
     }
   },
   "missing": {
     "en": [
+      "Art/የግዕዝ ብራና ሥዕሎች እና ዘመናዊው የኢትዮጵያ ስነ-ጥበብ.md",
+      "Art/የላሊበላ ውቅር አብያተ ክርስቲያናት፦ የምድር ድንቅ ምህንድስና.md",
+      "Economy/የኢትዮጵያ አየር መንገድ፦ የአፍሪካ የአቪዬሽን ኩራት.md",
+      "Economy/ታላቁ የኢትዮጵያ ህዳሴ ግድብ (GERD)፦ የኃይልና የልማት ሉዓላዊነት.md",
+      "Food/የዶሮ ወጥ እና የበዓላት ማዕድ ባህል.md",
+      "Food/እንጀራ እና የጤፍ እርሻ፦ የኢትዮጵያ የምግብ አምድ.md",
+      "Geography/ታላቁ የስምጥ ሸለቆ፦ የኢትዮጵያ ጂኦሎጂያዊና ሥነ-ሕይወታዊ ድንቅ.md",
+      "Geography/የሰሜን ተራሮች ብሔራዊ ፓርክ፦ የአፍሪካ ጣሪያና የዱር አራዊት መጠለያ.md",
+      "History/የአክሱም መንግሥት፦ የጥንታዊቷ ኢትዮጵያ ዓለም አቀፍ ሥልጣኔ.md",
+      "History/የአድዋ ድል፦ የኢትዮጵያ ሉዓላዊነትና የፀረ-ቅኝ አገዛዝ ተምሳሌት.md",
+      "Lifestyle/የሐበሻ ቀሚስ እና የሸማ ጥበብ ባህል.md",
+      "Music/ኢትዮ-ጃዝ እና ሙላቱ አስታጥቄ፦ የድምፅ ፈጠራ ጥበብ.md",
+      "Music/የኢትዮጵያ ባህላዊ የሙዚቃ መሣሪያዎች፦ ክራር፣ ማሲንቆና ዋሽንት.md",
+      "Nature/የባሌ ተራሮች ብሔራዊ ፓርክ እና የአፍሮ-አልፓይን ሥነ-ምህዳር.md",
+      "Nature/የኢትዮጵያ ብርቅዬ የዱር እንስሳት፦ የተፈጥሮ ብዝሃ-ሕይወት ሀብት.md",
+      "People/አበበ ቢቂላ እና የኢትዮጵያ የማራቶን አርበኝነት.md",
+      "People/ዳግማዊ አጼ ምኒልክ እና እቴጌ ጣይቱ ብጡል፦ የዘመናዊት ኢትዮጵያ ፈር ቀዳጆች.md",
+      "Society/የገዳ ሥርዓት፦ ጥንታዊው የኦሮሞ ዲሞክራሲ.md",
+      "Society/ዕድር እና ዕቁብ፦ የኢትዮጵያ ማህበራዊና የፋይናንስ መረዳጃ ተቋማት.md",
+      "Culture/የኢትዮጵያ የቡና ባህልና የቡና ሥነ ሥርዓት.md",
+      "Culture/የኢትዮጵያ ኦርቶዶክስ ተዋሕዶ ቤተ ክርስቲያንና ታላላቅ በዓላት.md",
+      "Technology/የአርቴፊሻል ኢንተለጀንስ ልማት በኢትዮጵያ.md",
+      "Technology/ቴሌብር እና የዲጂታል ክፍያ አብዮቱ.md",
       "About/Ethiopia Official Website Resources.md",
+      "Lifestyle/የአዲስ አበባ ካፌ ባህልና የማኪያቶ ቅርስ.md",
       "People/Amharic translation needed - original Taiwan context.md",
       "People/Amharic translation needed - original Taiwan context.md",
       "People/Amharic translation needed - original Taiwan context.md",
@@ -428,7 +452,6 @@
       "People/Amharic translation needed - original Taiwan context.md",
       "People/Amharic translation needed - original Taiwan context.md",
       "Society/Ethiopia[Amharic translation needed - original Taiwan context].md",
-      "Technology/AI[Amharic translation needed - original Taiwan context]：Ethiopia[Amharic translation needed - original Taiwan context].md",
       "Technology/AI [Amharic translation needed - original Taiwan context]：Ethiopia[Amharic translation needed - original Taiwan context].md",
       "Technology/Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context.md",
       "Technology/Ethiopia[Amharic translation needed - original Taiwan context] (Ethiopia AI Labs).md",
@@ -521,7 +544,31 @@
       "Society/Ethiopia[Amharic translation needed - original Taiwan context].md"
     ],
     "es": [
+      "Art/የግዕዝ ብራና ሥዕሎች እና ዘመናዊው የኢትዮጵያ ስነ-ጥበብ.md",
+      "Art/የላሊበላ ውቅር አብያተ ክርስቲያናት፦ የምድር ድንቅ ምህንድስና.md",
+      "Economy/የኢትዮጵያ አየር መንገድ፦ የአፍሪካ የአቪዬሽን ኩራት.md",
+      "Economy/ታላቁ የኢትዮጵያ ህዳሴ ግድብ (GERD)፦ የኃይልና የልማት ሉዓላዊነት.md",
+      "Food/የዶሮ ወጥ እና የበዓላት ማዕድ ባህል.md",
+      "Food/እንጀራ እና የጤፍ እርሻ፦ የኢትዮጵያ የምግብ አምድ.md",
+      "Geography/ታላቁ የስምጥ ሸለቆ፦ የኢትዮጵያ ጂኦሎጂያዊና ሥነ-ሕይወታዊ ድንቅ.md",
+      "Geography/የሰሜን ተራሮች ብሔራዊ ፓርክ፦ የአፍሪካ ጣሪያና የዱር አራዊት መጠለያ.md",
+      "History/የአክሱም መንግሥት፦ የጥንታዊቷ ኢትዮጵያ ዓለም አቀፍ ሥልጣኔ.md",
+      "History/የአድዋ ድል፦ የኢትዮጵያ ሉዓላዊነትና የፀረ-ቅኝ አገዛዝ ተምሳሌት.md",
+      "Lifestyle/የሐበሻ ቀሚስ እና የሸማ ጥበብ ባህል.md",
+      "Music/ኢትዮ-ጃዝ እና ሙላቱ አስታጥቄ፦ የድምፅ ፈጠራ ጥበብ.md",
+      "Music/የኢትዮጵያ ባህላዊ የሙዚቃ መሣሪያዎች፦ ክራር፣ ማሲንቆና ዋሽንት.md",
+      "Nature/የባሌ ተራሮች ብሔራዊ ፓርክ እና የአፍሮ-አልፓይን ሥነ-ምህዳር.md",
+      "Nature/የኢትዮጵያ ብርቅዬ የዱር እንስሳት፦ የተፈጥሮ ብዝሃ-ሕይወት ሀብት.md",
+      "People/አበበ ቢቂላ እና የኢትዮጵያ የማራቶን አርበኝነት.md",
+      "People/ዳግማዊ አጼ ምኒልክ እና እቴጌ ጣይቱ ብጡል፦ የዘመናዊት ኢትዮጵያ ፈር ቀዳጆች.md",
+      "Society/የገዳ ሥርዓት፦ ጥንታዊው የኦሮሞ ዲሞክራሲ.md",
+      "Society/ዕድር እና ዕቁብ፦ የኢትዮጵያ ማህበራዊና የፋይናንስ መረዳጃ ተቋማት.md",
+      "Culture/የኢትዮጵያ የቡና ባህልና የቡና ሥነ ሥርዓት.md",
+      "Culture/የኢትዮጵያ ኦርቶዶክስ ተዋሕዶ ቤተ ክርስቲያንና ታላላቅ በዓላት.md",
+      "Technology/የአርቴፊሻል ኢንተለጀንስ ልማት በኢትዮጵያ.md",
+      "Technology/ቴሌብር እና የዲጂታል ክፍያ አብዮቱ.md",
       "About/Ethiopia Official Website Resources.md",
+      "Lifestyle/የአዲስ አበባ ካፌ ባህልና የማኪያቶ ቅርስ.md",
       "People/Amharic translation needed - original Taiwan context.md",
       "People/Amharic translation needed - original Taiwan context.md",
       "People/Amharic translation needed - original Taiwan context.md",
@@ -849,7 +896,6 @@
       "People/Amharic translation needed - original Taiwan context.md",
       "People/Amharic translation needed - original Taiwan context.md",
       "Society/Ethiopia[Amharic translation needed - original Taiwan context].md",
-      "Technology/AI[Amharic translation needed - original Taiwan context]：Ethiopia[Amharic translation needed - original Taiwan context].md",
       "Technology/AI [Amharic translation needed - original Taiwan context]：Ethiopia[Amharic translation needed - original Taiwan context].md",
       "Technology/Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context.md",
       "Technology/Ethiopia[Amharic translation needed - original Taiwan context] (Ethiopia AI Labs).md",
@@ -942,7 +988,31 @@
       "Society/Ethiopia[Amharic translation needed - original Taiwan context].md"
     ],
     "ja": [
+      "Art/የግዕዝ ብራና ሥዕሎች እና ዘመናዊው የኢትዮጵያ ስነ-ጥበብ.md",
+      "Art/የላሊበላ ውቅር አብያተ ክርስቲያናት፦ የምድር ድንቅ ምህንድስና.md",
+      "Economy/የኢትዮጵያ አየር መንገድ፦ የአፍሪካ የአቪዬሽን ኩራት.md",
+      "Economy/ታላቁ የኢትዮጵያ ህዳሴ ግድብ (GERD)፦ የኃይልና የልማት ሉዓላዊነት.md",
+      "Food/የዶሮ ወጥ እና የበዓላት ማዕድ ባህል.md",
+      "Food/እንጀራ እና የጤፍ እርሻ፦ የኢትዮጵያ የምግብ አምድ.md",
+      "Geography/ታላቁ የስምጥ ሸለቆ፦ የኢትዮጵያ ጂኦሎጂያዊና ሥነ-ሕይወታዊ ድንቅ.md",
+      "Geography/የሰሜን ተራሮች ብሔራዊ ፓርክ፦ የአፍሪካ ጣሪያና የዱር አራዊት መጠለያ.md",
+      "History/የአክሱም መንግሥት፦ የጥንታዊቷ ኢትዮጵያ ዓለም አቀፍ ሥልጣኔ.md",
+      "History/የአድዋ ድል፦ የኢትዮጵያ ሉዓላዊነትና የፀረ-ቅኝ አገዛዝ ተምሳሌት.md",
+      "Lifestyle/የሐበሻ ቀሚስ እና የሸማ ጥበብ ባህል.md",
+      "Music/ኢትዮ-ጃዝ እና ሙላቱ አስታጥቄ፦ የድምፅ ፈጠራ ጥበብ.md",
+      "Music/የኢትዮጵያ ባህላዊ የሙዚቃ መሣሪያዎች፦ ክራር፣ ማሲንቆና ዋሽንት.md",
+      "Nature/የባሌ ተራሮች ብሔራዊ ፓርክ እና የአፍሮ-አልፓይን ሥነ-ምህዳር.md",
+      "Nature/የኢትዮጵያ ብርቅዬ የዱር እንስሳት፦ የተፈጥሮ ብዝሃ-ሕይወት ሀብት.md",
+      "People/አበበ ቢቂላ እና የኢትዮጵያ የማራቶን አርበኝነት.md",
+      "People/ዳግማዊ አጼ ምኒልክ እና እቴጌ ጣይቱ ብጡል፦ የዘመናዊት ኢትዮጵያ ፈር ቀዳጆች.md",
+      "Society/የገዳ ሥርዓት፦ ጥንታዊው የኦሮሞ ዲሞክራሲ.md",
+      "Society/ዕድር እና ዕቁብ፦ የኢትዮጵያ ማህበራዊና የፋይናንስ መረዳጃ ተቋማት.md",
+      "Culture/የኢትዮጵያ የቡና ባህልና የቡና ሥነ ሥርዓት.md",
+      "Culture/የኢትዮጵያ ኦርቶዶክስ ተዋሕዶ ቤተ ክርስቲያንና ታላላቅ በዓላት.md",
+      "Technology/የአርቴፊሻል ኢንተለጀንስ ልማት በኢትዮጵያ.md",
+      "Technology/ቴሌብር እና የዲጂታል ክፍያ አብዮቱ.md",
       "About/Ethiopia Official Website Resources.md",
+      "Lifestyle/የአዲስ አበባ ካፌ ባህልና የማኪያቶ ቅርስ.md",
       "People/Amharic translation needed - original Taiwan context.md",
       "People/Amharic translation needed - original Taiwan context.md",
       "People/Amharic translation needed - original Taiwan context.md",
@@ -1270,7 +1340,6 @@
       "People/Amharic translation needed - original Taiwan context.md",
       "People/Amharic translation needed - original Taiwan context.md",
       "Society/Ethiopia[Amharic translation needed - original Taiwan context].md",
-      "Technology/AI[Amharic translation needed - original Taiwan context]：Ethiopia[Amharic translation needed - original Taiwan context].md",
       "Technology/AI [Amharic translation needed - original Taiwan context]：Ethiopia[Amharic translation needed - original Taiwan context].md",
       "Technology/Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context.md",
       "Technology/Ethiopia[Amharic translation needed - original Taiwan context] (Ethiopia AI Labs).md",
