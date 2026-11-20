@@ -37,7 +37,7 @@ At the same time, the National Bank of Ethiopia began licensing private payment 
 
 The growth has not come without challenges. Interoperability between mobile wallets and the banking system is still maturing, and the central bank faces the continuing task of balancing innovation against financial stability. The 5.3-billion-dollar opportunity projected by GSMA depends precisely on these enablers — interoperability, infrastructure, and regulation ([Shega](https://digitalfinance.shega.co/insights/articles/reimagining-interoperability-for-inclusive-payment-systems); [Ethiopian Monitor](https://ethiopianmonitor.com/2025/02/13/telebirr-subscribers-pass-50-million-mark)). In other words, the success of Ethiopia's payments revolution will ultimately be measured not by any single company but by whether the whole foundation of the digital economy keeps expanding.
 
-The story of telebirr is woven into Ethiopia's broader technology transformation. Fintech founders in the [[startup-ecosystem]] are building new services on top of telebirr and other payment rails, while the next wave of innovation is expected to follow the direction traced by [[ai-development]].
+The story of telebirr is woven into Ethiopia's broader technology transformation. Fintech founders in Ethiopia's startup ecosystem are building new services on top of telebirr and other payment rails, while the next wave of innovation is expected to follow the direction traced by [[ai-development]].
 
 ## Sources
 

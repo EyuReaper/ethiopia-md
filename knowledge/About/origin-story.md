@@ -1,82 +1,58 @@
 ---
-title: '[Amharic translation needed - original Taiwan context] — Ethiopia.md [Amharic translation needed - original Taiwan context]'
-description: '[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]'
-date: 2026-03-17
-tags: ['about', 'origin', 'ethiopia-md']
+title: 'ስለ Ethiopia.md፦ መነሻ እና ዓላማ'
+description: 'Ethiopia.md ምንድን ነው፣ ለምን የኢትዮጵያ የራሷ ክፍት የእውቀት ማዕከል ያስፈልጋታል፣ ከTaiwan.md ክፍት ምንጭ ፕሮጀክት እንዴት እንደተነሳ፣ አማርኛን ዋና ምንጭ የማድረግ አቀራረቡ እና እንዴት ማበርከት እንደሚቻል።'
+date: '2026-11-20'
+tags: [About, Ethiopia.md, Open Source, Contributing]
+category: 'About'
 author: 'Ethiopia.md'
-readingTime: 4
-featured: true
-lastVerified: 2026-03-19
+difficulty: 'beginner'
+readingTime: 5
+featured: false
+lastVerified: '2026-11-20'
 lastHumanReview: false
-status: archived
+status: published
 ---
 
-# Ethiopia.md [Amharic translation needed - original Taiwan context]
+# ስለ Ethiopia.md፦ መነሻ እና ዓላማ
 
-## [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
+Ethiopia.md ስለ ኢትዮጵያ ታሪክ፣ ጂኦግራፊ፣ ባህል፣ ምግብ፣ ጥበብ፣ ሙዚቃ፣ ቴክኖሎጂ፣ ተፈጥሮ፣ ሰዎች፣ ማህበረሰብ፣ ኢኮኖሚ እና አኗኗር የሚያወሳ ክፍት፣ ነጻ እና ማንም ሰው ሊያሻሽለው የሚችል የእውቀት ማዕከል ነው። ጽሑፎቹ በቀላል የMarkdown ፋይሎች የተጻፉ ናቸው፤ ይህም ሰዎች በድረ ገጹ ላይ እንዲያነቧቸው፣ ገንቢዎች በኮድ እንዲጠቀሙባቸው፣ የሰው ሰራሽ አስተውሎት (AI) ስርዓቶችም በቀጥታ እንዲያነቧቸው ያስችላል። ይህ ገጽ ፕሮጀክቱ ምን እንደሆነ፣ ከየት እንደመጣ እና እንዴት መሳተፍ እንደሚቻል በግልጽ ያስረዳል።
 
-2026 [Amharic translation needed - original Taiwan context] 3 [Amharic translation needed - original Taiwan context] 11 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]：
+## ለምን የኢትዮጵያ የእውቀት ማዕከል?
 
-> 「[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]」
+ኢትዮጵያ ከ120 ሚሊዮን በላይ ሕዝብ፣ ከ80 በላይ ቋንቋዎች እና የራሷ የግዕዝ ፊደል ያላት ሀገር ናት። ይሁን እንጂ በኢንተርኔት ላይ ስለ ኢትዮጵያ የሚገኘው መረጃ አብዛኛው በውጭ ቋንቋዎች፣ በውጭ ሰዎች እይታ የተጻፈ ነው፤ በአማርኛ የተጻፈ፣ ምንጩ የተጠቀሰና በስርዓት የተደራጀ ይዘት ደግሞ እጅግ ውስን ነው። የፍለጋ ሞተሮችና የቋንቋ ሞዴሎች ስለ ኢትዮጵያ የሚሰጡት መልስ ከዚሁ ውስን መረጃ የተቀዳ ነው። Ethiopia.md ይህንን ክፍተት ለመሙላት የተጀመረ ሙከራ ነው፦ ሰዎችም ማሽኖችም ሊያምኑበት የሚችሉ፣ ምንጫቸው የተጠቀሰ ጽሑፎችን በአንድ ክፍት ቦታ ማሰባሰብ።
 
-[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] — [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+## መነሻው፦ ከTaiwan.md የተገኘ ቅርንጫፍ
 
-## [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]？
+Ethiopia.md ከባዶ የተጀመረ አይደለም። ስለ ታይዋን ተመሳሳይ የእውቀት ማዕከል የሆነው የክፍት ምንጭ ፕሮጀክት **Taiwan.md** ቅርንጫፍ (fork) ሆኖ ነው የተጀመረው። ከዚያ ፕሮጀክት የተወረሱት የድረ ገጹ ቴክኒካዊ መዋቅር (Astro)፣ የጽሑፎች አደረጃጀት፣ የትርጉም ስርዓቱ እና የአርትዖት መመሪያዎቹ ናቸው። ይዘቱ ግን አልተወረሰም፤ ስለ ታይዋን የነበሩት ጽሑፎች ከቀጥታ ድረ ገጹ ተወግደው በእውነተኛ፣ ምንጭ በተጠቀሰ የኢትዮጵያ ይዘት እየተተኩ ይገኛሉ። ይህ ሽግግር ገና አልተጠናቀቀም፤ አሁን በቀጥታ የሚታዩት በዋነኛነት 12ቱ የምድብ መግቢያ ጽሑፎች ናቸው። ለTaiwan.md አዘጋጆችና አበርካቾች ክፍት ምንጭ ሥራቸውን ስላጋሩ ምስጋና ይገባቸዋል።
 
-[Amharic translation needed - original Taiwan context] 3 [Amharic translation needed - original Taiwan context] 17 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]：
+## አማርኛ ቀዳሚ
 
-[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]？[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+በዚህ ፕሮጀክት ውስጥ **አማርኛ ዋናው የእውነት ምንጭ (Single Source of Truth)** ነው። እያንዳንዱ ጽሑፍ መጀመሪያ በአማርኛ በ`knowledge/` ማውጫ ውስጥ ይጻፋል፤ የእንግሊዝኛ፣ የስፓኒሽ እና የጃፓንኛ ቅጂዎች ደግሞ ከአማርኛው የሚተረጎሙ ናቸው። በሁለት ቅጂዎች መካከል ልዩነት ከተፈጠረ የአማርኛው ቅጂ ይመረጣል። ቀኖች በአማርኛው ድረ ገጽ ላይ በኢትዮጵያ የቀን አቆጣጠር ይታያሉ። ይህ ውሳኔ የኢትዮጵያውያን አንባቢዎች ስለራሳቸው ሀገር በራሳቸው ቋንቋ ማንበብ እንዲችሉ ቅድሚያ ለመስጠት ነው።
 
-[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]：
+## የአርትዖት መርሆዎች
 
-- [Amharic translation needed - original Taiwan context] ethiopia.md [Amharic translation needed - original Taiwan context]
-- [Amharic translation needed - original Taiwan context] Astro [Amharic translation needed - original Taiwan context]
-- [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
-- [Amharic translation needed - original Taiwan context]（20+ [Amharic translation needed - original Taiwan context]）
+- **ምንጭ መጥቀስ፦** እያንዳንዱ ጠቃሚ መረጃ ሊረጋገጥ የሚችል ምንጭ ሊኖረው ይገባል።
+- **ያልተረጋገጠ ከመጻፍ መተው፦** መረጃ ከሌለ ቦታውን ባዶ መተው፣ በግምት ከመሙላት ይሻላል።
+- **የተለያዩ እይታዎችን ማክበር፦** ብዙ ብሔሮችና ሃይማኖቶች ያሏት ሀገር እንደመሆኗ፣ አከራካሪ ጉዳዮች በሚዛናዊነት ይቀርባሉ።
+- **ሦስት ደረጃ ጥልቀት፦** ጽሑፎች ከአጭር መግቢያ ጀምረው ወደ ዝርዝር ክፍሎች፣ ተዛማጅ ርዕሶችና ምንጮች ይሄዳሉ።
 
-## [Amharic translation needed - original Taiwan context] Ethiopia.md？
+## እንዴት ማበርከት ይቻላል?
 
-[Amharic translation needed - original Taiwan context]：
+Ethiopia.md በGitHub ላይ ክፍት ነው፦ [github.com/EyuReaper/ethiopia-md](https://github.com/EyuReaper/ethiopia-md)። የፕሮጀክቱ አስተባባሪ በGitHub መለያ **EyuReaper** ይታወቃል። ማንኛውም ሰው በሚከተሉት መንገዶች መሳተፍ ይችላል፦
 
-**[Amharic translation needed - original Taiwan context]：**
+1. **ስህተት ማሳወቅ፦** የተሳሳተ መረጃ፣ የተበላሸ አገናኝ ወይም ስለሌላ ሀገር የሚናገር ቀሪ ይዘት ካገኙ [Issue ይክፈቱ](https://github.com/EyuReaper/ethiopia-md/issues)።
+2. **አዲስ ጽሑፍ መጻፍ፦** በ`knowledge/{ምድብ}/` ውስጥ በአማርኛ አዲስ ፋይል ፈጥረው Pull Request ይላኩ። ርዕስ፣ መግለጫ፣ ቀን እና መለያዎች (tags) ያካተተ frontmatter ያስፈልጋል።
+3. **መተርጎም፦** የታተሙ የአማርኛ ጽሑፎችን ወደ እንግሊዝኛ፣ ስፓኒሽ ወይም ጃፓንኛ በ`knowledge/en/`፣ `knowledge/es/` ወይም `knowledge/ja/` ውስጥ ይተርጉሙ።
+4. **መገምገም፦** የሌሎችን Pull Request በማንበብ የመረጃውን ትክክለኛነትና የቋንቋውን ጥራት ያረጋግጡ።
 
-- `.md` = Markdown，[Amharic translation needed - original Taiwan context]
-- [Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia
+ከዚህ ውጪ ፕሮጀክቱ እስካሁን የተረጋገጠ አጋር ድርጅት፣ ስፖንሰር ወይም ቋሚ ቡድን የለውም፤ እንደዚህ ዓይነት ግንኙነት ሲፈጠር በዚህ ገጽ ላይ በግልጽ ይገለጻል።
 
-**[Amharic translation needed - original Taiwan context]：**
+## ተዛማጅ ርዕሶች
 
-- `.md` [Amharic translation needed - original Taiwan context]（Moldova）[Amharic translation needed - original Taiwan context]
-- Ethiopia + Markdown = [Amharic translation needed - original Taiwan context]
+- [ታሪክ](/history) · [ባህል](/culture) · [ሰዎች](/people) · [ማህበረሰብ](/society)
+- [ለማበርከት መመሪያ](/contribute)
 
-**[Amharic translation needed - original Taiwan context]：**
+## ምንጮች
 
-- [Amharic translation needed - original Taiwan context]，ethiopia.md [Amharic translation needed - original Taiwan context]
-- [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-
-## [Amharic translation needed - original Taiwan context]
-
-```
-2026-03-11  [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
-2026-03-17  [Amharic translation needed - original Taiwan context] + [Amharic translation needed - original Taiwan context] + [Amharic translation needed - original Taiwan context]
-2026-03-17  [Amharic translation needed - original Taiwan context] SSOT [Amharic translation needed - original Taiwan context]（20+ [Amharic translation needed - original Taiwan context]）
-2026-03-17  [Amharic translation needed - original Taiwan context] + robots.txt + llms.txt
-（[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]...）
-```
-
-## [Amharic translation needed - original Taiwan context]
-
-Ethiopia.md [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]。
-
-[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、AI [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context] — [Amharic translation needed - original Taiwan context] AI — [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。
-
-[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。
-
-**[Amharic translation needed - original Taiwan context] Ethiopia.md — [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。**
-
----
-
-_[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。_
+- [Ethiopia.md GitHub repository](https://github.com/EyuReaper/ethiopia-md)
+- [Ethiopia.md issue tracker](https://github.com/EyuReaper/ethiopia-md/issues)
