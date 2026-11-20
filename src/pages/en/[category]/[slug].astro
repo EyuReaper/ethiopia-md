@@ -1,4 +1,8 @@
 ---
+import {
+  buildWikilinkMap,
+  resolveWikilinks as resolveWikilinksWith,
+} from '../../../utils/wikilinks';
 import { readdir, readFile } from 'fs/promises';
 import { resolve, join, basename } from 'path';
 import { execSync } from 'child_process';
@@ -319,15 +323,8 @@ const otherCategories = categories
   .map((cat) => ({ key: cat, ...categoryConfigs[cat as CategoryKey] }));
 
 // ── Markdown → HTML ───────────────────────────────────────────────────────────
-function resolveWikilinks(md: string) {
-  if (!md) return md;
-  return md.replace(
-    /\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]/g,
-    (_, target, display) => {
-      return `**${display || target}**`;
-    },
-  );
-}
+const wikilinkMap = buildWikilinkMap('en', categoryMapping);
+const resolveWikilinks = (md: string) => resolveWikilinksWith(md, wikilinkMap);
 
 const renderer = new marked.Renderer();
 
@@ -368,6 +365,13 @@ const estimatedReadingTime =
 const articleUrl = `https://ethiopia.md/en/${category}/${slug}`;
 const encodedUrl = encodeURIComponent(articleUrl);
 const encodedTitle = encodeURIComponent(title);
+
+// Sources: canonical field is `sources` (schema); legacy `source` still accepted.
+const sourceList: string[] = [frontmatter.sources, frontmatter.source]
+  .flat()
+  .filter(
+    (s: unknown): s is string => typeof s === 'string' && s.trim() !== '',
+  );
 ---
 
 <Layout
@@ -439,11 +443,11 @@ const encodedTitle = encodeURIComponent(title);
 
         <!-- Sources -->
         {
-          frontmatter.source && frontmatter.source.length > 0 && (
+          sourceList.length > 0 && (
             <div class="sources-block">
               <h3 class="sources-heading">{t('article.sources', 'en')}</h3>
               <ul class="sources-list">
-                {frontmatter.source.map((url: string) => (
+                {sourceList.map((url: string) => (
                   <li>
                     <a
                       href={url}

@@ -2,7 +2,7 @@
   "totalArticles": 76,
   "totalCategories": 15,
   "estimatedContributors": 6,
-  "totalTags": 24,
+  "totalTags": 18,
   "categories": [
     {
       "name": "Music",
@@ -137,19 +137,11 @@
     {
       "name": "Art",
       "count": 2
-    },
-    {
-      "name": "አዲስ አበባ",
-      "count": 1
-    },
-    {
-      "name": "ካፌ ባህል",
-      "count": 1
     }
   ],
   "languageDistribution": {
     "am": 76,
     "en": 0
   },
-  "lastUpdated": "2026-11-20T07:19:32.431Z"
+  "lastUpdated": "2026-11-20T10:55:06.071Z"
 }

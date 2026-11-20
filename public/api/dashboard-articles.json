@@ -16,10 +16,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 1,
-    "commitHash": "bbe63b0d",
+    "revision": 2,
+    "commitHash": "ac437616",
     "description": "Ethiopia.md ምንድን ነው፣ ለምን የኢትዮጵያ የራሷ ክፍት የእውቀት ማዕከል ያስፈልጋታል፣ ከTaiwan.md ክፍት ምንጭ ፕሮጀክት እንዴት እንደተነሳ፣ አማርኛን ዋና ምንጭ የማድረግ አቀራረቡ እና እንዴት ማበርከት እንደሚቻል።",
-    "healthScore": 26
+    "healthScore": 29
   },
   {
     "title": "የግዕዝ ብራና ሥዕሎች እና ዘመናዊው የኢትዮጵያ ስነ-ጥበብ",
@@ -27,10 +27,10 @@
     "category": "art",
     "subcategory": null,
     "date": "2026-11-03",
-    "lastVerified": "2026-11-03",
+    "lastVerified": "2026-11-20",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 47,
+    "wordCount": 181,
     "tagCount": 4,
     "tags": ["Art", "Painting", "Illumination", "Modern Art"],
     "translations": {
@@ -40,8 +40,8 @@
     },
     "revision": 1,
     "commitHash": "534c1ca8",
-    "description": "ከመካከለኛው ዘመን የብራና መጻሕፍትና የአብያተ ክርስቲያናት ምስሎች ጀምሮ እስከ ሜትር አርቲስት አፈወርቅ ተክሌ ዘመናዊ የጥበብ ሥራዎች ድረስ የኢትዮጵያ የስነ-ስዕል ጥበብ ታሪክና ዝግመተ-ለውጥ።",
-    "healthScore": 36
+    "description": "ከ330 እስከ 650 ዓ.ም. (እ.ኤ.አ.) መካከል እንደተሠሩ በራዲዮካርቦን ከተረጋገጡት የገሪማ ወንጌሎችና ከደብረ ብርሃን ሥላሴ የመላእክት ጣሪያ እስከ አፈወርቅ ተክሌ የአፍሪካ አዳራሽ መስኮትና የእስክንድር ቦጎሲያን ሥዕሎች ድረስ የኢትዮጵያ የሥዕል ጥበብ ቅኝት።",
+    "healthScore": 38
   },
   {
     "title": "የላሊበላ ውቅር አብያተ ክርስቲያናት፦ የምድር ድንቅ ምህንድስና",
@@ -49,10 +49,10 @@
     "category": "art",
     "subcategory": null,
     "date": "2026-11-03",
-    "lastVerified": "2026-11-03",
+    "lastVerified": "2026-11-20",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 34,
+    "wordCount": 113,
     "tagCount": 4,
     "tags": ["Art", "Lalibela", "Architecture", "UNESCO"],
     "translations": {
@@ -62,8 +62,8 @@
     },
     "revision": 1,
     "commitHash": "534c1ca8",
-    "description": "በ12ኛው እና 13ኛው ክፍለ ዘመን በቅዱስ ላሊበላ ዘመን ከወጥ ድንጋይ ተፈልፍለው የታነጹት 11ዱ አብያተ ክርስቲያናት፣ የሰው ልጅ የምህንድስና እና የመንፈሳዊ ጥበብ ታላቅ ቁንጮ ናቸው።",
-    "healthScore": 36
+    "description": "በሰሜን ኢትዮጵያ ከለስላሳ እሳተ-ገሞራዊ አለት ወደ ታች ተፈልፍለው የተሠሩት፣ ለንጉሥ ላሊበላ የሚሰጡትና በ1970 ዓ.ም. በዩኔስኮ የዓለም ቅርስነት የተመዘገቡት 11ዱ አብያተ ክርስቲያናት ዛሬም ሕያው የንግደት ማዕከል ናቸው።",
+    "healthScore": 37
   },
   {
     "title": "የኢትዮጵያ አየር መንገድ፦ የአፍሪካ የአቪዬሽን ኩራት",
@@ -71,10 +71,10 @@
     "category": "economy",
     "subcategory": null,
     "date": "2026-11-03",
-    "lastVerified": "2026-11-03",
+    "lastVerified": "2026-11-20",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 45,
+    "wordCount": 235,
     "tagCount": 4,
     "tags": ["Economy", "Ethiopian Airlines", "Aviation", "Infrastructure"],
     "translations": {
@@ -84,19 +84,19 @@
     },
     "revision": 1,
     "commitHash": "534c1ca8",
-    "description": "በ1938 ዓ.ም. (1945) የተመሰረተው የኢትዮጵያ አየር መንገድ፣ አዲስ አበባን የአህጉሪቱ ዋና የመተላለፊያ ማዕከል በማድረግ በአፍሪካ ግዙፉና አትራፊው አየር መንገድ የሆነበት የስኬት ጉዞ።",
-    "healthScore": 36
+    "description": "በታኅሣሥ 1938 ዓ.ም. (December 1945) ከTWA ጋር የተመሠረተው የኢትዮጵያ አየር መንገድ በ2018 በጀት ዓመት 9.1 ቢሊዮን ዶላር ገቢና 20.7 ሚሊዮን መንገደኞች አስመዝግቧል፤ በጥር 2018 ዓ.ም. የ110 ሚሊዮን መንገደኞች አቅም ያለው የቢሾፍቱ ኤርፖርት ግንባታ ጀምሯል።",
+    "healthScore": 38
   },
   {
-    "title": "ታላቁ የኢትዮጵያ ህዳሴ ግድብ (GERD)፦ የኃይልና የልማት ሉዓላዊነት",
+    "title": "ታላቁ የኢትዮጵያ ህዳሴ ግድብ (GERD)፦ ኃይል፣ ፋይናንስና የዓባይ ውዝግብ",
     "slug": "grand-ethiopian-renaissance-dam",
     "category": "economy",
     "subcategory": null,
     "date": "2026-11-03",
-    "lastVerified": "2026-11-03",
+    "lastVerified": "2026-11-20",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 49,
+    "wordCount": 241,
     "tagCount": 5,
     "tags": ["Economy", "Energy", "GERD", "Infrastructure", "Nile"],
     "translations": {
@@ -106,8 +106,8 @@
     },
     "revision": 1,
     "commitHash": "534c1ca8",
-    "description": "በዓባይ ወንዝ ላይ የተገነባውና በአፍሪካ ግዙፉ የውኃ ኃይል ማመንጫ የሆነው ታላቁ የኢትዮጵያ ህዳሴ ግድብ፣ በሕዝብ ቦንድና በራስ አቅም የተገነባ የኢኮኖሚና የታዳሽ ኃይል ድንቅ ፕሮጀክት ነው።",
-    "healthScore": 38
+    "description": "በጳጉሜ 4 ቀን 2017 ዓ.ም. (September 9, 2025) የተመረቀው 5,150 ሜጋ ዋት የህዳሴ ግድብ የአፍሪካ ትልቁ የውኃ ኃይል ማመንጫ ነው። ኢትዮጵያ የልማት ፕሮጀክት አድርጋ ታየዋለች፤ ግብፅና ሱዳን አሞላሉንና አሠራሩን ይቃወማሉ።",
+    "healthScore": 40
   },
   {
     "title": "የዶሮ ወጥ እና የበዓላት ማዕድ ባህል",
@@ -115,10 +115,10 @@
     "category": "food",
     "subcategory": null,
     "date": "2026-11-03",
-    "lastVerified": "2026-11-03",
+    "lastVerified": "2026-11-20",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 14,
+    "wordCount": 109,
     "tagCount": 4,
     "tags": ["Food", "Doro Wat", "Cuisine", "Festivals"],
     "translations": {
@@ -128,8 +128,8 @@
     },
     "revision": 1,
     "commitHash": "534c1ca8",
-    "description": "የኢትዮጵያ ባህላዊ ምግቦች ቁንጮ የሆነው የዶሮ ወጥ፣ በ12 ብልቶች ተከፋፍሎ፣ በበርበሬና በቅቤ ተሰርቶ በገና፣ ፋሲካና አረፋ በዓላት የሚቀርብ የታላቅ ክብር ማዕድ ነው።",
-    "healthScore": 36
+    "description": "የኢትዮጵያ ባህላዊ ምግቦች ቁንጮ የሆነው የዶሮ ወጥ፣ በ12 ብልቶች ተከፋፍሎ፣ በበርበሬና በቅቤ ተሰርቶ በገና፣ በፋሲካና በእንቁጣጣሽ በዓላት የሚቀርብ የታላቅ ክብር ማዕድ ነው።",
+    "healthScore": 37
   },
   {
     "title": "እንጀራ እና የጤፍ እርሻ፦ የኢትዮጵያ የምግብ አምድ",
@@ -137,10 +137,10 @@
     "category": "food",
     "subcategory": null,
     "date": "2026-11-03",
-    "lastVerified": "2026-11-03",
+    "lastVerified": "2026-11-20",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 30,
+    "wordCount": 138,
     "tagCount": 4,
     "tags": ["Food", "Injera", "Teff", "Agriculture"],
     "translations": {
@@ -151,7 +151,7 @@
     "revision": 1,
     "commitHash": "534c1ca8",
     "description": "በኢትዮጵያ ብቻ ለዘመናት በቆየው የጤፍ እህል የሚዘጋጀው ለስላሳና ቀዳዳማው እንጀራ፣ የሀገሪቱ የምግብ ባህል መሰረት፣ የጋራ መተሳሰቢያና የጤና ምንጭ ነው።",
-    "healthScore": 36
+    "healthScore": 37
   },
   {
     "title": "ታላቁ የስምጥ ሸለቆ፦ የኢትዮጵያ ጂኦሎጂያዊና ሥነ-ሕይወታዊ ድንቅ",
@@ -159,10 +159,10 @@
     "category": "geography",
     "subcategory": null,
     "date": "2026-11-03",
-    "lastVerified": "2026-11-03",
+    "lastVerified": "2026-11-20",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 71,
+    "wordCount": 181,
     "tagCount": 4,
     "tags": ["Geography", "Rift Valley", "Afar", "Geology"],
     "translations": {
@@ -172,8 +172,8 @@
     },
     "revision": 1,
     "commitHash": "534c1ca8",
-    "description": "ኢትዮጵያን በሰያፍ ከዳናኪል ዝቅተኛ ስፍራዎች እስከ ደቡብ ሐይቆች ድረስ ለሁለት የሚከፍለው ታላቁ የስምጥ ሸለቆ፣ የፕሌት ቴክቶኒክስ እንቅስቃሴ ማዕከልና የሰው ዘር መገኛ ቅሪተ-አካል መገኛ ምድር ነው።",
-    "healthScore": 37
+    "description": "ከአፋር ዝቅተኛ ምድር እስከ ደቡብ ሐይቆች ኢትዮጵያን ለሁለት የሚከፍለው የስምጥ ሸለቆ ሦስት የመሬት ቅርፊት ሰሌዳዎች የሚለያዩበትና እንደ 3.2 ሚሊዮን ዓመት ዕድሜ ያላት ድንቅነሽ (ሉሲ) ያሉ ቅሪተ አካላት የተገኙበት ምድር ነው።",
+    "healthScore": 38
   },
   {
     "title": "የሰሜን ተራሮች ብሔራዊ ፓርክ፦ የአፍሪካ ጣሪያና የዱር አራዊት መጠለያ",
@@ -181,10 +181,10 @@
     "category": "geography",
     "subcategory": null,
     "date": "2026-11-03",
-    "lastVerified": "2026-11-03",
+    "lastVerified": "2026-11-20",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 69,
+    "wordCount": 182,
     "tagCount": 4,
     "tags": ["Geography", "Simien", "Mountains", "Wildlife"],
     "translations": {
@@ -194,8 +194,8 @@
     },
     "revision": 1,
     "commitHash": "534c1ca8",
-    "description": "የኢትዮጵያን ከፍተኛ ጫፍ ራስ ደጀንን (4,550 ሜትር) በጉያው የያዘው የሰሜን ተራሮች ብሔራዊ ፓርክ፣ አስደናቂ የተራራ ገደሎችና ዋልያ አይቤክስ፣ ጭላዳ ዝንጀሮና ቀይ ቀበሮን የመሳሰሉ ብርቅዬ እንስሳት መኖሪያ ነው።",
-    "healthScore": 37
+    "description": "የኢትዮጵያ ከፍተኛ ጫፍ ራስ ዳሽን (4,550 ሜትር ገደማ) እና 1,500 ሜትር ገደማ የሚወርዱ ገደሎች የሚገኙበት የሰሜን ተራሮች ብሔራዊ ፓርክ በ1978 (እ.ኤ.አ.) የዓለም ቅርስ ሆኖ ተመዝግቧል፤ ብርቅዬው ዋልያ ግን በ2024 ቁጥሩ ወደ 300 ገደማ አሽቆልቁሏል።",
+    "healthScore": 38
   },
   {
     "title": "የአክሱም መንግሥት፦ የጥንታዊቷ ኢትዮጵያ ዓለም አቀፍ ሥልጣኔ",
@@ -203,10 +203,10 @@
     "category": "history",
     "subcategory": null,
     "date": "2026-11-03",
-    "lastVerified": "2026-11-03",
+    "lastVerified": "2026-11-20",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 46,
+    "wordCount": 161,
     "tagCount": 4,
     "tags": ["History", "Aksum", "Civilization", "Archaeology"],
     "translations": {
@@ -216,8 +216,8 @@
     },
     "revision": 1,
     "commitHash": "534c1ca8",
-    "description": "ከ1ኛው እስከ 8ኛው ክፍለ ዘመን ዓ.ም. የተንሰራፋው የአክሱም መንግሥት በቀይ ባሕርና በህንድ ውቅያኖስ የንግድ መስመሮች ላይ ተጽዕኖ ያሳደረ፣ የራሱን ሳንቲም የቀረጸና ግዙፍ ሐውልቶችን የተከለ ታላቅ የዓለም ኃያል መንግሥት ነበር።",
-    "healthScore": 36
+    "description": "ከ1ኛው እስከ 8ኛው ክፍለ ዘመን የቆየው የአክሱም መንግሥት በአዱሊስ ወደብ በኩል የቀይ ባሕርን ንግድ ተቆጣጥሯል፣ ከ270 ዓ.ም. ገደማ ጀምሮ የራሱን ሳንቲም አሳትሟል፣ እስከ 33 ሜትር የሚረዝሙ የድንጋይ ሐውልቶችንም አቁሟል።",
+    "healthScore": 37
   },
   {
     "title": "የአድዋ ድል፦ የኢትዮጵያ ሉዓላዊነትና የፀረ-ቅኝ አገዛዝ ተምሳሌት",
@@ -225,10 +225,10 @@
     "category": "history",
     "subcategory": null,
     "date": "2026-11-03",
-    "lastVerified": "2026-11-03",
+    "lastVerified": "2026-11-20",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 58,
+    "wordCount": 167,
     "tagCount": 4,
     "tags": ["History", "Adwa", "Sovereignty", "Pan-Africanism"],
     "translations": {
@@ -238,8 +238,8 @@
     },
     "revision": 1,
     "commitHash": "534c1ca8",
-    "description": "በ1888 ዓ.ም. (1896) ዳግማዊ አጼ ምኒልክ እና እቴጌ ጣይቱ ብጡል የመሩት የኢትዮጵያ ሠራዊት የጣሊያንን ቅኝ ገዢ ጦር ድል በማድረግ የሀገሪቱን ነፃነት ያስጠበቀበትና ለመላው ጥቁር ሕዝብ የነፃነት ፋና የሆነበት ታሪካዊ ክስተት።",
-    "healthScore": 36
+    "description": "የካቲት 23 ቀን 1888 ዓ.ም. (ማርች 1 ቀን 1896) በዳግማዊ አጼ ምኒልክ የተመራው ከ73,000 እስከ ከ100,000 በላይ የሚገመት የኢትዮጵያ ሠራዊት የጣሊያንን ወራሪ ጦር በአድዋ ድል በማድረግ ጣሊያን በዚያው ዓመት የኢትዮጵያን ነፃነት እንድትቀበል አስገደደ።",
+    "healthScore": 37
   },
   {
     "title": "የሐበሻ ቀሚስ እና የሸማ ጥበብ ባህል",
@@ -247,10 +247,10 @@
     "category": "lifestyle",
     "subcategory": null,
     "date": "2026-11-03",
-    "lastVerified": "2026-11-03",
+    "lastVerified": "2026-11-20",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 19,
+    "wordCount": 138,
     "tagCount": 5,
     "tags": ["Lifestyle", "Habesha Kemis", "Shema", "Fashion", "Textiles"],
     "translations": {
@@ -261,7 +261,7 @@
     "revision": 1,
     "commitHash": "534c1ca8",
     "description": "ከጥጥ ፈትል ተዘጋጅቶ በሸማኔዎች እጅ በሚሰራው ጥበብ የሚደምቀው የሐበሻ ቀሚስ፣ ነጠላና ጋቢ፣ የኢትዮጵያ ሴቶች የቁንጅና፣ የክብርና የባህል መገለጫ ነው።",
-    "healthScore": 38
+    "healthScore": 39
   },
   {
     "title": "ኢትዮ-ጃዝ እና ሙላቱ አስታጥቄ፦ የድምፅ ፈጠራ ጥበብ",
@@ -269,10 +269,10 @@
     "category": "music",
     "subcategory": null,
     "date": "2026-11-03",
-    "lastVerified": "2026-11-03",
+    "lastVerified": "2026-11-20",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 49,
+    "wordCount": 185,
     "tagCount": 4,
     "tags": ["Music", "Ethio-Jazz", "Mulatu Astatke", "Culture"],
     "translations": {
@@ -282,8 +282,8 @@
     },
     "revision": 1,
     "commitHash": "534c1ca8",
-    "description": "በ1960ዎቹ መገባደጃ በአዲስ አበባ የተወለደው ኢትዮ-ጃዝ፣ ጥንታዊ የኢትዮጵያን ቅኝቶች (ትዝታ፣ ባቲ፣ አምባሰል፣ አንቺሆዬ) ከምዕራቡ የጃዝ ስልትና ከአፍሮ-ላቲን ምቶች ጋር ያዋሃደ ድንቅ የሙዚቃ ፈጠራ ነው።",
-    "healthScore": 36
+    "description": "ቫይብራፎን ተጫዋቹ ሙላቱ አስታጥቄ ከ1960ዎቹ መገባደጃ ጀምሮ የፈጠረውና የሰየመው ኢትዮ-ጃዝ፣ እንደ ትዝታ ያሉ የኢትዮጵያ ቅኝቶችን ከጃዝ ስምምነትና ከላቲን ምት ጋር አዋሕዶ በኢትዮጲክስ ተከታታይ ሲዲዎችና በ«ብሮክን ፍላወርስ» ፊልም ለዓለም ደርሷል።",
+    "healthScore": 38
   },
   {
     "title": "የኢትዮጵያ ባህላዊ የሙዚቃ መሣሪያዎች፦ ክራር፣ ማሲንቆና ዋሽንት",
@@ -291,10 +291,10 @@
     "category": "music",
     "subcategory": null,
     "date": "2026-11-03",
-    "lastVerified": "2026-11-03",
+    "lastVerified": "2026-11-20",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 34,
+    "wordCount": 114,
     "tagCount": 5,
     "tags": ["Music", "Instruments", "Krar", "Masenqo", "Azmari"],
     "translations": {
@@ -304,8 +304,8 @@
     },
     "revision": 1,
     "commitHash": "534c1ca8",
-    "description": "የኢትዮጵያ ሙዚቃ ነፍስ የሆኑት ማሲንቆ፣ ክራር፣ ዋሽንትና ከበሮ፣ የአዝማሪዎችን የግጥም ጥበብና የመንፈሳዊ ዜማዎችን ታሪክ የሚወክሉ ጥንታዊ የድምፅ መሳሪያዎች ናቸው።",
-    "healthScore": 38
+    "description": "የአዝማሪዎቹ ባለአንድ ክር ማሲንቆና ባለአምስት ወይም ስድስት ክር ክራር፣ የሃይማኖት መዝሙር መሣሪያው በገና፣ ባለአራት ቀዳዳ ዋሽንትና የቤተ ክርስቲያን ዝማሬ ከበሮ የደጋማው ኢትዮጵያ ሙዚቃ መሠረቶች ናቸው።",
+    "healthScore": 39
   },
   {
     "title": "የባሌ ተራሮች ብሔራዊ ፓርክ እና የአፍሮ-አልፓይን ሥነ-ምህዳር",
@@ -313,10 +313,10 @@
     "category": "nature",
     "subcategory": null,
     "date": "2026-11-03",
-    "lastVerified": "2026-11-03",
+    "lastVerified": "2026-11-20",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 66,
+    "wordCount": 161,
     "tagCount": 5,
     "tags": ["Nature", "Bale", "Afroalpine", "UNESCO", "Wildlife"],
     "translations": {
@@ -326,7 +326,7 @@
     },
     "revision": 1,
     "commitHash": "534c1ca8",
-    "description": "በ2023 እ.ኤ.አ. በዩኔስኮ የዓለም ቅርስነት የተመዘገበው የባሌ ተራሮች ብሔራዊ ፓርክ፣ በአፍሪካ ትልቁን የአፍሮ-አልፓይን ከፍታ፣ የሐረና ደንና የደቡብ-ምስራቅ ኢትዮጵያን የውኃ ማማ በጉያው የያዘ የተፈጥሮ ገነት ነው።",
+    "description": "በ2023 (እ.ኤ.አ.) በዩኔስኮ የዓለም ቅርስነት የተመዘገበው የባሌ ተራሮች ብሔራዊ ፓርክ የአፍሪካን ትልቁን የአፍሮ-አልፓይን ምድር፣ የሐረናን ደንና 12 ሚሊዮን ገደማ ሰዎች የሚጠቀሙባቸውን ወንዞች መነሻ ይጠብቃል።",
     "healthScore": 39
   },
   {
@@ -335,10 +335,10 @@
     "category": "nature",
     "subcategory": null,
     "date": "2026-11-03",
-    "lastVerified": "2026-11-03",
+    "lastVerified": "2026-11-20",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 60,
+    "wordCount": 214,
     "tagCount": 4,
     "tags": ["Nature", "Wildlife", "Endemic", "Biodiversity"],
     "translations": {
@@ -348,8 +348,8 @@
     },
     "revision": 1,
     "commitHash": "534c1ca8",
-    "description": "በከፍተኛ ተራራማ መልክዓ-ምድሯ ምክንያት በዓለም ላይ በሌላ በየትኛውም ስፍራ የማይገኙ ከ30 በላይ አጥቢ እንስሳት መገኛ የሆነችው የኢትዮጵያ ድንቅ የዱር አራዊት ዓለም።",
-    "healthScore": 37
+    "description": "በ2014 (እ.ኤ.አ.) የወጣው የኢትዮጵያ ብሔራዊ የብዝሃ ሕይወት ሪፖርት 29 አጥቢ እንስሳትንና 18 ወፎችን በኢትዮጵያ ብቻ የሚገኙ አድርጎ ይዘረዝራል፤ ከእነዚህም ቀይ ቀበሮ፣ ዋልያ፣ ጭላዳና የደጋ አጋዘን በአብዛኛው በደጋማው ምድር ብቻ የተወሰኑ ናቸው።",
+    "healthScore": 38
   },
   {
     "title": "አበበ ቢቂላ እና የኢትዮጵያ የማራቶን አርበኝነት",
@@ -357,10 +357,10 @@
     "category": "people",
     "subcategory": null,
     "date": "2026-11-03",
-    "lastVerified": "2026-11-03",
+    "lastVerified": "2026-11-20",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 34,
+    "wordCount": 152,
     "tagCount": 4,
     "tags": ["People", "Abebe Bikila", "Marathon", "Athletics"],
     "translations": {
@@ -370,8 +370,8 @@
     },
     "revision": 1,
     "commitHash": "534c1ca8",
-    "description": "በ1960 እ.ኤ.አ. በሮም ኦሎምፒክ በባዶ እግሩ ሮጦ በማሸነፍ የመጀመሪያው ጥቁር አፍሪካዊ የኦሎምፒክ የወርቅ ሜዳሊያ አሸናፊ የሆነው አበበ ቢቂላ እና የኢትዮጵያ የረጅም ርቀት ሩጫ ገድል።",
-    "healthScore": 36
+    "description": "ጳጉሜን 5 ቀን 1952 ዓ.ም. (10 September 1960) በሮም በባዶ እግሩ ሮጦ የኦሎምፒክ ማራቶን ወርቅ ያሸነፈው የመጀመሪያው ጥቁር አፍሪካዊ አበበ ቢቂላ፣ በ1964 በቶኪዮ ድሉን ደግሞ ለኢትዮጵያ የረጅም ርቀት ሻምፒዮኖች መንገድ ከፈተ።",
+    "healthScore": 37
   },
   {
     "title": "ዳግማዊ አጼ ምኒልክ እና እቴጌ ጣይቱ ብጡል፦ የዘመናዊት ኢትዮጵያ ፈር ቀዳጆች",
@@ -379,10 +379,10 @@
     "category": "people",
     "subcategory": null,
     "date": "2026-11-03",
-    "lastVerified": "2026-11-03",
+    "lastVerified": "2026-11-20",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 33,
+    "wordCount": 258,
     "tagCount": 4,
     "tags": ["People", "Menelik II", "Taytu Betul", "History"],
     "translations": {
@@ -392,8 +392,8 @@
     },
     "revision": 1,
     "commitHash": "534c1ca8",
-    "description": "የዘመናዊት ኢትዮጵያን የግዛት አንድነት ያጠናከሩት፣ አዲስ አበባን የመሰረቱትና የአድዋን ታላቅ ድል የመሩት ዳግማዊ አጼ ምኒልክ እና እቴጌ ጣይቱ ብጡል ታሪክና አስተዋጽኦ።",
-    "healthScore": 36
+    "description": "ከ1881 እስከ 1906 ዓ.ም. የነገሡት ዳግማዊ አጼ ምኒልክና እቴጌ ጣይቱ ብጡል እቴጌይቱ በመረጡት ቦታ አዲስ አበባን መሠረቱ፣ በ1888 ዓ.ም. ጣሊያንን በአድዋ ድል አደረጉ፣ ዘመናዊ መንግሥትንም መገንባት ጀመሩ፤ የምኒልክ የደቡብ ዘመቻዎች ግን አከራካሪ ቅርስ ትተዋል።",
+    "healthScore": 38
   },
   {
     "title": "የገዳ ሥርዓት፦ ጥንታዊው የኦሮሞ ዲሞክራሲ",
@@ -401,10 +401,10 @@
     "category": "society",
     "subcategory": null,
     "date": "2026-11-03",
-    "lastVerified": "2026-11-03",
+    "lastVerified": "2026-11-20",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 50,
+    "wordCount": 162,
     "tagCount": 5,
     "tags": ["Society", "Gadaa", "Oromo", "Democracy", "UNESCO"],
     "translations": {
@@ -414,8 +414,8 @@
     },
     "revision": 1,
     "commitHash": "534c1ca8",
-    "description": "ከአምስት ክፍለ ዘመናት በላይ ሲሰራበት የቆየውና በ2016 እ.ኤ.አ. በዩኔስኮ የተመዘገበው የኦሮሞ ሕዝብ ባህላዊ የገዳ ሥርዓት፣ የስልጣን ሽግግር፣ ፍትህና እኩልነት የተረጋገጡበት አገር በቀል ዲሞክራሲ ነው።",
-    "healthScore": 38
+    "description": "በ2009 ዓ.ም. (2016) በዩኔስኮ የተመዘገበው የገዳ ሥርዓት፣ በየስምንት ዓመቱ ሥልጣን የሚተላለፍበት የኦሮሞ የትውልድ እርከን ሥርዓት ነው። በ2017 ዓ.ም. (March 2025) የቦረና ኦሮሞ 72ኛውን አባ ገዳ ሾሟል።",
+    "healthScore": 39
   },
   {
     "title": "ዕድር እና ዕቁብ፦ የኢትዮጵያ ማህበራዊና የፋይናንስ መረዳጃ ተቋማት",
@@ -423,10 +423,10 @@
     "category": "society",
     "subcategory": null,
     "date": "2026-11-03",
-    "lastVerified": "2026-11-03",
+    "lastVerified": "2026-11-20",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 38,
+    "wordCount": 152,
     "tagCount": 5,
     "tags": ["Society", "Iddir", "Iqub", "Community", "Economics"],
     "translations": {
@@ -436,8 +436,8 @@
     },
     "revision": 1,
     "commitHash": "534c1ca8",
-    "description": "ባንኮችና የኢንሹራንስ ተቋማት ከመምጣታቸው ከረጅም ዘመን በፊት፣ የኢትዮጵያ ማህበረሰብ በጋራ መተሳሰብና መተማመን ላይ የመሰረታቸው አገር በቀል የማህበራዊ ዋስትናና የቁጠባ ተቋማት።",
-    "healthScore": 38
+    "description": "ዕድር በ20ኛው ክፍለ ዘመን መጀመሪያ የተጀመረ የቀብር መረዳጃ ማኅበር፣ ዕቁብ ደግሞ የዙር ቁጠባ ቡድን ነው። በ1990ዎቹ (እ.ኤ.አ.) በ15 የገጠር መንደሮች በተደረገ ጥናት 80 በመቶ ያህል ቤተሰቦች ቢያንስ የአንድ ዕድር አባል ነበሩ።",
+    "healthScore": 39
   },
   {
     "title": "የኢትዮጵያ የቡና ባህልና የቡና ሥነ ሥርዓት",
@@ -445,10 +445,10 @@
     "category": "culture",
     "subcategory": null,
     "date": "2026-08-24",
-    "lastVerified": "2026-08-24",
+    "lastVerified": "2026-11-20",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 146,
+    "wordCount": 199,
     "tagCount": 2,
     "tags": ["Culture", "coffee"],
     "translations": {
@@ -459,7 +459,7 @@
     "revision": 1,
     "commitHash": "68506141",
     "description": "ኢትዮጵያ የአረቢካ ቡና የትውልድ መገኛ ሆና የቡና ሥነ ሥርዓቱን — ከጀበና እስከ አቦል፣ ቶናና በረካ — እንደ ማህበራዊ ትስስርም እንደ ኢኮኖሚያዊ አምድ የሚመረምር ጽሑፍ።",
-    "healthScore": 28
+    "healthScore": 34
   },
   {
     "title": "የኢትዮጵያ ኦርቶዶክስ ተዋሕዶ ቤተ ክርስቲያንና ታላላቅ በዓላት",
@@ -467,10 +467,10 @@
     "category": "culture",
     "subcategory": null,
     "date": "2026-08-24",
-    "lastVerified": "2026-08-24",
+    "lastVerified": "2026-11-20",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 123,
+    "wordCount": 156,
     "tagCount": 2,
     "tags": ["Culture", "religion"],
     "translations": {
@@ -481,7 +481,7 @@
     "revision": 1,
     "commitHash": "68506141",
     "description": "ከ4ኛው ክፍለ ዘመን ጀምሮ ከአክሱም መንግሥት የመነጨውን የኢትዮጵያ ኦርቶዶክስ ተዋሕዶ ቤተ ክርስቲያን ታሪክና ጥምቀት፣ መስቀል፣ ገናና ፋሲካን ጨምሮ ታላላቅ በዓላቷን የሚያስተዋውቅ ጽሑፍ።",
-    "healthScore": 28
+    "healthScore": 33
   },
   {
     "title": "የአርቴፊሻል ኢንተለጀንስ ልማት በኢትዮጵያ",
@@ -489,10 +489,10 @@
     "category": "technology",
     "subcategory": null,
     "date": "2026-08-24",
-    "lastVerified": "2026-08-24",
+    "lastVerified": "2026-11-20",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 188,
+    "wordCount": 232,
     "tagCount": 2,
     "tags": ["Technology", "Artificial Intelligence"],
     "translations": {
@@ -500,10 +500,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 2,
-    "commitHash": "68506141",
-    "description": "ከiCog ላብስ የሰው መልክ ሮቦት ሶፊያ አስተዋጽኦ እስከ ብሔራዊ የAI ፖሊሲ፣ ከፋይዳ ዲጂታል መታወቂያ እስከ በግብርና ውስጥ ያሉ የማሽን ትምህርት መፍትሔዎች ድረስ፣ የኢትዮጵያ የአርቴፊሻል ኢንተለጀንስ ጉዞ ታሪክ።",
-    "healthScore": 32
+    "revision": 3,
+    "commitHash": "ac437616",
+    "description": "iCog Labs ለሶፊያ ሮቦት ካደረገው አስተዋጽኦ እስከ 2016 ዓ.ም. ብሔራዊ የAI ፖሊሲ፣ ከፋይዳ ዲጂታል መታወቂያና ከአማርኛ የቋንቋ መረጃ ስብስቦች እስከ ለስንዴ አርሶ አደሮች የሚሰጥ የማሽን ትምህርት የማዳበሪያ ምክር ድረስ፣ የኢትዮጵያ የAI ልማት ጉዞ።",
+    "healthScore": 40
   },
   {
     "title": "ቴሌብር እና የዲጂታል ክፍያ አብዮቱ",
@@ -511,10 +511,10 @@
     "category": "technology",
     "subcategory": null,
     "date": "2026-08-24",
-    "lastVerified": "2026-08-24",
+    "lastVerified": "2026-11-20",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 147,
+    "wordCount": 208,
     "tagCount": 2,
     "tags": ["Technology", "Mobile Money"],
     "translations": {
@@ -522,10 +522,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 1,
-    "commitHash": "68506141",
-    "description": "ቴሌብር በግንቦች 2013 ዓ.ም. ከተጀመረ ጀምሮ በአጭር ጊዜ ውስጥ ከ54 ሚሊዮን በላይ ተጠቃሚዎችን በማፍራት የኢትዮጵያን የፋይናንስ ሥርዓት በመቀየር ላይ ነው። ይህ ጽሑፍ የቴሌብርን ጉዞ፣ ከባንኮች ጋር ያለውን ግንኙነት እና የወደፊት ፈተነዎችን ይመረምራል።",
-    "healthScore": 28
+    "revision": 2,
+    "commitHash": "ac437616",
+    "description": "በግንቦት 2013 ዓ.ም. የተጀመረው የኢትዮ ቴሌኮም ቴሌብር በ2018 በጀት ዓመት 60.6 ሚሊዮን ተጠቃሚዎች ደርሶ በዓመቱ 4.19 ትሪሊዮን ብር ግብይት አስተናግዷል። ይህ ጽሑፍ የቴሌብርን አጀማመር፣ እድገት፣ ተወዳዳሪዎችና ውስንነቶች ይዳስሳል።",
+    "healthScore": 37
   },
   {
     "title": "የአዲስ አበባ ካፌ ባህልና የማኪያቶ ቅርስ",
@@ -533,12 +533,20 @@
     "category": "lifestyle",
     "subcategory": null,
     "date": "2026-03-31",
-    "lastVerified": null,
+    "lastVerified": "2026-11-20",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 63,
-    "tagCount": 6,
-    "tags": ["አዲስ አበባ", "ካፌ ባህል", "ማኪያቶ", "ቶሞካ", "የከተማ ኑሮ", "ማህበራዊ ሕይወት"],
+    "wordCount": 135,
+    "tagCount": 7,
+    "tags": [
+      "Lifestyle",
+      "አዲስ አበባ",
+      "ካፌ ባህል",
+      "ማኪያቶ",
+      "ቶሞካ",
+      "የከተማ ኑሮ",
+      "ማህበራዊ ሕይወት"
+    ],
     "translations": {
       "en": false,
       "es": false,
@@ -547,7 +555,7 @@
     "revision": 1,
     "commitHash": "534c1ca8",
     "description": "ከቶሞካ ጥንታዊ ቅርስ እስከ ዘመናዊ የከተማ መገናኛዎች፡ የአዲስ አበባ ካፌዎች ማህበራዊ ውይይት፣ የንግድ ስራ እና የባህል ልውውጥ ማዕከል የሆኑበት መንገድ ጥልቅ ዳሰሳ።",
-    "healthScore": 29
+    "healthScore": 39
   },
   {
     "title": ["Amharic translation needed - original Taiwan context"],

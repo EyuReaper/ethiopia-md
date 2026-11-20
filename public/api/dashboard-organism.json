@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-20T07:19:33.143Z",
+  "lastUpdated": "2026-11-20T10:55:06.491Z",
   "organs": [
     {
       "id": "heart",
@@ -35,10 +35,10 @@
       "nameZh": "遺傳密碼",
       "metaphor": "品質基因",
       "emoji": "🧬",
-      "score": 60,
-      "trend": "stable",
+      "score": 95,
+      "trend": "up",
       "metrics": {
-        "editorialLastModified": "2026-08-12T22:08:01.000Z"
+        "editorialLastModified": "2026-11-20T07:36:45.000Z"
       }
     },
     {
