@@ -799,7 +799,7 @@ export const contributeUI = {
       '<strong>በPR ያስገቡ፦</strong> AI ለ PR ዝግጁ የሆኑ የMarkdown ፋይሎችን እንዲፈጥሩ ያግዝዎታል',
     'contribute.guides.translation.languages': '🌏 ከእንግሊዝኛ ባሻገር መስፋፋት',
     'contribute.guides.translation.languages.live':
-      '<strong>በአሁኑ ጊዜ ይገኛሉ፦</strong> English、Español、日本語、한국어',
+      '<strong>በአሁኑ ጊዜ ይገኛሉ፦</strong> አማርኛ (ዋናው ምንጭ)፣ English',
     'contribute.guides.translation.languages.coming':
       '<strong>በቅርቡ ይመጣሉ፦</strong> Français、Deutsch、Tiếng Việt、Bahasa Indonesia、ภาษาไทย、العربية、Oromoo、ትግርኛ',
     'contribute.guides.translation.languages.you':
