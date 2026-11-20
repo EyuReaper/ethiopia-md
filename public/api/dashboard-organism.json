@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-20T10:55:06.491Z",
+  "lastUpdated": "2026-11-20T12:20:05.069Z",
   "organs": [
     {
       "id": "heart",
@@ -99,9 +99,7 @@
       "metrics": {
         "languageCoverage": {
           "am": 414,
-          "en": 502,
-          "es": 34,
-          "ja": 13
+          "en": 502
         },
         "translationPct": 121
       }
