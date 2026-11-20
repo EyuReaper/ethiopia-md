@@ -572,7 +572,7 @@ const isEn = lang === 'en';
         const date = a.date || '—';
         const reviewed = a.lastHumanReview ? '✅' : '—';
         const subcategory = a.subcategory || '—';
-        const langs = ['en', 'es', 'ja']
+        const langs = ['en']
           .map(
             (l) =>
               `<span class="lang-dot ${a.translations[l] ? 'has' : 'missing'}" title="${l.toUpperCase()}">${l.toUpperCase()}</span>`,
@@ -1572,8 +1572,8 @@ const isEn = lang === 'en';
       : '#';
 
     // Card 2: Language with most missing translations
-    const langs = ['en', 'es', 'ja'];
-    const langNames = { en: 'English', es: 'Español', ja: '日本語' };
+    const langs = ['en'];
+    const langNames = { en: 'English' };
     let maxMissing = 0,
       maxMissingLang = 'en';
     langs.forEach((l) => {

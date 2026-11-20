@@ -154,7 +154,7 @@ function categoryFromUrl(url) {
   if (!url) return '';
   const parts = url.replace(/^\//, '').split('/');
   // Skip "en"/"es"/"ja" prefix
-  if (['en', 'es', 'ja'].includes(parts[0]) && parts.length > 1) {
+  if (['en'].includes(parts[0]) && parts.length > 1) {
     return parts[1];
   }
   return parts[0] || '';
@@ -208,10 +208,7 @@ export async function searchRemote(query, limit = 10) {
  * @param {string} [options.lang='am'] - Language filter (reserved for future use)
  * @returns {Promise<Array<{title: string, slug: string, category: string, description: string, score: number}>>}
  */
-export async function searchArticles(
-  query,
-  { limit = 10, lang = 'am' } = {},
-) {
+export async function searchArticles(query, { limit = 10, lang = 'am' } = {}) {
   if (!query || !query.trim()) return [];
 
   const trimmedQuery = query.trim();

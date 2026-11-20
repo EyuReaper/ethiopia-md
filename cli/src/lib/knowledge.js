@@ -23,7 +23,7 @@ const STANDALONE_KNOWLEDGE_DIR = path.join(STANDALONE_DATA_DIR, 'knowledge');
 const STANDALONE_CACHE_DIR = path.join(STANDALONE_DATA_DIR, 'cache');
 
 // Language subdirectories and special files to exclude from am article listing
-const EXCLUDED_DIRS = new Set(['en', 'es', 'ja', 'resources']);
+const EXCLUDED_DIRS = new Set(['en', 'resources']);
 
 /**
  * Determine if we are running inside the repo (i.e. ../knowledge/ exists).
@@ -91,7 +91,7 @@ export function getArticleFiles() {
  * For lang 'zh' (default), delegates to getArticleFiles().
  * For other langs (en, ja, es), scans knowledge/{lang}/ directory.
  *
- * @param {string} lang - Language code: 'zh', 'en', 'ja', 'es'
+ * @param {string} lang - Language code: 'en' or 'am'
  * @returns {string[]} Array of absolute file paths
  */
 export function getArticleFilesForLang(lang) {

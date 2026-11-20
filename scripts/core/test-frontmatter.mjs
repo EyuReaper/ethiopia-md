@@ -34,7 +34,7 @@ const CATEGORIES = [
   'Lifestyle',
   'Language',
 ];
-const LANGS = ['', 'en', 'es', 'ja']; // '' = am root
+const LANGS = ['', 'en']; // '' = am root
 
 const STRICT = process.argv.includes('--strict');
 const CI_MODE = process.argv.includes('--ci');

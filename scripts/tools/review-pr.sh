@@ -125,7 +125,7 @@ layer2() {
 
   # [Amharic translation needed - original Taiwan context]
   local cc; cc=$(echo "$body" | wc -m | tr -d ' \n'); cc=${cc//[^0-9]/}; cc=${cc:-0}
-  if [[ "$f" =~ /en/|/es/|/ja/ ]]; then
+  if [[ "$f" =~ /en/ ]]; then
     (( cc < 2500 )) && wrn+=("[Amharic translation needed - original Taiwan context] ${cc}ch")
   else
     (( cc < 3000 )) && wrn+=("[Amharic translation needed - original Taiwan context] ${cc}ch")

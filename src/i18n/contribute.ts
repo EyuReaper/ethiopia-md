@@ -86,7 +86,7 @@ export const contributeUI = {
     'contribute.roles.translator.action1.html':
       '→ See what needs translating on <a href="https://github.com/EyuReaper/ethiopia-md/blob/main/docs/community/TRANSLATION-BOARD.md">Translation Board</a>',
     'contribute.roles.translator.action2':
-      '→ 4 languages live (en/es/ja), 7+ more welcome — you could be the first!',
+      '→ English is live alongside Amharic. More languages are welcome once the English pass is complete.',
 
     // Role: Photographer
     'contribute.roles.photographer.icon': '📸',
@@ -266,9 +266,9 @@ export const contributeUI = {
       '<strong>Submit via PR:</strong> AI helps you create PR-ready Markdown files',
     'contribute.guides.translation.languages': '🌏 Expanding Beyond English',
     'contribute.guides.translation.languages.live':
-      '<strong>Live:</strong> English, Español, 日本語, 한국어',
+      '<strong>Live:</strong> Amharic (source), English',
     'contribute.guides.translation.languages.coming':
-      '<strong>Coming:</strong> Français, Deutsch, Tiếng Việt, Bahasa Indonesia, ภาษาไทย, العربية',
+      '<strong>Planned:</strong> none scheduled yet. Oromo and Tigrinya are not supported until their directories and locales exist.',
     'contribute.guides.translation.languages.you':
       '<strong>Your language not here?</strong> You could be the first! Just pick a language code and start.',
     'contribute.guides.translation.token': '💡 Token Donation Concept',
@@ -624,7 +624,7 @@ export const contributeUI = {
     'contribute.roles.translator.action1.html':
       '→ በ <a href="https://github.com/EyuReaper/ethiopia-md/blob/main/docs/community/TRANSLATION-BOARD.md">ትርጉም ሰሌዳ</a> ላይ ምን መተርጎም እንዳለበት ይመልከቱ',
     'contribute.roles.translator.action2':
-      '→ 4 ቋንቋዎች በአሁኑ ጊዜ ይገኛሉ（en/es/ja）፣ 7+ ተጨማሪ ይፈለጋሉ — የመጀመሪያው ሊሆኑ ይችላሉ!',
+      '→ አማርኛ (ዋናው ምንጭ) እና እንግሊዝኛ በአሁኑ ጊዜ ይገኛሉ። ተጨማሪ ቋንቋዎች ከእንግሊዝኛው ዝግጅት በኋላ ይጨመራሉ።',
 
     // Role: Photographer
     'contribute.roles.photographer.icon': '📸',

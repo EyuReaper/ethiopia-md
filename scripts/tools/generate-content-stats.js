@@ -52,7 +52,7 @@ function scanTriage(dir, tier) {
   for (const f of fs.readdirSync(dir)) {
     const full = path.join(dir, f);
     if (fs.statSync(full).isDirectory()) {
-      if (f === 'en' || f === 'es' || f === 'ja') scanTriage(full, f);
+      if (f === 'en') scanTriage(full, f);
       else if (!f.startsWith('_') && f !== 'about') scanTriage(full, tier);
     } else if (f.endsWith('.md') && !f.startsWith('_')) {
       try {

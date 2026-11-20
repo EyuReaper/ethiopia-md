@@ -77,8 +77,6 @@ async function findArticle(slug, articleFiles) {
 function resolveLang(opts) {
   if (opts.lang) return opts.lang;
   if (opts.en) return 'en';
-  if (opts.ja) return 'ja';
-  if (opts.es) return 'es';
   return null; // default: am
 }
 
