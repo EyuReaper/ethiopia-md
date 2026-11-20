@@ -1,6 +1,6 @@
 ---
 title: 'የባሌ ተራሮች ብሔራዊ ፓርክ እና የአፍሮ-አልፓይን ሥነ-ምህዳር'
-description: 'በ2023 እ.ኤ.አ. በዩኔስኮ የዓለም ቅርስነት የተመዘገበው የባሌ ተራሮች ብሔራዊ ፓርክ፣ በአፍሪካ ትልቁን የአፍሮ-አልፓይን ከፍታ፣ የሐረና ደንና የደቡብ-ምስራቅ ኢትዮጵያን የውኃ ማማ በጉያው የያዘ የተፈጥሮ ገነት ነው።'
+description: 'በ2023 (እ.ኤ.አ.) በዩኔስኮ የዓለም ቅርስነት የተመዘገበው የባሌ ተራሮች ብሔራዊ ፓርክ የአፍሪካን ትልቁን የአፍሮ-አልፓይን ምድር፣ የሐረናን ደንና 12 ሚሊዮን ገደማ ሰዎች የሚጠቀሙባቸውን ወንዞች መነሻ ይጠብቃል።'
 date: '2026-11-03'
 tags:
   - Nature
@@ -9,33 +9,52 @@ tags:
   - UNESCO
   - Wildlife
 featured: true
-lastVerified: '2026-11-03'
+lastVerified: '2026-11-20'
 lastHumanReview: false
 status: published
+sources:
+  - https://whc.unesco.org/en/list/111/
+  - https://www.ethiopianwolf.org/the-wolves/afroalpine-ecosystem
+  - https://www.ethiopianwolf.org/
+  - https://farmafrica.org/wp-content/uploads/2024/07/Policy-Brief-1-BERSMP.pdf
+  - https://doi.org/10.1093/czoolo/58.4.525
+  - https://doi.org/10.1126/science.aaw8942
+  - https://www.aaas.org/news/middle-stone-age-human-settlement-ethiopia-reaches-new-heights
+  - https://en.wikipedia.org/wiki/Lobelia_rhynchopetalum
 ---
 
 # የባሌ ተራሮች ብሔራዊ ፓርክ እና የአፍሮ-አልፓይን ሥነ-ምህዳር
 
-በደቡብ-ምስራቅ ኢትዮጵያ በኦሮሚያ ክልል የሚገኘው የባሌ ተራሮች ብሔራዊ ፓርክ (Bale Mountains National Park)፣ በአፍሪካ ውስጥ ወደር የሌለው የስነ-ሕይወትና የመልክዓ-ምድር ሀብት ነው። [UNESCO: Bale Mountains National Park](https://whc.unesco.org/en/list/111/) በሴፕቴምበር 2023 እ.ኤ.አ. በይፋ በዩኔስኮ የዓለም የተፈጥሮ ቅርስነት የተመዘገበው ይህ ፓርክ፣ ከ3,000 ሜትር በላይ ከፍታ ባለው የአህጉሪቱ ትልቁ የአፍሮ-አልፓይን ስነ-ምህዳር ይታወቃል። [Williams et al.: Bale Mountains](https://www.fzs.org/en/projects/ethiopia-bale-mountains/)
+የባሌ ተራሮች ብሔራዊ ፓርክ በኦሮሚያ ክልል፣ በደቡብ-ምሥራቅ ኢትዮጵያ ደጋማ ምድር በሚገኘው የባሌ-አርሲ ተራራ ሰንሰለት ውስጥ 215,000 ሄክታር ይሸፍናል። ፓርኩ ከ3,000 ሜትር በላይ ከፍታ ያለውን የአፍሪካን ትልቁን የአፍሮ-አልፓይን ምድር ይዟል፤ ይህም የሳነቲ አምባንና በ4,377 ሜትር ከፍታው የኢትዮጵያ ሁለተኛ ከፍተኛ ጫፍ የሆነውን ቱሉ ዲምቱን ያካትታል። [UNESCO: Bale Mountains National Park](https://whc.unesco.org/en/list/111/) ፓርኩ በ1970 (እ.ኤ.አ.) የተቋቋመ ሲሆን፣ በ2023 (እ.ኤ.አ.) በዩኔስኮ የዓለም ቅርስ መዝገብ ላይ ሰፍሯል። [Ethiopian Wolf Conservation Programme: Afroalpine Ecosystem](https://www.ethiopianwolf.org/the-wolves/afroalpine-ecosystem) [UNESCO](https://whc.unesco.org/en/list/111/) እጅግ ጠቃሚ የሆነውን የቀሪ ቀይ ቀበሮዎች ቁጥር፣ ከዓለም የደጋ አጋዘኖች (mountain nyala) ሁለት ሦስተኛ ያህሉን እንዲሁም 12 ሚሊዮን ገደማ ሰዎች ጥገኛ የሆኑባቸውን ወንዞች መነሻ ውኃ በጉያው ይዟል። [UNESCO](https://whc.unesco.org/en/list/111/) [Farm Africa / BERSMP: The Significance of the Bale Mountains (2007)](https://farmafrica.org/wp-content/uploads/2024/07/Policy-Brief-1-BERSMP.pdf)
 
-## ሦስቱ ልዩ የስነ-ምህዳር ቀጠናዎች
+## በላቫና በበረዶ የተቀረጸ መልክዓ ምድር
 
-የባሌ ተራሮች ፓርክ በከፍታ ልዩነት ምክንያት በሦስት የተለያዩ የስነ-ምህዳር ቀጠናዎች ይከፈላል፦
+ዩኔስኮ ባሌን በጥንታዊ የላቫ ፍሰቶች፣ በበረዶ ግግር (glaciation) እና በታላቁ ስምጥ ሸለቆ መሰንጠቅ የተቀረጸ መልክዓ ምድር አድርጎ ይገልጸዋል፤ የእሳተ ገሞራ ጫፎችና ሸንተረሮች፣ ገደሎች፣ የበረዶ ግግር ሐይቆች፣ ጥልቅ ሸለቆዎችና ፏፏቴዎች ይገኙበታል። የፓርኩ የከፍታ ልዩነት ከቱሉ ዲምቱ ጫፍ በሐረና ደን ውስጥ እስከሚገኘው 1,500 ሜትር ገደማ ድረስ ወደ 2,900 ሜትር ይጠጋል። [UNESCO](https://whc.unesco.org/en/list/111/) በአንዳንድ ዝቅተኛ ተዳፋቶች ላይ በዓለቶች ላይ የሚታዩ ያልተለመዱ ሰረዞች፣ በዩኔስኮ አገላለጽ፣ «ለጂኦሎጂና ለበረዶ ግግር ምሁራን እንቆቅልሽ» ሆነው ቆይተዋል። [UNESCO](https://whc.unesco.org/en/list/111/)
 
-1. **የሰሜኑ የጌሴ ሜዳዎች (Northern Gaysay Plains)**፦ ከ3,000 እስከ 3,500 ሜትር ከፍታ ላይ የሚገኙ ሰፋፊ የሣር ሜዳዎችና የወንዝ ዳርቻ ቁጥቋጦዎች ሲሆኑ፣ የተራራ ድኩላ (Mountain Nyala)፣ ቦሆር ሪድበክና ዋርቶግ የሚሰማሩበት አካባቢ ነው።
-2. **የሳኔቲ አምባ (Sanetti Plateau)**፦ ከ4,000 ሜትር በላይ ከፍታ ያለው ግዙፍ የተራራ አምባ ሲሆን፣ በረዶ የሚመስል ጭጋግ፣ በርካታ የተራራ ሐይቆችና ግዙፍ የጅብራ (Giant Lobelia) ዕፅዋት ይገኙበታል። በዚህ አምባ ላይ የፓርኩ ከፍተኛ ጫፍ የሆነው ቱሉ ዲምቱ (Tullu Dimtu - 4,377 ሜትር) ይገኛል፤ ይህም በአፍሪካ አህጉር ላይ በመኪና መድረስ የሚቻልበት ከፍተኛው ስፍራ ነው። ሳኔቲ አምባ በዓለም ላይ ትልቁ የኢትዮጵያ ቀይ ቀበሮ መኖሪያ ማዕከል ነው። [EWCP: Sanetti](https://www.ethiopianwolf.org/)
-3. **የሐረና ደን (Harenna Forest)**፦ ከአምባው በስተደቡብ በኩል ቁልቁል ሲወረድ የሚገኘው ሁለተኛው ትልቁ የኢትዮጵያ ዝናባማ ደን ነው። ይህ ጥቅጥቅ ያለ ደን በዱር ቡና፣ በቀርከሃና በወይራ ዛፎች የተሞላ ሲሆን፣ ጥቁርና ነጭ ቆንጆ ዝንጀሮ (Colobus Monkey)፣ የሐረና ጦጣና ብርቅዬ ወፎች ይገኙበታል።
+## ሦስቱ ዋና ዋና ቀጣናዎች
 
-## የደቡብ-ምስራቅ ኢትዮጵያ «የውኃ ማማ»
+**የሣር ምድርና የተራራ ደኖች።** ከአምባው በታች ሰፋፊ የሣር ምድሮች ከአስታ፣ ከቀርከሃና ከጥድ ደኖች አጠገብ ተዘርግተዋል። [UNESCO](https://whc.unesco.org/en/list/111/) ይህ በኢትዮጵያ ብቻ ለሚገኘውና አደጋ ላይ ላለው የደጋ አጋዘን (mountain nyala፣ _Tragelaphus buxtoni_) ጥሩ መኖሪያ ነው። በ2012 (እ.ኤ.አ.) የተሠራ የባሌ ተራሮች የመኖሪያ ጥራት ሞዴል እንዳሳየው ከጥናቱ ክልል ለደጋ አጋዘን ጥሩ ወይም ምቹ መኖሪያ የሆነው 17 በመቶ ገደማ ብቻ ሲሆን፣ አብዛኛው በደቡብና በደቡብ-ምሥራቅ ርቀው በሚገኙ ተዳፋቶች ላይ ነው፤ የቀረው በአብዛኛው በሰው እንቅስቃሴ ተጎድቷል። [Evangelista et al.: Assessing habitat quality of the mountain nyala in the Bale Mountains (Current Zoology, 2012)](https://doi.org/10.1093/czoolo/58.4.525)
 
-የባሌ ተራሮች ለአካባቢው የተፈጥሮ ውበት ብቻ ሳይሆን፣ ለሰው ልጅ ህልውና እጅግ ወሳኝ የውኃ ምንጭ ናቸው። ከባሌ ተራሮች የሚመነጩት ከ40 በላይ ወንዞች (ዋና ዋናዎቹ ዋቤ ሸበሌ፣ ገናሌና ዌብ ወንዞች) ከ12 ሚሊዮን በላይ ለሚሆኑ የኢትዮጵያ፣ የሶማሊያና የኬንያ ነዋሪዎች የመጠጥ፣ የእርሻ መስኖና የኤሌክትሪክ ኃይል ውኃ ያቀርባሉ። [FZS: Water Tower](https://www.fzs.org/en/projects/ethiopia-bale-mountains/) ተራሮቹ ባይኖሩ ኖሮ የደቡብ ምስራቅ ቆላማ አካባቢዎች ወደ ደረቅ በረሃነት ይቀየሩ ነበር።
+**የሳነቲ አምባ።** ከ3,500 ሜትር በላይ ያሉት የሳነቲ አምባና የላይኛው ተዳፋቶች ዩኔስኮ «በዓለም ላይ ያልተነካና የተያያዘ ትልቁ የአፍሮ-አልፓይን ምድር» የሚለውን ይፈጥራሉ፤ በዚህ መኖሪያ ከሚገኙ ዝርያዎች ከ80 በመቶ በላይ የሚሆኑት በሌላ ቦታ አይገኙም። [UNESCO](https://whc.unesco.org/en/list/111/) በኢትዮጵያ ብቻ የሚበቅለውና ከአበባው ዘንግ ጋር እስከ 6.5 ሜትር ገደማ ሊደርስ የሚችለው ጅብራ (_Lobelia rhynchopetalum_) ከአጭሩ ዕፅዋት በላይ ጎልቶ ይታያል። [Wikipedia: Lobelia rhynchopetalum](https://en.wikipedia.org/wiki/Lobelia_rhynchopetalum) [UNESCO](https://whc.unesco.org/en/list/111/) አምባው የቀይ ቀበሮ ዋና ምግብ የሆነውና ፓርኩ በተመዘገበበት ወቅት በባሌ ብቻ የሚገኘው የግዙፉ ፍልፈል (_Tachyoryctes macrocephalus_) መኖሪያም ነው። [UNESCO](https://whc.unesco.org/en/list/111/) [Farm Africa / BERSMP](https://farmafrica.org/wp-content/uploads/2024/07/Policy-Brief-1-BERSMP.pdf)
 
-## ጥንታዊ የሰው ልጅ መኖሪያ ማረጋገጫ
+**የሐረና ደን።** ከአምባው በስተደቡብ ምድሩ በድንገት ቁልቁል ወደ ሐረና ደን ይወርዳል። ሐረና ከአጎራባቹ የመና አንገቱ ደን ጋር በመሆን በኢትዮጵያ ሁለተኛው ትልቁ እርጥበታማ ሞቃታማ ደን ሲሆን፣ የሀገሪቱን ብቸኛ ቀሪ የደመና ደን ክፍሎችም ይዟል። 100,000 ሄክታር ገደማ የሚሆነው ደን በፓርኩና በአቅራቢያው ባሉ አካባቢዎች ውስጥ ተጠብቋል። ደኑ የዱር ደን ቡናና የመድኃኒት ዕፅዋት የሚገኙበት ሲሆን፣ የቀርከሃ ቀጣናውም የባሌ ጦጣ መኖሪያ ነው። [UNESCO](https://whc.unesco.org/en/list/111/)
 
-በቅርብ ዓመታት በሳኔቲ አምባ ላይ በፊንቻ ሃቤራ (Fincha Habera) የተደረጉ የአርኪኦሎጂ ጥናቶች እንደሚያረጋግጡት፣ ከ30,000 እስከ 47,000 ዓመታት በፊት በበረዶ ዘመን የነበሩ ጥንታዊ ሰዎች በዚህ ከባድ ቅዝቃዜ ባለበት ከፍታ ላይ ቋሚ መኖሪያ መስርተው የተራራ አይጦችን እያደኑ ይኖሩ እንደነበር ታውቋል። ይህም የሰው ልጅ በከፍተኛ ከፍታ ላይ ኖሮበት የተገኘ በዓለም ላይ እጅግ ጥንታዊው ማስረጃ ነው። [Ossendorf et al.: Middle Stone Age foragers resided in high altitudes of the Bale Mountains](https://www.science.org/doi/10.1126/science.aaw8942)
+## በሌላ ቦታ የማይገኙ ዝርያዎች
 
-## የተፈጥሮ ጥበቃና ዘላቂ ልማት
+ዩኔስኮ ባቀረበው አሃዝ መሠረት በፓርኩ 1,660 የአበባ ዕፅዋት ዝርያዎች ተመዝግበዋል፤ ከእነዚህ 177ቱ በኢትዮጵያ ብቻ፣ 31ዱ ደግሞ በባሌ ብቻ ይገኛሉ። በተጨማሪም 79 አጥቢ እንስሳት (ከእነዚህ ስምንቱን አይጥ መሰል እንስሳት ጨምሮ 23ቱ ብርቅዬ ናቸው) እና ከ170 በላይ ፈላሲ ወፎችን ያካተቱ 363 የወፍ ዝርያዎች ተመዝግበዋል። [UNESCO](https://whc.unesco.org/en/list/111/) ፓርኩ በተመዘገበበት ወቅት ከግዙፉ ፍልፈል በተጨማሪ የሐረና ሽሬው (shrew)፣ የማልኮም የኢትዮጵያ እንቁራሪት (toad)፣ የባሌ ተራሮች የዛፍ እንቁራሪትና የባሌ ተራሮች እንቁራሪት በእነዚህ ተራሮች ብቻ ይታወቁ ነበር። [UNESCO](https://whc.unesco.org/en/list/111/)
 
-የባሌ ተራሮች በዩኔስኮ መመዝገባቸው ለጥበቃው ዓለም አቀፍ ትኩረት እንዲያገኝ አስችሎታል። የፍራንክፈርት ዞሎጂካል ሶሳይቲ (FZS) ከኢትዮጵያ መንግሥትና ከአካባቢው የኦሮሞ አርብቶ አደር ማህበረሰብ ጋር በመተባበር፣ ደኖችን ከመጨፍጨፍ በመከላከልና የዱር እንስሳቱን ከአደጋ በመጠበቅ ዘላቂ የስነ-ምህዳር ጥበቃ ስራዎችን እያከናወነ ይገኛል።
+የፓርኩ እጅግ የታወቀው እንስሳ ቀይ ቀበሮ (የኢትዮጵያ ተኩላ) ነው። የኢትዮጵያ ተኩላ ጥበቃ ፕሮግራም በመላ ኢትዮጵያ 500 ገደማ ተኩላዎች በስድስት ትናንሽ ቡድኖች እንደቀሩ ይገምታል፤ የቅርብ ጊዜ ግምቱም 453 ነው። [Ethiopian Wolf Conservation Programme](https://www.ethiopianwolf.org/) ዩኔስኮ ከእነዚህ ውስጥ የባሌውን ቡድን እጅግ ጠቃሚው ብሎ ይገልጸዋል። [UNESCO](https://whc.unesco.org/en/list/111/) ፕሮግራሙ የመኖሪያ አካባቢ መጥፋትንና በቤት ውሾች አማካኝነት የሚተላለፉ በሽታዎችን እንደ ዋና ስጋቶች ይጠቅሳል። [Ethiopian Wolf Conservation Programme](https://www.ethiopianwolf.org/)
 
-ስለ ኢትዮጵያ ብርቅዬ የዱር አራዊት ዝርዝር ለማወቅ [[ethiopian-endemic-wildlife]] የሚለውን ጽሑፍ ይመልከቱ።
+## የደቡብ-ምሥራቅ የውኃ ማማ
+
+ከተራራው ከፍታ የተነሳ የሚዘንበው ከፍተኛ ዝናብ አራት ዋና ዋና ወንዞችን ማለትም ዋቤ ሸበሌን፣ ዌብን፣ ወሜልንና ዱማልን እንዲሁም በርካታ ምንጮችን ይመግባል። በ2007 (እ.ኤ.አ.) የባሌ ኢኮ-ሪጅን ዘላቂ አስተዳደር ፕሮግራም ያወጣው የፖሊሲ ማጠቃለያ ከባሌ ተራሮች በሚመነጨው ውኃ ላይ 12 ሚሊዮን ገደማ ሰዎች ጥገኛ እንደሆኑ ገምቷል። [Farm Africa / BERSMP](https://farmafrica.org/wp-content/uploads/2024/07/Policy-Brief-1-BERSMP.pdf) ዩኔስኮ በበኩሉ የፓርኩ ሥነ-ምህዳሮች «በኢትዮጵያና ከኢትዮጵያ ውጭ ላሉ ሚሊዮኖች» የውኃ አቅርቦትን እንደሚያስተካክሉ በጥቅሉ ይገልጻል። [UNESCO](https://whc.unesco.org/en/list/111/)
+
+## በበረዶ ዘመን በአምባው ላይ የኖሩ አዳኝ-ሰብሳቢዎች
+
+ባሌ በከፍተኛ ቦታ ላይ የሰው ልጅ ስለመኖሩ የሚታወቀውን የመጀመሪያ ማስረጃም ይዟል። ከባሕር ወለል በላይ 3,470 ሜትር ገደማ ከፍታ ላይ በሚገኘው የፊንጫ ሐበራ ዓለት መጠለያ፣ የመካከለኛው የድንጋይ ዘመን አዳኝ-ሰብሳቢዎች ከ47,000 እስከ 31,000 ዓመታት ገደማ በፊት፣ የተራሮቹ ክፍሎች በበረዶ ግግር ተሸፍነው በነበረበት ወቅት፣ በተደጋጋሚ ኖረዋል። [Ossendorf et al.: Middle Stone Age foragers resided in high elevations of the glaciated Bale Mountains, Ethiopia (Science, 2019)](https://doi.org/10.1126/science.aaw8942) [AAAS: Middle Stone Age Human Settlement in Ethiopia Reaches New Heights](https://www.aaas.org/news/middle-stone-age-human-settlement-ethiopia-reaches-new-heights) መሣሪያዎቻቸውን የሠሩት 10 ኪሎ ሜትር ገደማ ርቀውና ከ600 ሜትር በላይ ከፍ ብለው ከሚገኙ የኦብሲዲያን (የእሳተ ገሞራ መስታወት ድንጋይ) ምንጮች ነበር። በብዛት የተገኙት የተቃጠሉ የግዙፉ ፍልፈል አጥንቶች እነዚህ እንስሳት ዋና ምግባቸው እንደነበሩ ያመለክታሉ። ከቆላ ብቻ ሊመጣ የሚችል የሰጎን እንቁላል ቅርፊት ስብርባሪም ከሌሎች ቡድኖች ጋር ግንኙነት እንደነበራቸው ይጠቁማል። ተመራማሪዎቹ ደጋማው ምድር በደረቁ የበረዶ ዘመን እንደ መሸሸጊያ አገልግሎ ሊሆን እንደሚችል ይገምታሉ። [AAAS](https://www.aaas.org/news/middle-stone-age-human-settlement-ethiopia-reaches-new-heights)
+
+## በጫና ውስጥ ያለ ጥበቃ
+
+ፓርኩን የሚያስተዳድረው የኢትዮጵያ የዱር እንስሳት ጥበቃ ባለሥልጣን ሲሆን፣ በተመዘገበበት ወቅት 80 ገደማ ጠባቂዎች ነበሩት። ፓርኩ 29ኙንም አጎራባች ቀበሌዎች ባካተተ 235,121 ሄክታር ዕውቅና ያለው የመከላከያ ቀጣና (buffer zone) የተከበበ ነው። [UNESCO](https://whc.unesco.org/en/list/111/) ዩኔስኮ ስለ ጫናዎቹ በግልጽ ይናገራል፤ በፓርኩ ውስጥና ዙሪያ ያለው ሰፈራ፣ የከብት ግጦሽና የእርሻ መስፋፋት እንዲሁም ቁልፍ መኖሪያዎችን አቋርጦ የሚያልፈው መንገድ ዋና ዋናዎቹ ናቸው። የአስተዳደር ዕቅዶቹ የከብቶችን ቁጥር ቀስ በቀስ ለመቀነስና የግጦሽ ክልከላ ቀጣናዎችን በተጎጂ ማኅበረሰቦች ፈቃድ ለማስፋት ያለሙ ናቸው። ዩኔስኮ «አልፎ አልፎ የሚከሰት ሕዝባዊ ዐመፅ» ከፓርኩ አቅም በላይ የሆነ ፈተና መሆኑንም ይጠቅሳል። [UNESCO](https://whc.unesco.org/en/list/111/) ከ2000 (እ.ኤ.አ.) ወዲህ አዳዲስና የተስፋፉ ጥብቅ ቦታዎችና የማኅበረሰብ ጥበቃ ተነሳሽነቶች፣ ጥበቃ ሥር ያለውን ለቀይ ቀበሮ ተስማሚ የሆነ መኖሪያ ድርሻ ከ40 በመቶ ወደ 87 በመቶ (እስከ 2011) አሳድገውታል። [Ethiopian Wolf Conservation Programme: Afroalpine Ecosystem](https://www.ethiopianwolf.org/the-wolves/afroalpine-ecosystem)
+
+የሐረና ደን የዱር ቡና ባሌን ከኢትዮጵያ የቡና ባህል ጋር ያገናኘዋል፤ ለዝርዝሩ [[ethiopian-coffee-culture]] የሚለውን ይመልከቱ። የኢትዮጵያን ደጋማ ምድር ልዩ ስለሚያደርጉት ዝርያዎች ደግሞ [[ethiopian-endemic-wildlife]] የሚለውን ያንብቡ።

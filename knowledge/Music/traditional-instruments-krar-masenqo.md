@@ -1,6 +1,6 @@
 ---
 title: 'የኢትዮጵያ ባህላዊ የሙዚቃ መሣሪያዎች፦ ክራር፣ ማሲንቆና ዋሽንት'
-description: 'የኢትዮጵያ ሙዚቃ ነፍስ የሆኑት ማሲንቆ፣ ክራር፣ ዋሽንትና ከበሮ፣ የአዝማሪዎችን የግጥም ጥበብና የመንፈሳዊ ዜማዎችን ታሪክ የሚወክሉ ጥንታዊ የድምፅ መሳሪያዎች ናቸው።'
+description: 'የአዝማሪዎቹ ባለአንድ ክር ማሲንቆና ባለአምስት ወይም ስድስት ክር ክራር፣ የሃይማኖት መዝሙር መሣሪያው በገና፣ ባለአራት ቀዳዳ ዋሽንትና የቤተ ክርስቲያን ዝማሬ ከበሮ የደጋማው ኢትዮጵያ ሙዚቃ መሠረቶች ናቸው።'
 date: '2026-11-03'
 tags:
   - Music
@@ -9,44 +9,62 @@ tags:
   - Masenqo
   - Azmari
 featured: true
-lastVerified: '2026-11-03'
+lastVerified: '2026-11-20'
 lastHumanReview: false
 status: published
+alternativeNames:
+  - Masinqo
+  - Kirar
+  - Begena
+  - Beganna
+sources:
+  - https://www.horniman.ac.uk/object/M23.2.65/5
+  - https://pan-african-music.com/en/survey-of-african-harps/
+  - https://www.horniman.ac.uk/object/M5.5.65/6
+  - https://www.horniman.ac.uk/object/M19.4.66/3
+  - https://doi.org/10.1093/mq/lxi.1.47
+  - https://press.uchicago.edu/ucp/books/book/chicago/W/bo19351153.html
+  - https://www.ethiopianorthodox.org/english/church/music.html
+  - https://www.musicinafrica.net/node/8894
+  - https://www.irishtimes.com/culture/music/sunken-treasure-alemu-aga-s-ethiopiques-vol-11-1.2775934
 ---
 
 # የኢትዮጵያ ባህላዊ የሙዚቃ መሣሪያዎች፦ ክራር፣ ማሲንቆና ዋሽንት
 
-የኢትዮጵያ ባህላዊ ሙዚቃ በዓለም ላይ ካሉ ጥንታዊና ልዩ የድምፅ ቅርሶች አንዱ ነው። [Shelemay: Sounding the Center](https://www.jstor.org/stable/j.ctt14jxtph) ከ6ኛው ክፍለ ዘመን የቅዱስ ያሬድ መንፈሳዊ ዜማ ጀምሮ እስከ ገጠሩ አዝማሪዎች ድረስ፣ የኢትዮጵያ ማህበረሰብ ስሜቱን፣ ፍቅሩን፣ ጀግንነቱንና የዕለት ተዕለት ህይወቱን የሚገልጽባቸው ድንቅ የባህል የሙዚቃ መሣሪያዎች አሉት። [Kimberlin: The Masinqo and the Nature of the Azmari](https://www.jstor.org/stable/851221)
+ቫይብራፎንና ኤሌክትሪክ ኦርጋን አዲስ አበባ ከመድረሳቸው ብዙ ቀደም ብሎ፣ የኢትዮጵያ ደጋማ አካባቢዎችን ሙዚቃ የተሸከሙት ጥቂት መሣሪያዎች ነበሩ፦ ባለአንድ ክሩ ማሲንቆ፣ ክራርና በገና የተባሉት የመሰንቆ ዘሮች (lyres)፣ ዋሽንትና ከበሮ። ከእነዚህ ሁለቱ፣ ማሲንቆና ክራር፣ የአዝማሪዎች መሣሪያዎች ናቸው፤ አዝማሪዎች በሠርግ፣ በሆቴሎችና በመጠጥ ቤቶች ድንገተኛና ብዙ ጊዜ ባለሁለት ትርጉም ግጥም የሚያቀርቡ ገጣሚ-ሙዚቀኞች ናቸው። [The Musical Quarterly: Ashenafi Kebede, "The Azmari, Poet-Musician of Ethiopia" (1975)](https://doi.org/10.1093/mq/lxi.1.47) [PAM: A brief survey of African harps](https://pan-african-music.com/en/survey-of-african-harps/) በገናና ከበሮ ደግሞ የሃይማኖት ሙዚቃ አካል ናቸው፤ የኢትዮጵያ ኦርቶዶክስ ተዋሕዶ ቤተ ክርስቲያን ዜማዋን በ6ኛው ክፍለ ዘመን በአክሱም ወደኖረው ወደ ቅዱስ ያሬድ ታደርሰዋለች። [Ethiopian Orthodox Tewahedo Church: Church music](https://www.ethiopianorthodox.org/english/church/music.html) ይህ ጽሑፍ የክርስቲያን ደጋማ አካባቢዎችን መሣሪያዎች ብቻ ይዳስሳል፤ የኢትዮጵያ ሌሎች በርካታ ማኅበረሰቦች የራሳቸው የሙዚቃ መሣሪያ ባህሎች አሏቸው፤ እነሱም የራሳቸው ጽሑፍ ይገባቸዋል።
 
-## ማሲንቆ፦ የአዝማሪዎች አንደበት
+## ማሲንቆ፦ አንድ ክርና ቀስት
 
-ማሲንቆ ከአንድ ወጥ እንጨት የሚሠራ ባለ አንድ ጅማት (Single-stringed) የሙዚቃ መሣሪያ ነው። ሳጥኑ በዳይመንድ (አልማዝ) ቅርጽ የተሰራ ሆኖ በቆዳ ይወጠራል፤ ጅማቱና የሚጎተተው ቀስት (Bow) የተሰሩት ከፈረስ ጭራ ነው። [Kimberlin](https://www.jstor.org/stable/851221)
+ማሲንቆ በቀስት የሚጫወት ባለ ዘንግ የክር መሣሪያ ነው። በለንደኑ ሆርኒማን ሙዚየም የሚገኘውና በ1940 (እ.ኤ.አ.) ገደማ በኢትዮጵያ የተሠራው ማሲንቆ የተለመደውን አሠራር ያሳያል፦ የእንጨት ዘንግ በጣውላዎች ተገጣጥሞ በሽቦ በታሰረና በቆዳ በተሸፈነ የአልማዝ (ሎዘንጅ) ቅርጽ ባለው የድምፅ ሳጥን ውስጥ ያልፋል። ብቸኛው ክሩ ከበርካታ የፈረስ ጭራ ፀጉሮች የተሠራ ሲሆን፣ ከተጣመመ ቀንበጥ በተቆረጠ ድልድይ ላይ ያልፋል፤ በቀስትም ይጫወታል። [Horniman Museum: Masenqo and bow](https://www.horniman.ac.uk/object/M23.2.65/5)
 
-ማሲንቆ የባህላዊ ገጣሚ-አቀንቃኞች (አዝማሪዎች) ዋና መሣሪያ ነው። አዝማሪው በማሲንቆው ድምፅ ታጅቦ፦
+መሣሪያው ከአዝማሪዎች ጋር በጥብቅ የተቆራኘ ነው፤ የኢትኖሙዚኮሎጂ ምሁሩ አሸናፊ ከበደ በ1975 (እ.ኤ.አ.) በ _The Musical Quarterly_ ባሳተሙት ጥናት የአዝማሪን የተዋናይነትና የማኅበራዊ ተቺነት ሚና ገልጸውታል። [The Musical Quarterly](https://doi.org/10.1093/mq/lxi.1.47)
 
-- አድማጮችን በስም እየጠራ በአስቂኝና በስላቅ ግጥሞች ያወድሳል ወይም ይተቻል።
-- የኢትዮጵያን ዝነኛ የ«ሰምና ወርቅ» (Wax and Gold) የግጥም ጥበብ በመጠቀም ድብቅ ትርጉም ያላቸውን መልእክቶች ያስተላልፋል።
+## አዝማሪና «ሰምና ወርቅ»
 
-ማሲንቆ በድምፁ ልስላሴና ለቅሶ በሚመስለው ቃናው የታወቀ ሲሆን፣ በተለይ በሐዘንና በትዝታ ዜማዎች ውስጥ ልብ የሚነካ ስሜት ይፈጥራል።
+የአዝማሪ ትርኢት እንደ ሙዚቃው ሁሉ ስለ ቃላትም ነው። ግጥሞቻቸው «ሰምና ወርቅ» በተባለው የአማርኛ የግጥም ስልት ላይ ይመሠረታሉ። የሶሺዮሎጂ ምሁሩ ዶናልድ ሌቪን እንዳጠቃለሉት፣ «ሰሙ» የግጥሙ ግልጽ ትርጉም ሲሆን «ወርቁ» ደግሞ የተደበቀው ትርጉም ነው። [University of Chicago Press: Donald N. Levine, Wax and Gold](https://press.uchicago.edu/ucp/books/book/chicago/W/bo19351153.html)
 
-## ክራር፦ የንጉሥ ዳዊት በገና ዘመድ
+PAM የተባለው የሙዚቃ መጽሔት አዝማሪዎችን እንደ ተዝናኖት አቅራቢና ማኅበራዊ ተቺ ከምዕራብ አፍሪካ ግሪዮቶች ጋር ያነጻጽራቸዋል። ቢያንስ ከ15ኛው ክፍለ ዘመን ጀምሮ ክራርን ይዘው በኢትዮጵያ ደጋማ አካባቢዎች እንደተዘዋወሩና ዛሬም በሠርግ፣ በሆቴሎችና በጠጅ ቤቶች እንደሚጫወቱ ይገልጻል። [PAM](https://pan-african-music.com/en/survey-of-african-harps/)
 
-ክራር (Krar) ባለ 5 ወይም 6 ክሮች ያሉት የገናና የመሰንቆ ዝርያ (Bowl-lyre) ነው። ጥንታዊው አፈ-ታሪክ ከንጉሥ ዳዊት በገና ጋር የሚያስተሳስረው ሲሆን፣ በኢትዮጵያ ኦርቶዶክስ ተዋሕዶ ቤተ ክርስቲያን ውስጥ በገና ለጸሎትና ለመንፈሳዊ ዝማሬ ሲያገለግል፣ ክራር ግን ለማህበራዊና ለደስታ ዘፈኖች ይውላል። [Shelemay](https://www.jstor.org/stable/j.ctt14jxtph)
+## ክራር፦ አምስት ወይም ስድስት ክሮች
 
-ክራር በሁለት መንገድ ይጫወታል፦
+ክራር በኢትዮጵያና በኤርትራ የሚጫወት ባለአምስት ወይም ባለስድስት ክር መሰንቆ ነው። ያጌጠው የእንጨት አካሉ ክሮቹ ወደሚታሰሩበት መስቀለኛ እንጨት (ቀንበር) ተዘርግቶ ይወጣል። [PAM](https://pan-african-music.com/en/survey-of-african-harps/) ባለአምስት ድምፅ ሚዛን (pentatonic) ላይ ይቃኛል፤ በጣት ሊቆነጠር ወይም ሊመታ ይችላል፤ መምታቱ ተጨማሪ ድምፅና ተደራቢ ቃናዎችን (overtones) ይሰጣል። [PAM](https://pan-african-music.com/en/survey-of-african-harps/)
 
-1. **በመዳበስ (Plucking)**፦ እያንዳንዱን ክር በጥፍር ወይም በፕሌክትረም እየመቱ የተናጠል ዜማ ማውጣት።
-2. **በመምታት (Strumming)**፦ ሁሉንም ክሮች በአንድ ጊዜ እየመቱ በማይፈለጉት ክሮች ላይ በግራ እጅ ጣቶች አፈና ማድረግ።
+ክራርም ከዘመኑ ጋር ተቀይሯል። ቀድሞ በቆዳ ማሰሪያ ወይም በእንጨት ችንካር ይታሰሩ የነበሩት ክሮች ዛሬ ብዙ ጊዜ በኤሌክትሪክ ጊታር ላይ በሚገኙ የብረት መቃኛዎች ይታሰራሉ። መሰንቆ ድምፁ ዝቅተኛ ስለሆነ ዘመናዊ ተጫዋቾች ብዙ ጊዜ በመሣሪያቸው ውስጥ የድምፅ መቀበያ (pickup) ይገጥማሉ፤ በዚህም ክራር በባህላዊው አዝማሪ የብቻ ትርኢት ብቻ ሳይሆን ከባንድ ጋር ሊጫወት ይችላል። [PAM](https://pan-african-music.com/en/survey-of-african-harps/)
 
-በዘመናዊው ዘመን ክራር የኤሌክትሪክ ማጉያ (Electric Krar) ተገጥሞለት በሮክና በዘመናዊ ሙዚቃ ባንዶች ውስጥ እንደ ዋና መሪ ጊታር ሆኖ ያገለግላል።
+## በገና፦ ለሃይማኖት መዝሙር የሚውል መሰንቆ
 
-## ዋሽንት እና ከበሮ
+በገና ከክራር የሚበልጥና ማኅበራዊ ሚናውም ፈጽሞ የተለየ ባለሳጥን መሰንቆ ነው። በሆርኒማን ሙዚየም የሚገኘውና ከትግራይ የተገኘው የ18ኛው ክፍለ ዘመን በገና የተቀረጸ የእንጨት የድምፅ ሳጥን፣ በጂኦሜትሪ ንድፍ ያጌጠ የተሰፋ የቆዳ ገበታና ስድስት ወፍራም የአንጀት ክሮች አሉት፤ ለአራት ተጨማሪ ክሮችም ማሰሪያ አለው። የሙዚየሙ ማስታወሻ እንደሚለው፣ የቤተ ክርስቲያን መጻሕፍት በገናን ከንጉሥ ዳዊት በገና ጋር ያያይዙታል፤ ረጃጅሞቹ ክሮች በጣቶችና በአውራ ጣቶች ይቆነጠራሉ፤ በገና ብዙውን ጊዜ የሃይማኖት ጭብጥ ያላቸውን መዝሙሮች ያጅባል። [Horniman Museum: Box lyre, begena](https://www.horniman.ac.uk/object/M5.5.65/6) በአፈ ታሪክ መሠረት ቀዳማዊ ምኒልክ መሣሪያውን ከእስራኤል አምጥቶታል፤ እዚያም ዳዊት ንጉሥ ሳኦልን ለማረጋጋት ይጫወተው ነበር። [The Irish Times: Sunken Treasure: Alemu Aga's Ethiopiques Vol 11](https://www.irishtimes.com/culture/music/sunken-treasure-alemu-aga-s-ethiopiques-vol-11-1.2775934) ይህ ታሪክ አፈ ታሪክ እንጂ በሰነድ የተረጋገጠ ታሪክ አይደለም።
 
-- **ዋሽንት (Washint)**፦ ከተመረጠ ሸምበቆ ወይም የቀርከሃ እንጨት የሚሠራ ባለ አራት ቀዳዳ የንፋስ መሣሪያ ነው። በኢትዮጵያ ደጋማ ስፍራዎች እረኞች ከብቶችን በሚጠብቁበት ጊዜ የሚያዜሙበት ሲሆን፣ በልዩ የአተነፋፈስ ዘዴ የሚወጣው ድምፅ የተራራውን ጭውታና የሜዳውን ሰላም የሚያንጸባርቅ ነው።
-- **ከበሮ (Kebero)**፦ በሁለቱም በኩል በቆዳ የተወጠረ ትልቅ የእንጨት ከበሮ ነው። በተለይ በቤተ ክርስቲያን ስርዓት ውስጥ ለቅዱስ ያሬድ ዝማሬና ለማህሌት እንደ ዋና የጊዜ መለኪያ ሆኖ ያገለግላል፤ በተጨማሪም በሰርግና በበዓላት ጭፈራዎች ውስጥ የሙዚቃውን ምት ይመራል።
+የበገና የቅርብ ጊዜ ታሪክ ሙዚቃና ፖለቲካ ምን ያህል እንደሚቆራኙ ያሳያል። በ1950 (እ.ኤ.አ.) በአዲስ አበባ አቅራቢያ በእንጦጦ የተወለዱት የበገና ሊቁ ዓለሙ አጋ ለመጀመሪያ ጊዜ በ1972 (እ.ኤ.አ.) በኢትኖሙዚኮሎጂስቷ ሲንቲያ ጼ ኪምበርሊን ለዩኔስኮ ስብስብ ተቀርጸዋል። [Music in Africa: Alemu Aga](https://www.musicinafrica.net/node/8894) በ1967 ዓ.ም. (1974) ደርግ ሥልጣን ከያዘ በኋላ፣ ፀረ-ሃይማኖት ፖሊሲዎቹ በገናን ከሬዲዮ ማገድንና እርሳቸው ያስተምሩበት በነበረው በያሬድ ሙዚቃ ትምህርት ቤት የበገና ትምህርትን መዝጋትን ያካተቱ ነበሩ፤ እርሳቸውም በ1980 (እ.ኤ.አ.) የማስተማር ሥራቸውን ተዉ። [Music in Africa](https://www.musicinafrica.net/node/8894) በኋላ ለኢትዮጲክስ ተከታታይ ያሳተሙት አልበም ባለአሥር ክሩን በገና ከድምፃቸው ጋር ያጣምራል። [The Irish Times](https://www.irishtimes.com/culture/music/sunken-treasure-alemu-aga-s-ethiopiques-vol-11-1.2775934)
 
-## ማጠቃለያ
+## ዋሽንት
 
-እነዚህ ባህላዊ መሣሪያዎች የኢትዮጵያን ሙዚቃዊ ማንነት ለዘመናት ጠብቀው ያቆዩ ናቸው። ዛሬም በቴዝ፣ በአዝማሪ ቤቶችና በዓለም አቀፍ የኮንሰርት መድረኮች ላይ ከዘመናዊ ጃዝ፣ ሬጌና ኤሌክትሮኒክ ሙዚቃ ጋር ተቀናጅተው ውበታቸውን እየመሰከሩ ይገኛሉ።
+ዋሽንት ከጫፉ የሚነፋ ዋሽንት (end-blown flute) ነው። የሆርኒማን ሙዚየም ዋሽንት ሁለቱም ጫፎቹ ክፍት የሆነ የቀርከሃ ቁራጭ ነው፤ ውስጡ ያሉት ሁለት አንጓዎች ተከፍተዋል፤ ከፊት ለፊቱም አራት ትናንሽ ክብ የጣት ቀዳዳዎች አሉት። እንደ ሌሎቹ ዋሽንቶች ባለአምስት ድምፅ ሚዛን ሳይጫወት አይቀርም። [Horniman Museum: Washint](https://www.horniman.ac.uk/object/M19.4.66/3)
 
-ስለ ዘመናዊው የኢትዮጵያ ጃዝ ውህደትና ስለ ሙላቱ አስታጥቄ የበለጠ ለማወቅ [[ethio-jazz-mulatu-astatke]] የሚለውን ጽሑፍ ይመልከቱ።
+## ከበሮና የቤተ ክርስቲያን ዝማሬ
+
+የቤተ ክርስቲያኒቱ ሙዚቃ ለቅዱስ ያሬድ ይሰጣል፤ ቅዱስ ያሬድ በ6ኛው ክፍለ ዘመን በአክሱም የኖሩ ሊቅ ሲሆኑ ድጓ (የመዝሙር መጽሐፉ) ለእርሳቸው ይሰጣል፤ በዘመናት ሂደት ግን በሌሎች ደራስያን የተደረሱ መዝሙሮች ተጨምረውበታል። [Ethiopian Orthodox Tewahedo Church](https://www.ethiopianorthodox.org/english/church/music.html) ዝማሬው ሦስት ዜማዎችን ይጠቀማል፦ ግዕዝ ለተራ ቀናት፣ ዕዝል ለጾም ቀናትና ለዐቢይ ጾም፣ አራራይ ደግሞ ለዐበይት በዓላት። [Ethiopian Orthodox Tewahedo Church](https://www.ethiopianorthodox.org/english/church/music.html)
+
+የሚዘምሩትን ካህናት ሦስት መሣሪያዎች ያጅባሉ፦ ጸናጽል (የብረት መቃጭል)፣ ከበሮ (ትልቅ ከበሮ) እና የእጅ ደወል። [Ethiopian Orthodox Tewahedo Church](https://www.ethiopianorthodox.org/english/church/music.html) ይኸው ገጽ ካህናቱ በሚዘምሩበት ጊዜ በከበሮው ልኩን በጠበቀ ምት እንደሚወዛወዙ ይገልጻል። [Ethiopian Orthodox Tewahedo Church](https://www.ethiopianorthodox.org/english/church/music.html)
+
+እነዚህ መሣሪያዎች የሚቃኙባቸው ቅኝቶች የአንድ ዘመናዊ የሙዚቃ ስልት መሠረት ሆነዋል፤ [[ethio-jazz-mulatu-astatke]] የሚለውን ይመልከቱ። የበገናና የከበሮ የቤተ ክርስቲያን ሙዚቃ በይፋ በብዛት የሚሰማው በ[[ethiopian-religious-festivals]] ላይ በተገለጹት በዓላት ነው።

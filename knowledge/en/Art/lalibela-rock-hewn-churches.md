@@ -1,6 +1,6 @@
 ---
 title: 'The Rock-Hewn Churches of Lalibela: Medieval Monolithic Engineering'
-description: 'Carved directly downward out of solid red volcanic tuff during the 12th and 13th centuries under King Lalibela, the eleven medieval churches of Roha represent a pinnacle of world monolithic architecture.'
+description: 'Eleven medieval churches cut downward into soft volcanic rock at Lalibela in northern Ethiopia, attributed to King Lalibela and inscribed as a UNESCO World Heritage Site in 1978, remain an active pilgrimage centre.'
 date: '2026-11-03'
 tags:
   - Art
@@ -8,43 +8,56 @@ tags:
   - Architecture
   - UNESCO
 featured: true
-lastVerified: '2026-11-03'
+lastVerified: '2026-11-20'
 lastHumanReview: false
 status: published
+sources:
+  - https://whc.unesco.org/en/list/18/
+  - https://www.metmuseum.org/en/essays/the-rock-hewn-churches-of-lalibela
+  - https://world-archaeology.com/features/lalibela-ethiopa-rock-hewn-churches
+  - https://www.cambridge.org/core/journals/antiquity/article/rockcut-stratigraphy-sequencing-the-lalibela-churches/B53C45E7808B62840E6C5BF3F6380B88
+  - https://www.britannica.com/place/Lalibela-Ethiopia
+  - https://www.voanews.com/a/6908589.html
 ---
 
 # The Rock-Hewn Churches of Lalibela: Medieval Monolithic Engineering
 
-Carved out of living volcanic tuff in the rugged Lasta mountains of northern Ethiopia, the eleven monolithic and semi-monolithic rock-hewn churches of Lalibela stand as one of humanity’s most breathtaking architectural and spiritual accomplishments. [UNESCO: Rock-Hewn Churches, Lalibela](https://whc.unesco.org/en/list/18/) Inscribed in 1978 among the first twelve properties on the inaugural UNESCO World Heritage List, this medieval sanctuary is widely celebrated as the "Eighth Wonder of the World." [Buxton: The Christian Antiquities of Northern Ethiopia](https://www.jstor.org/stable/2843485)
+In the mountains of northern Ethiopia, about 645 kilometers from Addis Ababa, eleven medieval churches were not built but carved out of the living rock. [UNESCO: Rock-Hewn Churches, Lalibela](https://whc.unesco.org/en/list/18/) Ethiopian tradition credits them to King Gebre Mesqel Lalibela (ላሊበላ), who reigned roughly 1181–1221, and the town that grew around them now carries his name. [The Met: The Rock-hewn Churches of Lalibela](https://www.metmuseum.org/en/essays/the-rock-hewn-churches-of-lalibela) UNESCO inscribed the site on the World Heritage List in 1978. [The Met](https://www.metmuseum.org/en/essays/the-rock-hewn-churches-of-lalibela) More than eight centuries later the churches are still in daily religious use, which makes Lalibela both an archaeological puzzle and one of the most important pilgrimage places of the Ethiopian Orthodox Tewahedo Church.
 
-## Historical Vision: A "New Jerusalem" in the Highlands
+## Roha, the Zagwe Dynasty and a "New Jerusalem"
 
-The complex was conceived during the late 12th and early 13th centuries under the devout monarch King Gebre Mesqel Lalibela of the Zagwe Dynasty. Following the capture of Jerusalem by Saladin in 1187, dangerous geopolitical turmoil made pilgrimage to the Holy Land perilous for Ethiopian Christians. [Phillipson: Ancient Churches of Ethiopia](https://www.yalepress.yale.edu/book/9780300141566/ancient-churches-ethiopia)
+Before it took the king's name, the town was called Roha and served for about three centuries as the capital of the Zagwe dynasty. [Britannica: Lalibela](https://www.britannica.com/place/Lalibela-Ethiopia) UNESCO's description attributes the churches to King Lalibela's plan to build a "New Jerusalem" in the 12th century, after Muslim conquests halted Christian pilgrimage to the Holy Land. [UNESCO](https://whc.unesco.org/en/list/18/) The archaeologist David Phillipson notes that Saladin captured Jerusalem early in Lalibela's reign (in 1187), which may have made the traditional Ethiopian pilgrimage to Palestine feel closed off. [Current World Archaeology: Lalibela](https://world-archaeology.com/features/lalibela-ethiopa-rock-hewn-churches)
 
-In response, King Lalibela ordered the creation of a **"New Jerusalem"** high within the Ethiopian plateau. The sacred topography deliberately mirrored biblical geography:
+The sacred geography of Jerusalem was mapped onto the site. The seasonal river that runs through it is called the Yordanos (Jordan), and a nearby hill is Debre Zeit, the Mount of Olives. [Current World Archaeology](https://world-archaeology.com/features/lalibela-ethiopa-rock-hewn-churches) Inside Bete Golgotha there are replicas of the tomb of Christ and of Adam, and of the crib of the Nativity; UNESCO describes the town as having become a substitute for the holy places of Jerusalem and Bethlehem. [UNESCO](https://whc.unesco.org/en/list/18/) A cloth-draped feature in the same church is pointed out today as the tomb of King Lalibela himself. [Current World Archaeology](https://world-archaeology.com/features/lalibela-ethiopa-rock-hewn-churches)
 
-- A seasonal river was rechristened the **River Jordan** (_Yordanos_).
-- Sacred complexes were oriented around the Mount of Olives, Golgotha, and the Tomb of Adam.
+Church tradition has its own account of how the work was done. According to the king's hagiography (_gadl_), Lalibela carved the churches over twenty-four years with the help of angels, who are said to have continued the work at night. [The Met](https://www.metmuseum.org/en/essays/the-rock-hewn-churches-of-lalibela) [Current World Archaeology](https://world-archaeology.com/features/lalibela-ethiopa-rock-hewn-churches) This is a religious tradition, not a construction record, and archaeologists read the site differently (see below).
 
-## The Engineering Feat: Monolithic Subtractive Architecture
+## Carved From the Top Down
 
-Unlike classical masonry structures assembled upwards with stone blocks and mortar, the churches of Lalibela were created entirely through **subtractive excavation**:
+The churches were made by subtraction. Workers isolated blocks of rock and then chiseled them out to form doors, windows, columns, floors and roofs. [UNESCO](https://whc.unesco.org/en/list/18/) The cutting went from the top down, so the last part of each church to be hewn was at the bottom. [The Met](https://www.metmuseum.org/en/essays/the-rock-hewn-churches-of-lalibela) The rock is a soft volcanic stone, and the forms vary: some churches stand as free blocks in deep pits, while others are cut into a cliff face. [Current World Archaeology](https://world-archaeology.com/features/lalibela-ethiopa-rock-hewn-churches) Britannica describes the churches as lying entirely below ground level. [Britannica](https://www.britannica.com/place/Lalibela-Ethiopia)
 
-1. Workers first excavated deep vertical perimeter trenches directly into the basaltic bed-rock, isolating a colossal single monolithic cube of stone from the surrounding mountain.
-2. Stonemasons then chiseled their way through exterior door and window openings into the core of the block.
-3. Interior spaces—complete with soaring naves, vaulted arches, classical capitals, drainage conduits, and decorative friezes—were meticulously hollowed out from a single continuous geological formation.
+The churches did not stand alone. The work included an extensive system of drainage ditches, trenches and ceremonial passages, some of them opening onto hermit caves and catacombs. [UNESCO](https://whc.unesco.org/en/list/18/) The drainage mattered: water is the main threat to soft rock, a point that returns in the site's modern conservation problems.
 
-Any miscalculation would have resulted in catastrophic, irreparable structural collapse, attesting to extraordinary medieval architectural geometry. The churches are interconnected by subterranean passageways, catacombs, and ceremonial drainage trenches designed to divert violent mountain flash floods.
+## The Two Groups and Bete Giyorgis
 
-## Architectural Masterpieces
+UNESCO divides the churches into two main groups on either side of the Yordanos. North of the river are Bete Medhane Alem (House of the Saviour of the World), Bete Maryam (House of Mary), Bete Maskal (House of the Cross), Bete Denagel (House of Virgins) and Bete Golgotha Mikael. South of it are Bete Amanuel, Bete Qeddus Mercoreos, Bete Abba Libanos, Bete Gabriel-Raphael and Bete Lehem. [UNESCO](https://whc.unesco.org/en/list/18/) Bete Medhane Alem, with five aisles, is believed to be the largest monolithic church in the world. Bete Mercoreos and Bete Gabriel-Raphael may first have been royal residences rather than churches. [UNESCO](https://whc.unesco.org/en/list/18/) Bete Maryam is the one church that keeps its colored geometric and biblical paintings. [The Met](https://www.metmuseum.org/en/essays/the-rock-hewn-churches-of-lalibela)
 
-- **Bete Giyorgis (Church of Saint George)**: The most iconic and structurally pristine of the complex. Carved in the shape of a perfect Greek cross from a 12-meter-deep pit, its roof features concentric carved cross reliefs that drain rainwater through sculpted gargoyles.
-- **Bete Medhane Alem (Church of the Savior of the World)**: The largest monolithic rock-hewn church in the world, flanked by 34 massive exterior square pillars and measuring over 33 meters in length.
-- **Bete Maryam (Church of Mary)**: Renowned for its elaborately painted and bas-relief ceilings featuring early Ge'ez crosses, Christian iconography, and geometric motifs.
-- **Bete Golgotha-Mikael**: Houses sacred life-size relief carvings of the apostles and the venerated crypt of King Lalibela himself.
+The eleventh church, Bete Giyorgis (House of Saint George), stands apart from the others and is connected to them by trenches. [UNESCO](https://whc.unesco.org/en/list/18/) It rises from the bottom of a roughly rectangular pit about 11 meters deep, reached by an entrance trench some 30 meters long, and is cut in a cross-shaped plan on a high stepped plinth. Its lower windows follow an Aksumite pattern but are false: they do not open into the interior. [Current World Archaeology](https://world-archaeology.com/features/lalibela-ethiopa-rock-hewn-churches)
 
-## A Living Sanctuary of Active Faith
+## How Old Are the Churches?
 
-Unlike the abandoned ruins of Petra or Abu Simbel, Lalibela is a vibrant, unbroken sanctuary of living spiritual pilgrimage. Every morning at dawn, the echo of Ge'ez liturgy, prayer chants, and the ringing of ancient iron sistra (_tsenatsil_) fill the subterranean chambers, drawing hundreds of thousands of white-robed pilgrims during Genna (Christmas) and Timket (Epiphany).
+The attribution to a single king is not settled. Dating a building that was made by removing rock, and that is still in use, is much harder than dating a built structure. [Current World Archaeology](https://world-archaeology.com/features/lalibela-ethiopa-rock-hewn-churches) Phillipson argues that the oldest rock-hewn features at Lalibela may date to the 7th or 8th century, about 500 years before the traditional date, and that they were not originally churches. In his sequence, the finest basilica-style churches were added later, around the 11th or 12th century, and only the last phase, which gave the complex its "Jerusalem" names and its present form, belongs to King Lalibela's reign. [Current World Archaeology](https://world-archaeology.com/features/lalibela-ethiopa-rock-hewn-churches)
 
-To learn about Ethiopian manuscript illumination and modern painting traditions, see [[ethiopian-illuminations-modern-art]].
+A French-led team (François-Xavier Fauvelle-Aymar and colleagues) took a different route in 2010. Their study in _Antiquity_ argues that a stratigraphic sequence can be read from the cuts and openings, from the spoil heaps and from sediments that have since disappeared. [Antiquity: Rock-cut stratigraphy: sequencing the Lalibela churches](https://www.cambridge.org/core/journals/antiquity/article/rockcut-stratigraphy-sequencing-the-lalibela-churches/B53C45E7808B62840E6C5BF3F6380B88) Scholars do not agree on a single chronology. A fair summary is that the complex was cut in several phases, and that at least its final form is tied to the king tradition remembers.
+
+## A Living Pilgrimage Site
+
+Lalibela has been a focus of pilgrimage since the 12th century, and the original function of the site still continues. [UNESCO](https://whc.unesco.org/en/list/18/) It is home to a large community of priests and monks, and the Church and State have long been jointly responsible for it. [UNESCO](https://whc.unesco.org/en/list/18/) The great feasts draw the largest crowds. At Genna (Ethiopian Christmas) in January 2023, tens of thousands of worshippers in white _netela_ shawls filled the site. [VOA: After Peace Deal, Orthodox Ethiopians Keep a Christmas of Hope](https://www.voanews.com/a/6908589.html)
+
+That celebration followed a period of war. Lalibela lies about 40 kilometers from Tigray, and during the 2020–2022 conflict between the federal government and the Tigray People's Liberation Front the town changed hands four times. VOA reported that the churches appeared to have been spared physical damage, and that pilgrim numbers had been much lower in the war years. [VOA](https://www.voanews.com/a/6908589.html)
+
+## Conservation Problems
+
+UNESCO's own assessment is blunt. The drainage ditches were filled with earth for several centuries before being cleared in the 20th century, and seismic activity has disrupted them. The result is severe water damage, and most of the churches are considered to be in critical condition. UNESCO identifies a possible risk of collapse at Bete Amanuel. It also records serious degradation of the interior paintings over the last thirty years, and badly damaged sculpture and bas-reliefs, such as those at the entrance of Bete Maryam. [UNESCO](https://whc.unesco.org/en/list/18/) Conservation work has gone on since the 1960s. [The Met](https://www.metmuseum.org/en/essays/the-rock-hewn-churches-of-lalibela) Temporary lightweight shelters now cover some churches. They protect the rock but change how the site looks, and new construction and tourism infrastructure around the churches are further pressures. [UNESCO](https://whc.unesco.org/en/list/18/)
+
+The painting tradition that survives at Bete Maryam continues in Ethiopia's illuminated manuscripts and modern art; see [Ge'ez Illuminations and Modern Art](/en/art/ethiopian-illuminations-modern-art). The Aksumite window designs at Bete Giyorgis go back to [the Aksumite Empire](/en/history/aksumite-empire), and the Genna and Timket crowds are part of [Ethiopia's religious festivals](/en/culture/ethiopian-religious-festivals).

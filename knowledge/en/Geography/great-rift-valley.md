@@ -1,6 +1,6 @@
 ---
 title: 'The Great Rift Valley: Geological Rupture and the Cradle of Humankind'
-description: 'Bisecting Ethiopia diagonally from the hyper-arid Danakil Depression to lush southern lakes, the Ethiopian Rift Valley is a dynamic tectonic laboratory and the world’s preeminent paleoanthropological landscape.'
+description: 'Splitting the Ethiopian highlands from the Afar Depression to the southern lakes, the Ethiopian Rift is where three tectonic plates pull apart and where fossils such as 3.2-million-year-old Lucy were found.'
 date: '2026-11-03'
 tags:
   - Geography
@@ -8,44 +8,56 @@ tags:
   - Afar
   - Geology
 featured: true
-lastVerified: '2026-11-03'
+lastVerified: '2026-11-20'
 lastHumanReview: false
 status: published
+sources:
+  - https://science.nasa.gov/earth/earth-observatory/the-smoking-mountain-152150/
+  - https://www.nature.com/articles/39853
+  - https://www.nature.com/articles/nature04978
+  - https://doi.org/10.1007/s10113-004-0083-x
+  - https://en.wikipedia.org/wiki/Lake_Shala
+  - https://en.wikipedia.org/wiki/Abijatta-Shalla_National_Park
+  - https://whc.unesco.org/en/list/10/
+  - https://humanorigins.si.edu/evidence/human-fossils/fossils/al-288-1
+  - https://doi.org/10.1126/science.1175802
+  - https://whc.unesco.org/en/list/17/
+  - https://www.nature.com/articles/s41586-021-04275-8
+  - https://www.thinkgeoenergy.com/eep-confirms-25-mw-at-aluto-langano-geothermal-project-in-ethiopia/
 ---
 
 # The Great Rift Valley: Geological Rupture and the Cradle of Humankind
 
-The Great Rift Valley divides the Ethiopian highlands diagonally into two massive physiographic blocks: the northwestern plateaus and the southeastern highlands. Stretching over 1,000 kilometers from the Afar Depression down to the Kenyan border at Lake Turkana, the Ethiopian segment of the East African Rift System (EARS) represents one of the most tectonically active and scientifically significant continental rifts on Earth. [Geological Society: East African Rift](https://www.geolsoc.org.uk/Plate-Tectonics/Chap3-Plate-Margins/Divergent/East-African-Rift)
+The Ethiopian section of the East African Rift cuts diagonally across the country. It separates the northwestern highlands from the southeastern highlands and runs from the Afar (Danakil) Depression in the northeast down through a chain of lakes toward Lake Turkana on the Kenyan border. At its northern end, in Afar, three tectonic plates are pulling away from each other, and magma rising through the gap feeds some of the most active volcanoes in Africa. [NASA Earth Observatory: The Smoking Mountain](https://science.nasa.gov/earth/earth-observatory/the-smoking-mountain-152150/) The same sediments that record this rifting hold some of the most important fossils of human evolution, including the 3.2-million-year-old skeleton known as Lucy. [Smithsonian Human Origins Program: AL 288-1 (Lucy)](https://humanorigins.si.edu/evidence/human-fossils/fossils/al-288-1)
 
-## Tectonic Dynamics and the Afar Triple Junction
+## How the Rift Formed
 
-The northern apex of the rift is the Afar Depression, a rare subaerial "triple junction" where three tectonic plates—the Nubian, Somali, and Arabian plates—are pulling apart from one another. [Wright et al.: Magma-maintained rift segmentation in Afar](https://www.nature.com/articles/nature04578)
+The rift cuts through a landscape that was itself built by volcanism. Most of the thick basalt lavas that form the Ethiopian highlands, the "Ethiopian traps", erupted about 30 million years ago, within about a million years or less. Geologists link the eruption to a mantle plume arriving beneath the region. [Hofmann et al.: Timing of the Ethiopian flood basalt event (Nature, 1997)](https://www.nature.com/articles/39853) Later stretching of the crust broke this volcanic plateau apart. Today the Nubian, Somali and Arabian plates are diverging, and the Afar Depression lies where all three meet. [NASA Earth Observatory](https://science.nasa.gov/earth/earth-observatory/the-smoking-mountain-152150/)
 
-Key geological landmarks of this northern zone include:
+## Afar: A Continent Breaking Apart
 
-- **Dallol**: Located at 125 meters below sea level, it features hydrothermal salt domes, acidic brine springs, and extreme ambient temperatures that rank among the highest sustained on Earth.
-- **Erta Ale**: An active basaltic shield volcano harboring one of the planet’s few persistent molten lava lakes, giving geologists real-time visual insight into the formation of a future oceanic seafloor. [Nature Geoscience: Rifting in Afar](https://www.nature.com/ngeo/)
+Afar lets scientists watch continental breakup happen on land. Between September 14 and October 4, 2005, the roughly 60-kilometer-long Dabbahu segment of the Afar rift ruptured. The episode produced 163 earthquakes above magnitude 3.9 and a volcanic eruption on September 26. Satellite radar showed the ground opening by up to 8 meters as about 2.5 cubic kilometers of magma was injected into a vertical crack (a dike) between 2 and 9 kilometers deep. The researchers describe the segment as "a nascent seafloor spreading centre in stretched continental lithosphere", in other words the early form of a new ocean floor. [Wright et al.: Magma-maintained rift segmentation at continental rupture in the 2005 Afar dyking episode (Nature, 2006)](https://www.nature.com/articles/nature04978)
 
-## The Rift Valley Lakes System
+Farther north, in the Danakil, Erta Ale (ኤርታ አሌ) is Ethiopia's most active volcano. Its name means "smoking mountain" in the Afar language. A lava lake in its summit crater has been active since at least 1967, and possibly since 1906. [NASA Earth Observatory](https://science.nasa.gov/earth/earth-observatory/the-smoking-mountain-152150/)
 
-South of the Awash River basin, the rift floor descends into a vibrant chain of tectonic and volcano-tectonic lakes, each exhibiting distinct hydrological chemistry:
+## The Rift Valley Lakes
 
-- **Lake Ziway**: A shallow freshwater lake vital for regional indigenous tilapia fisheries and floriculture irrigation.
-- **Lake Langano**: A bilharzia-free, mineral-rich recreational lake distinguished by its copper-tinted waters.
-- **Lakes Abijatta and Shalla**: Protected within Abijatta-Shalla National Park; Abijatta is an alkaline feeding ground for hundreds of thousands of Lesser Flamingos, while Shalla is an ancient volcanic caldera plunging over 260 meters deep with sulfurous hot springs along its shores.
-- **Lakes Hawassa, Abaya, and Chamo**: Massive southern lakes; Lake Chamo is renowned for the "Crocodile Market," home to some of Africa’s largest concentrations of Nile crocodiles and hippopotamuses. [Ramsar Sites: Ethiopian Wetlands](https://www.ramsar.org/)
+South of Afar, the floor of the Main Ethiopian Rift holds a chain of lakes with very different chemistry and hydrology: freshwater Ziway, Langano, the alkaline Abijatta and Shala, Hawassa, and farther south Abaya and Chamo. [Ayenew: Environmental implications of changes in the levels of lakes in the Ethiopian Rift since 1970 (Regional Environmental Change, 2004)](https://doi.org/10.1007/s10113-004-0083-x) Lake Shala fills a volcanic caldera. At a maximum depth of about 266 meters it is the deepest of the rift lakes. [Wikipedia: Lake Shala](https://en.wikipedia.org/wiki/Lake_Shala) Shala and its shallow neighbor Abijatta are protected in Abijatta-Shalla National Park, where greater and lesser flamingos feed and great white pelicans breed on islands in Shala. [Wikipedia: Abijatta-Shalla National Park](https://en.wikipedia.org/wiki/Abijatta-Shalla_National_Park)
 
-These lacustrine basins form a critical flyway and wintering sanctuary for migratory birds traveling between Eurasia and sub-Saharan Africa.
+These lakes are under pressure. The hydrogeologist Tenalem Ayenew found that the levels of some rift lakes changed sharply between 1970 and the early 2000s, and attributed the major changes mainly to human activity, with serious consequences for the rift ecosystem. [Ayenew (2004)](https://doi.org/10.1007/s10113-004-0083-x)
 
-## Paleoanthropological Treasure: Cradle of Humankind
+## Cradle of Humankind
 
-Beyond geology, the Ethiopian Rift Valley has yielded some of the most transformative fossil hominin discoveries in the history of science:
+Rift sediments are well suited to fossil hunting. Rivers and lakes buried bones in layers of volcanic ash, and later faulting and erosion exposed them again. The ash can be dated precisely.
 
-- **"Lucy" (_Dinknesh_)**: Unearthed at Hadar in the Afar triangle in 1974 by Donald Johanson, this 3.2-million-year-old partial skeleton of _Australopithecus afarensis_ provided the definitive structural evidence of habitual early bipedalism. [Johanson: Lucy](https://www.simonandschuster.com/books/Lucy/Donald-Johanson/9780671724993)
-- **"Ardi" (_Ardipithecus ramidus_)**: Discovered in the Middle Awash dating to 4.4 million years ago, reshaping scientific understanding of the transition between ancestral primates and upright hominins. [White et al.: Ardipithecus ramidus](https://www.science.org/doi/10.1126/science.1175802)
+In the **Lower Valley of the Awash**, about 300 kilometers northeast of Addis Ababa, the oldest finds are at least 4 million years old. [UNESCO: Lower Valley of the Awash](https://whc.unesco.org/en/list/10/) The most famous is AL 288-1, a partial skeleton of _Australopithecus afarensis_ about 3.2 million years old, found at Hadar in 1974 by a team led by Donald Johanson and Maurice Taieb. Nicknamed "Lucy" after a Beatles song, she is known in Ethiopia as _Dinknesh_ (ድንቅነሽ), "you are marvelous". [Smithsonian Human Origins Program](https://humanorigins.si.edu/evidence/human-fossils/fossils/al-288-1) Farther south in the Middle Awash, fossils of _Ardipithecus ramidus_, about 4.4 million years old, shed light on an even earlier stage of hominin evolution. [White et al.: Ardipithecus ramidus and the Paleobiology of Early Hominids (Science, 2009)](https://doi.org/10.1126/science.1175802)
 
-## Economic and Geothermal Potential
+The **Lower Valley of the Omo**, near Lake Turkana in the southwest, covers about 165 square kilometers. Its deposits have produced many hominin fossils, including fragments of _Australopithecus_, and ancient stone tools. [UNESCO: Lower Valley of the Omo](https://whc.unesco.org/en/list/17/) Both valleys were inscribed as World Heritage sites in 1980. [UNESCO: Awash](https://whc.unesco.org/en/list/10/) [UNESCO: Omo](https://whc.unesco.org/en/list/17/)
 
-In contemporary Ethiopia, the Rift Valley represents a focal point for renewable green energy development. Subterranean magma chambers provide vast geothermal energy reservoirs, currently being harnessed at the Aluto-Langano and Corbetti geothermal power projects to support the national power grid.
+The Omo-Kibish fossils include some of the oldest known _Homo sapiens_, and the rift's own volcanoes now help date them. In 2022 a team matched a volcanic ash layer lying above the Omo I fossil to a major eruption of Shala volcano in the Main Ethiopian Rift. That match pushed the fossil's minimum age back to about 233,000 years (plus or minus 22,000), older than the figure of about 197,000 years usually cited before. [Vidal et al.: Age of the oldest known Homo sapiens from eastern Africa (Nature, 2022)](https://www.nature.com/articles/s41586-021-04275-8)
 
-To explore Ethiopia’s towering afroalpine mountain peaks and endemic wildlife, see [[simien-mountains]].
+## Geothermal Energy
+
+The heat that drives the rift is also an energy resource. At Aluto Langano in the central rift, Ethiopian Electric Power is developing a geothermal field. In September 2023 it reported that tests on the first wells drilled for a 35-megawatt first phase had confirmed 25 megawatts of capacity. The project is financed largely by a World Bank loan, and the plan is to reach 70 megawatts in two phases. [ThinkGeoEnergy: Successful well tests at Aluto Langano](https://www.thinkgeoenergy.com/eep-confirms-25-mw-at-aluto-langano-geothermal-project-in-ethiopia/) As of that report, the expansion was still under way, not yet producing at full scale.
+
+For the volcanic highlands that rise on either side of the rift, see [the Simien Mountains](/en/geography/simien-mountains). For the plateau and forests east of the rift, see [the Bale Mountains](/en/nature/bale-mountains-ecosystem).
