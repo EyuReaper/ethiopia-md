@@ -13,8 +13,17 @@ import { readdir, readFile, stat } from 'node:fs/promises';
 import { resolve, join, relative } from 'node:path';
 
 const DIST = resolve(process.cwd(), 'dist');
-const MIN_TOTAL_PAGES = 300;
-const MIN_ARTICLES_PER_CATEGORY = 3;
+// Floors are sized to the *published* corpus, not to the current dist/ total.
+// As of 2026-11-20 a build emits ~1374 HTML pages, but ~1250 of those are
+// archived Taiwan-era articles (and their /og/ cards) that still build when
+// linked directly. Their removal is an open decision, so the floors must not
+// depend on them. What is guaranteed: ~47 fixed chrome pages, plus 2 published
+// flagship articles per category in both am and en (and an /og/ card per am
+// article), i.e. ~119 pages. A getStaticPaths collapse drops article routes to
+// 0 and the total to ~47, which these floors still catch. Raise them as more
+// articles are published.
+const MIN_TOTAL_PAGES = 100;
+const MIN_ARTICLES_PER_CATEGORY = 2;
 const CATEGORIES = [
   'history',
   'geography',
@@ -62,24 +71,27 @@ if (totalPages < MIN_TOTAL_PAGES) {
 
 // ── 2. Check each category has article pages (not just index) ──
 
-for (const cat of CATEGORIES) {
-  const catDir = join(DIST, cat);
-  try {
-    const entries = await readdir(catDir, { withFileTypes: true });
-    const articleDirs = entries.filter(
-      (e) => e.isDirectory() && e.name !== 'index',
-    );
-    const articleCount = articleDirs.length;
+for (const prefix of ['', 'en/']) {
+  for (const cat of CATEGORIES) {
+    const route = `/${prefix}${cat}/`;
+    try {
+      const entries = await readdir(join(DIST, prefix, cat), {
+        withFileTypes: true,
+      });
+      const articleCount = entries.filter(
+        (e) => e.isDirectory() && e.name !== 'index',
+      ).length;
 
-    if (articleCount < MIN_ARTICLES_PER_CATEGORY) {
-      errors.push(
-        `/${cat}/ has only ${articleCount} article pages (min: ${MIN_ARTICLES_PER_CATEGORY})`,
-      );
-    } else {
-      console.log(`  ✅ /${cat}/: ${articleCount} articles`);
+      if (articleCount < MIN_ARTICLES_PER_CATEGORY) {
+        errors.push(
+          `${route} has only ${articleCount} article pages (min: ${MIN_ARTICLES_PER_CATEGORY})`,
+        );
+      } else {
+        console.log(`  ✅ ${route}: ${articleCount} articles`);
+      }
+    } catch {
+      errors.push(`${route} directory missing in dist/`);
     }
-  } catch {
-    errors.push(`/${cat}/ directory missing in dist/`);
   }
 }
 

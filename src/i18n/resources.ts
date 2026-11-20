@@ -77,8 +77,8 @@ export const resourcesUI = {
     'resources.insight.econ.nhi.number': '—',
     'resources.insight.econ.nhi.label': 'Health Coverage Rate',
 
-    'resources.insight.community.g0v.number': '—',
-    'resources.insight.community.g0v.label': 'Community Founded',
+    'resources.insight.community.icogLabs.number': '—',
+    'resources.insight.community.icogLabs.label': 'Community Founded',
     'resources.insight.community.contributors.number': '—',
     'resources.insight.community.contributors.label': 'Contributors',
     'resources.insight.community.projects.number': '—',
@@ -179,7 +179,7 @@ export const resourcesUI = {
     // Featured site descriptions
     'resources.featured.dataGov':
       "Ethiopia's national open-data portal — government datasets across sectors, published for anyone to download and build on.",
-    'resources.featured.g0vGov':
+    'resources.featured.icogLabsGov':
       "East Africa's first private AI and robotics research lab, based in Addis Ababa — building homegrown machine learning, language, and robotics tools.",
     'resources.featured.legislativeYuan':
       "Ethiopia's federal parliament — the House of Peoples' Representatives, where the Prime Minister and Council of Ministers are elected and federal law is made.",
@@ -205,7 +205,7 @@ export const resourcesUI = {
     'resources.featured.nhi':
       "Ethiopia's federal health ministry, coordinating a healthcare system still expanding nationally through community-based health insurance and public hospital networks.",
 
-    'resources.featured.g0v':
+    'resources.featured.icogLabs':
       "Addis Ababa's pioneering AI and robotics lab — East Africa's first private research company in the field, also running youth coding and innovation programs nationwide.",
     'resources.featured.cofacts':
       "A community of Ethiopian developers building and sharing open-source software on GitHub — still small, but a real and growing home for the country's open-source contributors.",
@@ -250,7 +250,7 @@ export const resourcesUI = {
 
     'resources.site.dataGov': 'Government Open Data Portal',
     'resources.site.ethiopiaGov': 'National Government Portal',
-    'resources.site.g0v': 'iCog Labs',
+    'resources.site.icogLabs': 'iCog Labs',
 
     'resources.site.ntu': 'Addis Ababa University',
     'resources.site.nthu': 'Bahir Dar University',
@@ -389,8 +389,8 @@ export const resourcesUI = {
     'resources.insight.econ.nhi.number': '—',
     'resources.insight.econ.nhi.label': 'የጤና ሽፋን መጠን',
 
-    'resources.insight.community.g0v.number': '—',
-    'resources.insight.community.g0v.label': 'የማህበረሰብ መስራች ዓመት',
+    'resources.insight.community.icogLabs.number': '—',
+    'resources.insight.community.icogLabs.label': 'የማህበረሰብ መስራች ዓመት',
     'resources.insight.community.contributors.number': '—',
     'resources.insight.community.contributors.label': 'አስተዋጽኦ አድራጊዎች',
     'resources.insight.community.projects.number': '—',
@@ -491,7 +491,7 @@ export const resourcesUI = {
     // Featured site descriptions
     'resources.featured.dataGov':
       'የኢትዮጵያ ብሄራዊ ክፍት የመረጃ መድረክ — ማንኛውም ሰው አውርዶ ሊጠቀምበት የሚችል የተለያዩ ዘርፎች የመንግስት ዳታሴቶች።',
-    'resources.featured.g0vGov':
+    'resources.featured.icogLabsGov':
       'የምስራቅ አፍሪካ የመጀመሪያው የግል አርቲፊሻል ኢንተለጀንስ ምርምር ላቦራቶሪ፣ በአዲስ አበባ የተመሰረተ — የቤት ውስጥ የማሽን መማሪያ፣ የቋንቋና የሮቦቲክስ መሳሪያዎችን ይገነባል።',
     'resources.featured.legislativeYuan':
       'የኢትዮጵያ ፌዴራላዊ ፓርላማ — ጠቅላይ ሚኒስትሩና የሚኒስትሮች ምክር ቤት የሚመረጡበት፣ ፌዴራላዊ ህግ የሚወጣበት የህዝብ ተወካዮች ምክር ቤት።',
@@ -517,7 +517,7 @@ export const resourcesUI = {
     'resources.featured.nhi':
       'የኢትዮጵያ ፌዴራላዊ የጤና ሚኒስቴር፣ በማህበረሰብ አቀፍ የጤና መድህንና በመንግስት ሆስፒታሎች መረብ አማካኝነት በሀገር አቀፍ ደረጃ እየተስፋፋ ያለውን የጤና ስርዓት የሚያስተባብር።',
 
-    'resources.featured.g0v':
+    'resources.featured.icogLabs':
       'በአዲስ አበባ ቀዳሚ የሆነው የአርቲፊሻል ኢንተለጀንስና ሮቦቲክስ ላቦራቶሪ — በዘርፉ የምስራቅ አፍሪካ የመጀመሪያው የግል ምርምር ድርጅት፣ የወጣቶች ኮዲንግና ፈጠራ ፕሮግራሞችንም ይመራል።',
     'resources.featured.cofacts':
       'በGitHub ላይ ክፍት ምንጭ ሶፍትዌር የሚገነቡና የሚያካፍሉ የኢትዮጵያ ገንቢዎች ማህበረሰብ — ገና ትንሽ ቢሆንም እውን የሆነና እያደገ ያለ የክፍት ምንጭ አስተዋጽዖ አበርካቾች መኖሪያ።',
@@ -562,7 +562,7 @@ export const resourcesUI = {
 
     'resources.site.dataGov': 'የመንግስት ክፍት መረጃ መድረክ',
     'resources.site.ethiopiaGov': 'ብሄራዊ መግቢያ ድረ-ገጽ',
-    'resources.site.g0v': 'iCog Labs',
+    'resources.site.icogLabs': 'iCog Labs',
 
     'resources.site.ntu': 'የአዲስ አበባ ዩኒቨርሲቲ',
     'resources.site.nthu': 'የባህር ዳር ዩኒቨርሲቲ',

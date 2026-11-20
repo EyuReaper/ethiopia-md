@@ -25,6 +25,7 @@ const CATEGORY_MAP = {
   society: 'Society',
   economy: 'Economy',
   lifestyle: 'Lifestyle',
+  language: 'Language',
 };
 
 // ── CJK bigram tokenizer ──

@@ -30,6 +30,7 @@ const CATEGORIES = [
   'Geography',
   'History',
   'Lifestyle',
+  'Language',
   'Music',
   'Nature',
   'People',
@@ -445,7 +446,7 @@ async function main() {
 
   // Language coverage: count total translation files per language
   const translationCategoryCounts = countTranslationsByCategory();
-  const languageCoverage = { 'am': articles.length };
+  const languageCoverage = { am: articles.length };
   for (const lang of TRANSLATION_LANGS) {
     const langCounts = translationCategoryCounts[lang];
     languageCoverage[lang] = Object.values(langCounts).reduce(
@@ -498,7 +499,7 @@ async function main() {
 
   // Summary
   const summary = {
-    'am': { total: articles.length, percentage: 100 },
+    am: { total: articles.length, percentage: 100 },
   };
   for (const lang of TRANSLATION_LANGS) {
     const total = languageCoverage[lang];
@@ -518,7 +519,7 @@ async function main() {
     zhCategoryCounts[a.category] = (zhCategoryCounts[a.category] || 0) + 1;
   }
   for (const cat of Object.keys(zhCategoryCounts).sort()) {
-    matrix[cat] = { 'am': zhCategoryCounts[cat] };
+    matrix[cat] = { am: zhCategoryCounts[cat] };
     for (const lang of TRANSLATION_LANGS) {
       matrix[cat][lang] = translationCategoryCounts[lang][cat] || 0;
     }

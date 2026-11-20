@@ -121,6 +121,14 @@ export const getCategoryConfigs = (t: ReturnType<typeof useTranslations>) => ({
     gradient: 'linear-gradient(135deg, #4d7c0f, #65a30d)',
     cover: '/images/categories/lifestyle.svg',
   },
+  language: {
+    name: t('categoryConfig.language'),
+    description: t('categoryConfig.language.description'),
+    icon: '🗣️',
+    color: '#7e22ce',
+    colorLight: '#7e22ce20',
+    gradient: 'linear-gradient(135deg, #7e22ce, #a855f7)',
+  },
 });
 
 const __plainCategoryConfig = getCategoryConfigs((key) => key as any);

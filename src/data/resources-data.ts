@@ -199,11 +199,11 @@ export const heroCategories: HeroCategory[] = [
         domain: 'ethiopia.gov.et',
       },
       {
-        nameKey: 'resources.site.g0v',
+        nameKey: 'resources.site.icogLabs',
         url: 'https://icog-labs.com/',
         domain: 'icog-labs.com',
         featured: true,
-        descKey: 'resources.featured.g0vGov',
+        descKey: 'resources.featured.icogLabsGov',
       },
     ],
   },
@@ -393,11 +393,11 @@ export const governmentOpenData: ResourceSite[] = [
     domain: 'ethiopia.gov.et',
   },
   {
-    nameKey: 'resources.site.g0v',
+    nameKey: 'resources.site.icogLabs',
     url: 'https://icog-labs.com/',
     domain: 'icog-labs.com',
     featured: true,
-    descKey: 'resources.featured.g0vGov',
+    descKey: 'resources.featured.icogLabsGov',
   },
 ];
 
@@ -638,11 +638,11 @@ export const econFinance: ResourceSite[] = [
 // ─── Chapter 5: Community ───
 export const communityProjects: ResourceSite[] = [
   {
-    nameKey: 'resources.site.g0v',
+    nameKey: 'resources.site.icogLabs',
     url: 'https://icog-labs.com/',
     domain: 'icog-labs.com',
     featured: true,
-    descKey: 'resources.featured.g0v',
+    descKey: 'resources.featured.icogLabs',
   },
   {
     nameKey: 'resources.site.cofacts',

@@ -81,6 +81,7 @@ export const ui = {
     'categoryConfig.society': 'Society',
     'categoryConfig.economy': 'Economy',
     'categoryConfig.lifestyle': 'Lifestyle',
+    'categoryConfig.language': 'Language',
     'categoryConfig.history.description':
       "The complete timeline of Ethiopia's history from prehistoric times to the present",
     'categoryConfig.geography.description':
@@ -105,6 +106,8 @@ export const ui = {
       'The origins of the economic miracle and transformation challenges',
     'categoryConfig.lifestyle.description':
       'Lifestyle and values of the Ethiopian people',
+    'categoryConfig.language.description':
+      'The languages, scripts and language policy of Ethiopia',
     // Article page
     'article.toc': 'Table of Contents',
     'article.sources': 'Sources',
@@ -201,6 +204,7 @@ export const ui = {
     'categoryConfig.society': 'ማህበረሰብ',
     'categoryConfig.economy': 'ኢኮኖሚ',
     'categoryConfig.lifestyle': 'አኗኗር',
+    'categoryConfig.language': 'ቋንቋ',
     'categoryConfig.history.description': 'የኢትዮጵያ ታሪክ ከጥንት ጀምሮ እስከ ዛሬ ድረስ',
     'categoryConfig.geography.description':
       'የኢትዮጵያ ተፈጥሯዊ አካባቢ እና መልክአ ምድራዊ ገጽታዎች',
@@ -215,6 +219,7 @@ export const ui = {
     'categoryConfig.society.description': 'የማህበራዊ ለውጦች እና ወቅታዊ ጉዳዮች ጥልቅ ዳሰሳ',
     'categoryConfig.economy.description': 'የኢኮኖሚ እድገት ምንጮች እና የሽግግር ተግዳሮቶች',
     'categoryConfig.lifestyle.description': 'የኢትዮጵያውያን የአኗኗር ዘይቤ እና እሴቶች',
+    'categoryConfig.language.description': 'የኢትዮጵያ ቋንቋዎች፣ ፊደላት እና የቋንቋ ፖሊሲ',
     // Article page
     'article.toc': 'ማውጫ',
     'article.sources': 'ምንጮች',

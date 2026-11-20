@@ -16,6 +16,7 @@ const categoryMapping: Record<string, string> = {
   society: 'Society',
   economy: 'Economy',
   lifestyle: 'Lifestyle',
+  language: 'Language',
 };
 
 export const GET: APIRoute = async () => {

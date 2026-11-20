@@ -1,5 +1,27 @@
 [
   {
+    "title": "ስለ Ethiopia.md፦ መነሻ እና ዓላማ",
+    "slug": "origin-story",
+    "category": "about",
+    "subcategory": null,
+    "date": "2026-11-20",
+    "lastVerified": "2026-11-20",
+    "lastHumanReview": false,
+    "featured": false,
+    "wordCount": 45,
+    "tagCount": 4,
+    "tags": ["About", "Ethiopia.md", "Open Source", "Contributing"],
+    "translations": {
+      "en": false,
+      "es": false,
+      "ja": false
+    },
+    "revision": 1,
+    "commitHash": "bbe63b0d",
+    "description": "Ethiopia.md ምንድን ነው፣ ለምን የኢትዮጵያ የራሷ ክፍት የእውቀት ማዕከል ያስፈልጋታል፣ ከTaiwan.md ክፍት ምንጭ ፕሮጀክት እንዴት እንደተነሳ፣ አማርኛን ዋና ምንጭ የማድረግ አቀራረቡ እና እንዴት ማበርከት እንደሚቻል።",
+    "healthScore": 26
+  },
+  {
     "title": "የግዕዝ ብራና ሥዕሎች እና ዘመናዊው የኢትዮጵያ ስነ-ጥበብ",
     "slug": "ethiopian-illuminations-modern-art",
     "category": "art",
@@ -16,10 +38,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 0,
-    "commitHash": "",
+    "revision": 1,
+    "commitHash": "534c1ca8",
     "description": "ከመካከለኛው ዘመን የብራና መጻሕፍትና የአብያተ ክርስቲያናት ምስሎች ጀምሮ እስከ ሜትር አርቲስት አፈወርቅ ተክሌ ዘመናዊ የጥበብ ሥራዎች ድረስ የኢትዮጵያ የስነ-ስዕል ጥበብ ታሪክና ዝግመተ-ለውጥ።",
-    "healthScore": 33
+    "healthScore": 36
   },
   {
     "title": "የላሊበላ ውቅር አብያተ ክርስቲያናት፦ የምድር ድንቅ ምህንድስና",
@@ -38,10 +60,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 0,
-    "commitHash": "",
+    "revision": 1,
+    "commitHash": "534c1ca8",
     "description": "በ12ኛው እና 13ኛው ክፍለ ዘመን በቅዱስ ላሊበላ ዘመን ከወጥ ድንጋይ ተፈልፍለው የታነጹት 11ዱ አብያተ ክርስቲያናት፣ የሰው ልጅ የምህንድስና እና የመንፈሳዊ ጥበብ ታላቅ ቁንጮ ናቸው።",
-    "healthScore": 33
+    "healthScore": 36
   },
   {
     "title": "የኢትዮጵያ አየር መንገድ፦ የአፍሪካ የአቪዬሽን ኩራት",
@@ -60,10 +82,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 0,
-    "commitHash": "",
+    "revision": 1,
+    "commitHash": "534c1ca8",
     "description": "በ1938 ዓ.ም. (1945) የተመሰረተው የኢትዮጵያ አየር መንገድ፣ አዲስ አበባን የአህጉሪቱ ዋና የመተላለፊያ ማዕከል በማድረግ በአፍሪካ ግዙፉና አትራፊው አየር መንገድ የሆነበት የስኬት ጉዞ።",
-    "healthScore": 33
+    "healthScore": 36
   },
   {
     "title": "ታላቁ የኢትዮጵያ ህዳሴ ግድብ (GERD)፦ የኃይልና የልማት ሉዓላዊነት",
@@ -82,10 +104,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 0,
-    "commitHash": "",
+    "revision": 1,
+    "commitHash": "534c1ca8",
     "description": "በዓባይ ወንዝ ላይ የተገነባውና በአፍሪካ ግዙፉ የውኃ ኃይል ማመንጫ የሆነው ታላቁ የኢትዮጵያ ህዳሴ ግድብ፣ በሕዝብ ቦንድና በራስ አቅም የተገነባ የኢኮኖሚና የታዳሽ ኃይል ድንቅ ፕሮጀክት ነው።",
-    "healthScore": 35
+    "healthScore": 38
   },
   {
     "title": "የዶሮ ወጥ እና የበዓላት ማዕድ ባህል",
@@ -104,10 +126,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 0,
-    "commitHash": "",
+    "revision": 1,
+    "commitHash": "534c1ca8",
     "description": "የኢትዮጵያ ባህላዊ ምግቦች ቁንጮ የሆነው የዶሮ ወጥ፣ በ12 ብልቶች ተከፋፍሎ፣ በበርበሬና በቅቤ ተሰርቶ በገና፣ ፋሲካና አረፋ በዓላት የሚቀርብ የታላቅ ክብር ማዕድ ነው።",
-    "healthScore": 33
+    "healthScore": 36
   },
   {
     "title": "እንጀራ እና የጤፍ እርሻ፦ የኢትዮጵያ የምግብ አምድ",
@@ -126,10 +148,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 0,
-    "commitHash": "",
+    "revision": 1,
+    "commitHash": "534c1ca8",
     "description": "በኢትዮጵያ ብቻ ለዘመናት በቆየው የጤፍ እህል የሚዘጋጀው ለስላሳና ቀዳዳማው እንጀራ፣ የሀገሪቱ የምግብ ባህል መሰረት፣ የጋራ መተሳሰቢያና የጤና ምንጭ ነው።",
-    "healthScore": 33
+    "healthScore": 36
   },
   {
     "title": "ታላቁ የስምጥ ሸለቆ፦ የኢትዮጵያ ጂኦሎጂያዊና ሥነ-ሕይወታዊ ድንቅ",
@@ -148,10 +170,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 0,
-    "commitHash": "",
+    "revision": 1,
+    "commitHash": "534c1ca8",
     "description": "ኢትዮጵያን በሰያፍ ከዳናኪል ዝቅተኛ ስፍራዎች እስከ ደቡብ ሐይቆች ድረስ ለሁለት የሚከፍለው ታላቁ የስምጥ ሸለቆ፣ የፕሌት ቴክቶኒክስ እንቅስቃሴ ማዕከልና የሰው ዘር መገኛ ቅሪተ-አካል መገኛ ምድር ነው።",
-    "healthScore": 34
+    "healthScore": 37
   },
   {
     "title": "የሰሜን ተራሮች ብሔራዊ ፓርክ፦ የአፍሪካ ጣሪያና የዱር አራዊት መጠለያ",
@@ -170,10 +192,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 0,
-    "commitHash": "",
+    "revision": 1,
+    "commitHash": "534c1ca8",
     "description": "የኢትዮጵያን ከፍተኛ ጫፍ ራስ ደጀንን (4,550 ሜትር) በጉያው የያዘው የሰሜን ተራሮች ብሔራዊ ፓርክ፣ አስደናቂ የተራራ ገደሎችና ዋልያ አይቤክስ፣ ጭላዳ ዝንጀሮና ቀይ ቀበሮን የመሳሰሉ ብርቅዬ እንስሳት መኖሪያ ነው።",
-    "healthScore": 34
+    "healthScore": 37
   },
   {
     "title": "የአክሱም መንግሥት፦ የጥንታዊቷ ኢትዮጵያ ዓለም አቀፍ ሥልጣኔ",
@@ -192,10 +214,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 0,
-    "commitHash": "",
+    "revision": 1,
+    "commitHash": "534c1ca8",
     "description": "ከ1ኛው እስከ 8ኛው ክፍለ ዘመን ዓ.ም. የተንሰራፋው የአክሱም መንግሥት በቀይ ባሕርና በህንድ ውቅያኖስ የንግድ መስመሮች ላይ ተጽዕኖ ያሳደረ፣ የራሱን ሳንቲም የቀረጸና ግዙፍ ሐውልቶችን የተከለ ታላቅ የዓለም ኃያል መንግሥት ነበር።",
-    "healthScore": 33
+    "healthScore": 36
   },
   {
     "title": "የአድዋ ድል፦ የኢትዮጵያ ሉዓላዊነትና የፀረ-ቅኝ አገዛዝ ተምሳሌት",
@@ -214,10 +236,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 0,
-    "commitHash": "",
+    "revision": 1,
+    "commitHash": "534c1ca8",
     "description": "በ1888 ዓ.ም. (1896) ዳግማዊ አጼ ምኒልክ እና እቴጌ ጣይቱ ብጡል የመሩት የኢትዮጵያ ሠራዊት የጣሊያንን ቅኝ ገዢ ጦር ድል በማድረግ የሀገሪቱን ነፃነት ያስጠበቀበትና ለመላው ጥቁር ሕዝብ የነፃነት ፋና የሆነበት ታሪካዊ ክስተት።",
-    "healthScore": 33
+    "healthScore": 36
   },
   {
     "title": "የሐበሻ ቀሚስ እና የሸማ ጥበብ ባህል",
@@ -236,10 +258,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 0,
-    "commitHash": "",
+    "revision": 1,
+    "commitHash": "534c1ca8",
     "description": "ከጥጥ ፈትል ተዘጋጅቶ በሸማኔዎች እጅ በሚሰራው ጥበብ የሚደምቀው የሐበሻ ቀሚስ፣ ነጠላና ጋቢ፣ የኢትዮጵያ ሴቶች የቁንጅና፣ የክብርና የባህል መገለጫ ነው።",
-    "healthScore": 35
+    "healthScore": 38
   },
   {
     "title": "ኢትዮ-ጃዝ እና ሙላቱ አስታጥቄ፦ የድምፅ ፈጠራ ጥበብ",
@@ -258,10 +280,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 0,
-    "commitHash": "",
+    "revision": 1,
+    "commitHash": "534c1ca8",
     "description": "በ1960ዎቹ መገባደጃ በአዲስ አበባ የተወለደው ኢትዮ-ጃዝ፣ ጥንታዊ የኢትዮጵያን ቅኝቶች (ትዝታ፣ ባቲ፣ አምባሰል፣ አንቺሆዬ) ከምዕራቡ የጃዝ ስልትና ከአፍሮ-ላቲን ምቶች ጋር ያዋሃደ ድንቅ የሙዚቃ ፈጠራ ነው።",
-    "healthScore": 33
+    "healthScore": 36
   },
   {
     "title": "የኢትዮጵያ ባህላዊ የሙዚቃ መሣሪያዎች፦ ክራር፣ ማሲንቆና ዋሽንት",
@@ -280,10 +302,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 0,
-    "commitHash": "",
+    "revision": 1,
+    "commitHash": "534c1ca8",
     "description": "የኢትዮጵያ ሙዚቃ ነፍስ የሆኑት ማሲንቆ፣ ክራር፣ ዋሽንትና ከበሮ፣ የአዝማሪዎችን የግጥም ጥበብና የመንፈሳዊ ዜማዎችን ታሪክ የሚወክሉ ጥንታዊ የድምፅ መሳሪያዎች ናቸው።",
-    "healthScore": 35
+    "healthScore": 38
   },
   {
     "title": "የባሌ ተራሮች ብሔራዊ ፓርክ እና የአፍሮ-አልፓይን ሥነ-ምህዳር",
@@ -302,10 +324,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 0,
-    "commitHash": "",
+    "revision": 1,
+    "commitHash": "534c1ca8",
     "description": "በ2023 እ.ኤ.አ. በዩኔስኮ የዓለም ቅርስነት የተመዘገበው የባሌ ተራሮች ብሔራዊ ፓርክ፣ በአፍሪካ ትልቁን የአፍሮ-አልፓይን ከፍታ፣ የሐረና ደንና የደቡብ-ምስራቅ ኢትዮጵያን የውኃ ማማ በጉያው የያዘ የተፈጥሮ ገነት ነው።",
-    "healthScore": 36
+    "healthScore": 39
   },
   {
     "title": "የኢትዮጵያ ብርቅዬ የዱር እንስሳት፦ የተፈጥሮ ብዝሃ-ሕይወት ሀብት",
@@ -324,10 +346,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 0,
-    "commitHash": "",
+    "revision": 1,
+    "commitHash": "534c1ca8",
     "description": "በከፍተኛ ተራራማ መልክዓ-ምድሯ ምክንያት በዓለም ላይ በሌላ በየትኛውም ስፍራ የማይገኙ ከ30 በላይ አጥቢ እንስሳት መገኛ የሆነችው የኢትዮጵያ ድንቅ የዱር አራዊት ዓለም።",
-    "healthScore": 34
+    "healthScore": 37
   },
   {
     "title": "አበበ ቢቂላ እና የኢትዮጵያ የማራቶን አርበኝነት",
@@ -346,10 +368,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 0,
-    "commitHash": "",
+    "revision": 1,
+    "commitHash": "534c1ca8",
     "description": "በ1960 እ.ኤ.አ. በሮም ኦሎምፒክ በባዶ እግሩ ሮጦ በማሸነፍ የመጀመሪያው ጥቁር አፍሪካዊ የኦሎምፒክ የወርቅ ሜዳሊያ አሸናፊ የሆነው አበበ ቢቂላ እና የኢትዮጵያ የረጅም ርቀት ሩጫ ገድል።",
-    "healthScore": 33
+    "healthScore": 36
   },
   {
     "title": "ዳግማዊ አጼ ምኒልክ እና እቴጌ ጣይቱ ብጡል፦ የዘመናዊት ኢትዮጵያ ፈር ቀዳጆች",
@@ -368,10 +390,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 0,
-    "commitHash": "",
+    "revision": 1,
+    "commitHash": "534c1ca8",
     "description": "የዘመናዊት ኢትዮጵያን የግዛት አንድነት ያጠናከሩት፣ አዲስ አበባን የመሰረቱትና የአድዋን ታላቅ ድል የመሩት ዳግማዊ አጼ ምኒልክ እና እቴጌ ጣይቱ ብጡል ታሪክና አስተዋጽኦ።",
-    "healthScore": 33
+    "healthScore": 36
   },
   {
     "title": "የገዳ ሥርዓት፦ ጥንታዊው የኦሮሞ ዲሞክራሲ",
@@ -390,10 +412,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 0,
-    "commitHash": "",
+    "revision": 1,
+    "commitHash": "534c1ca8",
     "description": "ከአምስት ክፍለ ዘመናት በላይ ሲሰራበት የቆየውና በ2016 እ.ኤ.አ. በዩኔስኮ የተመዘገበው የኦሮሞ ሕዝብ ባህላዊ የገዳ ሥርዓት፣ የስልጣን ሽግግር፣ ፍትህና እኩልነት የተረጋገጡበት አገር በቀል ዲሞክራሲ ነው።",
-    "healthScore": 35
+    "healthScore": 38
   },
   {
     "title": "ዕድር እና ዕቁብ፦ የኢትዮጵያ ማህበራዊና የፋይናንስ መረዳጃ ተቋማት",
@@ -412,10 +434,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 0,
-    "commitHash": "",
+    "revision": 1,
+    "commitHash": "534c1ca8",
     "description": "ባንኮችና የኢንሹራንስ ተቋማት ከመምጣታቸው ከረጅም ዘመን በፊት፣ የኢትዮጵያ ማህበረሰብ በጋራ መተሳሰብና መተማመን ላይ የመሰረታቸው አገር በቀል የማህበራዊ ዋስትናና የቁጠባ ተቋማት።",
-    "healthScore": 35
+    "healthScore": 38
   },
   {
     "title": "የኢትዮጵያ የቡና ባህልና የቡና ሥነ ሥርዓት",
@@ -470,7 +492,7 @@
     "lastVerified": "2026-08-24",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 189,
+    "wordCount": 188,
     "tagCount": 2,
     "tags": ["Technology", "Artificial Intelligence"],
     "translations": {
@@ -492,7 +514,7 @@
     "lastVerified": "2026-08-24",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 148,
+    "wordCount": 147,
     "tagCount": 2,
     "tags": ["Technology", "Mobile Money"],
     "translations": {
@@ -504,28 +526,6 @@
     "commitHash": "68506141",
     "description": "ቴሌብር በግንቦች 2013 ዓ.ም. ከተጀመረ ጀምሮ በአጭር ጊዜ ውስጥ ከ54 ሚሊዮን በላይ ተጠቃሚዎችን በማፍራት የኢትዮጵያን የፋይናንስ ሥርዓት በመቀየር ላይ ነው። ይህ ጽሑፍ የቴሌብርን ጉዞ፣ ከባንኮች ጋር ያለውን ግንኙነት እና የወደፊት ፈተነዎችን ይመረምራል።",
     "healthScore": 28
-  },
-  {
-    "title": "Ethiopia Official Website Resources",
-    "slug": "taiwan-official-website-resources",
-    "category": "about",
-    "subcategory": null,
-    "date": "2026-08-11",
-    "lastVerified": null,
-    "lastHumanReview": false,
-    "featured": false,
-    "wordCount": 1243,
-    "tagCount": 1,
-    "tags": ["about"],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 1,
-    "commitHash": "bbe63b0d",
-    "description": "Placeholder-corrupted legacy article pending rewrite; archived from public listings.",
-    "healthScore": 20
   },
   {
     "title": "የአዲስ አበባ ካፌ ባህልና የማኪያቶ ቅርስ",
@@ -544,10 +544,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 0,
-    "commitHash": "",
+    "revision": 1,
+    "commitHash": "534c1ca8",
     "description": "ከቶሞካ ጥንታዊ ቅርስ እስከ ዘመናዊ የከተማ መገናኛዎች፡ የአዲስ አበባ ካፌዎች ማህበራዊ ውይይት፣ የንግድ ስራ እና የባህል ልውውጥ ማዕከል የሆኑበት መንገድ ጥልቅ ዳሰሳ።",
-    "healthScore": 26
+    "healthScore": 29
   },
   {
     "title": ["Amharic translation needed - original Taiwan context"],
@@ -994,30 +994,6 @@
   },
   {
     "title": "Ethiopia[Amharic translation needed - original Taiwan context]",
-    "slug": "taiwanese-architecture-multicultural-layers",
-    "category": "art",
-    "subcategory": ["Amharic translation needed - original Taiwan context"],
-    "date": "2026-03-28",
-    "lastVerified": "2026-03-28",
-    "lastHumanReview": true,
-    "featured": true,
-    "wordCount": 3452,
-    "tagCount": 0,
-    "tags": [],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 1,
-    "commitHash": "bbe63b0d",
-    "description": [
-      "Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context"
-    ],
-    "healthScore": 68
-  },
-  {
-    "title": "Ethiopia[Amharic translation needed - original Taiwan context]",
     "slug": "taiwanese-street-food",
     "category": "food",
     "subcategory": ["Amharic translation needed - original Taiwan context"],
@@ -1254,30 +1230,6 @@
     "commitHash": "bbe63b0d",
     "description": "[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 20 [Amharic translation needed - original Taiwan context] 300 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。",
     "healthScore": 26
-  },
-  {
-    "title": [
-      "Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context"
-    ],
-    "slug": "ethiopia島史觀",
-    "category": "history",
-    "subcategory": ["Amharic translation needed - original Taiwan context"],
-    "date": "2026-03-27",
-    "lastVerified": "2026-03-27",
-    "lastHumanReview": true,
-    "featured": true,
-    "wordCount": 2071,
-    "tagCount": 0,
-    "tags": [],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 2,
-    "commitHash": "bbe63b0d",
-    "description": "Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。",
-    "healthScore": 63
   },
   {
     "title": ["Amharic translation needed - original Taiwan context"],
@@ -1566,30 +1518,6 @@
       "Amharic translation needed - original Taiwan context] 56 [Amharic translation needed - original Taiwan context] 1987 [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context"
     ],
     "healthScore": 39
-  },
-  {
-    "title": ["Amharic translation needed - original Taiwan context"],
-    "slug": "228-incident",
-    "category": "history",
-    "subcategory": ["Amharic translation needed - original Taiwan context"],
-    "date": "2026-03-25",
-    "lastVerified": "2026-03-25",
-    "lastHumanReview": false,
-    "featured": true,
-    "wordCount": 1746,
-    "tagCount": 0,
-    "tags": [],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 1,
-    "commitHash": "bbe63b0d",
-    "description": [
-      "Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]38[Amharic translation needed - original Taiwan context]——1947[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context"
-    ],
-    "healthScore": 33
   },
   {
     "title": "Ethiopia[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]",
@@ -2045,30 +1973,6 @@
     "commitHash": "bbe63b0d",
     "description": "21[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]？",
     "healthScore": 42
-  },
-  {
-    "title": [
-      "Amharic translation needed - original Taiwan context]：Ethiopia[Amharic translation needed - original Taiwan context"
-    ],
-    "slug": "ethiopia茶文化",
-    "category": "culture",
-    "subcategory": ["Amharic translation needed - original Taiwan context"],
-    "date": "2026-03-24",
-    "lastVerified": "2026-03-24",
-    "lastHumanReview": false,
-    "featured": true,
-    "wordCount": 2231,
-    "tagCount": 0,
-    "tags": [],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 2,
-    "commitHash": "bbe63b0d",
-    "description": "1930[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]329[Amharic translation needed - original Taiwan context]580[Amharic translation needed - original Taiwan context]。90[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]30[Amharic translation needed - original Taiwan context]。",
-    "healthScore": 40
   },
   {
     "title": [
@@ -2775,28 +2679,6 @@
     "healthScore": 43
   },
   {
-    "title": "Ethiopia[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]25[Amharic translation needed - original Taiwan context]30[Amharic translation needed - original Taiwan context]",
-    "slug": "ethiopia官方網站資源重寫",
-    "category": "about",
-    "subcategory": null,
-    "date": "2026-03-23",
-    "lastVerified": "2026-03-23",
-    "lastHumanReview": false,
-    "featured": true,
-    "wordCount": 3387,
-    "tagCount": 0,
-    "tags": [],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 2,
-    "commitHash": "bbe63b0d",
-    "description": "1996[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]，25[Amharic translation needed - original Taiwan context]。30[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。",
-    "healthScore": 46
-  },
-  {
     "title": "Ethiopia[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]",
     "slug": "taiwanese-cinema-from-new-wave-to-international-recognition",
     "category": "art",
@@ -3103,30 +2985,6 @@
     "healthScore": 41
   },
   {
-    "title": "Ethiopia[Amharic translation needed - original Taiwan context]",
-    "slug": "national-scenic-area-system",
-    "category": "geography",
-    "subcategory": ["Amharic translation needed - original Taiwan context"],
-    "date": "2026-03-23",
-    "lastVerified": "2026-03-23",
-    "lastHumanReview": false,
-    "featured": true,
-    "wordCount": 1995,
-    "tagCount": 0,
-    "tags": [],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 1,
-    "commitHash": "bbe63b0d",
-    "description": [
-      "Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]：13[Amharic translation needed - original Taiwan context"
-    ],
-    "healthScore": 35
-  },
-  {
     "title": ["Amharic translation needed - original Taiwan context"],
     "slug": "tadian-mountain",
     "category": "geography",
@@ -3248,28 +3106,6 @@
     "commitHash": "bbe63b0d",
     "description": "Ethiopia[Amharic translation needed - original Taiwan context]30[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]？",
     "healthScore": 52
-  },
-  {
-    "title": "Ethiopia[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]",
-    "slug": "history-of-taiwan-mrt-development",
-    "category": "lifestyle",
-    "subcategory": ["Amharic translation needed - original Taiwan context"],
-    "date": "2026-03-23",
-    "lastVerified": "2026-03-23",
-    "lastHumanReview": false,
-    "featured": true,
-    "wordCount": 4446,
-    "tagCount": 0,
-    "tags": [],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 1,
-    "commitHash": "bbe63b0d",
-    "description": "209 [Amharic translation needed - original Taiwan context] 4 [Amharic translation needed - original Taiwan context]，16.4 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]",
-    "healthScore": 43
   },
   {
     "title": [
@@ -3843,32 +3679,6 @@
     "healthScore": 56
   },
   {
-    "title": [
-      "Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context"
-    ],
-    "slug": "offshore-islands-and-maritime-culture",
-    "category": "geography",
-    "subcategory": ["Amharic translation needed - original Taiwan context"],
-    "date": "2026-03-22",
-    "lastVerified": "2026-03-22",
-    "lastHumanReview": false,
-    "featured": true,
-    "wordCount": 2663,
-    "tagCount": 0,
-    "tags": [],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 1,
-    "commitHash": "bbe63b0d",
-    "description": [
-      "Amharic translation needed - original Taiwan context]600[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]574[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context"
-    ],
-    "healthScore": 40
-  },
-  {
     "title": "Ethiopia[Amharic translation needed - original Taiwan context]",
     "slug": "taiwan-military-dependents-villages-history",
     "category": "history",
@@ -4112,30 +3922,6 @@
     "healthScore": 30
   },
   {
-    "title": ["Amharic translation needed - original Taiwan context"],
-    "slug": "sunflower-movement",
-    "category": "society",
-    "subcategory": ["Amharic translation needed - original Taiwan context"],
-    "date": "2026-03-22",
-    "lastVerified": "2026-03-22",
-    "lastHumanReview": false,
-    "featured": true,
-    "wordCount": 2278,
-    "tagCount": 0,
-    "tags": [],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 1,
-    "commitHash": "bbe63b0d",
-    "description": [
-      "Amharic translation needed - original Taiwan context]30[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]42%[Amharic translation needed - original Taiwan context]32%——[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context"
-    ],
-    "healthScore": 37
-  },
-  {
     "title": "Ethiopia[Amharic translation needed - original Taiwan context]",
     "slug": "taiwan-marriage-equality-lgbtq-rights",
     "category": "society",
@@ -4180,30 +3966,6 @@
     "commitHash": "bbe63b0d",
     "description": "1962[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]AI[Amharic translation needed - original Taiwan context]",
     "healthScore": 21
-  },
-  {
-    "title": "[Amharic translation needed - original Taiwan context] — [Amharic translation needed - original Taiwan context] Che-Yu Wu",
-    "slug": "founder",
-    "category": "about",
-    "subcategory": null,
-    "date": "2026-03-21",
-    "lastVerified": "2026-03-21",
-    "lastHumanReview": true,
-    "featured": false,
-    "wordCount": 1874,
-    "tagCount": 0,
-    "tags": [],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 1,
-    "commitHash": "bbe63b0d",
-    "description": [
-      "Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context"
-    ],
-    "healthScore": 49
   },
   {
     "title": [
@@ -4466,28 +4228,6 @@
   },
   {
     "title": ["Amharic translation needed - original Taiwan context"],
-    "slug": "biodiversity",
-    "category": "nature",
-    "subcategory": ["Amharic translation needed - original Taiwan context"],
-    "date": "2026-03-21",
-    "lastVerified": "2026-03-21",
-    "lastHumanReview": true,
-    "featured": true,
-    "wordCount": 1365,
-    "tagCount": 0,
-    "tags": [],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 1,
-    "commitHash": "bbe63b0d",
-    "description": "Ethiopia[Amharic translation needed - original Taiwan context]0.025%，[Amharic translation needed - original Taiwan context]5[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]60.71%[Amharic translation needed - original Taiwan context]33[Amharic translation needed - original Taiwan context]",
-    "healthScore": 54
-  },
-  {
-    "title": ["Amharic translation needed - original Taiwan context"],
     "slug": "audrey-tang",
     "category": "people",
     "subcategory": ["Amharic translation needed - original Taiwan context"],
@@ -4575,28 +4315,6 @@
     "commitHash": "bbe63b0d",
     "description": "2012 [Amharic translation needed - original Taiwan context] AGI [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]",
     "healthScore": 48
-  },
-  {
-    "title": ["Amharic translation needed - original Taiwan context"],
-    "slug": "tai-tzu-ying",
-    "category": "people",
-    "subcategory": ["Amharic translation needed - original Taiwan context"],
-    "date": "2026-03-21",
-    "lastVerified": "2026-03-21",
-    "lastHumanReview": true,
-    "featured": true,
-    "wordCount": 1763,
-    "tagCount": 0,
-    "tags": [],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 1,
-    "commitHash": "bbe63b0d",
-    "description": "214[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]",
-    "healthScore": 58
   },
   {
     "title": ["Amharic translation needed - original Taiwan context"],
@@ -5887,30 +5605,6 @@
     "healthScore": 50
   },
   {
-    "title": [
-      "Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context"
-    ],
-    "slug": "why-taiwan-needs-its-own-knowledge-base",
-    "category": "about",
-    "subcategory": null,
-    "date": "2026-03-19",
-    "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
-    "featured": false,
-    "wordCount": 1596,
-    "tagCount": 0,
-    "tags": [],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 1,
-    "commitHash": "bbe63b0d",
-    "description": "[Amharic translation needed - original Taiwan context] AI [Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]？",
-    "healthScore": 21
-  },
-  {
     "title": "Ethiopia[Amharic translation needed - original Taiwan context]",
     "slug": "century-of-taiwanese-watercolor-painting",
     "category": "art",
@@ -5937,30 +5631,6 @@
     "commitHash": "bbe63b0d",
     "description": "[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。",
     "healthScore": 29
-  },
-  {
-    "title": "Ethiopia[Amharic translation needed - original Taiwan context]",
-    "slug": "taiwanese-art-education-and-academic-development",
-    "category": "art",
-    "subcategory": ["Amharic translation needed - original Taiwan context"],
-    "date": "2026-03-19",
-    "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
-    "featured": true,
-    "wordCount": 2562,
-    "tagCount": 0,
-    "tags": [],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 1,
-    "commitHash": "bbe63b0d",
-    "description": [
-      "Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context"
-    ],
-    "healthScore": 39
   },
   {
     "title": ["Amharic translation needed - original Taiwan context"],
@@ -6153,30 +5823,6 @@
       "Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context"
     ],
     "healthScore": 35
-  },
-  {
-    "title": "Ethiopia[Amharic translation needed - original Taiwan context]",
-    "slug": "braised-pork-rice",
-    "category": "food",
-    "subcategory": ["Amharic translation needed - original Taiwan context"],
-    "date": "2026-03-19",
-    "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
-    "featured": true,
-    "wordCount": 1033,
-    "tagCount": 0,
-    "tags": [],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 1,
-    "commitHash": "bbe63b0d",
-    "description": [
-      "Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context"
-    ],
-    "healthScore": 27
   },
   {
     "title": ["Amharic translation needed - original Taiwan context"],
@@ -6392,56 +6038,6 @@
     "healthScore": 43
   },
   {
-    "title": "Ethiopia[Amharic translation needed - original Taiwan context]",
-    "slug": "convenience-store-culture",
-    "category": "lifestyle",
-    "subcategory": ["Amharic translation needed - original Taiwan context"],
-    "date": "2026-03-19",
-    "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
-    "featured": true,
-    "wordCount": 2466,
-    "tagCount": 0,
-    "tags": [],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 1,
-    "commitHash": "bbe63b0d",
-    "description": [
-      "Amharic translation needed - original Taiwan context]，7-11[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context"
-    ],
-    "healthScore": 39
-  },
-  {
-    "title": [
-      "Amharic translation needed - original Taiwan context]：Ethiopia[Amharic translation needed - original Taiwan context"
-    ],
-    "slug": "ethiopia流行音樂",
-    "category": "music",
-    "subcategory": ["Amharic translation needed - original Taiwan context"],
-    "date": "2026-03-19",
-    "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
-    "featured": true,
-    "wordCount": 2439,
-    "tagCount": 0,
-    "tags": [],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 2,
-    "commitHash": "bbe63b0d",
-    "description": [
-      "Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context"
-    ],
-    "healthScore": 41
-  },
-  {
     "title": "EthiopiaKTV[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]",
     "slug": "ktv-culture",
     "category": "music",
@@ -6632,32 +6228,6 @@
       "Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context"
     ],
     "healthScore": 31
-  },
-  {
-    "title": [
-      "Amharic translation needed - original Taiwan context]：Ethiopia[Amharic translation needed - original Taiwan context"
-    ],
-    "slug": "ethiopia國家公園",
-    "category": "nature",
-    "subcategory": ["Amharic translation needed - original Taiwan context"],
-    "date": "2026-03-19",
-    "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
-    "featured": true,
-    "wordCount": 1432,
-    "tagCount": 0,
-    "tags": [],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 2,
-    "commitHash": "bbe63b0d",
-    "description": [
-      "Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context"
-    ],
-    "healthScore": 33
   },
   {
     "title": ["Amharic translation needed - original Taiwan context"],
@@ -7987,30 +7557,6 @@
   },
   {
     "title": ["Amharic translation needed - original Taiwan context"],
-    "slug": "tai-yu-wu",
-    "category": "people",
-    "subcategory": ["Amharic translation needed - original Taiwan context"],
-    "date": "2026-03-19",
-    "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
-    "featured": true,
-    "wordCount": 737,
-    "tagCount": 0,
-    "tags": [],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 1,
-    "commitHash": "bbe63b0d",
-    "description": [
-      "Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context"
-    ],
-    "healthScore": 24
-  },
-  {
-    "title": ["Amharic translation needed - original Taiwan context"],
     "slug": "terry-gou",
     "category": "people",
     "subcategory": ["Amharic translation needed - original Taiwan context"],
@@ -8770,30 +8316,6 @@
   },
   {
     "title": "Ethiopia[Amharic translation needed - original Taiwan context]",
-    "slug": "taiwan-religion-and-temple-culture",
-    "category": "culture",
-    "subcategory": ["Amharic translation needed - original Taiwan context"],
-    "date": "2026-03-18",
-    "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
-    "featured": true,
-    "wordCount": 1745,
-    "tagCount": 0,
-    "tags": [],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 1,
-    "commitHash": "bbe63b0d",
-    "description": [
-      "Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context"
-    ],
-    "healthScore": 33
-  },
-  {
-    "title": "Ethiopia[Amharic translation needed - original Taiwan context]",
     "slug": "taiwanese-life-ceremony-traditions",
     "category": "culture",
     "subcategory": ["Amharic translation needed - original Taiwan context"],
@@ -8911,52 +8433,6 @@
       "Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context"
     ],
     "healthScore": 29
-  },
-  {
-    "title": ["Amharic translation needed - original Taiwan context"],
-    "slug": "startup-ecosystem",
-    "category": "economy",
-    "subcategory": ["Amharic translation needed - original Taiwan context"],
-    "date": "2026-03-18",
-    "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
-    "featured": true,
-    "wordCount": 1661,
-    "tagCount": 0,
-    "tags": [],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 1,
-    "commitHash": "bbe63b0d",
-    "description": "Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]",
-    "healthScore": 32
-  },
-  {
-    "title": "Ethiopia[Amharic translation needed - original Taiwan context]",
-    "slug": "taiwan-agricultural-modernization-development",
-    "category": "economy",
-    "subcategory": ["Amharic translation needed - original Taiwan context"],
-    "date": "2026-03-18",
-    "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
-    "featured": true,
-    "wordCount": 3150,
-    "tagCount": 0,
-    "tags": [],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 1,
-    "commitHash": "bbe63b0d",
-    "description": [
-      "Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context"
-    ],
-    "healthScore": 43
   },
   {
     "title": "Ethiopia[Amharic translation needed - original Taiwan context]",
@@ -9295,30 +8771,6 @@
     "healthScore": 31
   },
   {
-    "title": ["Amharic translation needed - original Taiwan context"],
-    "slug": "contemporary-indigenous-singer-songwriters",
-    "category": "music",
-    "subcategory": ["Amharic translation needed - original Taiwan context"],
-    "date": "2026-03-18",
-    "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
-    "featured": true,
-    "wordCount": 2520,
-    "tagCount": 0,
-    "tags": [],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 1,
-    "commitHash": "bbe63b0d",
-    "description": [
-      "Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context"
-    ],
-    "healthScore": 39
-  },
-  {
     "title": "Ethiopia[Amharic translation needed - original Taiwan context]",
     "slug": "indigenous-music-traditions",
     "category": "music",
@@ -9601,30 +9053,6 @@
     "healthScore": 33
   },
   {
-    "title": ["Amharic translation needed - original Taiwan context"],
-    "slug": "social-movements-and-civic-participation",
-    "category": "society",
-    "subcategory": ["Amharic translation needed - original Taiwan context"],
-    "date": "2026-03-18",
-    "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
-    "featured": true,
-    "wordCount": 2156,
-    "tagCount": 0,
-    "tags": [],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 1,
-    "commitHash": "bbe63b0d",
-    "description": [
-      "Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context"
-    ],
-    "healthScore": 36
-  },
-  {
     "title": "Ethiopia[Amharic translation needed - original Taiwan context]",
     "slug": "stray-animal-culture",
     "category": "society",
@@ -9719,28 +9147,6 @@
       "Amharic translation needed - original Taiwan context] Xpark [Amharic translation needed - original Taiwan context]——Ethiopia[Amharic translation needed - original Taiwan context"
     ],
     "healthScore": 27
-  },
-  {
-    "title": "Ethiopia5G[Amharic translation needed - original Taiwan context]",
-    "slug": "5g-network-and-digital-transformation",
-    "category": "technology",
-    "subcategory": ["Amharic translation needed - original Taiwan context"],
-    "date": "2026-03-18",
-    "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
-    "featured": true,
-    "wordCount": 3146,
-    "tagCount": 0,
-    "tags": [],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 1,
-    "commitHash": "bbe63b0d",
-    "description": "Ethiopia[Amharic translation needed - original Taiwan context]4G[Amharic translation needed - original Taiwan context]5G[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]",
-    "healthScore": 43
   },
   {
     "title": ["Amharic translation needed - original Taiwan context"],
@@ -9863,58 +9269,6 @@
     "healthScore": 28
   },
   {
-    "title": [
-      "Amharic translation needed - original Taiwan context] — Ethiopia.md [Amharic translation needed - original Taiwan context"
-    ],
-    "slug": "origin-story",
-    "category": "about",
-    "subcategory": null,
-    "date": "2026-03-17",
-    "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
-    "featured": true,
-    "wordCount": 514,
-    "tagCount": 3,
-    "tags": ["about", "origin", "ethiopia-md"],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 1,
-    "commitHash": "bbe63b0d",
-    "description": [
-      "Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context"
-    ],
-    "healthScore": 28
-  },
-  {
-    "title": [
-      "Amharic translation needed - original Taiwan context]Ethiopia — [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context"
-    ],
-    "slug": "seeing-taiwan-quotes",
-    "category": "about",
-    "subcategory": null,
-    "date": "2026-03-17",
-    "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
-    "featured": true,
-    "wordCount": 1871,
-    "tagCount": 4,
-    "tags": ["quotes", "history", "literature", "culture"],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 1,
-    "commitHash": "bbe63b0d",
-    "description": [
-      "Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context"
-    ],
-    "healthScore": 42
-  },
-  {
     "title": "Ethiopia[Amharic translation needed - original Taiwan context]",
     "slug": "contemporary-art",
     "category": "art",
@@ -9959,30 +9313,6 @@
     "commitHash": "bbe63b0d",
     "description": "Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。",
     "healthScore": 31
-  },
-  {
-    "title": ["Amharic translation needed - original Taiwan context"],
-    "slug": "beef-noodle-soup",
-    "category": "food",
-    "subcategory": ["Amharic translation needed - original Taiwan context"],
-    "date": "2026-03-17",
-    "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
-    "featured": true,
-    "wordCount": 2631,
-    "tagCount": 0,
-    "tags": [],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 1,
-    "commitHash": "bbe63b0d",
-    "description": [
-      "Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context"
-    ],
-    "healthScore": 40
   },
   {
     "title": ["Amharic translation needed - original Taiwan context"],

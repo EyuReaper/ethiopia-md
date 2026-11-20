@@ -14,8 +14,8 @@ echo "🔄 Step 1/2: syncing knowledge/ → src/content/..."
 
 # Create target directories
 echo "📁 Creating directories..."
-mkdir -p src/content/am/{about,art,culture,economy,food,geography,history,lifestyle,music,nature,people,society,technology,resources}
-mkdir -p src/content/en/{about,art,culture,economy,food,geography,history,lifestyle,music,nature,people,society,technology,resources}
+mkdir -p src/content/am/{about,art,culture,economy,food,geography,history,lifestyle,language,music,nature,people,society,technology,resources}
+mkdir -p src/content/en/{about,art,culture,economy,food,geography,history,lifestyle,language,music,nature,people,society,technology,resources}
 
 # Count files
 KNOWLEDGE_COUNT=$(find knowledge/ -name "*.md" | wc -l)
@@ -34,7 +34,7 @@ fi
 # Sync Amharic (SSOT) articles
 echo "🇪🇹 Syncing Amharic (SSOT) articles..."
 SYNCED_COUNT=0
-for category in About Art Culture Economy Food Geography History Lifestyle Music Nature People Society Technology; do
+for category in About Art Culture Economy Food Geography History Lifestyle Language Music Nature People Society Technology; do
   if [ -d "knowledge/$category" ]; then
     lowercase_category=$(echo $category | tr '[:upper:]' '[:lower:]')
     for file in knowledge/$category/*.md; do
@@ -70,7 +70,7 @@ done
 # Sync English translations
 echo "🇺🇸 Syncing English translations..."
 if [ -d "knowledge/en" ]; then
-  for category in About Art Culture Economy Food Geography Lifestyle Music People History Nature Society Technology; do
+  for category in About Art Culture Economy Food Geography Lifestyle Language Music People History Nature Society Technology; do
     if [ -d "knowledge/en/$category" ]; then
       lowercase_category=$(echo $category | tr '[:upper:]' '[:lower:]')
       for file in knowledge/en/$category/*.md; do

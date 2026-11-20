@@ -20,6 +20,7 @@ const categorySlugMap = {
   Society: 'society',
   Economy: 'economy',
   Lifestyle: 'lifestyle',
+  Language: 'language',
 };
 
 let titleToUrl = null;

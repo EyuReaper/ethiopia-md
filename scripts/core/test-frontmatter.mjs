@@ -32,6 +32,7 @@ const CATEGORIES = [
   'Society',
   'Economy',
   'Lifestyle',
+  'Language',
 ];
 const LANGS = ['', 'en', 'es', 'ja']; // '' = am root
 
@@ -114,22 +115,30 @@ for (const lang of LANGS) {
 
       totalFiles++;
 
-      // 1. Read & parse YAML
+      const raw = await readFile(filePath, 'utf-8');
+      // Archived files are the hidden Taiwan-era long tail (see triage in
+      // CLAUDE.md). Many have corrupted frontmatter from the fork; sync.sh's
+      // fix-all-frontmatter.py repairs their src/content copies, so they do not
+      // break the build. Report their problems as warnings so they stay visible
+      // without failing validation. Detected by regex because the YAML itself
+      // may not parse.
+      const archived = /^status:\s*['"]?archived\b/m.test(raw);
+      const fail = archived
+        ? (m) => warnings.push(`[archived] ${m}`)
+        : (m) => errors.push(m);
+
+      // 1. Parse YAML
       let fm;
       try {
-        const raw = await readFile(filePath, 'utf-8');
-        const parsed = matter(raw);
-        fm = parsed.data;
+        fm = matter(raw).data;
       } catch (err) {
-        // YAML parse errors are always critical — they crash getStaticPaths
-        errors.push(
-          `${label}: YAML parse error — ${err.message.split('\n')[0]}`,
-        );
+        // YAML parse errors are critical for live content
+        fail(`${label}: YAML parse error — ${err.message.split('\n')[0]}`);
         continue;
       }
 
       // 2. Required fields (warnings in relaxed mode, errors in strict)
-      const report = STRICT ? (m) => errors.push(m) : (m) => warnings.push(m);
+      const report = STRICT ? fail : (m) => warnings.push(m);
       if (!fm.title || typeof fm.title !== 'string') {
         report(`${label}: missing or invalid 'title'`);
       }
@@ -139,12 +148,12 @@ for (const lang of LANGS) {
       if (!fm.date) {
         report(`${label}: missing 'date'`);
       } else if (!isValidDate(fm.date)) {
-        errors.push(`${label}: invalid date '${fm.date}'`);
+        fail(`${label}: invalid date '${fm.date}'`);
       }
       if (!fm.tags) {
         warnings.push(`${label}: missing 'tags' (should be an array)`);
       } else if (!isArrayOfStrings(fm.tags)) {
-        errors.push(
+        fail(
           `${label}: 'tags' must be an array of strings, got ${typeof fm.tags}: ${JSON.stringify(fm.tags).slice(0, 80)}`,
         );
       }

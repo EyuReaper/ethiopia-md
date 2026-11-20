@@ -1,8 +1,8 @@
 {
-  "totalArticles": 72,
-  "totalCategories": 13,
-  "estimatedContributors": 5,
-  "totalTags": 25,
+  "totalArticles": 76,
+  "totalCategories": 15,
+  "estimatedContributors": 6,
+  "totalTags": 24,
   "categories": [
     {
       "name": "Music",
@@ -19,6 +19,14 @@
     {
       "name": "People",
       "count": 3
+    },
+    {
+      "name": "About",
+      "count": 1
+    },
+    {
+      "name": "Language",
+      "count": 1
     },
     {
       "name": "Culture",
@@ -54,13 +62,13 @@
     },
     {
       "name": "en",
-      "count": 36
+      "count": 38
     }
   ],
   "topTags": [
     {
       "name": "Hub",
-      "count": 24
+      "count": 26
     },
     {
       "name": "Music",
@@ -76,6 +84,26 @@
     },
     {
       "name": "People",
+      "count": 2
+    },
+    {
+      "name": "About",
+      "count": 2
+    },
+    {
+      "name": "Ethiopia.md",
+      "count": 2
+    },
+    {
+      "name": "Open Source",
+      "count": 2
+    },
+    {
+      "name": "Contributing",
+      "count": 2
+    },
+    {
+      "name": "Language",
       "count": 2
     },
     {
@@ -117,31 +145,11 @@
     {
       "name": "ካፌ ባህል",
       "count": 1
-    },
-    {
-      "name": "ማኪያቶ",
-      "count": 1
-    },
-    {
-      "name": "ቶሞካ",
-      "count": 1
-    },
-    {
-      "name": "የከተማ ኑሮ",
-      "count": 1
-    },
-    {
-      "name": "ማህበራዊ ሕይወት",
-      "count": 1
-    },
-    {
-      "name": "Addis Ababa",
-      "count": 1
     }
   ],
   "languageDistribution": {
-    "am": 72,
+    "am": 76,
     "en": 0
   },
-  "lastUpdated": "2026-11-02T21:49:03.131Z"
+  "lastUpdated": "2026-11-20T07:19:32.431Z"
 }

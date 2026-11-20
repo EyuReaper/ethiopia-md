@@ -44,6 +44,28 @@
     "path": "People/_People Hub.md"
   },
   {
+    "title": "ስለ Ethiopia.md፦ መነሻ እና ዓላማ",
+    "description": "Ethiopia.md ምንድን ነው፣ ለምን የኢትዮጵያ የራሷ ክፍት የእውቀት ማዕከል ያስፈልጋታል፣ ከTaiwan.md ክፍት ምንጭ ፕሮጀክት እንዴት እንደተነሳ፣ አማርኛን ዋና ምንጭ የማድረግ አቀራረቡ እና እንዴት ማበርከት እንደሚቻል።",
+    "category": "About",
+    "tags": ["About", "Ethiopia.md", "Open Source", "Contributing"],
+    "url": "https://ethiopia.md/about/origin-story",
+    "readingTime": 11,
+    "featured": false,
+    "date": "2026-11-20",
+    "path": "About/origin-story.md"
+  },
+  {
+    "title": "ቋንቋ",
+    "description": "ከ80 በላይ ሕያው ቋንቋዎች፣ አራት የቋንቋ ቤተሰቦች፣ የግዕዝ ፊደልና የቁቤ ፊደል፦ የኢትዮጵያን የቋንቋ ብዝሃነት፣ የቋንቋ ፖሊሲና ፌዴራሊዝም፣ እንዲሁም የመጥፋት አደጋ የተጋረጠባቸውን ቋንቋዎች የሚዳስስ አጠቃላይ መግቢያ።",
+    "category": "Language",
+    "tags": ["Language", "Hub"],
+    "url": "https://ethiopia.md/language/",
+    "readingTime": 28,
+    "featured": false,
+    "date": "2026-11-20",
+    "path": "Language/_Language Hub.md"
+  },
+  {
     "title": "ባህል",
     "description": "የኢትዮጵያን ብሔሮች፣ ቋንቋዎች፣ ሃይማኖቶች፣ የቀን አቆጣጠርና ቡናን ጨምሮ የባህል ብዝሃነት የሚያስተዋውቅ አጠቃላይ መግቢያ።",
     "category": "Culture",
@@ -407,17 +429,21 @@
     "path": "en/People/abebe-bikila-marathon-legacy.md"
   },
   {
+    "title": "About Ethiopia.md: Origin and Purpose",
+    "description": "What Ethiopia.md is, why Ethiopia needs its own open knowledge base, how it began as a fork of the open-source Taiwan.md project, its Amharic-first approach, and how to contribute.",
+    "category": "en",
+    "tags": ["About", "Ethiopia.md", "Open Source", "Contributing"],
+    "url": "https://ethiopia.md/en/about/origin-story",
+    "readingTime": 15,
+    "featured": false,
+    "date": "2026-11-20",
+    "path": "en/About/origin-story.md"
+  },
+  {
     "title": "Addis Ababa Café Culture and the Macchiato Heritage",
     "description": "From historic Tomoca to modern urban meeting spaces: an in-depth exploration of how Addis Ababa's cafés became vibrant hubs of social dialogue, commerce, and creative life.",
     "category": "en",
-    "tags": [
-      "Addis Ababa",
-      "Cafe Culture",
-      "Macchiato",
-      "Tomoca",
-      "Urban Life",
-      "Social Hubs"
-    ],
+    "tags": [],
     "url": "https://ethiopia.md/en/lifestyle/addis-ababa-cafe-culture",
     "readingTime": 15,
     "featured": true,
@@ -518,7 +544,7 @@
     "category": "en",
     "tags": [],
     "url": "https://ethiopia.md/en/music/ethio-jazz-mulatu-astatke",
-    "readingTime": 15,
+    "readingTime": 16,
     "featured": true,
     "date": "2026-11-03",
     "path": "en/Music/ethio-jazz-mulatu-astatke.md"
@@ -610,6 +636,17 @@
     "featured": true,
     "date": "2026-11-03",
     "path": "en/Food/injera-and-teff.md"
+  },
+  {
+    "title": "Language",
+    "description": "More than 80 living languages, four language families, the Ge'ez fidel and the Qubee alphabet: an introduction to Ethiopia's linguistic diversity, language policy and federalism, and its endangered languages.",
+    "category": "en",
+    "tags": ["Language", "Hub"],
+    "url": "https://ethiopia.md/en/language/",
+    "readingTime": 39,
+    "featured": false,
+    "date": "2026-11-20",
+    "path": "en/Language/_Language Hub.md"
   },
   {
     "title": "Lifestyle",

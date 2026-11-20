@@ -20,6 +20,7 @@ export async function GET() {
     society: 'Society',
     economy: 'Economy',
     lifestyle: 'Lifestyle',
+    language: 'Language',
   };
 
   const allArticles: any[] = [];

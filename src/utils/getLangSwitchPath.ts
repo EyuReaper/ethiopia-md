@@ -39,6 +39,7 @@ export async function getLangSwitchPath(currentPath: string) {
       Society: 'society',
       Economy: 'economy',
       Lifestyle: 'lifestyle',
+      Language: 'language',
       About: 'about',
       Resources: 'resources',
     };
