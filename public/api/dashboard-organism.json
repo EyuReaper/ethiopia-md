@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-20T12:31:58.100Z",
+  "lastUpdated": "2026-11-20T17:38:35.464Z",
   "organs": [
     {
       "id": "heart",
@@ -12,7 +12,7 @@
       "metrics": {
         "articlesLast7Days": 1,
         "articlesLast30Days": 20,
-        "totalArticles": 414
+        "totalArticles": 25
       }
     },
     {
@@ -21,12 +21,12 @@
       "nameZh": "免疫系統",
       "metaphor": "品質防禦",
       "emoji": "🛡️",
-      "score": 12,
+      "score": 0,
       "trend": "stable",
       "metrics": {
-        "humanReviewedCount": 50,
-        "totalArticles": 414,
-        "humanReviewedPercent": 12.1
+        "humanReviewedCount": 0,
+        "totalArticles": 25,
+        "humanReviewedPercent": 0
       }
     },
     {
@@ -98,10 +98,10 @@
       "trend": "up",
       "metrics": {
         "languageCoverage": {
-          "am": 414,
+          "am": 25,
           "en": 502
         },
-        "translationPct": 121
+        "translationPct": 2008
       }
     }
   ]

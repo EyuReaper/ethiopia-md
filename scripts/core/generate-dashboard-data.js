@@ -333,6 +333,12 @@ async function main() {
       const content = fs.readFileSync(raw.filePath, 'utf8');
       const { frontmatter, body } = parseFrontmatter(content);
 
+      // Only publish-visible articles reach the dashboard (archived and draft
+      // are hidden from the live site and must not be counted or listed).
+      if (frontmatter.status === 'archived' || frontmatter.status === 'draft') {
+        continue;
+      }
+
       const fileName = raw.fileName.replace(/\.md$/, '');
       const tags = Array.isArray(frontmatter.tags)
         ? frontmatter.tags

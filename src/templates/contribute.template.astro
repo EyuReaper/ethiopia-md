@@ -446,12 +446,6 @@ const t = useTranslations(lang);
                 <li
                   set:html={t('contribute.guides.translation.languages.live')}
                 />
-                <li
-                  set:html={t('contribute.guides.translation.languages.coming')}
-                />
-                <li
-                  set:html={t('contribute.guides.translation.languages.you')}
-                />
               </ul>
 
               <a
@@ -523,75 +517,6 @@ const t = useTranslations(lang);
       </div>
     </section>
   </div>
-
-  <!-- Token Donation Section - Position 8 -->
-  <section class="token-donation" id="token-donation">
-    <div class="token-inner">
-      <h2>{t('contribute.token.title')}</h2>
-      <p
-        class="token-subtitle"
-        set:html={t('contribute.token.subtitle.html')}
-      />
-
-      <!-- AI Translation Prompt (one-line copy) -->
-      <div class="one-line-system">
-        <h3>{t('contribute.token.oneline.title')}</h3>
-        <p>{t('contribute.token.oneline.desc')}</p>
-
-        <div class="ai-prompt">
-          <code>{t('contribute.token.oneline.prompt')}</code>
-          <button class="copy-btn" data-copy="translate-prompt"
-            >{t('contribute.copy.button')}</button
-          >
-        </div>
-
-        <div class="one-line-features">
-          <ul>
-            <li>{t('contribute.token.oneline.feature1')}</li>
-            <li>{t('contribute.token.oneline.feature2')}</li>
-            <li>{t('contribute.token.oneline.feature3')}</li>
-            <li>{t('contribute.token.oneline.feature4')}</li>
-            <li>{t('contribute.token.oneline.feature5')}</li>
-          </ul>
-        </div>
-
-        <a
-          href="https://github.com/EyuReaper/ethiopia-md/blob/main/docs/prompts/TRANSLATE_PROMPT.md"
-          target="_blank"
-          class="path-btn secondary"
-          >{t('contribute.token.oneline.fullprompt')}</a
-        >
-      </div>
-
-      <!-- Advanced: manual script -->
-      <div class="manual-process">
-        <h3>{t('contribute.token.advanced.title')}</h3>
-        <p>{t('contribute.token.advanced.desc')}</p>
-        <div class="one-line-code">
-          <code
-            >bash &lt;(curl -s
-            https://raw.githubusercontent.com/EyuReaper/ethiopia-md/main/scripts/tools/translate.sh)</code
-          >
-          <button class="copy-btn" data-copy="one-line-command"
-            >{t('contribute.copy.button')}</button
-          >
-        </div>
-      </div>
-
-      <div class="token-prompt-section">
-        <h3>{t('contribute.token.guidelines.title')}</h3>
-        <p set:html={t('contribute.token.guidelines.desc.html')} />
-      </div>
-
-      <div class="token-note">
-        <p set:html={t('contribute.token.note.p1.html')} />
-        <p>
-          <strong>{t('contribute.token.note.p2')}</strong>
-        </p>
-        <p set:html={t('contribute.token.note.p3.html')} />
-      </div>
-    </div>
-  </section>
 
   <!-- CLI Section - Position 9 -->
   <section class="cli-section" id="cli">
@@ -727,12 +652,7 @@ const t = useTranslations(lang);
 </script>
 
 <script is:inline define:vars={{ copiedText: '✅ ተቀድቷል', copyText: '📋 ቅዳ' }}>
-  const copyTextMap = {
-    'translate-prompt':
-      'እባክዎ በ https://raw.githubusercontent.com/EyuReaper/ethiopia-md/main/docs/prompts/TRANSLATE_PROMPT.md ላይ ያለውን መመሪያ ያንብቡ፣ ከዚያም ለ Ethiopia.md የሚከተለውን ጽሑፍ ይተርጉሙ።',
-    'one-line-command':
-      'bash <(curl -s https://raw.githubusercontent.com/EyuReaper/ethiopia-md/main/scripts/tools/translate.sh)',
-  };
+  const copyTextMap = {};
 
   document.querySelectorAll('[data-copy]').forEach((button) => {
     button.addEventListener('click', async () => {
@@ -1682,116 +1602,6 @@ const t = useTranslations(lang);
     box-shadow: 0 4px 16px rgba(139, 92, 246, 0.2);
   }
 
-  /* Token Donation Section */
-  .token-donation {
-    padding: 4rem 1.5rem;
-    background: linear-gradient(135deg, #f0f7e6 0%, #e8f0d8 100%);
-  }
-  .token-inner {
-    max-width: 900px;
-    margin: 0 auto;
-  }
-  .token-donation h2 {
-    font-size: 2rem;
-    text-align: center;
-    margin-bottom: 0.75rem;
-    color: #2d4a0f;
-  }
-  .token-subtitle {
-    text-align: center;
-    font-size: 1.15rem;
-    color: #555;
-    margin-bottom: 3rem;
-    line-height: 1.8;
-  }
-
-  /* One-line AI translation system */
-  .one-line-system {
-    background: rgba(255, 255, 255, 0.95);
-    border-radius: 16px;
-    padding: 2rem;
-    margin-bottom: 3rem;
-    border: 2px solid #4a7c59;
-    box-shadow: 0 8px 24px rgba(74, 124, 89, 0.1);
-  }
-  .one-line-system h3 {
-    font-size: 1.3rem;
-    color: #2d4a0f;
-    margin-bottom: 0.5rem;
-    text-align: center;
-  }
-  .one-line-system > p {
-    text-align: center;
-    color: #555;
-    margin-bottom: 1.5rem;
-    font-size: 1rem;
-  }
-  .one-line-code {
-    background: #1a1a2e;
-    border-radius: 12px;
-    padding: 1.5rem;
-    position: relative;
-    margin-bottom: 1.5rem;
-    overflow: hidden;
-  }
-  :global(.one-line-code code) {
-    display: block;
-    color: #e0e0e0;
-    font-size: 0.9rem;
-    line-height: 1.6;
-    word-break: break-all;
-    font-family: 'SFMono-Regular', 'Monaco', 'Consolas', monospace;
-  }
-  .one-line-features ul {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 0.5rem;
-    margin: 0;
-    padding: 0;
-    list-style: none;
-  }
-  .one-line-features li {
-    font-size: 0.9rem;
-    color: #2d4a0f;
-    line-height: 1.6;
-    padding: 0.25rem 0;
-  }
-  .one-line-note {
-    background: rgba(74, 124, 89, 0.1);
-    border-radius: 8px;
-    padding: 1rem 1.5rem;
-    margin-top: 1.5rem;
-    border-left: 4px solid #4a7c59;
-    font-size: 0.9rem;
-    color: #555;
-    line-height: 1.7;
-  }
-
-  /* Manual translation process */
-  .manual-process {
-    border-top: 2px solid #a7c4a0;
-    padding-top: 2rem;
-  }
-  .manual-process h3 {
-    font-size: 1.2rem;
-    color: #2d4a0f;
-    margin-bottom: 1.5rem;
-    text-align: center;
-  }
-  .token-steps {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 1.5rem;
-    margin-bottom: 3rem;
-  }
-  .token-step {
-    background: white;
-    border-radius: 12px;
-    padding: 1.5rem;
-    text-align: center;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
-    position: relative;
-  }
   .step-number {
     width: 36px;
     height: 36px;
@@ -1804,35 +1614,6 @@ const t = useTranslations(lang);
     font-weight: 700;
     font-size: 1.1rem;
     margin: 0 auto 1rem;
-  }
-  .token-step h3 {
-    font-size: 1.05rem;
-    margin-bottom: 0.5rem;
-    color: #2d4a0f;
-  }
-  .token-step p {
-    font-size: 0.9rem;
-    color: #666;
-    line-height: 1.6;
-  }
-  .token-step a {
-    color: #4a7c59;
-    text-decoration: underline;
-  }
-  :global(.token-step code) {
-    background: #f0f0f0;
-    padding: 0.1em 0.4em;
-    border-radius: 3px;
-    font-size: 0.85em;
-  }
-  .token-languages {
-    text-align: center;
-    margin-bottom: 2.5rem;
-  }
-  .token-languages h3 {
-    font-size: 1.1rem;
-    margin-bottom: 1rem;
-    color: #2d4a0f;
   }
   .lang-tags {
     display: flex;
@@ -1848,14 +1629,6 @@ const t = useTranslations(lang);
     border-radius: 20px;
     font-size: 0.95rem;
     font-weight: 500;
-  }
-  .token-prompt-section {
-    margin-bottom: 2.5rem;
-  }
-  .token-prompt-section h3 {
-    font-size: 1.1rem;
-    margin-bottom: 1rem;
-    color: #2d4a0f;
   }
   .prompt-box {
     background: #1a1a2e;
@@ -1875,29 +1648,6 @@ const t = useTranslations(lang);
     white-space: pre-wrap;
     word-break: break-word;
   }
-  .token-note {
-    background: white;
-    border-radius: 12px;
-    padding: 1.5rem 2rem;
-    border-left: 4px solid #4a7c59;
-  }
-  .token-note p {
-    font-size: 0.95rem;
-    color: #555;
-    line-height: 1.8;
-    margin-bottom: 0.75rem;
-  }
-  .token-note p:last-child {
-    margin-bottom: 0;
-  }
-  .token-note a {
-    color: #4a7c59;
-    text-decoration: underline;
-  }
-  .token-note strong {
-    color: #2d4a0f;
-  }
-
   @media (max-width: 768px) {
     .path-grid {
       grid-template-columns: 1fr;
@@ -1914,22 +1664,10 @@ const t = useTranslations(lang);
     .category-grid {
       grid-template-columns: repeat(2, 1fr);
     }
-    .token-steps {
-      grid-template-columns: 1fr 1fr;
-    }
-    .one-line-features ul {
-      grid-template-columns: 1fr;
-    }
   }
   @media (max-width: 480px) {
     .category-grid {
       grid-template-columns: 1fr;
-    }
-    .token-steps {
-      grid-template-columns: 1fr;
-    }
-    .token-donation h2 {
-      font-size: 1.5rem;
     }
   }
 </style>

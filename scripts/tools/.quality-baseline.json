@@ -1,7 +1,126 @@
 {
-  "version": "3.0",
-  "timestamp": "2026-11-20T07:04:50Z",
-  "total": 1,
-  "flagged": 1,
-  "files": [{ "file": "knowledge/en/History/battle-of-adwa.md", "score": 16 }]
+  "version": "4.0",
+  "timestamp": "2026-11-20T17:36:00Z",
+  "total": 78,
+  "flagged": 73,
+  "files": [
+    { "file": "knowledge/About/origin-story.md", "score": 16 },
+    { "file": "knowledge/Art/_Art Hub.md", "score": 9 },
+    {
+      "file": "knowledge/Art/ethiopian-illuminations-modern-art.md",
+      "score": 6
+    },
+    { "file": "knowledge/Art/lalibela-rock-hewn-churches.md", "score": 4 },
+    { "file": "knowledge/Culture/_Culture Hub.md", "score": 4 },
+    { "file": "knowledge/Culture/ethiopian-coffee-culture.md", "score": 4 },
+    {
+      "file": "knowledge/Culture/ethiopian-religious-festivals.md",
+      "score": 4
+    },
+    {
+      "file": "knowledge/Economy/ethiopian-airlines-aviation-hub.md",
+      "score": 4
+    },
+    {
+      "file": "knowledge/Economy/grand-ethiopian-renaissance-dam.md",
+      "score": 6
+    },
+    { "file": "knowledge/en/About/origin-story.md", "score": 18 },
+    { "file": "knowledge/en/Art/_Art Hub.md", "score": 9 },
+    {
+      "file": "knowledge/en/Art/ethiopian-illuminations-modern-art.md",
+      "score": 4
+    },
+    { "file": "knowledge/en/Art/lalibela-rock-hewn-churches.md", "score": 4 },
+    { "file": "knowledge/en/Culture/_Culture Hub.md", "score": 7 },
+    { "file": "knowledge/en/Culture/ethiopian-coffee-culture.md", "score": 4 },
+    {
+      "file": "knowledge/en/Culture/ethiopian-religious-festivals.md",
+      "score": 4
+    },
+    {
+      "file": "knowledge/en/Economy/ethiopian-airlines-aviation-hub.md",
+      "score": 4
+    },
+    {
+      "file": "knowledge/en/Economy/grand-ethiopian-renaissance-dam.md",
+      "score": 6
+    },
+    { "file": "knowledge/en/Food/doro-wat-and-festive-dining.md", "score": 6 },
+    { "file": "knowledge/en/Food/_Food Hub.md", "score": 10 },
+    { "file": "knowledge/en/Food/injera-and-teff.md", "score": 4 },
+    { "file": "knowledge/en/Geography/_Geography Hub.md", "score": 4 },
+    { "file": "knowledge/en/Geography/great-rift-valley.md", "score": 4 },
+    { "file": "knowledge/en/Geography/simien-mountains.md", "score": 6 },
+    { "file": "knowledge/en/History/aksumite-empire.md", "score": 4 },
+    { "file": "knowledge/en/History/battle-of-adwa.md", "score": 4 },
+    { "file": "knowledge/en/Language/_Language Hub.md", "score": 8 },
+    {
+      "file": "knowledge/en/Lifestyle/addis-ababa-cafe-culture.md",
+      "score": 6
+    },
+    {
+      "file": "knowledge/en/Lifestyle/habesha-kemis-and-handwoven-textiles.md",
+      "score": 4
+    },
+    { "file": "knowledge/en/Lifestyle/_Lifestyle Hub.md", "score": 5 },
+    { "file": "knowledge/en/Music/ethio-jazz-mulatu-astatke.md", "score": 4 },
+    { "file": "knowledge/en/Music/_Music Hub.md", "score": 9 },
+    {
+      "file": "knowledge/en/Music/traditional-instruments-krar-masenqo.md",
+      "score": 4
+    },
+    { "file": "knowledge/en/Nature/bale-mountains-ecosystem.md", "score": 6 },
+    { "file": "knowledge/en/Nature/ethiopian-endemic-wildlife.md", "score": 6 },
+    { "file": "knowledge/en/Nature/_Nature Hub.md", "score": 11 },
+    {
+      "file": "knowledge/en/People/abebe-bikila-marathon-legacy.md",
+      "score": 4
+    },
+    { "file": "knowledge/en/People/menelik-ii-and-taytu-betul.md", "score": 4 },
+    { "file": "knowledge/en/People/_People Hub.md", "score": 11 },
+    { "file": "knowledge/en/Society/gadaa-system.md", "score": 4 },
+    { "file": "knowledge/en/Society/iddir-and-iqub-mutual-aid.md", "score": 6 },
+    { "file": "knowledge/en/Society/_Society Hub.md", "score": 5 },
+    { "file": "knowledge/en/Technology/ai-development.md", "score": 4 },
+    { "file": "knowledge/en/Technology/_Technology Hub.md", "score": 10 },
+    {
+      "file": "knowledge/en/Technology/telebirr-digital-payments.md",
+      "score": 4
+    },
+    { "file": "knowledge/Food/doro-wat-and-festive-dining.md", "score": 6 },
+    { "file": "knowledge/Food/_Food Hub.md", "score": 10 },
+    { "file": "knowledge/Food/injera-and-teff.md", "score": 4 },
+    { "file": "knowledge/Geography/_Geography Hub.md", "score": 4 },
+    { "file": "knowledge/Geography/great-rift-valley.md", "score": 4 },
+    { "file": "knowledge/Geography/simien-mountains.md", "score": 6 },
+    { "file": "knowledge/History/aksumite-empire.md", "score": 4 },
+    { "file": "knowledge/History/battle-of-adwa.md", "score": 4 },
+    { "file": "knowledge/_Home.md", "score": 11 },
+    { "file": "knowledge/Language/_Language Hub.md", "score": 8 },
+    { "file": "knowledge/Lifestyle/addis-ababa-cafe-culture.md", "score": 4 },
+    {
+      "file": "knowledge/Lifestyle/habesha-kemis-and-handwoven-textiles.md",
+      "score": 6
+    },
+    { "file": "knowledge/Lifestyle/_Lifestyle Hub.md", "score": 4 },
+    { "file": "knowledge/Music/ethio-jazz-mulatu-astatke.md", "score": 6 },
+    { "file": "knowledge/Music/_Music Hub.md", "score": 9 },
+    {
+      "file": "knowledge/Music/traditional-instruments-krar-masenqo.md",
+      "score": 7
+    },
+    { "file": "knowledge/Nature/bale-mountains-ecosystem.md", "score": 6 },
+    { "file": "knowledge/Nature/ethiopian-endemic-wildlife.md", "score": 6 },
+    { "file": "knowledge/Nature/_Nature Hub.md", "score": 11 },
+    { "file": "knowledge/People/abebe-bikila-marathon-legacy.md", "score": 4 },
+    { "file": "knowledge/People/menelik-ii-and-taytu-betul.md", "score": 4 },
+    { "file": "knowledge/People/_People Hub.md", "score": 11 },
+    { "file": "knowledge/People/_PEOPLE-ROADMAP.md", "score": 11 },
+    { "file": "knowledge/Society/gadaa-system.md", "score": 4 },
+    { "file": "knowledge/Society/iddir-and-iqub-mutual-aid.md", "score": 6 },
+    { "file": "knowledge/Technology/ai-development.md", "score": 4 },
+    { "file": "knowledge/Technology/_Technology Hub.md", "score": 10 },
+    { "file": "knowledge/Technology/telebirr-digital-payments.md", "score": 4 }
+  ]
 }

@@ -264,16 +264,9 @@ export const contributeUI = {
       '<strong>Copy the prompt:</strong> <a href="https://github.com/EyuReaper/ethiopia-md/blob/main/docs/prompts/TRANSLATE_PROMPT.md">TRANSLATE_PROMPT.md</a> — paste to your AI and it guides you through everything',
     'contribute.guides.translation.board.submit':
       '<strong>Submit via PR:</strong> AI helps you create PR-ready Markdown files',
-    'contribute.guides.translation.languages': '🌏 Expanding Beyond English',
+    'contribute.guides.translation.languages': '🌏 Languages',
     'contribute.guides.translation.languages.live':
-      '<strong>Live:</strong> Amharic (source), English',
-    'contribute.guides.translation.languages.coming':
-      '<strong>Planned:</strong> none scheduled yet. Oromo and Tigrinya are not supported until their directories and locales exist.',
-    'contribute.guides.translation.languages.you':
-      '<strong>Your language not here?</strong> You could be the first! Just pick a language code and start.',
-    'contribute.guides.translation.token': '💡 Token Donation Concept',
-    'contribute.guides.translation.token.desc':
-      'Got unused Claude/ChatGPT/Gemini credits? Spend 10 minutes adding a language version to Ethiopia.md. Your AI subscription = one compute node in our distributed translation network.',
+      '<strong>Live:</strong> Amharic (source of truth) and English (translation)',
     'contribute.guides.translation.quality':
       '⚡ Quality: Rewriting vs. Word-for-Word',
     'contribute.guides.translation.quality.rewrite':
@@ -468,60 +461,16 @@ export const contributeUI = {
       'Currently {coverage}% of English version is complete, thanks to all translation volunteers!',
     'contribute.i18n.english': '🇺🇸 English',
     'contribute.i18n.articles': 'articles',
-    'contribute.i18n.japanese': '🇯🇵 日本語',
-    'contribute.i18n.korean': '🇰🇷 한국어',
-    'contribute.i18n.spanish': '🇪🇸 Español',
     'contribute.i18n.category.title': 'Category Progress',
 
     // Token Donation Section
-    'contribute.token.title':
-      '🌍 Token Donation — Use Your AI Credits to Help Ethiopia Speak',
-    'contribute.token.subtitle.html':
-      'Have leftover Claude / ChatGPT / Gemini subscription credits each month?<br/><strong>Spend 10 minutes to add another language version to Ethiopia.md.</strong>',
-    'contribute.token.oneline.title': '🤖 Talk to your AI (Recommended)',
-    'contribute.token.oneline.desc':
-      'One command, your AI will automatically read translation guidelines, select articles, guide you through translation and submission:',
-    'contribute.token.oneline.prompt':
-      'Read the complete content of https://raw.githubusercontent.com/EyuReaper/ethiopia-md/main/docs/prompts/TRANSLATE_PROMPT.md, then guide me to translate a Ethiopia.md article following the instructions.',
-    'contribute.token.oneline.feature1':
-      '✅ AI automatically reads latest translation guidelines and style guides',
-    'contribute.token.oneline.feature2':
-      '✅ Guides you to select articles and confirm target language',
-    'contribute.token.oneline.feature3':
-      '✅ Rewriting-based translation, not word-for-word',
-    'contribute.token.oneline.feature4': '✅ Generates PR-ready Markdown files',
-    'contribute.token.oneline.feature5':
-      '✅ ChatGPT / Claude / Gemini all supported',
-    'contribute.token.oneline.fullprompt': 'View Full Translation Prompt →',
-    'contribute.token.advanced.title':
-      '⚡ Advanced: Script Automation (For Developers)',
-    'contribute.token.advanced.desc':
-      "If you're familiar with command line, use one script to auto-scan articles, generate prompts, and submit PRs:",
-    'contribute.token.languages.title': '🎯 Priority Languages',
-    'contribute.token.lang.japanese': '🇯🇵 日本語',
-    'contribute.token.lang.korean': '🇰🇷 한국어',
-    'contribute.token.lang.spanish': '🇪🇸 Español',
-    'contribute.token.lang.french': '🇫🇷 Français',
-    'contribute.token.lang.german': '🇩🇪 Deutsch',
-    'contribute.token.lang.vietnamese': '🇻🇳 Tiếng Việt',
-    'contribute.token.lang.indonesian': '🇮🇩 Bahasa Indonesia',
-    'contribute.token.lang.thai': '🇹🇭 ภาษาไทย',
-    'contribute.token.guidelines.title': '📋 Complete Translation Guidelines',
-    'contribute.token.guidelines.desc.html':
-      'Translation helper Prompt will automatically read the latest guidelines. You can also view directly: <a href="https://github.com/EyuReaper/ethiopia-md/blob/main/docs/prompts/TRANSLATE_PROMPT.md" target="_blank">TRANSLATE_PROMPT.md</a> | <a href="https://github.com/EyuReaper/ethiopia-md/tree/main/i18n" target="_blank">Language-specific Style Guides</a>',
-    'contribute.token.note.p1.html':
-      '💡 Each language has a dedicated <a href="https://github.com/EyuReaper/ethiopia-md/tree/main/i18n">Style Guide</a>, recording translation experience and common errors. Every correction from reviewers is written back to the Style Guide, continuously improving translation quality.',
-    'contribute.token.note.p2':
-      'From AI Slop to AI Supreme — not relying on one person, but on everyone worldwide who believes Ethiopia deserves to be known.',
-    'contribute.token.note.p3.html':
-      '👉 <a href="https://github.com/EyuReaper/ethiopia-md/discussions/137">Join Discussion</a> | Want to be a native reviewer? <a href="https://github.com/EyuReaper/ethiopia-md/discussions/137">Sign up here</a>',
 
     // Digital Organism Section
     'contribute.organism.title': '🧬 Ethiopia.md Is More Than a Website',
     'contribute.organism.fact1.html':
       'On day three, someone on Threads wrote: "This is just AI slop with a Ethiopian flag." They were right. Within 48 hours, we built a quality detection script that scores every article for hollowness. 15 flagged articles were completely rewritten. No one gave the order. The criticism was the selection pressure. The system evolved on its own.',
     'contribute.organism.fact2.html':
-      'On day four, someone in Japan copied our translation prompt — a single paragraph — and pasted it into ChatGPT. Five minutes later, the first Japanese article about bubble tea was submitted. No translation team. No budget. But now Ethiopia.md speaks four languages.',
+      'Adding a language does not require a dedicated team. Anyone can copy the translation prompt in docs/prompts/TRANSLATE_PROMPT.md into an AI assistant, check the result against the sources, and open a pull request. No budget and no assigned team are needed, though the Amharic source article is always the reference.',
     'contribute.organism.fact3.html':
       "Within five days, 23 strangers showed up. A history teacher added chapters textbooks still tiptoe around. A retired engineer corrected place names we got wrong. Someone turned their grandmother's story into an article that made our whole team cry. None were asked. None were paid.",
     'contribute.organism.alive.html':
@@ -797,16 +746,9 @@ export const contributeUI = {
       '<strong>prompt ይቅዱ፦</strong> <a href="https://github.com/EyuReaper/ethiopia-md/blob/main/docs/prompts/TRANSLATE_PROMPT.md">TRANSLATE_PROMPT.md</a> — ወደ AI ይለጥፉት እና በሁሉም ነገር ይመራዎታል',
     'contribute.guides.translation.board.submit':
       '<strong>በPR ያስገቡ፦</strong> AI ለ PR ዝግጁ የሆኑ የMarkdown ፋይሎችን እንዲፈጥሩ ያግዝዎታል',
-    'contribute.guides.translation.languages': '🌏 ከእንግሊዝኛ ባሻገር መስፋፋት',
+    'contribute.guides.translation.languages': '🌏 ቋንቋዎች',
     'contribute.guides.translation.languages.live':
       '<strong>በአሁኑ ጊዜ ይገኛሉ፦</strong> አማርኛ (ዋናው ምንጭ)፣ English',
-    'contribute.guides.translation.languages.coming':
-      '<strong>በቅርቡ ይመጣሉ፦</strong> Français、Deutsch、Tiếng Việt、Bahasa Indonesia、ภาษาไทย、العربية、Oromoo、ትግርኛ',
-    'contribute.guides.translation.languages.you':
-      '<strong>ቋንቋዎ እዚህ የለም?</strong> የመጀመሪያው ሊሆኑ ይችላሉ! የቋንቋ ኮድ ይምረጡ እና ይጀምሩ።',
-    'contribute.guides.translation.token': '💡 የToken ልገሳ ጽንሰ-ሐሳብ',
-    'contribute.guides.translation.token.desc':
-      'ያልተጠቀሙ Claude/ChatGPT/Gemini ክሬዲቶች አሉዎት? 10 ደቂቃ ወስደው ወደ Ethiopia.md የቋንቋ ስሪት ይጨምሩ። የ AI ምዝገባዎ = በስርጭት ትርጉም አውታራችን ውስጥ አንድ የስሌት መስቀለኛ ነው።',
     'contribute.guides.translation.quality': '⚡ ጥራት፦ እንደገና መጻፍ vs ቃል በቃል',
     'contribute.guides.translation.quality.rewrite':
       '<strong>የመልሶ መጻፍ አካሄድ፦</strong> እንደ ኣፍ መፍቻ ቋንቋ ተናጋሪ ከመሠረቱ የተጻፈ እንዲመስል ያድርጉ',
@@ -993,51 +935,9 @@ export const contributeUI = {
       'በአሁኑ ጊዜ {coverage}% የእንግሊዝኛ ስሪት ተጠናቅቋል፣ ለሁሉም የትርጉም በጎ ፈቃደኞች እናመሰግናለን!',
     'contribute.i18n.english': '🇺🇸 English',
     'contribute.i18n.articles': 'ጽሑፎች',
-    'contribute.i18n.japanese': '🇯🇵 日本語',
-    'contribute.i18n.korean': '🇰🇷 한국어',
-    'contribute.i18n.spanish': '🇪🇸 Español',
     'contribute.i18n.category.title': 'የምድብ እድገት',
 
     // Token Donation Section
-    'contribute.token.title':
-      '🌍 Token Donation — የ AI ክሬዲትዎን ኢትዮጵያ እንድትናገር ለማገዝ ይጠቀሙ',
-    'contribute.token.subtitle.html':
-      'በየወሩ ያልተጠቀሙ የClaude / ChatGPT / Gemini ምዝገባ ክሬዲቶች አሉዎት?<br/><strong>10 ደቂቃ ወስደው ወደ Ethiopia.md ሌላ የቋንቋ ስሪት ይጨምሩ።</strong>',
-    'contribute.token.oneline.title': '🤖 ከ AI ጋር ይነጋገሩ（የሚመከር）',
-    'contribute.token.oneline.desc':
-      'አንድ ትዕዛዝ ብቻ፣ AIዎ በራስ-ሰር የትርጉም መመሪያዎችን ያነባል፣ ጽሑፎችን ይመርጣል፣ በትርጉምና ማስገባት ይመራዎታል፦',
-    'contribute.token.oneline.prompt':
-      'https://raw.githubusercontent.com/EyuReaper/ethiopia-md/main/docs/prompts/TRANSLATE_PROMPT.md የተባለውን ሙሉ ይዘት አንብብ፣ ከዚያም መመሪያዎቹን ተከትሎ የ Ethiopia.md ጽሑፍ እንድተረጉም ምራኝ።',
-    'contribute.token.oneline.feature1':
-      '✅ AI በራስ-ሰር የቅርብ ጊዜውን የትርጉም መመሪያና ስልት ያነባል',
-    'contribute.token.oneline.feature2':
-      '✅ ጽሑፎችን ለመምረጥ እና ዒላማ ቋንቋ ለማረጋገጥ ይመራዎታል',
-    'contribute.token.oneline.feature3': '✅ የመልሶ መጻፍ ትርጉም፣ ቃል በቃል አይደለም',
-    'contribute.token.oneline.feature4': '✅ ለ PR ዝግጁ የMarkdown ፋይሎችን ያመነጫል',
-    'contribute.token.oneline.feature5':
-      '✅ ChatGPT / Claude / Gemini ሁሉም ይደገፋሉ',
-    'contribute.token.oneline.fullprompt': 'ሙሉውን የትርጉም Prompt ይመልከቱ →',
-    'contribute.token.advanced.title': '⚡ ከፍተኛ ደረጃ፦ የስክሪፕት አውቶሜሽን（ለመሐንዲሶች）',
-    'contribute.token.advanced.desc':
-      'የትዕዛዝ መስመር የሚያውቁ ከሆነ፣ ጽሑፎችን በራስ-ሰር ለመቃኘት፣ prompt ለማመንጨት እና PR ለማስገባት አንድ ስክሪፕት ይጠቀሙ፦',
-    'contribute.token.languages.title': '🎯 ቅድሚያ የሚሰጣቸው ቋንቋዎች',
-    'contribute.token.lang.japanese': '🇯🇵 日本語',
-    'contribute.token.lang.korean': '🇰🇷 한국어',
-    'contribute.token.lang.spanish': '🇪🇸 Español',
-    'contribute.token.lang.french': '🇫🇷 Français',
-    'contribute.token.lang.german': '🇩🇪 Deutsch',
-    'contribute.token.lang.vietnamese': '🇻🇳 Tiếng Việt',
-    'contribute.token.lang.indonesian': '🇮🇩 Bahasa Indonesia',
-    'contribute.token.lang.thai': '🇹🇭 ภาษาไทย',
-    'contribute.token.guidelines.title': '📋 የተሟላ የትርጉም መመሪያ',
-    'contribute.token.guidelines.desc.html':
-      'የትርጉም ረዳት Prompt በራስ-ሰር የቅርብ ጊዜውን መመሪያ ያነባል። በቀጥታም ማየት ይችላሉ፦ <a href="https://github.com/EyuReaper/ethiopia-md/blob/main/docs/prompts/TRANSLATE_PROMPT.md" target="_blank">TRANSLATE_PROMPT.md</a> ｜ <a href="https://github.com/EyuReaper/ethiopia-md/tree/main/i18n" target="_blank">የቋንቋ-ተኮር የስልት መመሪያዎች</a>',
-    'contribute.token.note.p1.html':
-      '💡 እያንዳንዱ ቋንቋ የራሱ <a href="https://github.com/EyuReaper/ethiopia-md/tree/main/i18n">Style Guide</a> አለው፣ የትርጉም ልምድና የተለመዱ ስህተቶችን ይመዘግባል። ገምጋሚዎች የሚያደርጉት እያንዳንዱ እርማት ወደ Style Guide ተመልሶ ይጻፋል፣ የትርጉም ጥራትን ያለማቋረጥ ያሻሽላል።',
-    'contribute.token.note.p2':
-      'From AI Slop to AI Supreme — በአንድ ሰው ላይ ሳይሆን፣ ኢትዮጵያ መታወቅ ይገባታል ብለው በሚያምኑ በመላው ዓለም ባሉ ሰዎች ላይ የተመሰረተ።',
-    'contribute.token.note.p3.html':
-      '👉 <a href="https://github.com/EyuReaper/ethiopia-md/discussions/137">ውይይቱን ይቀላቀሉ</a> ｜ የአፍ መፍቻ ቋንቋ ገምጋሚ መሆን ይፈልጋሉ? <a href="https://github.com/EyuReaper/ethiopia-md/discussions/137">እዚህ ይመዝገቡ</a>',
 
     // Digital Organism Section
     'contribute.organism.title': '🧬 Ethiopia.md ከድረ-ገጽ በላይ ነው',

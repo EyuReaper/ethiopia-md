@@ -1,96 +1,79 @@
-# ⚙️ scripts/ — [Amharic translation needed - original Taiwan context]
+# Scripts
 
-> AI agent [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+This folder holds the build, validation and maintenance scripts for Ethiopia.md. The npm scripts in `package.json` are the normal entry points. Run the others directly only when the table below says so.
 
----
+## npm scripts
 
-## [Amharic translation needed - original Taiwan context]
+| Command                                   | What it runs                                                                    |
+| ----------------------------------------- | ------------------------------------------------------------------------------- |
+| `npm run dev`                             | Starts the Astro dev server on `http://localhost:4321`.                         |
+| `npm run build`                           | Runs `prebuild`, then `astro build`, then `postbuild`.                          |
+| `npm run test`                            | Validates frontmatter in `knowledge/` with `scripts/core/test-frontmatter.mjs`. |
+| `npm run test:ci`                         | The same check with `--ci`, which is used by the GitHub workflow.               |
+| `npm run sync`                            | Copies `knowledge/` into `src/content/` with `scripts/core/sync.sh`.            |
+| `npm run sync:build`                      | Runs `sync`, then `astro build`.                                                |
+| `npm run check-images`                    | Runs `scripts/utils/check-images.mjs`.                                          |
+| `npm run check-links`                     | Runs `scripts/utils/check-links.sh`.                                            |
+| `npm run format::check` / `format::write` | Prettier check and write across the repository.                                 |
 
-```
-scripts/
-├── core/          Build pipeline（prebuild [Amharic translation needed - original Taiwan context]）
-├── tools/         [Amharic translation needed - original Taiwan context]
-├── utils/         [Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]
-└── deprecated/    [Amharic translation needed - original Taiwan context]
-```
+`prebuild` runs three generators in order: `scripts/core/generate-api.js`, `scripts/core/build-search-index.mjs` and `scripts/core/generate-dashboard-data.js`. They read `knowledge/` and write static JSON under `public/`. `postbuild` runs `scripts/core/post-build-check.mjs` against `dist/`.
 
----
+## `scripts/core/`
 
-## 🔴 core/ — Build Pipeline（npm run build [Amharic translation needed - original Taiwan context]）
+Used by the build and by CI.
 
-| [Amharic translation needed - original Taiwan context]                          | [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]                                           |
-| ----------------------------- | ---- | ---------------------------------------------- |
-| `sync.sh`                     | bash | [Amharic translation needed - original Taiwan context] knowledge/ → src/content/（SSOT [Amharic translation needed - original Taiwan context]）    |
-| `generate-api.js`             | node | [Amharic translation needed - original Taiwan context] `public/api/*.json`（[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]） |
-| `generate-dashboard-data.js`  | node | [Amharic translation needed - original Taiwan context] Dashboard 4 [Amharic translation needed - original Taiwan context] JSON API                   |
-| `generate-map-markers.js`     | node | [Amharic translation needed - original Taiwan context]                               |
-| `generate-content-stats.js`\* | node | [Amharic translation needed - original Taiwan context] generate-api [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]         |
-| `build-search-index.mjs`      | node | [Amharic translation needed - original Taiwan context]                               |
-| `post-build-check.mjs`        | node | Build [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]）     |
-| `test-frontmatter.mjs`        | node | Pre-commit hook：[Amharic translation needed - original Taiwan context] frontmatter [Amharic translation needed - original Taiwan context]         |
+| File                         | Purpose                                                                                                              |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| `test-frontmatter.mjs`       | Frontmatter validator. Flags: `--staged` (used by the pre-commit hook), `--ci`, `--strict` (warnings become errors). |
+| `sync.sh`                    | Copies `knowledge/` into `src/content/`. Never edit `src/content/` by hand.                                          |
+| `generate-api.js`            | Writes the article and API JSON under `public/api/`.                                                                 |
+| `build-search-index.mjs`     | Writes the search index from `knowledge/`. Draft and archived articles are excluded.                                 |
+| `generate-dashboard-data.js` | Writes the data used by the dashboard page.                                                                          |
+| `post-build-check.mjs`       | Smoke-tests `dist/` after a build. Its page-count thresholds may need adjusting after a triage (see `ROADMAP.md`).   |
 
-**[Amharic translation needed - original Taiwan context]**：`sync.sh` → `generate-*.js` → Astro build → `post-build-check.mjs`
+## `scripts/tools/`
 
-## 🟡 tools/ — [Amharic translation needed - original Taiwan context]
+Editorial and maintenance helpers. Run them from the repository root.
 
-| [Amharic translation needed - original Taiwan context]                     | [Amharic translation needed - original Taiwan context] | [Amharic translation needed - original Taiwan context]                                                             |
-| ------------------------ | ---- | ---------------------------------------------------------------- |
-| `quality-scan.sh`        | bash | **[Amharic translation needed - original Taiwan context] v3.0** — 14 [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]） |
-| `review-pr.sh`           | bash | PR [Amharic translation needed - original Taiwan context]（frontmatter + [Amharic translation needed - original Taiwan context] + [Amharic translation needed - original Taiwan context] 4 [Amharic translation needed - original Taiwan context]）                |
-| `rewrite-pipeline.sh`    | bash | [Amharic translation needed - original Taiwan context]（Stage 1-5 [Amharic translation needed - original Taiwan context]）                           |
-| `translate.sh`           | bash | [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] AI + [Amharic translation needed - original Taiwan context]）                                   |
-| `update-stats.sh`        | bash | [Amharic translation needed - original Taiwan context] README [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]）                        |
-| `manage-featured.sh`     | bash | [Amharic translation needed - original Taiwan context] featured [Amharic translation needed - original Taiwan context]                                           |
-| `assign-subcategory.cjs` | node | [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] taxonomy → [Amharic translation needed - original Taiwan context] frontmatter）                   |
-| `check-freshness.js`     | node | [Amharic translation needed - original Taiwan context]（lastVerified [Amharic translation needed - original Taiwan context]）                          |
+| File                                                 | Purpose                                                                                                  |
+| ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| `review-pr.sh`                                       | Runs the same checks as the PR review workflow on a pull request number.                                 |
+| `quality-scan.sh`                                    | Heuristic quality scan of published articles. `--all` also scans drafts and archived articles.           |
+| `manage-featured.sh`                                 | `list` or `audit` the articles marked `featured: true`.                                                  |
+| `triage-status.mjs`                                  | Sets `status` values from the curated list. A dry run by default. Pass `--apply` to write changes.       |
+| `generate-content-stats.js`                          | Writes `src/data/content-stats.json`, including counts by status.                                        |
+| `assign-subcategory.cjs`                             | Assigns `subcategory` values in frontmatter. Check the diff before committing.                           |
+| `check-freshness.js`                                 | Lists articles not re-verified within N days (default 90). `--days` and `--json` options.                |
+| `translate.sh`                                       | Interactive helper for a contributor who wants to translate an article. Linked from the contribute page. |
+| `rewrite-pipeline.sh`, `update-stats.sh`             | Older helpers. Read them before running.                                                                 |
+| `quality-report-2026-03-24.txt`, `rewrite-queue.txt` | Snapshots from earlier work. Not inputs to any script.                                                   |
 
-**[Amharic translation needed - original Taiwan context]**：
+## `scripts/utils/`
 
-```bash
-bash scripts/tools/quality-scan.sh                    # [Amharic translation needed - original Taiwan context]
-bash scripts/tools/quality-scan.sh knowledge/Art/X.md  # [Amharic translation needed - original Taiwan context]
-bash scripts/tools/quality-scan.sh --sort --diff       # [Amharic translation needed - original Taiwan context] + [Amharic translation needed - original Taiwan context]
-bash scripts/tools/review-pr.sh 123                    # [Amharic translation needed - original Taiwan context] PR #123
-```
+| File                        | Purpose                                                                                                                                 |
+| --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| `check-images.mjs`          | Checks image references. Used by `npm run check-images`.                                                                                |
+| `check-links.sh`            | Checks links. Used by `npm run check-links`.                                                                                            |
+| `check-references.mjs`      | Checks that each article has a references or further-reading section with at least one URL. `--strict` makes failures fatal.            |
+| `check-translation-sync.sh` | Lists recently changed Amharic articles and the English files that may need updating. See `docs/editorial/TRANSLATION-SYNC.md`.         |
+| `i18n-status.py`            | Generates the translation progress JSON.                                                                                                |
+| `test-wikilinks.mjs`        | Checks that wikilinks resolve.                                                                                                          |
+| `publish.sh`                | Runs sync, frontmatter fixes, build and push in one step, then commits with the message you give. It pushes, so read it before running. |
 
-## 🟢 utils/ — [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
+### One-off migration scripts
 
-| [Amharic translation needed - original Taiwan context]                             | [Amharic translation needed - original Taiwan context]   | [Amharic translation needed - original Taiwan context]                             |
-| -------------------------------- | ------ | -------------------------------- |
-| `check-links.sh`                 | bash   | [Amharic translation needed - original Taiwan context]         |
-| `check-references.mjs`           | node   | [Amharic translation needed - original Taiwan context] wikilink [Amharic translation needed - original Taiwan context]         |
-| `check-translation-sync.sh`      | bash   | [Amharic translation needed - original Taiwan context] SSOT [Amharic translation needed - original Taiwan context] |
-| `check-images.mjs`               | node   | [Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]            |
-| `fix-wikilinks.mjs`              | node   | [Amharic translation needed - original Taiwan context] wikilink [Amharic translation needed - original Taiwan context]           |
-| `fix-wikilinks-v2.mjs`           | node   | [Amharic translation needed - original Taiwan context] wikilink [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] rename）  |
-| `fix-all-frontmatter.py`         | python | [Amharic translation needed - original Taiwan context] frontmatter [Amharic translation needed - original Taiwan context]    |
-| `cache-images.sh`                | bash   | [Amharic translation needed - original Taiwan context]               |
-| `cache-images-v2.sh`             | bash   | [Amharic translation needed - original Taiwan context] v2（[Amharic translation needed - original Taiwan context] Wikimedia Commons）  |
-| `cache-and-replace.py`           | python | [Amharic translation needed - original Taiwan context] + [Amharic translation needed - original Taiwan context] markdown [Amharic translation needed - original Taiwan context]    |
-| `download-wiki-images.mjs`       | node   | [Amharic translation needed - original Taiwan context]                 |
-| `replace-wiki-urls.py`           | python | [Amharic translation needed - original Taiwan context] URL [Amharic translation needed - original Taiwan context]      |
-| `replace-wiki-urls.sh`           | bash   | Shell [Amharic translation needed - original Taiwan context] URL [Amharic translation needed - original Taiwan context]            |
-| `i18n-status.py`                 | python | [Amharic translation needed - original Taiwan context]             |
-| `translation-sync-report.sh`     | bash   | [Amharic translation needed - original Taiwan context]                     |
-| `generate-translation-issues.sh` | bash   | [Amharic translation needed - original Taiwan context] GitHub issues     |
-| `publish.sh`                     | bash   | [Amharic translation needed - original Taiwan context]                         |
-| `test-wikilinks.mjs`             | node   | Wikilink [Amharic translation needed - original Taiwan context]                |
+These were written for the Taiwan.md fork and the rebrand. They change many files at once, and they may no longer match the current content. Do not run them without reading them first.
 
-## ⚫ deprecated/ — [Amharic translation needed - original Taiwan context]
+- `rename-am-files.mjs`, `fix-wikilinks.mjs`, `fix-wikilinks-v2.mjs`, `replace-wiki-urls.py`, `replace-wiki-urls.sh`
+- `cache-images.sh`, `cache-images-v2.sh`, `cache-and-replace.py`, `download-wiki-images.mjs`
+- `fix-all-frontmatter.py`, `generate-translation-issues.sh`, `translation-sync-report.sh`
 
-| [Amharic translation needed - original Taiwan context]                     | [Amharic translation needed - original Taiwan context]                         |
-| ------------------------ | ---------------------------- |
-| `fix-all-frontmatter.py` | [Amharic translation needed - original Taiwan context] test-frontmatter.mjs [Amharic translation needed - original Taiwan context] |
-| `fix-hub-frontmatter.sh` | [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]           |
-| `quick-fix-hubs.py`      | [Amharic translation needed - original Taiwan context]                         |
-| `sync-knowledge.sh`      | [Amharic translation needed - original Taiwan context] core/sync.sh [Amharic translation needed - original Taiwan context]         |
+## `scripts/deprecated/`
 
-## 📄 [Amharic translation needed - original Taiwan context]
+Kept for reference only. Nothing in the build or the workflows calls these scripts.
 
-| [Amharic translation needed - original Taiwan context]                | [Amharic translation needed - original Taiwan context]                          |
-| ------------------- | ----------------------------- |
-| `i18n-mapping.json` | [Amharic translation needed - original Taiwan context]→[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]） |
+## Conventions
 
----
-
-_[Amharic translation needed - original Taiwan context]：2026-03-28_
+- Scripts must not write under `src/content/` directly. Change `knowledge/` and run `npm run sync`.
+- Generated files under `public/api/` and `src/data/` are overwritten on each build. Commit them only when the change is intended.
+- Keep script comments and output in English so that contributors can read them.
