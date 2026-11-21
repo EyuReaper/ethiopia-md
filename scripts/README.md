@@ -13,7 +13,7 @@ This folder holds the build, validation and maintenance scripts for Ethiopia.md.
 | `npm run sync`                            | Copies `knowledge/` into `src/content/` with `scripts/core/sync.sh`.            |
 | `npm run sync:build`                      | Runs `sync`, then `astro build`.                                                |
 | `npm run check-images`                    | Runs `scripts/utils/check-images.mjs`.                                          |
-| `npm run check-links`                     | Runs `scripts/utils/check-links.sh`.                                            |
+| `npm run check-links`                     | Runs `scripts/utils/check-links.mjs`.                                           |
 | `npm run format::check` / `format::write` | Prettier check and write across the repository.                                 |
 
 `prebuild` runs three generators in order: `scripts/core/generate-api.js`, `scripts/core/build-search-index.mjs` and `scripts/core/generate-dashboard-data.js`. They read `knowledge/` and write static JSON under `public/`. `postbuild` runs `scripts/core/post-build-check.mjs` against `dist/`.
@@ -49,15 +49,15 @@ Editorial and maintenance helpers. Run them from the repository root.
 
 ## `scripts/utils/`
 
-| File                        | Purpose                                                                                                                                 |
-| --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| `check-images.mjs`          | Checks image references. Used by `npm run check-images`.                                                                                |
-| `check-links.sh`            | Checks links. Used by `npm run check-links`.                                                                                            |
-| `check-references.mjs`      | Checks that each article has a references or further-reading section with at least one URL. `--strict` makes failures fatal.            |
-| `check-translation-sync.sh` | Lists recently changed Amharic articles and the English files that may need updating. See `docs/editorial/TRANSLATION-SYNC.md`.         |
-| `i18n-status.py`            | Generates the translation progress JSON.                                                                                                |
-| `test-wikilinks.mjs`        | Checks that wikilinks resolve.                                                                                                          |
-| `publish.sh`                | Runs sync, frontmatter fixes, build and push in one step, then commits with the message you give. It pushes, so read it before running. |
+| File                        | Purpose                                                                                                                                                                        |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `check-images.mjs`          | Checks image references. Used by `npm run check-images`.                                                                                                                       |
+| `check-links.mjs`           | Requests every URL found in `knowledge/` once and reports OK, BLOCKED (bot-blocking sites to check by hand), DEAD (404/410) and ERROR. Use `--out report.md` to save a report. |
+| `check-references.mjs`      | Checks that each article has a references or further-reading section with at least one URL. `--strict` makes failures fatal.                                                   |
+| `check-translation-sync.sh` | Lists recently changed Amharic articles and the English files that may need updating. See `docs/editorial/TRANSLATION-SYNC.md`.                                                |
+| `i18n-status.py`            | Generates the translation progress JSON.                                                                                                                                       |
+| `test-wikilinks.mjs`        | Checks that wikilinks resolve.                                                                                                                                                 |
+| `publish.sh`                | Runs sync, frontmatter fixes, build and push in one step, then commits with the message you give. It pushes, so read it before running.                                        |
 
 ### One-off migration scripts
 
