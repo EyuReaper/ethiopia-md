@@ -79,17 +79,21 @@ export async function ensureData(options = {}) {
 
   if (!options.quiet) {
     console.log(
-      chalk.bold('\n  🌐 Ethiopia.md 知識庫尚未下載，正在自動同步...\n'),
+      chalk.bold(
+        '\n  Ethiopia.md knowledge base not found locally; syncing...\n',
+      ),
     );
-    console.log(chalk.gray('  (首次使用需要一點時間，之後會很快)\n'));
+    console.log(
+      chalk.gray('  (The first sync takes a moment; later runs are fast.)\n'),
+    );
   }
 
   try {
     await runSync({ silent: false });
     _synced = true;
   } catch (err) {
-    console.error(chalk.red(`\n  ❌ 自動同步失敗: ${err.message}\n`));
-    console.log(chalk.gray('  請手動執行: ethiopiamd sync\n'));
+    console.error(chalk.red(`\n  Automatic sync failed: ${err.message}\n`));
+    console.log(chalk.gray('  Run "ethiopiamd sync" manually.\n'));
     // Don't exit — let the calling command handle missing data gracefully
   }
 }

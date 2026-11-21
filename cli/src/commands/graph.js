@@ -198,14 +198,16 @@ function drawGraph(centerTitle, centerCat, links) {
 export function graphCommand(program) {
   program
     .command('graph <slug>')
-    .description('顯示文章的 [[wikilink]] 關聯圖')
+    .description('Show the [[wikilink]] relationship graph for an article')
     .action(async (slug) => {
       try {
         await ensureData();
         const articleFiles = getArticleFiles();
 
         if (!articleFiles || articleFiles.length === 0) {
-          console.log(chalk.yellow('\n  找不到文章，請先執行 ethiopiamd sync\n'));
+          console.log(
+            chalk.yellow('\n  找不到文章，請先執行 ethiopiamd sync\n'),
+          );
           return;
         }
 

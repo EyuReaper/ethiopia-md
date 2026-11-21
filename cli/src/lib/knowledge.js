@@ -22,8 +22,14 @@ const STANDALONE_DATA_DIR = path.join(os.homedir(), '.ethiopiamd');
 const STANDALONE_KNOWLEDGE_DIR = path.join(STANDALONE_DATA_DIR, 'knowledge');
 const STANDALONE_CACHE_DIR = path.join(STANDALONE_DATA_DIR, 'cache');
 
-// Language subdirectories and special files to exclude from am article listing
-const EXCLUDED_DIRS = new Set(['en', 'resources']);
+// Supported languages: am (Amharic, default, lives at knowledge/ root) and en (knowledge/en/)
+export const SUPPORTED_LANGS = ['am', 'en'];
+
+// Top-level directories that are never part of the Amharic article listing
+const EXCLUDED_DIRS = new Set(['en', 'es', 'ja', 'resources']);
+
+// Articles with these frontmatter statuses are hidden everywhere
+const HIDDEN_STATUSES = new Set(['draft', 'archived']);
 
 /**
  * Determine if we are running inside the repo (i.e. ../knowledge/ exists).
@@ -74,8 +80,35 @@ export function isKnowledgeAvailable() {
 }
 
 /**
- * Recursively collect all am article markdown file paths.
- * Excludes: files starting with _, language dirs (en/es/ja), resources dir.
+ * Returns true if the given language code is supported by the CLI.
+ */
+export function isSupportedLang(lang) {
+  return SUPPORTED_LANGS.includes(lang);
+}
+
+/**
+ * Decide whether a markdown file should be visible to the CLI.
+ * - status: draft / archived  -> hidden
+ * - status: published         -> visible (includes _-prefixed Hub files)
+ * - no status                 -> visible unless the filename starts with _
+ *                                (_Home.md and similar are internal notes)
+ */
+function isVisibleArticle(filePath, fileName) {
+  let status = null;
+  try {
+    const content = fs.readFileSync(filePath, 'utf8');
+    status = parseFrontmatter(content).frontmatter.status ?? null;
+  } catch {
+    return false;
+  }
+  if (HIDDEN_STATUSES.has(status)) return false;
+  if (status === 'published') return true;
+  return !fileName.startsWith('_');
+}
+
+/**
+ * Recursively collect all visible am article markdown file paths.
+ * Excludes language dirs (en/es/ja), the resources dir, and hidden articles.
  */
 export function getArticleFiles() {
   const knowledgeDir = getKnowledgePath();
@@ -87,17 +120,18 @@ export function getArticleFiles() {
 }
 
 /**
- * Collect all article markdown files for a given language.
- * For lang 'zh' (default), delegates to getArticleFiles().
- * For other langs (en, ja, es), scans knowledge/{lang}/ directory.
+ * Collect all visible article files for a supported language.
+ * 'am' delegates to getArticleFiles(); 'en' scans knowledge/en/.
+ * Unsupported languages return [] (callers should check isSupportedLang first).
  *
- * @param {string} lang - Language code: 'en' or 'am'
+ * @param {string} lang - Language code: 'am' or 'en'
  * @returns {string[]} Array of absolute file paths
  */
 export function getArticleFilesForLang(lang) {
-  if (!lang || lang === 'zh' || lang === 'am') {
+  if (!lang || lang === 'am') {
     return getArticleFiles();
   }
+  if (!isSupportedLang(lang)) return [];
 
   const knowledgeDir = getKnowledgePath();
   const langDir = path.join(knowledgeDir, lang);
@@ -119,7 +153,7 @@ export function getArticleFilesForLang(lang) {
       } else if (
         entry.isFile() &&
         entry.name.endsWith('.md') &&
-        !entry.name.startsWith('_')
+        isVisibleArticle(fullPath, entry.name)
       ) {
         results.push(fullPath);
       }
@@ -152,7 +186,7 @@ function collectArticleFiles(dir, rootDir, results) {
     } else if (
       entry.isFile() &&
       entry.name.endsWith('.md') &&
-      !entry.name.startsWith('_')
+      isVisibleArticle(fullPath, entry.name)
     ) {
       results.push(fullPath);
     }
@@ -308,10 +342,12 @@ export function readArticle(filePath) {
   // Derive slug from filename
   const slug = path.basename(filePath, '.md');
 
-  // Derive category from directory path
+  // Derive category from directory path (skip the en/ prefix for English files)
   const knowledgeDir = getKnowledgePath();
-  const relativePath = path.relative(knowledgeDir, filePath);
-  const category = relativePath.split(path.sep)[0] || 'Misc';
+  const parts = path.relative(knowledgeDir, filePath).split(path.sep);
+  const lang = parts[0] === 'en' ? 'en' : 'am';
+  if (parts[0] === 'en') parts.shift();
+  const category = parts.length > 1 ? parts[0] : 'Misc';
 
   // Calculate word count from body
   const wordCount = calculateWordCount(body);
@@ -322,6 +358,8 @@ export function readArticle(filePath) {
       description: frontmatter.description || '',
       date: frontmatter.date || null,
       tags: frontmatter.tags,
+      status: frontmatter.status || null,
+      lang,
       featured: frontmatter.featured === true,
       lastHumanReview: frontmatter.lastHumanReview ?? null,
       lastVerified: frontmatter.lastVerified || null,
@@ -334,4 +372,38 @@ export function readArticle(filePath) {
     body,
     filePath,
   };
+}
+
+/**
+ * Load visible article records for a language, shaped for list/explore/quiz.
+ * Built from knowledge/ so draft and archived articles are never included.
+ *
+ * @param {string} [lang='am'] - 'am' or 'en'
+ * @returns {Array<object>}
+ */
+export function loadArticleRecords(lang = 'am') {
+  const records = [];
+  for (const filePath of getArticleFilesForLang(lang)) {
+    try {
+      const { frontmatter: fm } = readArticle(filePath);
+      records.push({
+        title: fm.title,
+        slug: fm.slug,
+        category: fm.category,
+        description: fm.description,
+        date: fm.date,
+        lastVerified: fm.lastVerified,
+        lastHumanReview: fm.lastHumanReview,
+        humanReviewed: fm.lastHumanReview === true,
+        featured: fm.featured,
+        tags: fm.tags,
+        wordCount: fm.wordCount,
+        words: fm.wordCount,
+        lang: fm.lang,
+      });
+    } catch {
+      // skip unreadable files
+    }
+  }
+  return records;
 }

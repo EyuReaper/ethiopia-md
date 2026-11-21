@@ -1,246 +1,149 @@
 # ethiopiamd
 
-> CLI for [Ethiopia.md](https://ethiopia.md) — the open-source, AI-native knowledge base about Ethiopia.
+> Command-line tool for [Ethiopia.md](https://ethiopia.md), the open-source, AI-native knowledge base about Ethiopia.
 
-Search, read, and explore 900+ curated articles about Ethiopia from your terminal.
+Search and read published Ethiopia.md articles from your terminal. Articles are written in Amharic first, with English translations. Only articles marked `published` are shown; drafts and archived pages are never listed, searched or read.
 
-## Install
+The package is not yet published to npm, so run it from a clone of this repository.
 
-```bash
-npm install -g ethiopiamd
-```
+## Install and run
 
-Or run without installing:
+Requires Node.js 18 or later.
 
 ```bash
-npx ethiopiamd search [Amharic translation needed - original Taiwan context]
+cd cli
+npm install
+node src/index.js --help
 ```
+
+To get an `ethiopiamd` command on your PATH from the local clone:
+
+```bash
+cd cli
+npm link
+ethiopiamd --help
+```
+
+When run inside the repository, the CLI reads `knowledge/` directly, so it always reflects your checkout. Outside the repository, it syncs the knowledge base to `~/.ethiopiamd/knowledge/` on first use (see `sync`).
+
+## Languages
+
+- `am` (Amharic) is the default and the source of truth.
+- `en` (English) is available with `--en` or `--lang en`.
+
+No other language codes are supported.
 
 ## Commands
 
+Examples below use commands that return results from the current published corpus.
+
 ### `ethiopiamd search <query>`
 
-Search articles with fuzzy matching (supports Chinese and English).
+Search published articles by title, tags and description.
 
 ```bash
-ethiopiamd search [Amharic translation needed - original Taiwan context]
-ethiopiamd search semiconductor --limit 3
-ethiopiamd search [Amharic translation needed - original Taiwan context] --json          # JSON output for piping
+node src/index.js search adwa                 # Amharic results (default)
+node src/index.js search adwa --en            # English results
+node src/index.js search adwa --json          # JSON output
+node src/index.js search injera --limit 3     # Limit the number of results
 ```
 
 ### `ethiopiamd read <slug>`
 
-Read an article directly in the terminal with formatted rendering.
+Render an article in the terminal. The slug is the file name without `.md`.
 
 ```bash
-ethiopiamd read [Amharic translation needed - original Taiwan context]                # Terminal-rendered markdown
-ethiopiamd read [Amharic translation needed - original Taiwan context] --raw          # Raw markdown (ideal for LLM/RAG)
-ethiopiamd read [Amharic translation needed - original Taiwan context] --en           # English version
-ethiopiamd read [Amharic translation needed - original Taiwan context] --web          # Open in browser
+node src/index.js read battle-of-adwa              # Amharic
+node src/index.js read injera-and-teff --en        # English
+node src/index.js read battle-of-adwa --raw        # Raw Markdown, for scripts and LLMs
+node src/index.js read battle-of-adwa --web        # Open on ethiopia.md (macOS `open`)
 ```
+
+If an English version does not exist, `read --en` shows the Amharic original and says so.
 
 ### `ethiopiamd list [category]`
 
-Browse articles by category.
+Browse published articles by category.
 
 ```bash
-ethiopiamd list --categories             # Show all 13 categories
-ethiopiamd list food                     # List food articles
-ethiopiamd list people --sort words      # Sort by word count
-ethiopiamd list --reviewed               # Only human-reviewed articles
-ethiopiamd list --featured               # Only featured articles
-ethiopiamd list economy --json           # JSON output
+node src/index.js list --categories           # Categories with article counts
+node src/index.js list history                # Articles in one category
+node src/index.js list history --sort title   # Sort by date (default), words or title
+node src/index.js list --featured --json      # Only featured articles, as JSON
 ```
-
-Categories: history, geography, culture, food, art, music, technology, nature, people, society, economy, lifestyle, about.
 
 ### `ethiopiamd random`
 
-Discover a random article about Ethiopia.
-
 ```bash
-ethiopiamd random                        # Any category
-ethiopiamd random --category nature      # Random nature article
+node src/index.js random
+node src/index.js random --category food
 ```
 
-### `ethiopiamd stats`
+### `ethiopiamd today`
 
-Show project statistics and organism health scores.
-
-```bash
-ethiopiamd stats                         # Formatted display
-ethiopiamd stats --json                  # JSON output
-```
-
-### `ethiopiamd sync`
-
-Sync the knowledge base locally for offline access.
-
-```bash
-ethiopiamd sync                          # Initial sync or update
-ethiopiamd sync --force                  # Force re-sync
-```
-
-Syncs to `~/.ethiopiamd/knowledge/` via git sparse-checkout.
+Shows a daily pick of published articles and facts.
 
 ### `ethiopiamd rag <query>`
 
-Retrieve top articles and output them in a prompt-ready format for piping to LLMs (Retrieval-Augmented Generation).
+Retrieve the top matching articles as prompt-ready context for an LLM.
 
 ```bash
-ethiopiamd rag [Amharic translation needed - original Taiwan context]                         # Top 3 articles as context
-ethiopiamd rag "[Amharic translation needed - original Taiwan context]" | llm "summarize"   # Pipe directly to an LLM
-ethiopiamd rag "Ethiopia[Amharic translation needed - original Taiwan context]" --limit 1             # Retrieve only 1 article
-ethiopiamd rag "[Amharic translation needed - original Taiwan context]" --no-prompt         # Skip the trailing question line
-ethiopiamd rag "Ethiopia[Amharic translation needed - original Taiwan context]" --json               # Structured JSON output
+node src/index.js rag "Adwa" --limit 1 --no-prompt
+node src/index.js rag "Ethiopian coffee ceremony" | llm "Summarize this"
 ```
 
-**Output format** (default):
+Options: `-l, --limit <n>` (default 3), `--no-prompt`, `--json`.
 
-```
-# Ethiopia Knowledge Context
+### `ethiopiamd graph <slug>`
 
-## 1. {title} ({category})
-{full article body}
-
----
-Based on the above context about Ethiopia, answer the following question:
-{query}
-```
-
-**Options:**
-
-- `-l, --limit <n>` — Number of articles to retrieve (default: 3)
-- `--no-prompt` — Omit the trailing question line (useful for custom prompts)
-- `--json` — Return structured JSON: `{ query, articles: [{ title, category, slug, body }] }`
-
-### `ethiopiamd contribute <topic>`
-
-Interactive guided workflow for creating a new article.
-
-```bash
-ethiopiamd contribute "[Amharic translation needed - original Taiwan context]"
-```
-
-The wizard will:
-
-1. Show the 13 categories and ask you to pick one
-2. Auto-generate a frontmatter template
-3. Create an article skeleton with standard sections ([Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context], [Amharic translation needed - original Taiwan context])
-4. Write the file to `knowledge/{Category}/{slug}.md` (in-repo) or `~/.ethiopiamd/drafts/{slug}.md` (standalone)
-5. Print the file path and next steps
+Show the `[[wikilink]]` relationships around one article.
 
 ### `ethiopiamd validate <slug>`
 
-Quality-check a single article and output a detailed score card.
+Score one article for editorial quality: frontmatter fields, length, `##` headings, reference links, and common AI filler phrases. Use `--json` for CI and `--fix` for suggested changes.
+
+### `ethiopiamd stats`
+
+Project statistics and dashboard health scores. `--json` for machine-readable output.
+
+### `ethiopiamd sync`
+
+Clone or update the knowledge base into `~/.ethiopiamd/knowledge/` (git sparse checkout). Use `--force` to re-clone.
+
+### `ethiopiamd quiz`, `explore`, `diff`, `contribute`
+
+- `quiz`: five true/false questions about Ethiopia.
+- `explore`: interactive terminal search.
+- `diff`: article changes over recent days (`--days <n>`).
+- `contribute <topic>`: guided creation of a new article skeleton.
+
+## For AI and scripting
 
 ```bash
-ethiopiamd validate [Amharic translation needed - original Taiwan context]             # Human-readable score card
-ethiopiamd validate Ethiopia[Amharic translation needed - original Taiwan context] --json      # JSON output for CI/scripting
-ethiopiamd validate [Amharic translation needed - original Taiwan context] --fix         # Show suggested fixes
-```
-
-**Checks:**
-
-| Check                                                              | Criteria                                                                        | Points |
-| ------------------------------------------------------------------ | ------------------------------------------------------------------------------- | ------ |
-| Frontmatter [Amharic translation needed - original Taiwan context] | All 5 fields present (title, description, date, tags, category)                 | 20     |
-| [Amharic translation needed - original Taiwan context]             | ≥ 800 words                                                                     | 20     |
-| [Amharic translation needed - original Taiwan context]             | ≥ 3 `##` headings                                                               | 20     |
-| [Amharic translation needed - original Taiwan context]             | ≥ 2 Markdown reference links                                                    | 20     |
-| AI [Amharic translation needed - original Taiwan context]          | No hollow phrases like "[Amharic translation needed - original Taiwan context]" | 10     |
-| [Amharic translation needed - original Taiwan context]             | 50–200 characters                                                               | 10     |
-
-**Score tiers:** 🟢 [Amharic translation needed - original Taiwan context] (90+) / 🟡 [Amharic translation needed - original Taiwan context] (70–89) / 🔴 [Amharic translation needed - original Taiwan context] (<70)
-
-## For AI/LLM Integration
-
-The `--raw`, `--json`, and `rag` commands make it easy to pipe Ethiopia knowledge into AI workflows:
-
-```bash
-# RAG: retrieve context and pipe to LLM
-ethiopiamd rag "Ethiopia[Amharic translation needed - original Taiwan context]" | llm "Explain Ethiopia's role in global chip supply"
-
-# Feed an article into an LLM prompt
-ethiopiamd read [Amharic translation needed - original Taiwan context] --raw | llm "Summarize this article"
+# Pipe an article into an LLM
+node src/index.js read battle-of-adwa --raw | llm "Summarize this article"
 
 # Export search results as JSON
-ethiopiamd search "Ethiopia[Amharic translation needed - original Taiwan context]" --json | jq '.[].title'
-
-# Build a RAG corpus
-ethiopiamd list --json | jq -r '.[].slug' | while read slug; do
-  ethiopiamd read "$slug" --raw > "corpus/$slug.md"
-done
+node src/index.js search "Ethiopia" --json | jq '.[].title'
 ```
-
-## For Contributors
-
-Want to add or improve an article? Follow this workflow:
-
-### 1. Create a draft
-
-```bash
-ethiopiamd contribute "[Amharic translation needed - original Taiwan context]"
-```
-
-The wizard creates a properly structured article template.
-
-### 2. Edit the article
-
-Open the file (path shown after `contribute`) and fill in:
-
-- Replace placeholder text with real, well-sourced content
-- Add at least 3 `##` headings
-- Include at least 2 reference links
-- Keep the description between 50–200 characters
-
-### 3. Validate quality
-
-```bash
-ethiopiamd validate <slug>
-ethiopiamd validate <slug> --fix   # See suggested improvements
-```
-
-Aim for **90+/100** before submitting.
-
-### 4. Submit a Pull Request
-
-```bash
-git add knowledge/{Category}/{slug}.md
-git commit -m "feat(knowledge): add article on {topic}"
-git push origin your-branch
-# Then open a PR at https://github.com/EyuReaper/ethiopia-md
-```
-
-### Article Quality Guidelines
-
-- **Minimum 800 words** — give readers something substantial
-- **Cite your sources** — at least 2 Markdown links to reputable references
-- **Avoid AI hollow phrases** — "[Amharic translation needed - original Taiwan context]", "[Amharic translation needed - original Taiwan context]", etc.
-- **Standard sections**: [Amharic translation needed - original Taiwan context] → [Amharic translation needed - original Taiwan context] → [Amharic translation needed - original Taiwan context] → [Amharic translation needed - original Taiwan context] → [Amharic translation needed - original Taiwan context]
 
 ## Development
 
 ```bash
-# Run from the repo
-cd cli && npm install
-node src/index.js search [Amharic translation needed - original Taiwan context]
-
-# Link for local development
-cd cli && npm link
-ethiopiamd --help
+cd cli
+npm install
+node src/index.js --help
+node --check src/index.js        # quick syntax check
 ```
 
-## Claude Code Skills
+Visibility rules live in `src/lib/knowledge.js` (`isVisibleArticle`):
 
-This project includes Claude Code skills in `.claude/skills/`:
-
-- **`/ethiopiamd-search`** — Search the knowledge base from within Claude Code
-- **`/ethiopiamd-validate`** — Validate article quality and frontmatter
+- `status: published` articles are shown, including `_`-prefixed Hub files.
+- `status: draft` and `status: archived` articles are hidden everywhere.
+- Files without a `status` are shown unless their name starts with `_`.
 
 ## Links
 
 - Website: [ethiopia.md](https://ethiopia.md)
-- Dashboard: [ethiopia.md/dashboard](https://ethiopia.md/dashboard)
 - GitHub: [EyuReaper/ethiopia-md](https://github.com/EyuReaper/ethiopia-md)
-- npm: [npmjs.com/package/ethiopiamd](https://www.npmjs.com/package/ethiopiamd)
+- Claude Code skills: `/ethiopiamd-search` and `/ethiopiamd-validate` in `.claude/skills/`

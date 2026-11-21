@@ -3,6 +3,7 @@ import Table from 'cli-table3';
 import { searchArticles } from '../lib/search.js';
 import { categoryEmoji, categoryLabel } from '../lib/render.js';
 import { ensureData } from '../lib/ensure-data.js';
+import { SUPPORTED_LANGS, isSupportedLang } from '../lib/knowledge.js';
 
 /**
  * Build a visual score bar (8 chars wide).
@@ -20,20 +21,35 @@ function scoreBar(score, maxScore) {
 export function searchCommand(program) {
   program
     .command('search <query>')
-    .description('Search Ethiopia.md knowledge base')
-    .option('-l, --limit <n>', 'Max results', '10')
-    .option('--lang <lang>', 'Language', 'am')
+    .description('Search published Ethiopia.md articles (Amharic by default)')
+    .option('-l, --limit <n>', 'Maximum number of results', '10')
+    .option('--lang <lang>', `Language: ${SUPPORTED_LANGS.join(' or ')}`, 'am')
+    .option('--en', 'Search the English translations (shorthand for --lang en)')
     .option('--json', 'Output as JSON')
     .action(async (query, opts) => {
       try {
+        const lang = opts.en ? 'en' : opts.lang;
+        if (!isSupportedLang(lang)) {
+          console.error(
+            chalk.red(
+              `Unsupported language "${lang}". Use: ${SUPPORTED_LANGS.join(', ')}.`,
+            ),
+          );
+          process.exit(1);
+        }
+
         await ensureData();
         const limit = parseInt(opts.limit, 10) || 10;
-        const results = await searchArticles(query, { limit, lang: opts.lang });
+        const results = await searchArticles(query, { limit, lang });
 
         if (!results || results.length === 0) {
-          console.log(chalk.yellow(`\n  🔍 搜尋「${query}」— 找到 0 篇\n`));
           console.log(
-            chalk.gray('  試試其他關鍵字，或用 ethiopiamd list 瀏覽所有文章。\n'),
+            chalk.yellow(`\n  No published articles match "${query}".\n`),
+          );
+          console.log(
+            chalk.gray(
+              '  Try other keywords, or run "ethiopiamd list" to browse by category.\n',
+            ),
           );
           return;
         }
@@ -47,16 +63,16 @@ export function searchCommand(program) {
 
         console.log(
           chalk.bold(
-            `\n  🔍 搜尋「${chalk.cyan(query)}」— 找到 ${chalk.green(results.length)} 篇\n`,
+            `\n  Results for "${chalk.cyan(query)}": ${chalk.green(results.length)} article(s)\n`,
           ),
         );
 
         const table = new Table({
           head: [
             chalk.gray('#'),
-            chalk.gray('分類'),
-            chalk.gray('標題'),
-            chalk.gray('相關度'),
+            chalk.gray('Category'),
+            chalk.gray('Title'),
+            chalk.gray('Relevance'),
           ],
           chars: {
             top: '',
@@ -94,9 +110,11 @@ export function searchCommand(program) {
         });
 
         console.log(table.toString());
-        console.log(chalk.gray(`\n  💡 ethiopiamd read <slug>  →  閱讀全文\n`));
+        console.log(
+          chalk.gray(`\n  Read an article: ethiopiamd read <slug>\n`),
+        );
       } catch (err) {
-        console.error(chalk.red(`搜尋失敗: ${err.message}`));
+        console.error(chalk.red(`Search failed: ${err.message}`));
         process.exit(1);
       }
     });

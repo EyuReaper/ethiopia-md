@@ -1,7 +1,5 @@
 import chalk from 'chalk';
-import { readFileSync } from 'fs';
-import { join } from 'path';
-import { getApiPath } from '../lib/knowledge.js';
+import { loadArticleRecords } from '../lib/knowledge.js';
 import {
   renderArticleHeader,
   categoryEmoji,
@@ -10,13 +8,10 @@ import {
 import { ensureData } from '../lib/ensure-data.js';
 
 /**
- * Load dashboard-articles.json from the API path.
+ * Load visible (published) article records.
  */
 function loadArticles() {
-  const apiPath = getApiPath();
-  const filePath = join(apiPath, 'dashboard-articles.json');
-  const raw = readFileSync(filePath, 'utf-8');
-  return JSON.parse(raw);
+  return loadArticleRecords('am');
 }
 
 /**
@@ -52,7 +47,9 @@ export function randomCommand(program) {
           console.log(chalk.yellow('\n  找不到文章。\n'));
           if (opts.category) {
             console.log(
-              chalk.gray('  💡 ethiopiamd list --categories  →  查看所有分類\n'),
+              chalk.gray(
+                '  💡 ethiopiamd list --categories  →  查看所有分類\n',
+              ),
             );
           } else {
             console.log(
@@ -102,7 +99,9 @@ export function randomCommand(program) {
         console.log('');
       } catch (err) {
         console.error(chalk.red(`載入失敗: ${err.message}`));
-        console.log(chalk.gray('\n  💡 請先執行 ethiopiamd sync 同步知識庫。\n'));
+        console.log(
+          chalk.gray('\n  💡 請先執行 ethiopiamd sync 同步知識庫。\n'),
+        );
         process.exit(1);
       }
     });

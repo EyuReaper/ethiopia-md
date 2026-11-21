@@ -6,23 +6,17 @@
  */
 
 import chalk from 'chalk';
-import { readFileSync } from 'fs';
-import { join } from 'path';
-import { getApiPath } from '../lib/knowledge.js';
+import { loadArticleRecords } from '../lib/knowledge.js';
 import { categoryEmoji, categoryLabel } from '../lib/render.js';
 import { ensureData } from '../lib/ensure-data.js';
 
 const TOTAL_QUESTIONS = 5;
 
 /**
- * Load dashboard-articles.json.
+ * Load visible (published) article records.
  */
 function loadArticles() {
-  const apiPath = getApiPath();
-  const filePath = join(apiPath, 'dashboard-articles.json');
-  const raw = readFileSync(filePath, 'utf-8');
-  const data = JSON.parse(raw);
-  return Array.isArray(data) ? data : data.articles || [];
+  return loadArticleRecords('am');
 }
 
 /**
@@ -60,7 +54,8 @@ function readKey() {
  * Get a final rating string based on score.
  */
 function getRating(score) {
-  if (score === TOTAL_QUESTIONS) return chalk.bold.yellow('🏆 滿分！Ethiopia通！');
+  if (score === TOTAL_QUESTIONS)
+    return chalk.bold.yellow('🏆 滿分！Ethiopia通！');
   if (score >= 4) return chalk.bold.green('🎉 非常棒！');
   if (score >= 3) return chalk.bold.cyan('👍 不錯喔！');
   if (score >= 2) return chalk.bold.white('📚 繼續加油！');
@@ -70,7 +65,7 @@ function getRating(score) {
 export function quizCommand(program) {
   program
     .command('quiz')
-    .description('Ethiopia知識小測驗 — 5題真假判斷')
+    .description('Quick quiz: five true/false questions about Ethiopia')
     .action(async () => {
       try {
         await ensureData();

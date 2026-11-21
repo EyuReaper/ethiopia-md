@@ -9,7 +9,11 @@ import readline from 'readline';
 import chalk from 'chalk';
 import { readFileSync } from 'fs';
 import { join } from 'path';
-import { getApiPath, getArticleFiles, readArticle } from '../lib/knowledge.js';
+import {
+  getArticleFiles,
+  loadArticleRecords,
+  readArticle,
+} from '../lib/knowledge.js';
 import {
   categoryEmoji,
   categoryLabel,
@@ -33,15 +37,7 @@ const MAX_RESULTS = 10;
  * Load all articles for quick substring fallback.
  */
 function loadArticles() {
-  const apiPath = getApiPath();
-  const filePath = join(apiPath, 'dashboard-articles.json');
-  try {
-    const raw = readFileSync(filePath, 'utf-8');
-    const data = JSON.parse(raw);
-    return Array.isArray(data) ? data : data.articles || [];
-  } catch {
-    return [];
-  }
+  return loadArticleRecords('am');
 }
 
 /**
@@ -172,14 +168,16 @@ function waitAnyKey() {
 export function exploreCommand(program) {
   program
     .command('explore')
-    .description('互動搜尋 TUI — 即時模糊搜尋文章')
+    .description('Interactive terminal UI with live article search')
     .action(async () => {
       try {
         await ensureData();
         const allArticles = loadArticles();
 
         if (!allArticles || allArticles.length === 0) {
-          console.log(chalk.yellow('\n  找不到文章，請先執行 ethiopiamd sync\n'));
+          console.log(
+            chalk.yellow('\n  找不到文章，請先執行 ethiopiamd sync\n'),
+          );
           return;
         }
 

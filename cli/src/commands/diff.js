@@ -152,8 +152,8 @@ function getLastMtime(knowledgeDir) {
 export function diffCommand(program) {
   program
     .command('diff')
-    .description('顯示近 7 天知識庫的文章變更')
-    .option('--days <n>', '顯示最近 N 天', '7')
+    .description('Show article changes from the last few days')
+    .option('--days <n>', 'Number of days to look back', '7')
     .action(async (opts) => {
       try {
         await ensureData();

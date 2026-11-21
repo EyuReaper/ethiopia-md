@@ -1,7 +1,7 @@
 {
   "name": "ethiopiamd",
   "version": "0.4.1",
-  "description": "CLI for Ethiopia.md — search, read, and explore 900+ curated articles about Ethiopia from your terminal.",
+  "description": "CLI for Ethiopia.md: search and read the published, Amharic-first knowledge base about Ethiopia, with English translations.",
   "type": "module",
   "bin": {
     "ethiopiamd": "src/index.js"
@@ -30,7 +30,6 @@
     "cli-table3": "^0.6.5",
     "commander": "^12.1.0",
     "marked": "^15.0.0",
-    "marked-terminal": "^7.3.0",
-    "minisearch": "^7.2.0"
+    "marked-terminal": "^7.3.0"
   }
 }

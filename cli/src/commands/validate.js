@@ -23,9 +23,18 @@ const HOLLOW_PATTERNS = [
   { pattern: /it is important to note/gi, label: '"it is important to note"' },
   { pattern: /plays a crucial role/gi, label: '"plays a crucial role"' },
   { pattern: /an indispensable part/gi, label: '"an indispensable part"' },
-  { pattern: /is of great significance/gi, label: '"is of great significance"' },
-  { pattern: /a multi-faceted approach/gi, label: '"a multi-faceted approach"' },
-  { pattern: /in the grand scheme of things/gi, label: '"in the grand scheme of things"' },
+  {
+    pattern: /is of great significance/gi,
+    label: '"is of great significance"',
+  },
+  {
+    pattern: /a multi-faceted approach/gi,
+    label: '"a multi-faceted approach"',
+  },
+  {
+    pattern: /in the grand scheme of things/gi,
+    label: '"in the grand scheme of things"',
+  },
   { pattern: /it is worth considering/gi, label: '"it is worth considering"' },
 ];
 
@@ -45,7 +54,8 @@ const DESC_MAX = 200;
 function countWords(text) {
   if (!text) return 0;
   // Match Amharic and CJK characters
-  const nonLatinRegex = /[\u1200-\u137F\u4e00-\u9fff\u3400-\u4dbf\uf900-\ufaff]/g;
+  const nonLatinRegex =
+    /[\u1200-\u137F\u4e00-\u9fff\u3400-\u4dbf\uf900-\ufaff]/g;
   const nonLatinCount = (text.match(nonLatinRegex) || []).length;
   const withoutNonLatin = text.replace(nonLatinRegex, ' ');
   const latinWords = withoutNonLatin
@@ -102,7 +112,7 @@ function runChecks(frontmatter, body) {
     maxPoints: 20,
     fix: fmPass
       ? null
-        `የጎደሉ መስኮችን ያሟሉ: ${fmFields.filter((f) => !fmPresent.includes(f)).join(', ')}`,
+      : `የጎደሉ መስኮችን ያሟሉ: ${fmFields.filter((f) => !fmPresent.includes(f)).join(', ')}`,
   });
 
   // ── 2. Word count ────────────────────────────────────────────────────────
@@ -118,7 +128,7 @@ function runChecks(frontmatter, body) {
     maxPoints: 20,
     fix: wcPass
       ? null
-        `በአሁኑ ጽሁፉ ብዛት: ${wordCount} ቃላት አሉት ። የሚመከረው: ቢያንስ ${MIN_WORD_COUNT}. እባኮትን ይዘቱን ያስፉ ።`,
+      : `በአሁኑ ጽሁፉ ብዛት: ${wordCount} ቃላት አሉት ። የሚመከረው: ቢያንስ ${MIN_WORD_COUNT}. እባኮትን ይዘቱን ያስፉ ።`,
   });
 
   // ── 3. Headings ──────────────────────────────────────────────────────────
@@ -135,7 +145,7 @@ function runChecks(frontmatter, body) {
     maxPoints: 20,
     fix: headingPass
       ? null
-        `## የሁለተኛ ደረጃ አርዕስት ይጨምሩ ። ሚመከረው: Overview, History, Modern Context, References.`,
+      : `## የሁለተኛ ደረጃ አርዕስት ይጨምሩ ። ሚመከረው: Overview, History, Modern Context, References.`,
   });
 
   // ── 4. Reference links ───────────────────────────────────────────────────
@@ -152,8 +162,7 @@ function runChecks(frontmatter, body) {
     maxPoints: 20,
     fix: refPass
       ? null
-      :
-        `ቢያንስ ${MIN_REFERENCES} ዋቢ ምንጮችን ይጨምሩ ። markdown-formatted links, e.g., [Source Name](https://example.com)`,
+      : `ቢያንስ ${MIN_REFERENCES} ዋቢ ምንጮችን ይጨምሩ ። markdown-formatted links, e.g., [Source Name](https://example.com)`,
   });
 
   // ── 5. AI hollow phrases ─────────────────────────────────────────────────
@@ -177,8 +186,7 @@ function runChecks(frontmatter, body) {
     maxPoints: 10,
     fix: hollowPass
       ? null
-      :
-        `የሚከተሉትን አገላለጾች ያስወግዱ ወይም ይለዉጡ: ${foundHollow.map((h) => h.label).join(', ')}`,
+      : `የሚከተሉትን አገላለጾች ያስወግዱ ወይም ይለዉጡ: ${foundHollow.map((h) => h.label).join(', ')}`,
   });
 
   // ── 6. Description length ────────────────────────────────────────────────
@@ -192,22 +200,17 @@ function runChecks(frontmatter, body) {
     label: 'የገለጻ ርዝመት',
     detail:
       descLen === 0
-        ?
-          'ገለጻ የለም'
-        :
-          `${descLen} ቃላት (${descPass ? 'በጣም ጥሩ' : descLen < DESC_MIN ? 'በጣም አነሰ' : 'በጣም ረዘመ'})`,
-          points: descPass ? 10 : descLen === 0 ? 0 : 5,
-          maxPoints: 10,
-          fix: descPass
+        ? 'ገለጻ የለም'
+        : `${descLen} ቃላት (${descPass ? 'በጣም ጥሩ' : descLen < DESC_MIN ? 'በጣም አነሰ' : 'በጣም ረዘመ'})`,
+    points: descPass ? 10 : descLen === 0 ? 0 : 5,
+    maxPoints: 10,
+    fix: descPass
       ? null
       : descLen === 0
-        ?
-          'የ ገለጻ መስክ ይጨምሩ (50-200 ቃላት ይመከራል)'
+        ? 'የ ገለጻ መስክ ይጨምሩ (50-200 ቃላት ይመከራል)'
         : descLen < DESC_MIN
-          ?
-            `ገለጻው በጣም አጭር ነው (${descLen} ቃላት) ፤ ወደ ${DESC_MIN}-${DESC_MAX} ይስፋ`
-          :
-            `ገለጻው በጣም ረጅም ነው (${descLen} ቃላት), ወደ ${DESC_MAX} ይጠር`,
+          ? `ገለጻው በጣም አጭር ነው (${descLen} ቃላት) ፤ ወደ ${DESC_MIN}-${DESC_MAX} ይስፋ`
+          : `ገለጻው በጣም ረጅም ነው (${descLen} ቃላት), ወደ ${DESC_MAX} ይጠር`,
   });
 
   // Calculate total score
@@ -239,7 +242,7 @@ export function validateCommand(program) {
 
         const filePath = findArticleBySlug(slug);
         if (!filePath) {
-         const msg = `ጽሁፉ አልተገኘም: "${slug}". Check the slug or run ethiopiamd sync.`;
+          const msg = `ጽሁፉ አልተገኘም: "${slug}". Check the slug or run ethiopiamd sync.`;
           if (opts.json) {
             console.log(JSON.stringify({ error: msg }, null, 2));
           } else {

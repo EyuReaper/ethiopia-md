@@ -20,9 +20,10 @@ const program = new Command();
 program
   .name('ethiopiamd')
   .description(
-    'Ethiopia.md — Ethiopia知識庫 CLI\nSearch, read, and explore 900+ curated articles about Ethiopia.',
+    'Ethiopia.md command-line tool.\n' +
+      'Search and read the Ethiopia.md knowledge base: Amharic articles first, with English translations.',
   )
-  .version('0.4.0');
+  .version('0.4.1');
 
 // Register all commands
 searchCommand(program);

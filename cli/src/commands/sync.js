@@ -63,7 +63,10 @@ export async function runSync(opts = {}) {
   }
 
   if (!opts.silent) {
-    console.log(chalk.bold('\n  📦 የ Ethiopia.md እውቀት መዝገብን በማመሳሰል ላይ...\n'));
+    console.log(
+      chalk.bold('\n  📦 Syncing the Ethiopia.md knowledge base...\n'),
+    );
+  }
 
   const repoExists = existsSync(join(KNOWLEDGE_DIR, '.git'));
 
@@ -74,7 +77,10 @@ export async function runSync(opts = {}) {
       run(`git -C "${KNOWLEDGE_DIR}" pull --ff-only`, { silent: true });
       if (!opts.silent) console.log(chalk.green('  ✓ ማዘመን ተጠናቋል'));
     } catch {
-      if (!opts.silent) console.log(chalk.yellow('  ⚠ Pull አልተሳካም፣ ወደ ነበረበት ለመመለስ እየሞከረ ነው...'));
+      if (!opts.silent)
+        console.log(
+          chalk.yellow('  ⚠ Pull አልተሳካም፣ ወደ ነበረበት ለመመለስ እየሞከረ ነው...'),
+        );
       run(`git -C "${KNOWLEDGE_DIR}" fetch origin`, { silent: true });
       run(`git -C "${KNOWLEDGE_DIR}" reset --hard origin/main`, {
         silent: true,
@@ -85,7 +91,9 @@ export async function runSync(opts = {}) {
     // Clone fresh
     if (repoExists && opts.force) {
       if (!opts.silent)
-        console.log(chalk.gray(' አስገድዶ እንደገና ለማመሳሰል እየሞከረ ነው፣ አሮጌ መረጃዎችን በማስወገድ ላይ...'));
+        console.log(
+          chalk.gray(' አስገድዶ እንደገና ለማመሳሰል እየሞከረ ነው፣ አሮጌ መረጃዎችን በማስወገድ ላይ...'),
+        );
       run(`rm -rf "${KNOWLEDGE_DIR}"`);
     }
 
@@ -134,7 +142,8 @@ export async function runSync(opts = {}) {
   // Print summary
   const knowledgeDir = join(KNOWLEDGE_DIR, 'knowledge');
   const articleCount = countMarkdownFiles(knowledgeDir);
-  const now = new Date().toLocaleString('en', { // Changed from 'am' temporarily for consistent English output
+  const now = new Date().toLocaleString('en', {
+    // Changed from 'am' temporarily for consistent English output
     timeZone: 'Africa/Addis_Ababa', // Changed from Asia/Taipei
   });
 
