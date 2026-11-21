@@ -39,7 +39,6 @@ Editorial and maintenance helpers. Run them from the repository root.
 | ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `review-pr.sh`                                       | Runs the same checks as the PR review workflow on a pull request number.                                                                                       |
 | `quality-scan.sh`                                    | Heuristic quality scan of published articles (Taiwan-term leaks, hollow phrases, missing sources, structure). `--all` also scans drafts and archived articles. |
-| `triage-status.mjs`                                  | One-off fork cleanup. **Do not run with `--apply`**: it would archive every article outside the old curated core.                                              |
 | `manage-featured.sh`                                 | `list` or `audit` the articles marked `featured: true`.                                                                                                        |
 | `generate-content-stats.js`                          | Writes `src/data/content-stats.json`, including counts by status.                                                                                              |
 | `assign-subcategory.cjs`                             | Assigns `subcategory` values in frontmatter. Check the diff before committing.                                                                                 |
@@ -64,8 +63,7 @@ Editorial and maintenance helpers. Run them from the repository root.
 
 These were written for the Taiwan.md fork and the rebrand. They change many files at once, and they may no longer match the current content. Do not run them without reading them first.
 
-- `rename-am-files.mjs`, `fix-wikilinks.mjs`, `fix-wikilinks-v2.mjs`, `replace-wiki-urls.py`, `replace-wiki-urls.sh`
-- `cache-images.sh`, `cache-images-v2.sh`, `cache-and-replace.py`, `download-wiki-images.mjs`
+- `fix-wikilinks.mjs`, `fix-wikilinks-v2.mjs`
 - `fix-all-frontmatter.py`, `generate-translation-issues.sh`, `translation-sync-report.sh`
 
 ## `scripts/deprecated/`
