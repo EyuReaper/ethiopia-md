@@ -10,3 +10,7 @@ In short: you may share and adapt the articles for any purpose, including commer
 indicate changes, and distribute your contributions under the same license.
 
 Quoted sources, images and maps keep their own licenses, which are named next to each item. The source code is licensed separately under the MIT license in [`LICENSE`](LICENSE).
+
+## Upstream
+
+Ethiopia.md began as a fork of [Taiwan.md](https://github.com/frank890417/taiwan-md), whose README also licenses its content under CC BY-SA 4.0. No Taiwan.md article text remains in `knowledge/`; every article there was written for Ethiopia.md. The ShareAlike terms above apply to the site's structure and any adapted material.

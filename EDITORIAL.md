@@ -2,7 +2,7 @@
 
 This guide covers how articles in `knowledge/` are written, sourced, structured and published. It replaces the editorial guide inherited from the Taiwan.md fork, whose prose was stripped during the rebrand.
 
-The rules here are taken from what the repo enforces (`src/content.config.ts`, `scripts/core/test-frontmatter.mjs`, the article page templates) and from the articles that are actually live: the 12 category Hubs and the 24 published articles listed in `scripts/tools/.curated-core.json`. Where the live articles and this guide disagree, the guide describes the target, and the gap is listed in [`ROADMAP.md`](ROADMAP.md).
+The rules here are taken from what the repo enforces (`src/content.config.ts`, `scripts/core/test-frontmatter.mjs`, the article page templates) and from the articles that are actually live: the category Hubs and the published articles under `knowledge/`. Where the live articles and this guide disagree, the guide describes the target, and the gap is listed in [`ROADMAP.md`](ROADMAP.md).
 
 ---
 
@@ -275,7 +275,7 @@ Derived from the published Hubs and articles:
 
 ## 12. Workflow
 
-1. **Pick a slot or a topic.** Check `ROADMAP.md` and `scripts/tools/.curated-core.json`. Search first (`ethiopiamd search "<topic>"` or the `ethiopiamd-search` skill) to avoid duplicates.
+1. **Pick a slot or a topic.** Check `ROADMAP.md`. Search first (`ethiopiamd search "<topic>"` or the `ethiopiamd-search` skill) to avoid duplicates.
 2. **Research before writing.** Collect at least six sources, and open each one.
 3. **Write the Amharic and English files** at `knowledge/{Category}/{slug}.md` and `knowledge/en/{Category}/{slug}.md` with `status: draft`.
 4. **Validate:** `node scripts/core/test-frontmatter.mjs --staged`, then `npm run sync` and `bun run dev` to read the rendered page. Check that every wikilink resolves and every URL opens.

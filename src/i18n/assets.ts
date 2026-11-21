@@ -30,7 +30,7 @@ export const assetsUI = {
     // Card 3: ethiopia-location-map
     'assets.card3.title': 'ethiopia-location-map.svg',
     'assets.card3.desc':
-      'Location map with rivers and borders — NordNordWest (large file, about 700 KB)',
+      'Location map with rivers and borders — NordNordWest (large file, about 700 KB (loaded lazily))',
     'assets.card3.meta': 'CC BY-SA 3.0 · Wikimedia Commons',
 
     // Card 4: ethiopia-political-division

@@ -96,7 +96,7 @@ export const contributeUI = {
     'contribute.roles.photographer.action1':
       '→ Photograph Ethiopia through your eyes, contribute with CC license',
     'contribute.roles.photographer.action2.html':
-      '→ Record Ethiopia sounds, join the <a href="https://github.com/EyuReaper/ethiopia-md/tree/main/assets/sounds" target="_blank">soundscape project</a>',
+      '→ Record Ethiopian field sounds and share them under a CC license',
 
     // Role: Cultural Worker
     'contribute.roles.cultural.icon': '🏛️',
@@ -584,7 +584,7 @@ export const contributeUI = {
     'contribute.roles.photographer.action1':
       '→ ኢትዮጵያን በዓይንዎ ይቅረጹ፣ በ CC ፈቃድ ያበርክቱ',
     'contribute.roles.photographer.action2.html':
-      '→ የኢትዮጵያን ድምጾች ይቅረጹ፣ ወደ <a href="https://github.com/EyuReaper/ethiopia-md/tree/main/assets/sounds" target="_blank">የድምጽ ገጽታ ፕሮጀክት</a> ይቀላቀሉ',
+      '→ የኢትዮጵያን ድምጾች ይቅረጹ፤ በ CC ፈቃድ ያጋሩ',
 
     // Role: Cultural Worker
     'contribute.roles.cultural.icon': '🏛️',

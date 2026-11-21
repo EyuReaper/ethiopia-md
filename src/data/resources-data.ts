@@ -142,11 +142,11 @@ export const heroCategories: HeroCategory[] = [
         domain: 'ess.gov.et',
       },
       {
-        nameKey: 'resources.site.twse',
+        nameKey: 'resources.site.ese',
         url: 'https://esx.et/',
         domain: 'esx.et',
         featured: true,
-        descKey: 'resources.featured.twse',
+        descKey: 'resources.featured.ese',
       },
     ],
   },
@@ -589,7 +589,7 @@ export const econTransport: ResourceSite[] = [
     domain: 'erc.gov.et',
   },
   {
-    nameKey: 'resources.site.taoyuanAirport',
+    nameKey: 'resources.site.ethiopianAirlines',
     url: 'https://www.ethiopianairlines.com/',
     domain: 'ethiopianairlines.com',
   },
@@ -597,7 +597,7 @@ export const econTransport: ResourceSite[] = [
 
 export const econHealth: ResourceSite[] = [
   {
-    nameKey: 'resources.site.cdc',
+    nameKey: 'resources.site.ephi',
     url: 'https://ephi.gov.et/',
     domain: 'ephi.gov.et',
   },
@@ -609,7 +609,7 @@ export const econHealth: ResourceSite[] = [
     descKey: 'resources.featured.nhi',
   },
   {
-    nameKey: 'resources.site.ntuh',
+    nameKey: 'resources.site.sphmmc',
     url: 'https://sphmmc.edu.et/',
     domain: 'sphmmc.edu.et',
   },
@@ -622,11 +622,11 @@ export const econFinance: ResourceSite[] = [
     domain: 'ess.gov.et',
   },
   {
-    nameKey: 'resources.site.twse',
+    nameKey: 'resources.site.ese',
     url: 'https://esx.et/',
     domain: 'esx.et',
     featured: true,
-    descKey: 'resources.featured.twse',
+    descKey: 'resources.featured.ese',
   },
   {
     nameKey: 'resources.site.tpex',
@@ -645,11 +645,11 @@ export const communityProjects: ResourceSite[] = [
     descKey: 'resources.featured.icogLabs',
   },
   {
-    nameKey: 'resources.site.cofacts',
+    nameKey: 'resources.site.openSourceEthiopia',
     url: 'https://github.com/opensourceethiopia',
     domain: 'github.com',
     featured: true,
-    descKey: 'resources.featured.cofacts',
+    descKey: 'resources.featured.openSourceEthiopia',
   },
   {
     nameKey: 'resources.site.disfactory',

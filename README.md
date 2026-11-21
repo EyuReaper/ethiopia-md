@@ -8,7 +8,7 @@ Site URL (configured in `astro.config.mjs`): <https://ethiopia.md>
 
 ## Project status: forked from Taiwan.md, now Ethiopia-only content
 
-This repository started as a fork of Taiwan.md, an open knowledge base about Taiwan. The inherited Taiwan article corpus has been deleted from `knowledge/`, and everything in `knowledge/` today is new Ethiopia content. Some site code and docs may still carry fork leftovers. Expect the following:
+This repository started as a fork of [Taiwan.md](https://github.com/frank890417/taiwan-md), an open knowledge base about Taiwan (code MIT, content CC BY-SA 4.0 per its README). The inherited Taiwan article corpus has been deleted from `knowledge/`, and everything in `knowledge/` today is new Ethiopia content. Some site code and docs may still carry fork leftovers. Expect the following:
 
 - **The corpus is small.** `knowledge/` holds only new Ethiopia articles (Amharic with English pairs). Git history still contains the deleted Taiwan articles.
 - **The live content is small, and all of it is new.** See [What's live](#whats-live) below.

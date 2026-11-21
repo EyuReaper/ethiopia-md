@@ -4,12 +4,6 @@ on:
   pull_request:
     paths:
       - 'knowledge/en/**'
-      - 'knowledge/es/**'
-      - 'knowledge/ja/**'
-      - 'knowledge/ko/**'
-      - 'knowledge/fr/**'
-      - 'knowledge/de/**'
-      - 'knowledge/vi/**'
 
 jobs:
   check-translation:
@@ -49,7 +43,7 @@ jobs:
           ERRORS=0
           
           # Get changed translation files
-          FILES=$(git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.sha }} -- 'knowledge/en/' 'knowledge/es/' 'knowledge/ja/' 'knowledge/ko/' 'knowledge/fr/' 'knowledge/de/' 'knowledge/vi/' 2>/dev/null || echo "")
+          FILES=$(git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.sha }} -- 'knowledge/en/' 2>/dev/null || echo "")
           
           if [ -z "$FILES" ]; then
             echo "No translation files changed."
@@ -102,7 +96,7 @@ jobs:
             
             # Check file is in correct directory structure
             LANG=$(echo "$FILE" | sed 's|knowledge/\([^/]*\)/.*|\1|')
-            if ! echo "$LANG" | grep -qE '^(en|es|ja|ko|fr|de|vi|pt|th|id|ar)$'; then
+            if ! echo "$LANG" | grep -qE '^(en)$'; then
               echo "  ❌ Unknown language directory: $LANG"
               ERRORS=$((ERRORS + 1))
             else

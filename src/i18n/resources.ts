@@ -200,14 +200,14 @@ export const resourcesUI = {
 
     'resources.featured.flagCarrier':
       "Africa's largest airline group by fleet, destinations, and revenue — a state-owned carrier that built a genuinely global route network from a landlocked country.",
-    'resources.featured.twse':
+    'resources.featured.ese':
       "Ethiopia's first organized securities exchange, opening its trading floor in 2025 — a public-private venture built to deepen the country's capital markets.",
     'resources.featured.nhi':
       "Ethiopia's federal health ministry, coordinating a healthcare system still expanding nationally through community-based health insurance and public hospital networks.",
 
     'resources.featured.icogLabs':
       "Addis Ababa's pioneering AI and robotics lab — East Africa's first private research company in the field, also running youth coding and innovation programs nationwide.",
-    'resources.featured.cofacts':
+    'resources.featured.openSourceEthiopia':
       "A community of Ethiopian developers building and sharing open-source software on GitHub — still small, but a real and growing home for the country's open-source contributors.",
     'resources.featured.ethiopiamd':
       "The project you're reading right now — an open-source, community-curated encyclopedia of Ethiopia.",
@@ -290,14 +290,14 @@ export const resourcesUI = {
     'resources.site.investEthiopia': 'Ethiopian Investment Commission',
 
     'resources.site.railway': 'Ethiopian Railways Corporation',
-    'resources.site.taoyuanAirport': 'Ethiopian Airlines',
+    'resources.site.ethiopianAirlines': 'Ethiopian Airlines',
 
-    'resources.site.cdc': 'Ethiopian Public Health Institute',
+    'resources.site.ephi': 'Ethiopian Public Health Institute',
     'resources.site.nhi': 'Ministry of Health',
-    'resources.site.ntuh': "St. Paul's Hospital Millennium Medical College",
+    'resources.site.sphmmc': "St. Paul's Hospital Millennium Medical College",
 
     'resources.site.stat': 'Ethiopian Statistics Service',
-    'resources.site.twse': 'Ethiopian Securities Exchange',
+    'resources.site.ese': 'Ethiopian Securities Exchange',
     'resources.site.tpex': 'National Bank of Ethiopia',
 
     'resources.site.github': 'GitHub Repository',
@@ -306,7 +306,7 @@ export const resourcesUI = {
 
     // Community site names
     'resources.site.burgerMap': 'Addis Ababa City Map (map.et)',
-    'resources.site.cofacts': 'Open Source Ethiopia',
+    'resources.site.openSourceEthiopia': 'Open Source Ethiopia',
     'resources.site.disfactory': 'Wikimedians of Ethiopia',
     'resources.site.ptsNews': 'Ethiopian Broadcasting Corporation',
     'resources.site.ethiopiamd': 'Ethiopia.md',
@@ -512,14 +512,14 @@ export const resourcesUI = {
 
     'resources.featured.flagCarrier':
       'በመርከቦች ብዛት፣ በመዳረሻዎችና በገቢ ከአፍሪካ ትልቁ የአየር መንገድ ቡድን — ከየብስ ውስጥ ከምትገኝ ሀገር እውነተኛ ዓለም አቀፍ የበረራ መስመር ትስስር የገነባ የመንግስት ልማት ድርጅት።',
-    'resources.featured.twse':
+    'resources.featured.ese':
       'የኢትዮጵያ የመጀመሪያ የተደራጀ ዋስትናዎች ልውውጥ፣ በ2025 የንግድ ወለሉን የከፈተ — የሀገሪቱን የካፒታል ገበያ ለማጠናከር የተቋቋመ የመንግስትና የግል ትብብር።',
     'resources.featured.nhi':
       'የኢትዮጵያ ፌዴራላዊ የጤና ሚኒስቴር፣ በማህበረሰብ አቀፍ የጤና መድህንና በመንግስት ሆስፒታሎች መረብ አማካኝነት በሀገር አቀፍ ደረጃ እየተስፋፋ ያለውን የጤና ስርዓት የሚያስተባብር።',
 
     'resources.featured.icogLabs':
       'በአዲስ አበባ ቀዳሚ የሆነው የአርቲፊሻል ኢንተለጀንስና ሮቦቲክስ ላቦራቶሪ — በዘርፉ የምስራቅ አፍሪካ የመጀመሪያው የግል ምርምር ድርጅት፣ የወጣቶች ኮዲንግና ፈጠራ ፕሮግራሞችንም ይመራል።',
-    'resources.featured.cofacts':
+    'resources.featured.openSourceEthiopia':
       'በGitHub ላይ ክፍት ምንጭ ሶፍትዌር የሚገነቡና የሚያካፍሉ የኢትዮጵያ ገንቢዎች ማህበረሰብ — ገና ትንሽ ቢሆንም እውን የሆነና እያደገ ያለ የክፍት ምንጭ አስተዋጽዖ አበርካቾች መኖሪያ።',
     'resources.featured.ethiopiamd':
       'እርስዎ አሁን እያነበቡት ያለው ፕሮጀክት — ክፍት ምንጭ፣ በማህበረሰብ የተዘጋጀ የኢትዮጵያ ኢንሳይክሎፔዲያ።',
@@ -601,14 +601,14 @@ export const resourcesUI = {
     'resources.site.investEthiopia': 'የኢትዮጵያ ኢንቨስትመንት ኮሚሽን',
 
     'resources.site.railway': 'የኢትዮጵያ ምድር ባቡር ኮርፖሬሽን',
-    'resources.site.taoyuanAirport': 'የኢትዮጵያ አየር መንገድ',
+    'resources.site.ethiopianAirlines': 'የኢትዮጵያ አየር መንገድ',
 
-    'resources.site.cdc': 'የኢትዮጵያ የህብረተሰብ ጤና ኢንስቲትዩት',
+    'resources.site.ephi': 'የኢትዮጵያ የህብረተሰብ ጤና ኢንስቲትዩት',
     'resources.site.nhi': 'የጤና ሚኒስቴር',
-    'resources.site.ntuh': 'ቅዱስ ጳውሎስ ሆስፒታል ሚሊኒየም ሜዲካል ኮሌጅ',
+    'resources.site.sphmmc': 'ቅዱስ ጳውሎስ ሆስፒታል ሚሊኒየም ሜዲካል ኮሌጅ',
 
     'resources.site.stat': 'የኢትዮጵያ ስታትስቲክስ አገልግሎት',
-    'resources.site.twse': 'የኢትዮጵያ ዋስትናዎች ልውውጥ',
+    'resources.site.ese': 'የኢትዮጵያ ዋስትናዎች ልውውጥ',
     'resources.site.tpex': 'የኢትዮጵያ ብሄራዊ ባንክ',
 
     'resources.site.github': 'GitHub ማከማቻ',
@@ -617,7 +617,7 @@ export const resourcesUI = {
 
     // Community site names
     'resources.site.burgerMap': 'የአዲስ አበባ ካርታ (map.et)',
-    'resources.site.cofacts': 'Open Source Ethiopia',
+    'resources.site.openSourceEthiopia': 'Open Source Ethiopia',
     'resources.site.disfactory': 'የኢትዮጵያ ዊኪሚዲያ ተጠቃሚዎች ቡድን',
     'resources.site.ptsNews': 'የኢትዮጵያ ብሮድካስቲንግ ኮርፖሬሽን',
     'resources.site.ethiopiamd': 'Ethiopia.md',

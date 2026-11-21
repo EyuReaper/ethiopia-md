@@ -36,8 +36,8 @@ jobs:
             [[ -z "$f" ]] && continue
             if [[ "$f" =~ ^knowledge/.*\.md$ ]] || [[ "$f" =~ ^src/content/.*\.md$ ]]; then
               HAS_CONTENT=true
-              # Check if it's translation (en/ja/es subdir)
-              if [[ ! "$f" =~ /en/|/ja/|/es/ ]]; then
+              # Check if it's a translation (en subdir)
+              if [[ ! "$f" =~ /en/ ]]; then
                 TRANSLATION_ONLY=false
               fi
             else
