@@ -1,92 +1,22 @@
-# 🏛️ Ethiopia.md [Amharic translation needed - original Taiwan context]
+# Governance
 
-## Contributor Ladder（[Amharic translation needed - original Taiwan context]）
+Ethiopia.md is currently maintained by one person, [@EyuReaper](https://github.com/EyuReaper). The repository's `CODEOWNERS` file assigns every path to that maintainer, so every change needs their review.
 
-Ethiopia.md [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+## What the maintainer decides
 
-### 🌱 Reader（[Amharic translation needed - original Taiwan context]）
+- Which articles are published, featured or archived.
+- The editorial rules in [`EDITORIAL.md`](../../EDITORIAL.md), and changes to them.
+- Which languages the site supports. Today the site supports Amharic (source) and English.
+- Changes to the site code, build scripts and the `ethiopiamd` CLI.
 
-- [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
-- [Amharic translation needed - original Taiwan context] Issue [Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]**
+## How decisions are made
 
-### 🌿 Contributor（[Amharic translation needed - original Taiwan context]）
+Discussion happens in GitHub issues and pull requests. A proposal to change the editorial rules, add a language or add a new category should start as an issue that explains the change and the reason for it. The maintainer decides after reading the discussion.
 
-- [Amharic translation needed - original Taiwan context] PR（[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]）
-- [Amharic translation needed - original Taiwan context] 1 [Amharic translation needed - original Taiwan context] PR [Amharic translation needed - original Taiwan context] merge
-- [Amharic translation needed - original Taiwan context] README Contributors [Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]：** [Amharic translation needed - original Taiwan context] `good-first-article` issue，[Amharic translation needed - original Taiwan context]
+## Contributors
 
-### 🌳 Reviewer（[Amharic translation needed - original Taiwan context]）
+Anyone can propose an article, a correction or a translation through a pull request. Contributors are credited through Git history. There is no reviewer programme or sponsor list at present, and this document will be updated if one is set up.
 
-- [Amharic translation needed - original Taiwan context] 3 [Amharic translation needed - original Taiwan context] PR [Amharic translation needed - original Taiwan context] merge
-- [Amharic translation needed - original Taiwan context] review [Amharic translation needed - original Taiwan context]
-- [Amharic translation needed - original Taiwan context] approve PR（[Amharic translation needed - original Taiwan context] merge [Amharic translation needed - original Taiwan context] Maintainer）
-- [Amharic translation needed - original Taiwan context]
+## Changing this document
 
-### 🏔️ Maintainer（[Amharic translation needed - original Taiwan context]）
-
-- [Amharic translation needed - original Taiwan context] + [Amharic translation needed - original Taiwan context]
-- [Amharic translation needed - original Taiwan context] merge [Amharic translation needed - original Taiwan context]
-- [Amharic translation needed - original Taiwan context] Editorial Board [Amharic translation needed - original Taiwan context]
-- [Amharic translation needed - original Taiwan context] review 2 [Amharic translation needed - original Taiwan context] PR
-
----
-
-## Editorial Board（[Amharic translation needed - original Taiwan context]）
-
-[Amharic translation needed - original Taiwan context]：
-
-- [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]）
-- [Amharic translation needed - original Taiwan context]
-- [Amharic translation needed - original Taiwan context]（EDITORIAL.md）[Amharic translation needed - original Taiwan context]
-- [Amharic translation needed - original Taiwan context]
-
-**[Amharic translation needed - original Taiwan context]：** @EyuReaper（founder）
-
-**[Amharic translation needed - original Taiwan context]：** [Amharic translation needed - original Taiwan context] Issue，[Amharic translation needed - original Taiwan context]。
-
----
-
-## [Amharic translation needed - original Taiwan context]
-
-[Amharic translation needed - original Taiwan context] [EDITORIAL.md](./EDITORIAL.md) [Amharic translation needed - original Taiwan context]：
-
-1. **[Amharic translation needed - original Taiwan context]** — [Amharic translation needed - original Taiwan context]
-2. **[Amharic translation needed - original Taiwan context]** — [Amharic translation needed - original Taiwan context]
-3. **[Amharic translation needed - original Taiwan context]** — [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-4. **[Amharic translation needed - original Taiwan context]** — [Amharic translation needed - original Taiwan context] `## [Amharic translation needed - original Taiwan context]`
-5. **[Amharic translation needed - original Taiwan context]** — [Amharic translation needed - original Taiwan context] Issue #50
-
----
-
-## [Amharic translation needed - original Taiwan context] Maintainer [Amharic translation needed - original Taiwan context]
-
-[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] Maintainer：
-
-| [Amharic translation needed - original Taiwan context]            | Maintainer | [Amharic translation needed - original Taiwan context]    |
-| ----------------------------------------------------------------- | ---------- | --------------------------------------------------------- |
-| Art [Amharic translation needed - original Taiwan context]        | —          | 🟡 [Amharic translation needed - original Taiwan context] |
-| Culture [Amharic translation needed - original Taiwan context]    | —          | 🟡 [Amharic translation needed - original Taiwan context] |
-| Economy [Amharic translation needed - original Taiwan context]    | —          | 🟡 [Amharic translation needed - original Taiwan context] |
-| Food [Amharic translation needed - original Taiwan context]       | —          | 🟡 [Amharic translation needed - original Taiwan context] |
-| Geography [Amharic translation needed - original Taiwan context]  | —          | 🟡 [Amharic translation needed - original Taiwan context] |
-| History [Amharic translation needed - original Taiwan context]    | —          | 🟡 [Amharic translation needed - original Taiwan context] |
-| Lifestyle [Amharic translation needed - original Taiwan context]  | —          | 🟡 [Amharic translation needed - original Taiwan context] |
-| Music [Amharic translation needed - original Taiwan context]      | —          | 🟡 [Amharic translation needed - original Taiwan context] |
-| Nature [Amharic translation needed - original Taiwan context]     | —          | 🟡 [Amharic translation needed - original Taiwan context] |
-| People [Amharic translation needed - original Taiwan context]     | —          | 🟡 [Amharic translation needed - original Taiwan context] |
-| Society [Amharic translation needed - original Taiwan context]    | —          | 🟡 [Amharic translation needed - original Taiwan context] |
-| Technology [Amharic translation needed - original Taiwan context] | —          | 🟡 [Amharic translation needed - original Taiwan context] |
-
-**[Amharic translation needed - original Taiwan context]：** [Amharic translation needed - original Taiwan context] Issue [Amharic translation needed - original Taiwan context] `[Maintainer] [Amharic translation needed - original Taiwan context] {[Amharic translation needed - original Taiwan context]} [Amharic translation needed - original Taiwan context]`，[Amharic translation needed - original Taiwan context]。
-
----
-
-## [Amharic translation needed - original Taiwan context]
-
-Ethiopia.md [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context] [Contributor Covenant](https://www.contributor-covenant.org/) [Amharic translation needed - original Taiwan context]。
-
----
-
-_「[Amharic translation needed - original Taiwan context] 100 [Amharic translation needed - original Taiwan context] 10 [Amharic translation needed - original Taiwan context] 10 [Amharic translation needed - original Taiwan context]。」_
+Propose changes in a pull request. The maintainer approves them.

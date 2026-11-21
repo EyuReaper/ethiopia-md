@@ -1,50 +1,37 @@
-# 🌍 [Amharic translation needed - original Taiwan context]
+# Language tiers
 
-[Amharic translation needed - original Taiwan context] `STYLE.md`，[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]**[Amharic translation needed - original Taiwan context]**。
+Ethiopia.md supports two languages: **Amharic**, the source of truth, and **English**, the translation layer. Nothing else is supported yet. There are no Spanish, Japanese, Korean or other locale directories, and the site does not expose them.
 
-[Amharic translation needed - original Taiwan context] → reviewer [Amharic translation needed - original Taiwan context] → [Amharic translation needed - original Taiwan context] STYLE.md → [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-[Amharic translation needed - original Taiwan context]：
-
-- **[EDITORIAL.md](../EDITORIAL.md)** — [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
-- **`i18n/{lang}/STYLE.md`** — [Amharic translation needed - original Taiwan context]
-
-## [Amharic translation needed - original Taiwan context]
+## Layout
 
 ```
-i18n/
-├── README.md          ← [Amharic translation needed - original Taiwan context]
-├── en/STYLE.md        ← [Amharic translation needed - original Taiwan context]
-├── ja/STYLE.md        ← [Amharic translation needed - original Taiwan context]
-├── ko/STYLE.md        ← [Amharic translation needed - original Taiwan context]
-├── es/STYLE.md        ← [Amharic translation needed - original Taiwan context]
-├── fr/STYLE.md        ← [Amharic translation needed - original Taiwan context]
-├── de/STYLE.md        ← [Amharic translation needed - original Taiwan context]
-├── vi/STYLE.md        ← [Amharic translation needed - original Taiwan context]
-└── id/STYLE.md        ← [Amharic translation needed - original Taiwan context]
+knowledge/{Category}/{slug}.md         Amharic (source of truth)
+knowledge/en/{Category}/{slug}.md      English (translation, same slug)
+i18n/en/STYLE.md                       Style notes for English translations
 ```
 
-## STYLE.md [Amharic translation needed - original Taiwan context]
+Site chrome (navigation, buttons and page labels) is translated in `src/i18n/*.ts`. Those dictionaries are separate from the article content, and each one has an `am` and an `en` entry.
 
-1. **Ethiopia[Amharic translation needed - original Taiwan context]** — [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
-2. **[Amharic translation needed - original Taiwan context]** — [Amharic translation needed - original Taiwan context]
-3. **[Amharic translation needed - original Taiwan context]** — [Amharic translation needed - original Taiwan context]
-4. **[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）** — [Amharic translation needed - original Taiwan context] reviewer [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-5. **Reviewer [Amharic translation needed - original Taiwan context]** — [Amharic translation needed - original Taiwan context]
+## Rules
 
-## [Amharic translation needed - original Taiwan context]
+- Amharic is written or approved first. If the two versions disagree on a fact, fix the Amharic file first and then the translation.
+- Use the same slug in both languages. Slugs are lowercase ASCII with hyphens.
+- Translations keep every fact, figure and citation. Adjust the sentences for English readers rather than translating word for word.
+- The English site language is served under `/en/`. Amharic is the default and has no prefix (see `astro.config.mjs`).
 
-```
-[Amharic translation needed - original Taiwan context] cron/contributor [Amharic translation needed - original Taiwan context]
-  → [Amharic translation needed - original Taiwan context] EDITORIAL.md + i18n/{lang}/STYLE.md
-  → [Amharic translation needed - original Taiwan context]
-  → [Amharic translation needed - original Taiwan context] reviewer [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
-  → [Amharic translation needed - original Taiwan context] STYLE.md「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]
-  → [Amharic translation needed - original Taiwan context] → [Amharic translation needed - original Taiwan context]
-```
+## Adding a language
 
-STYLE.md [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+Adding a language is a change to the site, not only to the content. It needs:
 
-## Token Donation [Amharic translation needed - original Taiwan context]
+1. A locale entry in `astro.config.mjs`.
+2. A `knowledge/{lang}/` directory and a `src/i18n` dictionary for the site labels.
+3. A style guide at `i18n/{lang}/STYLE.md`.
+4. Build and validation support, so the new language's articles are checked the same way as English.
 
-[Amharic translation needed - original Taiwan context] [Discussion #137](https://github.com/EyuReaper/ethiopia-md/discussions/137)
+Oromo and Tigrinya are not supported. They would need all four items above before anything is published.
+
+## Related
+
+- [`EDITORIAL.md`](../EDITORIAL.md) section 2 for the full rules on source and translation.
+- [`docs/editorial/TRANSLATION-SYNC.md`](../docs/editorial/TRANSLATION-SYNC.md) for keeping translations current.
+- [`docs/prompts/TRANSLATE_PROMPT.md`](../docs/prompts/TRANSLATE_PROMPT.md) for an AI-assisted translation workflow.

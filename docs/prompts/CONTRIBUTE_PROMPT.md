@@ -1,155 +1,40 @@
-# Ethiopia.md AI [Amharic translation needed - original Taiwan context] Prompt
+# Drafting prompt: a new Ethiopia.md article
 
-> [Amharic translation needed - original Taiwan context] AI（ChatGPT / Claude / Gemini），[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。
-
----
-
-[Amharic translation needed - original Taiwan context] **Ethiopia.md AI [Amharic translation needed - original Taiwan context]**。Ethiopia.md（https://ethiopia.md）[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia。
-
-## [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
-
-[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）：
-
-1. **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] https://ethiopia.md/llms.txt
-2. **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] https://raw.githubusercontent.com/EyuReaper/ethiopia-md/main/EDITORIAL.md
-3. **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] https://raw.githubusercontent.com/EyuReaper/ethiopia-md/main/knowledge/_Home.md
-
-[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]：
-
-- [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
-- [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
-- [Amharic translation needed - original Taiwan context] 3 [Amharic translation needed - original Taiwan context]
-
-## [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
-
-[Amharic translation needed - original Taiwan context]：
-
-1. 「[Amharic translation needed - original Taiwan context]？」（[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]）
-2. 「[Amharic translation needed - original Taiwan context]？」（[Amharic translation needed - original Taiwan context] / [Amharic translation needed - original Taiwan context] / [Amharic translation needed - original Taiwan context]）
-3. 「[Amharic translation needed - original Taiwan context]？」
-
-## [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
-
-[Amharic translation needed - original Taiwan context]：
-
-1. **[Amharic translation needed - original Taiwan context] 5+ [Amharic translation needed - original Taiwan context]**（[Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]）
-2. **[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」**——[Amharic translation needed - original Taiwan context]？
-   - [Amharic translation needed - original Taiwan context] = [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
-   - [Amharic translation needed - original Taiwan context] = [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-3. **[Amharic translation needed - original Taiwan context]**[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]：
-   - [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] / [Amharic translation needed - original Taiwan context] / [Amharic translation needed - original Taiwan context] / [Amharic translation needed - original Taiwan context] [Amharic translation needed - original Taiwan context]）
-   - 3-5 [Amharic translation needed - original Taiwan context]
-   - [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context] → [Amharic translation needed - original Taiwan context] → [Amharic translation needed - original Taiwan context]
-   - [Amharic translation needed - original Taiwan context]
-
-## [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
-
-[Amharic translation needed - original Taiwan context]：
-
-### Frontmatter [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
-
-```yaml
----
-title: '[Amharic translation needed - original Taiwan context]'
-description: '[Amharic translation needed - original Taiwan context]（30-60[Amharic translation needed - original Taiwan context]），[Amharic translation needed - original Taiwan context]'
-category: History # [Amharic translation needed - original Taiwan context]：Art, Culture, Economy, Food, Geography, History, Lifestyle, Music, Nature, People, Society, Technology
-tags: [[Amharic translation needed - original Taiwan context]1, [Amharic translation needed - original Taiwan context]2, [Amharic translation needed - original Taiwan context]3]
-author: '[Amharic translation needed - original Taiwan context] Ethiopia.md Contributors'
-date: YYYY-MM-DD
-readingTime: [Amharic translation needed - original Taiwan context]
-lastVerified: YYYY-MM-DD
-lastHumanReview: false
----
-```
-
-### [Amharic translation needed - original Taiwan context]
-
-- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]）
-- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] 2-3 [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]「📝 [Amharic translation needed - original Taiwan context]：」[Amharic translation needed - original Taiwan context]）
-- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] → [Amharic translation needed - original Taiwan context] → [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context] > [Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]**：80-180 [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] 5 [Amharic translation needed - original Taiwan context] URL，[Amharic translation needed - original Taiwan context]
-
-### [Amharic translation needed - original Taiwan context]
-
-- ❌ [Amharic translation needed - original Taiwan context] 4 [Amharic translation needed - original Taiwan context] bullet list
-- ❌ [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
-- ❌ [Amharic translation needed - original Taiwan context]：「Ethiopia[Amharic translation needed - original Taiwan context]...」「[Amharic translation needed - original Taiwan context]XX，[Amharic translation needed - original Taiwan context]...」
-- ❌ [Amharic translation needed - original Taiwan context]
-- ❌ [Amharic translation needed - original Taiwan context]
-
-## [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
-
-[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]：
-
-1. **[Amharic translation needed - original Taiwan context]**：`knowledge/{Category}/{[Amharic translation needed - original Taiwan context]}.md`
-2. **[Amharic translation needed - original Taiwan context]**：
-   - **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] cheyu.wu@monoame.com，[Amharic translation needed - original Taiwan context]「Ethiopia.md [Amharic translation needed - original Taiwan context] — {[Amharic translation needed - original Taiwan context]}」
-   - **GitHub PR**：Fork → [Amharic translation needed - original Taiwan context] → [Amharic translation needed - original Taiwan context] PR
-   - **[Amharic translation needed - original Taiwan context]**：
-     ```bash
-     bash <(curl -s https://raw.githubusercontent.com/EyuReaper/ethiopia-md/main/scripts/contribute.sh)
-     ```
-
-3. **[Amharic translation needed - original Taiwan context] checklist**：
-   - [ ] [Amharic translation needed - original Taiwan context]？
-   - [ ] [Amharic translation needed - original Taiwan context]？
-   - [ ] [Amharic translation needed - original Taiwan context] 5 [Amharic translation needed - original Taiwan context] URL？
-   - [ ] [Amharic translation needed - original Taiwan context]？
-   - [ ] [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」？
+Paste this document into an AI assistant, then give it one topic. The assistant can help you draft the article, but it cannot check facts for you. Every claim has to be verified against a source you have read.
 
 ---
 
-## [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）：[Amharic translation needed - original Taiwan context]
+You are helping a contributor draft one article for Ethiopia.md, an open knowledge base about Ethiopia. Amharic is the source of truth, and the article is written in Amharic first or submitted together with its English version.
 
-[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]：
+## The article's job
 
-> 「[Amharic translation needed - original Taiwan context] Ethiopia.md [Amharic translation needed - original Taiwan context]？[Amharic translation needed - original Taiwan context]：」
+Write one article about one topic in Ethiopian history, geography, culture, society, economy, technology or everyday life. It should be useful to a reader who knows nothing about Ethiopia and to one who grew up there. Explain why the topic matters, not just what it is.
 
-### [Amharic translation needed - original Taiwan context] A：[Amharic translation needed - original Taiwan context]
+## Rules to follow
 
-[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]：
+1. **One topic.** "Injera and teff" is a topic. "Ethiopian food" is a Hub, and the Hubs are already written.
+2. **Sourced claims.** Every date, figure, name and quotation needs a source. List the sources at the end. Use only sources you have opened. If you cannot find a source for a claim, remove the claim or mark it as unverified.
+3. **Ethiopia only.** Do not carry over facts, examples or structures from articles about other countries. If a sentence would still make sense for another country, it probably needs a specific Ethiopian example.
+4. **Neutral on contested questions.** Where historians, governments or communities disagree, state the main positions and who holds them.
+5. **Plain prose.** Use paragraphs for explanation. Lists are for genuinely list-shaped material.
+6. **Frontmatter.** Use the template in `EDITORIAL.md` section 3.1. Set `status: draft` and `featured: false`. Dates are Gregorian `YYYY-MM-DD` strings.
 
-- 「[Amharic translation needed - original Taiwan context] [[Amharic translation needed - original Taiwan context]] [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]？」
-- [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
+## Structure
 
-### [Amharic translation needed - original Taiwan context] B：AI Agent [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
+1. A short overview of two or three sentences, which the description field can echo.
+2. The body, in sections with descriptive headings.
+3. Related topics, as `[[wikilinks]]` to articles that already exist.
+4. Sources, with a title, publisher and link for each.
 
-[Amharic translation needed - original Taiwan context] OpenClaw / Claude Code / Cline [Amharic translation needed - original Taiwan context] AI agent [Amharic translation needed - original Taiwan context]：
+## What to return
 
-```
-[Amharic translation needed - original Taiwan context]：
+Return the draft as one Markdown file, and then a separate list of the claims that still need checking, each with a note on where you would look.
 
-1. OpenClaw [Amharic translation needed - original Taiwan context]：
-   [Amharic translation needed - original Taiwan context] cron [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
+## Before you submit
 
-2. Claude Code / Cline [Amharic translation needed - original Taiwan context]：
-   [Amharic translation needed - original Taiwan context] task [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]：
-   bash ~/ethiopia-md/scripts/translate.sh --auto
+- [ ] Each claim in the draft has a source you have opened.
+- [ ] The article is about Ethiopia and contains no details from another country's article.
+- [ ] The frontmatter parses (`npm run test` passes).
+- [ ] The slug is lowercase ASCII with hyphens.
 
-3. [Amharic translation needed - original Taiwan context] CI/CD：
-   [Amharic translation needed - original Taiwan context] GitHub Actions workflow
-```
-
-[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-### [Amharic translation needed - original Taiwan context] C：[Amharic translation needed - original Taiwan context]
-
-[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]：
-
-- 「[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]」
-- 「[Amharic translation needed - original Taiwan context] Watch [Amharic translation needed - original Taiwan context] repo，[Amharic translation needed - original Taiwan context] Issue/Discussion [Amharic translation needed - original Taiwan context]」
-
----
-
-## [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]！
-
-[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]：
-
-**[Amharic translation needed - original Taiwan context] Ethiopia.md [Amharic translation needed - original Taiwan context]？**
-
-[Amharic translation needed - original Taiwan context]——[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-💡 **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] AI agent [Amharic translation needed - original Taiwan context]（OpenClaw、Claude Code、Cline [Amharic translation needed - original Taiwan context]），[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]。
+Then open a pull request following [CONTRIBUTING.md](../../CONTRIBUTING.md).

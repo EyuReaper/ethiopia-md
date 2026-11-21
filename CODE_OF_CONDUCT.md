@@ -1,55 +1,48 @@
-# [Amharic translation needed - original Taiwan context] | Code of Conduct
+# Contributor Code of Conduct
 
-## [Amharic translation needed - original Taiwan context]
+## Our pledge
 
-Ethiopia.md [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+We as contributors and maintainers pledge to make participation in Ethiopia.md a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
-## [Amharic translation needed - original Taiwan context]
+We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive and healthy community.
 
-### ✅ [Amharic translation needed - original Taiwan context]
+## Our standards
 
-- [Amharic translation needed - original Taiwan context]
-- [Amharic translation needed - original Taiwan context]
-- [Amharic translation needed - original Taiwan context]
-- [Amharic translation needed - original Taiwan context]
-- [Amharic translation needed - original Taiwan context]
-- [Amharic translation needed - original Taiwan context]
+Examples of behaviour that contributes to a positive environment:
 
-### ❌ [Amharic translation needed - original Taiwan context]
+- Being respectful of differing viewpoints and experiences, including on contested historical and political questions.
+- Giving and gracefully accepting constructive feedback on articles, translations and code.
+- Crediting sources and the people whose work an article draws on.
+- Focusing on what is best for readers and for the people the articles describe.
 
-- [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
-- [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
-- [Amharic translation needed - original Taiwan context]
-- [Amharic translation needed - original Taiwan context]
-- [Amharic translation needed - original Taiwan context]
-- [Amharic translation needed - original Taiwan context]
+Examples of unacceptable behaviour:
 
-## [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context]
+- Harassment, insults, personal or political attacks, or trolling.
+- Publishing private information about others without their consent.
+- Presenting fabricated sources or invented facts as genuine.
+- Any conduct that could reasonably be considered inappropriate in a professional setting.
 
-Ethiopia.md [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]：
+## Enforcement responsibilities
 
-1. **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
-2. **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context][Amharic translation needed - original Taiwan context]](EDITORIAL.md#[Amharic translation needed - original Taiwan context])[Amharic translation needed - original Taiwan context]
-3. **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-4. **[Amharic translation needed - original Taiwan context]**：Ethiopia.md [Amharic translation needed - original Taiwan context]
+Project maintainers are responsible for clarifying and enforcing these standards. They may remove, edit or reject comments, commits, issues, pull requests and other contributions that do not follow this Code of Conduct, and may temporarily or permanently ban a contributor for behaviour they judge to be inappropriate, threatening, offensive or harmful.
 
-## [Amharic translation needed - original Taiwan context]
+## Scope
 
-[Amharic translation needed - original Taiwan context]：
+This Code of Conduct applies within project spaces, including the GitHub repository, its issues and pull requests, and any official project channels. It also applies when a person represents the project in public.
 
-- **Email**: getachewnatnael55@gmail.com
-- **GitHub Issues**: [Amharic translation needed - original Taiwan context] `conduct`
+## Reporting
 
-[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、issue [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+Report unacceptable behaviour by opening an issue at <https://github.com/EyuReaper/ethiopia-md/issues>. If the report involves sensitive personal information, do not post it publicly. Open an issue that asks for a private channel, and the maintainer will reply there.
 
-## [Amharic translation needed - original Taiwan context]
+All complaints will be reviewed and investigated promptly and fairly. The maintainer will decide on a response and will keep the reporter's identity private where possible.
 
-[Amharic translation needed - original Taiwan context]（GitHub、Discussions、Issues、PR），[Amharic translation needed - original Taiwan context]。
+## Enforcement guidelines
 
-## [Amharic translation needed - original Taiwan context]
+1. **Correction.** A private note explaining why the behaviour was inappropriate, and a request to correct it.
+2. **Warning.** A warning with consequences for continued behaviour, and a limited period without interaction with those involved.
+3. **Temporary ban.** A temporary ban from project spaces for a set period.
+4. **Permanent ban.** A permanent ban for a sustained pattern of unacceptable behaviour.
 
-[Amharic translation needed - original Taiwan context] [Contributor Covenant 2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/)，[Amharic translation needed - original Taiwan context] Ethiopia.md [Amharic translation needed - original Taiwan context]。
+## Attribution
 
----
-
-_[Amharic translation needed - original Taiwan context]：2026-03-19_
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.1.

@@ -1,149 +1,42 @@
-# QUALITY-CHECKLIST.md — [Amharic translation needed - original Taiwan context]
+# Article quality checklist
 
-> [Amharic translation needed - original Taiwan context] REWRITE-PIPELINE Stage 3 [Amharic translation needed - original Taiwan context]。
-> [Amharic translation needed - original Taiwan context] commit [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-> **[Amharic translation needed - original Taiwan context] = [Amharic translation needed - original Taiwan context] commit。[Amharic translation needed - original Taiwan context]。**
+Use this list before opening a pull request that adds or changes an article in `knowledge/`. The rules behind each item are in [`EDITORIAL.md`](../../EDITORIAL.md).
 
----
+## 1. Frontmatter
 
-## [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]，60 [Amharic translation needed - original Taiwan context]）
+- [ ] `title`, `description`, `date`, and `tags` are present. Quote dates as strings, for example `'2026-11-03'`.
+- [ ] `date` is a Gregorian `YYYY-MM-DD` value, even in Amharic files.
+- [ ] `tags` is a YAML block list. The first tag is the category name in English.
+- [ ] `status` is set explicitly. New articles start as `draft`.
+- [ ] `featured` is `false`. Featured articles are chosen by maintainers.
+- [ ] The slug is lowercase ASCII with hyphens and is not already used in the same category.
+- [ ] `node scripts/core/test-frontmatter.mjs` passes. Use `--strict` to treat warnings as errors.
 
-[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]：
+## 2. Substance
 
-| #   | [Amharic translation needed - original Taiwan context]           | [Amharic translation needed - original Taiwan context]                                   | [Amharic translation needed - original Taiwan context]                               |
-| --- | -------------- | ---------------------------------------- | -------------------------------------- |
-| 🫵  | **[Amharic translation needed - original Taiwan context]**     | [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]？」                 | [Amharic translation needed - original Taiwan context]                     |
-| ✌️  | **[Amharic translation needed - original Taiwan context]**   | [Amharic translation needed - original Taiwan context]？                       | ≥ 2 [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」「[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]） |
-| 🤟  | **[Amharic translation needed - original Taiwan context]**     | [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]？ | ≥ 1 [Amharic translation needed - original Taiwan context]（📝 callout [Amharic translation needed - original Taiwan context]）          |
-| 🖐️  | **[Amharic translation needed - original Taiwan context]**     | [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]？             | [Amharic translation needed - original Taiwan context] 3 [Amharic translation needed - original Taiwan context] = [Amharic translation needed - original Taiwan context]                 |
-| ✊  | **[Amharic translation needed - original Taiwan context]** | [Amharic translation needed - original Taiwan context]？                   | [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]，[[Amharic translation needed - original Taiwan context]]」     |
+- [ ] The article covers one topic, and the description contains a concrete fact.
+- [ ] Every factual claim (dates, figures, names, quotations) can be traced to a source listed in the article.
+- [ ] Sources are real and were checked. Links were opened, and the cited passage supports the claim.
+- [ ] Figures carry a year and a unit, and the source is named close to the number.
+- [ ] Contested or disputed points are presented with the main positions, not a single view.
+- [ ] The article is about Ethiopia. Check that no fact, name or place has been carried over from another country's article.
 
----
+## 3. Language and names
 
-## [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
+- [ ] Amharic is written first, or the Amharic and English versions are submitted together.
+- [ ] Names follow the transliteration conventions in `EDITORIAL.md`, with the Amharic script given once where useful.
+- [ ] Ethiopian calendar dates are explained for English readers.
+- [ ] Wikilinks point to articles that exist and are `published`. Drafts and archived articles do not resolve.
 
-### [Amharic translation needed - original Taiwan context]（EDITORIAL v4）
+## 4. Structure
 
-- [ ] [Amharic translation needed - original Taiwan context]**[Amharic translation needed - original Taiwan context]**（[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]）
-- [ ] [Amharic translation needed - original Taiwan context] **2 [Amharic translation needed - original Taiwan context]**，[Amharic translation needed - original Taiwan context]
-- [ ] [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
+- [ ] The article follows the layers in `EDITORIAL.md` section 4: short overview, a readable body, related topics, and sources.
+- [ ] Headings are descriptive and the first heading matches `title`.
+- [ ] Lists are used only for genuinely list-shaped material.
 
-### [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] 3 [Amharic translation needed - original Taiwan context]）
+## 5. Build checks
 
-- [ ] [Amharic translation needed - original Taiwan context]**[Amharic translation needed - original Taiwan context]**（[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] 2 [Amharic translation needed - original Taiwan context]）
-- [ ] [Amharic translation needed - original Taiwan context]「Ethiopia[Amharic translation needed - original Taiwan context]⋯⋯[Amharic translation needed - original Taiwan context]」「[Amharic translation needed - original Taiwan context]⋯⋯[Amharic translation needed - original Taiwan context]」[Amharic translation needed - original Taiwan context]
-- [ ] [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context] / [Amharic translation needed - original Taiwan context] / [Amharic translation needed - original Taiwan context] / [Amharic translation needed - original Taiwan context] / [Amharic translation needed - original Taiwan context]
-
-### [Amharic translation needed - original Taiwan context]
-
-- [ ] [Amharic translation needed - original Taiwan context]**[Amharic translation needed - original Taiwan context]**（[Amharic translation needed - original Taiwan context]→[Amharic translation needed - original Taiwan context]→[Amharic translation needed - original Taiwan context]）
-- [ ] [Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]**[Amharic translation needed - original Taiwan context]**（[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」）
-- [ ] **[Amharic translation needed - original Taiwan context]**（[Amharic translation needed - original Taiwan context] A→B→C→D [Amharic translation needed - original Taiwan context]）
-- [ ] [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」）
-
-### [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] 3-5 [Amharic translation needed - original Taiwan context]）
-
-- [ ] [Amharic translation needed - original Taiwan context]：「[Amharic translation needed - original Taiwan context]」「[Amharic translation needed - original Taiwan context]」「[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]」「[Amharic translation needed - original Taiwan context]」「[Amharic translation needed - original Taiwan context]」
-- [ ] [Amharic translation needed - original Taiwan context]：[Amharic translation needed - original Taiwan context] / [Amharic translation needed - original Taiwan context] / [Amharic translation needed - original Taiwan context] / [Amharic translation needed - original Taiwan context] / [Amharic translation needed - original Taiwan context]
-- [ ] [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-
-### [Amharic translation needed - original Taiwan context]
-
-- [ ] [Amharic translation needed - original Taiwan context] **2 [Amharic translation needed - original Taiwan context] 📝 callout**（[Amharic translation needed - original Taiwan context]）
-- [ ] [Amharic translation needed - original Taiwan context] **1 [Amharic translation needed - original Taiwan context] stat block [Amharic translation needed - original Taiwan context] pull quote**
-- [ ] [Amharic translation needed - original Taiwan context] **2-3 [Amharic translation needed - original Taiwan context] wikilink**（[Amharic translation needed - original Taiwan context] `[[]]`）
-
-### Frontmatter [Amharic translation needed - original Taiwan context]
-
-- [ ] `subcategory` [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] `docs/taxonomy/SUBCATEGORY.md` [Amharic translation needed - original Taiwan context] category [Amharic translation needed - original Taiwan context]
-- [ ] [Amharic translation needed - original Taiwan context] tag（[Amharic translation needed - original Taiwan context] → `[Amharic translation needed - original Taiwan context]`）
-- [ ] `featured: true/false` [Amharic translation needed - original Taiwan context]
-
-### [Amharic translation needed - original Taiwan context]
-
-- [ ] **5+ [Amharic translation needed - original Taiwan context] URL** [Amharic translation needed - original Taiwan context]
-- [ ] [Amharic translation needed - original Taiwan context] **2 [Amharic translation needed - original Taiwan context]**（[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]）
-- [ ] [Amharic translation needed - original Taiwan context] **1 [Amharic translation needed - original Taiwan context]**
-- [ ] [Amharic translation needed - original Taiwan context]
-
-### [Amharic translation needed - original Taiwan context]
-
-- [ ] A [Amharic translation needed - original Taiwan context]：120-200 [Amharic translation needed - original Taiwan context]
-- [ ] B [Amharic translation needed - original Taiwan context]：80-120 [Amharic translation needed - original Taiwan context]
-- [ ] C [Amharic translation needed - original Taiwan context]：40-80 [Amharic translation needed - original Taiwan context]
-
-### [Amharic translation needed - original Taiwan context]（TERMINOLOGY.md）
-
-- [ ] A [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]→[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]→[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]→[Amharic translation needed - original Taiwan context]...）
-- [ ] B [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
-- [ ] [Amharic translation needed - original Taiwan context] [TERMINOLOGY.md](./TERMINOLOGY.md)
-
----
-
-## [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]，90 [Amharic translation needed - original Taiwan context]）
-
-1. **[Amharic translation needed - original Taiwan context]**（[Amharic translation needed - original Taiwan context] 60% [Amharic translation needed - original Taiwan context]）
-2. [Amharic translation needed - original Taiwan context]：「[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]？」
-3. [Amharic translation needed - original Taiwan context]「[Amharic translation needed - original Taiwan context]」→ [Amharic translation needed - original Taiwan context] → **[Amharic translation needed - original Taiwan context]**
-4. [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] EDITORIAL.md）：
-   - 🔴 [Amharic translation needed - original Taiwan context]（「[Amharic translation needed - original Taiwan context]」「[Amharic translation needed - original Taiwan context]」「[Amharic translation needed - original Taiwan context]」）
-   - 🔴 [Amharic translation needed - original Taiwan context]（「[Amharic translation needed - original Taiwan context]⋯⋯[Amharic translation needed - original Taiwan context]⋯⋯」「[Amharic translation needed - original Taiwan context]X[Amharic translation needed - original Taiwan context]Y，[Amharic translation needed - original Taiwan context]A[Amharic translation needed - original Taiwan context]B」）
-   - 🔴 [Amharic translation needed - original Taiwan context]（「[Amharic translation needed - original Taiwan context]」「[Amharic translation needed - original Taiwan context]」）
-   - 🔴 [Amharic translation needed - original Taiwan context]（「[Amharic translation needed - original Taiwan context]」「[Amharic translation needed - original Taiwan context]」）
-   - 🔴 [Amharic translation needed - original Taiwan context]（「[Amharic translation needed - original Taiwan context]⋯⋯」）
-
----
-
-## [Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
-
-```bash
-# 0. SSOT [Amharic translation needed - original Taiwan context]（⚠️ [Amharic translation needed - original Taiwan context]！[Amharic translation needed - original Taiwan context] knowledge/，sync [Amharic translation needed - original Taiwan context] src/content/）
-bash scripts/sync.sh
-
-# 1. [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] ≤ 3）
-bash tools/quality-scan.sh --json 2>&1 | \
-  python3 -c "import json,sys; d=json.load(sys.stdin); \
-  matches=[f for f in d['files'] if '[[Amharic translation needed - original Taiwan context]]' in f['file']]; \
-  print(f'Score: {matches[0][\"score\"]}') if matches else print('Score: 0 (PASS)')"
-
-# 2. Build [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
-npx astro build 2>&1 | tail -3
-```
-
-| [Amharic translation needed - original Taiwan context]                  | [Amharic translation needed - original Taiwan context]                         |
-| --------------------- | ---------------------------- |
-| hollow ≤ 3 + build OK | ✅ [Amharic translation needed - original Taiwan context] commit               |
-| hollow > 3            | ❌ [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]      |
-| build [Amharic translation needed - original Taiwan context]            | ❌ [Amharic translation needed - original Taiwan context] frontmatter/[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] |
-
----
-
-## [Amharic translation needed - original Taiwan context]、Commit + Push
-
-[Amharic translation needed - original Taiwan context]：
-
-```bash
-git add -A
-git commit -m "rewrite: [[Amharic translation needed - original Taiwan context]] — EDITORIAL v4 + Pipeline v2 (zh + en)"
-git push
-```
-
----
-
-## [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
-
-```
-□ [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]/[Amharic translation needed - original Taiwan context]）
-□ [Amharic translation needed - original Taiwan context]？2 [Amharic translation needed - original Taiwan context]？[Amharic translation needed - original Taiwan context]？
-□ [Amharic translation needed - original Taiwan context]？[Amharic translation needed - original Taiwan context]？
-□ 2 callout + 1 stat/quote + 2 wikilink + 5 URL？
-□ [Amharic translation needed - original Taiwan context]？
-□ subcategory [Amharic translation needed - original Taiwan context]？[Amharic translation needed - original Taiwan context] tag [Amharic translation needed - original Taiwan context]？
-□ hollow ≤ 3？build OK？
-→ commit
-```
-
----
-
-_[Amharic translation needed - original Taiwan context]：v1.1 | 2026-03-29_
-_[Amharic translation needed - original Taiwan context]：RESEARCH.md（[Amharic translation needed - original Taiwan context]）+ REWRITE-PIPELINE.md（[Amharic translation needed - original Taiwan context]）+ EDITORIAL.md（[Amharic translation needed - original Taiwan context]）+ RESEARCH-TEMPLATE.md（[Amharic translation needed - original Taiwan context]）_
+- [ ] `npm run test` passes.
+- [ ] `npm run sync` has been run, so `src/content/` matches `knowledge/`. Do not commit hand edits under `src/content/`.
+- [ ] `npx prettier --check` passes on changed Markdown.
+- [ ] `npm run build` completes, or the reason it cannot be run is stated in the pull request.

@@ -1,66 +1,36 @@
-# [Amharic translation needed - original Taiwan context] | Security Policy
+# Security policy
 
-## [Amharic translation needed - original Taiwan context]
+## Reporting a vulnerability
 
-[Amharic translation needed - original Taiwan context] Ethiopia.md [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]**[Amharic translation needed - original Taiwan context]**[Amharic translation needed - original Taiwan context] Issue [Amharic translation needed - original Taiwan context]。
+Please do not report security vulnerabilities in a public issue or pull request.
 
-### [Amharic translation needed - original Taiwan context]
+Report them privately through GitHub's private security advisory feature:
 
-**Email**: getachewnatnael55@gmail.com
+1. Open <https://github.com/EyuReaper/ethiopia-md/security/advisories/new>.
+2. Describe the problem, the component it affects, and the steps needed to reproduce it.
+3. Say what impact you think it has, and whether you have a proposed fix.
 
-[Amharic translation needed - original Taiwan context] `[SECURITY]` [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]：
+The maintainer will acknowledge the report, discuss it with you in the advisory, and coordinate a fix and disclosure. Please give the maintainer a reasonable period to fix the problem before you publish details.
 
-1. [Amharic translation needed - original Taiwan context]
-2. [Amharic translation needed - original Taiwan context]
-3. [Amharic translation needed - original Taiwan context]
-4. [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context]）
+## Scope
 
-### [Amharic translation needed - original Taiwan context]
+In scope:
 
-- **[Amharic translation needed - original Taiwan context]**：48 [Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]**：7 [Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
+- The Astro static site in this repository: the pages, components, templates and client-side scripts.
+- The `ethiopiamd` command-line tool in `cli/`.
+- The build and validation scripts in `scripts/`, and the GitHub workflows in `.github/workflows/`, where they could expose secrets, allow code injection or let untrusted input run.
 
-## [Amharic translation needed - original Taiwan context]
+Out of scope:
 
-### [Amharic translation needed - original Taiwan context]
+- Factual errors in articles. Report those through the fact-correction issue template instead.
+- Problems in third-party services the site links to, such as GitHub, Google Fonts or Wikimedia.
+- Denial-of-service attacks that depend on high traffic volumes.
+- Findings from automated scanners with no demonstrated impact.
 
-- ethiopia.md [Amharic translation needed - original Taiwan context]（GitHub Pages）
-- GitHub repository [Amharic translation needed - original Taiwan context]
-- CI/CD pipeline（GitHub Actions）
-- [Amharic translation needed - original Taiwan context]
+## Bug bounty
 
-### [Amharic translation needed - original Taiwan context]
+There is no bug bounty programme. Reports are appreciated and credited in the advisory, if you want credit.
 
-- [Amharic translation needed - original Taiwan context]（[Amharic translation needed - original Taiwan context] [Issue](https://github.com/EyuReaper/ethiopia-md/issues/new?template=fact-correction.yml) [Amharic translation needed - original Taiwan context]）
-- [Amharic translation needed - original Taiwan context]
-- DoS/DDoS [Amharic translation needed - original Taiwan context]
-- [Amharic translation needed - original Taiwan context]（GitHub、Cloudflare [Amharic translation needed - original Taiwan context]）[Amharic translation needed - original Taiwan context]
+## Supported versions
 
-## [Amharic translation needed - original Taiwan context]
-
-### [Amharic translation needed - original Taiwan context]
-
-Ethiopia.md [Amharic translation needed - original Taiwan context]（Astro SSG + GitHub Pages），[Amharic translation needed - original Taiwan context]：
-
-- [Amharic translation needed - original Taiwan context]
-- [Amharic translation needed - original Taiwan context]
-- [Amharic translation needed - original Taiwan context]
-
-[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]：
-
-1. **Supply chain**：npm [Amharic translation needed - original Taiwan context] → [Amharic translation needed - original Taiwan context] `npm audit`，Dependabot [Amharic translation needed - original Taiwan context]
-2. **GitHub Actions**：CI/CD [Amharic translation needed - original Taiwan context] → [Amharic translation needed - original Taiwan context] workflow [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context] maintainer merge
-3. **[Amharic translation needed - original Taiwan context]**：PR [Amharic translation needed - original Taiwan context] XSS payload → build [Amharic translation needed - original Taiwan context] Astro [Amharic translation needed - original Taiwan context] escape，review [Amharic translation needed - original Taiwan context]
-
-### [Amharic translation needed - original Taiwan context]
-
-[Amharic translation needed - original Taiwan context] GitHub Dependabot [Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]（High/Critical）[Amharic translation needed - original Taiwan context] 7 [Amharic translation needed - original Taiwan context]。
-
-## [Amharic translation needed - original Taiwan context]
-
-[Amharic translation needed - original Taiwan context]。
-
----
-
-_[Amharic translation needed - original Taiwan context]：2026-03-19_
+Only the `main` branch is maintained. Security fixes are made there.
