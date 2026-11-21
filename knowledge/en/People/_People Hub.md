@@ -37,7 +37,7 @@ Among the biggest steps Prime Minister Abiy Ahmed took after assuming power in M
 ## Sources
 
 - [Menilek II — Britannica](https://www.britannica.com/biography/Menilek-II)
-- [Empress Taytu: Warrior Queen of the 1896 Battle of Adwa — Kentake Page](https://kentakepage.com/empress-taytu-warrior-queen-of-the-1896-battle-of-adwa/)
+- [Library of Congress Blogs: Taytu Betul, the Cunning Empress of Ethiopia](https://blogs.loc.gov/international-collections/2022/03/taytu-betul-the-cunning-empress-of-ethiopia/)
 - [Haile Selassie I — Britannica](https://www.britannica.com/biography/Haile-Selassie-I)
 - [Remembering Bikila's 1960 Olympic marathon victory — World Athletics](https://worldathletics.org/news/feature/abebe-bikila-1960-olympic-marathon-victory)
 - [Abebe Bikila — Britannica](https://www.britannica.com/biography/Abebe-Bikila)
