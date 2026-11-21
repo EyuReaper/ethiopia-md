@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-11-20T17:38:35.464Z",
-  "totalArticles": 25,
+  "lastUpdated": "2026-11-21T11:09:02.576Z",
+  "totalArticles": 51,
   "contributors": 50,
-  "articlesLast7Days": 1,
-  "articlesLast30Days": 20,
+  "articlesLast7Days": 27,
+  "articlesLast30Days": 46,
   "humanReviewedPercent": 0,
-  "featuredPercent": 96,
-  "avgRevision": 2.1,
+  "featuredPercent": 47.1,
+  "avgRevision": 1,
   "languageCoverage": {
-    "am": 25,
-    "en": 502
+    "am": 51,
+    "en": 51
   }
 }

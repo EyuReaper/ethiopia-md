@@ -1,24 +1,32 @@
 {
-  "totalArticles": 76,
+  "totalArticles": 128,
   "totalCategories": 15,
-  "estimatedContributors": 6,
+  "estimatedContributors": 9,
   "totalTags": 18,
   "categories": [
     {
+      "name": "Culture",
+      "count": 5
+    },
+    {
+      "name": "History",
+      "count": 5
+    },
+    {
       "name": "Music",
-      "count": 3
+      "count": 5
     },
     {
       "name": "Society",
-      "count": 3
+      "count": 5
     },
     {
       "name": "Food",
-      "count": 3
+      "count": 5
     },
     {
       "name": "People",
-      "count": 3
+      "count": 5
     },
     {
       "name": "About",
@@ -26,43 +34,35 @@
     },
     {
       "name": "Language",
-      "count": 1
-    },
-    {
-      "name": "Culture",
-      "count": 3
-    },
-    {
-      "name": "Nature",
-      "count": 3
-    },
-    {
-      "name": "Geography",
       "count": 3
     },
     {
       "name": "Economy",
-      "count": 3
+      "count": 5
     },
     {
-      "name": "History",
-      "count": 3
+      "name": "Nature",
+      "count": 5
+    },
+    {
+      "name": "Geography",
+      "count": 5
     },
     {
       "name": "Technology",
-      "count": 3
+      "count": 5
     },
     {
       "name": "Lifestyle",
-      "count": 3
+      "count": 5
     },
     {
       "name": "Art",
-      "count": 3
+      "count": 5
     },
     {
       "name": "en",
-      "count": 38
+      "count": 64
     }
   ],
   "topTags": [
@@ -140,8 +140,8 @@
     }
   ],
   "languageDistribution": {
-    "am": 76,
+    "am": 128,
     "en": 0
   },
-  "lastUpdated": "2026-11-20T17:38:34.822Z"
+  "lastUpdated": "2026-11-21T11:09:02.020Z"
 }

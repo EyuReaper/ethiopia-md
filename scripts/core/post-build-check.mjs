@@ -13,16 +13,13 @@ import { readdir, readFile, stat } from 'node:fs/promises';
 import { resolve, join, relative } from 'node:path';
 
 const DIST = resolve(process.cwd(), 'dist');
-// Floors are sized to the *published* corpus, not to the current dist/ total.
-// As of 2026-11-20 a build emits ~1374 HTML pages, but ~1250 of those are
-// archived Taiwan-era articles (and their /og/ cards) that still build when
-// linked directly. Their removal is an open decision, so the floors must not
-// depend on them. What is guaranteed: ~47 fixed chrome pages, plus 2 published
-// flagship articles per category in both am and en (and an /og/ card per am
-// article), i.e. ~119 pages. A getStaticPaths collapse drops article routes to
-// 0 and the total to ~47, which these floors still catch. Raise them as more
-// articles are published.
-const MIN_TOTAL_PAGES = 100;
+// Floors are sized to the published corpus. As of 2026-11-21 the archived
+// Taiwan-era articles are deleted and a build emits ~199 HTML pages: ~47 fixed
+// chrome pages plus, per category and language, the Hub and 2-4 articles (and
+// an /og/ card per Amharic article). A getStaticPaths collapse drops article
+// routes to 0 and the total to ~47, which these floors still catch. Raise them
+// as more articles are published.
+const MIN_TOTAL_PAGES = 150;
 const MIN_ARTICLES_PER_CATEGORY = 2;
 const CATEGORIES = [
   'history',
@@ -37,6 +34,7 @@ const CATEGORIES = [
   'society',
   'economy',
   'lifestyle',
+  'language',
 ];
 
 let errors = [];
