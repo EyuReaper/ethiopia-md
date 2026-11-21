@@ -1,5 +1,5 @@
 /**
- * ethiopiamd diff — 顯示近 7 天知識庫變更
+ * ethiopiamd diff — show knowledge base changes from the last 7 days
  *
  * Parses git log of the knowledge base.
  * Falls back to file mtime if git is unavailable.
@@ -16,7 +16,7 @@ import { categoryEmoji, categoryLabel } from '../lib/render.js';
 import { ensureData } from '../lib/ensure-data.js';
 
 /**
- * Derive category from a git filename like "knowledge/history/二二八事件.md"
+ * Derive category from a git filename like "knowledge/history/battle-of-adwa.md"
  */
 function categoryFromPath(filePath) {
   const parts = filePath.replace(/\\/g, '/').split('/');
@@ -162,12 +162,14 @@ export function diffCommand(program) {
 
         if (!existsSync(knowledgeDir)) {
           console.log(
-            chalk.yellow('\n  找不到知識庫目錄，請先執行 ethiopiamd sync\n'),
+            chalk.yellow(
+              '\n  Knowledge base directory not found. Run ethiopiamd sync first.\n',
+            ),
           );
           return;
         }
 
-        console.log(chalk.bold('\n  📋 知識庫近期變更\n'));
+        console.log(chalk.bold('\n  📋 Recent knowledge base changes\n'));
 
         // Determine the repo root to run git against
         // knowledge dir might be ~/.ethiopiamd/knowledge (standalone)
@@ -196,15 +198,19 @@ export function diffCommand(program) {
           // Git failed — show fallback
           const mtime = getLastMtime(knowledgeDir);
           const dateStr =
-            mtime > new Date(0) ? mtime.toLocaleString('am') : '無法判斷';
-          console.log(chalk.gray(`  上次同步: ${dateStr}\n`));
-          console.log(chalk.dim('  (無法讀取 git 紀錄，顯示最後修改時間)'));
+            mtime > new Date(0) ? mtime.toLocaleString('am') : 'unknown';
+          console.log(chalk.gray(`  Last sync: ${dateStr}\n`));
+          console.log(
+            chalk.dim(
+              '  (could not read git history, showing last modified time)',
+            ),
+          );
           console.log('');
           return;
         }
 
         if (entries.length === 0) {
-          console.log(chalk.gray('  過去 7 天內沒有文章變更。\n'));
+          console.log(chalk.gray('  No article changes in the last 7 days.\n'));
           return;
         }
 
@@ -220,9 +226,9 @@ export function diffCommand(program) {
         // Table output
         const table = new Table({
           head: [
-            chalk.bold.cyan('日期'),
-            chalk.bold.cyan('分類'),
-            chalk.bold.cyan('文章'),
+            chalk.bold.cyan('Date'),
+            chalk.bold.cyan('Category'),
+            chalk.bold.cyan('Article'),
           ],
           style: { head: [], border: ['gray'] },
           colWidths: [14, 16, 40],
@@ -242,10 +248,10 @@ export function diffCommand(program) {
 
         console.log(table.toString());
         console.log(
-          chalk.gray(`\n  共 ${unique.length} 筆變更（顯示最多 50 筆）\n`),
+          chalk.gray(`\n  ${unique.length} changes (showing at most 50)\n`),
         );
       } catch (err) {
-        console.error(chalk.red(`diff 失敗: ${err.message}`));
+        console.error(chalk.red(`diff failed: ${err.message}`));
         process.exit(1);
       }
     });

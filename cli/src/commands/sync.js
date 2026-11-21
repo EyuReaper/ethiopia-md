@@ -59,7 +59,7 @@ export async function runSync(opts = {}) {
   try {
     execSync('git --version', { stdio: 'pipe' });
   } catch {
-    throw new Error('Git አልተጫነም። እባክዎን መጀመሪያ Git ይጫኑ።');
+    throw new Error('Git is not installed. Please install Git first.');
   }
 
   if (!opts.silent) {
@@ -72,27 +72,26 @@ export async function runSync(opts = {}) {
 
   if (repoExists && !opts.force) {
     // Pull latest changes
-    if (!opts.silent) console.log(chalk.gray('  ነባር የእውቀት መዝገብን በማዘመን ላይ...'));
+    if (!opts.silent)
+      console.log(chalk.gray('  Updating the existing knowledge base...'));
     try {
       run(`git -C "${KNOWLEDGE_DIR}" pull --ff-only`, { silent: true });
-      if (!opts.silent) console.log(chalk.green('  ✓ ማዘመን ተጠናቋል'));
+      if (!opts.silent) console.log(chalk.green('  ✓ Update complete'));
     } catch {
       if (!opts.silent)
-        console.log(
-          chalk.yellow('  ⚠ Pull አልተሳካም፣ ወደ ነበረበት ለመመለስ እየሞከረ ነው...'),
-        );
+        console.log(chalk.yellow('  ⚠ Pull failed, trying to recover...'));
       run(`git -C "${KNOWLEDGE_DIR}" fetch origin`, { silent: true });
       run(`git -C "${KNOWLEDGE_DIR}" reset --hard origin/main`, {
         silent: true,
       });
-      if (!opts.silent) console.log(chalk.green('  ✓ ወደ ነበረበት መመለስ ተጠናቋል'));
+      if (!opts.silent) console.log(chalk.green('  ✓ Recovery complete'));
     }
   } else {
     // Clone fresh
     if (repoExists && opts.force) {
       if (!opts.silent)
         console.log(
-          chalk.gray(' አስገድዶ እንደገና ለማመሳሰል እየሞከረ ነው፣ አሮጌ መረጃዎችን በማስወገድ ላይ...'),
+          chalk.gray(' Forcing a fresh sync and removing stale data...'),
         );
       run(`rm -rf "${KNOWLEDGE_DIR}"`);
     }
@@ -101,18 +100,21 @@ export async function runSync(opts = {}) {
     mkdirSync(join(homedir(), '.ethiopiamd'), { recursive: true });
 
     if (!opts.silent)
-      console.log(chalk.gray('  የእውቀት መዝገብን በመቅዳት ላይ (sparse checkout)...'));
+      console.log(
+        chalk.gray('  Cloning the knowledge base (sparse checkout)...'),
+      );
     run(
       `git clone --depth 1 --filter=blob:none --sparse "${REPO_URL}" "${KNOWLEDGE_DIR}"`,
       { silent: true },
     );
 
-    if (!opts.silent) console.log(chalk.gray('  sparse-checkout በማዘጋጀት ላይ...'));
+    if (!opts.silent)
+      console.log(chalk.gray('  Setting up sparse-checkout...'));
     run(`git -C "${KNOWLEDGE_DIR}" sparse-checkout set knowledge`, {
       silent: true,
     });
 
-    if (!opts.silent) console.log(chalk.green('  ✓ መቅዳት ተጠናቋል'));
+    if (!opts.silent) console.log(chalk.green('  ✓ Clone complete'));
   }
 
   // Download API JSON files to cache (these are build-time generated, not in git)
@@ -138,7 +140,7 @@ export async function runSync(opts = {}) {
       // Non-critical — some API files may not exist yet
     }
   }
-  if (!opts.silent) console.log(chalk.gray('  ✓ የ API መረጃ ተቀምጧል'));
+  if (!opts.silent) console.log(chalk.gray('  ✓ API data saved'));
   // Print summary
   const knowledgeDir = join(KNOWLEDGE_DIR, 'knowledge');
   const articleCount = countMarkdownFiles(knowledgeDir);
@@ -149,11 +151,11 @@ export async function runSync(opts = {}) {
 
   if (!opts.silent) {
     console.log('');
-    console.log(chalk.bold('  📊 የማመሳሰል ማጠቃለያ'));
+    console.log(chalk.bold('  📊 Sync summary'));
     console.log(chalk.gray('  ─'.repeat(20)));
-    console.log(`  ጽሁፎች: ${chalk.green(articleCount)}`);
-    console.log(`  የማመሳሰል ጊዜ: ${chalk.gray(now)}`);
-    console.log(`  የእውቀት መዝገብ መንገድ: ${chalk.dim(KNOWLEDGE_DIR)}`);
+    console.log(`  Articles: ${chalk.green(articleCount)}`);
+    console.log(`  Synced at: ${chalk.gray(now)}`);
+    console.log(`  Knowledge base path: ${chalk.dim(KNOWLEDGE_DIR)}`);
     console.log('');
   }
 
@@ -169,12 +171,12 @@ export function syncCommand(program) {
       try {
         await runSync(opts);
       } catch (err) {
-        console.error(chalk.red(`\n ❌ ማመሳሰል አልተሳካም: ${err.message}\n`));
+        console.error(chalk.red(`\n ❌ Sync failed: ${err.message}\n`));
         if (
           err.message.includes('Could not resolve host') ||
           err.message.includes('unable to access')
         ) {
-          console.log(chalk.gray('  እባክዎን የኢንተርኔት ግንኙነትዎን ያረጋግጡ።\n')); // TODO: Amharic: እባክዎን የኢንተርኔት ግንኙነትዎን ያረጋግጡ።
+          console.log(chalk.gray('  Please check your internet connection.\n'));
         }
         process.exit(1);
       }

@@ -1,7 +1,7 @@
 #!/bin/bash
 # Ethiopia.md sync script
 # Purpose: knowledge/ SSOT → src/content/ + frontmatter fix
-# Usage: bash scripts/sync.sh
+# Usage: bash scripts/core/sync.sh
 
 set -e  # Exit on error
 
@@ -12,17 +12,26 @@ echo "================================================="
 echo ""
 echo "🔄 Step 1/2: syncing knowledge/ → src/content/..."
 
+# Mirror: clear the generated language trees first so files deleted from
+# knowledge/ also disappear from src/content/. Only these two directories are
+# ever removed, and the path is checked before deleting.
+echo "🧹 Clearing generated trees src/content/am and src/content/en..."
+for lang in am en; do
+  target="src/content/$lang"
+  case "$target" in
+    src/content/am|src/content/en) rm -rf -- "$target" ;;
+    *) echo "refusing to delete $target" >&2; exit 1 ;;
+  esac
+done
+
 # Create target directories
 echo "📁 Creating directories..."
-mkdir -p src/content/am/{about,art,culture,economy,food,geography,history,lifestyle,language,music,nature,people,society,technology,resources}
-mkdir -p src/content/en/{about,art,culture,economy,food,geography,history,lifestyle,language,music,nature,people,society,technology,resources}
+mkdir -p src/content/am/{about,art,culture,economy,food,geography,history,lifestyle,language,music,nature,people,society,technology}
+mkdir -p src/content/en/{about,art,culture,economy,food,geography,history,lifestyle,language,music,nature,people,society,technology}
 
-# Count files
 KNOWLEDGE_COUNT=$(find knowledge/ -name "*.md" | wc -l)
-CONTENT_BEFORE=$(find src/content/ -name "*.md" | wc -l)
 
 echo "📊 knowledge/ file count: $KNOWLEDGE_COUNT"
-echo "📊 src/content/ file count before sync: $CONTENT_BEFORE"
 
 # Sync homepage
 echo "📄 Syncing homepage..."
@@ -55,6 +64,7 @@ done
 echo "📚 Syncing resources articles..."
 for resource_dir in "knowledge/resources" "knowledge/am/resources"; do
   if [ -d "$resource_dir" ]; then
+    mkdir -p src/content/am/resources
     for file in $resource_dir/*.md; do
       if [ -f "$file" ]; then
         filename=$(basename "$file")
@@ -87,6 +97,7 @@ if [ -d "knowledge/en" ]; then
 
   # Sync English resources
   if [ -d "knowledge/en/resources" ]; then
+    mkdir -p src/content/en/resources
     for file in knowledge/en/resources/*.md; do
       if [ -f "$file" ]; then
         filename=$(basename "$file")
@@ -105,7 +116,6 @@ CONTENT_AFTER_SYNC=$(find src/content/ -name "*.md" | wc -l)
 echo ""
 echo "🎉 Step 1 done! knowledge/ synced into src/content/"
 echo "📊 src/content/ file count now: $CONTENT_AFTER_SYNC"
-echo "📊 files added/changed: $((CONTENT_AFTER_SYNC - CONTENT_BEFORE))"
 
 # 2. Fix frontmatter
 echo ""

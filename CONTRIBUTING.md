@@ -18,10 +18,10 @@
 
 ## Before you start
 
-Ethiopia.md is a fork of a Taiwan-focused project (Taiwan.md) and is partway through migrating to genuine Ethiopia content. That shapes how you contribute:
+Ethiopia.md started as a fork of a Taiwan-focused project (Taiwan.md). The old Taiwan articles have been deleted from `knowledge/`; everything there is new Ethiopia content. That shapes how you contribute:
 
-- Most of `knowledge/` is still old Taiwan content, marked `status: archived` and hidden from the site. Don't use it as a model.
-- Many files in `docs/` still contain the placeholder string `[Amharic translation needed - original Taiwan context]` where prose was stripped. Their YAML and code samples are usable; their prose is not. Don't treat it as guidance.
+- Fork leftovers may still turn up in site code, docs or script comments, such as the placeholder string `[Amharic translation needed - original Taiwan context]`. Treat them as bugs, not guidance, and report or fix them.
+- Never restore deleted Taiwan articles from git history or use them as a model.
 - The best models for tone, structure and citation density are the published articles, especially the 12 category Hubs (`knowledge/{Category}/_{Category} Hub.md` and their English pairs in `knowledge/en/`).
 
 Editorial standards live in [EDITORIAL.md](EDITORIAL.md). Planned work lives in [ROADMAP.md](ROADMAP.md).
@@ -29,7 +29,7 @@ Editorial standards live in [EDITORIAL.md](EDITORIAL.md). Planned work lives in 
 ## Ways to contribute
 
 - **Write** a new Ethiopia article in Amharic, with an English pair.
-- **Translate** published articles. Spanish translations of the 12 Hubs are the most needed (see [Translations](#translations)).
+- **Translate** published articles into English, or help review the Amharic (see [Translations](#translations)).
 - **Fact-check** live articles and fix errors through an issue or PR.
 - **Report wrong-country content.** If anything on the site is about Taiwan but presented as Ethiopia (a fact, place, person, number, URL or image), open an issue. The `.github/ISSUE_TEMPLATE/` folder has a fact-correction template.
 - **Source pictures and maps** (see [Picture assets](#picture-assets)).
@@ -39,16 +39,15 @@ Editorial standards live in [EDITORIAL.md](EDITORIAL.md). Planned work lives in 
 
 ### 1. Pick a genuinely Ethiopian topic
 
-**Don't Ethiopia-wash a Taiwan topic.** The fork's find-and-replace turned many Taiwan articles into text that says "Ethiopia" but describes Taiwan (night markets, convenience stores, the MRT, Taiwanese politicians and athletes). Never fix one of these by swapping place names or loosely adapting the topic.
+**Don't Ethiopia-wash a Taiwan topic.** The fork's find-and-replace once turned Taiwan articles into text that said "Ethiopia" but described Taiwan (night markets, convenience stores, the MRT, Taiwanese politicians and athletes). Never adapt a topic from the deleted corpus by swapping place names.
 
-If you're rewriting an old file, treat its category and slot as a priority signal only. Choose a topic that really matters to Ethiopia in that category, research it from scratch, and give it a new English slug. The published flagships show how this went: the old History slots became `aksumite-empire.md` and `battle-of-adwa.md`, and the old Food slots became `injera-and-teff.md` and `doro-wat-and-festive-dining.md`.
+Choose a topic that really matters to Ethiopia in its category, research it from scratch, and give it a new English slug. The published flagships show the approach: the History flagships are `aksumite-empire.md` and `battle-of-adwa.md`, and the Food flagships are `injera-and-teff.md` and `doro-wat-and-festive-dining.md`.
 
 ### 2. Put the files in the right place
 
 ```
 knowledge/History/battle-of-adwa.md      ← Amharic original (SSOT)
 knowledge/en/History/battle-of-adwa.md   ← English pair, same filename
-knowledge/es/History/battle-of-adwa.md   ← optional Spanish translation
 ```
 
 - Write the Amharic version first. It is the source of truth; translations follow it.
@@ -87,36 +86,34 @@ lastHumanReview: false
 ---
 ```
 
-| Field                               | Required    | Notes                                                                             |
-| ----------------------------------- | ----------- | --------------------------------------------------------------------------------- |
-| `title`                             | Yes         | String. Amharic in the root folder, the target language in translations.          |
-| `description`                       | Yes         | String. Used for listings, search and SEO.                                        |
-| `date`                              | Yes         | Valid date, Gregorian `YYYY-MM-DD`.                                               |
-| `tags`                              | Yes         | An array of strings, not a single comma-separated string.                         |
-| `status`                            | Recommended | `draft`, `published` or `archived`. See below. Defaults to `published`.           |
-| `featured`                          | No          | Leave it `false` or omit it. Maintainers set `featured`; the PR bot fails `true`. |
-| `author`                            | No          | Defaults to `Ethiopia.md Contributors`.                                           |
-| `difficulty`                        | No          | `beginner`, `intermediate` or `advanced`.                                         |
-| `readingTime`                       | No          | Number of minutes.                                                                |
-| `lastUpdated`                       | No          | Date.                                                                             |
-| `relatedTopics`, `sources`          | No          | Arrays of strings.                                                                |
-| `subcategory`                       | No          | String.                                                                           |
-| `image`                             | No          | Path to a hero image under `public/`, e.g. `/images/articles/adwa.jpg`.           |
-| `lastVerified`, `lastHumanReview`   | No          | Editorial tracking fields used by the published articles (see EDITORIAL.md).      |
-| `originalTitle`, `alternativeNames` | No          | Amharic collection only.                                                          |
-| `translationStatus`                 | No          | English collection only: `complete`, `partial` or `planned`.                      |
-
-Don't add `chineseTitle`. It survives in the schema only so archived fork files still build.
+| Field                             | Required    | Notes                                                                             |
+| --------------------------------- | ----------- | --------------------------------------------------------------------------------- |
+| `title`                           | Yes         | String. Amharic in the root folder, the target language in translations.          |
+| `description`                     | Yes         | String. Used for listings, search and SEO.                                        |
+| `date`                            | Yes         | Valid date, Gregorian `YYYY-MM-DD`.                                               |
+| `tags`                            | Yes         | An array of strings, not a single comma-separated string.                         |
+| `status`                          | Recommended | `draft`, `published` or `archived`. See below. Defaults to `published`.           |
+| `featured`                        | No          | Leave it `false` or omit it. Maintainers set `featured`; the PR bot fails `true`. |
+| `author`                          | No          | Defaults to `Ethiopia.md Contributors`.                                           |
+| `difficulty`                      | No          | `beginner`, `intermediate` or `advanced`.                                         |
+| `readingTime`                     | No          | Number of minutes.                                                                |
+| `lastUpdated`                     | No          | Date.                                                                             |
+| `relatedTopics`, `sources`        | No          | Arrays of strings.                                                                |
+| `subcategory`                     | No          | String.                                                                           |
+| `image`                           | No          | Path to a hero image under `public/`, e.g. `/images/articles/adwa.jpg`.           |
+| `lastVerified`, `lastHumanReview` | No          | Editorial tracking fields used by the published articles (see EDITORIAL.md).      |
+| `alternativeNames`                | No          | Amharic collection only.                                                          |
+| `translationStatus`               | No          | English collection only: `complete`, `partial` or `planned`.                      |
 
 ### 4. The `status` lifecycle
 
-| Status      | Meaning                                       | On the site?                                                                                                            |
-| ----------- | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| `draft`     | Work in progress                              | No. Excluded from listings, search, feeds, the API and the wikilink map.                                                |
-| `published` | Reviewed, sourced Ethiopia content            | Yes.                                                                                                                    |
-| `archived`  | Legacy Taiwan content left over from the fork | Hidden from listings, search and feeds, but the page still builds if linked directly and wikilinks still resolve to it. |
+| Status      | Meaning                             | On the site?                                                                                     |
+| ----------- | ----------------------------------- | ------------------------------------------------------------------------------------------------ |
+| `draft`     | Work in progress                    | No. Excluded from listings, search, feeds, the API and the wikilink map.                         |
+| `published` | Reviewed, sourced Ethiopia content  | Yes.                                                                                             |
+| `archived`  | Retired article kept for the record | Hidden from listings, search, feeds and wikilinks, but the page still builds if linked directly. |
 
-New articles start as `draft` and change to `published` once they're written, sourced and reviewed. Never set `archived` on new work, and never flip an archived Taiwan article to `published`. Replace it with a new article instead.
+New articles start as `draft` and change to `published` once they're written, sourced and reviewed. Use `archived` only to retire an article that is no longer accurate or wanted; never set it on new work. No archived files exist at the moment.
 
 ### 5. Structure and sourcing
 
@@ -134,11 +131,9 @@ Model your article on the published Hubs:
 
 ## Translations
 
-Translations are very welcome. Translate from the published Amharic article (or its published English pair), not from any old Taiwan copy.
+Translations are very welcome. Translate from the published Amharic article (or its published English pair). The site supports exactly two languages, Amharic and English; there are no Spanish or Japanese folders.
 
-- **Spanish:** the 12 Hub files in `knowledge/es/{Category}/` are `status: draft` stubs. Replace each one with a real translation of the published Hub and set it to `published` when it's reviewed.
 - **English:** every new Amharic article needs an English pair at the same path under `knowledge/en/`.
-- **Japanese:** the 13 files in `knowledge/ja/` are archived Taiwan content. A new Japanese set should start from the published Hubs.
 - Keep citations and links intact, and add a `_translations.json` entry (see above).
 - Oromo, Tigrinya and other Ethiopian languages aren't wired into the site yet (there is no locale for them in `astro.config.mjs`). If you'd like to help add one, open an issue first.
 
@@ -185,14 +180,14 @@ If the hook fails, fix the reported problem rather than skipping it with `--no-v
 
 The **PR Content Review** workflow (`.github/workflows/pr-review.yml`) classifies every PR by the files it changes:
 
-| Type          | When                                                                                              | What happens                                                                     |
-| ------------- | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| `content`     | Only `.md` files under `knowledge/` or `src/content/`, at least one outside `en/`, `es/` or `ja/` | Runs `scripts/tools/review-pr.sh`, posts one bot comment and adds a status label |
-| `translation` | Only `.md` files under `en/`, `ja/` or `es/` subfolders                                           | Content review is skipped                                                        |
-| `mixed`       | Content files plus anything else                                                                  | Same content review as `content`, plus a `mixed-pr` label                        |
-| `engineering` | No content files                                                                                  | Content review is skipped                                                        |
+| Type          | When                                                                              | What happens                                                                     |
+| ------------- | --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| `content`     | Only `.md` files under `knowledge/` or `src/content/`, at least one outside `en/` | Runs `scripts/tools/review-pr.sh`, posts one bot comment and adds a status label |
+| `translation` | Only `.md` files under `en/` subfolders                                           | Content review is skipped                                                        |
+| `mixed`       | Content files plus anything else                                                  | Same content review as `content`, plus a `mixed-pr` label                        |
+| `engineering` | No content files                                                                  | Content review is skipped                                                        |
 
-Separately, `.github/workflows/translation-check.yml` runs structural checks (frontmatter present, minimum length, known language folder) on any PR that touches `knowledge/en/`, `knowledge/es/` or `knowledge/ja/`.
+Separately, `.github/workflows/translation-check.yml` runs structural checks (frontmatter present, minimum length, known language folder) on any PR that touches `knowledge/en/`.
 
 The status label is `ready-for-review` (pass), `needs-review` (warnings) or `needs-work` (fail). The bot updates its single comment on each push. Its output is advisory: a maintainer still reviews every PR, and some of the script's quality heuristics haven't been rewritten since the fork yet.
 

@@ -6,13 +6,13 @@ Ethiopia.md is an [Astro](https://astro.build) static site built from a corpus o
 
 Site URL (configured in `astro.config.mjs`): <https://ethiopia.md>
 
-## Project status: mid-migration from a Taiwan fork
+## Project status: forked from Taiwan.md, now Ethiopia-only content
 
-This repository started as a fork of Taiwan.md, an open knowledge base about Taiwan, and is partway through being turned into a genuine Ethiopia project. Expect the following:
+This repository started as a fork of Taiwan.md, an open knowledge base about Taiwan. The inherited Taiwan article corpus has been deleted from `knowledge/`, and everything in `knowledge/` today is new Ethiopia content. Some site code and docs may still carry fork leftovers. Expect the following:
 
-- **Most of `knowledge/` is still the old Taiwan corpus.** It has been marked `status: archived` and is excluded from listings, search, RSS and the API. It has not been rewritten.
+- **The corpus is small.** `knowledge/` holds only new Ethiopia articles (Amharic with English pairs). Git history still contains the deleted Taiwan articles.
 - **The live content is small, and all of it is new.** See [What's live](#whats-live) below.
-- **Many contributor docs are still unreadable.** Much of `docs/`, `ROADMAP.md`, `scripts/README.md` and `i18n/README.md` still contains the literal string `[Amharic translation needed - original Taiwan context]` where prose was stripped during the fork. The YAML, tables and code samples in those files are usable; the prose around them is not.
+- **Some contributor docs and script comments may still be rough.** If you find the literal string `[Amharic translation needed - original Taiwan context]` anywhere, it is a fork leftover, not content.
 - **No real Ethiopia photography or cartography has been sourced yet.** Category covers, the social share image and the map SVGs are clearly labeled placeholders.
 
 If you find something on the site that is fluent but about the wrong country (a Taiwan fact, place, person or URL presented as Ethiopia's), please open an issue. That has been the most common bug in this repo.
@@ -26,7 +26,7 @@ Counts below were taken by grepping `status:` in `knowledge/` frontmatter.
 | Amharic (`knowledge/{Category}/`) | 38        | 12 category Hubs, 24 flagship articles (2 per category), plus `_Home.md` and `About/origin-story.md` |
 | English (`knowledge/en/`)         | 37        | English pairs of the 12 Hubs, 24 flagships and the About origin story                                |
 
-The 12 categories are History, Geography, Culture, Food, Art, Music, Technology, Nature, People, Society, Economy and Lifestyle. Every live article was written from scratch with cited sources. About 920 archived Taiwan articles (across all four language folders) remain in the tree, hidden from the site. These numbers change as work lands; recount with `grep -rl "^status: published" knowledge`.
+The 12 categories are History, Geography, Culture, Food, Art, Music, Technology, Nature, People, Society, Economy and Lifestyle. Every live article was written from scratch with cited sources. These numbers change as work lands; recount with `grep -rl "^status: published" knowledge`.
 
 Oromo, Tigrinya and other Ethiopian languages are not supported yet. There are no `knowledge/om` or `knowledge/ti` directories and no matching locale in `astro.config.mjs`. Adding them is planned for after the core content is in place.
 
@@ -65,7 +65,7 @@ The `prebuild` step runs three scripts, all reading from `knowledge/`, and write
 2. `scripts/core/build-search-index.mjs`
 3. `scripts/core/generate-dashboard-data.js`
 
-`postbuild` runs `scripts/core/post-build-check.mjs` against `dist/`. Its page-count thresholds were set for the old, fully published Taiwan corpus, so it may fail on the much smaller live set until they are lowered.
+`postbuild` runs `scripts/core/post-build-check.mjs` against `dist/`. Its page-count thresholds are sized for the current, small corpus; raise them as the corpus grows.
 
 A Husky pre-commit hook runs Prettier on staged files (`lint-staged`) and validates frontmatter on staged articles (`node scripts/core/test-frontmatter.mjs --staged`). There is no ESLint and no unit test suite; "tests" here means content and schema validation.
 
@@ -99,7 +99,7 @@ node src/index.js search "Adwa"
 npm link && ethiopiamd --help
 ```
 
-Commands include `search`, `read`, `list`, `random`, `stats`, `today`, `quiz`, `explore`, `graph`, `rag`, `diff`, `sync`, `contribute` and `validate`. Inside the repo it reads `knowledge/` directly. The CLI does not yet filter out archived articles, so its results still include the old Taiwan corpus.
+Commands include `search`, `read`, `list`, `random`, `stats`, `today`, `quiz`, `explore`, `graph`, `rag`, `diff`, `sync`, `contribute` and `validate`. Inside the repo it reads `knowledge/` directly. It lists only published articles, in Amharic and English.
 
 ## Contributing
 
@@ -120,7 +120,5 @@ The most useful contributions right now:
 
 ## License
 
-- Content: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), as stated in the site footer
-- Code: MIT, as declared in `cli/package.json`
-
-The repository has no top-level `LICENSE` file yet.
+- Content (`knowledge/`): [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), see [`LICENSE-CONTENT.md`](LICENSE-CONTENT.md)
+- Code: MIT, see [`LICENSE`](LICENSE)

@@ -44,16 +44,18 @@ export function randomCommand(program) {
         }
 
         if (articles.length === 0) {
-          console.log(chalk.yellow('\n  找不到文章。\n'));
+          console.log(chalk.yellow('\n  No articles found.\n'));
           if (opts.category) {
             console.log(
               chalk.gray(
-                '  💡 ethiopiamd list --categories  →  查看所有分類\n',
+                '  💡 ethiopiamd list --categories  →  list all categories\n',
               ),
             );
           } else {
             console.log(
-              chalk.gray('  💡 請先執行 ethiopiamd sync 同步知識庫。\n'),
+              chalk.gray(
+                '  💡 Run ethiopiamd sync first to fetch the knowledge base.\n',
+              ),
             );
           }
           return;
@@ -65,7 +67,7 @@ export function randomCommand(program) {
 
         console.log(
           chalk.bold(
-            `\n  🎲 隨機推薦 (${articles.length} 篇中的第 ${index + 1} 篇)\n`,
+            `\n  🎲 Random pick (${index + 1} of ${articles.length})\n`,
           ),
         );
 
@@ -91,16 +93,19 @@ export function randomCommand(program) {
         // Footer hints
         console.log(chalk.gray('  ─'.repeat(30)));
         console.log(
-          chalk.cyan(`  → ethiopiamd read ${slug}`) + chalk.gray('  閱讀全文'),
+          chalk.cyan(`  → ethiopiamd read ${slug}`) +
+            chalk.gray('  read the full article'),
         );
         console.log(
-          chalk.cyan('  → ethiopiamd random') + chalk.gray('  再來一篇'),
+          chalk.cyan('  → ethiopiamd random') + chalk.gray('  another one'),
         );
         console.log('');
       } catch (err) {
-        console.error(chalk.red(`載入失敗: ${err.message}`));
+        console.error(chalk.red(`Failed to load: ${err.message}`));
         console.log(
-          chalk.gray('\n  💡 請先執行 ethiopiamd sync 同步知識庫。\n'),
+          chalk.gray(
+            '\n  💡 Run ethiopiamd sync first to fetch the knowledge base.\n',
+          ),
         );
         process.exit(1);
       }

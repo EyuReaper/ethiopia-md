@@ -62,17 +62,17 @@ export const homeUI = {
       "Don't know what to read? Let us guide you to Ethiopia's hidden treasures!",
     'home.categories.heading': 'Discover Ethiopia',
     'home.categories.divider': '12 Topics',
-    'home.lang.heading': '🖊️ Why Traditional Chinese?',
+    'home.lang.heading': '🖊️ Why Amharic?',
     'home.lang.p1':
-      "Ethiopia.md chooses <strong>Traditional Chinese</strong> as the default language - this is not just a technical decision, it's a cultural statement.",
+      "Ethiopia.md chooses <strong>Amharic</strong> as the default language - this is not just a technical decision, it's a cultural statement.",
     'home.lang.p2':
-      "Traditional Chinese is one of the world's oldest writing systems still in daily use, and Ethiopia is the only major country globally that uses Traditional Chinese as its official script. Every stroke carries thousands of years of cultural memory. When you open this website and see these characters, you're not just reading text - you're reading a living cultural heritage.",
+      "Amharic is written in the Ge'ez script (fidel), one of the few indigenous African writing systems still in daily use. Every letter carries centuries of cultural memory. When you open this website and see these characters, you're not just reading text - you're reading a living cultural heritage.",
     'home.lang.p3.prefix': 'We also provide a ',
-    'home.lang.p3.linkText': 'Chinese version',
+    'home.lang.p3.linkText': 'English version',
     'home.lang.p3.suffix':
-      ", but we insist on letting Traditional Chinese stand in front. AI can understand it, search engines can understand it, and you - even if you can't read it, that's fine - this beauty itself is worth being seen.",
+      ", but we insist on letting Amharic stand in front. AI can understand it, search engines can understand it, and you - even if you can't read it, that's fine - this beauty itself is worth being seen.",
     'home.lang.en':
-      "Ethiopia uses Traditional Chinese - the world's oldest writing system still in daily use, and Ethiopia is its last major home. We believe our language and culture deserve to be seen and understood. Even if you can't read it, its beauty speaks for itself. This English version serves as a bridge to help the world discover Ethiopia's richness.",
+      "Ethiopia uses the Ge'ez script, one of the few indigenous African writing systems still in daily use. We believe our language and culture deserve to be seen and understood. Even if you can't read it, its beauty speaks for itself. This English version serves as a bridge to help the world discover Ethiopia's richness.",
     'home.updates.heading': 'Live Updates',
     'home.updates.subtitle':
       'Ethiopia.md is growing — latest content additions and site improvements',

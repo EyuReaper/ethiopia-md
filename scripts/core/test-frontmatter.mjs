@@ -88,12 +88,13 @@ function isArrayOfStrings(val) {
 // ── Scan ──
 
 for (const lang of LANGS) {
-  for (const cat of CATEGORIES) {
+  for (const cat of lang ? CATEGORIES : ['', ...CATEGORIES]) {
     const dir = lang ? join(KNOWLEDGE, lang, cat) : join(KNOWLEDGE, cat);
     let files;
     try {
+      // The root ('' category) only holds _Home.md; other root files are not articles.
       files = (await readdir(dir)).filter(
-        (f) => f.endsWith('.md') && !f.startsWith('_'),
+        (f) => f.endsWith('.md') && (cat !== '' || f.startsWith('_')),
       );
     } catch {
       // Category doesn't exist for this language — OK
@@ -104,10 +105,8 @@ for (const lang of LANGS) {
 
     for (const file of files) {
       const filePath = join(dir, file);
-      const relPath = lang
-        ? `knowledge/${lang}/${cat}/${file}`
-        : `knowledge/${cat}/${file}`;
-      const label = lang ? `${lang}/${cat}/${file}` : `${cat}/${file}`;
+      const relPath = ['knowledge', lang, cat, file].filter(Boolean).join('/');
+      const label = [lang, cat, file].filter(Boolean).join('/');
       const slug = basename(file, '.md');
 
       // In CI mode, skip unchanged files
@@ -116,16 +115,7 @@ for (const lang of LANGS) {
       totalFiles++;
 
       const raw = await readFile(filePath, 'utf-8');
-      // Archived files are the hidden Taiwan-era long tail (see triage in
-      // CLAUDE.md). Many have corrupted frontmatter from the fork; sync.sh's
-      // fix-all-frontmatter.py repairs their src/content copies, so they do not
-      // break the build. Report their problems as warnings so they stay visible
-      // without failing validation. Detected by regex because the YAML itself
-      // may not parse.
-      const archived = /^status:\s*['"]?archived\b/m.test(raw);
-      const fail = archived
-        ? (m) => warnings.push(`[archived] ${m}`)
-        : (m) => errors.push(m);
+      const fail = (m) => errors.push(m);
 
       // 1. Parse YAML
       let fm;
@@ -167,7 +157,12 @@ for (const lang of LANGS) {
       slugs.set(slug, file);
 
       // 4. English file naming convention
-      if (lang === 'en' && /[A-Z]/.test(slug) && slug !== slug.toLowerCase()) {
+      if (
+        lang === 'en' &&
+        !slug.startsWith('_') &&
+        /[A-Z]/.test(slug) &&
+        slug !== slug.toLowerCase()
+      ) {
         warnings.push(`${label}: English slug has uppercase characters`);
       }
 

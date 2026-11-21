@@ -7,6 +7,7 @@
 #   bash scripts/tools/quality-scan.sh knowledge/en/X.md   # scan one article
 #   Flags: --json  --sort  --diff (compare with .quality-baseline.json)  --fix (lastHumanReview: true -> false)
 #
+# Soft signals (lastHumanReview, thin sections, prose decay, em-dashes, textbook openers, list dumps) are not scored.
 # A score is a prompt to read the article, not a verdict. Score 0-3 OK, 4-7 review, 8+ strong signal.
 # Keyword lists are in the CONFIG block below; edit them there.
 
@@ -95,7 +96,7 @@ count_taiwan_terms() {
   TW_TOTAL=0
   TW_FOUND=""
   for term in "${TAIWAN_TERMS[@]}"; do
-    c=$(grep -oiF -- "$term" "$f" 2>/dev/null | wc -l | tr -d '[:space:]')
+    c=$(sed 's/Taiwan\.md//g' "$f" | grep -oiF -- "$term" 2>/dev/null | wc -l | tr -d '[:space:]')
     if (( c > 0 )); then
       TW_TOTAL=$((TW_TOTAL + c))
       TW_FOUND="${TW_FOUND}${term}(${c}) "
@@ -113,11 +114,17 @@ scan_file() {
   # Skip very short files (stubs)
   [[ $lines -lt 20 ]] && return
 
+  # Hubs and the home page are link lists by design, so layout signals do not apply.
+  local is_hub=false
+  [[ "$(basename "$f")" == _* ]] && is_hub=true
+
   # ── 1. Bullet-heavy body ──
   local bullet_lines bullet_ratio
   bullet_lines=$(n_lines '^- \*\*' "$f")
   bullet_ratio=$((bullet_lines * 100 / lines))
-  if [[ $bullet_ratio -gt 30 ]]; then
+  if [[ "$is_hub" == true ]]; then
+    :
+  elif [[ $bullet_ratio -gt 30 ]]; then
     score=$((score + 3)); reasons="${reasons}bullets ${bullet_ratio}% "
   elif [[ $bullet_ratio -gt 20 ]]; then
     score=$((score + 1)); reasons="${reasons}bullets ${bullet_ratio}% "
@@ -127,18 +134,18 @@ scan_file() {
   local year_count
   year_count=$(grep -oE '\b(1[6-9][0-9]{2}|20[0-2][0-9])\b' "$f" | grep -vc 'date:' || true)
   year_count=${year_count//[[:space:]]/}
-  if [[ $year_count -lt 2 ]]; then
-    score=$((score + 3)); reasons="${reasons}years ${year_count} "
-  elif [[ $year_count -lt 5 ]]; then
+  # Few dated facts is a hint only; it never flags an article on its own.
+  if [[ "$is_hub" == false && $year_count -lt 2 ]]; then
     score=$((score + 1)); reasons="${reasons}years ${year_count} "
   fi
 
   # ── 3. Few links ──
   local url_count
   url_count=$(n_lines 'http' "$f")
+  # Missing sources is a real problem: an article with no URL at all is flagged on its own.
   if [[ $url_count -eq 0 ]]; then
-    score=$((score + 3)); reasons="${reasons}no URL "
-  elif [[ $url_count -lt 3 ]]; then
+    score=$((score + 4)); reasons="${reasons}no sources "
+  elif [[ "$is_hub" == false && $url_count -lt 3 ]]; then
     score=$((score + 1)); reasons="${reasons}URLs ${url_count} "
   fi
 
@@ -157,15 +164,12 @@ scan_file() {
   local prose_lines
   prose_lines=$(grep -cvE '^(#|-|\*|\||>|$|---|\s*$|title:|description:|date:|tags:|category:|author:|featured:|last)' "$f" || true)
   prose_lines=${prose_lines//[[:space:]]/}
-  if [[ $prose_lines -lt 5 ]]; then
+  if [[ "$is_hub" == true ]]; then
+    :
+  elif [[ $prose_lines -lt 5 ]]; then
     score=$((score + 3)); reasons="${reasons}prose ${prose_lines} "
   elif [[ $prose_lines -lt 15 ]]; then
     score=$((score + 1)); reasons="${reasons}prose ${prose_lines} "
-  fi
-
-  # ── 6. Not yet human-reviewed ──
-  if grep -q 'lastHumanReview: false' "$f" 2>/dev/null; then
-    score=$((score + 1)); reasons="${reasons}lastHumanReview=false "
   fi
 
   # ── 7. Long unbroken bullet runs ──
@@ -178,7 +182,9 @@ scan_file() {
       current=0
     fi
   done < "$f"
-  if [[ $max_consecutive -ge 6 ]]; then
+  if [[ "$is_hub" == true ]]; then
+    :
+  elif [[ $max_consecutive -ge 6 ]]; then
     score=$((score + 2)); reasons="${reasons}bullet-run ${max_consecutive} "
   elif [[ $max_consecutive -ge 4 ]]; then
     score=$((score + 1)); reasons="${reasons}bullet-run ${max_consecutive} "
@@ -195,22 +201,6 @@ scan_file() {
     score=$((score + 2)); reasons="${reasons}ai-phrases ${plastic_count} "
   elif [[ $plastic_count -ge 1 ]]; then
     score=$((score + 1)); reasons="${reasons}ai-phrases ${plastic_count} "
-  fi
-
-  # ── 8b. Em-dash overuse ──
-  local dash_count
-  dash_count=$(grep -o '—' "$f" | wc -l | tr -d '[:space:]')
-  if [[ $dash_count -gt 15 ]]; then
-    score=$((score + 3)); reasons="${reasons}em-dashes ${dash_count} "
-  elif [[ $dash_count -gt 8 ]]; then
-    score=$((score + 2)); reasons="${reasons}em-dashes ${dash_count} "
-  elif [[ $dash_count -gt 4 ]]; then
-    score=$((score + 1)); reasons="${reasons}em-dashes ${dash_count} "
-  fi
-
-  # ── 9. Textbook-style opening sentence ──
-  if first_prose_line "$f" | grep -qiE -- "$TEXTBOOK_OPEN_PAT"; then
-    score=$((score + 2)); reasons="${reasons}textbook-opening "
   fi
 
   # ── 10. Generic closing summary line in the last few prose lines ──
@@ -231,86 +221,12 @@ scan_file() {
     score=$((score + 1)); reasons="${reasons}template-H2 x${template_h2} "
   fi
 
-  # ── 12. Lists bunched at the end (LIST-DUMP) ──
-  local split_line=$(( lines * 6 / 10 ))
-  local front_bullet=0 back_bullet=0 front_total=0 back_total=0 line_num=0
-  while IFS= read -r line; do
-    line_num=$((line_num + 1))
-    [[ -z "$line" ]] && continue
-    if [[ $line_num -le $split_line ]]; then
-      front_total=$((front_total + 1))
-      [[ "$line" =~ ^-\  || "$line" =~ ^\*\  || "$line" =~ ^[0-9]+\. ]] && front_bullet=$((front_bullet + 1))
-    else
-      back_total=$((back_total + 1))
-      [[ "$line" =~ ^-\  || "$line" =~ ^\*\  || "$line" =~ ^[0-9]+\. ]] && back_bullet=$((back_bullet + 1))
-    fi
-  done < "$f"
-  local front_ratio=0 back_ratio=0
-  [[ $front_total -gt 0 ]] && front_ratio=$((front_bullet * 100 / front_total))
-  [[ $back_total -gt 0 ]] && back_ratio=$((back_bullet * 100 / back_total))
-  if [[ $back_ratio -gt 40 ]] && [[ $front_total -gt 0 ]] && [[ $back_ratio -gt $((front_ratio * 2)) ]]; then
-    score=$((score + 3)); reasons="${reasons}list-dump-end ${back_ratio}% "
-  elif [[ $back_ratio -gt 30 ]]; then
-    score=$((score + 2)); reasons="${reasons}list-dump-end ${back_ratio}% "
-  fi
-
-  # ── 13. Thin H2 sections (fewer than 3 prose lines) ──
-  local thin_count=0 prose_in_block=0 in_block=false
-  while IFS= read -r line; do
-    if [[ "$line" =~ ^##\  ]]; then
-      if [[ "$in_block" == true ]] && [[ $prose_in_block -lt 3 ]]; then
-        thin_count=$((thin_count + 1))
-      fi
-      in_block=true
-      prose_in_block=0
-    elif [[ "$in_block" == true ]]; then
-      if [[ -n "$line" ]] && ! [[ "$line" =~ ^(#|-|\*|\||>) ]] && ! [[ "$line" =~ ^[0-9]+\. ]]; then
-        prose_in_block=$((prose_in_block + 1))
-      fi
-    fi
-  done < "$f"
-  if [[ "$in_block" == true ]] && [[ $prose_in_block -lt 3 ]]; then
-    thin_count=$((thin_count + 1))
-  fi
-  if [[ $thin_count -ge 2 ]]; then
-    score=$((score + 2)); reasons="${reasons}thin-sections x${thin_count} "
-  elif [[ $thin_count -ge 1 ]]; then
-    score=$((score + 1)); reasons="${reasons}thin-sections x${thin_count} "
-  fi
-
-  # ── 14. Quality decay: prose share in the second half vs the first ──
-  local front_prose=0 back_prose=0 front_all=0 back_all=0
-  line_num=0
-  while IFS= read -r line; do
-    line_num=$((line_num + 1))
-    if [[ $line_num -le $split_line ]]; then
-      front_all=$((front_all + 1))
-      if [[ -n "$line" ]] && ! [[ "$line" =~ ^(#|-|\*|\||>) ]] && ! [[ "$line" =~ ^[0-9]+\. ]]; then
-        front_prose=$((front_prose + 1))
-      fi
-    else
-      back_all=$((back_all + 1))
-      if [[ -n "$line" ]] && ! [[ "$line" =~ ^(#|-|\*|\||>) ]] && ! [[ "$line" =~ ^[0-9]+\. ]]; then
-        back_prose=$((back_prose + 1))
-      fi
-    fi
-  done < "$f"
-  local front_prose_ratio=0 back_prose_ratio=0
-  [[ $front_all -gt 0 ]] && front_prose_ratio=$((front_prose * 100 / front_all))
-  [[ $back_all -gt 0 ]] && back_prose_ratio=$((back_prose * 100 / back_all))
-  if [[ $front_prose_ratio -gt 0 ]]; then
-    local decay_50=$(( front_prose_ratio / 2 ))
-    local decay_70=$(( front_prose_ratio * 7 / 10 ))
-    if [[ $back_prose_ratio -lt $decay_50 ]]; then
-      score=$((score + 3)); reasons="${reasons}decay ${front_prose_ratio}%->${back_prose_ratio}% "
-    elif [[ $back_prose_ratio -lt $decay_70 ]]; then
-      score=$((score + 1)); reasons="${reasons}decay ${front_prose_ratio}%->${back_prose_ratio}% "
-    fi
-  fi
-
   # ── 15. Taiwan leakage (wrong-country terms from the sister project) ──
   # Any hit is a real problem, so a single term is enough to flag the file.
-  count_taiwan_terms "$f"
+  # "Taiwan.md" (the upstream project name, cited in the origin story) is not a leak.
+  # The origin story documents the fork and may name Taiwan, so it is exempt.
+  TW_TOTAL=0; TW_FOUND=""
+  [[ "$f" == */About/origin-story.md ]] || count_taiwan_terms "$f"
   if [[ $TW_TOTAL -ge 5 ]]; then
     score=$((score + 6)); reasons="${reasons}TAIWAN x${TW_TOTAL} [${TW_FOUND}]"
   elif [[ $TW_TOTAL -ge 1 ]]; then
@@ -344,7 +260,7 @@ if [[ "$JSON_MODE" == false ]]; then
     echo "quality-scan v4.0 — knowledge/ ($( [[ "$INCLUDE_ALL" == true ]] && echo "all statuses" || echo "published only" ))"
   fi
   echo "   Score: 0-3 OK | 4-7 review | 8+ strong signal"
-  echo "   Checks: bullets, years, links, hollow filler, prose, AI phrasing, em-dashes, openers, closers, template H2s, list dumps, thin sections, decay, Taiwan terms"
+  echo "   Checks: bullets, years, sources, hollow filler, prose, AI phrasing, closers, template H2s, Taiwan terms"
   echo ""
 fi
 

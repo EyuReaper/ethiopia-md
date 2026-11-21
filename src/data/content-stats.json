@@ -1,20 +1,38 @@
 {
   "categories": {
-    "About": 6,
-    "Art": 26,
-    "Culture": 34,
-    "Economy": 48,
-    "Food": 31,
-    "Geography": 19,
-    "History": 21,
-    "Lifestyle": 18,
-    "Music": 21,
-    "Nature": 25,
-    "People": 114,
-    "Society": 25,
-    "Technology": 23,
-    "resources": 2,
-    "root": 11
+    "About": 1,
+    "Art": 2,
+    "Culture": 2,
+    "Economy": 2,
+    "Food": 2,
+    "Geography": 2,
+    "History": 2,
+    "Lifestyle": 2,
+    "Music": 2,
+    "Nature": 2,
+    "People": 2,
+    "Society": 2,
+    "Technology": 2
+  },
+  "triageStatus": {
+    "published": 50,
+    "draft": 0,
+    "archived": 0,
+    "unspecified": 0
+  },
+  "triageStatusByTier": {
+    "am": {
+      "published": 25,
+      "draft": 0,
+      "archived": 0,
+      "unspecified": 0
+    },
+    "en": {
+      "published": 25,
+      "draft": 0,
+      "archived": 0,
+      "unspecified": 0
+    }
   },
   "dailyGrowth": [
     {
@@ -39,16 +57,52 @@
     },
     {
       "date": "2026-03-22",
-      "count": 12
+      "count": 41
     },
     {
       "date": "2026-03-23",
-      "count": 8
+      "count": 44
     },
     {
       "date": "2026-03-24",
-      "count": 15
+      "count": 32
+    },
+    {
+      "date": "2026-03-25",
+      "count": 6
+    },
+    {
+      "date": "2026-03-26",
+      "count": 1
+    },
+    {
+      "date": "2026-03-27",
+      "count": 9
+    },
+    {
+      "date": "2026-03-28",
+      "count": 7
+    },
+    {
+      "date": "2026-03-29",
+      "count": 10
+    },
+    {
+      "date": "2026-03-30",
+      "count": 1
+    },
+    {
+      "date": "2026-10-30",
+      "count": 1
+    },
+    {
+      "date": "2026-11-03",
+      "count": 1
+    },
+    {
+      "date": "2026-11-20",
+      "count": 1
     }
   ],
-  "updated": "2026-03-22"
+  "updated": "2026-11-21"
 }

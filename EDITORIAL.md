@@ -17,19 +17,17 @@ An Ethiopia.md article is a sourced, readable explanation of one Ethiopian topic
 
 ## 2. Languages: Amharic is the source of truth
 
-| Tier     | Path                                | Role                                                  |
-| -------- | ----------------------------------- | ----------------------------------------------------- |
-| Amharic  | `knowledge/{Category}/{slug}.md`    | Source of truth (SSOT). Written or approved first.    |
-| English  | `knowledge/en/{Category}/{slug}.md` | Translation layer. Same slug as the Amharic file.     |
-| Spanish  | `knowledge/es/{Category}/{slug}.md` | Translation layer. Only the 12 Hubs exist, as drafts. |
-| Japanese | `knowledge/ja/{Category}/{slug}.md` | Translation layer. Everything is currently archived.  |
+| Tier    | Path                                | Role                                               |
+| ------- | ----------------------------------- | -------------------------------------------------- |
+| Amharic | `knowledge/{Category}/{slug}.md`    | Source of truth (SSOT). Written or approved first. |
+| English | `knowledge/en/{Category}/{slug}.md` | Translation layer. Same slug as the Amharic file.  |
 
 Rules:
 
 - **The Amharic file is canonical.** If the Amharic and English versions disagree on a fact, the Amharic file is the one to fix first, then the translation follows.
 - **Same slug in every language.** `knowledge/History/battle-of-adwa.md` pairs with `knowledge/en/History/battle-of-adwa.md`. Slugs are lowercase ASCII with hyphens, even for Amharic files.
 - **Translations are faithful, not literal.** Keep every claim and every citation. Adjust sentence structure and add short glosses an English reader needs ("the _Kitet_, a national call to arms"), but do not add new facts in the translation that the Amharic file lacks.
-- **Don't translate from archived Taiwan copies.** Spanish and Japanese work starts from the published Amharic/English article, never from the old `es/` or `ja/` files.
+- **Two languages only.** The site supports Amharic and English. There are no Spanish or Japanese folders, and the deleted Taiwan-era translations must not be restored.
 - In practice, English drafts often come first because most sources are in English. That is fine, as long as the Amharic version is written, checked and published together with it, and the Amharic text is treated as the reference afterwards.
 
 Never edit `src/content/**`. It is regenerated from `knowledge/` by `scripts/core/sync.sh` and your edits will be overwritten.
@@ -56,7 +54,7 @@ status: draft
 ---
 ```
 
-Quote dates as strings (`'2026-11-03'`). Use YAML block lists for tags. Many archived files break because of inline lists with unescaped commas, and that is the most common YAML failure in this repo.
+Quote dates as strings (`'2026-11-03'`). Use YAML block lists for tags. Inline lists with unescaped commas are the most common YAML failure in this repo.
 
 ### 3.2 Field reference
 
@@ -66,40 +64,40 @@ What is enforced where:
 - **Schema**: the zod schema in `src/content.config.ts`, applied by Astro to the generated `src/content/` collections.
 - **Page**: the article pages (`src/pages/[category]/[slug].astro` and the `en/` copy). These read frontmatter straight from `knowledge/` with `gray-matter`, so being in the schema does not mean a field is displayed.
 
-| Field             | Required?                                                                           | Notes                                                                                                                                                                    |
-| ----------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| `title`           | Yes. Validator warns (error with `--strict`), schema requires it.                   | String. Must match the article's `#` heading.                                                                                                                            |
-| `description`     | Yes. Same as `title`.                                                               | One or two sentences, roughly 120–250 characters. Shown on cards, in search and in meta tags. Must contain a concrete fact, not "an article about X".                    |
-| `date`            | Yes. A missing date is a warning; an unparseable date is a hard error.              | ISO Gregorian `YYYY-MM-DD`, even in Amharic files. This is a machine date, never an Ethiopian-calendar date.                                                             |
-| `tags`            | Yes. Missing is a warning; anything other than an array of strings is a hard error. | First tag is the category name in English (`History`, `Food`, ...). Then 2–4 specific tags. Hubs use `[Category, Hub]`.                                                  |
-| `status`          | Effectively yes                                                                     | `draft`, `published` or `archived`. **A missing `status` means published** (schema default), so always set it explicitly. New work starts as `draft`.                    |
-| `featured`        | Optional, default `false`                                                           | Used by homepage and featured listings. See `bash scripts/manage-featured.sh list`.                                                                                      |
-| `lastVerified`    | Optional, not in schema                                                             | Date you last re-checked the facts against sources. Editorial convention used by the published articles.                                                                 |
-| `lastHumanReview` | Optional, not in schema                                                             | `true` only after a person (not an AI tool) has read the article against its sources. All current articles are `false`.                                                  |
-| `image`           | Optional                                                                            | Path under `public/` for a per-article hero image. Only use a real, licensed photo of the subject.                                                                       |
-| `subcategory`     | Optional                                                                            | Shown as a small label next to the category on the article page.                                                                                                         |
-| `readingTime`     | Optional                                                                            | Minutes. The page estimates it if absent, so usually leave it out.                                                                                                       |
-| `author`          | Optional, default `Ethiopia.md Contributors`                                        | Leave unset unless there is a named, consenting author.                                                                                                                  |
-| `difficulty`      | Optional, `beginner` / `intermediate` / `advanced`                                  | Rarely used.                                                                                                                                                             |
-| `lastUpdated`     | Optional                                                                            | ISO date of the last substantive edit.                                                                                                                                   |
-| `source`          | Optional                                                                            | **Singular.** An array of URLs. The article page renders it as a "Sources" (ምንጮች) list under the body.                                                                   |
-| `sources`         | Optional, in schema                                                                 | **Plural.** In the zod schema but _not_ rendered by the article page. Don't use it until the two are reconciled; use inline citations and, if you want a list, `source`. |
-| `relatedTopics`   | Optional, in schema                                                                 | Not currently rendered. Use a closing paragraph with links instead (section 4).                                                                                          |
+| Field             | Required?                                                                           | Notes                                                                                                                                                                                                  |
+| ----------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `title`           | Yes. Validator warns (error with `--strict`), schema requires it.                   | String. Must match the article's `#` heading.                                                                                                                                                          |
+| `description`     | Yes. Same as `title`.                                                               | One or two sentences, roughly 120–250 characters. Shown on cards, in search and in meta tags. Must contain a concrete fact, not "an article about X".                                                  |
+| `date`            | Yes. A missing date is a warning; an unparseable date is a hard error.              | ISO Gregorian `YYYY-MM-DD`, even in Amharic files. This is a machine date, never an Ethiopian-calendar date.                                                                                           |
+| `tags`            | Yes. Missing is a warning; anything other than an array of strings is a hard error. | First tag is the category name in English (`History`, `Food`, ...). Then 2–4 specific tags. Hubs use `[Category, Hub]`.                                                                                |
+| `status`          | Effectively yes                                                                     | `draft`, `published` or `archived` (use `archived` only to retire an article later). **A missing `status` means published** (schema default), so always set it explicitly. New work starts as `draft`. |
+| `featured`        | Optional, default `false`                                                           | Used by homepage and featured listings. See `bash scripts/manage-featured.sh list`.                                                                                                                    |
+| `lastVerified`    | Optional, not in schema                                                             | Date you last re-checked the facts against sources. Editorial convention used by the published articles.                                                                                               |
+| `lastHumanReview` | Optional, not in schema                                                             | `true` only after a person (not an AI tool) has read the article against its sources. All current articles are `false`.                                                                                |
+| `image`           | Optional                                                                            | Path under `public/` for a per-article hero image. Only use a real, licensed photo of the subject.                                                                                                     |
+| `subcategory`     | Optional                                                                            | Shown as a small label next to the category on the article page.                                                                                                                                       |
+| `readingTime`     | Optional                                                                            | Minutes. The page estimates it if absent, so usually leave it out.                                                                                                                                     |
+| `author`          | Optional, default `Ethiopia.md Contributors`                                        | Leave unset unless there is a named, consenting author.                                                                                                                                                |
+| `difficulty`      | Optional, `beginner` / `intermediate` / `advanced`                                  | Rarely used.                                                                                                                                                                                           |
+| `lastUpdated`     | Optional                                                                            | ISO date of the last substantive edit.                                                                                                                                                                 |
+| `source`          | Optional                                                                            | **Singular.** An array of URLs. The article page renders it as a "Sources" (ምንጮች) list under the body.                                                                                                 |
+| `sources`         | Optional, in schema                                                                 | **Plural.** In the zod schema but _not_ rendered by the article page. Don't use it until the two are reconciled; use inline citations and, if you want a list, `source`.                               |
+| `relatedTopics`   | Optional, in schema                                                                 | Not currently rendered. Use a closing paragraph with links instead (section 4).                                                                                                                        |
 
 Language-specific fields:
 
-- Amharic only: `originalTitle`, `alternativeNames` (array). Use `alternativeNames` for spelling variants and other-language names (for example `['Aksum', 'Axum', 'አክሱም']`).
+- Amharic only: `alternativeNames` (array). Use `alternativeNames` for spelling variants and other-language names (for example `['Aksum', 'Axum', 'አክሱም']`).
 - English only: `translationStatus` (`complete` / `partial` / `planned`, default `complete`).
-- Don't use: `chineseTitle` (kept in the schema only so archived fork files still load) and `category` (derived from the folder, so setting it does nothing).
+- Don't use: `category` (derived from the folder, so setting it does nothing).
 
 ### 3.3 Other validator rules
 
-- YAML must parse. A parse error is always a hard error because it can break `getStaticPaths`.
+- YAML must parse. A parse error is always a hard error.
 - No duplicate slug within the same category and language.
 - English slugs must be lowercase.
-- Files starting with `_` (the Hubs, `_Home.md`) are **skipped** by the validator. Check Hub frontmatter by hand.
-- The validator only scans the 13 folders in its `CATEGORIES` list. `knowledge/Language/` is not one of them.
-- A full `npm run test` currently fails on about 138 errors, all in archived Taiwan files with corrupted YAML. CI and the pre-commit hook only check changed files, so your new file must pass cleanly on its own: `node scripts/core/test-frontmatter.mjs --staged`.
+- Files starting with `_` (the Hubs and `_Home.md`) are validated like any other article.
+- The validator scans `knowledge/_*.md`, the 14 category folders (including `Language/`) and their `en/` copies.
+- A full `npm run test` passes on the current corpus. CI and the pre-commit hook only check changed files; check yours with: `node scripts/core/test-frontmatter.mjs --staged`.
 
 ## 4. Article structure
 
@@ -138,7 +136,7 @@ Section headings say what the section contains ("The Treaty of Wuchale Deception
 
 ### Hubs
 
-Each category has one Hub, `knowledge/{Category}/_{Category} Hub.md` (with `en/` and `es/` copies). A Hub is a survey of the whole category, not an index page: 4–8 `##` sections covering the major periods or themes, each with real content and citations. Hubs currently contain no wikilinks. Once enough articles exist in a category, Hubs should link to them in the relevant section.
+Each category has one Hub, `knowledge/{Category}/_{Category} Hub.md` (with an `en/` copy). A Hub is a survey of the whole category, not an index page: 4–8 `##` sections covering the major periods or themes, each with real content and citations. Hubs currently contain no wikilinks. Once enough articles exist in a category, Hubs should link to them in the relevant section.
 
 ## 5. Sourcing
 
@@ -177,7 +175,7 @@ Footnotes (`text[^1]` with `[^1]: ...` at the end) are also supported and render
 `plugins/remark-wikilinks.mjs` converts `[[slug]]` into a link at build time.
 
 - The target is the **filename without `.md`** (`[[battle-of-adwa]]`), not the article title.
-- The link map is built only from **Amharic root files** (`knowledge/{Category}/*.md`), skipping `_` files, `draft` and `archived`. A link to an unpublished or archived article quietly turns into plain text. That is intended, so published articles never point into the Taiwan archive.
+- The link map is built only from **Amharic root files** (`knowledge/{Category}/*.md`), skipping `_` files, `draft` and `archived`. A link to an unpublished or archived article quietly turns into plain text, so published articles never point at hidden pages.
 - The visible link text is the slug itself (`battle-of-adwa`), and the URL is always the **Amharic** page (`/history/battle-of-adwa`), even inside an English article.
 
 House style today: one wikilink in the closing paragraph, pointing at the paired article in the same category ("To discover Ethiopia's ancient commercial and political origins, see [[aksumite-empire]]."). Until the plugin becomes language-aware:
@@ -252,8 +250,8 @@ Real examples found and fixed in this repo:
 
 What this means for writers and reviewers:
 
-1. **Never Ethiopia-wash a Taiwan topic.** Don't take an archived article such as `convenience-store-culture.md`, `beef-noodle-soup.md` or `228-incident.md`, swap "Taiwan" for "Ethiopia" and tidy it up. The topic itself usually has no Ethiopian equivalent, and everything that survives the swap (dates, numbers, names) will be wrong. Replace the topic: the History flagship slot that held the 228 Incident now holds the Battle of Adwa, and the Culture slot that held Taiwanese tea culture now holds Ethiopian coffee culture, a genuinely different topic rather than a renamed one.
-2. **Never use archived files as a template** for structure, tone, numbers or links. They are archived because they are wrong.
+1. **Never Ethiopia-wash a Taiwan topic.** Don't take a Taiwan article (for example one recovered from git history, such as `convenience-store-culture.md`, `beef-noodle-soup.md` or `228-incident.md`), swap "Taiwan" for "Ethiopia" and tidy it up. The topic itself usually has no Ethiopian equivalent, and everything that survives the swap (dates, numbers, names) will be wrong. Replace the topic: the History flagship slot that held the 228 Incident now holds the Battle of Adwa, and the Culture slot that held Taiwanese tea culture now holds Ethiopian coffee culture, a genuinely different topic rather than a renamed one.
+2. **Never use the deleted Taiwan articles as a template** for structure, tone, numbers or links. They were deleted because they are wrong.
 3. **Read for plausibility, not just for corruption.** Grepping for the placeholder string finds only broken text. Watch for: islands, typhoons, semiconductors, night markets, convenience stores, MRT/metro systems, martial law, Hakka/Hoklo, Mandarin, "Asia's first", `.gov.tw` URLs, and any number you can't trace to an Ethiopian source.
 4. **Check images by looking at them.** A file named `ethiopia-*.svg` proved nothing in this repo. Open every image you add or reuse.
 5. **Run the keyword check** before opening a PR that touches site chrome:

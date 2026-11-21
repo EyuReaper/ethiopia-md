@@ -29,24 +29,24 @@ Used by the build and by CI.
 | `generate-api.js`            | Writes the article and API JSON under `public/api/`.                                                                 |
 | `build-search-index.mjs`     | Writes the search index from `knowledge/`. Draft and archived articles are excluded.                                 |
 | `generate-dashboard-data.js` | Writes the data used by the dashboard page.                                                                          |
-| `post-build-check.mjs`       | Smoke-tests `dist/` after a build. Its page-count thresholds may need adjusting after a triage (see `ROADMAP.md`).   |
+| `post-build-check.mjs`       | Smoke-tests `dist/` after a build. Its page-count thresholds are sized for the current small corpus.                 |
 
 ## `scripts/tools/`
 
 Editorial and maintenance helpers. Run them from the repository root.
 
-| File                                                 | Purpose                                                                                                  |
-| ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| `review-pr.sh`                                       | Runs the same checks as the PR review workflow on a pull request number.                                 |
-| `quality-scan.sh`                                    | Heuristic quality scan of published articles. `--all` also scans drafts and archived articles.           |
-| `manage-featured.sh`                                 | `list` or `audit` the articles marked `featured: true`.                                                  |
-| `triage-status.mjs`                                  | Sets `status` values from the curated list. A dry run by default. Pass `--apply` to write changes.       |
-| `generate-content-stats.js`                          | Writes `src/data/content-stats.json`, including counts by status.                                        |
-| `assign-subcategory.cjs`                             | Assigns `subcategory` values in frontmatter. Check the diff before committing.                           |
-| `check-freshness.js`                                 | Lists articles not re-verified within N days (default 90). `--days` and `--json` options.                |
-| `translate.sh`                                       | Interactive helper for a contributor who wants to translate an article. Linked from the contribute page. |
-| `rewrite-pipeline.sh`, `update-stats.sh`             | Older helpers. Read them before running.                                                                 |
-| `quality-report-2026-03-24.txt`, `rewrite-queue.txt` | Snapshots from earlier work. Not inputs to any script.                                                   |
+| File                                                 | Purpose                                                                                                                                                        |
+| ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `review-pr.sh`                                       | Runs the same checks as the PR review workflow on a pull request number.                                                                                       |
+| `quality-scan.sh`                                    | Heuristic quality scan of published articles (Taiwan-term leaks, hollow phrases, missing sources, structure). `--all` also scans drafts and archived articles. |
+| `triage-status.mjs`                                  | One-off fork cleanup. **Do not run with `--apply`**: it would archive every article outside the old curated core.                                              |
+| `manage-featured.sh`                                 | `list` or `audit` the articles marked `featured: true`.                                                                                                        |
+| `generate-content-stats.js`                          | Writes `src/data/content-stats.json`, including counts by status.                                                                                              |
+| `assign-subcategory.cjs`                             | Assigns `subcategory` values in frontmatter. Check the diff before committing.                                                                                 |
+| `check-freshness.js`                                 | Lists articles not re-verified within N days (default 90). `--days` and `--json` options.                                                                      |
+| `translate.sh`                                       | Interactive helper for a contributor who wants to translate an article. Linked from the contribute page.                                                       |
+| `rewrite-pipeline.sh`, `update-stats.sh`             | Older helpers. Read them before running.                                                                                                                       |
+| `quality-report-2026-03-24.txt`, `rewrite-queue.txt` | Snapshots from earlier work. Not inputs to any script.                                                                                                         |
 
 ## `scripts/utils/`
 

@@ -29,7 +29,7 @@ export const GET: APIRoute = async () => {
   }> = [];
 
   for (const [slug, folder] of Object.entries(categoryMapping)) {
-    // Chinese articles
+    // Amharic articles
     try {
       const zhPath = resolve(process.cwd(), 'knowledge', folder);
       const files = await readdir(zhPath);

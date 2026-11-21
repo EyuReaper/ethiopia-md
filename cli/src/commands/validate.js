@@ -5,9 +5,9 @@
  * Outputs a score card with detailed checks.
  *
  * Usage:
- *   ethiopiamd validate ቡና
- *   ethiopiamd validate Ethiopiaእንጀራ --json
- *   ethiopiamd validate አድዋ --fix
+ *   ethiopiamd validate ethiopian-coffee-culture
+ *   ethiopiamd validate injera-and-teff --json
+ *   ethiopiamd validate battle-of-adwa --fix
  */
 
 import fs from 'fs';
@@ -105,14 +105,14 @@ function runChecks(frontmatter, body) {
     id: 'frontmatter',
     pass: fmPass,
     warn: !fmPass,
-    label: 'Frontmatter ተሟልቷል  ',
+    label: 'Frontmatter complete   ',
     detail: `${fmScore}/${fmFields.length}`,
     missing: fmFields.filter((f) => !fmPresent.includes(f)),
     points: fmPass ? 20 : Math.floor((fmScore / fmFields.length) * 20),
     maxPoints: 20,
     fix: fmPass
       ? null
-      : `የጎደሉ መስኮችን ያሟሉ: ${fmFields.filter((f) => !fmPresent.includes(f)).join(', ')}`,
+      : `Fill in the missing fields: ${fmFields.filter((f) => !fmPresent.includes(f)).join(', ')}`,
   });
 
   // ── 2. Word count ────────────────────────────────────────────────────────
@@ -122,13 +122,13 @@ function runChecks(frontmatter, body) {
     id: 'wordcount',
     pass: wcPass,
     warn: !wcPass,
-    label: 'በቂ የቃላት ብዛት',
+    label: 'Enough words',
     detail: `${wordCount.toLocaleString()} words`,
     points: wcPass ? 20 : Math.floor((wordCount / MIN_WORD_COUNT) * 20),
     maxPoints: 20,
     fix: wcPass
       ? null
-      : `በአሁኑ ጽሁፉ ብዛት: ${wordCount} ቃላት አሉት ። የሚመከረው: ቢያንስ ${MIN_WORD_COUNT}. እባኮትን ይዘቱን ያስፉ ።`,
+      : `The article has ${wordCount} words. Recommended: at least ${MIN_WORD_COUNT}. Please expand the content.`,
   });
 
   // ── 3. Headings ──────────────────────────────────────────────────────────
@@ -139,13 +139,13 @@ function runChecks(frontmatter, body) {
     id: 'headings',
     pass: headingPass,
     warn: !headingPass,
-    label: 'በቂ አርዕስት',
+    label: 'Enough headings',
     detail: `${headingCount}, suggested ≥${MIN_HEADINGS}`,
     points: headingPass ? 20 : Math.floor((headingCount / MIN_HEADINGS) * 20),
     maxPoints: 20,
     fix: headingPass
       ? null
-      : `## የሁለተኛ ደረጃ አርዕስት ይጨምሩ ። ሚመከረው: Overview, History, Modern Context, References.`,
+      : `Add more ## second-level headings. Suggested: Overview, History, Modern Context, Sources.`,
   });
 
   // ── 4. Reference links ───────────────────────────────────────────────────
@@ -156,13 +156,13 @@ function runChecks(frontmatter, body) {
     id: 'references',
     pass: refPass,
     warn: !refPass,
-    label: 'ዋቢ ምንጮች',
-    detail: `${refCount} ምንጮች`,
+    label: 'References',
+    detail: `${refCount} sources`,
     points: refPass ? 20 : Math.floor((refCount / MIN_REFERENCES) * 20),
     maxPoints: 20,
     fix: refPass
       ? null
-      : `ቢያንስ ${MIN_REFERENCES} ዋቢ ምንጮችን ይጨምሩ ። markdown-formatted links, e.g., [Source Name](https://example.com)`,
+      : `Add at least ${MIN_REFERENCES} references as Markdown links, e.g. [Source Name](https://example.com)`,
   });
 
   // ── 5. AI hollow phrases ─────────────────────────────────────────────────
@@ -179,14 +179,14 @@ function runChecks(frontmatter, body) {
     id: 'hollow',
     pass: hollowPass,
     warn: !hollowPass,
-    label: 'የ AI ባዶ አገላለጾች',
+    label: 'Hollow AI phrasing',
     detail: hollowPass ? 'None' : `${hollowTotal} found`,
     found: foundHollow,
     points: hollowPass ? 10 : Math.max(0, 10 - hollowTotal * 3),
     maxPoints: 10,
     fix: hollowPass
       ? null
-      : `የሚከተሉትን አገላለጾች ያስወግዱ ወይም ይለዉጡ: ${foundHollow.map((h) => h.label).join(', ')}`,
+      : `Remove or rewrite these phrases: ${foundHollow.map((h) => h.label).join(', ')}`,
   });
 
   // ── 6. Description length ────────────────────────────────────────────────
@@ -197,20 +197,20 @@ function runChecks(frontmatter, body) {
     id: 'description',
     pass: descPass,
     warn: descWarn,
-    label: 'የገለጻ ርዝመት',
+    label: 'Description length',
     detail:
       descLen === 0
-        ? 'ገለጻ የለም'
-        : `${descLen} ቃላት (${descPass ? 'በጣም ጥሩ' : descLen < DESC_MIN ? 'በጣም አነሰ' : 'በጣም ረዘመ'})`,
+        ? 'no description'
+        : `${descLen} words (${descPass ? 'good' : descLen < DESC_MIN ? 'too short' : 'too long'})`,
     points: descPass ? 10 : descLen === 0 ? 0 : 5,
     maxPoints: 10,
     fix: descPass
       ? null
       : descLen === 0
-        ? 'የ ገለጻ መስክ ይጨምሩ (50-200 ቃላት ይመከራል)'
+        ? 'Add a description field (50-200 words recommended)'
         : descLen < DESC_MIN
-          ? `ገለጻው በጣም አጭር ነው (${descLen} ቃላት) ፤ ወደ ${DESC_MIN}-${DESC_MAX} ይስፋ`
-          : `ገለጻው በጣም ረጅም ነው (${descLen} ቃላት), ወደ ${DESC_MAX} ይጠር`,
+          ? `The description is too short (${descLen} words). Expand it to ${DESC_MIN}-${DESC_MAX}.`
+          : `The description is too long (${descLen} words). Trim it to ${DESC_MAX}.`,
   });
 
   // Calculate total score
@@ -225,9 +225,9 @@ function runChecks(frontmatter, body) {
  */
 function scoreTier(score, total) {
   const pct = (score / total) * 100;
-  if (pct >= 90) return { emoji: '🟢', label: 'ምርጥ' };
-  if (pct >= 70) return { emoji: '🟡', label: 'መሻሻል አለበት' };
-  return { emoji: '🔴', label: 'ከፍተኛ ማሻሻያ ያስፈልገዋል' };
+  if (pct >= 90) return { emoji: '🟢', label: 'Excellent' };
+  if (pct >= 70) return { emoji: '🟡', label: 'Needs improvement' };
+  return { emoji: '🔴', label: 'Needs major work' };
 }
 
 export function validateCommand(program) {
@@ -242,7 +242,7 @@ export function validateCommand(program) {
 
         const filePath = findArticleBySlug(slug);
         if (!filePath) {
-          const msg = `ጽሁፉ አልተገኘም: "${slug}". Check the slug or run ethiopiamd sync.`;
+          const msg = `Article not found: "${slug}". Check the slug or run ethiopiamd sync.`;
           if (opts.json) {
             console.log(JSON.stringify({ error: msg }, null, 2));
           } else {
@@ -287,7 +287,7 @@ export function validateCommand(program) {
         // ── Human-readable score card ──────────────────────────────────────
         console.log('');
         console.log(
-          chalk.bold(`📋 የጽሁፍ ጥራት ምርመራ: ${frontmatter.title || slug}`),
+          chalk.bold(`📋 Article quality check: ${frontmatter.title || slug}`),
         );
         console.log('');
 
@@ -304,14 +304,16 @@ export function validateCommand(program) {
 
         console.log('');
         const tierStr = `${tier.emoji} ${tier.label}`;
-        console.log(chalk.bold(`ጠቅላላ ውጤት: ${score}/${total} — ${tierStr}`));
+        console.log(chalk.bold(`Total score: ${score}/${total} — ${tierStr}`));
         console.log('');
 
         if (!opts.fix && checks.some((c) => !c.pass)) {
-          console.log(chalk.gray('  ፍንጭ:  የማሻሻያ ሃሳቦችን ለማየት --fix ይጠቀሙ\n'));
+          console.log(
+            chalk.gray('  Tip:  use --fix to see improvement suggestions\n'),
+          );
         }
       } catch (err) {
-        console.error(chalk.red(`\n❌ ምርመራው አልተሳካም: ${err.message}\n`));
+        console.error(chalk.red(`\n❌ Validation failed: ${err.message}\n`));
         process.exit(1);
       }
     });

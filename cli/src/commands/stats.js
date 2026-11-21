@@ -56,8 +56,8 @@ export function statsCommand(program) {
         }
 
         if (!vitals && !organism) {
-          console.log(chalk.yellow('\n  ምንም የናሙና መረጃ አልተገኘም ።\n'));
-          console.log(chalk.gray('  💡 እባክዎ አስቀድመው ethiopiamd sync ያካሂዱ ።\n'));
+          console.log(chalk.yellow('\n  No statistics data found.\n'));
+          console.log(chalk.gray('  💡 Run ethiopiamd sync first.\n'));
           return;
         }
 
@@ -67,7 +67,7 @@ export function statsCommand(program) {
           return;
         }
 
-        console.log(chalk.bold('\n  📊 የ Ethiopia.md  ፕሮጀክት ናሙና\n'));
+        console.log(chalk.bold('\n  📊 Ethiopia.md project statistics\n'));
 
         // Project vitals table
         if (vitals) {
@@ -78,14 +78,14 @@ export function statsCommand(program) {
           const v = vitals;
 
           table.push([
-            chalk.gray('ጠቅላላ የጽሁፎች ብዛት'),
+            chalk.gray('Total articles'),
             chalk.white(String(v.totalArticles || 0)),
           ]);
           if (v.languageCoverage) {
             const langs = Object.entries(v.languageCoverage)
               .map(([k, n]) => `${k}: ${n}`)
               .join(', ');
-            table.push([chalk.gray('የቋንቋ ሽፋን'), chalk.white(langs)]);
+            table.push([chalk.gray('Language coverage'), chalk.white(langs)]);
           }
           const reviewPct = v.humanReviewedPercent || 0;
           const reviewColor =
@@ -94,22 +94,25 @@ export function statsCommand(program) {
               : reviewPct >= 50
                 ? chalk.yellow
                 : chalk.red;
-          table.push([chalk.gray('በሰው የተገመገመ'), reviewColor(`${reviewPct}%`)]);
           table.push([
-            chalk.gray('የተመረጡ ጽሁፎች'),
+            chalk.gray('Human reviewed'),
+            reviewColor(`${reviewPct}%`),
+          ]);
+          table.push([
+            chalk.gray('Featured articles'),
             chalk.cyan(`${v.featuredPercent || 0}%`),
           ]);
           table.push([
-            chalk.gray('አማካይ ክለሳ'),
+            chalk.gray('Average revision'),
             chalk.white(`×${v.avgRevision || 0}`),
           ]);
           table.push([
-            chalk.gray('ባለፉት 7 ቀናት የተጨመሩ'),
+            chalk.gray('Added in the last 7 days'),
             chalk.white(String(v.articlesLast7Days || 0)),
           ]);
           if (v.lastUpdated) {
             table.push([
-              chalk.gray('መጨረሻ የተሻሻለው'),
+              chalk.gray('Last updated'),
               chalk.gray(new Date(v.lastUpdated).toLocaleDateString('en-US')),
             ]);
           }
@@ -119,7 +122,7 @@ export function statsCommand(program) {
 
         // Organism health
         if (organism) {
-          console.log(chalk.bold('\n  🏥  የእውቀት መሰረት ጤናማነት\n'));
+          console.log(chalk.bold('\n  🏥  Knowledge base health\n'));
 
           const organs = organism.organs || organism.dimensions || organism;
 
@@ -150,8 +153,8 @@ export function statsCommand(program) {
 
         console.log('');
       } catch (err) {
-        console.error(chalk.red(`ናሙናውን መጫን አልተሳካም: ${err.message}`));
-        console.log(chalk.gray('\n  💡 እባክዎ አስቀድመው ethiopiamd sync ያሂዱ።\n'));
+        console.error(chalk.red(`Failed to load statistics: ${err.message}`));
+        console.log(chalk.gray('\n  💡 Run ethiopiamd sync first.\n'));
         process.exit(1);
       }
     });

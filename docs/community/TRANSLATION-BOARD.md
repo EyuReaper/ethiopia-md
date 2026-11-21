@@ -8,7 +8,7 @@ Each article's `status` field in its frontmatter decides whether it is visible:
 
 - `published`: live on the site, and linked from category pages, search and feeds.
 - `draft`: hidden from the site and from wikilink resolution until a maintainer flips it.
-- `archived`: hidden from listings. The page still builds if its URL is typed directly.
+- `archived`: a retired article, hidden from listings and wikilinks. The page still builds if its URL is typed directly. None exist at the moment.
 
 An article needs an English version when it is `published` (or about to be) and no file exists at `knowledge/en/{Category}/{slug}.md`.
 

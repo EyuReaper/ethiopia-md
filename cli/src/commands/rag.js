@@ -5,9 +5,9 @@
  * and outputs them in a prompt-ready format for piping to LLMs.
  *
  * Usage:
- *   ethiopiamd rag "半導體產業" | llm "summarize"
- *   ethiopiamd rag "Ethiopia經濟" --limit 1 --json
- *   ethiopiamd rag "原住民文化" --no-prompt
+ *   ethiopiamd rag "coffee ceremony" | llm "summarize"
+ *   ethiopiamd rag "Ethiopian economy" --limit 1 --json
+ *   ethiopiamd rag "Oromo culture" --no-prompt
  */
 
 import path from 'path';
@@ -51,7 +51,7 @@ function loadArticleBody(result) {
     title: result.title,
     category: result.category,
     slug: result.slug || '',
-    body: result.description || '(文章內容無法載入)',
+    body: result.description || '(article content could not be loaded)',
   };
 }
 

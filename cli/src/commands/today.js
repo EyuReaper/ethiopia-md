@@ -1,5 +1,5 @@
 /**
- * ethiopiamd today — የዛሬዋ ኢትዮጵያ
+ * ethiopiamd today — today's Ethiopia
  *
  *
  * Shows a daily discovery card with 3 articles from different categories
@@ -69,7 +69,7 @@ export function todayCommand(program) {
 
         if (!articles || articles.length === 0) {
           console.log(
-            chalk.yellow('\n  ምንም ጽሁፎች አልተገኙም። Run ethiopiamd sync first.\n'),
+            chalk.yellow('\n  No articles found. Run ethiopiamd sync first.\n'),
           );
           return;
         }
@@ -100,7 +100,8 @@ export function todayCommand(program) {
         console.log('\n' + bc('╔') + bc('═'.repeat(W)) + bc('╗'));
         console.log(
           boxLine(
-            chalk.bold.yellow('  🇪🇹  የዛሬዋ ኢትዮጵ') + chalk.gray(`  ${today}`),
+            chalk.bold.yellow('  🇪🇹  Today in Ethiopia') +
+              chalk.gray(`  ${today}`),
             W,
             bc,
           ),
@@ -130,7 +131,7 @@ export function todayCommand(program) {
         });
 
         console.log(bc('╠') + bc('═'.repeat(W)) + bc('╣'));
-        console.log(boxLine(chalk.bold.magenta('  💡 የዛሬው እውነታ'), W, bc));
+        console.log(boxLine(chalk.bold.magenta('  💡 Fact of the day'), W, bc));
         console.log(bc('║') + ' '.repeat(W) + bc('║'));
 
         const factWords = funFact.split(' ');
@@ -155,13 +156,13 @@ export function todayCommand(program) {
             .replace(/[\s_]+/g, '-')
             .replace(/[^\w\u1200-\u137F-]/g, '');
         console.log(
-          `\n  → ${chalk.cyan('ethiopiamd read ' + slug)} ${chalk.gray(' ሙሉውን ያንብቡ')}`,
+          `\n  → ${chalk.cyan('ethiopiamd read ' + slug)} ${chalk.gray(' read the full article')}`,
         );
         console.log(
-          `  → ${chalk.cyan('ethiopiamd random')} ${chalk.gray('  ሌላ ይሞክሩ')}\n`,
+          `  → ${chalk.cyan('ethiopiamd random')} ${chalk.gray('  try another')}\n`,
         );
       } catch (err) {
-        console.error(chalk.red(`የዛሬው አልተሳካም: ${err.message}`));
+        console.error(chalk.red(`Today failed: ${err.message}`));
         process.exit(1);
       }
     });

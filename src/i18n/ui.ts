@@ -35,7 +35,7 @@ export const ui = {
     'nav.aria-mobile-navigation': 'Mobile navigation',
     'nav.aria-search': 'Search',
     'nav.aria-language-selection': 'Language selection',
-    'nav.aria-switch-to-zh-tw': 'Switch to Traditional Chinese',
+    'nav.aria-switch-to-zh-tw': 'Switch to Amharic',
     'nav.aria-switch-to-en': 'Switch to English',
     'nav.home': 'Home',
     'nav.about': 'About',

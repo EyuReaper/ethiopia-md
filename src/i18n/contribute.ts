@@ -17,9 +17,9 @@ export const contributeUI = {
     'contribute.how.language.icon': '📁',
     'contribute.how.language.title': 'Language Toggle',
     'contribute.how.language.desc.html':
-      'Toggle between <strong>Chinese</strong> and <strong>English</strong> in the top-right corner. Chinese is the primary content (SSOT), English is being translated continuously.',
+      'Toggle between <strong>Amharic</strong> and <strong>English</strong> in the top-right corner. Amharic is the primary content (SSOT), English is being translated continuously.',
     'contribute.how.language.code.html':
-      'ethiopia.md/ → Chinese<br />ethiopia.md/en/ → English',
+      'ethiopia.md/ → Amharic<br />ethiopia.md/en/ → English',
     'contribute.how.md.icon': '📝',
     'contribute.how.md.title': '.md Button',
     'contribute.how.md.desc.html':
@@ -363,7 +363,8 @@ export const contributeUI = {
       'Already have existing articles, PDFs, or photos? Send them directly.',
     'contribute.paths.medium.email.html':
       '📧 Email: <a href="mailto:getachewnatnael55@gmail.com">getachewnatnael55@gmail.com</a>',
-    'contribute.paths.medium.github': '💬 GitHub Discussion (Chinese OK)',
+    'contribute.paths.medium.github':
+      '💬 GitHub Discussion (Amharic or English)',
     'contribute.paths.medium.button': 'Send Email →',
 
     // Path: AI

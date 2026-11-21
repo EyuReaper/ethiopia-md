@@ -1,5 +1,5 @@
 /**
- * ethiopiamd quiz — Ethiopia知識小測驗
+ * ethiopiamd quiz — Ethiopia knowledge quiz
  *
  * 5-question true/false quiz about Ethiopia articles.
  * Single-keypress input via raw stdin. No extra deps.
@@ -55,11 +55,11 @@ function readKey() {
  */
 function getRating(score) {
   if (score === TOTAL_QUESTIONS)
-    return chalk.bold.yellow('🏆 滿分！Ethiopia通！');
-  if (score >= 4) return chalk.bold.green('🎉 非常棒！');
-  if (score >= 3) return chalk.bold.cyan('👍 不錯喔！');
-  if (score >= 2) return chalk.bold.white('📚 繼續加油！');
-  return chalk.bold.red('🐣 新手上路，多讀多學！');
+    return chalk.bold.yellow('🏆 Perfect score! You know your Ethiopia!');
+  if (score >= 4) return chalk.bold.green('🎉 Excellent!');
+  if (score >= 3) return chalk.bold.cyan('👍 Nice work!');
+  if (score >= 2) return chalk.bold.white('📚 Keep learning!');
+  return chalk.bold.red('🐣 Just getting started. Read more and try again!');
 }
 
 export function quizCommand(program) {
@@ -73,7 +73,9 @@ export function quizCommand(program) {
 
         if (!articles || articles.length < 10) {
           console.log(
-            chalk.yellow('\n  文章數量不足，請先執行 ethiopiamd sync\n'),
+            chalk.yellow(
+              '\n  Not enough articles. Run ethiopiamd sync first.\n',
+            ),
           );
           return;
         }
@@ -88,8 +90,8 @@ export function quizCommand(program) {
 
         console.log('');
         console.log(chalk.bold.cyan('  ══════════════════════════════════'));
-        console.log(chalk.bold.white('   🇪🇹  Ethiopia知識小測驗'));
-        console.log(chalk.gray('   按 Y (是) 或 N (否) 回答'));
+        console.log(chalk.bold.white('   🇪🇹  Ethiopia knowledge quiz'));
+        console.log(chalk.gray('   Press Y (yes) or N (no) to answer'));
         console.log(chalk.bold.cyan('  ══════════════════════════════════\n'));
 
         let score = 0;
@@ -123,25 +125,27 @@ export function quizCommand(program) {
           const desc = article.description || article.excerpt || '';
           const preview = desc.length > 50 ? desc.slice(0, 50) + '…' : desc;
 
-          console.log(chalk.bold.white(`  第 ${i + 1}/${TOTAL_QUESTIONS} 題`));
+          console.log(
+            chalk.bold.white(`  Question ${i + 1}/${TOTAL_QUESTIONS}`),
+          );
           console.log('');
           if (preview) {
-            console.log(chalk.gray(`  「${preview}」`));
+            console.log(chalk.gray(`  "${preview}"`));
             console.log('');
           }
           console.log(
             chalk.white(
-              `  「${chalk.bold(article.title)}」屬於 ${displayEmoji} ${chalk.bold(displayLabel)} 分類？`,
+              `  Does "${chalk.bold(article.title)}" belong to ${displayEmoji} ${chalk.bold(displayLabel)}?`,
             ),
           );
           console.log('');
-          process.stdout.write(chalk.cyan('  (Y) 是  /  (N) 否  → '));
+          process.stdout.write(chalk.cyan('  (Y) yes  /  (N) no  → '));
 
           const answer = await readKey();
 
           // Handle Ctrl+C
           if (answer === '\x03') {
-            console.log(chalk.gray('\n\n  已中止測驗。\n'));
+            console.log(chalk.gray('\n\n  Quiz cancelled.\n'));
             process.exit(0);
           }
 
@@ -151,13 +155,17 @@ export function quizCommand(program) {
           if (correct) {
             score++;
             console.log(
-              chalk.bold.green('\n  ✅ 答對了！') +
-                chalk.gray(`  正確分類：${correctEmoji} ${correctLabel}`),
+              chalk.bold.green('\n  ✅ Correct!') +
+                chalk.gray(
+                  `  Correct category: ${correctEmoji} ${correctLabel}`,
+                ),
             );
           } else {
             console.log(
-              chalk.bold.red('\n  ❌ 答錯了！') +
-                chalk.gray(`  正確分類：${correctEmoji} ${correctLabel}`),
+              chalk.bold.red('\n  ❌ Wrong!') +
+                chalk.gray(
+                  `  Correct category: ${correctEmoji} ${correctLabel}`,
+                ),
             );
           }
           console.log('');
@@ -166,7 +174,7 @@ export function quizCommand(program) {
         // Final result
         console.log(chalk.bold.cyan('  ══════════════════════════════════'));
         console.log(
-          chalk.bold.white(`  📊 最終得分：${score} / ${TOTAL_QUESTIONS}`),
+          chalk.bold.white(`  📊 Final score: ${score} / ${TOTAL_QUESTIONS}`),
         );
         console.log(`  ${getRating(score)}`);
         console.log(chalk.bold.cyan('  ══════════════════════════════════\n'));
@@ -177,7 +185,7 @@ export function quizCommand(program) {
         } catch {}
         process.stdin.pause();
       } catch (err) {
-        console.error(chalk.red(`測驗失敗: ${err.message}`));
+        console.error(chalk.red(`Quiz failed: ${err.message}`));
         try {
           process.stdin.setRawMode(false);
         } catch {}

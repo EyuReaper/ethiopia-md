@@ -1,94 +1,90 @@
-# Ethiopia[Amharic translation needed - original Taiwan context] 🇪🇹
+---
+title: 'Ethiopia.md'
+description: 'የEthiopia.md የእውቀት ማዕከል መነሻ ገጽ፦ ፕሮጀክቱ ምን እንደሆነ፣ አማርኛ ለምን ዋና ምንጭ እንደሆነ፣ 12ቱ ምድቦች እንዴት እንደተደራጁ እና ወደ እያንዳንዱ ምድብ መግቢያ የሚወስዱ አገናኞች።'
+date: '2026-11-20'
+tags: [Home, Ethiopia.md, Hub]
+author: 'Ethiopia.md'
+status: published
+---
 
-> **[Amharic translation needed - original Taiwan context]Ethiopia SSOT（Single Source of Truth）[Amharic translation needed - original Taiwan context]**  
-> [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+# Ethiopia.md 🇪🇹
 
-## [Amharic translation needed - original Taiwan context]？
+> **ይህ ማውጫ (`knowledge/`) የEthiopia.md ዋና የእውነት ምንጭ (Single Source of Truth) ነው።**
+> እዚህ የሚጻፈው የአማርኛ ጽሑፍ ድረ ገጹን፣ የፍለጋ ማውጫውን፣ የAPI ውጤቶቹን እና ሁሉንም ትርጉሞች ይመግባል።
 
-Ethiopia[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。[Amharic translation needed - original Taiwan context]：
+## Ethiopia.md ምንድን ነው?
 
-- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia
-- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]
+Ethiopia.md ስለ ኢትዮጵያ ክፍት፣ ነጻ እና ማንም ሰው ሊያሻሽለው የሚችል የእውቀት ማዕከል ነው። ጽሑፎቹ ቀላል የMarkdown ፋይሎች ስለሆኑ ሰዎች በድረ ገጹ ላይ ሊያነቧቸው፣ በObsidian ውስጥ ሊያስሱዋቸው፣ የሰው ሰራሽ አስተውሎት (AI) ስርዓቶችም በቀጥታ ሊጠቀሙባቸው ይችላሉ። ፕሮጀክቱ የተጀመረው ስለ ታይዋን ከተሰራው የክፍት ምንጭ ፕሮጀክት Taiwan.md ቅርንጫፍ (fork) ሆኖ ሲሆን፣ ይዘቱ ደረጃ በደረጃ በእውነተኛ፣ ምንጭ በተጠቀሰ የኢትዮጵያ ጽሑፍ እየተተካ ይገኛል። ዝርዝሩን በ«ስለ Ethiopia.md፦ መነሻ እና ዓላማ» (`About/origin-story.md`) ውስጥ ያገኛሉ።
+
+## አማርኛ ዋና ምንጭ ነው
+
+- **መጀመሪያ በአማርኛ፦** እያንዳንዱ ጽሑፍ በ`knowledge/{ምድብ}/` ውስጥ በአማርኛ ይጻፋል።
+- **ትርጉሞች ከአማርኛው ይወጣሉ፦** የእንግሊዝኛ (`knowledge/en/`)፣ የስፓኒሽ (`knowledge/es/`) እና የጃፓንኛ (`knowledge/ja/`) ቅጂዎች ከአማርኛው ይተረጎማሉ።
+- **ልዩነት ሲኖር አማርኛው ይመረጣል፦** ትርጉምና ዋናው ቅጂ ከተጋጩ፣ መጀመሪያ የሚታረመው ትርጉሙ ነው።
+- **`src/content/` አይታረምም፦** ያ ማውጫ ከዚህ በራስ-ሰር ይገለበጣል።
+
+## 12ቱ ምድቦች እንዴት ተደራጁ?
+
+እያንዳንዱ ምድብ የራሱ ማውጫ አለው (ለምሳሌ `knowledge/History/`)፤ በውስጡም `_{Category} Hub.md` የሚባል የምድቡ መግቢያ ጽሑፍ ይገኛል። መግቢያው የምድቡን አጠቃላይ እይታ ይሰጣል፣ ምንጮችን ይጠቅሳል፣ ወደ ዝርዝር ጽሑፎችም ይመራል። ዝርዝር ጽሑፎች ደግሞ ከአጭር መግቢያ ጀምረው ወደ ጥልቅ ክፍሎች፣ ተዛማጅ ርዕሶችና ምንጮች የሚሄድ ባለ ሦስት ደረጃ መዋቅር ይከተላሉ።
+
+## 📚 የምድብ መግቢያዎች
+
+### 📜 [[_History Hub|ታሪክ]]
+
+ከአክሱም መንግሥት እስከ አድዋ ድል፣ ከደርግ ዘመን እስከ ዘመናዊው የፌዴራል ሥርዓት ያለው የኢትዮጵያ ረዥም ታሪክ።
+
+### 🗺️ [[_Geography Hub|ጂኦግራፊ]]
+
+ደጋማው መልክአ ምድር፣ ታላቁ የስምጥ ሸለቆ፣ ወደብ አልባነት እና ብዝሃ ሕይወት።
+
+### 🎭 [[_Culture Hub|ባህል]]
+
+ብሔሮች፣ ቋንቋዎች፣ ሃይማኖቶች፣ የቀን አቆጣጠር እና የቡና ባህል።
+
+### 🍲 [[_Food Hub|ምግብ]]
+
+እንጀራና ጤፍ፣ የበርበሬ ወጥ፣ የቡና ሥነ ሥርዓት እና የጾም ልማድ።
+
+### 🎨 [[_Art Hub|ጥበብ]]
+
+ከብራና ሥዕልና ከላሊበላ ውቅር አብያተ ክርስቲያናት እስከ ዘመናዊ ሥዕልና ሲኒማ።
+
+### 🎵 [[_Music Hub|ሙዚቃ]]
+
+ቅኝቶችና ባህላዊ መሳሪያዎች፣ ኢትዮ ጃዝና ወርቃማው ዘመን፣ የዛሬው የአዲስ አበባ ሙዚቃ።
+
+### 💻 [[_Technology Hub|ቴክኖሎጂ]]
+
+የዲጂታል ኢትዮጵያ 2030 ስትራቴጂ፣ ቴሌብር እና የአዲስ አበባ ስታርትአፕ ምህዳር።
+
+### 🌿 [[_Nature Hub|ተፈጥሮ]]
+
+የሴሜንና የባሌ ተራሮች የዱር አራዊት፣ የስምጥ ሸለቆ ሐይቆች እና ዳናኪል ድብርት።
+
+### 👤 [[_People Hub|ሰዎች]]
+
+የአድዋ ጀግኖች፣ የረጅም ርቀት ሯጮች፣ ሙዚቀኞች እና ሳይንቲስቶች፦ ኢትዮጵያን የቀረጹ ግለሰቦች።
+
+### 🏛️ [[_Society Hub|ማህበረሰብ]]
+
+ብሔር-ተኮሩ ፌዴራላዊ አወቃቀር፣ የአፍሪካ ኅብረት መቀመጫነት፣ የሕዝብና የከተሜነት ለውጦች።
+
+### 📊 [[_Economy Hub|ኢኮኖሚ]]
+
+ግብርና፣ ቡናና ጤፍ፣ የመንግሥት መር ልማት፣ የኢትዮጵያ አየር መንገድ እና ታላቁ የሕዳሴ ግድብ።
+
+### 🏠 [[_Lifestyle Hub|አኗኗር]]
+
+የቡና ሥነ ሥርዓት፣ ሃይማኖታዊ ልማዶች፣ የቤተሰብ ትስስር እና የገጠርና የከተማ አኗኗር።
 
 ---
 
-## 📚 [Amharic translation needed - original Taiwan context] Hub
+## 🔗 ይህንን ማዕከል እንዴት መጠቀም ይቻላል?
 
-### 🏛️ [[_History Hub|[Amharic translation needed - original Taiwan context]]] - [Amharic translation needed - original Taiwan context]
+- **ከመግቢያ ይጀምሩ፦** ከላይ ካሉት 12 የምድብ መግቢያዎች አንዱን ይምረጡ።
+- **በObsidian ያስሱ፦** `knowledge/` ማውጫውን እንደ Obsidian vault ከፍተው `[[wikilinks]]` በመከተል በጽሑፎች መካከል ይጓዙ።
+- **ያበርክቱ፦** ስህተት ካገኙ ወይም አዲስ ጽሑፍ መጻፍ ከፈለጉ [GitHub](https://github.com/EyuReaper/ethiopia-md) ላይ Issue ወይም Pull Request ይክፈቱ።
 
-Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
+## 📊 የአሁኑ ሁኔታ
 
-### 🗺️ [[_Geography Hub|[Amharic translation needed - original Taiwan context]]] - [Amharic translation needed - original Taiwan context]
-
-[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-### 🎭 [[_Culture Hub|[Amharic translation needed - original Taiwan context]]] - [Amharic translation needed - original Taiwan context]
-
-[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]。
-
-### 🍜 [[_Food Hub|[Amharic translation needed - original Taiwan context]]] - [Amharic translation needed - original Taiwan context]
-
-[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]。
-
-### 🎨 [[_Art Hub|[Amharic translation needed - original Taiwan context]]] - [Amharic translation needed - original Taiwan context]
-
-[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]。
-
-### 🎵 [[_Music Hub|[Amharic translation needed - original Taiwan context]]] - [Amharic translation needed - original Taiwan context]
-
-Ethiopia[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-### 💻 [[_Technology Hub|[Amharic translation needed - original Taiwan context]]] - [Amharic translation needed - original Taiwan context]
-
-Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-### 🌿 [[_Nature Hub|[Amharic translation needed - original Taiwan context]]] - [Amharic translation needed - original Taiwan context]
-
-Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]。
-
-### 👥 [[_People Hub|[Amharic translation needed - original Taiwan context]]] - [Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]
-
-[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]Ethiopia[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。
-
-### 🏛️ [[_Society Hub|[Amharic translation needed - original Taiwan context]]] - [Amharic translation needed - original Taiwan context]
-
-Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]。
-
-### 💰 [[_Economy Hub|[Amharic translation needed - original Taiwan context]]] - [Amharic translation needed - original Taiwan context]
-
-Ethiopia[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]「Ethiopia[Amharic translation needed - original Taiwan context]」，[Amharic translation needed - original Taiwan context]。
-
-### 🏠 [[_Lifestyle Hub|[Amharic translation needed - original Taiwan context]]] - Ethiopia[Amharic translation needed - original Taiwan context]
-
-[Amharic translation needed - original Taiwan context]，Ethiopia[Amharic translation needed - original Taiwan context]。
-
----
-
-## 🔗 [Amharic translation needed - original Taiwan context]
-
-### [Amharic translation needed - original Taiwan context]
-
-- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] Hub [Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] Obsidian [Amharic translation needed - original Taiwan context]
-- **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context] [[wikilinks]] [Amharic translation needed - original Taiwan context]
-
-### [Amharic translation needed - original Taiwan context]
-
-- ✅ **30 [Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
-- ✅ **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
-- ✅ **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
-- ✅ **[Amharic translation needed - original Taiwan context]**：[Amharic translation needed - original Taiwan context]
-
----
-
-## 📊 [Amharic translation needed - original Taiwan context]
-
-**[Amharic translation needed - original Taiwan context]**: 2026-03-17  
-**[Amharic translation needed - original Taiwan context]**: 12 [Amharic translation needed - original Taiwan context] Hub  
-**[Amharic translation needed - original Taiwan context]**: [Amharic translation needed - original Taiwan context] 🚧
-
----
-
-_[Amharic translation needed - original Taiwan context]、[Amharic translation needed - original Taiwan context]，[Amharic translation needed - original Taiwan context]！_
+አሁን በቀጥታ የታተሙት 12ቱ የምድብ መግቢያዎች (በአማርኛና በእንግሊዝኛ) እና ጥቂት አዳዲስ ጽሑፎች ናቸው። ከTaiwan.md የተወረሱት የቆዩ ጽሑፎች `status: archived` ወይም `status: draft` ተደርገው ከዝርዝሮች፣ ከፍለጋና ከRSS ተወግደዋል፤ በእውነተኛ የኢትዮጵያ ይዘት እስኪተኩ ድረስ እንደ ታተሙ ጽሑፎች አይቆጠሩም።

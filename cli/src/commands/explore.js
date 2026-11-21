@@ -1,5 +1,5 @@
 /**
- * ethiopiamd explore — 互動模糊搜尋 TUI
+ * ethiopiamd explore — interactive fuzzy search TUI
  *
  * Uses ONLY readline + ANSI escape codes.
  * No blessed, no ink, no extra deps.
@@ -63,9 +63,9 @@ function renderResults(results, selectedIdx, query) {
 
   if (results.length === 0) {
     if (query.trim()) {
-      lines.push(chalk.gray('  找不到相關文章'));
+      lines.push(chalk.gray('  No matching articles'));
     } else {
-      lines.push(chalk.gray('  輸入關鍵字搜尋…'));
+      lines.push(chalk.gray('  Type a keyword to search…'));
     }
     return lines;
   }
@@ -117,8 +117,8 @@ async function openArticle(articleData) {
   }
 
   if (!filePath) {
-    console.log(chalk.yellow('\n  找不到文章。\n'));
-    console.log(chalk.gray('  按任意鍵返回…'));
+    console.log(chalk.yellow('\n  Article not found.\n'));
+    console.log(chalk.gray('  Press any key to go back…'));
     await waitAnyKey();
     return;
   }
@@ -126,7 +126,7 @@ async function openArticle(articleData) {
   try {
     const article = readArticle(filePath);
     if (!article) {
-      console.log(chalk.red('\n  無法讀取文章。\n'));
+      console.log(chalk.red('\n  Could not read the article.\n'));
       await waitAnyKey();
       return;
     }
@@ -145,11 +145,13 @@ async function openArticle(articleData) {
     console.log('');
     console.log(renderMarkdown(article.body || ''));
   } catch {
-    console.log(chalk.red('\n  讀取文章時發生錯誤。\n'));
+    console.log(
+      chalk.red('\n  An error occurred while reading the article.\n'),
+    );
   }
 
   console.log(chalk.gray('\n  ─────────────────────────'));
-  console.log(chalk.gray('  按任意鍵返回搜尋…'));
+  console.log(chalk.gray('  Press any key to return to search…'));
   await waitAnyKey();
 }
 
@@ -176,7 +178,7 @@ export function exploreCommand(program) {
 
         if (!allArticles || allArticles.length === 0) {
           console.log(
-            chalk.yellow('\n  找不到文章，請先執行 ethiopiamd sync\n'),
+            chalk.yellow('\n  No articles found. Run ethiopiamd sync first.\n'),
           );
           return;
         }
@@ -201,11 +203,11 @@ export function exploreCommand(program) {
 
           // Header
           process.stdout.write(
-            chalk.bold.cyan('  🔍 探索Ethiopia知識庫') +
-              chalk.gray('  (↑↓ 選擇  Enter 閱讀  Esc 離開)\n'),
+            chalk.bold.cyan('  🔍 Explore the Ethiopia knowledge base') +
+              chalk.gray('  (↑↓ select  Enter read  Esc quit)\n'),
           );
           process.stdout.write(
-            chalk.white('  搜尋：') +
+            chalk.white('  Search: ') +
               chalk.bold.yellow(query || '') +
               chalk.dim('█') +
               CLEAR_LINE +
@@ -220,9 +222,7 @@ export function exploreCommand(program) {
 
           // Status line
           const countStr =
-            results.length > 0
-              ? chalk.gray(`  共 ${results.length} 篇結果`)
-              : '';
+            results.length > 0 ? chalk.gray(`  ${results.length} results`) : '';
           process.stdout.write(countStr + CLEAR_LINE + '\n');
 
           lastRenderedLines = resultLines.length + 1; // +1 for status line
@@ -263,7 +263,7 @@ export function exploreCommand(program) {
           if (ch === '\x03' || ch === '\x1b') {
             cleanup();
             process.stdout.write('\n');
-            console.log(chalk.gray('  再見！\n'));
+            console.log(chalk.gray('  Goodbye!\n'));
             process.exit(0);
           }
 
@@ -320,7 +320,7 @@ export function exploreCommand(program) {
         process.stdin.on('data', onKey);
       } catch (err) {
         process.stdout.write(SHOW_CURSOR);
-        console.error(chalk.red(`探索模式失敗: ${err.message}`));
+        console.error(chalk.red(`Explore mode failed: ${err.message}`));
         try {
           process.stdin.setRawMode(false);
         } catch {}

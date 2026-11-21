@@ -1,6 +1,6 @@
 import { defineCollection, z } from 'astro:content';
 
-// Base content collection schema for Ethiopia.md articles
+// Shared frontmatter schema for every Ethiopia.md article.
 const baseContentSchema = z.object({
   title: z.string(),
   description: z.string(),
@@ -24,20 +24,18 @@ const baseContentSchema = z.object({
   image: z.string().optional(),
 });
 
-// Amharic (SSOT) collection schema
+// Amharic collection (source of truth). Adds spelling variants and other names.
 const amCollection = defineCollection({
   type: 'content',
   schema: baseContentSchema.extend({
-    originalTitle: z.string().optional(),
     alternativeNames: z.array(z.string()).optional().default([]),
   }),
 });
 
-// English translation collection schema
+// English collection (translation layer). Tracks how complete the translation is.
 const enCollection = defineCollection({
   type: 'content',
   schema: baseContentSchema.extend({
-    chineseTitle: z.string().optional(), // Kept optional for backward compatibility with archived fork files
     translationStatus: z
       .enum(['complete', 'partial', 'planned'])
       .optional()
@@ -45,21 +43,17 @@ const enCollection = defineCollection({
   }),
 });
 
-// Registered collections
+// Collections registered with Astro; the keys are the language codes.
 export const collections = {
   am: amCollection,
   en: enCollection,
 };
 
-// Type exports for TypeScript support
+// Types inferred from the schemas.
 export type AmharicContent = z.infer<typeof baseContentSchema> & {
-  originalTitle?: string;
   alternativeNames?: string[];
 };
 
 export type EnglishContent = z.infer<typeof baseContentSchema> & {
   translationStatus?: 'complete' | 'partial' | 'planned';
 };
-
-// Backward compatibility alias
-export type ZhTWContent = AmharicContent;

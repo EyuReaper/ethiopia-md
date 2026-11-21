@@ -63,8 +63,8 @@ export const resourcesUI = {
     'resources.insight.culture.parks.number': '—',
     'resources.insight.culture.parks.label': 'National Parks',
 
-    'resources.insight.media.ptt.number': '—',
-    'resources.insight.media.ptt.label': 'Online Community Engagement',
+    'resources.insight.media.online.number': '—',
+    'resources.insight.media.online.label': 'Online Community Engagement',
     'resources.insight.media.outlets.number': '—',
     'resources.insight.media.outlets.label': 'Media Outlets',
     'resources.insight.media.ngo.number': '—',
@@ -72,10 +72,10 @@ export const resourcesUI = {
 
     'resources.insight.econ.flagCarrier.number': '—',
     'resources.insight.econ.flagCarrier.label': 'Tech Sector Contribution',
-    'resources.insight.econ.hsr.number': '—',
-    'resources.insight.econ.hsr.label': 'Transit Service Quality',
-    'resources.insight.econ.nhi.number': '—',
-    'resources.insight.econ.nhi.label': 'Health Coverage Rate',
+    'resources.insight.econ.transit.number': '—',
+    'resources.insight.econ.transit.label': 'Transit Service Quality',
+    'resources.insight.econ.health.number': '—',
+    'resources.insight.econ.health.label': 'Health Coverage Rate',
 
     'resources.insight.community.icogLabs.number': '—',
     'resources.insight.community.icogLabs.label': 'Community Founded',
@@ -375,8 +375,8 @@ export const resourcesUI = {
     'resources.insight.culture.parks.number': '—',
     'resources.insight.culture.parks.label': 'ብሄራዊ ፓርኮች',
 
-    'resources.insight.media.ptt.number': '—',
-    'resources.insight.media.ptt.label': 'የመስመር ላይ ማህበረሰብ ተሳትፎ',
+    'resources.insight.media.online.number': '—',
+    'resources.insight.media.online.label': 'የመስመር ላይ ማህበረሰብ ተሳትፎ',
     'resources.insight.media.outlets.number': '—',
     'resources.insight.media.outlets.label': 'የመገናኛ ብዙሃን ተቋማት',
     'resources.insight.media.ngo.number': '—',
@@ -384,10 +384,10 @@ export const resourcesUI = {
 
     'resources.insight.econ.flagCarrier.number': '—',
     'resources.insight.econ.flagCarrier.label': 'የቴክኖሎጂ ዘርፍ አስተዋፅኦ',
-    'resources.insight.econ.hsr.number': '—',
-    'resources.insight.econ.hsr.label': 'የትራንስፖርት አገልግሎት ጥራት',
-    'resources.insight.econ.nhi.number': '—',
-    'resources.insight.econ.nhi.label': 'የጤና ሽፋን መጠን',
+    'resources.insight.econ.transit.number': '—',
+    'resources.insight.econ.transit.label': 'የትራንስፖርት አገልግሎት ጥራት',
+    'resources.insight.econ.health.number': '—',
+    'resources.insight.econ.health.label': 'የጤና ሽፋን መጠን',
 
     'resources.insight.community.icogLabs.number': '—',
     'resources.insight.community.icogLabs.label': 'የማህበረሰብ መስራች ዓመት',

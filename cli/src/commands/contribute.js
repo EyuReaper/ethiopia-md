@@ -5,7 +5,7 @@
  * Helps contributors create a properly structured knowledge article.
  *
  * Usage:
- *   ethiopiamd contribute "珍珠奶茶的歷史"
+ *   ethiopiamd contribute "The history of injera"
  */
 
 import fs from 'fs';
@@ -77,7 +77,7 @@ function generateFrontmatter(topic, category) {
   const slug = toSlug(topic);
   return `---
 title: "${topic}"
-description: "關於${topic}的介紹與說明"
+description: "An introduction to ${topic}"
 date: ${todayDate()}
 tags:
   - ${category.toLowerCase()}
@@ -93,27 +93,23 @@ revision: 1
  */
 function generateSkeleton(topic) {
   return `
-## 概述
+## Overview
 
-${topic}是Ethiopia重要的文化/歷史/社會面向之一。本文將介紹其背景、發展與當代意義。
+Introduce ${topic} and explain why it matters in Ethiopia.
 
-## 歷史背景
+## Background
 
-說明${topic}的起源與歷史脈絡。
+Explain the origins and history of ${topic}, with sources.
 
-## 當代發展
+## Modern context
 
-分析${topic}在現代Ethiopia社會中的角色與發展趨勢。
+Describe the role of ${topic} in Ethiopia today.
 
-## 國際比較
+## Sources
 
-與其他國家或地區的類似現象進行比較分析。
-
-## 參考資料
-
-- [來源一](https://example.com/source1)
-- [來源二](https://example.com/source2)
-- [來源三](https://example.com/source3)
+- [Source one](https://example.com/source1)
+- [Source two](https://example.com/source2)
+- [Source three](https://example.com/source3)
 `;
 }
 
@@ -141,22 +137,27 @@ export function contributeCommand(program) {
         });
 
         // Show category list
-        console.log(chalk.bold('\n📝 Ethiopia.md 文章貢獻嚮導\n'));
-        console.log(chalk.gray('請選擇文章分類：\n'));
+        console.log(
+          chalk.bold('\n📝 Ethiopia.md article contribution wizard\n'),
+        );
+        console.log(chalk.gray('Choose an article category:\n'));
         CATEGORIES.forEach((cat, i) => {
           console.log(chalk.cyan(`  ${i + 1}.`) + ` ${cat}`);
         });
         console.log('');
 
         // Ask for category selection
-        const answer = await prompt(rl, chalk.bold('輸入分類編號 (1-13): '));
+        const answer = await prompt(
+          rl,
+          chalk.bold('Enter a category number (1-13): '),
+        );
         rl.close();
 
         const catIndex = parseInt(answer, 10) - 1;
         if (isNaN(catIndex) || catIndex < 0 || catIndex >= CATEGORIES.length) {
           console.error(
             chalk.red(
-              `\n❌ 無效的選擇: "${answer}"。請輸入 1-${CATEGORIES.length} 之間的數字。\n`,
+              `\n❌ Invalid choice: "${answer}". Enter a number from 1 to ${CATEGORIES.length}.\n`,
             ),
           );
           process.exit(1);
@@ -183,8 +184,14 @@ export function contributeCommand(program) {
 
         // Check if file already exists
         if (fs.existsSync(outputPath)) {
-          console.warn(chalk.yellow(`\n⚠️  檔案已存在: ${outputPath}\n`));
-          console.log(chalk.gray('請手動編輯或刪除後重新執行。\n'));
+          console.warn(
+            chalk.yellow(`\n⚠️  File already exists: ${outputPath}\n`),
+          );
+          console.log(
+            chalk.gray(
+              'Edit or delete it manually, then run this command again.\n',
+            ),
+          );
           process.exit(1);
         }
 
@@ -197,21 +204,22 @@ export function contributeCommand(program) {
         fs.writeFileSync(outputPath, content, 'utf8');
 
         // Success output
-        console.log(chalk.green(`\n✅ 檔案已建立: ${outputPath}\n`));
-        console.log(chalk.bold('接下來:'));
+        console.log(chalk.green(`\n✅ File created: ${outputPath}\n`));
+        console.log(chalk.bold('Next steps:'));
         console.log(
-          chalk.cyan(`  1. 編輯文章內容`) + chalk.gray(` → ${outputPath}`),
+          chalk.cyan(`  1. Edit the article`) + chalk.gray(` → ${outputPath}`),
         );
         console.log(
-          chalk.cyan(`  2. 驗證文章品質`) +
+          chalk.cyan(`  2. Validate the article`) +
             chalk.gray(` → ethiopiamd validate ${slug}`),
         );
         console.log(
-          chalk.cyan(`  3. 提交貢獻`) + chalk.gray(` → git add + commit + PR`),
+          chalk.cyan(`  3. Submit your contribution`) +
+            chalk.gray(` → git add + commit + PR`),
         );
         console.log('');
       } catch (err) {
-        console.error(chalk.red(`\n❌ 建立失敗: ${err.message}\n`));
+        console.error(chalk.red(`\n❌ Failed to create: ${err.message}\n`));
         process.exit(1);
       }
     });
