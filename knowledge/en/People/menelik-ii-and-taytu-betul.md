@@ -14,6 +14,7 @@ status: published
 sources:
   - https://www.britannica.com/biography/Menilek-II
   - https://countrystudies.us/ethiopia/15.htm
+  - https://en.wikipedia.org/wiki/Lij_Iyasu
   - https://blogs.loc.gov/international-collections/2022/03/taytu-betul-the-cunning-empress-of-ethiopia/
   - https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/taytu-c-1850-1918
   - https://www.history.com/news/battle-adwa-ethiopia-africa-colonization
@@ -61,7 +62,7 @@ As his health declined, Menelik moved to secure the state. The historian Harold 
 
 ## Illness, Succession and Taytu's Fall
 
-Menelik suffered a disabling stroke in May 1906. In June 1908 he named his thirteen-year-old grandson, Lij Iyasu, as his heir, and after another stroke he appointed Ras Tessema Nadew as regent. [Library of Congress Country Studies](https://countrystudies.us/ethiopia/15.htm) Taytu opposed both choices. According to Marcus, she gathered more and more of the emperor's authority into her own hands and tried to build a power base in the north, until the Shewan nobility, who had much to lose, united against her and removed her from power in 1910. [Journal of African History](https://doi.org/10.1017/s002185370001046x)
+Menelik suffered a disabling stroke in May 1906. The Library of Congress study dates his naming of the thirteen-year-old Lij Iyasu, son of Ras Mikael of Wollo, as heir to June 1908, and his appointment of Ras Tessema Nadew as regent to after another stroke in late 1908. [Library of Congress Country Studies](https://countrystudies.us/ethiopia/15.htm) Other accounts place the public announcement in 1909, and most describe Iyasu as Menelik's grandson through his daughter Shewarega, where the study says "nephew". [Wikipedia: Lij Iyasu](https://en.wikipedia.org/wiki/Lij_Iyasu) Taytu opposed both choices. According to Marcus, she gathered more and more of the emperor's authority into her own hands and tried to build a power base in the north, until the Shewan nobility, who had much to lose, united against her and removed her from power in 1910. [Journal of African History](https://doi.org/10.1017/s002185370001046x)
 
 Menelik died in Addis Ababa on 12 December 1913 (Tahsas 3, 1906 E.C.). [Britannica](https://www.britannica.com/biography/Menilek-II) Marcus argues that, against the expectations of European diplomats, his empire did not break apart after him. [Journal of African History](https://doi.org/10.1017/s002185370001046x) Taytu died in Addis Ababa on 11 February 1918 (Yekatit 4, 1910 E.C.). [Encyclopedia.com](https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/taytu-c-1850-1918)
 

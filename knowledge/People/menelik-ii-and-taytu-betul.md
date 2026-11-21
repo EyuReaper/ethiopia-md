@@ -19,6 +19,7 @@ alternativeNames:
 sources:
   - https://www.britannica.com/biography/Menilek-II
   - https://countrystudies.us/ethiopia/15.htm
+  - https://en.wikipedia.org/wiki/Lij_Iyasu
   - https://blogs.loc.gov/international-collections/2022/03/taytu-betul-the-cunning-empress-of-ethiopia/
   - https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/taytu-c-1850-1918
   - https://www.history.com/news/battle-adwa-ethiopia-africa-colonization
@@ -66,7 +67,7 @@ sources:
 
 ## ሕመም፣ የአልጋ ወራሽነት ጉዳይና የጣይቱ ውድቀት
 
-ምኒልክ በግንቦት 1898 ዓ.ም. (May 1906) ከባድ የአንጎል ደም መርጋት (stroke) አጋጠማቸው። በሰኔ 1900 ዓ.ም. (June 1908) የ13 ዓመቱን የልጅ ልጃቸውን ልጅ ኢያሱን አልጋ ወራሽ አድርገው ሰየሙ፤ ሌላ ተመሳሳይ ሕመም ካጋጠማቸው በኋላም ራስ ተሰማ ናደውን እንደራሴ አድርገው ሾሙ። [Library of Congress Country Studies](https://countrystudies.us/ethiopia/15.htm) ጣይቱ ሁለቱንም ምርጫዎች ተቃወሙ። ማርከስ እንደሚሉት፣ የንጉሠ ነገሥቱን ሥልጣን እየጨመሩ በእጃቸው አሰባሰቡ፣ በሰሜንም የኃይል መሠረት ለመገንባት ሞከሩ፤ በመጨረሻ ብዙ የሚያጡት የሸዋ መኳንንት በአንድነት ተነሥተው በ1902 ዓ.ም. (1910) ከሥልጣን አስወገዷቸው። [Journal of African History](https://doi.org/10.1017/s002185370001046x)
+ምኒልክ በግንቦት 1898 ዓ.ም. (May 1906) ከባድ የአንጎል ደም መርጋት (stroke) አጋጠማቸው። የአሜሪካ ኮንግረስ ቤተ መጻሕፍት ጥናት፣ የራስ ሚካኤል የወሎ ልጅ የሆነውን የ13 ዓመቱን ልጅ ኢያሱን አልጋ ወራሽ አድርገው የሰየሙት በሰኔ 1900 ዓ.ም. (June 1908) እንደሆነና ራስ ተሰማ ናደውን እንደራሴ አድርገው የሾሙት ደግሞ ሌላ ተመሳሳይ ሕመም ካጋጠማቸው በኋላ (እ.ኤ.አ. በ1908 መጨረሻ) እንደሆነ ይናገራል። [Library of Congress Country Studies](https://countrystudies.us/ethiopia/15.htm) ሌሎች ዘገባዎች ይፋ መደረጉን እ.ኤ.አ. በ1909 ያደርጉታል፤ አብዛኞቹም ኢያሱን በልጃቸው በሸዋረጋ በኩል የልጅ ልጃቸው ይሉታል፤ ጥናቱ ግን «የወንድም ልጅ» ይላል። [Wikipedia: Lij Iyasu](https://en.wikipedia.org/wiki/Lij_Iyasu) ጣይቱ ሁለቱንም ምርጫዎች ተቃወሙ። ማርከስ እንደሚሉት፣ የንጉሠ ነገሥቱን ሥልጣን እየጨመሩ በእጃቸው አሰባሰቡ፣ በሰሜንም የኃይል መሠረት ለመገንባት ሞከሩ፤ በመጨረሻ ብዙ የሚያጡት የሸዋ መኳንንት በአንድነት ተነሥተው በ1902 ዓ.ም. (1910) ከሥልጣን አስወገዷቸው። [Journal of African History](https://doi.org/10.1017/s002185370001046x)
 
 ምኒልክ ታኅሣሥ 3 ቀን 1906 ዓ.ም. (12 December 1913) በአዲስ አበባ አረፉ። [Britannica](https://www.britannica.com/biography/Menilek-II) ማርከስ የአውሮፓ ዲፕሎማቶች እንደጠበቁት ሳይሆን ግዛታቸው ከእርሳቸው በኋላ እንዳልተበታተነ ይከራከራሉ። [Journal of African History](https://doi.org/10.1017/s002185370001046x) ጣይቱ የካቲት 4 ቀን 1910 ዓ.ም. (11 February 1918) በአዲስ አበባ አረፉ። [Encyclopedia.com](https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/taytu-c-1850-1918)
 

@@ -18,6 +18,7 @@ sources:
   - https://worldathletics.org/news/report/london-2012-event-report-womens-10000m-fi
   - https://worldathletics.org/news/news/dibaba-is-back-writing-olympic-history-again-1
   - https://www.laureus.com/world-sports-awards/2013/comeback-of-the-year/tirunesh-dibaba
+  - https://marathonhandbook.com/athletes/tirunesh-dibaba/
 ---
 
 # Tirunesh Dibaba: Three Olympic Golds and the 5,000-10,000 m Double
@@ -46,7 +47,11 @@ On 3 August 2012 in London she won the 10,000 m in 30:20.75, ahead of Kenya's Sa
 
 ## Medal Totals and Later Career
 
-Olympedia counts six Olympic medals: three golds (Beijing 5,000 m and 10,000 m; London 10,000 m) and three bronzes (Athens 2004 5,000 m; London 2012 5,000 m; Rio 2016 10,000 m). It adds that she carried the Ethiopian flag at the 2012 closing ceremony ([Olympedia](https://www.olympedia.org/athletes/104973)). Laureus says the London title made her one of seven Olympians with three individual track golds ([Laureus](https://www.laureus.com/world-sports-awards/2013/comeback-of-the-year/tirunesh-dibaba)). We have not cited her marathon career or her retirement status, because we did not verify them in a reliable source for this article.
+Olympedia counts six Olympic medals: three golds (Beijing 5,000 m and 10,000 m; London 10,000 m) and three bronzes (Athens 2004 5,000 m; London 2012 5,000 m; Rio 2016 10,000 m). It adds that she carried the Ethiopian flag at the 2012 closing ceremony ([Olympedia](https://www.olympedia.org/athletes/104973)). Laureus says the London title made her one of seven Olympians with three individual track golds ([Laureus](https://www.laureus.com/world-sports-awards/2013/comeback-of-the-year/tirunesh-dibaba)).
+
+## Marathon Years
+
+Dibaba moved to the marathon after her track career. Marathon Handbook's athlete profile lists her results: third in London on 13 April 2014 in 2:20:35, second in London on 23 April 2017 in 2:17:56, which it gives as her personal best, and first in Chicago on 8 October 2017 in 2:18:31, her one major-marathon win on its list. It then shows a did-not-finish in London in April 2018, third in Berlin on 16 September 2018 in 2:18:55, and a did-not-finish in New York on 3 November 2024. [Marathon Handbook: Tirunesh Dibaba](https://marathonhandbook.com/athletes/tirunesh-dibaba/) The same profile lists no marathon in 2025 or 2026 and makes no statement about retirement, so her current status is not established here. This is a single results page with no byline or date, and it gives her birth date as 1 June 1985 where Olympedia gives 1 October 1985, so the figures should be checked against official race results before they are quoted elsewhere.
 
 ## Why She Matters
 
@@ -60,4 +65,4 @@ Dibaba belongs to a line of Ethiopian women, including Tulu and her own sisters,
 
 ## Closing
 
-Tirunesh Dibaba's record is among the best in Olympic distance running. The article would be stronger with an independent profile of her training and with a verified account of her marathon years.
+Tirunesh Dibaba's record is among the best in Olympic distance running. The article would be stronger with an independent profile of her training and with official race results for her marathon years.

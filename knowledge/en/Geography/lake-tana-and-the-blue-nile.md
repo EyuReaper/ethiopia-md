@@ -17,7 +17,8 @@ sources:
   - https://www.keybiodiversityareas.org/site/factsheet/6241
   - https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2024.1476014/full
   - https://en.wikipedia.org/wiki/Lake_Tana
-  - https://en.wikipedia.org/wiki/Lake_Tana_Biosphere_Reserve
+  - https://www.unesco.org/en/mab/lake-tana
+  - https://www.unesco.org/en/articles/twenty-new-sites-added-unescos-world-network-biosphere-reserves
   - https://en.wikipedia.org/wiki/Blue_Nile
 ---
 
@@ -49,7 +50,7 @@ The lake and its wetlands are also a bird area. BirdLife's factsheet describes p
 
 ## Protection
 
-According to Wikipedia, Lake Tana was nominated as a UNESCO biosphere reserve in 2015, covering about 695,885 hectares in total. [Wikipedia: Lake Tana Biosphere Reserve](https://en.wikipedia.org/wiki/Lake_Tana_Biosphere_Reserve) We could not open UNESCO's own biosphere-reserve directory to confirm the area figure, and the Wikipedia text uses the word "nominated", so the exact designation date and area should be checked in the UNESCO list.
+UNESCO lists Lake Tana as a biosphere reserve with 2015 as its year of nomination, in the Amhara region about 563 km north-west of Addis Ababa. [UNESCO MAB: Lake Tana](https://www.unesco.org/en/mab/lake-tana) The International Co-ordinating Council added the site to the World Network of Biosphere Reserves at its meeting in Paris on 8 to 12 June 2015 (announced 9 June), and UNESCO gives its total area as 695,885 hectares, calling it "a hotspot of biodiversity" and an Important Bird Area. [UNESCO: Twenty new sites added to the World Network of Biosphere Reserves](https://www.unesco.org/en/articles/twenty-new-sites-added-unescos-world-network-biosphere-reserves)
 
 ## Threats: the water hyacinth
 

@@ -17,7 +17,8 @@ sources:
   - https://www.keybiodiversityareas.org/site/factsheet/6241
   - https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2024.1476014/full
   - https://en.wikipedia.org/wiki/Lake_Tana
-  - https://en.wikipedia.org/wiki/Lake_Tana_Biosphere_Reserve
+  - https://www.unesco.org/en/mab/lake-tana
+  - https://www.unesco.org/en/articles/twenty-new-sites-added-unescos-world-network-biosphere-reserves
   - https://en.wikipedia.org/wiki/Blue_Nile
 ---
 
@@ -49,7 +50,7 @@ sources:
 
 ## ጥበቃ
 
-ዊኪፒዲያ እንደሚለው ጣና ሐይቅ በ2015 (እ.ኤ.አ.) የዩኔስኮ ባዮስፌር ክምችት ለመሆን ተመልምሏል፤ ጠቅላላ ስፋቱ ወደ 695,885 ሄክታር ነው። [Wikipedia: Lake Tana Biosphere Reserve](https://en.wikipedia.org/wiki/Lake_Tana_Biosphere_Reserve) የዩኔስኮን የባዮስፌር ክምችት ማውጫ ራሱን ከፍተን የስፋቱን አሃዝ ማረጋገጥ አልቻልንም፤ የዊኪፒዲያውም ጽሑፍ «ተመልምሏል» የሚለውን ቃል ስለሚጠቀም ትክክለኛው የመታወቅ ቀንና ስፋት በዩኔስኮ ዝርዝር መረጋገጥ አለበት።
+ዩኔስኮ ጣና ሐይቅን በባዮስፌር ክምችትነት ይዘረዝራል፤ የመታጨት ዓመቱ 2015 (እ.ኤ.አ.) ሲሆን የሚገኘው ከአዲስ አበባ ወደ ሰሜን ምዕራብ 563 ኪሎ ሜትር ርቀት ላይ በአማራ ክልል ነው። [UNESCO MAB: Lake Tana](https://www.unesco.org/en/mab/lake-tana) ዓለም አቀፉ አስተባባሪ ምክር ቤት ቦታውን ከሰኔ 8 እስከ 12 ቀን 2015 (እ.ኤ.አ.) በፓሪስ ባደረገው ስብሰባ (በሰኔ 9 የተገለጸ) የዓለም የባዮስፌር ክምችቶች አውታር አባል አድርጎታል፤ ዩኔስኮ ጠቅላላ ስፋቱን 695,885 ሄክታር ይለዋል፤ «የብዝኃ ሕይወት ማዕከል» እና አስፈላጊ የወፍ መኖሪያ አካባቢ ሲል ይገልጸዋል። [UNESCO: Twenty new sites added to the World Network of Biosphere Reserves](https://www.unesco.org/en/articles/twenty-new-sites-added-unescos-world-network-biosphere-reserves)
 
 ## ስጋት፦ የውሃ ሀያሲንት
 
