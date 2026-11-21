@@ -1,9 +1,11 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import { getLangFromUrl, useTranslations } from '../i18n/utils';
+import credits from '../data/image-credits.json';
 
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
+const photoCredits = credits.filter((c) => !c.slot.startsWith('map:'));
 ---
 
 <Layout
@@ -159,6 +161,43 @@ const t = useTranslations(lang);
         <li set:html={t('assets.license.source3.html')} />
         <li set:html={t('assets.license.source4.html')} />
       </ul>
+    </section>
+
+    <section class="credits" id="photo-credits">
+      <h2>{t('assets.credits.title')}</h2>
+      <p>{t('assets.credits.intro')}</p>
+      <div class="credits-table-wrap">
+        <table class="credits-table">
+          <thead>
+            <tr>
+              <th>{t('assets.credits.col.slot')}</th>
+              <th>{t('assets.credits.col.photo')}</th>
+              <th>{t('assets.credits.col.author')}</th>
+              <th>{t('assets.credits.col.license')}</th>
+            </tr>
+          </thead>
+          <tbody>
+            {
+              photoCredits.map((c) => (
+                <tr>
+                  <td>{c.slot}</td>
+                  <td>
+                    <a href={c.sourceUrl} target="_blank" rel="noopener">
+                      {c.title.replace(/^File:/, '')}
+                    </a>
+                  </td>
+                  <td>{c.author}</td>
+                  <td>
+                    <a href={c.licenseUrl} target="_blank" rel="noopener">
+                      {c.license}
+                    </a>
+                  </td>
+                </tr>
+              ))
+            }
+          </tbody>
+        </table>
+      </div>
     </section>
 
     <section class="cta">
@@ -340,6 +379,34 @@ const t = useTranslations(lang);
       margin-bottom: 0.5rem;
     }
     .license a {
+      color: #2d5016;
+      text-decoration: underline;
+    }
+
+    .credits {
+      margin: 2rem 0;
+    }
+    .credits h2 {
+      font-family: var(--font-reading);
+      color: #2d5016;
+      margin-bottom: 0.5rem;
+    }
+    .credits-table-wrap {
+      overflow-x: auto;
+    }
+    .credits-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+    }
+    .credits-table th,
+    .credits-table td {
+      text-align: left;
+      padding: 0.5rem 0.75rem;
+      border-bottom: 1px solid #e5e7eb;
+      vertical-align: top;
+    }
+    .credits-table a {
       color: #2d5016;
       text-decoration: underline;
     }

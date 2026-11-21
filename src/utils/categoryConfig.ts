@@ -17,7 +17,7 @@ export const getCategoryConfigs = (t: ReturnType<typeof useTranslations>) => ({
     color: '#92400e',
     colorLight: '#f59e0b20',
     gradient: 'linear-gradient(135deg, #92400e, #d97706)',
-    cover: '/images/categories/history.svg',
+    cover: '/images/categories/history.jpg',
   },
   geography: {
     name: t('categoryConfig.geography'),
@@ -26,7 +26,7 @@ export const getCategoryConfigs = (t: ReturnType<typeof useTranslations>) => ({
     color: '#065f46',
     colorLight: '#059f4620',
     gradient: 'linear-gradient(135deg, #065f46, #10b981)',
-    cover: '/images/categories/geography.svg',
+    cover: '/images/categories/geography.jpg',
   },
   culture: {
     name: t('categoryConfig.culture'),
@@ -36,7 +36,7 @@ export const getCategoryConfigs = (t: ReturnType<typeof useTranslations>) => ({
     color: '#7c3aed',
     colorLight: '#7c3aed20',
     gradient: 'linear-gradient(135deg, #7c3aed, #a855f7)',
-    cover: '/images/categories/culture.svg',
+    cover: '/images/categories/culture.jpg',
   },
   food: {
     name: t('categoryConfig.food'),
@@ -45,7 +45,7 @@ export const getCategoryConfigs = (t: ReturnType<typeof useTranslations>) => ({
     color: '#ea580c',
     colorLight: '#ea580c20',
     gradient: 'linear-gradient(135deg, #ea580c, #f97316)',
-    cover: '/images/categories/food.svg',
+    cover: '/images/categories/food.jpg',
   },
   art: {
     name: t('categoryConfig.art'),
@@ -54,7 +54,7 @@ export const getCategoryConfigs = (t: ReturnType<typeof useTranslations>) => ({
     color: '#be185d',
     colorLight: '#be185d20',
     gradient: 'linear-gradient(135deg, #be185d, #ec4899)',
-    cover: '/images/categories/art.svg',
+    cover: '/images/categories/art.jpg',
   },
   music: {
     name: t('categoryConfig.music'),
@@ -63,7 +63,7 @@ export const getCategoryConfigs = (t: ReturnType<typeof useTranslations>) => ({
     color: '#0891b2',
     colorLight: '#0891b220',
     gradient: 'linear-gradient(135deg, #0891b2, #06b6d4)',
-    cover: '/images/categories/music.svg',
+    cover: '/images/categories/music.jpg',
   },
   technology: {
     name: t('categoryConfig.technology'),
@@ -72,7 +72,7 @@ export const getCategoryConfigs = (t: ReturnType<typeof useTranslations>) => ({
     color: '#1d4ed8',
     colorLight: '#1d4ed820',
     gradient: 'linear-gradient(135deg, #1d4ed8, #3b82f6)',
-    cover: '/images/categories/technology.svg',
+    cover: '/images/categories/technology.jpg',
   },
   nature: {
     name: t('categoryConfig.nature'),
@@ -81,7 +81,7 @@ export const getCategoryConfigs = (t: ReturnType<typeof useTranslations>) => ({
     color: '#15803d',
     colorLight: '#15803d20',
     gradient: 'linear-gradient(135deg, #15803d, #22c55e)',
-    cover: '/images/categories/nature.svg',
+    cover: '/images/categories/nature.jpg',
   },
   people: {
     name: t('categoryConfig.people'),
@@ -92,7 +92,7 @@ export const getCategoryConfigs = (t: ReturnType<typeof useTranslations>) => ({
     color: '#b45309',
     colorLight: '#b4530920',
     gradient: 'linear-gradient(135deg, #b45309, #f59e0b)',
-    cover: '/images/categories/people.svg',
+    cover: '/images/categories/people.jpg',
   },
   society: {
     name: t('categoryConfig.society'),
@@ -101,7 +101,7 @@ export const getCategoryConfigs = (t: ReturnType<typeof useTranslations>) => ({
     color: '#475569',
     colorLight: '#47556920',
     gradient: 'linear-gradient(135deg, #475569, #64748b)',
-    cover: '/images/categories/society.svg',
+    cover: '/images/categories/society.jpg',
   },
   economy: {
     name: t('categoryConfig.economy'),
@@ -110,7 +110,7 @@ export const getCategoryConfigs = (t: ReturnType<typeof useTranslations>) => ({
     color: '#c2410c',
     colorLight: '#c2410c20',
     gradient: 'linear-gradient(135deg, #c2410c, #ea580c)',
-    cover: '/images/categories/economy.svg',
+    cover: '/images/categories/economy.jpg',
   },
   lifestyle: {
     name: t('categoryConfig.lifestyle'),
@@ -119,7 +119,7 @@ export const getCategoryConfigs = (t: ReturnType<typeof useTranslations>) => ({
     color: '#4d7c0f',
     colorLight: '#4d7c0f20',
     gradient: 'linear-gradient(135deg, #4d7c0f, #65a30d)',
-    cover: '/images/categories/lifestyle.svg',
+    cover: '/images/categories/lifestyle.jpg',
   },
   language: {
     name: t('categoryConfig.language'),
@@ -128,6 +128,7 @@ export const getCategoryConfigs = (t: ReturnType<typeof useTranslations>) => ({
     color: '#7e22ce',
     colorLight: '#7e22ce20',
     gradient: 'linear-gradient(135deg, #7e22ce, #a855f7)',
+    cover: '/images/categories/language.jpg',
   },
 });
 

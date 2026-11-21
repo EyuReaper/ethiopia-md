@@ -70,24 +70,28 @@ export const dataUI = {
     'data.ethiopiaShape.story.p1':
       'Most AI image generation models lack structured geographic data for Ethiopia in their training sets. The result: AI-generated images of Ethiopia are often distorted, disproportionate, or confused with other countries.',
     'data.ethiopiaShape.story.p2':
-      'Ethiopia.md aims to provide accurate, open-source, freely usable SVG outlines of Ethiopia. The files below are placeholders until real, verified assets are sourced — see CLAUDE.md for the pending checklist.',
+      'Ethiopia.md aims to provide accurate, open-source, freely usable SVG outlines of Ethiopia. The maps below are real, openly licensed files from Wikimedia Commons, each checked to show Ethiopia.',
 
     // SVG Cards
     'data.svg.card1.title': 'ethiopia-icon-wiki.svg',
-    'data.svg.card1.description': 'Location-pin icon — placeholder',
+    'data.svg.card1.description':
+      'Ethiopia in Africa (locator map) — CC BY-SA 3.0, Shosholoza, Wikimedia Commons',
     'data.svg.card2.title': 'ethiopia-simplemaps.svg',
-    'data.svg.card2.description': 'Country outline — placeholder',
+    'data.svg.card2.description':
+      'Country outline filled with the flag — CC BY-SA 3.0, Darwinek, Wikimedia Commons',
     'data.svg.card3.title': 'ethiopia-location-map.svg',
-    'data.svg.card3.description': 'Location map — placeholder',
+    'data.svg.card3.description':
+      'Location map — CC BY-SA 3.0, NordNordWest, Wikimedia Commons (large file, about 700 KB)',
     'data.svg.card4.title': 'ethiopia-political-division.svg',
-    'data.svg.card4.description': 'Regions map — placeholder',
+    'data.svg.card4.description':
+      'Regions map — CC BY-SA 4.0, Jfblanc, Wikimedia Commons',
     'data.svg.button.download': 'Download',
     'data.svg.button.copy': 'Copy SVG',
     'data.svg.button.copied': '✅ Copied',
     'data.svg.button.failed': '❌ Failed',
     'data.svg.usage.heading': '📝 Usage',
     'data.svg.usage.licenseNote':
-      'These are placeholder graphics (CC BY-SA 4.0, original to Ethiopia.md). Once real files are sourced, each will carry its own upstream license — see CLAUDE.md.',
+      'These maps come from Wikimedia Commons under CC BY-SA 3.0 / 4.0. Credit the author when you reuse them and share adaptations under the same license. Full source list on the Assets page.',
 
     // Footer
     'data.footer.heading': 'Explore More',
@@ -165,24 +169,28 @@ export const dataUI = {
     'data.ethiopiaShape.story.p1':
       'አብዛኞቹ የ AI ምስል መፍጠሪያ ሞዴሎች ለኢትዮጵያ የተዋቀረ ጂኦግራፊያዊ መረጃ በስልጠና መረጃቸው ውስጥ አይኖራቸውም። በዚህ ምክንያት፣ በ AI የተፈጠሩ የኢትዮጵያ ምስሎች ብዙውን ጊዜ የተዛቡ፣ ያልተመጣጠኑ ወይም ከሌሎች ሀገራት ጋር የተምታቱ ናቸው።',
     'data.ethiopiaShape.story.p2':
-      'Ethiopia.md ትክክለኛ፣ ክፍት ምንጭ እና በነጻ ሊጠቀሙባቸው የሚችሉ የኢትዮጵያ SVG ገጽታዎችን ለማቅረብ ያለመ ነው። እውነተኛዎቹ ፋይሎች እስኪገኙና እስኪረጋገጡ ድረስ ከዚህ በታች ያሉት ጊዜያዊ ናቸው — ዝርዝሩን ለማየት CLAUDE.md ይመልከቱ።',
+      'Ethiopia.md ትክክለኛ፣ ክፍት ምንጭ እና በነጻ ሊጠቀሙባቸው የሚችሉ የኢትዮጵያ SVG ገጽታዎችን ለማቅረብ ያለመ ነው። ከዚህ በታች ያሉት ካርታዎች ከዊኪሚዲያ ኮመንስ የተገኙ እውነተኛ ክፍት ፈቃድ ያላቸው ፋይሎች ናቸው፤ እያንዳንዱ ኢትዮጵያን እንደሚያሳይ ተረጋግጧል።',
 
     // SVG Cards
     'data.svg.card1.title': 'ethiopia-icon-wiki.svg',
-    'data.svg.card1.description': 'የመገኛ ምልክት — ጊዜያዊ',
+    'data.svg.card1.description':
+      'ኢትዮጵያ በአፍሪካ (የመገኛ ካርታ) — CC BY-SA 3.0፣ Shosholoza፣ ዊኪሚዲያ ኮመንስ',
     'data.svg.card2.title': 'ethiopia-simplemaps.svg',
-    'data.svg.card2.description': 'የሀገር ቅርጽ ካርታ — ጊዜያዊ',
+    'data.svg.card2.description':
+      'በሰንደቅ ዓላማ ቀለም የተሞላ የሀገር ቅርጽ — CC BY-SA 3.0፣ Darwinek፣ ዊኪሚዲያ ኮመንስ',
     'data.svg.card3.title': 'ethiopia-location-map.svg',
-    'data.svg.card3.description': 'የመገኛ ካርታ — ጊዜያዊ',
+    'data.svg.card3.description':
+      'የመገኛ ካርታ — CC BY-SA 3.0፣ NordNordWest፣ ዊኪሚዲያ ኮመንስ (ትልቅ ፋይል፣ ወደ 700 ኪባ)',
     'data.svg.card4.title': 'ethiopia-political-division.svg',
-    'data.svg.card4.description': 'የክልሎች ካርታ — ጊዜያዊ',
+    'data.svg.card4.description':
+      'የክልሎች ካርታ — CC BY-SA 4.0፣ Jfblanc፣ ዊኪሚዲያ ኮመንስ',
     'data.svg.button.download': 'SVG አውርድ',
     'data.svg.button.copy': 'SVG ቅዳ',
     'data.svg.button.copied': '✅ ተቀድቷል',
     'data.svg.button.failed': '❌ አልተሳካም',
     'data.svg.usage.heading': '📝 አጠቃቀም',
     'data.svg.usage.licenseNote':
-      'እነዚህ ጊዜያዊ ምስሎች ናቸው (CC BY-SA 4.0, የ Ethiopia.md የራሱ ውጤት)። እውነተኛዎቹ ፋይሎች ከገቡ በኋላ እያንዳንዳቸው የራሳቸው ፈቃድ ይኖራቸዋል — CLAUDE.md ይመልከቱ።',
+      'እነዚህ ካርታዎች ከዊኪሚዲያ ኮመንስ በCC BY-SA 3.0 / 4.0 ፈቃድ የተገኙ ናቸው። እንደገና ሲጠቀሙ ደራሲን ይጥቀሱ፤ የተሻሻሉ ሥራዎችን በተመሳሳይ ፈቃድ ያጋሩ። ሙሉ ዝርዝሩ በAssets ገጽ ላይ አለ።',
 
     // Footer
     'data.footer.heading': 'ተጨማሪ ያስሱ',

@@ -3,39 +3,40 @@ export const assetsUI = {
     // Meta
     'assets.meta.title': 'Ethiopia SVG — Open-Source Ethiopia Outline',
     'assets.meta.description':
-      'Open-source SVG outlines of Ethiopia, freely reusable. This library is under construction — the files below are placeholders until real, verified assets are sourced.',
+      'Open-source SVG maps of Ethiopia from Wikimedia Commons, freely reusable under CC BY-SA with attribution.',
 
     // Hero
     'assets.hero.title': 'Ethiopia SVG — Open-Source Ethiopia Outline',
     'assets.hero.subtitle':
-      'Building an accurate, open-source Ethiopia asset library. The files below are placeholders — see CLAUDE.md for the real files to fetch.',
+      'Real, openly licensed maps of Ethiopia from Wikimedia Commons, with the author and license shown for each file.',
 
     // Problem section
-    'assets.problem.title': '🚧 Under Construction',
+    'assets.problem.title': 'About these files',
     'assets.problem.p1':
-      'These SVGs used to be mislabeled Taiwan map data. They have been replaced with honest placeholders rather than left showing the wrong country.',
+      'These SVGs used to be mislabeled Taiwan map data. They have been replaced with real Ethiopia maps, each checked by rendering it and confirming it shows Ethiopia.',
     'assets.problem.p2.html':
-      'Ethiopia.md aims to provide <strong>accurate, open-source, freely usable</strong> SVG outlines of Ethiopia. Until the real files are sourced and verified, download links below point to placeholder art.',
+      'All four maps are <strong>CC BY-SA</strong>: you may reuse and adapt them, but you must credit the author and share adaptations under the same license. Full credits are listed at the bottom of this page.',
 
     // Card 1: ethiopia-icon
     'assets.card1.title': 'ethiopia-icon-wiki.svg',
-    'assets.card1.desc': 'Ethiopia location-pin icon — placeholder',
-    'assets.card1.meta': 'Placeholder · pending real asset',
+    'assets.card1.desc': 'Ethiopia in Africa (locator map) — Shosholoza',
+    'assets.card1.meta': 'CC BY-SA 3.0 · Wikimedia Commons',
 
     // Card 2: ethiopia-simplemaps
     'assets.card2.title': 'ethiopia-simplemaps.svg',
-    'assets.card2.desc': 'Country outline — placeholder',
-    'assets.card2.meta': 'Placeholder · pending real asset',
+    'assets.card2.desc': 'Country outline filled with the flag — Darwinek',
+    'assets.card2.meta': 'CC BY-SA 3.0 · Wikimedia Commons',
 
     // Card 3: ethiopia-location-map
     'assets.card3.title': 'ethiopia-location-map.svg',
-    'assets.card3.desc': 'Location map — placeholder',
-    'assets.card3.meta': 'Placeholder · pending real asset',
+    'assets.card3.desc':
+      'Location map with rivers and borders — NordNordWest (large file, about 700 KB)',
+    'assets.card3.meta': 'CC BY-SA 3.0 · Wikimedia Commons',
 
     // Card 4: ethiopia-political-division
     'assets.card4.title': 'ethiopia-political-division.svg',
-    'assets.card4.desc': 'Regions map — placeholder',
-    'assets.card4.meta': 'Placeholder · pending real asset',
+    'assets.card4.desc': 'Regions map — Jfblanc',
+    'assets.card4.meta': 'CC BY-SA 4.0 · Wikimedia Commons',
 
     // Buttons
     'assets.btn.download': 'Download SVG',
@@ -55,16 +56,25 @@ background-image: url('https://ethiopia.md/assets/svg/ethiopia-icon-wiki.svg');
     // License section
     'assets.license.title': '📄 License & Attribution',
     'assets.license.intro.html':
-      'The placeholder graphics on this page are original to Ethiopia.md (CC BY-SA 4.0). Once real files are sourced, each will carry its own upstream license — see CLAUDE.md for the pending checklist.',
-    'assets.license.sources.title': 'Sources (once real files are in place)',
+      'Every file on this page comes from Wikimedia Commons and is licensed CC BY-SA. Attribution is required when you reuse it; adaptations must keep the same license.',
+    'assets.license.sources.title': 'Sources',
     'assets.license.source1.html':
-      '<strong>ethiopia-icon-wiki.svg</strong> — not yet sourced, see CLAUDE.md',
+      '<strong>ethiopia-icon-wiki.svg</strong> — <a href="https://commons.wikimedia.org/wiki/File:Locator_map_of_Ethiopia_in_Africa.svg" target="_blank" rel="noopener">File:Locator map of Ethiopia in Africa.svg</a>, author Shosholoza, <a href="https://creativecommons.org/licenses/by-sa/3.0" target="_blank" rel="noopener">CC BY-SA 3.0</a>',
     'assets.license.source2.html':
-      '<strong>ethiopia-simplemaps.svg</strong> — intended source: <a href="https://simplemaps.com/svg/country/et" target="_blank">SimpleMaps (Ethiopia, country code ET)</a>, Free License (attribution to simplemaps.com required)',
+      '<strong>ethiopia-simplemaps.svg</strong> — <a href="https://commons.wikimedia.org/wiki/File:Flag_map_of_Ethiopia.svg" target="_blank" rel="noopener">File:Flag map of Ethiopia.svg</a>, author Darwinek, <a href="https://creativecommons.org/licenses/by-sa/3.0" target="_blank" rel="noopener">CC BY-SA 3.0</a> (the filename is historical; this is not a SimpleMaps file)',
     'assets.license.source3.html':
-      '<strong>ethiopia-location-map.svg</strong> — intended source: <a href="https://commons.wikimedia.org/wiki/File:Ethiopia_location_map.svg" target="_blank">Wikimedia Commons: Ethiopia location map.svg</a>, CC BY-SA 3.0, Author: NordNordWest — verified to exist',
+      '<strong>ethiopia-location-map.svg</strong> — <a href="https://commons.wikimedia.org/wiki/File:Ethiopia_location_map.svg" target="_blank" rel="noopener">File:Ethiopia location map.svg</a>, author NordNordWest, <a href="https://creativecommons.org/licenses/by-sa/3.0" target="_blank" rel="noopener">CC BY-SA 3.0</a>',
     'assets.license.source4.html':
-      '<strong>ethiopia-political-division.svg</strong> — intended source: a colored regions/administrative-divisions SVG from <a href="https://commons.wikimedia.org/wiki/Category:Maps_of_regions_of_Ethiopia" target="_blank">Wikimedia Commons: Category:Maps of regions of Ethiopia</a> (verify exact file + license before use)',
+      '<strong>ethiopia-political-division.svg</strong> — <a href="https://commons.wikimedia.org/wiki/File:Regions_of_Ethiopia_EN.svg" target="_blank" rel="noopener">File:Regions of Ethiopia EN.svg</a>, author Jfblanc, <a href="https://creativecommons.org/licenses/by-sa/4.0" target="_blank" rel="noopener">CC BY-SA 4.0</a>',
+
+    // Photo credits
+    'assets.credits.title': 'Photo credits',
+    'assets.credits.intro':
+      'Category cover photos and the social share image come from Wikimedia Commons. CC BY and CC BY-SA licenses require attribution, so each author and license is listed here. Photos are cropped and resized.',
+    'assets.credits.col.slot': 'Used for',
+    'assets.credits.col.photo': 'Photo',
+    'assets.credits.col.author': 'Author',
+    'assets.credits.col.license': 'License',
 
     // CTA section
     'assets.cta.text': 'Found an issue or have suggestions?',
@@ -78,39 +88,40 @@ background-image: url('https://ethiopia.md/assets/svg/ethiopia-icon-wiki.svg');
     // Meta
     'assets.meta.title': 'የኢትዮጵያ ክፍት የቅርፅ ካርታ (SVG)',
     'assets.meta.description':
-      'የኢትዮጵያ ክፍት ምንጭ SVG ቅርጾች፣ በነፃ ጥቅም ላይ የሚውሉ። ይህ ስብስብ በግንባታ ላይ ነው — ከዚህ በታች ያሉት ፋይሎች ትክክለኛ ምንጮች እስኪገኙ ድረስ ጊዜያዊ ናቸው።',
+      'ከዊኪሚዲያ ኮመንስ የተገኙ የኢትዮጵያ ክፍት ምንጭ SVG ካርታዎች፣ በCC BY-SA ፈቃድ ምንጭ በመጥቀስ በነፃ ጥቅም ላይ የሚውሉ።',
 
     // Hero
     'assets.hero.title': 'የኢትዮጵያ ክፍት የቅርፅ ካርታ (SVG)',
     'assets.hero.subtitle':
-      'ትክክለኛ የኢትዮጵያ SVG ስብስብ በመገንባት ላይ ነን። ከዚህ በታች ያሉት ፋይሎች ጊዜያዊ ናቸው — እውነተኛዎቹን ፋይሎች ለማግኘት CLAUDE.md ይመልከቱ።',
+      'ከዊኪሚዲያ ኮመንስ የተገኙ እውነተኛ ክፍት ፈቃድ ያላቸው የኢትዮጵያ ካርታዎች፤ ለእያንዳንዱ ፋይል ደራሲው እና ፈቃዱ ተጠቅሰዋል።',
 
     // Problem section
-    'assets.problem.title': '🚧 በግንባታ ላይ',
+    'assets.problem.title': 'ስለ እነዚህ ፋይሎች',
     'assets.problem.p1':
-      'እነዚህ SVG ፋይሎች ቀደም ሲል በስህተት "ኢትዮጵያ" ተብለው የተሰየሙ የታይዋን ካርታ መረጃዎች ነበሩ። የተሳሳተ ሀገር ከማሳየት ይልቅ በታማኝነት በጊዜያዊ ምስሎች ተተክተዋል።',
+      'እነዚህ SVG ፋይሎች ቀደም ሲል በስህተት "ኢትዮጵያ" ተብለው የተሰየሙ የታይዋን ካርታ መረጃዎች ነበሩ። አሁን በእውነተኛ የኢትዮጵያ ካርታዎች ተተክተዋል፤ እያንዳንዱ ተሳሎ ኢትዮጵያን እንደሚያሳይ ተረጋግጧል።',
     'assets.problem.p2.html':
-      'Ethiopia.md <strong>ትክክለኛ፣ ክፍት ምንጭ እና በነፃነት ጥቅም ላይ የሚውሉ</strong> የኢትዮጵያ SVG ቅርጾችን ለማቅረብ ያለመ ነው። እውነተኛዎቹ ፋይሎች እስኪገኙና እስኪረጋገጡ ድረስ፣ ከዚህ በታች ያሉት አውርድ አገናኞች ወደ ጊዜያዊ ምስሎች ያመለክታሉ።',
+      'አራቱም ካርታዎች <strong>CC BY-SA</strong> ናቸው፦ እንደገና መጠቀምና ማሻሻል ይቻላል፣ ነገር ግን ደራሲውን መጥቀስና የተሻሻሉ ሥራዎችን በተመሳሳይ ፈቃድ ማጋራት ያስፈልጋል። ሙሉ ምንጮች ከገጹ ግርጌ ተዘርዝረዋል።',
 
     // Card 1: ethiopia-icon
     'assets.card1.title': 'ethiopia-icon-wiki.svg',
-    'assets.card1.desc': 'የኢትዮጵያ መገኛ ምልክት — ጊዜያዊ',
-    'assets.card1.meta': 'ጊዜያዊ · እውነተኛ ፋይል በመጠባበቅ ላይ',
+    'assets.card1.desc': 'ኢትዮጵያ በአፍሪካ (የመገኛ ካርታ) — Shosholoza',
+    'assets.card1.meta': 'CC BY-SA 3.0 · ዊኪሚዲያ ኮመንስ',
 
     // Card 2: ethiopia-simplemaps
     'assets.card2.title': 'ethiopia-simplemaps.svg',
-    'assets.card2.desc': 'የሀገር ቅርጽ ካርታ — ጊዜያዊ',
-    'assets.card2.meta': 'ጊዜያዊ · እውነተኛ ፋይል በመጠባበቅ ላይ',
+    'assets.card2.desc': 'በሰንደቅ ዓላማ ቀለም የተሞላ የሀገር ቅርጽ — Darwinek',
+    'assets.card2.meta': 'CC BY-SA 3.0 · ዊኪሚዲያ ኮመንስ',
 
     // Card 3: ethiopia-location-map
     'assets.card3.title': 'ethiopia-location-map.svg',
-    'assets.card3.desc': 'የመገኛ ካርታ — ጊዜያዊ',
-    'assets.card3.meta': 'ጊዜያዊ · እውነተኛ ፋይል በመጠባበቅ ላይ',
+    'assets.card3.desc':
+      'ወንዞችና ድንበሮች ያሉት የመገኛ ካርታ — NordNordWest (ትልቅ ፋይል፣ ወደ 700 ኪባ)',
+    'assets.card3.meta': 'CC BY-SA 3.0 · ዊኪሚዲያ ኮመንስ',
 
     // Card 4: ethiopia-political-division
     'assets.card4.title': 'ethiopia-political-division.svg',
-    'assets.card4.desc': 'የክልሎች ካርታ — ጊዜያዊ',
-    'assets.card4.meta': 'ጊዜያዊ · እውነተኛ ፋይል በመጠባበቅ ላይ',
+    'assets.card4.desc': 'የክልሎች ካርታ — Jfblanc',
+    'assets.card4.meta': 'CC BY-SA 4.0 · ዊኪሚዲያ ኮመንስ',
 
     // Buttons
     'assets.btn.download': 'SVG አውርድ',
@@ -130,16 +141,25 @@ background-image: url('https://ethiopia.md/assets/svg/ethiopia-icon-wiki.svg');
     // License section
     'assets.license.title': '📄 ፈቃድ እና ምንጭ',
     'assets.license.intro.html':
-      'በዚህ ገጽ ላይ ያሉት ጊዜያዊ ምስሎች የ Ethiopia.md የራሱ ውጤት ናቸው (CC BY-SA 4.0)። እውነተኛዎቹ ፋይሎች ከገቡ በኋላ እያንዳንዳቸው የራሳቸው ፈቃድ ይኖራቸዋል — ዝርዝሩን ለማየት CLAUDE.md ይመልከቱ።',
-    'assets.license.sources.title': 'ምንጮች (እውነተኛዎቹ ፋይሎች ከገቡ በኋላ)',
+      'በዚህ ገጽ ላይ ያሉት ሁሉም ፋይሎች ከዊኪሚዲያ ኮመንስ የተገኙ እና በCC BY-SA ፈቃድ የተሰጡ ናቸው። እንደገና ሲጠቀሙ ደራሲን መጥቀስ ያስፈልጋል፤ የተሻሻሉ ሥራዎች ተመሳሳይ ፈቃድ መያዝ አለባቸው።',
+    'assets.license.sources.title': 'ምንጮች',
     'assets.license.source1.html':
-      '<strong>ethiopia-icon-wiki.svg</strong> — ገና አልተገኘም፣ CLAUDE.md ይመልከቱ',
+      '<strong>ethiopia-icon-wiki.svg</strong> — <a href="https://commons.wikimedia.org/wiki/File:Locator_map_of_Ethiopia_in_Africa.svg" target="_blank" rel="noopener">File:Locator map of Ethiopia in Africa.svg</a>, ደራሲ Shosholoza, <a href="https://creativecommons.org/licenses/by-sa/3.0" target="_blank" rel="noopener">CC BY-SA 3.0</a>',
     'assets.license.source2.html':
-      '<strong>ethiopia-simplemaps.svg</strong> — የታሰበ ምንጭ：<a href="https://simplemaps.com/svg/country/et" target="_blank">SimpleMaps (ኢትዮጵያ፣ የሀገር ኮድ ET)</a>，Free License（ምንጭ ጥቀስ የሚያስፈልገው simplemaps.com）',
+      '<strong>ethiopia-simplemaps.svg</strong> — <a href="https://commons.wikimedia.org/wiki/File:Flag_map_of_Ethiopia.svg" target="_blank" rel="noopener">File:Flag map of Ethiopia.svg</a>, ደራሲ Darwinek, <a href="https://creativecommons.org/licenses/by-sa/3.0" target="_blank" rel="noopener">CC BY-SA 3.0</a> (የፋይሉ ስም ታሪካዊ ነው፤ ይህ የSimpleMaps ፋይል አይደለም)',
     'assets.license.source3.html':
-      '<strong>ethiopia-location-map.svg</strong> — የታሰበ ምንጭ：<a href="https://commons.wikimedia.org/wiki/File:Ethiopia_location_map.svg" target="_blank">Wikimedia Commons: Ethiopia location map.svg</a>，CC BY-SA 3.0，ደራሲ：NordNordWest — መኖሩ ተረጋግጧል',
+      '<strong>ethiopia-location-map.svg</strong> — <a href="https://commons.wikimedia.org/wiki/File:Ethiopia_location_map.svg" target="_blank" rel="noopener">File:Ethiopia location map.svg</a>, ደራሲ NordNordWest, <a href="https://creativecommons.org/licenses/by-sa/3.0" target="_blank" rel="noopener">CC BY-SA 3.0</a>',
     'assets.license.source4.html':
-      '<strong>ethiopia-political-division.svg</strong> — የታሰበ ምንጭ：ከ<a href="https://commons.wikimedia.org/wiki/Category:Maps_of_regions_of_Ethiopia" target="_blank">Wikimedia Commons: Category:Maps of regions of Ethiopia</a> የተገኘ ባለቀለም የክልሎች/የአስተዳደር ክፍሎች SVG (ትክክለኛውን ፋይል እና ፈቃድ ከመጠቀምዎ በፊት ያረጋግጡ)',
+      '<strong>ethiopia-political-division.svg</strong> — <a href="https://commons.wikimedia.org/wiki/File:Regions_of_Ethiopia_EN.svg" target="_blank" rel="noopener">File:Regions of Ethiopia EN.svg</a>, ደራሲ Jfblanc, <a href="https://creativecommons.org/licenses/by-sa/4.0" target="_blank" rel="noopener">CC BY-SA 4.0</a>',
+
+    // Photo credits
+    'assets.credits.title': 'የፎቶ ምንጮች',
+    'assets.credits.intro':
+      'የምድብ ሽፋን ፎቶዎችና የማኅበራዊ ማጋሪያ ምስሉ ከዊኪሚዲያ ኮመንስ የተገኙ ናቸው። CC BY እና CC BY-SA ፈቃዶች ደራሲን መጥቀስ ይጠይቃሉ፤ ስለዚህ እያንዳንዱ ደራሲና ፈቃድ እዚህ ተዘርዝሯል። ፎቶዎቹ ተከርክመዋል፣ መጠናቸውም ተቀይሯል።',
+    'assets.credits.col.slot': 'የተጠቀመበት',
+    'assets.credits.col.photo': 'ፎቶ',
+    'assets.credits.col.author': 'ደራሲ',
+    'assets.credits.col.license': 'ፈቃድ',
 
     // CTA section
     'assets.cta.text': 'Found an issue or have suggestions?',

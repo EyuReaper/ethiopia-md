@@ -1,0 +1,200 @@
+[
+  {
+    "slot": "history",
+    "file": "public/images/categories/history.jpg",
+    "title": "File:Ethiopia - sunset at Church of Saint George, Lalibela 01.jpg",
+    "description": "Church of Saint George, Lalibela, at sunset",
+    "author": "Thomas Fuhrmann",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ethiopia_-_sunset_at_Church_of_Saint_George,_Lalibela_01.jpg",
+    "changes": "Cropped to 16:9 and resized"
+  },
+  {
+    "slot": "geography",
+    "file": "public/images/categories/geography.jpg",
+    "title": "File:Simien Mountains Landscape, Ethiopia (2462794039).jpg",
+    "description": "Simien Mountains escarpment",
+    "author": "A. Davey from Where I Live Now: Pacific Northwest",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Simien_Mountains_Landscape,_Ethiopia_(2462794039).jpg",
+    "changes": "Cropped to 16:9 and resized"
+  },
+  {
+    "slot": "culture",
+    "file": "public/images/categories/culture.jpg",
+    "title": "File:Timket Ceremony Gondar Ethio.jpg",
+    "description": "Priest carrying a tabot at Timket (Epiphany), Gondar",
+    "author": "Jialiang Gao www.peace-on-earth.org",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Timket_Ceremony_Gondar_Ethio.jpg",
+    "changes": "Cropped to 16:9 and resized"
+  },
+  {
+    "slot": "food",
+    "file": "public/images/categories/food.jpg",
+    "title": "File:Injera and traditional platter in Ethopia.jpg",
+    "description": "Injera with traditional dishes",
+    "author": "FrogsLegs71",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Injera_and_traditional_platter_in_Ethopia.jpg",
+    "changes": "Cropped to 16:9 and resized"
+  },
+  {
+    "slot": "art",
+    "file": "public/images/categories/art.jpg",
+    "title": "File:Church of Debra Berhan Selassie - Paintings 01.jpg",
+    "description": "Painted ceiling and walls, Debre Berhan Selassie church, Gondar",
+    "author": "Bernard Gagnon",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Church_of_Debra_Berhan_Selassie_-_Paintings_01.jpg",
+    "changes": "Cropped to 16:9 and resized"
+  },
+  {
+    "slot": "music",
+    "file": "public/images/categories/music.jpg",
+    "title": "File:Krar Player, Wolayta, Ethiopia (18547771378).jpg",
+    "description": "Krar player, Wolayta",
+    "author": "Rod Waddington",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Krar_Player,_Wolayta,_Ethiopia_(18547771378).jpg",
+    "changes": "Cropped to 16:9 and resized"
+  },
+  {
+    "slot": "technology",
+    "file": "public/images/categories/technology.jpg",
+    "title": "File:Boeing 787-8 Ethiopian Airlines.jpg",
+    "description": "Ethiopian Airlines Boeing 787-8, Addis Ababa Bole airport",
+    "author": "Alan Wilson",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boeing_787-8_Ethiopian_Airlines.jpg",
+    "changes": "Cropped to 16:9 and resized"
+  },
+  {
+    "slot": "nature",
+    "file": "public/images/categories/nature.jpg",
+    "title": "File:Gelada Baboons, Ethiopia (10412652043).jpg",
+    "description": "Gelada baboons, Ethiopian highlands",
+    "author": "Rod Waddington from Kergunyah, Australia",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gelada_Baboons,_Ethiopia_(10412652043).jpg",
+    "changes": "Cropped to 16:9 and resized"
+  },
+  {
+    "slot": "people",
+    "file": "public/images/categories/people.jpg",
+    "title": "File:Abebe-Bikila-1969.jpg",
+    "description": "Abebe Bikila with coach Onni Niskanen, 1969",
+    "author": "Anonymous / Lehtikuva (PD-Finland50)",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abebe-Bikila-1969.jpg",
+    "changes": "Cropped to 16:9 and resized"
+  },
+  {
+    "slot": "society",
+    "file": "public/images/categories/society.jpg",
+    "title": "File:Children Leaving School - Lalibela - Ethiopia - 02 (8725998040).jpg",
+    "description": "Schoolchildren in Lalibela",
+    "author": "Adam Jones from Kelowna, BC, Canada",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Children_Leaving_School_-_Lalibela_-_Ethiopia_-_02_(8725998040).jpg",
+    "changes": "Cropped to 16:9 and resized"
+  },
+  {
+    "slot": "economy",
+    "file": "public/images/categories/economy.jpg",
+    "title": "File:Merkato streets.jpg",
+    "description": "Merkato market streets, Addis Ababa",
+    "author": "Abpics234",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Merkato_streets.jpg",
+    "changes": "Cropped to 16:9 and resized"
+  },
+  {
+    "slot": "lifestyle",
+    "file": "public/images/categories/lifestyle.jpg",
+    "title": "File:Coffee ceremony of Ethiopia and Eritrea 1.jpg",
+    "description": "Coffee ceremony cup with rue leaves, Addis Ababa",
+    "author": "ProtoplasmaKid",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Coffee_ceremony_of_Ethiopia_and_Eritrea_1.jpg",
+    "changes": "Cropped to 16:9 and resized"
+  },
+  {
+    "slot": "language",
+    "file": "public/images/categories/language.jpg",
+    "title": "File:Sample of Ge'ez writing.jpg",
+    "description": "Ge'ez text from a 15th-century prayer book",
+    "author": "Miami University Libraries",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sample_of_Ge%27ez_writing.jpg",
+    "changes": "Cropped to 16:9 and resized"
+  },
+  {
+    "slot": "map:icon",
+    "file": "public/assets/svg/ethiopia-icon-wiki.svg",
+    "title": "File:Locator map of Ethiopia in Africa.svg",
+    "description": "Ethiopia highlighted on a map of Africa",
+    "author": "Shosholoza",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Locator_map_of_Ethiopia_in_Africa.svg",
+    "changes": "Unmodified from Commons"
+  },
+  {
+    "slot": "map:simplemaps",
+    "file": "public/assets/svg/ethiopia-simplemaps.svg",
+    "title": "File:Flag map of Ethiopia.svg",
+    "description": "Ethiopia country outline filled with the flag",
+    "author": "Darwinek",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_map_of_Ethiopia.svg",
+    "changes": "Unmodified from Commons"
+  },
+  {
+    "slot": "map:location",
+    "file": "public/assets/svg/ethiopia-location-map.svg",
+    "title": "File:Ethiopia location map.svg",
+    "description": "Ethiopia location map with rivers and borders",
+    "author": "NordNordWest",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ethiopia_location_map.svg",
+    "changes": "Unmodified from Commons"
+  },
+  {
+    "slot": "map:regions",
+    "file": "public/assets/svg/ethiopia-political-division.svg",
+    "title": "File:Regions of Ethiopia EN.svg",
+    "description": "Regions of Ethiopia, colored and labeled",
+    "author": "Jfblanc",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Regions_of_Ethiopia_EN.svg",
+    "changes": "Unmodified from Commons"
+  },
+  {
+    "slot": "social",
+    "file": "public/images/ethiopia-social.jpg",
+    "title": "File:Ethiopia - sunset at Church of Saint George, Lalibela 01.jpg",
+    "description": "OG/social share card, darkened Lalibela photo with Ethiopia.md wordmark",
+    "author": "Thomas Fuhrmann",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ethiopia_-_sunset_at_Church_of_Saint_George,_Lalibela_01.jpg",
+    "changes": "Cropped, darkened, text and flag-color stripe added"
+  }
+]
