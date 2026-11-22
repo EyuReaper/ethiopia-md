@@ -11,6 +11,7 @@ featured: false
 lastVerified: '2026-11-21'
 lastHumanReview: false
 status: published
+image: '/images/articles/italian-occupation-and-arbegnoch.jpg'
 sources:
   - https://hdl.handle.net/1887/12915
   - https://www.sipri.org/sites/default/files/Italo-Ethiopian-war.pdf

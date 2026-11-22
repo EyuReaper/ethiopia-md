@@ -12,6 +12,7 @@ featured: true
 lastVerified: '2026-11-20'
 lastHumanReview: false
 status: published
+image: '/images/articles/gadaa-system.jpg'
 sources:
   - https://ich.unesco.org/en/RL/gada-system-an-indigenous-democratic-socio-political-system-of-the-oromo-01164
   - https://www.cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies/article/asmarom-legesse-gada-three-approaches-to-the-study-of-african-society-xii-340-pp-new-york-free-press-london-colliermacmillan-ltd-c1973-550/BBDEBC20BE6CEB94C04AD4B81DE472EC

@@ -319,6 +319,17 @@
     "changes": "Cropped to 16:9 and resized"
   },
   {
+    "slot": "article: italian-occupation-and-arbegnoch",
+    "file": "public/images/articles/italian-occupation-and-arbegnoch.jpg",
+    "title": "File:Ethiopian Patriots.jpg",
+    "description": "Ethiopian Patriots",
+    "author": "Unknown author",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ethiopian_Patriots.jpg",
+    "changes": "Cropped to 16:9 and resized"
+  },
+  {
     "slot": "article: afaan-oromo-and-the-qubee-alphabet",
     "file": "public/images/articles/afaan-oromo-and-the-qubee-alphabet.jpg",
     "title": "File:Beauty of Oromia.jpg",
@@ -415,6 +426,17 @@
     "license": "CC BY 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Addis_Ababa_from_Entoto_Mountains.jpg",
+    "changes": "Cropped to 16:9 and resized"
+  },
+  {
+    "slot": "article: gadaa-system",
+    "file": "public/images/articles/gadaa-system.jpg",
+    "title": "File:Irreecha Festival.jpg",
+    "description": "Irreecha is a thanksgiving festival celebrated every year. Oromo people gather from all places to the sacred lake and sprinkle the water to ",
+    "author": "Mohammed Kassahun",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Irreecha_Festival.jpg",
     "changes": "Cropped to 16:9 and resized"
   },
   {
