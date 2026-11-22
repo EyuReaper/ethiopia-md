@@ -11,6 +11,7 @@ featured: true
 lastVerified: '2026-11-20'
 lastHumanReview: false
 status: published
+image: '/images/articles/great-rift-valley.jpg'
 sources:
   - https://science.nasa.gov/earth/earth-observatory/the-smoking-mountain-152150/
   - https://www.nature.com/articles/39853

@@ -11,6 +11,7 @@ featured: true
 lastVerified: '2026-11-20'
 lastHumanReview: false
 status: published
+image: '/images/articles/aksumite-empire.jpg'
 sources:
   - https://whc.unesco.org/en/list/15/
   - https://en.wikipedia.org/wiki/Kingdom_of_Aksum

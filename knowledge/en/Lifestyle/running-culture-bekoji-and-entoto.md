@@ -10,6 +10,7 @@ featured: false
 lastVerified: '2026-11-21'
 lastHumanReview: false
 status: published
+image: '/images/articles/running-culture-bekoji-and-entoto.jpg'
 sources:
   - https://content.time.com/time/specials/2007/article/0,28804,1815747_1815707_1815673,00.html
   - https://athleticsweekly.com/?p=40485

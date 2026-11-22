@@ -11,6 +11,7 @@ featured: false
 lastVerified: '2026-11-21'
 lastHumanReview: false
 status: published
+image: '/images/articles/lake-tana-and-the-blue-nile.jpg'
 sources:
   - https://whc.unesco.org/fr/listesindicatives/6580
   - https://feow.org/ecoregions/details/526

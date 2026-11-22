@@ -11,6 +11,7 @@ featured: true
 lastVerified: '2026-11-20'
 lastHumanReview: false
 status: published
+image: '/images/articles/lalibela-rock-hewn-churches.jpg'
 sources:
   - https://whc.unesco.org/en/list/18/
   - https://www.metmuseum.org/en/essays/the-rock-hewn-churches-of-lalibela

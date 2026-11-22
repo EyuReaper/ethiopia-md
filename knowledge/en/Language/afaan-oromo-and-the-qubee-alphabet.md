@@ -11,6 +11,7 @@ featured: false
 lastVerified: '2026-11-21'
 lastHumanReview: false
 status: published
+image: '/images/articles/afaan-oromo-and-the-qubee-alphabet.jpg'
 sources:
   - https://kar.kent.ac.uk/id/document/39335
   - https://ejol.aau.edu.et/index.php/JES/article/view/8460

@@ -12,6 +12,7 @@ featured: false
 lastVerified: '2026-11-21'
 lastHumanReview: false
 status: published
+image: '/images/articles/coffee-export-economy.jpg'
 sources:
   - https://worldcoffeeresearch.org/news/2020/study-all-arabica-derived-from-a-single-ancestral-plant
   - https://doi.org/10.1038/s41598-020-61216-7

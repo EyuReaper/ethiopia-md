@@ -12,6 +12,7 @@ featured: false
 lastVerified: '2026-11-21'
 lastHumanReview: false
 status: published
+image: '/images/articles/fayda-national-digital-id.jpg'
 sources:
   - https://www.worldbank.org/en/news/press-release/2023/12/13/world-bank-supports-afe-ethiopias-digital-id-project-to-increase-access-to-services-and-economic-opportunities
   - https://id.gov.et/about

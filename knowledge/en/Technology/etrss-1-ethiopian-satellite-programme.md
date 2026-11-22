@@ -12,6 +12,7 @@ featured: false
 lastVerified: '2026-11-21'
 lastHumanReview: false
 status: published
+image: '/images/articles/etrss-1-ethiopian-satellite-programme.jpg'
 sources:
   - https://phys.org/news/2019-12-ethiopia-celebrates-satellite.pdf
   - https://www.chinadaily.com.cn/a/201912/20/WS5dfc5dbea310cf3e3557f874.html

@@ -9,6 +9,7 @@ featured: true
 lastVerified: '2026-11-20'
 lastHumanReview: false
 status: published
+image: '/images/articles/ai-development.jpg'
 sources:
   - http://www.xinhuanet.com/english/2018-07/03/c_137299219.htm
   - https://digitalpolicyalert.org/change/13880-establishment-of-ethiopian-artificial-intelligence-institute-under-council-of-ministers-regulation-no-5102022

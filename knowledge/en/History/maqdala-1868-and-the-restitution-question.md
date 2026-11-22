@@ -11,6 +11,7 @@ featured: false
 lastVerified: '2026-11-21'
 lastHumanReview: false
 status: published
+image: '/images/articles/maqdala-1868-and-the-restitution-question.jpg'
 sources:
   - https://www.vam.ac.uk/articles/ethiopian-collections-at-the-vampa
   - https://www.vam.ac.uk/content/articles/t/treasures-from-ethiopia/

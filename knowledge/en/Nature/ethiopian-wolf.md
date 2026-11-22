@@ -11,6 +11,7 @@ featured: false
 lastVerified: '2026-11-21'
 lastHumanReview: false
 status: published
+image: '/images/articles/ethiopian-wolf.jpg'
 sources:
   - https://www.wildcru.org/?p=1199
   - https://www.ethiopianwolf.org/

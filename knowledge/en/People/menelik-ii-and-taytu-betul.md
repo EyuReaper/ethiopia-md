@@ -11,6 +11,7 @@ featured: true
 lastVerified: '2026-11-20'
 lastHumanReview: false
 status: published
+image: '/images/articles/menelik-ii-and-taytu-betul.jpg'
 sources:
   - https://www.britannica.com/biography/Menilek-II
   - https://countrystudies.us/ethiopia/15.htm

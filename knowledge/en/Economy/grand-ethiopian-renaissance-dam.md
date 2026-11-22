@@ -12,6 +12,7 @@ featured: true
 lastVerified: '2026-11-20'
 lastHumanReview: false
 status: published
+image: '/images/articles/grand-ethiopian-renaissance-dam.jpg'
 sources:
   - https://www.asce.org/publications-and-news/civil-engineering-source/civil-engineering-magazine/issues/magazine-issue/article/2025/07/giant-ethiopian-dam-promises-greater-flood-control-and-water-management
   - https://www.webuildgroup.com/en/media/press-releases/grand-ethopian-renaissance-dam-gerd-inaugurated/

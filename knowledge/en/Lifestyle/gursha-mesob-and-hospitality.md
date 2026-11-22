@@ -10,6 +10,7 @@ featured: false
 lastVerified: '2026-11-21'
 lastHumanReview: false
 status: published
+image: '/images/articles/gursha-mesob-and-hospitality.jpg'
 sources:
   - https://cris.huji.ac.il/en/publications/from-hand-to-mouth-reflections-on-the-multivocality-of-gursha-in-/
   - https://doi.org/10.14321/nortafristud.19.2.0001

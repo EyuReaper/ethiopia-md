@@ -12,6 +12,7 @@ featured: false
 lastVerified: '2026-11-21'
 lastHumanReview: false
 status: published
+image: '/images/articles/tirunesh-dibaba-track-champion.jpg'
 sources:
   - https://www.olympedia.org/athletes/104973
   - https://worldathletics.org/news/news/dibaba-smashes-olympic-10000m-record-as-two-d

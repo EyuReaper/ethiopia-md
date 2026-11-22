@@ -9,6 +9,7 @@ featured: true
 lastVerified: '2026-11-20'
 lastHumanReview: false
 status: published
+image: '/images/articles/telebirr-digital-payments.jpg'
 sources:
   - https://www.dailydispatch.co.za/africa/2021-05-12-ethiopias-state-telecoms-monopoly-launches-mobile-money-service/
   - https://global.chinadaily.com.cn/a/202105/13/WS609d1509a31024ad0babdbc4.html

@@ -11,6 +11,7 @@ featured: true
 lastVerified: '2026-11-20'
 lastHumanReview: false
 status: published
+image: '/images/articles/ethiopian-airlines-aviation-hub.jpg'
 sources:
   - https://www.soas.ac.uk/sites/default/files/2025-03/SOAS%20DLD%20Case%20Study%20Ethiopian%20Airlines.pdf
   - https://www.thestar.com.my/news/world/2026/05/03/ethiopian-airlines-celebrates-80-years-of-operation-reaching-145-global-destinations

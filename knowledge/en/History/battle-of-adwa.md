@@ -11,6 +11,7 @@ featured: true
 lastVerified: '2026-11-20'
 lastHumanReview: false
 status: published
+image: '/images/articles/battle-of-adwa.jpg'
 sources:
   - https://journals.codesria.org/index.php/arb/article/view/4865
   - https://www.hup.harvard.edu/books/9780674062795

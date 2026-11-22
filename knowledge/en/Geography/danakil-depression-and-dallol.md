@@ -11,6 +11,7 @@ featured: false
 lastVerified: '2026-11-21'
 lastHumanReview: false
 status: published
+image: '/images/articles/danakil-depression-and-dallol.jpg'
 sources:
   - https://en.wikipedia.org/wiki/Danakil_Depression
   - https://geology.com/stories/13/dallol

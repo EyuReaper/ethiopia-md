@@ -34,16 +34,16 @@
     "lastVerified": "2026-11-21",
     "lastHumanReview": false,
     "featured": false,
-    "wordCount": 102,
+    "wordCount": 119,
     "tagCount": 5,
     "tags": ["Art", "Architecture", "Gondar", "UNESCO", "Heritage"],
     "translations": {
       "en": false
     },
-    "revision": 1,
-    "commitHash": "53f40e43",
-    "description": "በ1979 (እ.ኤ.አ.) በዩኔስኮ የተመዘገበው የጎንደር የፋሲል ግቢ ግንብ የታጠረ ንጉሣዊ ቅጥር ግቢ የ17ኛውና የ18ኛው ክፍለ ዘመን የጎንደር ዘመን ምርጥ ተጠብቆ የቆየ ቅርስ እንዲሁም በኢትዮጵያ ሰሜናዊ ደጋ ያልተለመደ የድንጋይ ቤተ መንግሥት ነው።",
-    "healthScore": 29
+    "revision": 2,
+    "commitHash": "eabf9581",
+    "description": "በ1979 (እ.ኤ.አ.) በዩኔስኮ የተመዘገበው የጎንደር የፋሲል ግቢ ግንብ የታጠረ ንጉሣዊ ቅጥር ግቢ በ16ኛውና በ17ኛው ክፍለ ዘመን የንጉሠ ነገሥት ፋሲለደስና የተከታዮቹ መኖሪያ ነበር፤ የጎንደር የሥነ ሕንፃ ዘይቤውም ከ200 ዓመታት በላይ የኢትዮጵያን ሥነ ሕንፃ ቀርጿል።",
+    "healthScore": 32
   },
   {
     "title": "የኢትዮጵያ ዘመን አቆጣጠር፦ ዐሥራ ሦስት ወራትና የተለየ የዓመታት ቆጠራ",
@@ -74,16 +74,16 @@
     "lastVerified": "2026-11-21",
     "lastHumanReview": false,
     "featured": false,
-    "wordCount": 156,
+    "wordCount": 194,
     "tagCount": 3,
     "tags": ["Culture", "Harar", "World Heritage"],
     "translations": {
       "en": false
     },
-    "revision": 1,
-    "commitHash": "53f40e43",
-    "description": "በምሥራቅ ኢትዮጵያ የምትገኘው የሐረር ጀጎል የተመሸገች ታሪካዊ ከተማ በ16ኛው ክፍለ ዘመን ቅጥሮቿ፣ በጥቅጥቅ የእስልምና ሃይማኖታዊ ገጽታዋና በተለየ የሐረሪ ቤቶቿ ምክንያት በ2006 (እ.ኤ.አ.) በዩኔስኮ የዓለም ቅርስነት ተመዝግባለች።",
-    "healthScore": 25
+    "revision": 2,
+    "commitHash": "9c8a59dc",
+    "description": "በምሥራቅ ኢትዮጵያ የምትገኘው የሐረር ጀጎል የተመሸገች ታሪካዊ ከተማ ከ13ኛው እስከ 16ኛው ክፍለ ዘመን በተሠሩ ቅጥሮቿ፣ በጥቅጥቅ የእስልምና ሃይማኖታዊ ገጽታዋና በተለየ የሐረሪ ቤቶቿ ምክንያት በ2006 (እ.ኤ.አ.) በዩኔስኮ የዓለም ቅርስነት ተመዝግባለች።",
+    "healthScore": 29
   },
   {
     "title": "ቡና፦ የኢትዮጵያ የወጪ ንግድ ኢኮኖሚ",

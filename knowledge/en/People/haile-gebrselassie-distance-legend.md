@@ -12,6 +12,7 @@ featured: false
 lastVerified: '2026-11-21'
 lastHumanReview: false
 status: published
+image: '/images/articles/haile-gebrselassie-distance-legend.jpg'
 sources:
   - https://www.olympedia.org/athletes/67405
   - https://worldathletics.org/news/news/flash-gebrselassie-again-20359-world-record

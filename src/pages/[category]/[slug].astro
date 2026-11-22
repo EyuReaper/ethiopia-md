@@ -363,6 +363,14 @@ const processedContent = marked.parse(
   },
 ) as string;
 
+// Hero photo: the article's own `image:` (a local /images/ path, credited in
+// src/data/image-credits.json) if set, otherwise the category cover.
+const heroImage: string =
+  typeof frontmatter.image === 'string' &&
+  frontmatter.image.startsWith('/images/')
+    ? frontmatter.image
+    : categoryInfo.cover;
+
 // Sources: canonical field is `sources` (schema); legacy `source` still accepted.
 const sourceList: string[] = [frontmatter.sources, frontmatter.source]
   .flat()
@@ -403,7 +411,7 @@ const encodedTitle = encodeURIComponent(title);
       category={category}
       categoryName={categoryInfo.name}
       categoryColor={categoryInfo.color}
-      coverImage={categoryInfo.cover}
+      coverImage={heroImage}
       slug={slug}
       lang="am"
     />

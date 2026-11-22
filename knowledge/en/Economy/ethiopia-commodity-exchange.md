@@ -12,6 +12,7 @@ featured: false
 lastVerified: '2026-11-21'
 lastHumanReview: false
 status: published
+image: '/images/articles/ethiopia-commodity-exchange.jpg'
 sources:
   - https://www.pbs.org/wnet/wideangle/?p=5184
   - https://en.wikipedia.org/wiki/Ethiopia_Commodity_Exchange
