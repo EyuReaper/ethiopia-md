@@ -7,17 +7,18 @@
   },
   "scripts": {
     "dev": "astro dev",
-    "prebuild": "node scripts/core/generate-api.js && node scripts/core/build-search-index.mjs && node scripts/core/generate-dashboard-data.js",
+    "prebuild": "node scripts/utils/build-emoji-assets.mjs && node scripts/core/generate-api.js && node scripts/core/build-search-index.mjs && node scripts/core/generate-dashboard-data.js",
     "build": "astro build",
     "test": "node scripts/core/test-frontmatter.mjs",
     "test:ci": "node scripts/core/test-frontmatter.mjs --ci",
-    "postbuild": "node scripts/core/post-build-check.mjs",
+    "postbuild": "node scripts/core/post-build-check.mjs && node scripts/utils/check-emoji-svg.mjs",
     "preview": "astro preview",
     "sync": "bash scripts/core/sync.sh",
     "sync:build": "bash scripts/core/sync.sh && astro build",
     "check-images": "node scripts/utils/check-images.mjs",
     "check-links": "node scripts/utils/check-links.mjs",
     "check-emoji": "node scripts/utils/check-emoji.mjs",
+    "build-emoji": "node scripts/utils/build-emoji-assets.mjs",
     "astro": "astro",
     "format::check": "prettier --check .",
     "format::write": "prettier --write .",
@@ -34,6 +35,7 @@
     "remark-wiki-link": "^2.0.1"
   },
   "devDependencies": {
+    "@twemoji/svg": "^15.0.0",
     "husky": "^9.1.7",
     "lint-staged": "^16.4.0",
     "prettier": "^3.8.1",

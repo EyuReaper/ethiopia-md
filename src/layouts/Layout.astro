@@ -396,10 +396,22 @@ const bodyClass = [
           .forEach((l) => l.classList.add('active'));
       }
     </script>
+    <script>
+      import '../scripts/emoji-runtime.ts';
+    </script>
   </body>
 </html>
 
 <style is:global>
+  /* Emoji shown as SVG (see src/middleware.ts): sized to the surrounding text */
+  img.emoji {
+    display: inline-block;
+    width: 1.1em;
+    height: 1.1em;
+    margin: 0 0.05em;
+    vertical-align: -0.2em;
+  }
+
   html {
     font-size: 118%;
     overflow-x: hidden;
