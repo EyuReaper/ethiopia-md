@@ -26,6 +26,8 @@ sources:
 
 **In 30 seconds.** The Ethiopian wolf (ቀይ ቀበሮ, _ky kebero_) is a slender, red-and-white canid that hunts rodents on the treeless Afroalpine grasslands of Ethiopia's high mountains. Conservation scientists call it the rarest canid in the world and Africa's most endangered carnivore. Its latest population estimate is around 450 animals in six isolated mountain areas, with the Bale Mountains holding more than half. Rabies and shrinking habitat are the main threats, and a long-running vaccination programme has become a model for wildlife disease management.
 
+**A wolf, not a fox.** The animal looks fox-like, and its Amharic name ቀይ ቀበሮ contains the word for fox (_kebero_), but it is a wolf: its scientific name, _Canis simensis_, places it in _Canis_, the genus of the grey wolf (_Canis lupus_). [Wikipedia: Ethiopian wolf](https://en.wikipedia.org/wiki/Ethiopian_wolf)
+
 ## A highland specialist
 
 The Wildlife Conservation Research Unit (WildCRU) at the University of Oxford describes the Ethiopian wolf (_Canis simensis_), known locally as _ky kebero_ or _jedala farda_, as a species found only in the Afroalpine highlands of Ethiopia, above about 3,000 m. It has long limbs and an elongated muzzle and is a specialised hunter of small highland mammals. Although each wolf hunts alone, wolves live in packs of 3 to 17 at high densities, up to 2 per km², defending exclusive territories around a dominant breeding pair, with cooperative breeding. [WildCRU: Ethiopian wolves](https://www.wildcru.org/?p=1199)
