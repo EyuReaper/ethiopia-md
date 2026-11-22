@@ -1,6 +1,7 @@
 import { readdir, readFile } from 'fs/promises';
 import { resolve, join, basename } from 'path';
 import matter from 'gray-matter';
+import { CONTACT_EMAIL } from '../data/site';
 
 // RSS Feed generation for Ethiopia.md
 export async function GET() {
@@ -90,8 +91,8 @@ export async function GET() {
     <language>am</language>
     <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
     <pubDate>${new Date().toUTCString()}</pubDate>
-    <managingEditor>getachewnatnael55@gmail.com (Ethiopia.md)</managingEditor>
-    <webMaster>getachewnatnael55@gmail.com (Ethiopia.md)</webMaster>
+    <managingEditor>${CONTACT_EMAIL} (Ethiopia.md)</managingEditor>
+    <webMaster>${CONTACT_EMAIL} (Ethiopia.md)</webMaster>
     <atom:link href="${siteUrl}/feed.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>${siteUrl}/images/ethiopia-social.jpg</url>

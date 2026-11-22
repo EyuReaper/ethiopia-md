@@ -137,11 +137,7 @@ const generateJSONLD = () => {
       },
       'query-input': 'required name=search_term_string',
     },
-    sameAs: [
-      'https://github.com/EyuReaper/ethiopia-md',
-      'https://x.com/ethiopiadotmd',
-      'https://www.instagram.com/ethiopiadotmd',
-    ],
+    sameAs: ['https://github.com/EyuReaper/ethiopia-md'],
   };
 };
 
@@ -159,14 +155,10 @@ const organizationLD = {
       ? 'Open-source, AI-friendly knowledge base about Ethiopia'
       : 'ክፍት ምንጭ የሆነ እና ለ AI ተስማሚ ስለ ኢትዮጵያ የዕውቀት ምንጭ',
   foundingDate: '2024',
-  sameAs: [
-    'https://github.com/EyuReaper/ethiopia-md',
-    'https://x.com/eyu_gx',
-    'https://www.instagram.com/ethiopiadotmd',
-  ],
+  sameAs: ['https://github.com/EyuReaper/ethiopia-md'],
   contactPoint: {
     '@type': 'ContactPoint',
-    email: 'eyureaper@gmail.com',
+    url: 'https://github.com/EyuReaper/ethiopia-md/issues',
     contactType: 'Customer Support',
   },
 };
@@ -378,8 +370,6 @@ const breadcrumbLD = generateBreadcrumbLD();
 
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:site" content="@ethiopiadotmd" />
-<meta name="twitter:creator" content="@ethiopiadotmd" />
 <meta name="twitter:url" content={url} />
 <meta name="twitter:title" content={fullTitle} />
 <meta name="twitter:description" content={description} />

@@ -1,3 +1,4 @@
+import { CONTACT_EMAIL } from '../data/site';
 export const aboutUI = {
   en: {
     // Meta
@@ -225,9 +226,7 @@ export const aboutUI = {
       "Ethiopia.md is built and maintained by a community of contributors, writers, translators, and AI collaborators. There is no single founder story to tell yet — every article, translation, and correction is written by someone who believes Ethiopia's story should be told by the people who know it best. TODO: if this project settles around a named maintainer or founding team, replace this with their real bio.",
 
     // Founder links
-    'about.team.founder.link.website': 'https://ethiopia.md',
     'about.team.founder.link.github': '@EyuReaper',
-    'about.team.founder.link.instagram': '@ethiopiadotmd',
 
     // Team cards
     'about.team.muse.icon': '🫧',
@@ -257,7 +256,7 @@ export const aboutUI = {
       'Have ideas, collaboration proposals, or want to contribute? Get in touch.',
     'about.contact.collaboration.icon': '📧',
     'about.contact.collaboration.title': 'Collaboration',
-    'about.contact.collaboration.email': 'getachewnatnael55@gmail.com',
+    'about.contact.collaboration.email': CONTACT_EMAIL,
     'about.contact.opensource.icon': '🐙',
     'about.contact.opensource.title': 'Open Source',
     'about.contact.opensource.link': 'EyuReaper/ethiopia-md',
@@ -575,9 +574,7 @@ export const aboutUI = {
       'Ethiopia.md የሚገነባውና የሚተዳደረው በአስተዋጽዖ አበርካቾች፣ ጸሐፊዎች፣ ተርጓሚዎች እና የ AI ተባባሪዎች ማህበረሰብ ነው። እስካሁን የተነገረ ነጠላ የመስራች ታሪክ የለም — እያንዳንዱ ጽሑፍ፣ ትርጉም እና እርማት የተጻፈው የኢትዮጵያ ታሪክ በሚያውቋት ሰዎች መነገር አለበት ብሎ በሚያምን ሰው ነው። TODO: ይህ ፕሮጀክት በስም በሚታወቅ አስተዳዳሪ ወይም መስራች ቡድን ዙሪያ ከረጋ፣ ይህንን በእውነተኛ የሕይወት ታሪካቸው ይተኩ።',
 
     // Founder links
-    'about.team.founder.link.website': 'https://ethiopia.md',
     'about.team.founder.link.github': '@EyuReaper',
-    'about.team.founder.link.instagram': '@ethiopiadotmd',
 
     // Team cards
     'about.team.muse.icon': '🫧',
@@ -607,7 +604,7 @@ export const aboutUI = {
       'ሃሳቦች፣ የትብብር ጥቆማዎች ካሉዎት ወይም አስተዋጽዖ ማበርከት ከፈለጉ ያግኙን።',
     'about.contact.collaboration.icon': '📧',
     'about.contact.collaboration.title': 'ትብብር',
-    'about.contact.collaboration.email': 'getachewnatnael55@gmail.com',
+    'about.contact.collaboration.email': CONTACT_EMAIL,
     'about.contact.opensource.icon': '🐙',
     'about.contact.opensource.title': 'ክፍት ምንጭ',
     'about.contact.opensource.link': 'EyuReaper/ethiopia-md',

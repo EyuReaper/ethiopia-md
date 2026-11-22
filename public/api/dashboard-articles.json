@@ -220,10 +220,10 @@
     "translations": {
       "en": false
     },
-    "revision": 1,
-    "commitHash": "53f40e43",
+    "revision": 2,
+    "commitHash": "01237905",
     "description": "ኢጣሊያ በመስከረም 1928 ዓ.ም. (እ.ኤ.አ. ኦክቶበር 1935) ኢትዮጵያን ወርራ በሚያዝያ 1928 ዓ.ም. (እ.ኤ.አ. ሜይ 1936) ግዛት እንዳቋቋመች ብታውጅም፣ በመላ ሀገሪቱ የተነሳው የአርበኞች ተጋድሎ የገጠሩን ክፍል ሙሉ በሙሉ እንዳትቆጣጠር አድርጓት፣ በመጋቢት 1933 ዓ.ም. (እ.ኤ.አ. ኤፕሪል 1941) አዲስ አበባ በእንግሊዝና በኢትዮጵያ ኃይሎች ነፃ ወጣች።",
-    "healthScore": 27
+    "healthScore": 30
   },
   {
     "title": "መቅደላ 1860 ዓ.ም.፦ አጼ ቴዎድሮስ፣ የእንግሊዝ ጉዞና የተዘረፉ ቅርሶች ጥያቄ",
@@ -374,7 +374,7 @@
     "lastVerified": "2026-11-21",
     "lastHumanReview": false,
     "featured": false,
-    "wordCount": 137,
+    "wordCount": 145,
     "tagCount": 4,
     "tags": ["Nature", "Ethiopian Wolf", "Conservation", "Afroalpine"],
     "translations": {
@@ -930,10 +930,10 @@
     "translations": {
       "en": false
     },
-    "revision": 2,
-    "commitHash": "675f6303",
+    "revision": 3,
+    "commitHash": "01237905",
     "description": "በ2009 ዓ.ም. (2016) በዩኔስኮ የተመዘገበው የገዳ ሥርዓት፣ በየስምንት ዓመቱ ሥልጣን የሚተላለፍበት የኦሮሞ የትውልድ እርከን ሥርዓት ነው። በ2017 ዓ.ም. (March 2025) የቦረና ኦሮሞ 72ኛውን አባ ገዳ ሾሟል።",
-    "healthScore": 42
+    "healthScore": 45
   },
   {
     "title": "ዕድር እና ዕቁብ፦ የኢትዮጵያ ማህበራዊና የፋይናንስ መረዳጃ ተቋማት",
