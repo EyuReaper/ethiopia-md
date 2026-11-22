@@ -112,6 +112,25 @@ for (const file of walk('src')) {
         `link to /${m[1]} uses ${m[2]}, expected ${canonical[m[1]]}`,
       );
     }
+    // 3b. category links whose emoji sits on a following line (e.g. a footer icon span)
+    m = text.match(new RegExp(`<a href="/(?:en/)?(${keyRe})"[^>]*>\\s*$`));
+    if (m) {
+      for (let j = i + 1; j < Math.min(i + 4, lines.length); j++) {
+        const em = lines[j].match(
+          new RegExp(`>\\s*(${EMOJI.source})\\s*<`, 'u'),
+        );
+        if (em) {
+          if (norm(em[1]) !== norm(canonical[m[1]])) {
+            bad(
+              file,
+              j + 1,
+              `link to /${m[1]} uses ${em[1]}, expected ${canonical[m[1]]}`,
+            );
+          }
+          break;
+        }
+      }
+    }
     // 4. nav/config objects: path ... emoji within the next 4 lines
     m = text.match(new RegExp(`translatePath\\('/(${keyRe})'\\)`));
     if (m) {
