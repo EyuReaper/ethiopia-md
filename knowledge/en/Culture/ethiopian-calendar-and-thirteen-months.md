@@ -50,7 +50,7 @@ The new year, Enkutatash (እንቁጣጣሽ), is said to mean "gift of jewels."
 
 ## The church's calculation: Bahire Hasab
 
-Movable feasts such as Easter (Fasika) are not read off the civil calendar but computed with the Bahire Hasab, a traditional system used by the Ethiopian and Eritrean Orthodox Tewahedo Churches. Wikipedia describes it as a conventional mathematical system for organizing religious dates, not an astronomical model. The calculation multiplies the year's position in a 19-year lunar cycle (the _Wenber_) by eleven and takes the remainder after dividing by thirty to get the _Abekte_; the _Metqi_ is 30 minus the Abekte. The Nineveh fast always begins on a Monday, and Fasika falls 69 days after it. Between 1901 and 2099 Ethiopian Orthodox Easter falls between 4 April and 8 May in the Gregorian calendar. [Wikipedia: Bahire Hasab](https://en.wikipedia.org/wiki/Bahre_Hasab)
+Movable feasts such as Easter (Fasika) are computed with the Bahire Hasab, a traditional system used by the Ethiopian and Eritrean Orthodox Tewahedo Churches. Wikipedia describes it as a conventional mathematical system for organizing religious dates, not an astronomical model. The calculation multiplies the year's position in a 19-year lunar cycle (the _Wenber_) by eleven and takes the remainder after dividing by thirty to get the _Abekte_; the _Metqi_ is 30 minus the Abekte. The Nineveh fast always begins on a Monday, and Fasika falls 69 days after it. Between 1901 and 2099 Ethiopian Orthodox Easter falls between 4 April and 8 May in the Gregorian calendar. [Wikipedia: Bahire Hasab](https://en.wikipedia.org/wiki/Bahre_Hasab)
 
 A 2008 paper in the East African Journal of Sciences by S. Tafesse, "The Mathematical Basis of the Calendar Used by the Ethiopian Orthodox Twahedo Church for Fasting Periods and Religious Holidays," shows how modern number theory (the division algorithm and the theory of congruence) reproduces these dates. [Tafesse, East African Journal of Sciences 2(1), 2008](https://doi.org/10.4314/eajsci.v2i1.40368) The DOI resolves to the journal's record on African Journals Online; this article relies only on the paper's abstract and keywords, not on its full text.
 
@@ -70,4 +70,4 @@ Because Ethiopia's count is behind, it reached the year 2000 while the West was 
 
 ## Closing
 
-The Ethiopian calendar is best understood as a different, equally old answer to a shared question, not as a delay. It has even months, a short year-end month, an era inherited from Alexandria, and a clock that begins at dawn. Visitors who learn to read all three find that the country's festivals, fasts and everyday appointments make more sense.
+The Ethiopian calendar is a different, equally old answer to a shared question. It has even months, a short year-end month, an era inherited from Alexandria, and a clock that begins at dawn. Visitors who learn to read all three will find that the country's festivals, fasts and everyday appointments make more sense.

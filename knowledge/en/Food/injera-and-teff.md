@@ -47,7 +47,7 @@ Making injera takes several days and relies on knowledge passed down in househol
 
 A small portion of the fermented dough is then boiled with water to make _absit_, a cooked paste that acts as a binder. Once it has cooled, the absit is stirred back into the dough for a short second fermentation of 30 to 120 minutes, which produces gas bubbles. Injera made without absit is soft and thin and lacks the characteristic holes. [Wikipedia: Injera](https://en.wikipedia.org/wiki/Injera)
 
-The thinned batter is poured in a spiral, from the outside inward, onto a large round clay griddle called a _mitad_, heated to about 90–95 °C, and covered with a lid. It cooks in two to four minutes. Because it is never flipped, the bottom stays smooth while steam raises the bubbles on top that Ethiopians call "eyes". Today the most common mitad is electric, with a clay plate and a hinged aluminum lid. [Wikipedia: Injera](https://en.wikipedia.org/wiki/Injera)
+The thinned batter is poured in a spiral, from the outside inward, onto a large round clay griddle called a _mitad_, heated to about 90 to 95 °C, and covered with a lid. It cooks in two to four minutes. Because it is never flipped, the bottom stays smooth while steam raises the bubbles on top that Ethiopians call "eyes". Today the most common mitad is electric, with a clay plate and a hinged aluminum lid. [Wikipedia: Injera](https://en.wikipedia.org/wiki/Injera)
 
 ## Injera at the Table
 

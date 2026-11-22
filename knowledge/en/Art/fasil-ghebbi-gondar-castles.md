@@ -27,7 +27,7 @@ sources:
 
 ## 30-second overview
 
-Fasil Ghebbi (ፋሲል ግቢ, "Fasil's compound") is the walled royal enclosure at the heart of Gondar, in the Amhara Region, north of Lake Tana. UNESCO inscribed it as a World Heritage Site in 1979 under criteria (ii) and (iii) ([UNESCO World Heritage Centre: Fasil Ghebbi, Gondar Region](https://whc.unesco.org/en/list/19/)). Emperor Fasilides made Gondar a permanent capital in 1636, and successive rulers added palaces, a library, a chancellery and churches inside a wall about 900 meters long. The castles are built of dark basalt in a fortress-like style that carries Hindu and Arab influences that UNESCO says were later transformed by the Baroque style brought by Jesuit missionaries. They survived a Mahdist raid and a world war, but also decades of repairs that damaged their original fabric.
+Fasil Ghebbi (ፋሲል ግቢ, "Fasil's compound") is the walled royal enclosure in the center of Gondar, in the Amhara Region, north of Lake Tana. UNESCO inscribed it as a World Heritage Site in 1979 under criteria (ii) and (iii) ([UNESCO World Heritage Centre: Fasil Ghebbi, Gondar Region](https://whc.unesco.org/en/list/19/)). Emperor Fasilides made Gondar a permanent capital in 1636, and successive rulers added palaces, a library, a chancellery and churches inside a wall about 900 meters long. The castles are built of dark basalt in a fortress-like style that carries Hindu and Arab influences that UNESCO says were later transformed by the Baroque style brought by Jesuit missionaries. They survived a Mahdist raid and a world war, but also decades of repairs that damaged their original fabric.
 
 ## A Capital That Stopped Moving
 

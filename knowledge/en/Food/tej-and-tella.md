@@ -65,4 +65,4 @@ The same reviews that celebrate these drinks are frank about their problems. Hou
 
 ## Closing
 
-Tej and tella show how much Ethiopian food culture is made at home, by hand and by season. Their appeal comes from local ingredients, patient fermentation and the table they gather around, and their challenges, from consistency to safety, are being studied by Ethiopian researchers.
+Tej and tella are largely made at home, by hand and by season. They depend on local ingredients and patient fermentation, and Ethiopian researchers are studying challenges from consistency to safety.

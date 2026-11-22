@@ -83,25 +83,22 @@ export const ui = {
     'categoryConfig.lifestyle': 'Lifestyle',
     'categoryConfig.language': 'Language',
     'categoryConfig.history.description':
-      "The complete timeline of Ethiopia's history from prehistoric times to the present",
+      "Ethiopia's history from prehistoric times to the present",
     'categoryConfig.geography.description':
       "Ethiopia's natural environment, topographic features, and regional development",
     'categoryConfig.culture.description':
-      'The fusion of diverse ethnic cultures and local characteristics',
+      'Ethnic cultures and local traditions',
     'categoryConfig.food.description':
       'Culinary culture from home-cooked staples to festive feasts',
-    'categoryConfig.art.description':
-      'Creative energy from traditional crafts to contemporary art',
-    'categoryConfig.music.description':
-      'The soundscape from indigenous music to popular music',
+    'categoryConfig.art.description': 'Traditional crafts and contemporary art',
+    'categoryConfig.music.description': 'Indigenous and popular music',
     'categoryConfig.technology.description':
       "Innovation and digital transformation in Ethiopia's growing tech sector",
-    'categoryConfig.nature.description':
-      'Rich ecosystems and environmental issues',
+    'categoryConfig.nature.description': 'Ecosystems and environmental issues',
     'categoryConfig.people.description':
       "Important figures and stories that shaped Ethiopia's development",
     'categoryConfig.society.description':
-      'In-depth exploration of social changes and contemporary issues',
+      'Social changes and contemporary issues',
     'categoryConfig.economy.description':
       'The origins of the economic miracle and transformation challenges',
     'categoryConfig.lifestyle.description':
@@ -163,13 +160,13 @@ export const ui = {
     'nav.home': 'መነሻ',
     'nav.about': 'ስለ እኛ',
     'nav.twitter': 'ትዊተር',
-    'nav.explore': 'አስስ 🕸️',
+    'nav.explore': 'አስስ',
     'nav.graph': 'ግራፍ',
     'nav.graph-view': 'የዕውቀት ግራፍ',
-    'nav.contribute': 'ተሳትፎ ✋',
-    'nav.resources': 'መረጃዎች 🔗',
-    'nav.data': 'መረጃ 📊',
-    'nav.dashboard': 'ዳሽቦርድ 🔬',
+    'nav.contribute': 'ተሳትፎ',
+    'nav.resources': 'መረጃዎች',
+    'nav.data': 'መረጃ',
+    'nav.dashboard': 'ዳሽቦርድ',
     'nav.assets': 'የSVG ንብረቶች',
     'nav.projects': 'ፕሮጀክቶች',
     'nav.language-switch': 'ቋንቋ / Language',

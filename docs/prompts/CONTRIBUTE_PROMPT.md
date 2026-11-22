@@ -12,12 +12,12 @@ Write one article about one topic in Ethiopian history, geography, culture, soci
 
 ## Rules to follow
 
-1. **One topic.** "Injera and teff" is a topic. "Ethiopian food" is a Hub, and the Hubs are already written.
-2. **Sourced claims.** Every date, figure, name and quotation needs a source. List the sources at the end. Use only sources you have opened. If you cannot find a source for a claim, remove the claim or mark it as unverified.
-3. **Ethiopia only.** Do not carry over facts, examples or structures from articles about other countries. If a sentence would still make sense for another country, it probably needs a specific Ethiopian example.
-4. **Neutral on contested questions.** Where historians, governments or communities disagree, state the main positions and who holds them.
-5. **Plain prose.** Use paragraphs for explanation. Lists are for genuinely list-shaped material.
-6. **Frontmatter.** Use the template in `EDITORIAL.md` section 3.1. Set `status: draft` and `featured: false`. Dates are Gregorian `YYYY-MM-DD` strings.
+1. One topic. "Injera and teff" is a topic. "Ethiopian food" is a Hub, and the Hubs are already written.
+2. Sourced claims. Every date, figure, name and quotation needs a source. List the sources at the end. Use only sources you have opened. If you cannot find a source for a claim, remove the claim or mark it as unverified.
+3. Ethiopia only. Do not carry over facts, examples or structures from articles about other countries. If a sentence would still make sense for another country, it probably needs a specific Ethiopian example.
+4. Neutral on contested questions. Where historians, governments or communities disagree, state the main positions and who holds them.
+5. Plain prose. Use paragraphs for explanation. Lists are for genuinely list-shaped material.
+6. Frontmatter. Use the template in `EDITORIAL.md` section 3.1. Set `status: draft` and `featured: false`. Dates are Gregorian `YYYY-MM-DD` strings.
 
 ## Structure
 

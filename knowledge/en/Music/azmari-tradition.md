@@ -67,4 +67,4 @@ The tradition has also been recorded. The Ethiopiques reissue series includes a 
 
 ## Closing
 
-The azmari are a rare case of a profession that was at once indispensable and looked down upon. Their craft, wit hidden under a surface meaning, remains one of the most distinctive things Ethiopian culture has to offer, and the scholarship suggests that its present dignity is recent.
+The azmari are a profession that was both indispensable and looked down upon. Their craft is wit hidden under a surface meaning, and the scholarship suggests that its present dignity is recent.

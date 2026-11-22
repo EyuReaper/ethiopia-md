@@ -28,18 +28,18 @@ Editorial standards live in [EDITORIAL.md](EDITORIAL.md). Planned work lives in 
 
 ## Ways to contribute
 
-- **Write** a new Ethiopia article in Amharic, with an English pair.
-- **Translate** published articles into English, or help review the Amharic (see [Translations](#translations)).
-- **Fact-check** live articles and fix errors through an issue or PR.
-- **Report wrong-country content.** If anything on the site is about Taiwan but presented as Ethiopia (a fact, place, person, number, URL or image), open an issue. The `.github/ISSUE_TEMPLATE/` folder has a fact-correction template.
-- **Source pictures and maps** (see [Picture assets](#picture-assets)).
-- **Improve the code**: the Astro site, the scripts, or the `ethiopiamd` CLI in `cli/`.
+- Write a new Ethiopia article in Amharic, with an English pair.
+- Translate published articles into English, or help review the Amharic (see [Translations](#translations)).
+- Fact-check live articles and fix errors through an issue or PR.
+- Report wrong-country content. If anything on the site is about Taiwan but presented as Ethiopia (a fact, place, person, number, URL or image), open an issue. The `.github/ISSUE_TEMPLATE/` folder has a fact-correction template.
+- Source pictures and maps (see [Picture assets](#picture-assets)).
+- Improve the code: the Astro site, the scripts, or the `ethiopiamd` CLI in `cli/`.
 
 ## Writing an article
 
 ### 1. Pick a genuinely Ethiopian topic
 
-**Don't Ethiopia-wash a Taiwan topic.** The fork's find-and-replace once turned Taiwan articles into text that said "Ethiopia" but described Taiwan (night markets, convenience stores, the MRT, Taiwanese politicians and athletes). Never adapt a topic from the deleted corpus by swapping place names.
+Don't Ethiopia-wash a Taiwan topic. The fork's find-and-replace once turned Taiwan articles into text that said "Ethiopia" but described Taiwan (night markets, convenience stores, the MRT, Taiwanese politicians and athletes). Never adapt a topic from the deleted corpus by swapping place names.
 
 Choose a topic that really matters to Ethiopia in its category, research it from scratch, and give it a new English slug. The published flagships show the approach: the History flagships are `aksumite-empire.md` and `battle-of-adwa.md`, and the Food flagships are `injera-and-teff.md` and `doro-wat-and-festive-dining.md`.
 
@@ -122,7 +122,7 @@ Model your article on the published Hubs:
 - Start with a short overview paragraph that tells the reader what the article covers.
 - Use `##` sections, each covering one real aspect of the topic.
 - Aim for substance. The Hubs run to roughly 800 words or more.
-- **Cite as you go.** Link each key claim (dates, numbers, names, superlatives) inline to a source someone can check, e.g. `[Britannica: Battle of Adwa](https://www.britannica.com/event/Battle-of-Adwa)`. The published Hubs carry about 4 to 12 such links each, and some also end with a `## Sources` section.
+- Cite as you go. Link each key claim (dates, numbers, names, superlatives) inline to a source someone can check, e.g. `[Britannica: Battle of Adwa](https://www.britannica.com/event/Battle-of-Adwa)`. The published Hubs carry about 4 to 12 such links each, and some also end with a `## Sources` section.
 - Prefer authoritative sources: academic works, encyclopedias, UNESCO, Ethiopian government and institutional sites, and established news outlets. Use Wikipedia as a starting point, not your only source.
 - Where sources disagree (casualty figures, dates, contested history), say so rather than picking one number silently.
 - Dates shown to readers in Amharic text may use the Ethiopian calendar (e.g. 1888 ዓ.ም.). Frontmatter dates stay Gregorian.
@@ -133,24 +133,25 @@ Model your article on the published Hubs:
 
 Translations are very welcome. Translate from the published Amharic article (or its published English pair). The site supports exactly two languages, Amharic and English; there are no Spanish or Japanese folders.
 
-- **English:** every new Amharic article needs an English pair at the same path under `knowledge/en/`.
+- English: every new Amharic article needs an English pair at the same path under `knowledge/en/`.
 - Keep citations and links intact, and add a `_translations.json` entry (see above).
 - Oromo, Tigrinya and other Ethiopian languages aren't wired into the site yet (there is no locale for them in `astro.config.mjs`). If you'd like to help add one, open an issue first.
 
 ## Picture assets
 
-No real Ethiopia photography or cartography has been sourced yet. Every image slot currently holds a clearly labeled placeholder. Contributions here are welcome, as long as the file is real and properly licensed.
+All 13 category covers, the four maps, the social image and 32 per-article photos are real, credited Wikimedia Commons files. Credits live in `src/data/image-credits.json` and `public/images/CREDITS.md` and are shown on the `/assets` page. Many articles still use their category photo, and the community is welcome to supply a better photo for any of them.
 
-Needed:
+To contribute a photo for an article:
 
-- **12 category cover photos.** Save as `public/images/categories/{slug}.jpg` (or `.webp`), e.g. `history.jpg`, and update that category's `cover:` path in `src/utils/categoryConfig.ts`.
-- **Social share image** at `public/images/ethiopia-social.jpg`, 1200×630. It's used on every page.
-- **Four map SVGs** in `public/assets/svg/`: `ethiopia-simplemaps.svg`, `ethiopia-location-map.svg`, `ethiopia-political-division.svg` and `ethiopia-icon-wiki.svg`. Use real, licensed geographic data (for example Wikimedia Commons' "Ethiopia location map.svg", CC BY-SA 3.0). Don't hand-draw a country outline.
+1. Find a real photo of the subject. Only CC0, public domain, CC BY and CC BY-SA files are accepted.
+2. Save it as `public/images/articles/<slug>.jpg`, about 1280 px wide.
+3. Add an entry to `src/data/image-credits.json` with `author`, `license`, `licenseUrl` and `sourceUrl` (follow the existing entries).
+4. Add `image: '/images/articles/<slug>.jpg'` to the frontmatter of the article in `knowledge/` (both the Amharic and the English file).
 
 Rules for images:
 
-- Include the source URL, author and license in your PR. Wikimedia Commons and other CC-licensed sources are good places to look.
-- Open every image and check that it really shows Ethiopia. Several files in this repo had Ethiopia filenames but showed Taiwan.
+- Include the source URL, author and license in your PR.
+- Open every image and check that it really shows Ethiopia and the subject of the article. Several files in this repo once had Ethiopia filenames but showed Taiwan.
 - When you replace a map SVG, also update its attribution text (both `en` and `am`) in `src/i18n/assets.ts` and `src/i18n/data.ts`.
 
 ## Checking your work
@@ -178,7 +179,7 @@ If the hook fails, fix the reported problem rather than skipping it with `--no-v
 3. Run `npm run test` and preview the article locally.
 4. Open a PR against `main` and fill in the PR template. List your sources and, for images, their licenses.
 
-The **PR Content Review** workflow (`.github/workflows/pr-review.yml`) classifies every PR by the files it changes:
+The PR Content Review workflow (`.github/workflows/pr-review.yml`) classifies every PR by the files it changes:
 
 | Type          | When                                                                              | What happens                                                                     |
 | ------------- | --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |

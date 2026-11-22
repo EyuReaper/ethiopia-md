@@ -23,7 +23,7 @@ sources:
 
 # The Rock-Hewn Churches of Lalibela: Medieval Monolithic Engineering
 
-In the mountains of northern Ethiopia, about 645 kilometers from Addis Ababa, eleven medieval churches were not built but carved out of the living rock. [UNESCO: Rock-Hewn Churches, Lalibela](https://whc.unesco.org/en/list/18/) Ethiopian tradition credits them to King Gebre Mesqel Lalibela (ላሊበላ), who reigned roughly 1181–1221, and the town that grew around them now carries his name. [The Met: The Rock-hewn Churches of Lalibela](https://www.metmuseum.org/en/essays/the-rock-hewn-churches-of-lalibela) UNESCO inscribed the site on the World Heritage List in 1978. [The Met](https://www.metmuseum.org/en/essays/the-rock-hewn-churches-of-lalibela) More than eight centuries later the churches are still in daily religious use, which makes Lalibela both an archaeological puzzle and one of the most important pilgrimage places of the Ethiopian Orthodox Tewahedo Church.
+In the mountains of northern Ethiopia, about 645 kilometers from Addis Ababa, eleven medieval churches were carved out of the living rock. [UNESCO: Rock-Hewn Churches, Lalibela](https://whc.unesco.org/en/list/18/) Ethiopian tradition credits them to King Gebre Mesqel Lalibela (ላሊበላ), who reigned roughly 1181 to 1221, and the town that grew around them now carries his name. [The Met: The Rock-hewn Churches of Lalibela](https://www.metmuseum.org/en/essays/the-rock-hewn-churches-of-lalibela) UNESCO inscribed the site on the World Heritage List in 1978. [The Met](https://www.metmuseum.org/en/essays/the-rock-hewn-churches-of-lalibela) More than eight centuries later the churches are still in daily religious use, which makes Lalibela both an archaeological puzzle and one of the most important pilgrimage places of the Ethiopian Orthodox Tewahedo Church.
 
 ## Roha, the Zagwe Dynasty and a "New Jerusalem"
 
@@ -55,7 +55,7 @@ A French-led team (François-Xavier Fauvelle-Aymar and colleagues) took a differ
 
 Lalibela has been a focus of pilgrimage since the 12th century, and the original function of the site still continues. [UNESCO](https://whc.unesco.org/en/list/18/) It is home to a large community of priests and monks, and the Church and State have long been jointly responsible for it. [UNESCO](https://whc.unesco.org/en/list/18/) The great feasts draw the largest crowds. At Genna (Ethiopian Christmas) in January 2023, tens of thousands of worshippers in white _netela_ shawls filled the site. [VOA: After Peace Deal, Orthodox Ethiopians Keep a Christmas of Hope](https://www.voanews.com/a/6908589.html)
 
-That celebration followed a period of war. Lalibela lies about 40 kilometers from Tigray, and during the 2020–2022 conflict between the federal government and the Tigray People's Liberation Front the town changed hands four times. VOA reported that the churches appeared to have been spared physical damage, and that pilgrim numbers had been much lower in the war years. [VOA](https://www.voanews.com/a/6908589.html)
+That celebration followed a period of war. Lalibela lies about 40 kilometers from Tigray, and during the 2020 to 2022 conflict between the federal government and the Tigray People's Liberation Front the town changed hands four times. VOA reported that the churches appeared to have been spared physical damage, and that pilgrim numbers had been much lower in the war years. [VOA](https://www.voanews.com/a/6908589.html)
 
 ## Conservation Problems
 

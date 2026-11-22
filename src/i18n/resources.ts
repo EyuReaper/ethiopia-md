@@ -3,12 +3,12 @@ export const resourcesUI = {
     // Meta
     'resources.meta.title': 'Ethiopia Resources Guide - Ethiopia.md',
     'resources.meta.description':
-      'Comprehensive collection of official Ethiopia government agencies, cultural institutions, open data platforms, and authoritative information sources',
+      'Official Ethiopian government agencies, cultural institutions, open data platforms, and other information sources',
 
     // Hero
     'resources.hero.title': 'Ethiopia Resources Guide',
     'resources.hero.subtitle.html':
-      "Comprehensive collection of government agencies, cultural institutions, and open data sources<br />Your one-stop gateway to Ethiopia's most authoritative information",
+      'Government agencies, cultural institutions, and open data sources<br />A directory of Ethiopian information sources',
 
     // Category labels (heroData)
     'resources.category.government.label': '🏛️ Government',
@@ -32,21 +32,21 @@ export const resourcesUI = {
     'resources.nav.community': 'Community',
 
     // Chapter titles & stories
-    'resources.chapter.government.title': 'Gateway to National Governance',
+    'resources.chapter.government.title': 'National Governance',
     'resources.chapter.government.story':
-      "Ethiopia's House of Peoples' Representatives sits at the center of a federal system spanning more than 120 million people and dozens of nations, nationalities, and peoples. The Prime Minister's Office runs the day-to-day machinery of government, while constitutionally independent bodies like the National Election Board and the Human Rights Commission exist to check its power. The national open-data platform, data.gov.et, is a genuinely young experiment — a real, ongoing shift toward putting more public information a browser tab away.",
+      "Ethiopia's House of Peoples' Representatives sits at the center of a federal system spanning more than 120 million people and dozens of nations, nationalities, and peoples. The Prime Minister's Office runs the day-to-day machinery of government, while constitutionally independent bodies like the National Election Board and the Human Rights Commission exist to check its power. The national open-data platform, data.gov.et, is a young experiment in putting more public information online.",
     'resources.chapter.culture.title': 'Culture & Knowledge',
     'resources.chapter.culture.story':
-      "Ethiopia was never colonized, is home to more than 80 languages, and has kept its own calendar and script in continuous use for over a thousand years. Addis Ababa's National Museum holds Lucy, the 3.2-million-year-old Australopithecus afarensis skeleton discovered in 1974 that reshaped the study of human origins, while the Ethiopian Wildlife Conservation Authority manages national parks running from the Simien Mountains to the Bale Mountains. This chapter is a starting point, not a full map — many of Ethiopia's cultural institutions are only beginning to build the kind of public web presence this page can properly index.",
+      "Ethiopia was never colonized, is home to more than 80 languages, and has kept its own calendar and script in continuous use for over a thousand years. Addis Ababa's National Museum holds Lucy, the 3.2-million-year-old Australopithecus afarensis skeleton discovered in 1974 that reshaped the study of human origins, while the Ethiopian Wildlife Conservation Authority manages national parks running from the Simien Mountains to the Bale Mountains. This chapter is a starting point. Many of Ethiopia's cultural institutions are only beginning to build a public web presence this page can index.",
     'resources.chapter.media.title': 'Voices of Ethiopia',
     'resources.chapter.media.story':
-      "Ethiopia's media landscape has been shaped by decades of state broadcasting, a fast-growing wave of independent digital outlets, and, since 2018, a loosening — though still contested — space for press freedom. The Ethiopian News Agency has reported since 1942; newer outlets like Addis Standard and The Reporter now publish investigative and analytical work in Amharic, Afaan Oromoo, and English, often reaching audiences the state broadcaster does not.",
+      "Ethiopia's media landscape has been shaped by decades of state broadcasting, a fast-growing wave of independent digital outlets, and, since 2018, a loosening but still contested space for press freedom. The Ethiopian News Agency has reported since 1942; newer outlets like Addis Standard and The Reporter now publish investigative and analytical work in Amharic, Afaan Oromoo, and English, often reaching audiences the state broadcaster does not.",
     'resources.chapter.economy.title': 'Economy & Life Engine',
     'resources.chapter.economy.story':
-      "Ethiopian Airlines is Africa's largest airline by fleet, destinations, and revenue — a state-owned carrier that built a genuinely global route network from a landlocked country. Behind it sits a fast-changing financial system: the Ethiopian Securities Exchange opened its first trading floor in 2025, and Ethio Telecom's decades-long government monopoly only recently ended as the sector opened to competition. None of this is finished — Ethiopia's economy is still building core infrastructure in real time.",
+      "Ethiopian Airlines is Africa's largest airline by fleet, destinations, and revenue, a state-owned carrier that built a global route network from a landlocked country. Behind it sits a fast-changing financial system: the Ethiopian Securities Exchange opened its first trading floor in 2025, and Ethio Telecom's decades-long government monopoly only recently ended as the sector opened to competition. None of this is finished, and Ethiopia's economy is still building core infrastructure.",
     'resources.chapter.community.title': 'Civic Tech & Community',
     'resources.chapter.community.story':
-      "Ethiopia's homegrown civic-tech scene is smaller and younger than counterparts elsewhere, but it is real: Addis Ababa's iCog Labs was East Africa's first private AI and robotics research company, the Wikimedians of Ethiopia User Group is building out Amharic, Afaan Oromoo, and Tigrinya coverage on Wikipedia largely through volunteer effort, and a small open-source developer community is growing on GitHub. This chapter stays short on purpose — we'd rather point to a handful of real, active projects than pad the list with things that don't exist yet.",
+      "Ethiopia's homegrown civic-tech scene is smaller and younger than counterparts elsewhere. Addis Ababa's iCog Labs was East Africa's first private AI and robotics research company, the Wikimedians of Ethiopia User Group is building out Amharic, Afaan Oromoo, and Tigrinya coverage on Wikipedia largely through volunteer effort, and a small open-source developer community is growing on GitHub. This chapter is short on purpose: we'd rather point to a handful of real, active projects than pad the list with things that don't exist yet.",
 
     // Insight cards
     'resources.insight.gov.branches.number': '—',
@@ -93,7 +93,7 @@ export const resourcesUI = {
       'From foreign affairs to innovation and technology, federal ministries are increasingly building out their own websites and public information channels.',
     'resources.sub.localGov': 'Local Governments',
     'resources.sub.localGov.desc':
-      "Ethiopia's regional states and chartered cities govern themselves very differently — Addis Ababa's Mayor's Office, Dire Dawa's city administration, and the Amhara regional portal are three of the few with a fully public web presence.",
+      "Ethiopia's regional states and chartered cities govern themselves very differently. Addis Ababa's Mayor's Office, Dire Dawa's city administration, and the Amhara regional portal are three of the few with a fully public web presence.",
     'resources.sub.openData': 'Open Data',
     'resources.sub.openData.desc':
       "Ethiopia's national data and government portals are still young next to some global peers, but they're where the country's open-government efforts and civic-tech projects like iCog Labs begin.",
@@ -102,13 +102,13 @@ export const resourcesUI = {
       'Addis Ababa University is the oldest and largest in the country, while Bahir Dar, Mekelle, Hawassa, Jimma, and Gondar universities anchor research and higher education across the regions.',
     'resources.sub.museums': 'Museums & Libraries',
     'resources.sub.museums.desc':
-      "The National Archives and Library of Ethiopia holds the country's published record, while the Ethiopian Heritage Authority oversees the National Museum — home to Lucy, one of the most complete early hominid skeletons ever found.",
+      "The National Archives and Library of Ethiopia holds the country's published record, while the Ethiopian Heritage Authority oversees the National Museum, home to Lucy, one of the most complete early hominid skeletons ever found.",
     'resources.sub.venues': 'Arts & Cultural Venues',
     'resources.sub.venues.desc':
-      "From the Alliance Ethio-Française's century-old arts program to the Institute of Ethiopian Studies' ethnological collection, Addis Ababa's cultural venues are compact but genuinely active.",
+      "From the Alliance Ethio-Française's century-old arts program to the Institute of Ethiopian Studies' ethnological collection, Addis Ababa's cultural venues are compact but active.",
     'resources.sub.parks': 'National Parks & Scenic Areas',
     'resources.sub.parks.desc':
-      'The Ethiopian Wildlife Conservation Authority manages protected areas spanning the Simien and Bale Mountains, the Rift Valley lakes, and lowland savanna — home to species found nowhere else on Earth.',
+      'The Ethiopian Wildlife Conservation Authority manages protected areas spanning the Simien and Bale Mountains, the Rift Valley lakes, and lowland savanna, home to species found nowhere else on Earth.',
     'resources.sub.mainstream': 'Mainstream Media',
     'resources.sub.mainstream.desc':
       "The state-run Ethiopian News Agency has reported since 1942; the Ethiopian Broadcasting Corporation, Fana Broadcasting Corporate, and Walta Media remain the country's largest broadcasters.",
@@ -129,7 +129,7 @@ export const resourcesUI = {
       "The Ministry of Health coordinates a healthcare system still expanding nationally, backed by the Ethiopian Public Health Institute and teaching hospitals like St. Paul's Hospital Millennium Medical College.",
     'resources.sub.finance': 'Finance & Data',
     'resources.sub.finance.desc':
-      'The Ethiopian Securities Exchange, which opened its first trading floor in 2025, and the long-established National Bank of Ethiopia anchor a capital market that is genuinely new.',
+      'The Ethiopian Securities Exchange, which opened its first trading floor in 2025, and the long-established National Bank of Ethiopia anchor a capital market that is new.',
     'resources.sub.civicTech': 'Civic Tech Projects',
     'resources.sub.foodMaps': 'Food & Culture Maps',
 
@@ -162,57 +162,57 @@ export const resourcesUI = {
     // Reading Guide
     'resources.guide.title': 'Where to Start',
     'resources.guide.desc':
-      "Imagine landing in Ethiopia with no guidebook. Governance shows you the operating system — a federal parliamentary republic still building out its digital public institutions. Culture is the soul — one of the world's oldest literary traditions, more than 80 languages, and a museum that holds a 3.2-million-year-old skeleton that rewrote the story of human origins. Media reveals the conversation — from a state news agency reporting since 1942 to a new generation of independent newsrooms. Economy is the heartbeat — Africa's largest airline, a telecom sector that just opened to competition, and a stock exchange that only started trading in 2025. Community is the invitation — a small but real civic-tech and open-source scene, still finding its footing, that this project is itself a small part of.",
+      "Governance covers a federal parliamentary republic still building out its digital public institutions. Culture covers one of the world's oldest literary traditions, more than 80 languages, and a museum that holds a 3.2-million-year-old skeleton that rewrote the story of human origins. Media runs from a state news agency reporting since 1942 to a new generation of independent newsrooms. Economy covers Africa's largest airline, a telecom sector that just opened to competition, and a stock exchange that only started trading in 2025. Community is a small but real civic-tech and open-source scene, still finding its footing, that this project is itself a small part of.",
 
     // Curator Notes
     'resources.curator.government':
-      "🔍 Ethiopia's National Election Board and Human Rights Commission are constitutionally independent of the executive — on paper, at least, they exist to check the very government that funds them. The national open-data platform, data.gov.et, is a genuinely new experiment: most Ethiopian ministries have only built out public websites in the past decade.",
+      "🔍 Ethiopia's National Election Board and Human Rights Commission are constitutionally independent of the executive and, on paper at least, exist to check the very government that funds them. The national open-data platform, data.gov.et, is a new experiment: most Ethiopian ministries have only built out public websites in the past decade.",
     'resources.curator.culture':
-      "🔍 The National Museum of Ethiopia holds Lucy — the 3.2-million-year-old Australopithecus afarensis skeleton discovered in 1974 that remains one of the most complete early hominid finds anywhere on Earth. Ethiopia was never colonized and has used its own calendar and script for over a thousand years — its culture isn't behind glass, it's a living, daily continuity most of the world simply doesn't have.",
+      '🔍 The National Museum of Ethiopia holds Lucy, the 3.2-million-year-old Australopithecus afarensis skeleton discovered in 1974 that remains one of the most complete early hominid finds anywhere on Earth. Ethiopia was never colonized and has used its own calendar and script for over a thousand years, and its culture is still part of daily life.',
     'resources.curator.media':
-      "🔍 Ethiopia's press freedom record is genuinely mixed: the 2018 political opening briefly loosened restrictions and let outlets like Addis Standard and The Reporter grow, but journalists still report arrests and internet shutdowns during periods of unrest. State broadcasters like EBC and Fana coexist with independent newsrooms in a media landscape that is actively contested, not settled.",
+      "🔍 Ethiopia's press freedom record is mixed: the 2018 political opening briefly loosened restrictions and let outlets like Addis Standard and The Reporter grow, but journalists still report arrests and internet shutdowns during periods of unrest. State broadcasters like EBC and Fana coexist with independent newsrooms in a media landscape that is still contested.",
     'resources.curator.economy':
-      "🔍 Ethiopian Airlines turned a state-owned carrier into Africa's largest airline group by fleet and route network — a genuine outlier among African state enterprises. Meanwhile Ethio Telecom's government monopoly only ended in the 2020s, and the Ethiopian Securities Exchange opened its first trading floor in 2025 — this is an economy building core financial infrastructure in real time, not decades ago.",
+      "🔍 Ethiopian Airlines turned a state-owned carrier into Africa's largest airline group by fleet and route network, an outlier among African state enterprises. Meanwhile Ethio Telecom's government monopoly only ended in the 2020s, and the Ethiopian Securities Exchange opened its first trading floor in 2025, so core financial infrastructure is being built now.",
     'resources.curator.community':
-      "🔍 iCog Labs, founded in Addis Ababa, was East Africa's first private AI and robotics research company. The Wikimedians of Ethiopia User Group is still young, working to build out Amharic, Afaan Oromoo, and Tigrinya coverage on Wikipedia largely through volunteer effort. Ethiopia's open-source and civic-tech community is real but small — this chapter lists what actually exists rather than padding it out.",
+      "🔍 iCog Labs, founded in Addis Ababa, was East Africa's first private AI and robotics research company. The Wikimedians of Ethiopia User Group is still young, working to build out Amharic, Afaan Oromoo, and Tigrinya coverage on Wikipedia largely through volunteer effort. Ethiopia's open-source and civic-tech community is small. This chapter lists what exists rather than padding it out.",
 
     // Featured site descriptions
     'resources.featured.dataGov':
-      "Ethiopia's national open-data portal — government datasets across sectors, published for anyone to download and build on.",
+      "Ethiopia's national open-data portal, government datasets across sectors, published for anyone to download and build on.",
     'resources.featured.icogLabsGov':
-      "East Africa's first private AI and robotics research lab, based in Addis Ababa — building homegrown machine learning, language, and robotics tools.",
+      "East Africa's first private AI and robotics research lab, based in Addis Ababa, building homegrown machine learning, language, and robotics tools.",
     'resources.featured.legislativeYuan':
-      "Ethiopia's federal parliament — the House of Peoples' Representatives, where the Prime Minister and Council of Ministers are elected and federal law is made.",
+      "Ethiopia's federal parliament (the House of Peoples' Representatives), where the Prime Minister and Council of Ministers are elected and federal law is made.",
 
     'resources.featured.npm':
-      "Ethiopia's federal heritage authority — overseeing the National Museum of Ethiopia, home to Lucy, and leading efforts to research, conserve, and repatriate the country's cultural treasures.",
+      "Ethiopia's federal heritage authority, overseeing the National Museum of Ethiopia, home to Lucy, and leading efforts to research, conserve, and repatriate the country's cultural treasures.",
     'resources.featured.ncl':
-      "Ethiopia's national archives and legal deposit library — the central repository of the country's published and historical records, open to researchers and the public.",
+      "Ethiopia's national archives and legal deposit library, the central repository of the country's published and historical records, open to researchers and the public.",
     'resources.featured.npgov':
-      "Ethiopia's wildlife and national parks authority — managing protected areas from the Simien and Bale Mountains to the Rift Valley lakes and their endemic species.",
+      "Ethiopia's wildlife and national parks authority, managing protected areas from the Simien and Bale Mountains to the Rift Valley lakes and their endemic species.",
 
     'resources.featured.twreporter':
-      "One of Ethiopia's longest-running independent weeklies — English and Amharic reporting on politics, business, and society since 1995.",
+      "One of Ethiopia's longest-running independent weeklies, English and Amharic reporting on politics, business, and society since 1995.",
     'resources.featured.ethiopiaNews':
-      "A tri-lingual independent newsroom publishing in English, Amharic, and Afaan Oromoo — known for reporting that operates outside the state media's frame.",
+      "A tri-lingual independent newsroom publishing in English, Amharic, and Afaan Oromoo, known for reporting that operates outside the state media's frame.",
     'resources.featured.ptsNews':
-      "Ethiopia's state broadcaster, tracing back to the country's first radio broadcasts in 1935 — news, TV, and radio in Amharic, English, and Afaan Oromoo.",
+      "Ethiopia's state broadcaster, tracing back to the country's first radio broadcasts in 1935, news, TV, and radio in Amharic, English, and Afaan Oromoo.",
 
     'resources.featured.flagCarrier':
-      "Africa's largest airline group by fleet, destinations, and revenue — a state-owned carrier that built a genuinely global route network from a landlocked country.",
+      "Africa's largest airline group by fleet, destinations, and revenue, a state-owned carrier that built a global route network from a landlocked country.",
     'resources.featured.ese':
-      "Ethiopia's first organized securities exchange, opening its trading floor in 2025 — a public-private venture built to deepen the country's capital markets.",
+      "Ethiopia's first organized securities exchange, opening its trading floor in 2025, a public-private venture built to deepen the country's capital markets.",
     'resources.featured.nhi':
       "Ethiopia's federal health ministry, coordinating a healthcare system still expanding nationally through community-based health insurance and public hospital networks.",
 
     'resources.featured.icogLabs':
-      "Addis Ababa's pioneering AI and robotics lab — East Africa's first private research company in the field, also running youth coding and innovation programs nationwide.",
+      "Addis Ababa's pioneering AI and robotics lab, East Africa's first private research company in the field, also running youth coding and innovation programs nationwide.",
     'resources.featured.openSourceEthiopia':
-      "A community of Ethiopian developers building and sharing open-source software on GitHub — still small, but a real and growing home for the country's open-source contributors.",
+      "A community of Ethiopian developers building and sharing open-source software on GitHub, still small, but a growing home for the country's open-source contributors.",
     'resources.featured.ethiopiamd':
-      "The project you're reading right now — an open-source, community-curated encyclopedia of Ethiopia.",
+      "The project you're reading right now, an open-source, community-curated encyclopedia of Ethiopia.",
     'resources.featured.addisAbaba':
-      "The official portal of Addis Ababa's Mayor's Office — Ethiopia's capital and largest city, and home to the African Union headquarters.",
+      "The official portal of Addis Ababa's Mayor's Office, Ethiopia's capital and largest city, and home to the African Union headquarters.",
 
     // Section footer
     'resources.section.footer.verified': 'Last verified: 2026-08-12',

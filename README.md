@@ -1,6 +1,6 @@
 # Ethiopia.md
 
-> An AI-native, open knowledge base about Ethiopia — በኢትዮጵያ ላይ ያተኮረ፣ ለሰው ሰራሽ አስተውሎት ምቹ የሆነ ክፍት የእውቀት ማህደር።
+> An AI-native, open knowledge base about Ethiopia, በኢትዮጵያ ላይ ያተኮረ፣ ለሰው ሰራሽ አስተውሎት ምቹ የሆነ ክፍት የእውቀት ማህደር።
 
 Ethiopia.md is an [Astro](https://astro.build) static site built from a corpus of Markdown articles in `knowledge/`, plus a companion command-line tool in `cli/`. Amharic is the single source of truth (SSOT); English is the only translation layer. The site supports exactly two languages, Amharic and English.
 
@@ -10,10 +10,10 @@ Site URL (configured in `astro.config.mjs`): <https://ethiopia.md>
 
 This repository started as a fork of [Taiwan.md](https://github.com/frank890417/taiwan-md), an open knowledge base about Taiwan (code MIT, content CC BY-SA 4.0 per its README). The inherited Taiwan article corpus, images, sounds and one-off scripts have been deleted, and everything in `knowledge/` today is new Ethiopia content written with cited sources. Git history still contains the old material. A few things to know:
 
-- **The corpus is small but complete in structure.** Every category has a Hub plus several articles, each in Amharic with an English pair. See [What's live](#whats-live) below.
-- **The Amharic text was drafted with AI assistance and has not yet had a native-speaker review.** Every article carries `lastHumanReview: false` until it has.
-- **Images and maps are real and credited.** Category covers, the social share image and the maps come from Wikimedia Commons under CC licenses; credits are in [`public/images/CREDITS.md`](public/images/CREDITS.md), `src/data/image-credits.json` and on the `/assets` page.
-- **A few fork leftovers may remain** in old script comments. If you find the literal string `[Amharic translation needed - original Taiwan context]` anywhere, it is a leftover, not content.
+- The corpus is small but complete in structure. Every category has a Hub plus several articles, each in Amharic with an English pair. See [What's live](#whats-live) below.
+- The Amharic text was drafted with AI assistance and has not yet had a native-speaker review. Every article carries `lastHumanReview: false` until it has.
+- Images and maps are real and credited. Category covers, the social share image and the maps come from Wikimedia Commons under CC licenses; credits are in [`public/images/CREDITS.md`](public/images/CREDITS.md), `src/data/image-credits.json` and on the `/assets` page.
+- A few fork leftovers may remain in old script comments. If you find the literal string `[Amharic translation needed - original Taiwan context]` anywhere, it is a leftover, not content.
 
 If you find something on the site that is fluent but about the wrong country (a Taiwan fact, place, person or URL presented as Ethiopia's), please open an issue. That has been the most common bug in this repo.
 
@@ -90,6 +90,10 @@ cli/                    The `ethiopiamd` command-line tool (separate package)
 ```
 
 Article frontmatter is validated by `scripts/core/test-frontmatter.mjs` and typed by the content collection schema in `src/content.config.ts`. See [CONTRIBUTING.md](CONTRIBUTING.md) for the details.
+
+### Emoji as SVG
+
+Every emoji on the website is shown as an SVG (Twemoji) so it looks the same on every device. Just type the emoji in a template, translation or article. `npm run build` (and `npm run build-emoji`) copies the SVGs that are used into `public/emoji/`, and `src/middleware.ts` swaps them into the page. The Ethiopian flag is kept as a native emoji on purpose. Emoji in `<title>`, `<option>`, meta tags and the terminal CLI stay as text. `npm run check-emoji` checks the category emojis; the postbuild step fails if any emoji is left as text.
 
 ## The `ethiopiamd` CLI
 

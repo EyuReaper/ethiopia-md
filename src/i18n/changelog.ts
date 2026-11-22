@@ -3,12 +3,12 @@ export const changelogUI = {
     // Meta
     'changelog.meta.title': 'Update History',
     'changelog.meta.description':
-      'Real-time update history of Ethiopia.md — track every content addition and site improvement.',
+      'Real-time update history of Ethiopia.md: every content addition and site improvement.',
 
     // Header
     'changelog.header.title': 'Update History',
     'changelog.header.subtitle':
-      'Track every content addition and site improvement on Ethiopia.md',
+      'Every content addition and site improvement on Ethiopia.md',
     'changelog.header.meta.updates': 'updates',
     'changelog.header.meta.synced': 'Auto-synced from',
 
