@@ -17,6 +17,7 @@
     "sync:build": "bash scripts/core/sync.sh && astro build",
     "check-images": "node scripts/utils/check-images.mjs",
     "check-links": "node scripts/utils/check-links.mjs",
+    "check-emoji": "node scripts/utils/check-emoji.mjs",
     "astro": "astro",
     "format::check": "prettier --check .",
     "format::write": "prettier --write .",

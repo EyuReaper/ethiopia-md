@@ -41,7 +41,7 @@ export const getCategoryConfigs = (t: ReturnType<typeof useTranslations>) => ({
   food: {
     name: t('categoryConfig.food'),
     description: t('categoryConfig.food.description'),
-    icon: '🍜',
+    icon: '🫓',
     color: '#ea580c',
     colorLight: '#ea580c20',
     gradient: 'linear-gradient(135deg, #ea580c, #f97316)',
