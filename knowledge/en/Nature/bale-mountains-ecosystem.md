@@ -12,6 +12,7 @@ featured: true
 lastVerified: '2026-11-20'
 lastHumanReview: false
 status: published
+image: '/images/articles/bale-mountains-ecosystem.jpg'
 sources:
   - https://whc.unesco.org/en/list/111/
   - https://www.ethiopianwolf.org/the-wolves/afroalpine-ecosystem

@@ -460,5 +460,93 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Womens_in_Great_Run_-_Ethiopia.jpg",
     "changes": "Cropped to 16:9 and resized"
+  },
+  {
+    "slot": "article: harar-jugol-walled-city",
+    "file": "public/images/articles/harar-jugol-walled-city.jpg",
+    "title": "File:Town of Harar with Citywall.jpg",
+    "description": "",
+    "author": "Giustino (via Flickr)",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Town_of_Harar_with_Citywall.jpg",
+    "changes": "Cropped to 16:9 and resized"
+  },
+  {
+    "slot": "article: fasil-ghebbi-gondar-castles",
+    "file": "public/images/articles/fasil-ghebbi-gondar-castles.jpg",
+    "title": "File:Fasil Ghebbi (6821473537).jpg",
+    "description": "Fasil Ghebbi Gondar, Ethiopia",
+    "author": "Martijn.Munneke",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fasil_Ghebbi_(6821473537).jpg",
+    "changes": "Cropped to 16:9 and resized"
+  },
+  {
+    "slot": "article: ethiopian-coffee-culture",
+    "file": "public/images/articles/ethiopian-coffee-culture.jpg",
+    "title": "File:Wild Coffee in Ethiopia.jpg",
+    "description": "This is an image of \"African people at work\" from",
+    "author": "Brooke Bierhaus",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wild_Coffee_in_Ethiopia.jpg",
+    "changes": "Cropped to 16:9 and resized"
+  },
+  {
+    "slot": "article: azmari-tradition",
+    "file": "public/images/articles/azmari-tradition.jpg",
+    "title": "File:Azmari in a tejbeit.jpg",
+    "description": "Original caption states \"We hit the next town, and immediately went out to the local tej bet (honey wine bar) to hear an azmari (minstrel/on",
+    "author": "Flickr user meg and rahul",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Azmari_in_a_tejbeit.jpg",
+    "changes": "Cropped to 16:9 and resized"
+  },
+  {
+    "slot": "article: ethiopian-calendar-and-thirteen-months",
+    "file": "public/images/articles/ethiopian-calendar-and-thirteen-months.jpg",
+    "title": "File:Ethiopian New Year.jpg",
+    "description": "This photo has been taken in the country: Ethiopia",
+    "author": "Nati Tad",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ethiopian_New_Year.jpg",
+    "changes": "Cropped to 16:9 and resized"
+  },
+  {
+    "slot": "article: ethio-jazz-mulatu-astatke",
+    "file": "public/images/articles/ethio-jazz-mulatu-astatke.jpg",
+    "title": "File:Mulatu Astatke Transition Festival Tivoli Vredenburg Utrecht, 8 april 2017 (51335237413).jpg",
+    "description": "Mulatu Astatke Transition Festival Tivoli Vredenburg Utrecht, 8 april 2017",
+    "author": "Dirk Neven",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mulatu_Astatke_Transition_Festival_Tivoli_Vredenburg_Utrecht,_8_april_2017_(51335237413).jpg",
+    "changes": "Cropped to 16:9 and resized"
+  },
+  {
+    "slot": "article: bale-mountains-ecosystem",
+    "file": "public/images/articles/bale-mountains-ecosystem.jpg",
+    "title": "File:Bale mountains.jpg",
+    "description": "Bale Mountains, Ethiopia",
+    "author": "AGoetzke",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bale_mountains.jpg",
+    "changes": "Cropped to 16:9 and resized"
+  },
+  {
+    "slot": "article: habesha-kemis-and-handwoven-textiles",
+    "file": "public/images/articles/habesha-kemis-and-handwoven-textiles.jpg",
+    "title": "File:Ethfashmod5.jpg",
+    "description": "An Ethiopian model at the Ethiopian Fashion Show at the International Festival 2008.",
+    "author": "schipul",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ethfashmod5.jpg",
+    "changes": "Cropped to 16:9 and resized"
   }
 ]

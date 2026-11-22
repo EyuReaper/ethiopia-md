@@ -9,6 +9,7 @@ featured: true
 lastVerified: '2026-11-20'
 lastHumanReview: false
 status: published
+image: '/images/articles/ethiopian-coffee-culture.jpg'
 sources:
   - https://www.unesco.org/en/mab/kafa
   - https://www.unesco.org/en/articles/ethiopia-home-coffee

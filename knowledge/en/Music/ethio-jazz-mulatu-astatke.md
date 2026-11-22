@@ -11,6 +11,7 @@ featured: true
 lastVerified: '2026-11-20'
 lastHumanReview: false
 status: published
+image: '/images/articles/ethio-jazz-mulatu-astatke.jpg'
 sources:
   - https://theconversation.com/the-father-of-ethiopian-jazz-mulatu-astatke-remains-a-musician-in-motion-93579
   - https://www.nationalgeographic.com/culture/article/mulatu-astatke-ethiopia-jazz-addis

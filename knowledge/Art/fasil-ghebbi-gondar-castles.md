@@ -12,6 +12,7 @@ featured: false
 lastVerified: '2026-11-21'
 lastHumanReview: false
 status: published
+image: '/images/articles/fasil-ghebbi-gondar-castles.jpg'
 sources:
   - https://whc.unesco.org/en/list/19/
   - https://whc.unesco.org/en/soc/2075/

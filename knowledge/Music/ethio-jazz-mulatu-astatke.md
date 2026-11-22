@@ -11,6 +11,7 @@ featured: true
 lastVerified: '2026-11-20'
 lastHumanReview: false
 status: published
+image: '/images/articles/ethio-jazz-mulatu-astatke.jpg'
 alternativeNames:
   - Mulatu Astatke
   - Mulatu Astatqé

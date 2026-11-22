@@ -10,6 +10,7 @@ featured: false
 lastVerified: '2026-11-21'
 lastHumanReview: false
 status: published
+image: '/images/articles/ethiopian-calendar-and-thirteen-months.jpg'
 sources:
   - https://www.timeanddate.com/calendar/ethiopia-calendar.html
   - https://en.wikipedia.org/wiki/Ethiopian_calendar

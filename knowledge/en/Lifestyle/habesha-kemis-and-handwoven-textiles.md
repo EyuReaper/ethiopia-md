@@ -12,6 +12,7 @@ featured: true
 lastVerified: '2026-11-20'
 lastHumanReview: false
 status: published
+image: '/images/articles/habesha-kemis-and-handwoven-textiles.jpg'
 sources:
   - https://en.wikipedia.org/wiki/Clothing_in_Ethiopia
   - https://digitalcommons.unl.edu/tsaconf/168

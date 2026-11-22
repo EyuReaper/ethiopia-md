@@ -10,6 +10,7 @@ featured: false
 lastVerified: '2026-11-21'
 lastHumanReview: false
 status: published
+image: '/images/articles/azmari-tradition.jpg'
 sources:
   - https://minpaku.repo.nii.ac.jp/record/313/files/KI_ASM%2029_137-142.pdf
   - https://ejol.aau.edu.et/index.php/ERJSSH/article/download/323/229/430

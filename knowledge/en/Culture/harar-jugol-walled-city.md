@@ -10,6 +10,7 @@ featured: false
 lastVerified: '2026-11-21'
 lastHumanReview: false
 status: published
+image: '/images/articles/harar-jugol-walled-city.jpg'
 sources:
   - https://whc.unesco.org/en/list/1189
   - https://islamicarchitecturalheritage.com/?p=1233
