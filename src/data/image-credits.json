@@ -548,5 +548,16 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ethfashmod5.jpg",
     "changes": "Cropped to 16:9 and resized"
+  },
+  {
+    "slot": "emoji: all",
+    "file": "public/emoji/*.svg",
+    "title": "File:Twemoji graphics (emoji SVG set)",
+    "description": "Emoji shown as SVG across the site",
+    "author": "Twitter, Inc. and other contributors (maintained by jdecked)",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://github.com/jdecked/twemoji",
+    "changes": "Unmodified; only the SVGs in use are copied by scripts/utils/build-emoji-assets.mjs"
   }
 ]

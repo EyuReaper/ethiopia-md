@@ -1,15 +1,15 @@
 export const dashboardUI = {
   en: {
     // Meta
-    'dashboard.meta.title': 'Dashboard — Digital Organism Monitor',
+    'dashboard.meta.title': 'Dashboard: Digital Organism Monitor',
     'dashboard.meta.description':
-      'Real-time health monitoring of the Ethiopia.md digital organism — article registry, organ health, translation coverage, and growth metrics',
+      'Real-time health monitoring of the Ethiopia.md digital organism: article registry, organ health, translation coverage, and growth metrics',
 
     // Hero
     'dashboard.hero.title': 'Digital Organism Monitor',
     'dashboard.hero.subtitle': 'The public anatomy room of Ethiopia.md',
     'dashboard.hero.description':
-      'Every organ, every cell, every heartbeat — transparent and visible to all.',
+      'Every organ, cell and heartbeat of Ethiopia.md is visible to everyone.',
 
     // Vital Signs
     'dashboard.vitals.title': 'Vital Signs',
@@ -95,7 +95,7 @@ export const dashboardUI = {
     'dashboard.growth.total': 'Total Articles',
     'dashboard.growth.daily': 'Daily New',
   },
-  'am': {
+  am: {
     // Meta
     'dashboard.meta.title': 'ዳሽቦርድ — የዲጂታል ኦርጋኒዝም መቆጣጠሪያ',
     'dashboard.meta.description':

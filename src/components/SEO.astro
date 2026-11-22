@@ -17,7 +17,7 @@ const { lang = 'am' } = Astro.props;
 const {
   title,
   description = lang === 'en'
-    ? 'The open-source, AI-friendly knowledge base about Ethiopia. 660+ pages covering history, culture, food, music, technology and more — written by the community, for the world.'
+    ? 'The open-source, AI-friendly knowledge base about Ethiopia. 660+ pages covering history, culture, food, music, technology and more, written by the community, for the world.'
     : 'ክፍት ምንጭ የሆነ፣ ለ AI ተስማሚ ስለ ኢትዮጵያ የዕውቀት ምንጭ። 660+ ገጾች ታሪክን፣ ባህልን፣ ምግብን፣ ሙዚቃን፣ ቴክኖሎጂን እና ሌሎችንም የሚሸፍኑ — በማህበረሰቡ የተጻፈ፣ ለዓለም የቀረበ።',
   image = '/images/ethiopia-social.jpg',
   url = Astro.url.href,
@@ -110,11 +110,11 @@ const generateJSONLD = () => {
     '@type': 'WebSite',
     name:
       lang === 'en'
-        ? 'Ethiopia.md — Knowledge Base'
+        ? 'Ethiopia.md: Knowledge Base'
         : 'Ethiopia.md - የኢትዮጵያ የዕውቀት ምንጭ',
     description:
       lang === 'en'
-        ? 'Open-source, AI-friendly knowledge base about Ethiopia — politics, economy, culture, history, geography, and more.'
+        ? 'Open-source, AI-friendly knowledge base about Ethiopia: politics, economy, culture, history, geography, and more.'
         : 'ክፍት ምንጭ የሆነ፣ ለ AI ተስማሚ ስለ ኢትዮጵያ የዕውቀት ምንጭ — ፖለቲካ፣ ኢኮኖሚ፣ ባህል፣ ታሪክ፣ ጂኦግራፊ እና ሌሎችንም ያካትታል።',
     url: siteUrl,
     inLanguage: lang,

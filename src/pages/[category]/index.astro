@@ -2037,13 +2037,14 @@ const otherCategories = categories
         .attr('stroke', '#e2e8f0')
         .attr('stroke-width', 2);
 
-      g.append('text')
-        .attr('text-anchor', 'middle')
-        .attr('dy', '-0.1em')
-        .style('font-size', '24px')
-        .style('font-weight', '700')
-        .style('fill', '#1a1a2e')
-        .text('🫓');
+      // Flatbread emoji as its SVG (SVG <text> cannot hold an <img>).
+      // The file is copied by scripts/utils/build-emoji-assets.mjs.
+      g.append('image')
+        .attr('href', '/emoji/1fad3.svg')
+        .attr('width', 28)
+        .attr('height', 28)
+        .attr('x', -14)
+        .attr('y', -30);
 
       g.append('text')
         .attr('text-anchor', 'middle')

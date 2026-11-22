@@ -1,12 +1,12 @@
 export const assetsUI = {
   en: {
     // Meta
-    'assets.meta.title': 'Ethiopia SVG — Open-Source Ethiopia Outline',
+    'assets.meta.title': 'Ethiopia SVG: Open-Source Ethiopia Outline',
     'assets.meta.description':
       'Open-source SVG maps of Ethiopia from Wikimedia Commons, freely reusable under CC BY-SA with attribution.',
 
     // Hero
-    'assets.hero.title': 'Ethiopia SVG — Open-Source Ethiopia Outline',
+    'assets.hero.title': 'Ethiopia SVG: Open-Source Ethiopia Outline',
     'assets.hero.subtitle':
       'Real, openly licensed maps of Ethiopia from Wikimedia Commons, with the author and license shown for each file.',
 
@@ -19,23 +19,23 @@ export const assetsUI = {
 
     // Card 1: ethiopia-icon
     'assets.card1.title': 'ethiopia-icon-wiki.svg',
-    'assets.card1.desc': 'Ethiopia in Africa (locator map) — Shosholoza',
+    'assets.card1.desc': 'Ethiopia in Africa (locator map), by Shosholoza',
     'assets.card1.meta': 'CC BY-SA 3.0 · Wikimedia Commons',
 
     // Card 2: ethiopia-simplemaps
     'assets.card2.title': 'ethiopia-simplemaps.svg',
-    'assets.card2.desc': 'Country outline filled with the flag — Darwinek',
+    'assets.card2.desc': 'Country outline filled with the flag, by Darwinek',
     'assets.card2.meta': 'CC BY-SA 3.0 · Wikimedia Commons',
 
     // Card 3: ethiopia-location-map
     'assets.card3.title': 'ethiopia-location-map.svg',
     'assets.card3.desc':
-      'Location map with rivers and borders — NordNordWest (large file, about 700 KB (loaded lazily))',
+      'Location map with rivers and borders, by NordNordWest (large file, about 700 KB, loaded lazily)',
     'assets.card3.meta': 'CC BY-SA 3.0 · Wikimedia Commons',
 
     // Card 4: ethiopia-political-division
     'assets.card4.title': 'ethiopia-political-division.svg',
-    'assets.card4.desc': 'Regions map — Jfblanc',
+    'assets.card4.desc': 'Regions map, by Jfblanc',
     'assets.card4.meta': 'CC BY-SA 4.0 · Wikimedia Commons',
 
     // Buttons
@@ -59,13 +59,13 @@ background-image: url('https://ethiopia.md/assets/svg/ethiopia-icon-wiki.svg');
       'Every file on this page comes from Wikimedia Commons and is licensed CC BY-SA. Attribution is required when you reuse it; adaptations must keep the same license.',
     'assets.license.sources.title': 'Sources',
     'assets.license.source1.html':
-      '<strong>ethiopia-icon-wiki.svg</strong> — <a href="https://commons.wikimedia.org/wiki/File:Locator_map_of_Ethiopia_in_Africa.svg" target="_blank" rel="noopener">File:Locator map of Ethiopia in Africa.svg</a>, author Shosholoza, <a href="https://creativecommons.org/licenses/by-sa/3.0" target="_blank" rel="noopener">CC BY-SA 3.0</a>',
+      '<strong>ethiopia-icon-wiki.svg</strong>: <a href="https://commons.wikimedia.org/wiki/File:Locator_map_of_Ethiopia_in_Africa.svg" target="_blank" rel="noopener">File:Locator map of Ethiopia in Africa.svg</a>, author Shosholoza, <a href="https://creativecommons.org/licenses/by-sa/3.0" target="_blank" rel="noopener">CC BY-SA 3.0</a>',
     'assets.license.source2.html':
-      '<strong>ethiopia-simplemaps.svg</strong> — <a href="https://commons.wikimedia.org/wiki/File:Flag_map_of_Ethiopia.svg" target="_blank" rel="noopener">File:Flag map of Ethiopia.svg</a>, author Darwinek, <a href="https://creativecommons.org/licenses/by-sa/3.0" target="_blank" rel="noopener">CC BY-SA 3.0</a> (the filename is historical; this is not a SimpleMaps file)',
+      '<strong>ethiopia-simplemaps.svg</strong>: <a href="https://commons.wikimedia.org/wiki/File:Flag_map_of_Ethiopia.svg" target="_blank" rel="noopener">File:Flag map of Ethiopia.svg</a>, author Darwinek, <a href="https://creativecommons.org/licenses/by-sa/3.0" target="_blank" rel="noopener">CC BY-SA 3.0</a> (the filename is historical; this is not a SimpleMaps file)',
     'assets.license.source3.html':
-      '<strong>ethiopia-location-map.svg</strong> — <a href="https://commons.wikimedia.org/wiki/File:Ethiopia_location_map.svg" target="_blank" rel="noopener">File:Ethiopia location map.svg</a>, author NordNordWest, <a href="https://creativecommons.org/licenses/by-sa/3.0" target="_blank" rel="noopener">CC BY-SA 3.0</a>',
+      '<strong>ethiopia-location-map.svg</strong>: <a href="https://commons.wikimedia.org/wiki/File:Ethiopia_location_map.svg" target="_blank" rel="noopener">File:Ethiopia location map.svg</a>, author NordNordWest, <a href="https://creativecommons.org/licenses/by-sa/3.0" target="_blank" rel="noopener">CC BY-SA 3.0</a>',
     'assets.license.source4.html':
-      '<strong>ethiopia-political-division.svg</strong> — <a href="https://commons.wikimedia.org/wiki/File:Regions_of_Ethiopia_EN.svg" target="_blank" rel="noopener">File:Regions of Ethiopia EN.svg</a>, author Jfblanc, <a href="https://creativecommons.org/licenses/by-sa/4.0" target="_blank" rel="noopener">CC BY-SA 4.0</a>',
+      '<strong>ethiopia-political-division.svg</strong>: <a href="https://commons.wikimedia.org/wiki/File:Regions_of_Ethiopia_EN.svg" target="_blank" rel="noopener">File:Regions of Ethiopia EN.svg</a>, author Jfblanc, <a href="https://creativecommons.org/licenses/by-sa/4.0" target="_blank" rel="noopener">CC BY-SA 4.0</a>',
 
     // Photo credits
     'assets.credits.title': 'Photo credits',

@@ -85,7 +85,14 @@ const translatePath = useTranslatedPath(lang);
       </div>
     </div>
     <div class="footer-bottom">
-      &copy; 2026 Ethiopia.md — {t('footer.desc')}
+      &copy; 2026 Ethiopia.md. {t('footer.desc')}
+      <div class="footer-credit">
+        Emoji: <a
+          href="https://github.com/jdecked/twemoji"
+          target="_blank"
+          rel="noopener">Twemoji</a
+        > (CC BY 4.0)
+      </div>
     </div>
   </div>
 </footer>
@@ -184,6 +191,15 @@ const translatePath = useTranslatedPath(lang);
     height: 1px;
     background: #a7c7a7;
     opacity: 0.7;
+  }
+  .footer-credit {
+    margin-top: 0.4rem;
+    font-size: 0.8em;
+    opacity: 0.8;
+  }
+  .footer-credit a {
+    color: inherit;
+    text-decoration: underline;
   }
   .footer-bottom {
     text-align: center;

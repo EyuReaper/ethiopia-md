@@ -60,4 +60,4 @@ Borenstein describes waking well before daybreak as part of the athletes' routin
 
 ## Closing
 
-The Ethiopian running story is easy to romanticize. The best-sourced version is more modest: a few teachers, many early mornings, thin air, thin facilities, and a society in which running is among the more reachable ways to build a life.
+The best-sourced account of Ethiopian running is modest: a few teachers, many early mornings, thin air, thin facilities, and a society in which running is among the more reachable ways to build a life.

@@ -38,10 +38,10 @@ All complaints will be reviewed and investigated promptly and fairly. The mainta
 
 ## Enforcement guidelines
 
-1. **Correction.** A private note explaining why the behaviour was inappropriate, and a request to correct it.
-2. **Warning.** A warning with consequences for continued behaviour, and a limited period without interaction with those involved.
-3. **Temporary ban.** A temporary ban from project spaces for a set period.
-4. **Permanent ban.** A permanent ban for a sustained pattern of unacceptable behaviour.
+1. Correction. A private note explaining why the behaviour was inappropriate, and a request to correct it.
+2. Warning. A warning with consequences for continued behaviour, and a limited period without interaction with those involved.
+3. Temporary ban. A temporary ban from project spaces for a set period.
+4. Permanent ban. A permanent ban for a sustained pattern of unacceptable behaviour.
 
 ## Attribution
 

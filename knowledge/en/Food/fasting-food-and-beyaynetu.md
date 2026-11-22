@@ -63,4 +63,4 @@ Fasting ends in feasting. The Lenten fast is broken after midnight Mass on Easte
 
 ## Closing
 
-Fasting cuisine in Ethiopia is not a diet fashion but an old, widely shared discipline that has shaped markets, households and menus. Its dishes are everyday food for millions, and the research on it reminds us that the same practice can bring benefits to some bodies and risks to others.
+Fasting cuisine in Ethiopia is an old, widely shared discipline that has shaped markets, households and menus. Its dishes are everyday food for millions, and research on it suggests the same practice can bring benefits to some bodies and risks to others.

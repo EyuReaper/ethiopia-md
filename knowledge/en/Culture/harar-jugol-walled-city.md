@@ -74,4 +74,4 @@ Today's feeders are known as hyena men. National Geographic profiles Abbas Yusuf
 
 ## Closing
 
-Harar Jugol is a place where the layers are visible: a medieval Muslim town, a nineteenth-century frontier, a modern regional capital, and a heritage site with its own conservation office. It is best read through its walls, doors and daily life, and not only through its hyenas.
+Harar Jugol is a place where the layers are visible: a medieval Muslim town, a nineteenth-century frontier, a modern regional capital, and a heritage site with its own conservation office.

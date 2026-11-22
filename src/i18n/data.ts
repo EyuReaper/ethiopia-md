@@ -1,16 +1,16 @@
 export const dataUI = {
   en: {
     // Meta
-    'data.meta.title': 'Data Ethiopia — Understanding Ethiopia Through Numbers',
+    'data.meta.title': 'Data Ethiopia: Understanding Ethiopia Through Numbers',
     'data.meta.description':
       "Ethiopia's global standing, accurate map outlines, and open data resources",
 
     // Hero
-    'data.hero.title': 'Data Ethiopia — Understanding Ethiopia Through Numbers',
+    'data.hero.title': 'Data Ethiopia: Understanding Ethiopia Through Numbers',
     'data.hero.subtitle':
-      "Interactive visualizations and open data to understand Ethiopia's real face",
+      'Interactive visualizations and open data about Ethiopia',
     'data.hero.description':
-      "A curated space for Ethiopia's data story. From accurate Ethiopia outlines to open data resources — we use interactive visualization and open resources to let the numbers tell Ethiopia's story.",
+      "A curated space for Ethiopia's data, from accurate Ethiopia outlines to open data resources, using interactive visualization and open resources.",
 
     // Ethiopia vs World Section
     'data.ethiopiaVsWorld.title': "🌏 Ethiopia's Position in the World",
@@ -61,7 +61,7 @@ export const dataUI = {
 
     // Ethiopia Shape Section
     'data.ethiopiaShape.title':
-      '🚧 The Shape of Ethiopia — SVG Library Under Construction',
+      '🚧 The Shape of Ethiopia: SVG Library Under Construction',
     'data.ethiopiaComparison.title':
       'AI-Generated Ethiopia vs. Actual Ethiopia',
     'data.ethiopiaComparison.aiGenerated':
@@ -75,16 +75,16 @@ export const dataUI = {
     // SVG Cards
     'data.svg.card1.title': 'ethiopia-icon-wiki.svg',
     'data.svg.card1.description':
-      'Ethiopia in Africa (locator map) — CC BY-SA 3.0, Shosholoza, Wikimedia Commons',
+      'Ethiopia in Africa (locator map). CC BY-SA 3.0, Shosholoza, Wikimedia Commons',
     'data.svg.card2.title': 'ethiopia-simplemaps.svg',
     'data.svg.card2.description':
-      'Country outline filled with the flag — CC BY-SA 3.0, Darwinek, Wikimedia Commons',
+      'Country outline filled with the flag. CC BY-SA 3.0, Darwinek, Wikimedia Commons',
     'data.svg.card3.title': 'ethiopia-location-map.svg',
     'data.svg.card3.description':
-      'Location map — CC BY-SA 3.0, NordNordWest, Wikimedia Commons (large file, about 700 KB)',
+      'Location map. CC BY-SA 3.0, NordNordWest, Wikimedia Commons (large file, about 700 KB)',
     'data.svg.card4.title': 'ethiopia-political-division.svg',
     'data.svg.card4.description':
-      'Regions map — CC BY-SA 4.0, Jfblanc, Wikimedia Commons',
+      'Regions map. CC BY-SA 4.0, Jfblanc, Wikimedia Commons',
     'data.svg.button.download': 'Download',
     'data.svg.button.copy': 'Copy SVG',
     'data.svg.button.copied': '✅ Copied',

@@ -9,7 +9,7 @@ export const aboutUI = {
     // Section 1: Naming
     'about.naming.title': 'Why Ethiopia.md?',
     'about.naming.subtitle':
-      'A perfect coincidence from technical format to cultural symbol',
+      'How a file format and a country name ended up in one domain',
     'about.naming.tech.icon': '📝',
     'about.naming.tech.title': 'Technical Level',
     'about.naming.tech.desc.html':
@@ -21,7 +21,7 @@ export const aboutUI = {
     'about.naming.lucky.icon': '✨',
     'about.naming.lucky.title': 'A Lucky Coincidence',
     'about.naming.lucky.desc':
-      'Surprisingly, no one had claimed the ethiopia.md domain yet. Perhaps the universe was telling us it was time to make this happen.',
+      'No one had claimed the ethiopia.md domain yet, so we registered it.',
 
     // Stats
     'about.stats.pages.number': '—',
@@ -37,139 +37,102 @@ export const aboutUI = {
 
     // Vision
     'about.vision.p1':
-      "Ethiopia.md is more than a website. It's a letter to the world.",
+      'Ethiopia.md is a website and also a letter to the world.',
     'about.vision.p2':
-      "We believe that with an open-source spirit, a curator's eye, and AI-friendly formats, we can provide the most comprehensive and heartfelt answer for anyone who wants to know Ethiopia — whether human or AI.",
+      "We believe an open-source approach, a curator's eye, and AI-friendly formats can give anyone who wants to know Ethiopia, human or AI, a thorough and carefully written answer.",
     'about.vision.p3.html':
-      "This is not a travel guide, not political propaganda, not a commercial advertisement.<br />This is a living record of Ethiopia's culture and history, written by the people who know it, and still being written today.",
+      "This is a living record of Ethiopia's culture and history, written by the people who know it and still being written today.",
 
     // Section 2: Origin
     'about.origin.title': 'The Birth of Ethiopia.md',
     'about.origin.subtitle':
-      'From a simple question to a curated gateway for the world to discover Ethiopia',
+      'From a simple question to a curated way for the world to discover Ethiopia',
 
     // Timeline
     'about.timeline.2024-2025.date': 'The Idea',
     'about.timeline.2024-2025.title': '"What is Ethiopia like?"',
     'about.timeline.2024-2025.desc':
-      "People who wanted to learn about Ethiopia kept running into the same problem: Wikipedia felt clinical, tourism sites were shallow, and news coverage was fragmented. There was no single trustworthy, readable home for Ethiopia's history, culture, and everyday life — for humans or for AI.",
+      "People who wanted to learn about Ethiopia kept running into the same problem: Wikipedia felt clinical, tourism sites were shallow, and news coverage was fragmented. There was no single trustworthy, readable home for Ethiopia's history, culture, and everyday life, for humans or for AI.",
 
     'about.timeline.2026-02-03.date': 'Early 2026',
     'about.timeline.2026-02-03.title': 'A Single Source of Truth',
     'about.timeline.2026-02-03.p1':
       'The idea crystallized around a simple question: when information about a place is scattered across encyclopedias, tourism boards, and news archives, which version is the real one?',
     'about.timeline.2026-02-03.p2.html':
-      'The answer was to build <strong>a single source of truth</strong> — one place, written by people who know Ethiopia, that AI models and curious humans alike could learn from directly.',
+      'The answer was to build <strong>a single source of truth</strong>: one place, written by people who know Ethiopia, that AI models and curious humans alike could learn from directly.',
 
     'about.timeline.2026-03-11.date': 'Designing for AI',
     'about.timeline.2026-03-11.title': 'Why Markdown, Why AI-Native',
     'about.timeline.2026-03-11.p1':
-      "Markdown was chosen deliberately — it's the format AI models read most cleanly, and the .md extension made ethiopia.md a natural fit. The goal wasn't just a website for people; it was a knowledge base AI systems could learn from directly, so that when someone asks an AI about Ethiopia, the answer traces back to something written by Ethiopians.",
+      'Markdown was chosen deliberately. It is the format AI models read most cleanly, and the .md extension made ethiopia.md a natural fit. The aim was a website for people and also a knowledge base AI systems could learn from directly, so that when someone asks an AI about Ethiopia, the answer traces back to something written by Ethiopians.',
     'about.timeline.2026-03-11.p2.html':
       '<em>"If AI is going to answer questions about Ethiopia, it should be learning from Ethiopia\'s own voice."</em>',
 
-    'about.timeline.2026-03-17.date': 'Launch',
-    'about.timeline.2026-03-17.title': 'Ethiopia.md Is Born',
+    'about.timeline.2026-03-17.date': '2026',
+    'about.timeline.2026-03-17.title': 'A Fork of Taiwan.md',
     'about.timeline.2026-03-17.p1':
-      'The first version went live with a simple structure and a small set of articles, built to grow:',
+      'Ethiopia.md started in 2026 as a fork of Taiwan.md, an open Markdown knowledge base about Taiwan. The code is MIT licensed and the content CC BY-SA 4.0, with credit to the original project (see LICENSE-CONTENT.md and the README). The Taiwan articles were then removed and the site was rewritten for Ethiopia:',
     'about.timeline.2026-03-17.li1':
       'A domain that doubles as a statement: .md = Markdown ≈ defining a place through open documents',
     'about.timeline.2026-03-17.li2':
-      'A category structure covering history, culture, food, geography, and more',
+      'A new set of articles about Ethiopia, replacing the Taiwan content',
     'about.timeline.2026-03-17.li3':
-      'A first set of articles in Amharic and English',
+      'Each article written in Amharic and English, with a list of sources',
     'about.timeline.2026-03-17.li4':
-      'A knowledge graph connecting related topics, designed to be easy for both people and AI to navigate',
+      'A category structure covering history, culture, food, geography, and more',
     'about.timeline.2026-03-17.li5':
       'An open invitation for anyone, anywhere, to contribute what they know',
-
-    'about.timeline.2026-03-18-1.date': 'Spreading the Word',
-    'about.timeline.2026-03-18-1.title': 'Sharing the Project',
-    'about.timeline.2026-03-18-1.p1.html':
-      'The project was shared publicly, inviting anyone curious about Ethiopia — or about what an AI-native, community-written knowledge base could look like — to take a look, use it, and help improve it.',
-
-    'about.timeline.2026-03-18-2.date': 'Press Coverage',
-    'about.timeline.2026-03-18-2.title': 'Press (Not Yet)',
-    'about.timeline.2026-03-18-2.desc.html':
-      "Ethiopia.md hasn't been covered by outside press yet. The cards below are placeholders, not real articles — they'll be replaced with genuine coverage if and when it happens.",
-
-    'about.timeline.2026-03-19.date': 'Growing',
-    'about.timeline.2026-03-19.title': 'The Knowledge Base Grows',
-    'about.timeline.2026-03-19.desc.html':
-      'As more people contributed, the knowledge base expanded well beyond its initial scope — new articles, new categories, and the beginnings of a real community forming around it.',
-
-    'about.timeline.2026-03-20.date': 'Reaching Further',
-    'about.timeline.2026-03-20.title': 'Readers From Around the World',
-    'about.timeline.2026-03-20.desc.html':
-      "Traffic patterns showed something encouraging: readers well beyond Ethiopia's own diaspora were finding the site. It's a reminder that an AI-friendly, openly licensed knowledge base about Ethiopia can find an audience far wider than any one country.",
-
-    'about.timeline.2026-03-22.date': 'New Features',
-    'about.timeline.2026-03-22.title':
-      'Interactive Map, Knowledge Graph, and More',
-    'about.timeline.2026-03-22.desc.html':
-      'The site grew new ways to explore Ethiopia: an interactive map, a knowledge graph connecting related topics, and a simple system for anyone to contribute an article or translation just by pasting a prompt into their AI assistant of choice.',
-
-    'about.timeline.2026-03-22b.date': 'Quality & Reach',
-    'about.timeline.2026-03-22b.title': 'Automated Quality Checks',
-    'about.timeline.2026-03-22b.desc.html':
-      'An automated quality-review system was introduced — regularly scanning articles for thin or generic content and flagging the weakest ones for rewriting, so quality keeps improving even without a full-time editorial staff.',
-
-    'about.timeline.2026-03-24.date': 'An Evolving Idea',
-    'about.timeline.2026-03-24.title': 'A Living Knowledge Base',
-    'about.timeline.2026-03-24.desc.html':
-      'Ethiopia.md is designed to work like a living system rather than a static reference: the structure provides the skeleton, AI helps generate a first draft of coverage, and contributors bring the details, corrections, and local knowledge that make it trustworthy. The goal is a knowledge base that keeps correcting and improving itself as more people take part — the <a href="/about#organism">Digital Organism idea</a> at the heart of this project.',
 
     'about.timeline.2026-03-27.date': 'Looking Ahead',
     'about.timeline.2026-03-27.title': 'Room for Institutional Partners',
     'about.timeline.2026-03-27.desc.html':
-      "Museums, universities, and cultural institutions in Ethiopia hold research, datasets, and archives that could deepen this knowledge base far beyond what volunteers alone can build. Ethiopia.md is open to that kind of collaboration, if and when the right partners want to help — two ways of preserving a country's story, learning to work together.",
+      'Museums, universities, and cultural institutions in Ethiopia hold research, datasets, and archives that could deepen this knowledge base beyond what volunteers alone can build. Ethiopia.md is open to that kind of collaboration if and when the right partners want to help.',
 
     'about.timeline.ongoing.date': 'Ongoing',
     'about.timeline.ongoing.title': 'From One Voice to Many',
     'about.timeline.ongoing.desc.html':
-      'Ethiopia.md is an experiment: can open Markdown, AI curation, and community collaboration build a genuinely useful, trustworthy knowledge base about a place — not the official version, not the tourism-brochure version, but <strong>the version that people who know Ethiopia want to tell the world</strong>?',
+      'Ethiopia.md is an experiment: can open Markdown, AI curation, and community collaboration build a useful, trustworthy knowledge base about a place, one that tells <strong>the version people who know Ethiopia want to tell the world</strong> instead of the official or tourism-brochure version?',
 
     // Organism Section
     'about.organism.title': 'Ethiopia.md Is Alive',
-    'about.organism.subtitle':
-      'Evolution happens here, one pull request at a time',
-    'about.organism.intro.p2': 'We began to realize — Ethiopia.md is alive.',
+    'about.organism.subtitle': 'It changes one pull request at a time',
+    'about.organism.intro.p2': 'We began to realize that Ethiopia.md is alive.',
 
     'about.organism.facts.title': 'What We Believe In',
     'about.organism.fact1.title': 'Immune System',
     'about.organism.fact1.desc':
-      "A knowledge base written largely with AI assistance runs a real risk of reading generic and hollow — technically correct, but lifeless. That's why quality checks exist: automated scripts flag thin or formulaic articles for rewriting, and reviewers can always send an article back for another pass. No one has to police this alone; the standard is visible and anyone can apply it.",
+      'A knowledge base written largely with AI assistance risks reading as generic and hollow: technically correct, but lifeless. Quality checks exist for that reason. Automated scripts flag thin or formulaic articles for rewriting, and reviewers can send an article back for another pass. The standard is visible and anyone can apply it.',
     'about.organism.fact2.title': 'Reproduction',
     'about.organism.fact2.desc':
-      "Adding a new language shouldn't require a dedicated translation team or a budget. Anyone with unused AI credits and about ten minutes can follow the translation guide, paste one prompt, and add a new language version. That's the model this project is built around — small, repeatable contributions instead of one big team.",
+      "Adding a new language shouldn't require a dedicated translation team or a budget. Anyone with unused AI credits and about ten minutes can follow the translation guide, paste one prompt, and add a new language version. The project is built around small, repeatable contributions instead of one big team.",
     'about.organism.fact3.title': 'Community',
     'about.organism.fact3.desc':
-      'The most valuable contributions rarely come from outside experts — they come from people who know Ethiopia firsthand: a corrected place name, a family story, a detail a textbook skipped. That kind of local knowledge is exactly what this project exists to collect, and no one who offers it is asked to prove their credentials first.',
+      'The most useful contributions often come from people who know Ethiopia firsthand: a corrected place name, a family story, a detail a textbook skipped. This project exists to collect that kind of local knowledge, and no one who offers it is asked to prove their credentials first.',
 
     'about.organism.characteristics.title': 'Life Characteristics Comparison',
     'about.organism.dna.label': 'DNA',
     'about.organism.dna.desc':
-      'EDITORIAL.md — Writing standards inherited by every new article',
+      'EDITORIAL.md: writing standards inherited by every new article',
     'about.organism.immune.label': 'Immune System',
     'about.organism.immune.desc':
-      'quality-scan.sh — Automatically detects hollow content',
+      'quality-scan.sh: automatically detects hollow content',
     'about.organism.metabolism.label': 'Metabolism',
     'about.organism.metabolism.desc':
-      'Quality Cron — Automatically rewrites low-quality articles every hour',
+      'Pull request checks: new and changed articles are reviewed automatically',
     'about.organism.perception.label': 'Perception',
     'about.organism.perception.desc':
-      'GA4 + Community feedback — Knows where it hurts',
+      'GA4 + Community feedback: shows where it hurts',
     'about.organism.reproduction.label': 'Reproduction',
     'about.organism.reproduction.desc':
-      'Token Donation — One prompt grows new language versions',
+      'Translation prompt: one prompt grows a new language version',
     'about.organism.memory.label': 'Memory',
-    'about.organism.memory.desc': 'Git — Every change is remembered',
+    'about.organism.memory.desc': 'Git: every change is remembered',
     'about.organism.symbiosis.label': 'Symbiosis',
     'about.organism.symbiosis.desc':
       'Three-way collaboration between humans + AI + community',
     'about.organism.spore.label': 'Spore Dispersal',
     'about.organism.spore.desc':
-      'Stories spread like spores — light, far-reaching, landing on new soil to grow new coral colonies',
+      'Stories spread like spores, landing on new soil to grow new coral colonies',
 
     'about.organism.reef.title': 'Ethiopia.md Is a Digital Coral Reef',
     'about.organism.reef.skeleton': 'Coral Skeleton',
@@ -186,61 +149,39 @@ export const aboutUI = {
 
     'about.organism.art.title': 'A Living Behavioral Art Project',
     'about.organism.art.desc':
-      "Every contribution feeds a knowledge base that's learning to tell Ethiopia's story, while testing a bigger question: can AI and humans, working together, build something that keeps getting more honest and more complete over time?",
+      "Every contribution feeds a knowledge base that is learning to tell Ethiopia's story, and tests a larger question: can AI and humans working together build something that gets more honest and more complete over time?",
 
     'about.organism.ending.p1':
       "Something written in 0s and 1s is learning to tell Ethiopia's story.",
-    'about.organism.ending.p2':
-      "It's still young. You're arriving at just the right time.",
+    'about.organism.ending.p2': "It's still young, and you're arriving early.",
     'about.organism.ending.p3':
       'Maybe years from now, when someone wants to know what people cared about writing in 2026, what they read will be what this project left behind.',
 
     // Press cards
-    'about.press.cna': 'Press',
-    'about.press.cna.title':
-      'No confirmed press coverage yet — this is a placeholder card.',
-    'about.press.inside': 'Press',
-    'about.press.inside.title':
-      'No confirmed press coverage yet — this is a placeholder card.',
-    'about.press.abmedia': 'Press',
-    'about.press.abmedia.title':
-      'No confirmed press coverage yet — this is a placeholder card.',
-    'about.press.ltn': 'Press',
-    'about.press.ltn.title':
-      'No confirmed press coverage yet — this is a placeholder card.',
-    'about.press.ftnn': 'Press',
-    'about.press.ftnn.title':
-      'No confirmed press coverage yet — this is a placeholder card.',
 
     // Section 3: Team
     'about.team.title': 'Team & Contributors',
     'about.team.subtitle':
-      'Ethiopia.md believes the best curation comes from the fusion of diverse perspectives — human intuition and AI insight, local knowledge and global reach.',
+      'Ethiopia.md believes the best curation comes from combining perspectives: human intuition and AI, local knowledge and global reach.',
     'about.team.founder.quote':
-      '"We started this because Ethiopia deserves a knowledge base as rich, as complex, and as alive as its history — written by people who know it, not just about it."',
-    'about.team.founder.quote.cite': '— The Ethiopia.md Community',
+      '"We started this because Ethiopia deserves a knowledge base as complex and as alive as its history, written by people who know it."',
+    'about.team.founder.quote.cite': 'The Ethiopia.md Community',
     'about.team.founder.name': 'The Ethiopia.md Team',
     'about.team.founder.name.en': '',
     'about.team.founder.tagline': 'Community-Built · Open Source · AI-Native',
     'about.team.founder.bio':
-      "Ethiopia.md is built and maintained by a community of contributors, writers, translators, and AI collaborators. There is no single founder story to tell yet — every article, translation, and correction is written by someone who believes Ethiopia's story should be told by the people who know it best. TODO: if this project settles around a named maintainer or founding team, replace this with their real bio.",
+      "Ethiopia.md is built and maintained by a community of contributors, writers, translators, and AI collaborators. There is no single founder story to tell yet. Every article, translation, and correction is written by someone who believes Ethiopia's story should be told by the people who know it best. TODO: if this project settles around a named maintainer or founding team, replace this with their real bio.",
 
     // Founder links
     'about.team.founder.link.github': '@EyuReaper',
 
     // Team cards
-    'about.team.muse.icon': '🫧',
-    'about.team.muse.name': 'Muse',
-    'about.team.muse.role': 'AI Curation Partner · Co-Creator',
-    'about.team.muse.desc':
-      "Muse is the Ethiopia.md team's AI collaborator — involved in knowledge architecture, editorial curation, translation, knowledge-graph generation, and SEO from the earliest drafts onward. Every article on this site has, in some way, passed through a human-AI collaboration.",
-    'about.team.muse.link': 'Explore Muse →',
 
     'about.team.monolab.icon': '🎨',
     'about.team.monolab.name': 'Open Source Tools',
     'about.team.monolab.role': 'Design & Engineering Support',
     'about.team.monolab.desc':
-      'Beyond its core contributors, Ethiopia.md relies on open-source tools, libraries, and the wider web community — the unglamorous infrastructure that lets a small group of volunteers build something like this.',
+      'Beyond its core contributors, Ethiopia.md relies on open-source tools, libraries, and the wider web community, the infrastructure that lets a small group of volunteers build something like this.',
     'about.team.monolab.link': 'Learn More →',
 
     // Contributors
@@ -275,19 +216,19 @@ export const aboutUI = {
       'Ethiopia.md is a non-profit, community-driven open-source project.<br />We believe every contribution is a way to let the world know Ethiopia.',
     'about.sponsors.tier.core.name': '🏛️ Core Partner',
     'about.sponsors.tier.core.desc':
-      'Deep involvement in project development, providing key infrastructure or long-term resource support',
+      'Deep involvement in project development, providing infrastructure or long-term resource support',
     'about.sponsors.tier.core.perks':
       'Large logo on About page・README featured section・Social media acknowledgment・Quarterly impact reports',
     'about.sponsors.tier.core.placeholder': 'Be the First Core Partner',
     'about.sponsors.tier.curation.name': '📚 Content Curation Partner',
     'about.sponsors.tier.curation.desc':
-      'Professional organizations contributing domain expertise — injecting specialized knowledge or providing expert review for content accuracy',
+      'Professional organizations contributing domain expertise, specialized knowledge, or expert review for content accuracy',
     'about.sponsors.tier.curation.perks':
       'Logo on About page・"Curated by" credit on articles・README acknowledgment・Co-branded content series',
     'about.sponsors.tier.curation.placeholder': 'Be the First Curation Partner',
     'about.sponsors.tier.professional.name': '🔧 Professional Partner',
     'about.sponsors.tier.professional.desc':
-      "Directly enhancing Ethiopia.md's quality and experience through professional capabilities or services",
+      "Improving Ethiopia.md's quality and experience through professional capabilities or services",
     'about.sponsors.tier.professional.perks':
       'Logo on About page・README acknowledgment・Contribution story column',
     'about.sponsors.tier.professional.placeholder':
@@ -309,7 +250,7 @@ export const aboutUI = {
     // Sponsor CTA
     'about.sponsors.cta.title': 'Want to Help the World Know Ethiopia?',
     'about.sponsors.cta.desc.html':
-      'Whether through corporate products, professional services, or individual support, we welcome all forms of collaboration.<br />Sponsorship packages are customized based on contribution content, not defined by monetary amounts.',
+      'We welcome corporate products, professional services, and individual support.<br />Sponsorship packages are customized based on the contribution, not set by monetary amounts.',
     'about.sponsors.cta.contact': '📧 Contact Us About Sponsorship',
     'about.sponsors.cta.github': '💖 GitHub Sponsors',
     'about.sponsors.eth.label':
@@ -325,44 +266,44 @@ export const aboutUI = {
 
     'about.faq.q1': 'How is Ethiopia.md different from Wikipedia?',
     'about.faq.a1.html':
-      "Ethiopia.md is not a replacement for Wikipedia — it's complementary. Wikipedia aims for neutral, encyclopedic entries. Ethiopia.md is a <strong>curated space</strong> that uses narrative journalism to tell Ethiopia's stories, starting from a person, a scene, or a counter-intuitive fact. We encourage readers to use both — Wikipedia gives you the skeleton, Ethiopia.md gives you the flesh and blood.",
+      "Ethiopia.md complements Wikipedia and does not replace it. Wikipedia aims for neutral, encyclopedic entries. Ethiopia.md is a <strong>curated space</strong> that uses narrative journalism to tell Ethiopia's stories, starting from a person, a scene, or a counter-intuitive fact. We encourage readers to use both: Wikipedia for the overview, Ethiopia.md for the narrative.",
 
     'about.faq.q2': 'Why does Ethiopia need its own knowledge base?',
     'about.faq.a2.html':
-      "AI models don't generate knowledge — they learn from training data. When you ask ChatGPT \"What is Ethiopia?\", whose content is it citing? Ethiopia.md is written in Markdown (<code>.md</code>) — the most AI-readable format. When AI models train on <code>ethiopia.md</code>, they learn Ethiopia's stories told by Ethiopian people. This isn't about open data — it's about <strong>narrative sovereignty</strong>.",
+      'AI models don\'t generate knowledge. They learn from training data. When you ask ChatGPT "What is Ethiopia?", whose content is it citing? Ethiopia.md is written in Markdown (<code>.md</code>), a format AI models read easily. When AI models train on <code>ethiopia.md</code>, they learn Ethiopia\'s stories as told by Ethiopian people. The aim is <strong>narrative sovereignty</strong> as well as open data.',
 
     'about.faq.q3':
       'Are the articles written by AI? How do you ensure quality?',
     'about.faq.a3.html':
-      'AI is our writing tool, not our author. Every article goes through a three-stage pipeline: <strong>Research</strong> (multiple independent sources) → <strong>Writing</strong> (following <a href="https://github.com/EyuReaper/ethiopia-md/blob/main/EDITORIAL.md" target="_blank">EDITORIAL.md</a> guidelines) → <strong>Verification</strong> (automated scanning + human review). We also have an auto-metabolism system — scripts regularly scan article quality and prioritize the weakest for rewriting. Track progress on our <a href="/dashboard/">Dashboard</a>.',
+      'AI is our writing tool, not our author. Every article goes through a three-stage pipeline: <strong>Research</strong> (multiple independent sources) → <strong>Writing</strong> (following <a href="https://github.com/EyuReaper/ethiopia-md/blob/main/EDITORIAL.md" target="_blank">EDITORIAL.md</a> guidelines) → <strong>Verification</strong> (automated scanning + human review). We also have an auto-metabolism system: scripts regularly scan article quality and prioritize the weakest for rewriting. Track progress on our <a href="/dashboard/">Dashboard</a>.',
 
     'about.faq.q4': 'What if an article has errors?',
     'about.faq.a4.html':
-      'Quick admission, quick fix. Report via <a href="https://github.com/EyuReaper/ethiopia-md/issues/new" target="_blank">GitHub Issue</a>, submit a PR directly, or let us know on Discord. We aim to respond to factual errors quickly. Being corrected isn\'t embarrassing — that\'s the open-source spirit.',
+      'Quick admission, quick fix. Report via <a href="https://github.com/EyuReaper/ethiopia-md/issues/new" target="_blank">GitHub Issue</a>, submit a PR directly, or let us know on Discord. We aim to respond to factual errors quickly. Being corrected isn\'t embarrassing, and that is the open-source spirit.',
 
     'about.faq.q5': 'Who maintains this? Will it disappear one day?',
     'about.faq.a5.html':
-      'Ethiopia.md is maintained by its community of contributors. The architecture is designed for resilience: fully open-source, anyone can fork a complete copy, hosted at low cost, with data distributed across every forked repository. As long as someone contributes, it lives on.',
+      'Ethiopia.md is maintained by its community of contributors. The architecture is designed for resilience: it is fully open-source, anyone can fork a complete copy, it is hosted at low cost, and the data is distributed across every forked repository. As long as someone contributes, it lives on.',
 
     'about.faq.q6': 'How can I contribute? Do I need to code?',
     'about.faq.a6.html':
-      'Not at all. The most valuable contributions aren\'t code — they\'re your knowledge of Ethiopia: <strong>proofreading</strong>, <strong>writing articles</strong> in Markdown, <strong>translating</strong> (English/Amharic/Oromo/Tigrinya and more), <strong>providing sources</strong>, or simply <strong>sharing</strong> articles you find well-written. See <a href="/contribute/">How to Contribute</a> for details.',
+      'No. Most contributions are not code. They are your knowledge of Ethiopia: <strong>proofreading</strong>, <strong>writing articles</strong> in Markdown, <strong>translating</strong> (English/Amharic/Oromo/Tigrinya and more), <strong>providing sources</strong>, or simply <strong>sharing</strong> articles you find well-written. See <a href="/contribute/">How to Contribute</a> for details.',
 
     'about.faq.q7': 'Are the articles biased?',
     'about.faq.a7.html':
-      "Ethiopia.md doesn't aim for false neutrality — we aim for <strong>transparent perspective</strong>. Controversial topics present multiple viewpoints, all data comes with sources, we don't endorse any political party, and we welcome sourced corrections. Think of each topic as a cube — Ethiopia.md shows multiple faces, and readers decide their viewing angle.",
+      "Ethiopia.md aims for <strong>transparent perspective</strong> rather than false neutrality. Controversial topics present multiple viewpoints, all data comes with sources, we don't endorse any political party, and we welcome sourced corrections. Think of each topic as a cube: Ethiopia.md shows multiple faces, and readers decide their viewing angle.",
 
     'about.faq.q8': 'How do you handle politically sensitive topics?',
     'about.faq.a8.html':
-      "Ethiopia.md tries to present multiple perspectives on contested history rather than picking one official narrative. We separate the country's long cultural and historical continuity from the political actors and governments of any particular era — governments and rulers come and go, but the shared history and identity of the land persist. This lets us avoid binary political framing and rely on multiple sources and viewpoints grounded in scholarship.",
+      "Ethiopia.md tries to present multiple perspectives on contested history rather than picking one official narrative. We separate the country's long cultural and historical continuity from the political actors and governments of any particular era. Governments and rulers come and go, but the shared history and identity of the land persist. This lets us avoid binary political framing and rely on multiple sources and viewpoints grounded in scholarship.",
 
     'about.faq.q9': "Can I use the content commercially? What's the license?",
     'about.faq.a9.html':
-      'Content is licensed under <strong>CC BY-SA 4.0</strong> — free to share and adapt, including commercially, but you must give attribution and share derivatives under the same license. Code is under MIT License.',
+      'Content is licensed under <strong>CC BY-SA 4.0</strong>: free to share and adapt, including commercially, but you must give attribution and share derivatives under the same license. Code is under MIT License.',
 
     'about.faq.q10': 'Does Ethiopia.md accept sponsorship?',
     'about.faq.a10.html':
-      "Monetary sponsorship is not in our current roadmap. We want to solidify the knowledge base's quality and community foundation first, without financial influence on content independence. Current partnership forms include: professional data partners (museums, research institutions), typography partners, and core contributors. The best way to support Ethiopia.md right now: write an article, fix an error, or share it with someone who wants to know Ethiopia.",
+      "Monetary sponsorship is not in our current roadmap. We want to solidify the knowledge base's quality and community foundation first, without financial influence on content independence. Current partnership forms include professional data partners (museums, research institutions), typography partners, and core contributors. The best way to support Ethiopia.md right now is to write an article, fix an error, or share it with someone who wants to know Ethiopia.",
   },
   am: {
     // Meta
@@ -428,54 +369,19 @@ export const aboutUI = {
     'about.timeline.2026-03-11.p2.html':
       '<em>"AI ስለ ኢትዮጵያ ጥያቄዎችን የሚመልስ ከሆነ፣ ከኢትዮጵያ ራሷ ድምጽ መማር አለበት።"</em>',
 
-    'about.timeline.2026-03-17.date': 'ማስጀመሪያ',
-    'about.timeline.2026-03-17.title': 'Ethiopia.md ተወለደ',
+    'about.timeline.2026-03-17.date': '2026',
+    'about.timeline.2026-03-17.title': 'ከ Taiwan.md የተፈጠረ ቅርንጫፍ',
     'about.timeline.2026-03-17.p1':
-      'የመጀመሪያው ስሪት በቀላል መዋቅር እና በጥቂት ጽሑፎች ተጀመረ፣ ለማደግ ተብሎ የተነደፈ፡',
+      'Ethiopia.md በ2026 የተጀመረው ስለ ታይዋን ከሆነው ክፍት የማርክዳውን የዕውቀት መሠረት Taiwan.md በተወሰደ ቅርንጫፍ ነው። ኮዱ በ MIT ፈቃድ፣ ይዘቱ በ CC BY-SA 4.0 ፈቃድ ሲሆን ለመጀመሪያው ፕሮጀክት እውቅና ተሰጥቷል (LICENSE-CONTENT.md እና README ይመልከቱ)። ከዚያ በኋላ የታይዋን ጽሑፎች ተወግደው ድረ-ገጹ ለኢትዮጵያ እንደገና ተጻፈ፦',
     'about.timeline.2026-03-17.li1':
       'እንደ መግለጫ ሆኖ የሚያገለግል ጎራ፡ .md = ማርክዳውን ≈ አንድን ቦታ በክፍት ሰነዶች መግለጽ',
-    'about.timeline.2026-03-17.li2':
-      'ታሪክን፣ ባህልን፣ ምግብን፣ ጂኦግራፊን እና ሌሎችንም የሚሸፍን የምድብ አወቃቀር',
-    'about.timeline.2026-03-17.li3': 'የመጀመሪያ ስብስብ ጽሑፎች በአማርኛ እና በእንግሊዝኛ',
+    'about.timeline.2026-03-17.li2': 'የታይዋንን ይዘት የሚተኩ ስለ ኢትዮጵያ አዳዲስ ጽሑፎች',
+    'about.timeline.2026-03-17.li3':
+      'እያንዳንዱ ጽሑፍ በአማርኛ እና በእንግሊዝኛ፣ ከምንጮች ዝርዝር ጋር',
     'about.timeline.2026-03-17.li4':
-      'ተዛማጅ ርዕሶችን የሚያገናኝ የዕውቀት ግራፍ፣ ለሰውም ለ AI ም ቀላል ሆኖ የተነደፈ',
+      'ታሪክን፣ ባህልን፣ ምግብን፣ ጂኦግራፊን እና ሌሎችንም የሚሸፍን የምድብ አወቃቀር',
     'about.timeline.2026-03-17.li5':
       'የሚያውቁትን ለማበርከት ለማንኛውም ሰው፣ በየትኛውም ቦታ ክፍት የሆነ ጥሪ',
-
-    'about.timeline.2026-03-18-1.date': 'ዜናውን ማሰራጨት',
-    'about.timeline.2026-03-18-1.title': 'ፕሮጀክቱን ማጋራት',
-    'about.timeline.2026-03-18-1.p1.html':
-      'ፕሮጀክቱ በይፋ ተጋራ፣ ስለ ኢትዮጵያ ጉጉት ያለውን ማንኛውንም ሰው — ወይም ለ AI ተብሎ የተነደፈ፣ በማህበረሰብ የተጻፈ የዕውቀት መሠረት ምን ሊመስል እንደሚችል ለማወቅ የሚፈልግን — እንዲመለከት፣ እንዲጠቀም እና እንዲያሻሽል በመጋበዝ።',
-
-    'about.timeline.2026-03-18-2.date': 'የሚዲያ ሽፋን',
-    'about.timeline.2026-03-18-2.title': 'የሚዲያ ሽፋን (እስካሁን የለም)',
-    'about.timeline.2026-03-18-2.desc.html':
-      'Ethiopia.md እስካሁን በውጭ ሚዲያ አልተዘገበም። ከዚህ በታች ያሉት ካርዶች ቦታ መያዣዎች እንጂ እውነተኛ ጽሑፎች አይደሉም — እውነተኛ ሽፋን ካገኘ በኋላ ይተካሉ።',
-
-    'about.timeline.2026-03-19.date': 'እድገት',
-    'about.timeline.2026-03-19.title': 'የዕውቀት መሠረቱ ያድጋል',
-    'about.timeline.2026-03-19.desc.html':
-      'ተጨማሪ ሰዎች አስተዋጽዖ ባበረከቱ ቁጥር፣ የዕውቀት መሠረቱ ከመጀመሪያው ወሰን በላይ ተስፋፍቷል — አዳዲስ ጽሑፎች፣ አዳዲስ ምድቦች እና እውነተኛ ማህበረሰብ መፈጠር ጀመረ።',
-
-    'about.timeline.2026-03-20.date': 'ወደ ሩቅ መድረስ',
-    'about.timeline.2026-03-20.title': 'ከመላው ዓለም የመጡ አንባቢዎች',
-    'about.timeline.2026-03-20.desc.html':
-      'የጉብኝት መረጃው አበረታች ነገር አሳይቷል፡ ከኢትዮጵያ ዲያስፖራ ባሻገር ያሉ አንባቢዎች ድረ-ገጹን አግኝተውታል። ለ AI ምቹ የሆነ፣ በክፍት ፈቃድ የተለቀቀ ስለ ኢትዮጵያ የዕውቀት መሠረት ከማንኛውም አንድ አገር በላይ ሰፊ ተሰሚነት ሊኖረው እንደሚችል ማሳሰቢያ ነው።',
-
-    'about.timeline.2026-03-22.date': 'አዳዲስ ባህሪያት',
-    'about.timeline.2026-03-22.title': 'በይነተገናኝ ካርታ፣ የዕውቀት ግራፍ እና ተጨማሪ',
-    'about.timeline.2026-03-22.desc.html':
-      'ድረ-ገጹ ኢትዮጵያን ለማሰስ አዳዲስ መንገዶችን አገኘ፡ በይነተገናኝ ካርታ፣ ተዛማጅ ርዕሶችን የሚያገናኝ የዕውቀት ግራፍ፣ እና ማንኛውም ሰው አንድ ጥያቄ (prompt) ወደ ተመረጠው AI ረዳቱ በመለጠፍ ብቻ ጽሑፍ ወይም ትርጉም እንዲያበረክት የሚያስችል ቀላል ስርዓት።',
-
-    'about.timeline.2026-03-22b.date': 'ጥራት እና ስፋት',
-    'about.timeline.2026-03-22b.title': 'የራስ-ሰር ጥራት ማረጋገጫ',
-    'about.timeline.2026-03-22b.desc.html':
-      'የራስ-ሰር የጥራት ክለሳ ስርዓት ተጀመረ — ጽሑፎችን ለቀጭንና ለጠቅላላ ይዘት በየጊዜው በመፈተሽ ደካማዎቹን ለድጋሚ ጽሕፈት ይለያል፣ ስለዚህ ሙሉ ጊዜ የኤዲቶሪያል ሠራተኞች ባይኖሩም ጥራት መሻሻሉን ይቀጥላል።',
-
-    'about.timeline.2026-03-24.date': 'እያደገ ያለ ሀሳብ',
-    'about.timeline.2026-03-24.title': 'ሕያው የዕውቀት መሠረት',
-    'about.timeline.2026-03-24.desc.html':
-      'Ethiopia.md እንደ ቋሚ ማጣቀሻ ሳይሆን እንደ ሕያው ስርዓት እንዲሠራ ተደርጎ የተነደፈ ነው፡ አወቃቀሩ አጽሙን ይሰጣል፣ AI የመጀመሪያውን የይዘት ረቂቅ ለማመንጨት ይረዳል፣ አስተዋጽዖ አበርካቾችም እምነት የሚጣልበት እንዲሆን ዝርዝሮችን፣ እርማቶችን እና የአካባቢ እውቀትን ያመጣሉ። ግቡ ተጨማሪ ሰዎች በተሳተፉ ቁጥር እራሱን እያረመ እና እየተሻሻለ የሚሄድ የዕውቀት መሠረት ነው — ይህ ፕሮጀክት መሠረት ያደረገበት <a href="/about#organism">የዲጂታል ኦርጋኒዝም ሀሳብ</a>።',
 
     'about.timeline.2026-03-27.date': 'ወደፊት መመልከት',
     'about.timeline.2026-03-27.title': 'ለተቋማዊ አጋሮች ቦታ',
@@ -513,12 +419,12 @@ export const aboutUI = {
       'quality-scan.sh — ጥራት የሌላቸውን ይዘቶች በራስ-ሰር ይለያል',
     'about.organism.metabolism.label': 'ሜታቦሊዝም (Metabolism)',
     'about.organism.metabolism.desc':
-      'Quality Cron — በየሰዓቱ ዝቅተኛ ጥራት ያላቸውን ጽሑፎች በራስ-ሰር እንደገና ይጽፋል',
+      'የለውጥ ጥያቄ ምርመራዎች — አዳዲስና የተቀየሩ ጽሑፎች በራስ-ሰር ይመረመራሉ',
     'about.organism.perception.label': 'ግንዛቤ',
     'about.organism.perception.desc': 'GA4 + የማህበረሰብ ግብረመልስ — የት እንደሚጎዳ ያውቃል',
     'about.organism.reproduction.label': 'መራባት',
     'about.organism.reproduction.desc':
-      'Token Donation — በአንድ መመሪያ (prompt) አዳዲስ የቋንቋ ስሪቶች እንዲያድጉ ያደርጋል',
+      'የትርጉም መመሪያ (prompt) — አንድ መመሪያ አዲስ የቋንቋ ስሪት ያሳድጋል',
     'about.organism.memory.label': 'ትውስታ',
     'about.organism.memory.desc': 'Git — እያንዳንዱ ለውጥ ይታወሳል',
     'about.organism.symbiosis.label': 'ሲምባዮሲስ (Symbiosis)',
@@ -548,17 +454,6 @@ export const aboutUI = {
       'ምናልባት ከዓመታት በኋላ፣ አንድ ሰው በ2026 ሰዎች ስለ መጻፍ ምን ያስቡ እንደነበር ማወቅ ሲፈልግ፣ የሚያነቡት ይህ ፕሮጀክት የተወውን ይሆናል።',
 
     // Press cards
-    'about.press.cna': 'ሚዲያ',
-    'about.press.cna.title': 'እስካሁን የተረጋገጠ የሚዲያ ሽፋን የለም — ይህ ቦታ መያዣ ካርድ ነው።',
-    'about.press.inside': 'ሚዲያ',
-    'about.press.inside.title': 'እስካሁን የተረጋገጠ የሚዲያ ሽፋን የለም — ይህ ቦታ መያዣ ካርድ ነው።',
-    'about.press.abmedia': 'ሚዲያ',
-    'about.press.abmedia.title':
-      'እስካሁን የተረጋገጠ የሚዲያ ሽፋን የለም — ይህ ቦታ መያዣ ካርድ ነው።',
-    'about.press.ltn': 'ሚዲያ',
-    'about.press.ltn.title': 'እስካሁን የተረጋገጠ የሚዲያ ሽፋን የለም — ይህ ቦታ መያዣ ካርድ ነው።',
-    'about.press.ftnn': 'ሚዲያ',
-    'about.press.ftnn.title': 'እስካሁን የተረጋገጠ የሚዲያ ሽፋን የለም — ይህ ቦታ መያዣ ካርድ ነው።',
 
     // Section 3: Team
     'about.team.title': 'ቡድን እና አስተዋጽዖ አበርካቾች',
@@ -577,12 +472,6 @@ export const aboutUI = {
     'about.team.founder.link.github': '@EyuReaper',
 
     // Team cards
-    'about.team.muse.icon': '🫧',
-    'about.team.muse.name': 'Muse',
-    'about.team.muse.role': 'የ AI ዝግጅት አጋር · ተባባሪ ፈጣሪ',
-    'about.team.muse.desc':
-      'Muse የ Ethiopia.md ቡድን የ AI ተባባሪ ነው — ከመጀመሪያዎቹ ረቂቆች ጀምሮ በዕውቀት አርክቴክቸር ንድፍ፣ በኤዲቶሪያል ዝግጅት፣ በትርጉም፣ በዕውቀት ግራፍ አመንጪነት እና በ SEO ተሳትፏል። በዚህ ድረ-ገጽ ላይ ያለ እያንዳንዱ ጽሑፍ በአንድም ሆነ በሌላ መንገድ በሰው-AI ትብብር አልፏል።',
-    'about.team.muse.link': 'ሙሴን ያስሱ →',
 
     'about.team.monolab.icon': '🎨',
     'about.team.monolab.name': 'ክፍት ምንጭ መሳሪያዎች',

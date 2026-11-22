@@ -51,7 +51,7 @@ Reported temperatures vary with the record used. Geology.com gives an average da
 
 ## Life at the limit
 
-A 2019 study in _Nature Ecology & Evolution_ sampled the Dallol–Danakil area along gradients of extreme acidity, salinity and temperature. The authors identified two physicochemical barriers to life where liquid water is present: very high chaotropicity and low water activity in magnesium- and calcium-rich brines, and the combination of hyperacidity (pH around 0) with salt saturation. Where life did occur it was dominated by diverse, ultrasmall archaea. They also found cells being silicified, and non-living structures that mimic cells, which they say calls for caution in interpreting biosignatures on Earth and beyond. [Belilla et al., Nature Ecology & Evolution (2019): Hyperdiverse archaea near life limits at the polyextreme geothermal Dallol area](https://doi.org/10.1038/s41559-019-1005-0)
+A 2019 study in _Nature Ecology & Evolution_ sampled the Dallol-Danakil area along gradients of extreme acidity, salinity and temperature. The authors identified two physicochemical barriers to life where liquid water is present: very high chaotropicity and low water activity in magnesium- and calcium-rich brines, and the combination of hyperacidity (pH around 0) with salt saturation. Where life did occur it was dominated by diverse, ultrasmall archaea. They also found cells being silicified, and non-living structures that mimic cells, which they say calls for caution in interpreting biosignatures on Earth and beyond. [Belilla et al., Nature Ecology & Evolution (2019): Hyperdiverse archaea near life limits at the polyextreme geothermal Dallol area](https://doi.org/10.1038/s41559-019-1005-0)
 
 ## The salt trade
 

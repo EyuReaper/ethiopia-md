@@ -32,7 +32,7 @@ export const categoryEmoji = {
 };
 
 /**
- * Category to Chinese label mapping
+ * Category to Amharic label mapping
  */
 // Keep in sync with the `am` block of src/i18n/ui.ts (categoryConfig.* keys)
 export const categoryLabel = {

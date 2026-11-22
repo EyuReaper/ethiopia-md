@@ -19,14 +19,14 @@ export const homeUI = {
     'home.hero.transparency.link': 'Let us know',
     'home.cover.heading': 'How to Understand Ethiopia?',
     'home.cover.lead':
-      "Ethiopia spans over a million square kilometers of highlands and rift valley, yet it contains all the world's complexity.",
+      'Ethiopia spans over a million square kilometers of highlands and rift valley, and its history and peoples are correspondingly complex.',
     'home.cover.lead2':
       'For centuries, everyone who set foot on this land has seen a different Ethiopia through different eyes.',
     'home.cover.closing1':
-      "From the ancient kingdoms of Aksum and D'mt to the victory at Adwa, from imperial rule to a federal republic. Ethiopia's story is not a straight line, but a web.",
-    'home.cover.closing2': "Ethiopia.md doesn't aim to give you answers.",
+      "From the ancient kingdoms of Aksum and D'mt to the victory at Adwa, from imperial rule to a federal republic. Ethiopia's story branches in many directions at once.",
+    'home.cover.closing2': 'Ethiopia.md does not try to give you answers.',
     'home.cover.closing3':
-      'What we want to do is give you a map - a map that lets you walk into Ethiopia yourself.',
+      'It offers a map you can use to walk into Ethiopia yourself.',
     'home.cover.link': 'Read the complete collection of quotes →',
     'home.cover.era.indigenous': 'Indigenous Peoples',
     'home.cover.era.early': 'Early Encounters',
@@ -59,27 +59,26 @@ export const homeUI = {
     'home.random.button': 'Discover Ethiopia Randomly',
     'home.random.subtitle': 'Explore unexpected stories',
     'home.random.description':
-      "Don't know what to read? Let us guide you to Ethiopia's hidden treasures!",
+      "Don't know what to read? Let us pick an article for you.",
     'home.categories.heading': 'Discover Ethiopia',
-    'home.categories.divider': '12 Topics',
+    'home.categories.divider': 'Topics',
     'home.lang.heading': '🖊️ Why Amharic?',
     'home.lang.p1':
-      "Ethiopia.md chooses <strong>Amharic</strong> as the default language - this is not just a technical decision, it's a cultural statement.",
+      'Ethiopia.md uses <strong>Amharic</strong> as the default language. The choice is cultural as well as technical.',
     'home.lang.p2':
-      "Amharic is written in the Ge'ez script (fidel), one of the few indigenous African writing systems still in daily use. Every letter carries centuries of cultural memory. When you open this website and see these characters, you're not just reading text - you're reading a living cultural heritage.",
+      "Amharic is written in the Ge'ez script (fidel), one of the few indigenous African writing systems still in daily use. Its letters carry centuries of cultural memory, and they are still in everyday use.",
     'home.lang.p3.prefix': 'We also provide a ',
     'home.lang.p3.linkText': 'English version',
     'home.lang.p3.suffix':
-      ", but we insist on letting Amharic stand in front. AI can understand it, search engines can understand it, and you - even if you can't read it, that's fine - this beauty itself is worth being seen.",
+      ", but Amharic comes first. AI and search engines can read it, and its script is worth seeing even if you can't read it.",
     'home.lang.en':
-      "Ethiopia uses the Ge'ez script, one of the few indigenous African writing systems still in daily use. We believe our language and culture deserve to be seen and understood. Even if you can't read it, its beauty speaks for itself. This English version serves as a bridge to help the world discover Ethiopia's richness.",
+      "Ethiopia uses the Ge'ez script, one of the few indigenous African writing systems still in daily use. We believe our language and culture deserve to be seen and understood, even by people who can't read the script. This English version is a bridge to help the world discover Ethiopia.",
     'home.updates.heading': 'Live Updates',
-    'home.updates.subtitle':
-      'Ethiopia.md is growing — latest content additions and site improvements',
+    'home.updates.subtitle': 'Latest content additions and site improvements',
     'home.updates.viewAll': 'View full update history →',
     'home.newsletter.heading': '📬 Subscribe to Ethiopia.md',
     'home.newsletter.description':
-      "Get notified when we publish major updates, new articles, or community events. We won't spam — every email is worth opening.",
+      "Get notified when we publish major updates, new articles, or community events. We won't spam you.",
     'home.newsletter.submit': 'Subscribe',
     'home.newsletter.success': 'Thanks for subscribing!',
     'home.newsletter.note':
@@ -92,19 +91,18 @@ export const homeUI = {
     'home.features.title': 'Why Ethiopia.md?',
     'home.features.curated.title': 'Curated Perspectives',
     'home.features.curated.desc':
-      'Carefully curated deep narratives, not encyclopedic listings',
+      'Curated narratives instead of encyclopedic listings',
     'home.features.ai.title': 'AI-Friendly Design',
     'home.features.ai.desc':
       "Structured content that helps AI understand Ethiopia's complexity",
     'home.features.bilingual.title': 'Bilingual Global Vision',
     'home.features.bilingual.desc':
-      "Starting from local perspectives, telling Ethiopia's story in global languages",
+      "Telling Ethiopia's story in global languages, starting from local perspectives",
     'home.features.complete.title': 'Complete Multi-dimensional',
-    'home.features.complete.desc':
-      "Covering 12+ domains, presenting Ethiopia's three-dimensional complete picture",
+    'home.features.complete.desc': 'Covering 12+ domains of Ethiopian life',
     'home.readingPath.title': "📖 Don't know where to start?",
     'home.readingPath.subtitle':
-      'Discover the real Ethiopia in 30 minutes with these 5 essential articles',
+      'Get to know Ethiopia in 30 minutes with these 5 articles',
     'home.readingPath.continue': 'Continue exploring more topics →',
   },
   am: {
@@ -163,7 +161,7 @@ export const homeUI = {
     'home.random.subtitle': 'ያልተጠበቁ ታሪኮችን ያስሱ',
     'home.random.description': 'ምን እንደሚያነቡ አያውቁም? ወደ ኢትዮጵያ ድብቅ ሀብቶች እንመራዎታለን！',
     'home.categories.heading': 'ኢትዮጵያን ይወቁ',
-    'home.categories.divider': '12 ርዕሰ ጉዳዮች',
+    'home.categories.divider': 'ርዕሰ ጉዳዮች',
     'home.lang.heading': '🖊️ ለምን አማርኛ？',
     'home.lang.p1':
       'Ethiopia.md <strong>አማርኛን</strong> እንደ ነባሪ ቋንቋ ይመርጣል - ይህ የቴክኒክ ውሳኔ ብቻ ሳይሆን የባህል መገለጫ ነው።',
